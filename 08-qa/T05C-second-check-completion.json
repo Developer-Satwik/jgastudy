@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-01",
+  "status": "completed_internal_cash_second_challenge_required_integration_refinements_recorded",
+  "new_source_routes": 7,
+  "canonical_source_reuses": 11,
+  "new_claim_records": 18,
+  "canonical_sources": 273,
+  "canonical_claims": 563,
+  "preserved_internal_findings": 81,
+  "source_records_with_primary_originals": 192,
+  "new_routes_with_primary_originals": 5,
+  "new_reader_only_routes": 2,
+  "fresh_adopted_raw_originals": 9,
+  "prior_original_captures_reinspected": 4,
+  "capture_inventory_artifacts": 24,
+  "protected_baseline_files": 1994,
+  "before_snapshots": 12,
+  "all_four_workbooks_preserved": true,
+  "all_shared_financial_inputs_preserved": 70,
+  "new_financial_inputs": 0,
+  "first_component_arithmetic_error_identified": false,
+  "specific_presentation_or_integration_limits_identified": 3,
+  "integration_requirements": 8,
+  "required_programme_implementation_still_open": true,
+  "read_only_applications": 18,
+  "application_checks": 173,
+  "original_formula_caches_reconciled": 150,
+  "new_workbook_engine_tests": 0,
+  "original_workbook_engine_tests_preserved": 65,
+  "original_visual_regions_preserved": 7,
+  "prior_questions": 4,
+  "prior_answers_linked": 32,
+  "prior_semantic_rereads": 4,
+  "prior_linkage_checks": 132,
+  "model_reruns": 0,
+  "same_agent_review_checks": 2741,
+  "same_agent_reviewed_artifacts": 37,
+  "new_independent_agent_review": false,
+  "native_Excel_tested": false,
+  "current_contract_fee_changed": false,
+  "core_questions_unchanged": 14,
+  "practitioner_free_full_research_preserved": true,
+  "actual_participants_or_buyer_validation": 0,
+  "actual_quotes_or_bookings": 0,
+  "external_messages_or_spend": 0,
+  "full_programme_model_complete": false,
+  "final_client_delivery": false,
+  "next_step": "Complete matched research-only/event-inclusive pilot/annual programme integration, applying all recorded work/capacity/package/cash/remaining-benefit requirements, then scenarios, break-even and sensitivities. This review does not execute that stage.",
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-11-01",
+    "checks": 20805,
+    "json_files": 786,
+    "source_records": 273,
+    "claim_records": 563,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 564
+  },
+  "artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/Cash timing and obligations.xlsx",
+      "sha256": "3b146e997e1d7327fedf0915ff7e8e52216a29071eda8f6d10c1b862c36b52c1"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "363568a478c830fd6c8579a3c49307a114fb4b7c32e2f295ec22c21b995ae31a"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "89a2c7032c9d176537e4a5a5b2b38a14713ac4a81209fd9c32cfe382ffe14f63"
+    },
+    {
+      "path": "00-control/decisions.json",
+      "sha256": "f6f8237a2bdeea87181af258ed1c2f9a53b33b1229726da42c2de19dd4ccc31d"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "880d0a804a468e055ddbe3edabfaf053275e0da2cd8f58d6b8dab3a4a372a23a"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "3ba425d19ba28fbfcb2cb72311b4cc4fc13266407c42e19a285f1f55e3006b15"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "ebc7163b0e37aeee0da6626b88039b1b5c40fbf269be917dff37e3a17ae59eea"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "7923727f7e5afe0ac0a19063ad47a0ac0a3bcd9050eb8e3a50fa31b062f2343d"
+    },
+    {
+      "path": "04-table/T05C-INTEGRATION-REFINEMENTS.md",
+      "sha256": "2aa75f875d8370a21797ebf29cf52727e56dfdaa298a922d90b4cdf8c27d3f18"
+    },
+    {
+      "path": "04-table/T05C-SECOND-CHECK-READOUT.md",
+      "sha256": "0945fae0ea41c246f96f6a69c37fd6fc5cb6ee7c40be1de8d7579c9a9e17789f"
+    },
+    {
+      "path": "04-table/T05C-second-challenge-map.json",
+      "sha256": "f5c1f4699540381be30ad31c744419aa28310eac240652f7f32317ba638c7864"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/WORK-PLAN.md",
+      "sha256": "447482d0383562ea3a3f607dae4e9438d631c19e8f6476a7a1e545186fbeef4c"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "1a9a85dd3518a9a0d6fbf5921b797396c9365e582c4d768438e3e18907836462"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/00-control/changes.json",
+      "sha256": "f93832c3f3342a667fb40bada309903955d7f4a68a5b363dd3c89532b7760d08"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/00-control/decisions.json",
+      "sha256": "89bbd0cf8139986da30cb27a027e1f056b1e8697c8d77cc93c2945667580b062"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/00-control/work-packages.json",
+      "sha256": "68bbb62cef6963b8b26ac53ab2b0297f2e420b4f400c2156e5df7f8a76925542"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/02-evidence/registers/claims.json",
+      "sha256": "bdce4f2c40bc94a9fab4514253f10daae2b6bb3ff568667baea6d280e3b2229e"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/02-evidence/registers/searches.json",
+      "sha256": "226b76a6fffe0829ba62bed327618366111ff6d58acc2dd269871ea42066393c"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/02-evidence/registers/sources.json",
+      "sha256": "cb7ecdf309e6812458ac0648782a54871614a052fc34e4647560641dce03985b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "da54862b74f97a0de64e10b667bd1a7527affe600391fbd1151e4bdda7c5497b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/08-qa/validate_workspace.py",
+      "sha256": "813297893e3042c89322deb950bcea4c6a74b82beaed83645f89ba3d2aa3359d"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/README.md.txt",
+      "sha256": "ed08b57020f562a66b061d42e3294719652e4e64d056c7b5d1429afb771e6521"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/before-review/manifest.json",
+      "sha256": "739788df2ad6447356ea7f9c2a29fbdaba41b958a1b29f79fb890f6c396dbfc9"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/business-model-check.json",
+      "sha256": "7e9c33775b6a12fc45cb7dd68f7fc4b2bbf6e4a3252d3719478806ddc52d524b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/cash-applications.json",
+      "sha256": "c2f09ef95ed66f61b06dff6f8ab22714de5ecfe14b2ed160b02ac2cf38c8effa"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/comparator-map.json",
+      "sha256": "ff46567b6ae07fcd1006ef44e624bfdcb430737594937b8a49f7382dcefba703"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/CS-S03-selected-reader-paraphrase.txt",
+      "sha256": "1b2f6f5b3d4ec6a42fb7c06af37766392021c97e67e1400e1286afb97705ac7b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/CS-S04-selected-reader-paraphrase.txt",
+      "sha256": "eb8780a3b4b4ebad16146539e4cf31d800c70957754f6090944ff7887e8cd9fb"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-R01.html",
+      "sha256": "e1dae96500c59d902a28737f7142d70c5e7073eadbfc4ff95d6e1180707d7d9e"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-R02.html",
+      "sha256": "cdce5bea9212e71718ae6b8152c104f20e2b43ed28dc9af884e62dcad8fe22a1"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-R03.html",
+      "sha256": "726107f8af0b3577d3a4cd863d37a45ec5040b0dff6299fd611f0e4983d6467b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-R04.html",
+      "sha256": "1ef9a87c440f22537dc97412454c5342e20af6a38ba913f0decdaac9fdedc741"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-S01.html",
+      "sha256": "0a929552784cbde9b22318a8d93ccb24ea2880997fa253fd5b3334a3054e9f8b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-S02.pdf",
+      "sha256": "1244d237dcbdeb98562f26c8fd8710cd48da1bec041bf02cefe52de41f535c77"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-S05.html",
+      "sha256": "db8c23354fbdf553cf49993990a258b5c9f498ad9fe7d1618f49fd349027a691"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-S06.html",
+      "sha256": "e781ab17de67e87ab6cc4d3a343ae7046a5bc4c0f5042b090789b0e7b611fea5"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/captures/CS-S07.html",
+      "sha256": "a9bd64e9f822778261c4203d0d4526e7e205bd10f8d9b301b3503cdc7cfe734f"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/claim-candidates.json",
+      "sha256": "b67cfb9077029ad2c14774b22b194f4e7ec337ee79c7b3dd8d4dce1975a29a40"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-R01.txt",
+      "sha256": "1dd43dd28ab19cb3f2a95ff99a19dfd4828d33a591f612e1461f5bf9fb6b351a"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-R02.txt",
+      "sha256": "427cdbbb4842f69a336e1e10e4bd811bc5f869c84b577735a7a3b60c65dfd692"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-R03.txt",
+      "sha256": "b598ef9f53fba1a46bb42e17f1fde9f098f7698a8135293c56f8ed73583f4bca"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-R04.txt",
+      "sha256": "0fe793b866ab7f8c4d915e8ce159ca3b724a12b407a6ef3a4cf8a71c084d994a"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-S01.txt",
+      "sha256": "88a7b1372746e9ae2bef47b62b8f6769b7696ba974cf8d4538374bcf7f14af4e"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-S02.txt",
+      "sha256": "38f464d4dc2cf094ea3c6b3f534a484f086f2626ddda47c15f7396cd0a3d5df1"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-S05.txt",
+      "sha256": "6aa00f88146af688b1569df1a2fe4a98f5933f2f58c499422b64fae72597fb11"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-S06.txt",
+      "sha256": "34fd92b7c4c0efbb63c4f9ff43658c9a2a06fdd195722887174b41d21d2218dc"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/parsed/CS-S07.txt",
+      "sha256": "e209d86c34f2d0b70b423a200059ce1f0234e1ea72dbd5dc5d97898e66c6c29b"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/routes.json",
+      "sha256": "e40098ae2d97829d0513dd16ffe6ae99aeceee8d1afc1b189d354dd980b2ea0c"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/evidence/source-candidates.json",
+      "sha256": "955d120bfd740cbd8a9ca4fac690030070688544f75259af502fccb232b83cea"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/prior-study/bridge-checks.json",
+      "sha256": "25bceb603b9ad0dab21b362b7ee56cbaf3b848e7a36ee10ee2047ef63d938473"
+    },
+    {
+      "path": "04-table/research-notes/t05c-second-check/prior-study/prior-study-bridge.json",
+      "sha256": "3141ca73d9841737523e51553dcf1e09d06703a9d927b3289dc952095e72dd09"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "125c7d0f6a4cacefabbb710d21af7ade782e8c6419bd355f67243b0856f0394c"
+    },
+    {
+      "path": "05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "08-qa/T05C-second-check-baseline.json",
+      "sha256": "e6acf18349206fb9a1669421640d88575b1d7284647b89b402272bd96aa58d84"
+    },
+    {
+      "path": "08-qa/T05C-second-check-captures.json",
+      "sha256": "86caf6e2e31eec2b83fb11828168d118be192a8f77e814202348fab6c87b4305"
+    },
+    {
+      "path": "08-qa/T05C-second-check-record-map.json",
+      "sha256": "b23750721c60db37c8da2cbe91b669f6cd4d7f1ea016f34d2abeb51bfea8c199"
+    },
+    {
+      "path": "08-qa/T05C-second-full-workspace-check.json",
+      "sha256": "88eca5d5e9440dafb3bad15a46443a4334fea9d63895716e0aefafd3991be428"
+    },
+    {
+      "path": "08-qa/build_t05c_second_support.py",
+      "sha256": "6dd13f9b41bbb6da24594bfd358b5f515331fac73bd48f1b03fcf23d9d62bf47"
+    },
+    {
+      "path": "08-qa/merge_t05c_second.py",
+      "sha256": "87af0bccb248d13be5d342b0a35b704ff2994cac23d73067f95729b57c4cf0a2"
+    },
+    {
+      "path": "08-qa/t05c-second-review/validate_second.py",
+      "sha256": "8c5b5ab41badfacb0e4eb284ba6fa3c2406bc58b308f6e3ebb0279a8e4e7df5b"
+    },
+    {
+      "path": "08-qa/t05c-second-review/verification.json",
+      "sha256": "fa5132dce7aadb37081a6d1a3e832799f42f74c6adbbeeeddc4f10f0ab5067ee"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "31d8b257a5a581bbed943d5d7c97833f6eb29e8135be78fd1a63ea9556854382"
+    },
+    {
+      "path": "README.md",
+      "sha256": "196ab688441593b3be4bea681b4d184f3603d542570270b5c03c1dd639e457f7"
+    }
+  ]
+}

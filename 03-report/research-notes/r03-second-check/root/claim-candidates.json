@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC3-ROOT-C01",
+      "source_candidate_ids": [
+        "SC3-ROOT-S01"
+      ],
+      "claim_text": "The guidance includes continuing skills, configuration and integration checks; an integrated technology needs an operating capability after initial delivery.",
+      "locator": "Fitting new technology into your organisation; configuration and continuing tests",
+      "evidence_class": "official_design_guidance",
+      "population": "Public-sector programme guidance; transferable lens, not private-employer mandate",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated current guidance route inspected29October2026; no outcome time series",
+      "limitations": "No payroll performance, cost saving, universal architecture or private procurement duty inferred.",
+      "review_mode": "Relevant original public sections inspected; actual HTML retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "SC3-ROOT-C02",
+      "source_candidate_ids": [
+        "SC3-ROOT-S02"
+      ],
+      "claim_text": "Cloud guidance separates provider-delegated security work from customer configuration and data choices, while preserving managed-service benefits.",
+      "locator": "Responsibilities; SaaS; Lock-in",
+      "evidence_class": "official_responsibility_guidance",
+      "population": "Cloud service provider/customer responsibility, not payroll product audit",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated current guidance route inspected29October2026; no outcome time series",
+      "limitations": "Managed-service benefits and retained configuration must both be preserved. No certification, incident rate or provider quality inferred.",
+      "review_mode": "Relevant original public sections inspected; actual HTML retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "SC3-ROOT-C03",
+      "source_candidate_ids": [
+        "SC3-ROOT-S03"
+      ],
+      "claim_text": "SaaS guidance addresses protected backups, access recovery, logs and reviews after updates; none establishes a recovery result for a payroll customer.",
+      "locator": "Plan incident response and disaster recovery; monitoring; maintain posture",
+      "evidence_class": "official_recovery_and_lifecycle_guidance",
+      "population": "SaaS use across organisations; not observed payroll recovery outcomes",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated current guidance route inspected29October2026; no outcome time series",
+      "limitations": "No recovery test, target time, actual control effectiveness or payroll-specific risk rate inferred.",
+      "review_mode": "Relevant original public sections inspected; actual HTML retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "SC3-ROOT-C04",
+      "source_candidate_ids": [
+        "SC3-ROOT-S04"
+      ],
+      "claim_text": "The guidance balances useful managed capabilities against technical dependence rather than treating all dependence as something to eliminate.",
+      "locator": "Understand technical lock-in; balance risk/opportunity; manage providers",
+      "evidence_class": "official_dependency_tradeoff_guidance",
+      "population": "Public-sector cloud dependency choices, not payroll contract evaluation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated current guidance route inspected29October2026; no outcome time series",
+      "limitations": "Dependency can have benefits. No zero-lock-in mandate, payroll switching cost or observed contract barrier inferred.",
+      "review_mode": "Relevant original public sections inspected; actual HTML retained",
+      "status": "R03_second_check_context"
+    }
+  ]
+}

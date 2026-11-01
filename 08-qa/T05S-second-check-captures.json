@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S01.html",
+      "sha256": "ac781268eb984f2b9a77aa1a797b3a825a698ed721d9a2aa7aca4708a1c1086c",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0280",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S01.txt",
+      "sha256": "fc90ac5a182c3c238636e94bfedd66e938a593a69f4914baeb5133be049c90c5",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0280"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S02-reader-note.txt",
+      "sha256": "9b8ea18c343e7d234b05f8857484a5f53831e64bfb60ef96d46bb28d16f25226",
+      "kind": "browser_reader_paraphrase_not_original",
+      "source_id": "SRC-0281",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S04-reader-note.txt",
+      "sha256": "6380af596e6284ceaa83e4ad0d54ba2c3d022f9726c80023c06b5b738f337449",
+      "kind": "browser_reader_paraphrase_not_original",
+      "source_id": "SRC-0190",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+      "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+      "kind": "prior_selected_paraphrased_reader_notes_not_raw_original",
+      "source_id": "SRC-0221",
+      "access_for_this_review": "prior_context_reused"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S06.html",
+      "sha256": "97a15b91b6a0f21a0ec955f3592ccd95a8a4ec9694b8828e226b2f15c515b32f",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0257",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S06.txt",
+      "sha256": "0bd270a51d0df8c8123dbf302d4a4f0c972960b837f5f786fbf5e63cf07c4a66",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0257"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S07.html",
+      "sha256": "aeaf8fd88556c75b6ef7a7f8e399c0b14d14c8f12a37acb38d4bb1724d5bbf15",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0116",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S07.txt",
+      "sha256": "539a72cd34429972700a3c83b7ca3034e51222003f2b160d6602fd9b7167ab76",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0116"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S08.html",
+      "sha256": "b23c9bbe42c30e6edbcc2a2826ef98683b653b7f0190947a7e51ea40d2bafae0",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0192",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S08.txt",
+      "sha256": "028d941c966bd024cd319a61b6bfe64b2c334db6d7d51b6568e6a0b87c7e9780",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0192"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S09.html",
+      "sha256": "cebb4c7f29d72a5b30bd28804683e21ff39a48f304eb62000d03b4b2e48d29de",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0193",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S09.txt",
+      "sha256": "a19903c4d38e500f1bba7304ef65566217bc2b219f7a7e70bbdcb029a03ab3b9",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0193"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S10-reader-note.txt",
+      "sha256": "f0d84a5e369bead9939c36d9564e6bb3a789b03db606c3657ec9c4dc74ddc2aa",
+      "kind": "browser_reader_paraphrase_not_original",
+      "source_id": "SRC-0088",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S11.html",
+      "sha256": "b3f4e0686c2f458f3d4de5911f408bc025abcfe9b0dc9a92fd8c7b129fd7c4ac",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0277",
+      "access_for_this_review": "current_primary_capture_or_selected_reader"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S11.txt",
+      "sha256": "685078dfe286e0a3e1940e93ef87f1b90256e3527a18bb8745b5d3507fd2898d",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0277"
+    }
+  ],
+  "counts_by_kind": {
+    "browser_reader_paraphrase_not_original": 3,
+    "parsed_original_text": 6,
+    "prior_selected_paraphrased_reader_notes_not_raw_original": 1,
+    "retained_original_html": 6
+  },
+  "new_route_originals": 1,
+  "new_route_reader_notes": 1,
+  "reused_route_fresh_originals": 5,
+  "reused_route_current_reader_notes": 2,
+  "prior_selected_contexts": 1,
+  "new_source_routes": 2,
+  "reused_canonical_routes": 8,
+  "unadopted_discovery_routes": 1,
+  "failed_bodies_saved": false,
+  "new_JGA_empirical_datasets": 0
+}

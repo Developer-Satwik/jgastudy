@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+  "workbook_sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e",
+  "checks": [
+    {
+      "passed": true,
+      "detail": "Two named worksheets retained in order"
+    },
+    {
+      "passed": true,
+      "detail": "Programme hours and cost retain explicit unavailable cached results"
+    },
+    {
+      "passed": true,
+      "detail": "Working briefing unit retains five hours and GBP248 comparison"
+    },
+    {
+      "passed": true,
+      "detail": "Fifteen programme quantities remain blank"
+    },
+    {
+      "passed": true,
+      "detail": "Commercial value remains blank and active hourly rate unavailable"
+    },
+    {
+      "passed": true,
+      "detail": "Case selector and day divisor saved in restored state"
+    },
+    {
+      "passed": true,
+      "detail": "Final partner label identifies administration rather than a full package"
+    },
+    {
+      "passed": true,
+      "detail": "Hours and programme totals contain formulas"
+    },
+    {
+      "passed": true,
+      "detail": "Input case and quantity validation retained"
+    },
+    {
+      "passed": true,
+      "detail": "No external workbook dependency"
+    },
+    {
+      "passed": true,
+      "detail": "Pasted-text selector guard retained in export"
+    },
+    {
+      "passed": true,
+      "detail": "First research workbook untouched"
+    }
+  ],
+  "native_Excel_application_tested": false,
+  "scope": "Saved OpenXML structure, restored inputs, cached outputs and formula presence, not native Excel execution."
+}

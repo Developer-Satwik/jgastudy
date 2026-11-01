@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 18,
+  "checks": [
+    {
+      "check": "JSON parses: capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses: captures.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses: claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses: prior-study-bridge.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses: search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses: source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/C6S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/C6S-S02.html",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/C6S-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0115.html",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0115.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0116.html",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0116.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0119-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0147.html",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash: 03-report/research-notes/r06-second-check/competitors/captures/SRC-0147.txt",
+      "passed": true
+    },
+    {
+      "check": "Three selected prompts,24 unique saved texts; exact hashes/index/coverage validated during build",
+      "passed": true
+    }
+  ],
+  "scope": "Own JSON and retained-file integrity plus exact saved-data build assertions; not independent source/advice validation",
+  "external_actions": []
+}

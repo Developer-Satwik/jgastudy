@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-29",
+  "status": "eight_constructed_test_designs_ready_for_parent_application_not_executed",
+  "test_count": 8,
+  "actual_people_count": 0,
+  "actual_completed_contributions": 0,
+  "actual_Table_events": 0,
+  "practitioner_testing": false,
+  "tests": [
+    {
+      "test_id": "WP03-T01",
+      "title": "Title and introduction without verified remit",
+      "supplied_premises": [
+        "JGA introduces a person with a senior-sounding title.",
+        "Actual payroll decision remit and verification basis have not been supplied."
+      ],
+      "expected_route": "Eligibility clarification only after collection route cleared; no completed contribution.",
+      "expected_report_people_count_delta": 0,
+      "expected_Table_event_count_delta": 0,
+      "forbidden_inference": "An introduction/title proves eligibility, consent or response.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T02",
+      "title": "Eligible practitioner with no recent case",
+      "supplied_premises": [
+        "Relevant senior payroll remit has a recorded verification basis.",
+        "The constructed person permits the intended analysis and supplies substantive operating/priorities input but recalls no recent decision."
+      ],
+      "expected_route": "Use existing no-recent-case Q006 route and Q014; no invented Q007 decision position.",
+      "expected_report_people_count_delta": 1,
+      "expected_Table_event_count_delta": 0,
+      "forbidden_inference": "No recent case means no usable contribution, or the need is pending/declined.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T03",
+      "title": "Written input plus a later interview",
+      "supplied_premises": [
+        "One verified eligible person supplies usable report input in writing.",
+        "The same person later has an interview under the same participant reference with permission."
+      ],
+      "expected_route": "Two contribution/session records if appropriate, one person; version/mode/coverage preserved.",
+      "expected_report_people_count_delta": 1,
+      "expected_Table_event_count_delta": 0,
+      "forbidden_inference": "Two modes or contribution records are two distinct practitioners.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T04",
+      "title": "Member and report overlap in a combined session",
+      "supplied_premises": [
+        "One verified eligible senior payroll person has an actual combined report/member session.",
+        "Substantive report-relevant input and both purposes/permissions are established."
+      ],
+      "expected_route": "One participant, report contribution mapped to actual covered questions, one Table conversation event.",
+      "expected_report_people_count_delta": 1,
+      "expected_Table_event_count_delta": 1,
+      "forbidden_inference": "Two roles become two people or two Table conversations.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T05",
+      "title": "Commercial buyer without payroll practitioner remit",
+      "supplied_premises": [
+        "A buyer has one actual exploratory conversation covering B01–B06 as relevant.",
+        "No qualifying senior employer-side payroll remit or report contribution is established."
+      ],
+      "expected_route": "Buyer commercial record only, with interest distinct from commitment.",
+      "expected_report_people_count_delta": 0,
+      "expected_Table_event_count_delta": 1,
+      "forbidden_inference": "A paying/intending buyer automatically counts as a practitioner or proves demand.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T06",
+      "title": "Only older context and declined case detail",
+      "supplied_premises": [
+        "An otherwise eligible person supplies permitted substantive operating input and older context.",
+        "They decline recent-case detail; no qualifying recent event is established."
+      ],
+      "expected_route": "Keep older context separately, stop declined request, continue Q014 if they choose.",
+      "expected_report_people_count_delta": 1,
+      "expected_Table_event_count_delta": 0,
+      "forbidden_inference": "Older context is recent-case evidence or refusal justifies repeated probing.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T07",
+      "title": "Participation without recording or named release",
+      "supplied_premises": [
+        "A verified eligible person provides actual usable report input with permitted analysis.",
+        "They decline recording, named quotations, employer identification and recontact."
+      ],
+      "expected_route": "Manual notes under approved arrangement; preserve permitted analysis and restrictions. No recording, named release or follow-up.",
+      "expected_report_people_count_delta": 1,
+      "expected_Table_event_count_delta": 0,
+      "forbidden_inference": "General participation authorises every optional use or declining recording blocks all participation.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    },
+    {
+      "test_id": "WP03-T08",
+      "title": "Pilot and repeated Table conversation",
+      "supplied_premises": [
+        "One eligible permissioned pilot provides usable report input with a comparable recorded guide version.",
+        "The same person completes two substantive Table feasibility conversations."
+      ],
+      "expected_route": "One distinct report person if actual input/version/comparability qualify; two Table event records; assess remaining four-conversation scope honestly.",
+      "expected_report_people_count_delta": 1,
+      "expected_Table_event_count_delta": 2,
+      "forbidden_inference": "Pilot automatically counts without usable comparable input, or repeat Table session disappears from event count.",
+      "evidence_type": "constructed_internal_test_design",
+      "executed": false,
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_expected_synthetic_not_real": true
+    }
+  ],
+  "external_actions": []
+}

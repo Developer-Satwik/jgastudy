@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-30",
+  "status": "completed_internal_T02_proposition_design_validation_pending",
+  "propositions": 3,
+  "original_hypotheses_preserved": 4,
+  "contract_market_segments": 5,
+  "employer_additional_hypotheses": 1,
+  "use_entitlement_options": 8,
+  "delivery_work_objects": 8,
+  "report_questions_unchanged": 14,
+  "proposed_buyer_questions": 6,
+  "proposed_member_questions": 6,
+  "active_collection_guide_changed": false,
+  "new_sources": 0,
+  "new_claims": 0,
+  "canonical_sources": 223,
+  "canonical_claims": 432,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 146,
+  "independent_integrated_checks": 331,
+  "scope_changed": false,
+  "commissioned_JGA_IP_changed": false,
+  "practitioner_free_research_preserved": true,
+  "actual_buyer_or_member_validation": 0,
+  "actual_concept_exposures": 0,
+  "actual_permissions": 0,
+  "prices": 0,
+  "financial_inputs_added": 0,
+  "staff_capacity_assumed": false,
+  "fieldwork_activated": false,
+  "external_messages_sent": 0,
+  "purchases_or_bookings": 0,
+  "final_client_delivery": false,
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-30",
+    "checks": 5057,
+    "json_files": 502,
+    "source_records": 223,
+    "claim_records": 432,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 434,
+    "scope": "T02 three concrete internal propositions, use/rights/delivery and inactive draft guide; T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01–R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  },
+  "artifacts": [
+    {
+      "path": "04-table/T02-PROPOSITION-PACK.md",
+      "sha256": "24e84735d6c0a9d4a168f2854361e04fcdd69229e7b121e013a27de10b7742ca"
+    },
+    {
+      "path": "04-table/T02-proposition-map.json",
+      "sha256": "dc64bbec0d1c142f9056b1ff561080a352ccb17f17b156629f45759baf763808"
+    },
+    {
+      "path": "04-table/T02-BUYER-USES-AND-RIGHTS.md",
+      "sha256": "50e66fc8e8880459ce347cca0d97bd87cc65008313baea298ba2c0200113311a"
+    },
+    {
+      "path": "04-table/T02-buyer-segments.json",
+      "sha256": "9e4e7c6d6eaafeada2543c6d2aa51f57f154fb3f41fe6983bd5432b1dc2a1000"
+    },
+    {
+      "path": "04-table/T02-use-and-entitlement-options.json",
+      "sha256": "a938893e26d20737392a31a6555f2d28b8c4f4f003f55a21a1a09b0fa9ec62e0"
+    },
+    {
+      "path": "04-table/T02-DELIVERY-AND-VALIDATION.md",
+      "sha256": "a1f2d399ee74a5f0eb7fe95b74ca9b668a2b5e76d11436f6375d6b3d9bb819a6"
+    },
+    {
+      "path": "04-table/T02-delivery-map.json",
+      "sha256": "7b054ccea0e07a83ba0ee5b44a82dc15c37434d210ecb6ff58837eb5ec621d24"
+    },
+    {
+      "path": "04-table/T02-validation-map.json",
+      "sha256": "54f0e3b277a61aadbf1233413fe2ba49f3d0f8de0881d6a295108db059f0512c"
+    },
+    {
+      "path": "01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+      "sha256": "c46e6fc83c5a66328e78b5b9aa4887384c07dd25767c1f6cfbaa549cf7ede01e"
+    },
+    {
+      "path": "08-qa/T02-independent-review.md",
+      "sha256": "168a3e7140099891b73ff08bec033749dfc4dccc8517f17ca4e8a0c41435c814"
+    },
+    {
+      "path": "08-qa/t02-review/integration-checks.json",
+      "sha256": "73770eb6c431db29029bde113a66e998b050ab1b8b005223fba549c0ed85d2d4"
+    },
+    {
+      "path": "08-qa/T02-baseline-manifest.json",
+      "sha256": "b102b46c91d022e906171652a828e5195ac501634d265d687adf02aa30d8fc10"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "1c7f877f35dd54eba1c469fefcb206a4600f80457bf2276c8fd21d3578713c62"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "0a2d2d7b1e827c252564abccbdbd7107047788be9a8ed3b39fcd3ad76f35b060"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "08c7229955f3915ff6fbf6275ddb90d59a5d690ae2daa441b216598d16735e99"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "58170a162cbace0528eca145e1481f7b9f4d1f7540ac8b4b300715591b46f090"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6b4887f5dae3003c347f9b65a85842b7209413f66ee18df85e57e44f9ec998dc"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "50fa4f6e3961539a9f128692cd43625344caf6d3d83a7e0fe31a64cd0b0e8cc2"
+    },
+    {
+      "path": "04-table/research-notes/t02/buyer/buyer-drafts.md",
+      "sha256": "116134a244e93ba8ffe94d6cbc40ee6be67132d5035508520bdecdd22b076ddd"
+    },
+    {
+      "path": "04-table/research-notes/t02/buyer/buyer-candidates.json",
+      "sha256": "c750aae9ff03d051c427a9bb94254fc6df4d2dbb5b715c31df5fd13c2658338e"
+    },
+    {
+      "path": "04-table/research-notes/t02/partner-member/PARTNER-AND-MEMBER-DRAFTS.md",
+      "sha256": "1183928040ef56126d50f0ea45c5c76c5d05e5bfcba27417342e7f909659e4bb"
+    },
+    {
+      "path": "04-table/research-notes/t02/partner-member/partner-member-candidates.json",
+      "sha256": "0a462abc8ef11f17cb9edd368731be439ea8a59575cce8fa85546383d33176a3"
+    }
+  ],
+  "completion_artifact_hashes_verified": true
+}

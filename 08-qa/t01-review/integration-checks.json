@@ -1,0 +1,4495 @@
+{
+  "status": "passed_for_internal_T01_desktop_comparison_and_T02_hypothesis_preparation",
+  "date": "2026-10-29",
+  "check_count": 1110,
+  "checks": [
+    {
+      "name": "canonical counts 217 sources 407 claims 81 preserved findings",
+      "passed": true
+    },
+    {
+      "name": "correct before-work canonical snapshot counts",
+      "passed": true
+    },
+    {
+      "name": "all prior 355 claims preserved exactly",
+      "passed": true
+    },
+    {
+      "name": "all prior 81 findings preserved exactly with no Table demand findings invented",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0001",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0001",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0001",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0002",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0002",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0002",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0003",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0003",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0003",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0004",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0004",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0004",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0005",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0005",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0005",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0006",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0006",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0006",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0010",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0010",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0010",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0011",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0011",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0011",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0012",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0012",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0012",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0013",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0013",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0013",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0014",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0014",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0014",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0015",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0015",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0015",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0016",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0016",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0016",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0017",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0017",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0017",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0018",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0018",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0018",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0019",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0019",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0019",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0020",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0020",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0020",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0021",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0021",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0021",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0022",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0022",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0022",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0023",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0023",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0023",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0024",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0024",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0024",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0031",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0031",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0031",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0033",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0033",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0033",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0034",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0034",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0034",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0040",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0040",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0040",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0041",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0041",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0041",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0042",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0042",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0042",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0043",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0043",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0043",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0060",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0060",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0060",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0061",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0061",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0061",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0062",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0062",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0062",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0064",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0064",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0064",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0065",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0065",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0065",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0066",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0066",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0066",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0067",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0067",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0067",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0068",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0068",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0068",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0069",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0069",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0069",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0070",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0070",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0070",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0071",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0071",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0071",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0072",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0072",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0072",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0073",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0073",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0073",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0074",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0074",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0074",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0075",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0075",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0075",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0076",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0076",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0076",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0077",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0077",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0077",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0078",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0078",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0078",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0079",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0079",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0079",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0080",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0080",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0080",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0081",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0081",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0081",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0082",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0082",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0082",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0083",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0083",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0083",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0084",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0084",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0084",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0085",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0085",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0085",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0086",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0086",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0086",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0087",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0087",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0087",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0089",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0089",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0089",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0090",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0090",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0090",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0091",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0091",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0091",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0092",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0092",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0092",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0093",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0093",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0093",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0094",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0094",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0094",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0095",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0095",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0095",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0096",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0096",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0096",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0097",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0097",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0097",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0098",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0098",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0098",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0099",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0099",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0099",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0100",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0100",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0100",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0101",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0101",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0101",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0102",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0102",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0102",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0103",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0103",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0103",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0104",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0104",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0104",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0105",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0105",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0105",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0106",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0106",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0106",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0107",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0107",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0107",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0108",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0108",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0108",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0109",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0109",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0109",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0110",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0110",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0110",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0111",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0111",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0111",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0112",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0112",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0112",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0113",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0113",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0113",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0114",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0114",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0114",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0115",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0115",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0115",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0117",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0117",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0117",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0118",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0118",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0118",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0119",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0119",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0119",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0120",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0120",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0120",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0121",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0121",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0121",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0122",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0122",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0122",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0123",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0123",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0123",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0124",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0124",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0124",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0125",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0125",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0125",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0126",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0126",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0126",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0127",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0127",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0127",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0128",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0128",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0128",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0129",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0129",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0129",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0130",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0130",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0130",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0131",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0131",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0131",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0132",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0132",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0132",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0133",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0133",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0133",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0134",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0134",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0134",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0135",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0135",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0135",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0136",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0136",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0136",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0137",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0137",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0137",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0138",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0138",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0138",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0139",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0139",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0139",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0140",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0140",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0140",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0141",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0141",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0141",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0142",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0142",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0142",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0143",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0143",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0143",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0144",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0144",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0144",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0145",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0145",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0145",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0146",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0146",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0146",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0147",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0147",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0147",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0148",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0148",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0148",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0149",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0149",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0149",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0150",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0150",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0150",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0151",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0151",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0151",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0152",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0152",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0152",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0153",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0153",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0153",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0154",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0154",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0154",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0155",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0155",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0155",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0156",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0156",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0156",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0157",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0157",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0157",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0158",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0158",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0158",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0159",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0159",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0159",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0160",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0160",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0160",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0161",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0161",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0161",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0162",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0162",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0162",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0163",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0163",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0163",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0164",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0164",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0164",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0165",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0165",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0165",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0166",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0166",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0166",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0167",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0167",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0167",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0168",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0168",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0168",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0169",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0169",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0169",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0170",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0170",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0170",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0171",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0171",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0171",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0172",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0172",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0172",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0173",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0173",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0173",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0174",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0174",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0174",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0175",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0175",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0175",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0176",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0176",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0176",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0177",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0177",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0177",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0178",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0178",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0178",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0179",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0179",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0179",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0180",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0180",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0180",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0181",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0181",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0181",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0182",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0182",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0182",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0183",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0183",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0183",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0184",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0184",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0184",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0185",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0185",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0185",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0186",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0186",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0186",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0187",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0187",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0187",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0188",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0188",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0188",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0189",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0189",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0189",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0191",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0191",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0191",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0194",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0194",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0194",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0195",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0195",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0195",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0196",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0196",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0196",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0197",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0197",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0197",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0198",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0198",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0198",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0199",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0199",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0199",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0200",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0200",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0200",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0201",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0201",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0201",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0202",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0202",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0202",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0203",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0203",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0203",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0204",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0204",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0204",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0205",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0205",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0205",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0206",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0206",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0206",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0207",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0207",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0207",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0208",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0208",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0208",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0209",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0209",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0209",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0210",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0210",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0210",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0211",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0211",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0211",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0212",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0212",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0212",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0213",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0213",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0213",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0214",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0214",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0214",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0215",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0215",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0215",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0216",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0216",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0216",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0217",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0217",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0217",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0218",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0218",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0218",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0219",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0219",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0219",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0220",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0220",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0220",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "source base unchanged SRC-0223",
+      "passed": true
+    },
+    {
+      "name": "earlier source reviews preserved SRC-0223",
+      "passed": true
+    },
+    {
+      "name": "earlier topics preserved SRC-0223",
+      "passed": true
+    },
+    {
+      "name": "bounded canonical append exactly 26 routes and52 records",
+      "passed": true
+    },
+    {
+      "name": "canonical source URLs deduplicated without stripping substantive query",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1RP-S01",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1RP-S01",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1RP-S02",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1RP-S02",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1RP-S03",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1RP-S03",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1RP-S04",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1RP-S04",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1RP-S05",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1RP-S05",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1RP-S06",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1RP-S06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C01",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C01",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C02",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C02",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C03",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C03",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C04",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C04",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C04",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C05",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C05",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C05",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C06",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C06",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C07",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C07",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C07",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C08",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C08",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C08",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C09",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C09",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C09",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C10",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C10",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C10",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C11",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C11",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C11",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C12",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C12",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C12",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C13",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C13",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C13",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1RP-C14",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1RP-C14",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1RP-C14",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S01",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S01",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S02",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S02",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S03",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S03",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S04",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S04",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S05",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S05",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S06",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S06",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S08",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S08",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S09",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S09",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S10",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S10",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1MC-S11",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1MC-S11",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C01",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C01",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C02",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C02",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C03",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C03",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C04",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C04",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C04",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C05",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C05",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C05",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C06",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C06",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C07",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C07",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C07",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C08",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C08",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C08",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C09",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C09",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C09",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C10",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C10",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C10",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C11",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C11",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C11",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C12",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C12",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C12",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C13",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C13",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C13",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C14",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C14",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C14",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C15",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C15",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C15",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C16",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C16",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C16",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1MC-C17",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1MC-C17",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1MC-C17",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S01",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S01",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S02",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S02",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S03",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S03",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S04",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S04",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S05",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S05",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S06",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S06",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S07",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S07",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S08",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S08",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S09",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S09",
+      "passed": true
+    },
+    {
+      "name": "source candidate retained exactly T1FE-S10",
+      "passed": true
+    },
+    {
+      "name": "source raw capture preserved T1FE-S10",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C01",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C01",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C02",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C02",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C03",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C03",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C04",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C04",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C04",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C05",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C05",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C05",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C06",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C06",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C07",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C07",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C07",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C08",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C08",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C08",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C09",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C09",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C09",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C10",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C10",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C10",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C11",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C11",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C11",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C12",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C12",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C12",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C13",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C13",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C13",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C14",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C14",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C14",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C15",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C15",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C15",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C16",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C16",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C16",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1FE-C17",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1FE-C17",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1FE-C17",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1R-C01",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1R-C01",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1R-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1R-C02",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1R-C02",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1R-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1R-C03",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1R-C03",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1R-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate retained exactly T1R-C04",
+      "passed": true
+    },
+    {
+      "name": "claim exact canonical support T1R-C04",
+      "passed": true
+    },
+    {
+      "name": "claim wording and limits preserved T1R-C04",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/WP03-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/WP03-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/WP03-routing-permission-checks.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 08-qa/wp03-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 04-table/TABLE-DESIGN-BRIEF.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 04-table/FINANCIAL-MODEL-SPEC.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/START-HERE.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "name": "120-file preservation 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-terms-index.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/cipp-terms-index.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-membership.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/tcb-membership.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-membership.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/cipp-membership.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-grades.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/cipp-grades.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-membership.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/cipp-membership.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-terms-index.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/cipp-terms-index.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-councils.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/tcb-councils.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tpc-terms.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/tpc-terms.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-councils.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/tcb-councils.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-membership.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/tcb-membership.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/tcb-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-grades.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/cipp-grades.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-advisory.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/cipp-advisory.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tpc-membership.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/tpc-membership.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/tcb-terms.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/membership-community/captures/tcb-terms.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/membership-community/captures/cipp-advisory.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/membership-community/captures/cipp-advisory.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/root/captures/SRC-0010.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/root/captures/SRC-0010.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/root/captures/SRC-0013.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/root/captures/SRC-0010.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/root/captures/SRC-0013.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/root/captures/SRC-0013.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/captures/T1RP-S04.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/research-products/captures/T1RP-S04.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/captures/T1RP-S05.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/research-products/captures/T1RP-S05.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/captures/T1RP-S02.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/research-products/captures/T1RP-S02.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/captures/T1RP-S03.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/research-products/captures/T1RP-S03.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/captures/T1RP-S01.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/research-products/captures/T1RP-S01.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/captures/T1RP-S06.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/research-products/captures/T1RP-S06.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/inspection/SRC-0065-p59.png",
+      "passed": true
+    },
+    {
+      "name": "PDF render not promoted to raw original 04-table/research-notes/t01/research-products/inspection/SRC-0065-p59.png",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/inspection/SRC-0065-p03.png",
+      "passed": true
+    },
+    {
+      "name": "PDF render not promoted to raw original 04-table/research-notes/t01/research-products/inspection/SRC-0065-p03.png",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/inspection/SRC-0065-p01.png",
+      "passed": true
+    },
+    {
+      "name": "PDF render not promoted to raw original 04-table/research-notes/t01/research-products/inspection/SRC-0065-p01.png",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/SRC-0065-reused-report.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/SRC-0065-reused-report.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/T1RP-S01.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/T1RP-S01.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/T1RP-S03.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/T1RP-S03.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/T1RP-S02.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/T1RP-S02.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/T1RP-S06.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/T1RP-S06.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/T1RP-S05.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/T1RP-S05.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/research-products/parsed/T1RP-S04.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/research-products/parsed/T1RP-S04.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-about.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/cpo-about.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/payroll-community-terms.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/payroll-community-terms.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-subscribe.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/cpo-subscribe.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-privacy.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/iventiv-privacy.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-faq.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/iventiv-faq.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/payroll-community-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/payroll-community-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-sponsors.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/iventiv-sponsors.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-about.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/cpo-about.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-forum-review.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/cpo-forum-review.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-forum-review.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/cpo-forum-review.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-community-home.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/cpo-community-home.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-privacy.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/iventiv-privacy.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-event-terms.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/iventiv-event-terms.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-london-2026.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/iventiv-london-2026.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-event-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/iventiv-event-terms.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-sponsors.html",
+      "passed": true
+    },
+    {
+      "name": "HTML provenance classification 04-table/research-notes/t01/forums-events/captures/iventiv-sponsors.html",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-community-home.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/cpo-community-home.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-faq.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/iventiv-faq.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/cpo-subscribe.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/cpo-subscribe.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "T01 capture inventory hash 04-table/research-notes/t01/forums-events/captures/iventiv-london-2026.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "derived text not promoted to original 04-table/research-notes/t01/forums-events/captures/iventiv-london-2026.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "exact six ordered normalized models",
+      "passed": true
+    },
+    {
+      "name": "six distinct named mechanisms not six undifferentiated suppliers",
+      "passed": true
+    },
+    {
+      "name": "comparison is not ranking or validated business demand",
+      "passed": true
+    },
+    {
+      "name": "canonical model references resolve T01-M01",
+      "passed": true
+    },
+    {
+      "name": "model source coverage exact claim union T01-M01",
+      "passed": true
+    },
+    {
+      "name": "normalized model claims match author pack T01-M01",
+      "passed": true
+    },
+    {
+      "name": "underlying model review retained T01-M01",
+      "passed": true
+    },
+    {
+      "name": "conditional transfer not adopted or price input T01-M01",
+      "passed": true
+    },
+    {
+      "name": "fit and transfer boundary stated T01-M01",
+      "passed": true
+    },
+    {
+      "name": "canonical model references resolve T01-M02",
+      "passed": true
+    },
+    {
+      "name": "model source coverage exact claim union T01-M02",
+      "passed": true
+    },
+    {
+      "name": "normalized model claims match author pack T01-M02",
+      "passed": true
+    },
+    {
+      "name": "underlying model review retained T01-M02",
+      "passed": true
+    },
+    {
+      "name": "conditional transfer not adopted or price input T01-M02",
+      "passed": true
+    },
+    {
+      "name": "fit and transfer boundary stated T01-M02",
+      "passed": true
+    },
+    {
+      "name": "canonical model references resolve T01-M03",
+      "passed": true
+    },
+    {
+      "name": "model source coverage exact claim union T01-M03",
+      "passed": true
+    },
+    {
+      "name": "normalized model claims match author pack T01-M03",
+      "passed": true
+    },
+    {
+      "name": "underlying model review retained T01-M03",
+      "passed": true
+    },
+    {
+      "name": "conditional transfer not adopted or price input T01-M03",
+      "passed": true
+    },
+    {
+      "name": "fit and transfer boundary stated T01-M03",
+      "passed": true
+    },
+    {
+      "name": "canonical model references resolve T01-M04",
+      "passed": true
+    },
+    {
+      "name": "model source coverage exact claim union T01-M04",
+      "passed": true
+    },
+    {
+      "name": "normalized model claims match author pack T01-M04",
+      "passed": true
+    },
+    {
+      "name": "underlying model review retained T01-M04",
+      "passed": true
+    },
+    {
+      "name": "conditional transfer not adopted or price input T01-M04",
+      "passed": true
+    },
+    {
+      "name": "fit and transfer boundary stated T01-M04",
+      "passed": true
+    },
+    {
+      "name": "canonical model references resolve T01-M05",
+      "passed": true
+    },
+    {
+      "name": "model source coverage exact claim union T01-M05",
+      "passed": true
+    },
+    {
+      "name": "normalized model claims match author pack T01-M05",
+      "passed": true
+    },
+    {
+      "name": "underlying model review retained T01-M05",
+      "passed": true
+    },
+    {
+      "name": "conditional transfer not adopted or price input T01-M05",
+      "passed": true
+    },
+    {
+      "name": "fit and transfer boundary stated T01-M05",
+      "passed": true
+    },
+    {
+      "name": "canonical model references resolve T01-M06",
+      "passed": true
+    },
+    {
+      "name": "model source coverage exact claim union T01-M06",
+      "passed": true
+    },
+    {
+      "name": "normalized model claims match author pack T01-M06",
+      "passed": true
+    },
+    {
+      "name": "underlying model review retained T01-M06",
+      "passed": true
+    },
+    {
+      "name": "conditional transfer not adopted or price input T01-M06",
+      "passed": true
+    },
+    {
+      "name": "fit and transfer boundary stated T01-M06",
+      "passed": true
+    },
+    {
+      "name": "T01 actual evidence and money arrays blank",
+      "passed": true
+    },
+    {
+      "name": "no core question expansion",
+      "passed": true
+    },
+    {
+      "name": "four distinct proposition hypotheses",
+      "passed": true
+    },
+    {
+      "name": "hypothesis remains untested T02-H01",
+      "passed": true
+    },
+    {
+      "name": "hypothesis has disconfirmation and limits T02-H01",
+      "passed": true
+    },
+    {
+      "name": "hypothesis remains untested T02-H02",
+      "passed": true
+    },
+    {
+      "name": "hypothesis has disconfirmation and limits T02-H02",
+      "passed": true
+    },
+    {
+      "name": "hypothesis remains untested T02-H03",
+      "passed": true
+    },
+    {
+      "name": "hypothesis has disconfirmation and limits T02-H03",
+      "passed": true
+    },
+    {
+      "name": "hypothesis remains untested T02-H04",
+      "passed": true
+    },
+    {
+      "name": "hypothesis has disconfirmation and limits T02-H04",
+      "passed": true
+    },
+    {
+      "name": "T02 does not claim collection or demand",
+      "passed": true
+    },
+    {
+      "name": "unperformed actual array stays empty 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "unperformed actual array stays empty 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "unperformed actual array stays empty 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "name": "collection review gates not bypassed",
+      "passed": true
+    },
+    {
+      "name": "synthesis claim references resolve 04-table/T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/research-products/MODEL-SPONSORED-RESEARCH.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/research-products/MODEL-LICENSED-ANALYST-INTELLIGENCE.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/membership-community/MODEL-03-payroll-decision-support.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/membership-community/MODEL-04-practitioner-research-community.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/forums-events/MODEL-05-SENIOR-PAYROLL-FORUM.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/forums-events/MODEL-06-SPONSOR-FUNDED-EXECUTIVE-EVENT.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link research-notes/t01/root/FREE-ALTERNATIVES-AND-PAID-VALUE.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis claim references resolve 04-table/T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link T01-model-map.json",
+      "passed": true
+    },
+    {
+      "name": "synthesis claim references resolve 04-table/T01-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis claim references resolve 04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "synthesis local link T02-proposition-hypotheses.json",
+      "passed": true
+    },
+    {
+      "name": "public offer not promoted to demonstrated viable economics",
+      "passed": true
+    },
+    {
+      "name": "commercial/research combination possible with separate explicit rights",
+      "passed": true
+    },
+    {
+      "name": "CPO not made employer-only or vendor-free",
+      "passed": true
+    },
+    {
+      "name": "dated help/editions and announced future event transparent",
+      "passed": true
+    },
+    {
+      "name": "published organisation-year price has unit tax qualifier and no forecast use",
+      "passed": true
+    },
+    {
+      "name": "CPO free editorial vs unknown forum fee separated",
+      "passed": true
+    },
+    {
+      "name": "iVentiv not falsely presented as payroll-specific product",
+      "passed": true
+    },
+    {
+      "name": "prior hold remains CLM-0051",
+      "passed": true
+    },
+    {
+      "name": "prior hold remains CLM-0052",
+      "passed": true
+    },
+    {
+      "name": "prior hold remains CLM-0167",
+      "passed": true
+    },
+    {
+      "name": "prior hold remains CLM-0168",
+      "passed": true
+    },
+    {
+      "name": "prior hold remains CLM-0218",
+      "passed": true
+    },
+    {
+      "name": "prior hold remains CLM-0392",
+      "passed": true
+    }
+  ],
+  "six_models_reviewed": true,
+  "actual_fieldwork": false,
+  "commercial_validation": false,
+  "publication_approval": false,
+  "open_substantive_issues": [],
+  "wording_refinements_applied": [
+    "Publicly offered architecture is not proved commercial viability.",
+    "Research and access can be a separately defined transparent combination; neither has default private-data/meeting rights."
+  ],
+  "provisional_issue_closed": "CIPP 2026 tier-footnote expiry verified; missing-year concern disproved.",
+  "reviewed_artifacts": [
+    {
+      "path": "04-table/T01-COMPARABLE-MODELS.md",
+      "sha256": "9bd5d53d1f1bd80552f447cc8bf234029dc46db91d572fcfe2bf1a0116cd4732"
+    },
+    {
+      "path": "04-table/T01-COMPARABLE-MATRIX.md",
+      "sha256": "f22b7df5661ac5bb6e733fd5d37161919b9e2ddc86114d4887e13b6c6c85c0e3"
+    },
+    {
+      "path": "04-table/T01-DESKTOP-READOUT.md",
+      "sha256": "0f9c36a334cff936e75bfb0632f5f7f60f88dc5d91c6767624da54f5890e6385"
+    },
+    {
+      "path": "04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "sha256": "f3e41ac2032485aeb8c5a1f4307f9db41f77a48b20350066566d0b7b23213a7d"
+    },
+    {
+      "path": "04-table/T01-model-map.json",
+      "sha256": "cc78ba702a83f171bc57deaeac1cdfa86e7b1dbd5e46d261ffd26f955b04fe27"
+    },
+    {
+      "path": "04-table/T02-proposition-hypotheses.json",
+      "sha256": "7a7d1a89c4cdfd5c17874eba789d627def89f0d16e92842e52fd49e2a7398955"
+    },
+    {
+      "path": "08-qa/T01-record-map.json",
+      "sha256": "759d647dee2b6bb12af6f4c4067c8be7c83d92de663a68ce5ea8ba7c0177a1f7"
+    },
+    {
+      "path": "08-qa/T01-captures.json",
+      "sha256": "32b7f176d29d232cdf788ee24b913e88f34b0ad70330833c0bf8a53d83ec06aa"
+    }
+  ],
+  "allowed_following_status_only_changes": [
+    "status",
+    "review_basis"
+  ]
+}

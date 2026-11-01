@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 25,
+  "checks": [
+    {
+      "check": "First-pass R06 field preserved: matrix_rows",
+      "passed": true
+    },
+    {
+      "check": "First-pass R06 field preserved: published_employer_contexts",
+      "passed": true
+    },
+    {
+      "check": "First-pass R06 field preserved: notice_status_contexts",
+      "passed": true
+    },
+    {
+      "check": "First-pass R06 field preserved: blank_event_template",
+      "passed": true
+    },
+    {
+      "check": "First-pass R06 field preserved: decision_dispositions",
+      "passed": true
+    },
+    {
+      "check": "Core questions still exactly version0.2",
+      "passed": true
+    },
+    {
+      "check": "Five optional/unscored/unvalidated conditions",
+      "passed": true
+    },
+    {
+      "check": "No added mandatory questions",
+      "passed": true
+    },
+    {
+      "check": "Second context template blank",
+      "passed": true
+    },
+    {
+      "check": "One LFB history not original JGA fieldwork",
+      "passed": true
+    },
+    {
+      "check": "No later LFB outcome or current proposal state invented",
+      "passed": true
+    },
+    {
+      "check": "Signed and published dates separate",
+      "passed": true
+    },
+    {
+      "check": "Prior prompt limitations explicit",
+      "passed": true
+    },
+    {
+      "check": "Unperformed fieldwork/model remains blank: 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "Unperformed fieldwork/model remains blank: 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "Unperformed fieldwork/model remains blank: 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "check": "Condition references resolve: C01",
+      "passed": true
+    },
+    {
+      "check": "Condition references resolve: C02",
+      "passed": true
+    },
+    {
+      "check": "Condition references resolve: C03",
+      "passed": true
+    },
+    {
+      "check": "Condition references resolve: C04",
+      "passed": true
+    },
+    {
+      "check": "Condition references resolve: C05",
+      "passed": true
+    },
+    {
+      "check": "New LFB context references resolve",
+      "passed": true
+    },
+    {
+      "check": "Prior hold preserved: CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Prior hold preserved: CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Prior hold preserved: CLM-0218",
+      "passed": true
+    }
+  ],
+  "scope": "Scoped peer preservation and analytical-boundary checks; reviewer authored competitor strand and excludes its source/advice/bridge verification from independent assessment; root verifies separately"
+}

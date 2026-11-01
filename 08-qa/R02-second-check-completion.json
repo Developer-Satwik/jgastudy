@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-28",
+  "status": "passed_for_internal_R02_second_challenge",
+  "supersedes_for_current_synthesis": "08-qa/R02-DESKTOP-completion-check.json",
+  "new_source_routes": 20,
+  "new_claim_or_guardrail_records": 22,
+  "source_records": 91,
+  "claim_records": 115,
+  "source_records_with_retained_original": 44,
+  "internal_findings": 23,
+  "new_original_files_hash_checked": 16,
+  "prior_study_bridge_checks_passed": 78,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    }
+  ],
+  "first_pass_snapshots": [
+    {
+      "original_path": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "snapshot_path": "03-report/research-notes/r02-second-check/before-review/R02-operational-needs-and-service-gaps.txt",
+      "sha256": "793b23eb29152451b0be4a54af4672603722d08c1f78838cb9c60c48dcf5f75e"
+    },
+    {
+      "original_path": "03-report/R02-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r02-second-check/before-review/R02-DESKTOP-READOUT.txt",
+      "sha256": "6fa1689f10687d41c2a8c54b382f06176daace06fa8f0413da3992241aaa00a6"
+    },
+    {
+      "original_path": "03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "snapshot_path": "03-report/research-notes/r02-second-check/before-review/R02-NEEDS-CONSEQUENCES-MATRIX.txt",
+      "sha256": "e2736b163e1e0aeaf852c5aec12120067714cc5ffde7db003410efd648b36025"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "03-report/R02-SECOND-CHECK-READOUT.md",
+      "sha256": "e283ef8bce39e68a62b3fd32e06dbe6b4526db7384f1d5d860b45f04dfee53d8"
+    },
+    {
+      "path": "03-report/R02-DESKTOP-READOUT.md",
+      "sha256": "9a530515772ed2098811a2afb5b47e044f3835a27cf2e16cc524a8761b2962ce"
+    },
+    {
+      "path": "03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "sha256": "d35ee937b483976b14590ce81f40f588a4a17939369ed153a0d80c3a1106cdd1"
+    },
+    {
+      "path": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "sha256": "ec074db8553311a6bc23aa67f4cf55f887694fe7815293c1995f224bc008c284"
+    },
+    {
+      "path": "08-qa/R02-second-check-independent-review.md",
+      "sha256": "e44a57d5618d5502a7a67de047fa34497dca63f3799d7d5b4da5abbf95f08eca"
+    },
+    {
+      "path": "08-qa/R02-prior-study-bridge-check.json",
+      "sha256": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab"
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "final_publication_approved": false,
+  "external_actions": [],
+  "next": "R03 technology, integration and operating-model trade-offs; no external sending.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-28",
+    "checks": 415,
+    "json_files": 83,
+    "source_records": 91,
+    "claim_records": 115,
+    "question_records": 14,
+    "internal_design_findings": 23,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 50,
+    "scope": "R01/R02 record linkage and captures; R02 synthesis references and preservation; WP02 draft question mapping and project consistency. No final publication, participant testing, commercial validation or human fieldwork implied."
+  }
+}

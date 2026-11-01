@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "status": "candidate_records_only",
+  "canonical_register_merged": false,
+  "records": [
+    {
+      "source_id": "HIS-S01",
+      "title": "CIPP Future of Payroll Research Report 2020",
+      "publisher": "CIPP",
+      "url": "https://online.flippingbook.com/view/903316/",
+      "publication_date": "2020-06",
+      "fieldwork_period": "Survey distributed approximately eight weeks into the UK lockdown starting 23 March 2020; precise dates not established",
+      "population": "UK payroll professionals, including employer and service-provider perspectives",
+      "sample_size": null,
+      "item_bases": {
+        "anticipated_transactional_automation": 441,
+        "cloud_strategic_value": 438,
+        "board_representation_or_advisory_role": 390
+      },
+      "funding": "Report names JGA, Workday and Zellis as supporters/sponsors",
+      "review_status": "Original hosted report text reviewed; selected item bases in Nick Day foreword; final graphic checks not performed",
+      "claims": [
+        {
+          "locator": "Cover; printed pp13–14 JGA foreword",
+          "finding": "JGA is named among sponsors; Nick Day is named Managing director in the JGA foreword.",
+          "use": "Research lineage; do not imply report ownership."
+        },
+        {
+          "locator": "Printed p13 JGA foreword",
+          "finding": "The foreword discusses future analytical, advisory, leadership and data skills alongside transactional automation.",
+          "use": "Attributed historical commentary, not proof subsequent outcomes occurred."
+        }
+      ],
+      "capture_file": "cipp-future-2020.html",
+      "accessed_on": "2026-10-28",
+      "capture_path": "03-report/research-notes/challenge-history/cipp-future-2020.html",
+      "capture_sha256": "d766b09b57cd6169e7b7702d20167fe395ad3f9308ece911d0952b003d447dc6",
+      "reuse_status": "Private research retention only; publication reproduction and redistribution rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "HIS-S02",
+      "title": "CIPP Future of Payroll Report 2022",
+      "publisher": "CIPP",
+      "url": "https://online.flippingbook.com/view/1017671823/",
+      "publication_date": "2022-06",
+      "fieldwork_period": "Survey posted online for one month; exact dates not established",
+      "population": "UK payroll professionals, in-house and service-provider context",
+      "sample_size": null,
+      "item_bases": {},
+      "funding": "Report names Datagraphic, Experian, JGA and Workday among supporters/sponsors",
+      "review_status": "Original hosted report text reviewed; no final claim-specific graphic check",
+      "claims": [
+        {
+          "locator": "Cover; printed pp9–10 JGA foreword",
+          "finding": "Nick Day is named Managing director of JGA Recruitment Group and contributes a foreword about education, skills and payroll transformation.",
+          "use": "Direct brand-specific history; distinguish foreword expectations from survey findings."
+        },
+        {
+          "locator": "Printed p2 foreword and contents",
+          "finding": "The report covers strategic value, future payments, education and technology.",
+          "use": "Challenge any broad topic novelty claim."
+        }
+      ],
+      "capture_file": "cipp-future-2022.html",
+      "accessed_on": "2026-10-28",
+      "capture_path": "03-report/research-notes/challenge-history/cipp-future-2022.html",
+      "capture_sha256": "3ce83fb18d60dcab1f4dd89addf7b9fcafc04510943d42a93d7df37a1f04ab29",
+      "reuse_status": "Private research retention only; publication reproduction and redistribution rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "HIS-S03",
+      "title": "CIPP Future of Payroll Report 2024",
+      "publisher": "CIPP",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "publication_date": "2024-09",
+      "fieldwork_period": null,
+      "population": "Mixed UK payroll professionals in-house and provider teams across industries",
+      "sample_size": null,
+      "item_bases": {},
+      "funding": "Supported by Ciphr",
+      "review_status": "Original hosted text reviewed; achieved sample described only as hundreds in the inspected foreword; item-specific bases unavailable",
+      "claims": [
+        {
+          "locator": "Printed p4 AI benefits and considerations",
+          "finding": "Separate reported measures include AI use 6%, RPA use17%, and 48% unable to distinguish AI from RPA.",
+          "use": "Context for task-level clarification; not comparable adoption measures across studies."
+        },
+        {
+          "locator": "Printed p7 software functionality",
+          "finding": "53% chose the response combining no current change with happiness with current software.",
+          "use": "Counterevidence to universal dissatisfaction; do not infer UK employer prevalence."
+        }
+      ],
+      "capture_file": "cipp-future-2024.html",
+      "accessed_on": "2026-10-28",
+      "capture_path": "03-report/research-notes/challenge-history/cipp-future-2024.html",
+      "capture_sha256": "bbdd8da94a6855fa58bd7dccc2812391f3058ccf9a9ea34f7298da70ded8f959",
+      "reuse_status": "Private research retention only; publication reproduction and redistribution rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "HIS-S04",
+      "title": "2025 Getting the World Paid Survey Report",
+      "publisher": "PayrollOrg",
+      "url": "https://info.payroll.org/pdfs/global/Global-Payroll-Week-2025-survey-results.pdf",
+      "publication_date": "2025",
+      "fieldwork_period": "2025-02-03 through 2025-04-03",
+      "population": "Global payroll professionals; most respondents US-located; mixed manager/specialist/analyst roles",
+      "sample_size": 585,
+      "item_bases": {},
+      "funding": "Publisher is a professional payroll body; report acknowledgements require final funding/rights review",
+      "review_status": "Original PDF text reviewed; full appendix contains item-specific response bases, not extracted for selected qualitative context",
+      "claims": [
+        {
+          "locator": "Printed p3 About the survey",
+          "finding": "Method describes585 respondents and collection dates, with most respondents located in the US.",
+          "use": "Population context, not JGA UK prevalence."
+        },
+        {
+          "locator": "Printed pp12–14",
+          "finding": "The report identifies source/input data and cut-off issues among accuracy challenges despite connected technology.",
+          "use": "Probe cross-functional handoffs; reported causes are not independently proven causal mechanisms."
+        }
+      ],
+      "capture_file": "payo-2025.pdf",
+      "accessed_on": "2026-10-28",
+      "capture_path": "03-report/research-notes/challenge-history/payo-2025.pdf",
+      "capture_sha256": "d1657bc5ee01c75465aeb0dd825167b1093bb221609841f7fcecd37a80fb71d4",
+      "reuse_status": "Private research retention only; publication reproduction and redistribution rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "HIS-S05",
+      "title": "Mandatory payrolling of benefits in kind and expenses interim guidance and legislation The default operation of mandatory payrolling",
+      "publisher": "HMRC",
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-default-operation-of-mandatory-payrolling",
+      "publication_date": "2025-11-26",
+      "last_updated": "2026-09-23",
+      "fieldwork_period": null,
+      "population": null,
+      "sample_size": null,
+      "item_bases": {},
+      "funding": "Government primary guidance",
+      "review_status": "Official live interim guidance reviewed, not enacted-law verification for advice",
+      "claims": [
+        {
+          "locator": "The default operation of mandatory payrolling, opening list",
+          "finding": "From6 April2027 first mandatory phase lists company cars, car fuel, vans, van fuel and employer medical benefits.",
+          "use": "Dated planned regulatory trigger; recheck at publication and do not say all BiKs."
+        }
+      ],
+      "capture_file": "hmrc-bik-default-2026.html",
+      "accessed_on": "2026-10-28",
+      "capture_path": "03-report/research-notes/challenge-history/hmrc-bik-default-2026.html",
+      "capture_sha256": "993809c6a7285ac47bba7ff3d17dfbc09c1281b67527cdd1114df98a996b7710",
+      "reuse_status": "Private research retention only; publication reproduction and redistribution rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "HIS-S06",
+      "title": "Issue145 of Agent Update",
+      "publisher": "HMRC",
+      "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update",
+      "publication_date": "2026-07-16",
+      "fieldwork_period": null,
+      "population": null,
+      "sample_size": null,
+      "item_bases": {},
+      "funding": "Government primary guidance",
+      "review_status": "Official published update reviewed; later guidance supersedes details where changed",
+      "claims": [
+        {
+          "locator": "Tax Mandatory payrolling of benefits in kind to launch in phases",
+          "finding": "Government says most other benefits will move into mandatory payrolling from April2028.",
+          "use": "Phased planned timeline, not readiness or spending forecast; keep default guidance current."
+        }
+      ],
+      "capture_file": "hmrc-agent-update-145.html",
+      "accessed_on": "2026-10-28",
+      "capture_path": "03-report/research-notes/challenge-history/hmrc-agent-update-145.html",
+      "capture_sha256": "04fcbd7984d82891e2a53b7cc888e53f1e41f66e38781bbe53bc6593cfa270f0",
+      "reuse_status": "Private research retention only; publication reproduction and redistribution rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    }
+  ]
+}

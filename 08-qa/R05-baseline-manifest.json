@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Prior latest topic artifacts and core before R05; no snapshot copy needed because R05 does not revise earlier topics",
+  "files": [
+    {
+      "path": "03-report/R02-SECOND-CHECK-READOUT.md",
+      "sha256": "e283ef8bce39e68a62b3fd32e06dbe6b4526db7384f1d5d860b45f04dfee53d8"
+    },
+    {
+      "path": "03-report/R02-DESKTOP-READOUT.md",
+      "sha256": "9a530515772ed2098811a2afb5b47e044f3835a27cf2e16cc524a8761b2962ce"
+    },
+    {
+      "path": "03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "sha256": "d35ee937b483976b14590ce81f40f588a4a17939369ed153a0d80c3a1106cdd1"
+    },
+    {
+      "path": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "sha256": "ec074db8553311a6bc23aa67f4cf55f887694fe7815293c1995f224bc008c284"
+    },
+    {
+      "path": "08-qa/R02-second-check-independent-review.md",
+      "sha256": "e44a57d5618d5502a7a67de047fa34497dca63f3799d7d5b4da5abbf95f08eca"
+    },
+    {
+      "path": "08-qa/R02-prior-study-bridge-check.json",
+      "sha256": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab"
+    },
+    {
+      "path": "03-report/R03-SECOND-CHECK-READOUT.md",
+      "sha256": "6a3f82ba480ed90d93d1df94f2ed519cd824a76159c84dd9c257a94cab8c8e1f"
+    },
+    {
+      "path": "03-report/R03-DESKTOP-READOUT.md",
+      "sha256": "876e372d16c4e1d1bf3c88767f3c075d8f61e2c03105b89370463ef60618e934"
+    },
+    {
+      "path": "03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "sha256": "a1d703549e36e0bc2bbf4b478b341c4523202892f2907a9e600140a9fcd73f5c"
+    },
+    {
+      "path": "03-report/R03-option-map.json",
+      "sha256": "3cbeeb525cf4f6e07c902bb1304b7ac29c1c2eff7afc7684b463bfbdd4ba823a"
+    },
+    {
+      "path": "03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "sha256": "7994bca53020043d1e39b6ce50b2900b6a73b5a7928bf41c76b24a5b46738136"
+    },
+    {
+      "path": "08-qa/R03-second-check-independent-review.md",
+      "sha256": "50b86dfb23da8f80cc69841f0a13521c3029290294269be9507a92f88f2cc21b"
+    },
+    {
+      "path": "08-qa/R03-prior-study-bridge-check.json",
+      "sha256": "fb9ec2849bc660fae2a627e91aa48076bc3ad20cdf35dec7d8f398f86880669f"
+    },
+    {
+      "path": "08-qa/R03-second-check-record-map.json",
+      "sha256": "00dc5e604318e58328558dd174b8b7a71c76c14b37d1779e3422f639593244ea"
+    },
+    {
+      "path": "03-report/R04-SECOND-CHECK-READOUT.md",
+      "sha256": "6c08a21ff403c62c41601519d62ebdcb2bf48fcc520398220f5fcf355119d7b3"
+    },
+    {
+      "path": "03-report/R04-DESKTOP-READOUT.md",
+      "sha256": "ac9e0a6a3946b8023b30be04fcce823f2134eaef24cf45aec923af2cf8a1a972"
+    },
+    {
+      "path": "03-report/R04-DECISION-PATHWAY.md",
+      "sha256": "fc02f630e3353ebacfc49b352c09f03725400ff28087e4a6246cd73a96e58fd5"
+    },
+    {
+      "path": "03-report/R04-decision-map.json",
+      "sha256": "fb2b21afcd725c26b97995fd7f9577536decc1c4169061820411a8eefc43d483"
+    },
+    {
+      "path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "sha256": "535166df272b4c95dbd9110c728f3c5e697404ac4550e926b261224330dd2fa3"
+    },
+    {
+      "path": "08-qa/R04-second-check-record-map.json",
+      "sha256": "cb7d5163870fbf3370d8ab4824f1d845dc2f61e7e957a2b4f1b98d726b21781c"
+    },
+    {
+      "path": "08-qa/R04-second-check-independent-review.md",
+      "sha256": "6e37652e2f377e6789eda88be0c20f177e44225fc08c64052cf94eeeb4d813ed"
+    },
+    {
+      "path": "08-qa/R04-prior-study-bridge-check.json",
+      "sha256": "acd73cf1c9d745919c61e91decd2f4f4dd4cca0c26af184feb0733f57ecd5c56"
+    },
+    {
+      "path": "01-method/question-map.json",
+      "sha256": "bad8effb5898e40af9cefbb68d104de7730a5fd118eb92c6b1083254bd4036f6"
+    }
+  ]
+}

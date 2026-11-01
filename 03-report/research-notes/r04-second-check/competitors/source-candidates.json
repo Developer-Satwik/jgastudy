@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC4COMP-S01",
+      "title": "UK Hays timesheets: FAQs for workers and employers",
+      "publisher": "Hays",
+      "url": "https://www.hays.co.uk/faqs/timesheets",
+      "source_type": "supplier_operational_authorisation_documentation",
+      "published_date": null,
+      "last_updated": null,
+      "date_note": "No substantive issue/update date established on inspected FAQ",
+      "locator": "Who approves my timesheet? and employer Approving timesheets; original reader lines316–323 and557–572; matching retained HTML",
+      "population": "Hays temporary-worker time/expense approval route; not a sample of employer investment decisions",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Recruitment supplier describes own service or client brief",
+      "limitations": "The supplier explains its own operational workflow. Do not infer wider purchasing, budget, contractual-signature or project-output acceptance authority. Timed alternate approval is scoped portal permission, not proof of legal corporate delegation.",
+      "review_status": "relevant_live_original_sections_inspected",
+      "reuse_status": "Private verification; final-use wording and rights review pending",
+      "accessed_on": "2026-10-29",
+      "capture_path": "03-report/research-notes/r04-second-check/competitors/captures/SC4COMP-S01.html",
+      "capture_sha256": "c09ca028c48c8e8be1c737fe010c0a73a5ad9a3f9709e5985d3ec05d80bbc473",
+      "capture_kind": "retained_original_html",
+      "http_status": 200,
+      "final_url": "https://www.hays.co.uk/faqs/timesheets"
+    },
+    {
+      "candidate_id": "SC4COMP-S02",
+      "title": "Head of Payroll - UK Services Lead, PR/016275",
+      "publisher": "Oakleaf Partnership",
+      "url": "https://www.oakleafpartnership.com/jobs/head-of-payroll-uk-services-lead-pr-016275",
+      "source_type": "recruiter_published_prospective_role_brief",
+      "published_date": "2026-10-23",
+      "last_updated": null,
+      "date_note": "Displayed advert date",
+      "locator": "Role summary and duties; original reader lines24–48; matching retained HTML",
+      "population": "One advertised UK energy-company local services role; employer unnamed and no observed appointment",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Recruitment supplier describes own service or client brief",
+      "limitations": "Requested remit, not evidence of a filled role, effective delegation or exercised rights. Resource allocation/provider oversight do not disclose supplier-selection, budget-envelope or contract-signature powers. Salary and current availability not adopted.",
+      "review_status": "relevant_live_original_sections_inspected",
+      "reuse_status": "Private verification; final-use wording and rights review pending",
+      "accessed_on": "2026-10-29",
+      "capture_path": "03-report/research-notes/r04-second-check/competitors/captures/SC4COMP-S02.html",
+      "capture_sha256": "01fe0e6d604429ec6e7fb93bb6a892a1af5ffa95fc442f3a4b232148cc6e592c",
+      "capture_kind": "retained_original_html",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/jobs/head-of-payroll-uk-services-lead-pr-016275"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0114",
+      "locator": "Permanent/Temporary/Executive/Client Solutions; original reader turn516view3 lines96–141",
+      "review_result": "Fresh original-body reader review; local raw403. Recruiting routes do not disclose employer investment rights."
+    },
+    {
+      "source_id": "SRC-0119",
+      "locator": "The challenge/outcome/client attribution; reader turn516view1 lines180–205",
+      "review_result": "Fresh original-body read; selected reader extract retained, raw403. CPO tasked with reorganisation is not whole approval chain.",
+      "selected_extract": {
+        "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0119-reader-extract.txt",
+        "sha256": "ab2f6cd817a30b36216d0c1bbd7c32406da5145041d4a05bf19b1ecf03b67bb0",
+        "kind": "selected_reader_extract_not_original"
+      }
+    },
+    {
+      "source_id": "SRC-0115",
+      "locator": "Payroll capabilities and recent placements; reader turn526view1 lines20–38",
+      "review_result": "Fresh original sections and raw HTML retained. Placement titles do not define approval mandates.",
+      "capture_path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0115.html",
+      "capture_sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803"
+    },
+    {
+      "source_id": "SRC-0120",
+      "locator": "Interim Payroll and Pensions Manager duties; reader turn516view2 lines24–42",
+      "review_result": "Fresh original-body reader review; existing28October raw capture reused. Statutory/operating remit is not investment authority."
+    },
+    {
+      "source_id": "SRC-0116",
+      "locator": "Payroll Search; retained current HTML text lines13–27",
+      "review_result": "Fresh raw original captured and parsed text inspected after reader timeout; scope/judgement/influence positioning not delegation.",
+      "capture_path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "dc197835fc8d9a7be3735903998ec926b35c3007b8ab22e5c2fe04c096da8c64"
+    },
+    {
+      "source_id": "SRC-0147",
+      "locator": "Delivery models and SOW creation; reader turn526view4 lines269–294,345–376",
+      "review_result": "Fresh original sections and raw HTML retained. PMO/deliverable declarations are not a signed payroll SOW or business approval.",
+      "capture_path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0147.html",
+      "capture_sha256": "e0cfd342a022bde55eadb340fd808cdf0c35308d796e0c36094309df8c365037"
+    },
+    {
+      "source_id": "SRC-0148",
+      "locator": "Intro and advisory/implementation/operations; reader turn524view2 lines1–16",
+      "review_result": "Fresh original body and raw HTML retained. Consulting/staffing combination does not disclose client reserved powers.",
+      "capture_path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0148.html",
+      "capture_sha256": "e75e8ebe5edf0d613c9f2a9607b65d04214084e6f7f0a1f614cfa347d6e03195"
+    },
+    {
+      "source_id": "SRC-0113",
+      "locator": "Payroll recruitment proposition; reader turn524view3 lines2–9",
+      "review_result": "Fresh original-body review; local403. Broad proposition adds no evidence of employer investment rights or a need to hire."
+    }
+  ]
+}

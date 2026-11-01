@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5O-C01",
+      "source_candidate_ids": [
+        "T5O-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Time andresourceplanning; Recruitingparticipants; relevantretainedHTMLsections",
+      "claim_text": "Camden guidance includes preparation, recruitment, non-response/cancellation handling, analysis and quality review in research-resource planning, with external facilitator briefing and assurance as retained work.",
+      "evidence_class": "primary_method_or_project_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Scoped planning analogy from public health. No recruiterconversionrate, JGAhours, statutoryrequirement or costbenchmark follows.",
+      "status": "T05R_second_desktop_context"
+    },
+    {
+      "candidate_id": "T5O-C02",
+      "source_candidate_ids": [
+        "T5O-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Transcribingsectionandfootnote1",
+      "claim_text": "Camden distinguishes selecting notes versus recording and transcription according to the detail needed, and includes accuracy review where transcription is used.",
+      "evidence_class": "primary_method_or_project_context",
+      "value": null,
+      "unit": null,
+      "limitations": "The existing structured-note/written-input JGA route stays intact; no recording or transcription service is activated. Publishedtranscriptiontimefigureisnotadopted.",
+      "status": "T05R_second_desktop_context"
+    },
+    {
+      "candidate_id": "T5O-C03",
+      "source_candidate_ids": [
+        "T5O-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Abouttheproject andProjectduration",
+      "claim_text": "UK Data Service describes planned AI-assisted transcription, anonymisation and thematic coding with human oversight during its July2026\u2013March2027 QUADRA-AI project.",
+      "evidence_class": "primary_method_or_project_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Plannedinstitutionalworkisnotcommercialsoftwareavailability or proof of JGAproductivitysaving. The source gives noJGAautomationpercentage.",
+      "status": "T05R_second_desktop_context"
+    },
+    {
+      "candidate_id": "T5O-C04",
+      "source_candidate_ids": [
+        "T5O-S01",
+        "T5O-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "ResearcherapplicationtoselectedworkloadtasksWR03\u2013WR08WR10WR14JG03",
+      "claim_text": "The JGA cost plan should preserve method-specific preparation and review work and distinguish any proposed assisted process from measured, permitted and delivery-ready savings.",
+      "evidence_class": "researcher_method_and_cost_application",
+      "value": null,
+      "unit": null,
+      "limitations": "Selective analyst application, not a newmandatoryguide or standard; currenttools/permissions remainunderexistingWP03arrangements.",
+      "status": "T05R_second_desktop_context"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-29",
+  "searches": [
+    {
+      "queries": [
+        "site.theportfoliogroup.com payroll salary guide employer benefits2026 benchmarking salary",
+        "site.frazerjones.com payroll transformation salary benchmarking business case",
+        "site.oakleafpartnership.com payroll salary guide2026 benchmarking",
+        "site.middlemore.co.uk payroll salary benchmarking"
+      ],
+      "purpose": "Locate relevant primary evidence/value propositions across comparators"
+    },
+    {
+      "queries": [
+        "site.hays.co.uk salary guide2026 methodology salaries employer contributions UK",
+        "site.roberthalf.com gb en salary guide how salary data calculated starting salaries2026",
+        "site.frazerjones.com payroll business case",
+        "site.jgarecruitment.com salary guide"
+      ],
+      "purpose": "Challenge benchmark basis and payroll proposal boundary"
+    }
+  ],
+  "fresh_original_routes_inspected": [
+    "https://www.theportfoliogroup.com/added-value/",
+    "https://www.frazerjones.com/market-insight/how-to-avoid-problems-when-implementing-payroll-for-new-market-entries-and-acquisitions/",
+    "https://salary-guide.hays.co.uk/salary-guide-2025",
+    "https://www.roberthalf.com/gb/en/insights/salary-guide",
+    "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+    "https://middlemore.co.uk/payroll-search/",
+    "https://www.hays.co.uk/recruitment-services/project-services",
+    "https://www.roberthalf.com/gb/en/consulting",
+    "https://jgarecruitment.com/payroll-recruitment/"
+  ],
+  "excluded_or_not_adopted": [
+    "Oakleaf benchmarking app and self-declared confidence/data totals not used; authenticity/microdata/functionality not checked.",
+    "Search-index2026 Robert Half version not mixed with current2027 live body.",
+    "Linked Portfolio downloads not submitted/downloaded; underlying method and figures not assessed.",
+    "Generated IR35/tax-status simplifications and numeric salary statements excluded without legal or quote validation."
+  ],
+  "scope": "All six recruiters plus JGA context; selected original public bodies, no full-site audit or measured market comparison.",
+  "new_original_participants": 0,
+  "forms_submitted": 0,
+  "accounts_created": 0,
+  "external_messages": 0
+}

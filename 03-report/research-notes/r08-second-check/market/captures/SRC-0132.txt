@@ -1,0 +1,96 @@
+Understanding the payroll cycle
+Documentation Index
+Fetch the complete documentation index at: https://help.cintra.co.uk/llms.txt
+Use this file to discover all available pages before exploring further.
+Cintra People
+Cintra People HR
+Cintra People Payroll
+Cintra iQ
+Capture Expense
+Search
+CTRL+K
+Press CTRL+K to open search
+Powered by
+Understanding the payroll cycle
+Updated on  Oct 22, 2026
+Published on May 15, 2026
+3 minute(s) read
+Focus
+RH
+Print
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this pageArticle summary Prev  Next
+Each pay period follows a set sequence of stages, from preparing the payroll through to payment. Understanding where your payroll is in this cycle helps you know what action is required to progress it.
+The stages are visible as “pills” in the status pipeline at the top of any open payroll.
+You will only see these symbols if your payroll(s) are managed by a bureau, such as Cintra outsourced services. No status symbols will be visible if you manage your own payroll.
+The steps described below will vary, depending on two factors:
+Whether a bureau processes your payroll
+And whether a bureau makes payments on your behalf
+Scenario
+Submit payroll?
+Approve payroll?
+Authorise payment?
+Bureau processes payroll, bureau makes payments
+Yes
+Yes
+Yes
+Bureau processes payroll, customer makes payments
+Yes
+Yes
+No
+Customer processes payroll, bureau makes payments
+No
+No
+Yes
+Customer processes payroll, customer makes payments
+No
+No
+No
+Stage 1: Awaiting Submission
+If you are an outsourced customer (i.e. bureau processes your payroll), you will need to submit it.
+If you run your own payroll, you can continue the process (e.g. in Cintra iQ) instead of submitting.
+The payroll is open and ready for you to review. During this stage you can make changes to employee records, add one-off payments and deductions, and update salary and allowance information.
+Remember: If you are an outsourced customer, you are responsible for sending any additional information (i.e. anything not recorded within Cintra People Payroll) to the bureau through the messaging feature.
+If any changes have been made, a Recalculate banner appears at the top of the payroll. Select Recalculate to update your estimated totals before submitting.
+When you are satisfied the payroll is correct, select Submit to send it to your bureau for processing.
+Make sure you agree with the statement, tick the box, then click Submit payroll & lock.
+Why can’t I submit the payroll?
+If the Submit button is faded out, you can hover over it to find out more about the problem. A common reason is that you haven’t recalculated the payroll.
+Stage 2: Submitted / Awaiting approval
+This stage only applies if bureau processes payroll for you.
+The payroll has been sent to your bureau. Your bureau will review and process the payroll on your behalf. You may receive automated messages during this stage, for example, if your bureau unlocks the payroll for you to make corrections. If the payroll is unlocked, it returns to Awaiting Submission and you will need to resubmit once your changes are made.
+During this stage, Bureau will generate a series of reports that you will need to approve.
+Stage 3: Approval
+This stage only applies if bureau has processed your payroll and returned to you for approval. Please check payroll reports before approving.
+At this stage, you should check all relevant payroll reports before approving. If something is wrong, use the messaging feature to inform bureau who will make the corrections and send updated reports. Otherwise, if everything is correct, you can approve the payroll.
+Stage 4: Payment authorisation
+This stage only applies if bureau has processed payroll and returned reports for your review.
+Once payment details are ready, a banner appears on the Payrolls page prompting you to review payments. Select Payments in the left navigation to view the payments awaiting authorisation. Payments must be authorised before the deadline shown.
+For more information, see Payment authorisations and history.
+If the pay date has passed, you will need to contact bureau to change the pay date.
+Exceptions
+A paid by employer status may appear if bureau would normally make the payment, but your organisation has told bureau it will make the payment instead (e.g. an extra payment run for a new starter who was missed).
+Automated messages
+At certain points in the cycle, automated messages are sent to relevant users. These appear in your Messages inbox alongside any manual messages from your bureau team. Common automated messages include notification that your payroll is ready for processing, and notification that your payroll has been unlocked for editing.
+See Messaging for more information.
+FAQs
+What’s the difference between submit, approve and authorise?
+Submit sends your payroll to bureau for processing.
+Approve confirms the payroll reports returned by bureau are correct.
+Authorise payment confirms bureau can make the employee payment on your behalf.
+What happens after the payroll is period?
+After a payroll is complete, the next payroll does not begin automatically in Cintra People. The payroll must first be rolled forward (either in Cintra iQ, or by your payroll team). Once complete, payroll will be unlocked for the new payroll period.
+Once the payroll has been rolled forward, the next payroll appears in Cintra People with the cycle ready to begin again.
+For a single payroll, only one payroll period can be open at a time.
+Was this article helpful?
+Yes  No
+Related articles
+In-house vs outsourced payroll
+Payroll concepts and reference
+Overview of Payroll functionality
+Payrolls
+Managing organisations
+Cintra Bureau > Users, teams, and organisations
+© Cintra HR & Payroll
+0191 478 7000
+www.cintra.co.uk

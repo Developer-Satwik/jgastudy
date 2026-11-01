@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "id": "BUY6-S01",
+      "url": "https://kommunikasjon.ntb.no/files/17848729/18969211/335309/no",
+      "final_url": "https://kommunikasjon.ntb.no/files/17848729/18969211/335309/no",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:42:20.987194+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "sha256": "eda4585c95f5faea2294fc182c50515068a1a8b25215bf62e4f896c17aacf17e",
+      "kind": "retained_original_pdf"
+    },
+    {
+      "id": "AZETS-article",
+      "url": "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+      "final_url": "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:42:21.575263+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.html",
+      "sha256": "b713c8197007713169b7ecc1da0ad3f8f15c968f692782cdbb38e00e126b2959",
+      "kind": "retained_original_html"
+    },
+    {
+      "id": "AZETS-landing",
+      "url": "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll",
+      "final_url": "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:42:21.922369+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.html",
+      "sha256": "c526f8d4e3d30ee8f9883c9dc726fb27d536b79e0eec2148f29fdcb6d2bf98f3",
+      "kind": "retained_original_html"
+    },
+    {
+      "id": "SRC-0011",
+      "url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+      "final_url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:04.435130+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.html",
+      "sha256": "d8d9a5130e9b6bd3281376de0a604b6c88ac5a3674824d3ee754673518638d07",
+      "kind": "retained_original_html"
+    },
+    {
+      "id": "SRC-0031",
+      "url": "https://www.moorepay.co.uk/the-ultimate-guide-to-changing-your-payroll-provider/",
+      "final_url": "https://www.moorepay.co.uk/the-ultimate-guide-to-changing-your-payroll-provider/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:05.800059+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.html",
+      "sha256": "f46eddb44c39d33b5e9962a2b9cfa4acaf418a4d9c7de1c7958f87e85e0d4aba",
+      "kind": "retained_original_html"
+    },
+    {
+      "id": "SRC-0012",
+      "url": "https://www.sdworx.co.uk/en-gb/press/2026-04-21-uk-employers-accelerate-move-full-payroll-outsourcing",
+      "final_url": "https://www.sdworx.co.uk/en-gb/press/2026-04-21-uk-employers-accelerate-move-full-payroll-outsourcing",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:07.406640+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.html",
+      "sha256": "d0777a58194fd6800e4a941d010099da664efc0ff050c9f7de81e04a04d3d463",
+      "kind": "retained_original_html"
+    },
+    {
+      "id": "SRC-0070",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "final_url": "https://online.flippingbook.com/view/706203142/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:09.087842+00:00",
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.html",
+      "sha256": "8b16a45216ddc2d0a44ae553bc3a6288c8555f8ba335534938621416d93360d2",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p2.png",
+      "sha256": "96534696cf987f162c74c65d774c184f6d6e3c07e6f0f0b48a3e1388b0a0bf45",
+      "kind": "rendered_page",
+      "pdf_page_1_based": 2,
+      "printed_page": 2
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p13.png",
+      "sha256": "cfaada98db296ce253485c85621a4c8dc5428aec1fee1cca452aa78944951f54",
+      "kind": "rendered_page",
+      "pdf_page_1_based": 13,
+      "printed_page": 13
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p29.png",
+      "sha256": "e027963e5e5593ce05f27d84c29606b16ff6c5c4e96a4492eea9b181e5a9f5a1",
+      "kind": "rendered_page",
+      "pdf_page_1_based": 29,
+      "printed_page": 29
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p30.png",
+      "sha256": "9c44c002107918a6a99d5950c2886981cfcb128c58193e9da6f6179896bd0b04",
+      "kind": "rendered_page",
+      "pdf_page_1_based": 30,
+      "printed_page": 30
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-02.png",
+      "sha256": "3b920677a66b635f401a2099d919dde37bbd18495dd05fab31a0e45b7483e8dc",
+      "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-02.png?x99966",
+      "final_url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-02.png?x99966",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:46.392602+00:00",
+      "kind": "published_original_chart_asset"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-03.png",
+      "sha256": "9fe89b2a62646d7107a2d1f85b2160217cb1ec4e96078b216bf053218dc6f1b6",
+      "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-03.png?x99966",
+      "final_url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-03.png?x99966",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:47.439224+00:00",
+      "kind": "published_original_chart_asset"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-05.png",
+      "sha256": "612f6acb022eb921bf5812ef859ae353a4502cde7a6f75fd465a8330f3a34820",
+      "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-05.png?x99966",
+      "final_url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-05.png?x99966",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:48.431855+00:00",
+      "kind": "published_original_chart_asset"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.txt",
+      "sha256": "41930c5d91e2046e7db6f98d541c5002d2a3584e044c0b375a9bbe3277c53886",
+      "kind": "parsed_pdf_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.txt",
+      "sha256": "d73a7104f3a58ca372860228c3b85dd7f5afbfaf4f61ddc1165e5fd01a5695ce",
+      "kind": "parsed_html_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.txt",
+      "sha256": "16a9396d22b27f928f6d2957261b8e9dbd780163c3617ab62dc6a09fea0ef2b4",
+      "kind": "parsed_html_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.txt",
+      "sha256": "94e9e9f04eff41327349e14eb0203feacc22c8b0a4abeedf54c095e3706d718b",
+      "kind": "parsed_html_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.txt",
+      "sha256": "f8ebb1243b1bc0193855325f8bd1eb490b448132d88c3d17f3ee87fbe0e7bea4",
+      "kind": "parsed_html_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.txt",
+      "sha256": "3637aa47b27b85bb39d3a35e2abcfe3520bd7a4f342db74fa5448cbe9571c9ea",
+      "kind": "parsed_html_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.txt",
+      "sha256": "fdcd91e8badd293b20a0f95affd405b44583f0bdaada8db558e39c20fa012c93",
+      "kind": "parsed_html_text"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p32.png",
+      "sha256": "0bae15e96b505174ca5681ed1615f90c211bafe9ebda0e9be5f67ff9c116dd6b",
+      "kind": "rendered_page",
+      "pdf_page_1_based": 32,
+      "printed_page": 32
+    }
+  ]
+}

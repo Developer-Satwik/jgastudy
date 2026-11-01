@@ -1,0 +1,1232 @@
+
+
+ Service Costing in Government - GOV.UK
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time.
+
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+ Accept additional cookies
+
+ Reject additional cookies
+
+ View cookies
+
+ Hide cookie message
+
+ Skip to main content
+
+ GOV.UK
+
+ Navigation menu
+
+ Menu
+
+ Menu
+
+ Services and information
+
+ Benefits
+
+ Births, death, marriages and care
+
+ Business and self-employed
+
+ Childcare and parenting
+
+ Citizenship and living in the UK
+
+ Crime, justice and the law
+
+ Disabled people
+
+ Driving and transport
+
+ Education and learning
+
+ Employing people
+
+ Environment and countryside
+
+ Housing and local services
+
+ Money and tax
+
+ Passports, travel and living abroad
+
+ Visas and immigration
+
+ Working, jobs and pensions
+
+ Government activity
+
+ Departments
+
+Departments, agencies and public bodies
+
+ News
+
+News stories, speeches, letters and notices
+
+ Guidance and regulation
+
+Detailed guidance, regulations and rules
+
+ Research and statistics
+
+Reports, analysis and official statistics
+
+ Policy papers and consultations
+
+Consultations and strategy
+
+ Transparency
+
+Data, Freedom of Information releases and corporate reports
+
+ Search GOV.UK
+
+ ×
+
+ Search GOV.UK
+
+ Search
+
+ Search GOV.UK
+
+ Search
+
+ Home
+
+ Government
+
+ Government efficiency, transparency and accountability
+
+ Service Costing in Government
+
+ GovernmentFinanceFunction
+
+ HM Treasury
+
+ Guidance
+
+ Service Costing in Government
+
+Published 6 August 2026
+
+ Contents
+
+ 1. Costing foundations and accountability
+
+ 2. Building the cost structure
+
+ 3. Determine costs; method selector
+
+ 4. Costs to outcomes (productivity and value)
+
+ 5. Assurance, controls and risk
+
+ 6. Adoption of best practice
+
+ 7. Tools and further resources
+
+ 8. Case studies, templates and resources
+
+ 9. Glossary
+
+ Print this page
+
+ © Crown copyright 2026
+
+ This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+
+ Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+ This publication is available at https://www.gov.uk/government/publications/service-costing-in-government/service-costing-in-government
+
+1.     Costing foundations and accountability
+
+1.1 Foreword by Andrew Cartner
+
+Understanding the cost of public services has never been more important. Government is delivering a wider and more complex range of services, often through multiple organisations, systems and delivery channels. At the same time, departmental budgets remain under sustained pressure, and Parliament, the public and external bodies rightly expect decisions about public money to be supported by robust evidence.
+
+Good service costing is not an end in itself. It is a practical foundation for better decision-making, helping departments understand what drives costs, where productivity can be improved, how services can be delivered sustainably, and how fees and charges can be set on a lawful, transparent and defensible basis. It supports Accounting Officers, Finance Directors, service owners and operational colleagues to make informed choices about value for money, service quality and long-term affordability.
+
+The National Audit Office and Public Accounts Committee have highlighted the need for government to improve the consistency and maturity of service cost information. Their work reinforces a wider imperative, that departments need reliable, proportionate and comparable cost insight if they are to manage services well, explain choices clearly, and maintain public confidence in the stewardship of public funds.
+
+This guidance has been developed by finance and analysis practitioners across government, co-ordinated by the Government Finance Function, and in collaboration with a range of external stakeholders including CIMA, and the Canadian Government. It does not seek to impose a single methodology on every service, nor to create unnecessary bureaucracy. Instead, it provides a practical route through the key judgements departments need to make: defining the service, understanding the data, selecting a proportionate costing approach, assuring the evidence, and using the results to support decisions.
+
+The centre has an important role to play in setting expectations, sharing good practice and helping departments learn from what works. But the real value of this guidance will come from its use by finance, analytical, policy and operational colleagues working together to improve cost understanding in the services they know best.
+
+By strengthening the quality, transparency and use of service cost information, we can support better decisions, better value for money and better outcomes for the public.
+
+Andrew Cartner
+
+Deputy Head of the Government Finance Function
+
+1.2 Who is this guidance for?
+
+This guidance is intended to help departments and arm’s-length bodies take a practical, proportionate approach to service costing. It is aimed at finance, analytical, policy and operational colleagues who are involved in costing work, and adjacent, downstream decision making. It supports common use‑cases like fee setting and review, service redesign, business planning (Spending Review/efficiency planning) and sets out the minimal assurance and accountability required so outputs are credible to departmental leadership, HM Treasury, and external scrutiny.
+
+1.3 How to use this guidance: starting with Design Principles
+
+This guidance sets out a set of recommended design principles to assist with end-to-end costing best practice:
+
+Define purpose and expected outcomes (what decision will this support?)
+
+Define the service and units (boundaries, outputs, volumes)
+
+Define roles, responsibilities and accountability
+
+Build the cost structure/model map (cost breakdown/cost pools/mapping)
+
+Gather evidence, data, and associated assumptions (minimum dataset and quality)
+
+Determine costs (allocations and method choice)
+
+Assure, validate and document (audit trail)
+
+Communicate and use the results (decision-ready outputs)
+
+Refresh and maintain minimum dataset (cadence and versioning)
+
+This guidance is also intended to help departments identify gaps in the foundations of their service costing. Where the information needed to produce a robust costing is not available, users should record the missing data, unclear ownership, weak service definitions or unsupported assumptions, explain the impact on the costing, and use that gap analysis to prioritise improvements to data, systems, ownership and evidence over time.
+
+1.4 Purpose and expected outcomes
+
+A robust understanding of service costs is important for chargeable services, particularly where Managing Public Money (MPM) expects fees and charges to be based on the cost of providing the service and reviewed transparently over time. Before you build a model or gather data, be clear on what decision the costing will inform and who will use it. This will shape everything that follows.
+
+What decision will this support? For example, setting/reviewing fees, redesigning a service, prioritising investment, choosing between policy options, assessing affordability, or setting productivity targets
+
+Who is the decision-maker/audience? For example, service owner, Finance Director, Accounting Officer, Ministers, the Board, HM Treasury.
+
+When is the decision needed, and over what period? Is this required for immediate in‑year choices vs business planning, or a one‑off decision vs something you will refresh and track over time.
+
+What level of detail is required? Is this an indicative view for early options, or a more assured figure that can withstand challenge and audit.
+
+1.5 Defining service boundaries; what is a ‘service’ to be costed
+
+In the context of this guidance, a service is a discrete set of activities that delivers a defined outcome or unit of value to either the public, or internal government stakeholders.
+
+To ascertain the boundary of a service, consider the following:
+
+Purpose: clearly state the customer, outcome, and primary unit(s) of output.
+
+Inclusions: BAU activities and enabling steps required to deliver the output (e.g. case handling, standard quality checks).
+
+Exclusions: consider one‑off change projects and policy development unless explicitly in scope for the decision being made.
+
+Shared/enabling platforms: treat corporate/IT platforms as overheads unless a platform is the service itself (e.g. paid‑for digital channel).
+
+Edge cases: where multiple services share a journey (e.g. triage), split by measurable drivers (volumes, minutes, transactions) and document assumptions.
+
+Versioning: record the service definition and any material changes between periods to preserve comparability.
+
+Some examples to help illustrate a defined service are as follows:
+
+External service: “Issue standard passport”.
+
+Unit: passports issued; scope includes application checks, printing, dispatch, but excludes transformation projects.
+
+Internal service: “Recruit a new team member”
+
+Unit: hires completed, scope includes advertising, sifting, interviews, onboarding, but excludes HR policy design.
+
+1.6 Roles, governance and senior accountability
+
+Robust service costing depends on clear ownership, proportionate governance and effective collaboration between finance, service, analytical and operational colleagues. In some services, ownership will sit clearly with a single service owner; in more complex services it may be shared across several teams or evolve as the service changes. The important point is that roles, decision rights and sign-off responsibilities are explicit, documented and understood:
+
+Accounting Officer (AO): accountable for ensuring that material service-level cost information is robust, used in decision-making and subject to appropriate senior oversight. This is particularly important where cost information supports fee setting, cost recovery, business cases, spending decisions or wider value-for-money judgements under MPM
+
+Service Owner (SRO/Director): ensures an up‑to‑date, documented service definition and validates outputs and drivers; agrees assumptions.
+
+Finance Director (FD)/HoF: ensures method selection is proportionate; signs off the minimum dataset and reconciliations, and maintains the assurance pack.
+
+Modelling Lead: builds and evidences relevant model(s), and keeps the allocation log and assumptions register up to date.
+
+Government Finance Function (centre): supports departments by setting common expectations, sharing good practice, developing practical tools and templates, and supporting capability. The Government Finance Function (GFF) will also monitor the efficacy of service costing through existing products; End of Year Assessments (EoYA) and Continuous Improvement Assessment Framework (CIAF).
+
+HM Treasury: has a distinct role where service cost information informs spending control, allocations, business cases, fee and charge approvals, Spending Review decisions or wider value-for-money assessments.
+
+Note that service costing should not be treated as a finance-only exercise. Many material cost drivers, such as demand, processing time, rework, service standards, automation and complexity, often sit with operational, digital, policy or service teams. Departments should therefore make clear who owns these drivers, who can influence them, and how they will be reviewed through existing governance and performance routines.
+
+1.7 Proportionality, consistency, transparency
+
+Proportionality is key when designing costing methodologies so as not to create undue burden or complexity. It is imperative to choose the least‑complex method that reliably supports the relevant service boundaries, decision-making and audit trails.
+
+Consistency means formulating and using a common minimum dataset, standard allocation bases where feasible, and stable service definitions, flagging any changes as they arise.
+
+Transparency means making assumptions, allocations, and data sources explicit, and providing a simple narrative of material movements and sensitivities.
+
+Practical costing controls:
+
+In practice, service costing can be challenging. Departments may face incomplete data, inconsistent service definitions, shared platforms, legacy systems, changing operating models, limited time evidence, or uncertainty about how to allocate overheads. The aim is not to achieve artificial precision, but to produce a cost view that is proportionate, transparent and sufficiently robust for high quality decision making. Where limitations exist, they should be clearly documented and explained.
+
+Some rules of thumb to consider:
+
+Reconcile inputs to system totals before modelling (GL, payroll, MI volumes)
+
+Document exceptions: any exclusions or one‑offs must be listed with rationale and approval.
+
+Comparability, i.e. preserving last period’s service/version mapping to support trends and benchmarking.
+
+2.     Building the cost structure
+
+Building a robust cost structure begins with translating the service definition into a practical and traceable model. This requires identifying the resources needed to deliver the service, structuring those costs into logical groupings, and mapping them through activities and stages to defined outputs and units. The model should be grounded robust operational data, with a clear line of sight from source inputs through to final cost outputs so that it can be reconciled, assured, and refreshed over time.
+
+2.1 Controls and data sets
+
+Once the service purpose, boundaries, outputs and ownership have been defined, the next step is to translate that agreed service definition into a practical cost structure, showing the relevant cost pools, activities, outputs, data sources and allocation routes.
+
+Build the cost model using a complete, evidenced dataset aligned to financial systems and operational data. Where relevant, include:
+
+General ledger data for all relevant cost centres and codes
+
+Payroll information (FTE, grade, cost rates, on-cost assumptions)
+
+Supplier and contract costs attributable to the service
+
+Estates, IT, and shared service costs with defined allocation bases
+
+Volumes and segmentation of outputs (including complexity or quality)
+
+Time/productivity data where staff effort is a driver
+
+A clear data lineage showing sources, ownership, and refresh dates
+
+Anchor the model to the full cost, covering staff, non-staff costs, and overheads, ensuring all inputs are traceable to systems of record or agreed management information.
+
+Where data is incomplete or judgement is required, departments should record the SME input used, the rationale for the judgement, and any key assumptions or uncertainties, so these can be tested, reviewed and captured in the assumptions register.
+
+To support transparency and auditability, the model should be accompanied by structured documentation of how costs have been treated. This includes a clear record of allocation, decisions, how costs are grouped, what drivers are used to distribute them, and why those choices have been made. Where judgement is involved, it should be explicitly documented, with the rationale recorded so that users and reviewers can understand how the model reflects the underlying service. Similarly, the key assumptions that underpin the model, such as productivity rates, cost drivers, or demand levels, should be captured in a controlled register, including the degree of uncertainty and the sensitivity of results to changes in those assumptions.
+
+These elements should come together in a coherent assurance pack. The purpose of this is not to create unnecessary bureaucracy, but to ensure that a third party can follow the logic of the model from source data through to final outputs. In practice, this means demonstrating that the model reconciles back to financial systems where appropriate, showing how costs flow through different stages of the model, and providing a clear narrative explaining any material changes or variances. Formal sign-off should confirm that both service and finance leads are satisfied that the model is robust, proportionate, and fit for its intended purpose.
+
+Finally, the cost structure should be treated as a living model. A clear change log should capture all material updates, including what has changed, why, when it takes effect, and the impact on costs. Regular review is essential, particularly where costs are used to support pricing, planning, or external reporting, as this ensures the model remains aligned to current service delivery and continues to provide a reliable basis for decision-making.
+
+Departments should draw on relevant finance, analytical, operational and digital expertise when developing and assuring service cost information.
+
+2.2 Gathering evidence and data; data capture and quality – best practice
+
+Use the best available evidence - Effective costing relies on using the best available evidence while being transparent about its limitations. In most cases, financial system data and operational management information should form the backbone of the analysis. However, there will often be gaps, particularly where staff effort drives costs, and these need to be filled using appropriate techniques such as sampling, time recording, or structured estimation.
+
+Use judgement transparently - Where estimation is required, it should be approached in a disciplined way. Activities should be clearly defined, with agreed start and end points, and estimates should be based on representative input from subject matter experts. Wherever possible, this evidence should be triangulated against volumes, throughput, or other operational indicators to ensure it is credible. The aim is not to achieve perfect accuracy, but to produce a defensible and evidence-based view of cost, with any uncertainty understood and explicitly communicated. Ensure proportionality is maintained; effort and resource should match purpose/complexity/materiality
+
+Assign data ownership - Assign data owners (finance system, HR/payroll, ops MI, digital analytics, shared services). Clear ownership of data is also essential. Each dataset should have a named owner responsible for its accuracy, alongside defined roles for maintaining and integrating that data into the model. Establishing a single cut-off point for inputs is important to ensure consistency during the modelling and assurance process, avoiding situations where different parts of the model are based on different versions of the data. Use reconciliations as a control tool, compare to system(s) of record (e.g. GL, payroll) before modelling
+
+Reconcile before modelling - Reconciliation should be used as a fundamental control throughout. Before modelling begins, the dataset should be checked to ensure that all relevant costs have been captured, that totals align with financial systems, and that each cost is accounted for once and only once. Similarly, output volumes should be reconciled to operational data, with any differences clearly explained. This discipline provides confidence that the model reflects the full cost of the service and that the outputs can be relied upon.
+
+Identify overheads and shared costs - A key feature of any service costing exercise is the treatment of direct costs and overheads. Direct costs are costs that can be clearly attributed to the service, such as service-specific staff, suppliers or system costs. Overheads are costs that support more than one service, such as corporate functions, shared digital or IT services, estates, HR, finance, commercial, legal or security. These should be identified systematically and allocated on a reasonable, transparent and consistent basis.
+
+Allocate costs fairly and consistently - Overheads should then be allocated on a reasonable and consistent basis. Allocation methods should reflect how services actually consume those resources, for example, using headcount, system usage, floor space, or expenditure as appropriate drivers. The objective is not to achieve perfect precision, but to apply a fair and transparent method that can be consistently applied across services. As a general rule, costing should reflect the full cost of delivering the service. This supports transparency, enables comparability, and avoids unintended cross-subsidy between services or customer groups. Where costs are excluded, whether due to policy decisions, legislative constraints, or immateriality, this should be clearly documented. The rationale for exclusion, the treatment of those costs elsewhere, and any implications for interpretation of the results should all be made explicit.
+
+Document exclusions and exceptions - To support this, services should maintain a clear record of any exceptions to standard cost treatment. This ensures that departures from a full-cost approach are visible, agreed, and regularly reviewed, rather than becoming embedded without scrutiny. Over time, this discipline helps build confidence that cost information is both robust and transparent, and that it provides a reliable basis for decisions on pricing, prioritisation, and performance.
+
+3.     Determine costs; method selector
+
+This section helps practitioners choose a proportionate and practical approach to service costing. The approach should be driven by the purpose of the work, the decision it will support, the materiality and risk involved, the nature of the service, and the quality of data available.
+
+In practice, service costing rarely follows a single pure methodology. Departments may need to combine a broader costing or allocation approach with one or more evidence-gathering techniques. For example, a model might use absorption costing to allocate overheads, sampling to understand staff effort, and estimation to fill gaps where direct evidence is unavailable.
+
+The aim is not to choose a “perfect” method, but to apply the least complex approach that is sufficient for the decision at hand, while ensuring the result is transparent, defensible and capable of proportionate assurance.
+
+Start with the costing question
+
+Before selecting an approach, be clear about the costing question being answered. In particular, consider:
+
+What decision will the costing support? For example, fee setting, service redesign, productivity analysis, business planning, investment prioritisation, identifying efficiency opportunities or value-for-money assessment.
+
+What level of assurance is required? A high-level internal estimate may need a lighter approach than a costing used for formal charging, external reporting or senior decision-making.
+
+What service or output is being costed? The service boundary, outputs, units, exclusions and assumptions should be clear before method selection.
+
+What data is available? Consider the availability and quality of financial data, payroll data, operational volumes, time data, activity data and expert judgement.
+
+How complex is the service? Consider the number of activities, channels, customer groups, service standards, shared platforms and overheads involved.
+
+Choose the overall costing or allocation approach
+
+The overall costing approach determines how costs are brought together and attributed or allocated to services, activities, outputs or units. The two broad approaches below are not mutually exclusive; departments may use elements of both depending on the nature of the service and the available evidence.
+
+Absorption costing
+
+Absorption costing is a top-down approach that assigns relevant service costs, including direct costs and appropriate overheads or shared costs, to a service or output.
+
+It may be useful where:
+
+the service boundary is reasonably clear;
+
+total costs and output volumes are available;
+
+an indicative or average unit cost is sufficient for the decision;
+
+costs can be pooled and allocated on a reasonable and documented basis;
+
+the costing needs to be proportionate and relatively straightforward.
+
+A unit cost, or range where appropriate, can be derived where volumes are available. Users should sense-check whether a single average cost is meaningful, or whether it risks masking material variation by complexity, channel, service standard or user group.
+
+Absorption costing is often conceptually simpler than Activity Based Costing, but it is not always simple to apply in practice. Complexity can arise where departments are structured by function rather than by service, where services share staff or platforms, where overheads are material, or where the relevant allocation basis is unclear. Departments should therefore document the allocation basis, disclose material exclusions and limitations, and explain how costs have been attributed to the service or output.
+
+Activity Based Costing (ABC)
+
+Activity Based Costing identifies the activities required to deliver a service, groups costs into relevant cost pools, and allocates costs using drivers that reflect how services or outputs consume those activities.
+
+It may be useful where:
+
+the service is complex or multi-stage;
+
+overheads or shared costs are material;
+
+different outputs, channels or customer groups consume resources differently;
+
+there is a need to understand cost drivers, productivity or variation in greater detail.
+
+ABC can provide more granular insight than a simple top-down allocation, but it is usually more data-intensive and may require more effort to build, maintain and assure. It should therefore be used where the additional insight is proportionate to the decision being supported.
+
+Where overheads or shared costs are included, departments will still need to choose and document a reasonable allocation basis. This applies whether the main approach is absorption costing, ABC or a hybrid model.
+
+Select the evidence and measurement techniques
+
+Evidence and measurement techniques help departments understand how resources are consumed and provide the basis for attribution or allocation. These techniques are not necessarily alternatives to absorption costing or ABC; they can be used within either approach.
+
+Sampling
+
+Sampling uses a representative subset of cases, activities or outputs to estimate resource use where full measurement is not possible or proportionate.
+
+It may be useful where:
+
+the service has a high volume of similar transactions;
+
+full measurement would be burdensome;
+
+a sample can provide a reasonable basis for estimating average effort, processing time, complexity or resource consumption.
+
+Sampling should be designed carefully so that the sample reflects the range of work being costed. Any sampling limitations, assumptions or known biases should be documented.
+
+Estimation
+
+Estimation uses structured judgement from subject matter experts to apportion costs or resource effort across services, activities or outputs. This might be delivered through workshops, interviews, structured templates or other agreed evidence-gathering routes.
+
+It may be useful where:
+
+data is limited or incomplete;
+
+operational understanding is strong;
+
+expert judgement can be triangulated against available evidence such as volumes, throughput, staffing levels or service standards.
+
+Estimation should not be treated as informal guesswork. Activities should be clearly defined, assumptions should be recorded, and judgements should be challenged or corroborated where proportionate.
+
+Time and motion studies
+
+Time and motion studies involve observing a defined process to establish standard times for activities. They are typically a bespoke, time-limited exercise rather than an ongoing recording process.
+
+They may be useful where:
+
+the process is stable and repeatable;
+
+staff effort is a significant cost driver;
+
+the department needs evidence to support labour allocation, productivity analysis, benchmarking or standard time assumptions.
+
+This technique is most suitable where the activity can be observed consistently and where the results will be useful beyond a one-off estimate. Where processes, technology or service standards change materially, departments should consider whether the timings need to be refreshed.
+
+Time recording
+
+Time recording involves the ongoing recording of staff time against activities, services or outputs. It may be completed manually by staff, captured through workflow systems, or supported by other operational or digital tools.
+
+It may be useful where:
+
+staff time is the main cost driver;
+
+more precise labour attribution is required;
+
+systems or processes already support reliable time capture;
+
+the costing will be reused, refreshed or monitored regularly.
+
+Time recording can provide strong evidence, but it may be resource-intensive to implement and maintain. Departments should consider whether the additional precision is proportionate to the decision being supported.
+
+Combine approaches where needed
+
+Departments should expect to combine approaches where this gives a more proportionate and realistic result. In many cases, the final model will reflect a mix of methods, driven by data availability, service complexity and the decision being supported.
+
+For example:
+
+a simple service might use absorption costing, with total relevant service costs divided by output volumes;
+
+a casework service might use absorption costing for overheads, sampling to estimate staff effort, and operational volumes to calculate unit costs;
+
+a labour-intensive service might use time recording for core staff activity, estimation for less material activities, and a documented allocation basis for overheads;
+
+a complex service might use ABC to map activities and cost drivers, supported by time recording for high-cost activities and estimation where data gaps remain;
+
+a charging service might use a full-cost approach, with documented exclusions, reconciliations and assurance aligned to the decision being supported.
+
+The chosen approach should be explained in plain language. The explanation should set out what has been measured directly, what has been estimated, what has been allocated, what has been excluded, and how these choices affect interpretation of the results.
+
+Method selector table
+
+The table below sets out broad situations and the approaches or techniques that may be appropriate. It is intended as a guide rather than a set of rigid rules. Departments should apply judgement, taking account of the purpose, data, materiality, risk and assurance required.
+
+ Situation
+ Illustrative example
+ Overall approach likely to be appropriate
+ Evidence or measurement techniques that may support it
+
+ Early estimate, limited data, low materiality
+ A quick indicative cost for a standard application or licensing service, using total service costs and forecast volumes where detailed activity data is not yet available.
+ Absorption costing or simple top-down allocation.
+ Estimation, high-level volumes, basic reasonableness checks.
+
+ Moderate complexity, process understood but data limited
+ A grants, permits or casework service with several case types, where operational teams can estimate effort and a sample of cases can be reviewed.
+ Absorption costing with documented allocation bases, or a simple hybrid approach.
+ Sampling, structured SME estimation, operational volumes.
+
+ Labour-intensive service where staff effort is a major driver
+ A casework or contact-centre service where staff time is the main cost driver and can be linked to activities or service types.
+ Absorption costing or ABC, depending on complexity and the level of insight required.
+ Time recording, sampling, estimation, time and motion studies.
+
+ Stable, repeatable high-volume process
+ A transactional process such as receiving applications, checking evidence, making decisions and issuing notifications, where standard times can be observed and compared.
+ Absorption costing or ABC, depending on the level of detail required.
+ Time and motion studies, sampling, operational performance data.
+
+ Complex multi-stage service with material overheads
+ A service using frontline staff, shared digital platforms, estates and corporate support, where costs need to be mapped through activities and allocated to outputs.
+ Activity Based Costing or a hybrid ABC/absorption approach.
+ Time recording, sampling, estimation, cost-driver analysis.
+
+ Charging, external scrutiny or high-stakes decision
+ A service where the costing will support fee setting, cost recovery, formal submission, external scrutiny or senior decision-making.
+ Full-cost approach with documented allocation methodology and proportionate assurance.
+ Reconciliations, validation, sensitivity analysis, peer or independent review.
+
+Decision considerations behind the table
+
+The method selector table is underpinned by a small number of core questions.
+
+Purpose and level of assurance
+
+For high-level, indicative or early-stage decisions, a simpler approach may be sufficient. For detailed, audit-ready or high-stakes decisions, more granular evidence, stronger documentation and more formal assurance may be required.
+
+Data availability
+
+Where data is limited, absorption costing or a simple top-down allocation may be appropriate, provided assumptions and limitations are clear. Where there is some expert understanding of the process, estimation or sampling may strengthen the evidence base. Where high-quality activity, time or operational data is available, more detailed approaches may be proportionate.
+
+Service and cost complexity
+
+Where costs are driven mainly by output volumes, simpler allocation approaches may be sufficient. Where the service is complex, shared costs are material, or different outputs consume resources in different ways, ABC or a hybrid approach may provide better insight.
+
+Staff costs and process stability
+
+Where labour is a key cost driver and precision is needed, time recording may be appropriate. Where processes are stable and repeatable, time and motion studies can help establish standard times. Where full measurement would be disproportionate, sampling or structured estimation may provide a more practical evidence base.
+
+Final proportionality check
+
+Before finalising the approach, departments should apply a final proportionality check:
+
+Is the approach sufficient for the decision being supported?
+
+Is the level of detail proportionate to the materiality and risk?
+
+Are the key assumptions, exclusions and limitations clear?
+
+Can a reviewer understand how costs flow from source data to final outputs?
+
+Does the approach explain what has been measured, estimated, allocated and excluded?
+
+Would a more complex approach materially improve the decision, or simply add burden?
+
+Where the costing supports high-materiality decisions, fee setting, formal submissions or external scrutiny, departments should consider stronger documentation, validation and independent review.
+
+4.     Costs to outcomes (productivity and value)
+
+Systematic, assured and comparable cost information should be treated as a core management asset, not a technical finance product. Departments should use improved understanding of their cost base to strengthen decision making at every stage of the policy and delivery lifecycle: from strategic prioritisation and policy design, through planning and in year management, to assurance, accountability and external scrutiny.
+
+4.1 Productivity
+
+At the heart of effective public spending is a clear understanding of what each pound delivers. Departments should use cost information to link inputs (spend) to outputs (activity delivered) and outcomes (the benefits achieved), enabling a focus on productivity rather than expenditure alone.
+
+A robust understanding of full costs allows departments to assess whether spending is proportionate to the outcomes being delivered, whether those outcomes are being achieved efficiently, and whether alternative delivery models could generate greater public value. Cost information should therefore be routinely linked to outputs and outcomes, supporting assessment of cost‑effectiveness, not just budget control.
+
+Embedding this approach strengthens:
+
+Policy design, by testing affordability, deliverability and scalability early in development and avoiding downstream costs or implementation failure.
+
+Operational management, by enabling leaders to understand cost drivers, emerging inefficiencies and structural pressures that are not visible in aggregate financial reporting.
+
+Value for money assessments, by supporting informed judgements about whether outcomes justify the resources committed and where productivity improvements are required.
+
+Over time, systematically linking costs to outcomes supports more adaptive and innovative approaches to service delivery, allowing departments to test different interventions, refine delivery models and adjust resource allocation to improve results without undermining affordability.
+
+Cost insight should lead to action. Where costing identifies material cost drivers, inefficiencies or productivity opportunities, departments should link the findings to the relevant operational owners and performance arrangements, so that the insight informs service planning, improvement activity and value-for-money decisions.
+
+4.2 Benchmarking
+
+Consistent and comparable cost data enables meaningful benchmarking, which is essential to improving productivity, particularly in public services where market incentives are weak or absent.
+
+Departments should use cost information to compare like‑for‑like activities and services across organisations, programmes and, where appropriate, internationally. This supports:
+
+Identification of unwarranted variation in costs, productivity or performance;
+
+Informed challenge to assumptions about “inevitable” costs;
+
+Targeted interventions where performance differs materially from peers.
+
+Benchmarking should be used as an improvement tool, not a blunt comparator. Cost data should be analysed alongside differences in demand, service models, quality and outcomes to distinguish between justified variation and inefficiency. Where delivery is devolved to arm’s‑length bodies or partners, benchmarking provides an objective basis for proportionate performance discussions and early intervention.
+
+This approach enables departments to:
+
+Design credible efficiency and productivity programmes based on cost drivers rather than across‑the‑board savings targets;
+
+Track financial performance against peers and over time;
+
+Create incentives for innovation and improved delivery where direct market discipline is absent.
+
+By systematically reducing unwarranted variation, departments improve productivity and strengthen confidence that public services are delivering maximum value from available resources.
+
+Cost information should only be benchmarked where the basis of comparison is clear. Departments should disclose the service definition, period, output/unit measure, cost categories included, treatment of overheads, exclusions, assumptions and known data limitations. Differences in demand, quality, complexity, delivery model and service standards should be considered before drawing conclusions about efficiency or productivity.
+
+4.3 A single cost base for reporting and assurance
+
+A single, consistent cost base underpins effective use of cost information. Departments should use standardised costing frameworks and methodologies to ensure that cost data is transparent, comparable and trusted across government.
+
+Maintaining one coherent cost base supports:
+
+Planning and assurance, by grounding business plans, operating models and delivery strategies in a clear understanding of cost structures, drivers and assumptions.
+
+In‑year management, by enabling departments to move beyond aggregate budget monitoring to understanding why variances occur and whether corrective action is required.
+
+External scrutiny and accountability, by providing ministers, Parliament and wider government with clear, credible insight into what services cost and why.
+
+Using a single cost base also reduces duplication and burden by allowing the same information to support Spending Reviews, in‑year reporting, annual reports and accounts. This strengthens organisational capability and ensures that financial discussions are based on consistent evidence.
+
+Understanding fixed, variable and semi‑variable costs within this framework improves resilience and contingency planning, enabling departments to respond more effectively to shocks, demand changes or emergency policy responses.
+
+Embedding cost literacy across policy, operational and finance professions ensures that cost information is actively used in day‑to‑day decision‑making, rather than held by a narrow group of specialists. This improves transparency, strengthens trust in financial information and supports more credible fiscal advice and performance management across government.
+
+5.     Assurance, controls and risk
+
+5.1 Assurance, audit trails, and evidence base
+
+This section sets out best practice elements for assurance, governance and data handling when producing service costing information. The aim is to help teams produce costing outputs that are credible, proportionate, and decision-ready, with a level of control and documentation that matches the purpose, risk and materiality of the decision(s) being supported.
+
+In some cases a light-touch costing exercise will be sufficient, and in others, the cost model and results will need to withstand challenge from senior leadership, HM Treasury, audit, or external scrutiny. This section helps you scale the assurance accordingly.
+
+What robust costing looks like
+
+Costing is most useful when it supports informed decision-making and makes clear the implications of key assumptions, cost drivers, uncertainty and risk. Credible costing information is typically:
+
+Process-driven – produced through a clear and repeatable process with early and ongoing engagement of the right stakeholders;
+
+Comprehensive – covers the relevant scope, time horizon and cost elements (including direct/overhead costs and life-cycle costs where relevant);
+
+Evidence-based – grounded in traceable data sources (with expert judgement used transparently where data is unavailable);
+
+Risk-assessed – explicitly considers uncertainty, risk and the impact on cost;
+
+Validated – checked against past performance, comparable examples or benchmarks to test reasonableness;
+
+Documented – recorded in enough detail that an independent party could understand and (where needed) reproduce the result.
+
+Assurance is the set of activities that gives decision-makers confidence that these criteria have been met to an appropriate degree.
+
+Proportionality: scaling assurance to the decision
+
+Assurance should be proportionate, and have the right amount of rigour for the decision, not the maximum possible rigour in all cases. This guidance therefore distinguishes three broad assurance levels:
+
+Level 1 – Quick view, or diagnostic costing (low materiality, low external reliance)
+
+Use when the costing is to inform internal exploration, early options, or local service improvement and will not be used for major decisions.
+
+Minimum expectations:
+
+Clear statement of purpose, scope and boundaries (what is in/out).
+
+Data sources recorded (even if imperfect) and key limitations flagged.
+
+A basic reasonableness check (e.g. reconcile back to known totals at a high level, or sanity check against a prior year/similar activity).
+
+A short “assumptions and caveats” note shared with the user of the analysis.
+
+Level 2 – Decision-support costing (moderate materiality and/or senior use)
+
+Use when the costing will inform a leadership decision, a business case, or a material reallocation of resources.
+
+Minimum expectations (in addition to Level 1):
+
+Peer review by someone not involved in building the model (or an alternative challenge route if no peer exists; see below). Consider also colleagues across functions, particularly those in the Analysis Function and Operational Delivery Profession.
+
+Documented allocation bases and key judgements, informed by main cost drivers.
+
+Clear reconciliation to source totals for key cost inputs (e.g. GL/payroll totals relevant to the service boundary).
+
+A short assurance note confirming what has been checked and what remains uncertain.
+
+Level 3 – High materiality costing (formal submission, external scrutiny or charging)
+
+Use when the costing supports formal submission, charging decisions, or is likely to be challenged by audit/external bodies.
+
+Minimum expectations (in addition to Levels 1 and 2):
+
+Independent review appropriate to complexity (e.g. central finance, analytical teams, internal audit, or an agreed cross-department peer).
+
+More complete documentation (assurance pack/cost report) sufficient for audit trail.
+
+Explicit treatment of uncertainty and risk (including rationale for any contingency) and clear presentation of the cost range, not only a single point estimate where uncertainty is material.
+
+Validation against independent comparators/benchmarks where feasible, with explanations for material differences.
+
+Core assurance activities
+
+Peer review (practical minimum quality control): Peer review is a lightweight, practical check that improves quality and catches errors early. It should focus on:
+
+service boundary and scope (is it clear, stable, and correctly applied?)
+
+logic and structure (does the costing model and method make sense?)
+
+allocations and assumptions (are they explicit, justified and documented?)
+
+basic arithmetic and reconciliation checks (do totals add up?)
+
+Note: If you can’t find a peer reviewer, these alternatives may suffice depending on proportionality: a finance business partner from another directorate; a departmental centre-of-excellence/analytic function; a cross-government community contact (where available). The key is that someone not involved in building the model performs a reasoned challenge.
+
+Quality assurance (QA)
+
+QA provides confidence that the results are trustworthy and reflect the stated scope, ground rules and assumptions. Typical QA includes:
+
+checking for calculation errors and inconsistencies;
+
+ensuring the model reflects the agreed assumptions and service definition(s);
+
+confirming that unit costs are calculated consistently (correct denominators, consistent inclusions/exclusions);
+
+confirming version control and that outputs tie to the correct input data.
+
+Validation
+
+Validation tests whether the result makes sense in the real world, when compared to:
+
+past performance (prior period costs/volumes for the same service, adjusted for known changes);
+
+similar services or activities or independent estimates (where available);
+
+recognised benchmarks (internal or external), with explanations for material differences
+
+Validation is particularly important where allocations are broad-brush, data is sparse, or the costing outputs will be relied upon in high-stakes decisions.
+
+Uncertainty, risk and sensitivity (transparent disclosure)
+
+Where uncertainty is material, costing outputs should explain:
+
+which assumptions or drivers matter most (sensitivity);
+
+what uncertainty exists in the data (quality, completeness, volatility); and
+
+what risks could increase or decrease costs (and how likely/impactful they are).
+
+Where contingency or ranges are used, they should be explained clearly and linked to the uncertainty/risk assessment and decision-maker risk tolerance.
+
+Independent assurance (when proportionate)
+
+For Level 3 outputs, consider an independent review proportionate to complexity and reliance. This could include: an internal assurance function; a departmental modelling assurance approach (e.g. aligned to recognised assurance practices such as the “AQUA Book” approach); or a cross-government assurance arrangement where departments share peer expertise.
+
+Documentation for audit trail and reuse
+
+Produce a proportionate but complete evidence base that can be re-used and refreshed. For Level 2–3 work, maintain an assurance pack (or cost report) that includes:
+
+Purpose and decision context (what decision does this support, by when, and who is the audience?)
+
+Service definition and boundaries (in-scope activities, exclusions, time horizon, versions).
+
+Ground rules and assumptions register (including the rationale/evidence for each, and owner).
+
+Data sources and quality notes (systems used, transformations, known limitations).
+
+Cost model / calculation file(s) with version control and clear structure.
+
+Allocation log (what was allocated, the basis, and why it is reasonable).
+
+Reconciliations (e.g., key totals back to finance system/payroll where relevant).
+
+Validation checks (comparators/benchmarks used, results, explanations).
+
+Uncertainty/risk and sensitivity summary (what matters and what could change).
+
+Review and sign-off record (peer review, independent review if used, service owner/finance approvals).
+
+Outputs and narrative (what the results mean, plus clear caveats and limitations).
+
+Lessons learned (what you’d do differently next time; what data/process improvements
+
+5.2 Data governance, security and sharing
+
+Costing information often draws on operational and financial data that may be sensitive. Data should be handled in line with departmental information assurance and data protection requirements, while enabling appropriate assurance and scrutiny.
+
+6.     Adoption of best practice
+
+6.1 Implementation roadmap
+
+The roadmap below provides an adoption path from good basics to sustained best practice. Departments and teams should scale effort to the purpose, complexity, risk and materiality of the decision(s) being supported.
+
+Review and refresh
+
+Costings should be reviewed and refreshed at a cadence proportionate to their use, materiality and risk. As a minimum, teams should define review triggers, such as changes to service boundaries, demand, delivery model, automation, data sources, allocation bases or material movements in unit cost. Where costings support fee setting, cost recovery, external reporting or formal submissions, they should be reviewed before use and aligned with relevant MPM, DAO and departmental approval requirements.
+
+Minimum – Foundations (standardise the basics)
+
+Focus: minimum artefacts, basic controls, and consistent documentation.
+
+Use the standard minimum pack (service definition, minimum dataset, assumptions register, allocation log, change log).
+
+Implement peer review as a default quality control.
+
+Start basic reconciliations to systems of record and record them in the assurance pack index.
+
+Good – Consistency and comparability
+
+Focus: consistent cost structures and approaches to enable comparison across services/time.
+
+Agree common cost breakdown structures and standard reporting outputs (where feasible).
+
+Use consistent allocation bases for common overhead categories and document deviations.
+
+Begin routine validation checks against historic performance or comparable services, and explain material variances.
+
+Leading – Decision support (strengthen insight and transparency)
+
+Focus: strengthen understanding of cost drivers, uncertainty and risk for material decisions.
+
+Expand sensitivity analysis on key assumptions and drivers.
+
+Where uncertainty is material, describe the likely range and the drivers of variance (and document rationale if not quantified).
+
+Improve the narrative for decision‑makers (what the numbers mean, what they do not mean, and how they should be used).
+
+Maintenance – Embedded operating model (sustained best practice)
+
+Focus: ensuring models are maintained, refreshed and improved over time.
+
+Establish refresh triggers (boundary change, major process change, new data source, etc.) and ensure the change log captures updates.
+
+Capture lessons learned and feed them back into templates/training and the community of practice.
+
+6.2 Capability and upskilling
+
+Adopting best practice requires shared capability across finance, service teams and analysts. Costing is collaborative: credible/assured outputs typically depend on engaging the right stakeholders, using evidence, documenting assumptions, and validating results.
+
+Capability building should be tiered, so people learn what they need for the type of costing they are producing.
+
+Tier 1 – Essentials (for anyone producing or commissioning costing)
+
+Focus: consistent basics, transparency, and minimum controls.
+
+Using the minimum artefacts (service definition, minimum dataset, assumptions register, allocation log, change log).
+
+Basic reconciliation concepts and how to record evidence.
+
+Writing a clear “results and limitations” summary.
+
+Tier 2 – Practitioner (for analysts/modellers and finance business partners)
+
+Focus: producing decision‑ready analysis and consistent modelling.
+
+Building cost structures and documenting key judgements.
+
+Applying allocation approaches consistently and explaining the rationale.
+
+Validation techniques and sense‑checking against comparators.
+
+Tier 3 – Advanced / high assurance (for material decisions and high scrutiny work)
+
+Focus: stronger validation and transparent treatment of uncertainty and risk.
+
+Approaches to identifying key cost drivers and assessing sensitivity/uncertainty.
+
+Producing documentation sufficient for challenge, audit trail and reproducibility (“cost report” style).
+
+Running or supporting independent review and responding to challenge.
+
+How to embed learning (so capability is sustained)
+
+Community of practice and shared assets
+
+Establish or use an existing cross‑government community of practice to share templates, examples, training material and lessons learned. This approach is consistent with recognised best practice, where communities of practice provide tools and training that expand on core costing guidance.
+
+Reusable templates and exemplars
+
+Maintain centrally curated exemplars (e.g., sample assurance packs, allocation logs, “results and limitations” one‑pagers) so teams can adopt good practice without starting from scratch. (Recommended practice)
+
+Coaching and clinics
+
+Offer periodic “costing clinics” (virtual or in‑person) where practitioners can bring a live boundary/assumptions/validation question for quick peer challenge and advice. This supports the “process‑driven” and stakeholder‑engaged aspects of good costing.
+
+Lessons learned loop
+
+Capture lessons learned from pilots and major exercises and feed them back into templates, training and the guidance itself. This is a core component of producing repeatable, improving practice over time.
+
+7.     Tools and further resources
+
+7.1 Emerging technologies
+
+Departments may also wish to consider whether analytical tools, including emerging AI-enabled tools where appropriate and permitted, can support evidence gathering, pattern identification, documentation or narrative drafting; however, outputs should always be reviewed, assured and documented in line with departmental data, security and quality assurance requirements.
+
+7.2 Useful links
+
+ Resource
+ Link
+
+ Managing public money - GOV.UK
+ Managing Public Money
+
+ Consolidated budgeting guidance - GOV.UK
+ Consolidated Budgeting Guidance collection
+
+ Government Financial Reporting Manual: 2026-27 - GOV.UK
+ Government Financial Reporting Manual collection
+
+ Supply Estimates guidance manual - GOV.UK
+ Supply Estimates guidance manual
+
+ The Green Book - GOV.UK
+ The Green Book
+
+ DAO 05/26 Service Level Costing - GOV.UK
+ DAO 05/26 Service Level Costing
+
+ DAO 05/26 Service Level Costing - GOV.UK HTML version
+ DAO 05/26 Service Level Costing and Income
+
+ Improving government’s productivity through better cost information
+ NAO report: Improving government’s productivity through better cost information
+
+ Financial management of fees and charges - NAO report
+ NAO report: Financial management of fees and charges
+
+ The AQuA Book - GOV.UK
+ The AQuA Book
+
+ Aqua Book resources - GOV.UK
+ Aqua Book resources
+
+8.     Case studies, templates and resources
+
+Building the cost structure case study – HMRC
+
+Road map steps including worked example
+
+ Road map step
+ What you produce
+ Worked example 1
+ Example applied (Illustrative numbers)
+
+ 1) Set the spine: confirm service boundary, outputs, unit(s), period, demand/quality assumptions.
+ Service spine record (1 page): scope (in/out), outputs/units, period, volumes, quality/service standard, key assumptions, exclusions, version.
+ Service: 4‑month customer contact exercise for another department (OGD). In scope: issue documents; capture returns (paper + digital); assure digital returns; handle telephone enquiries; supervision. Outputs/units: (a) returns captured; (b) calls handled. Period: 4 months. Quality assumption: define “return captured” start/stop points and what checks are included (and therefore what work is in scope).
+ In scope: receive application (digital/post), verify/assess, decision, notify, handle queries, supervision/QA. Out of scope: major policy design; large IT build (unless explicitly part of service). Outputs/units: “application processed” (primary unit) + optional secondary unit “customer enquiry handled”. Demand assumptions: 100,000 applications/year; channel mix 80% digital / 20% post; service standard: 95% within 10 working days. Quality assumptions: rework rate 10%; complex cases 20% (tracked as a segment).
+
+ 2) Pull the inputs: extract in-scope costs from GL and payroll (+ key supplier spend), aligned to FBC components (staff, direct, overhead, corporate).
+ Input pack: GL extract; payroll (or agreed rate card); supplier costs; overhead rates; data lineage (source, period, owner).
+ Approach is to cost using Full Business Cost components: staff costs (payroll + ER NIC + pension), non-staff, overheads. Staff sizing example converts work into staff-years using a divisor.
+ Payroll input: 25 FTE frontline @ £40k = £1.0m; 3 FTE team leads @ £60k = £0.2m (rounded); total staff £1.2m. Non‑staff: postage/print £0.1m; suppliers £0.1m. Platform/IT: £0.3m. Estates: £0.1m. Corporate overhead (rate): £0.3m (e.g., 20–25% proxy). Total inputs: £2.1m.
+
+ 3) Create cost pools: group input costs into pools that reflect how they’re consumed (frontline labour, platform/IT, estates, corporate overheads, etc.).
+ Cost pool map: GL/payroll lines → pools; pool definitions; ownership.
+ Pools aligned to FBC: staff, direct costs, overheads. For the exercise, you’d typically separate frontline labour, supervision, and non-staff direct costs (e.g., postage/telephony) plus overhead pools.
+ Example pools (round numbers): Pool A Frontline labour £1.0m; Pool B Team leads/supervision £0.2m; Pool C Print/postage £0.1m; Pool D Suppliers £0.1m; Pool E IT platform £0.3m; Pool F Estates £0.1m; Pool G Corporate overhead £0.3m. Total pools = £2.1m.
+
+ 4) Map activities / stages: define key service stages and which pools feed each stage.
+ Activity map (service journey stages) + pool→ stage mapping.
+ Stages for this service: Issue documents → Handle calls → Capture paper returns → Assure digital returns → Supervision/QA. Pools feed stages: e.g., postage → “Issue”; telephony cost → “Calls”; staff pools spread across stages by effort/time.
+ 1) Receive and validate (incl. channel handling); 2) Assess/verify; 3) Decide; 4) Notify and record; 5) Handle queries; 6) Supervision/QA. Pool mapping: IT platform mostly supports stages 1–4; print/post supports stage 1; frontline labour across 1–5; supervision across 6 (and/or spread).
+
+ 5) Define drivers and allocate: choose allocation bases reflecting consumption (time/FTE, transactions, users, floor space), log assumptions/evidence.
+ Allocation log + assumptions register: driver, source, rationale, calc, frequency, owner, approvals.
+ Size staff effort using volumes and productivity rates (e.g., volumes and “per day” productivity) and then converts to staff-years using the divisor. That approach becomes your labour driver (effort by stage). Direct costs use natural drivers (e.g., postage by items issued, telephony by calls/minutes).
+ Example drivers: Labour allocation by time per stage: Receive 5 minutes; Assess 20 minutes; Decide 5 minutes; Notify 5 minutes; Queries 5 minutes (average). Total 40 minutes/application. With 100,000 applications → 4,000,000 minutes = 66,667 hours. At 1,500 productive hours/FTE/year, implies ~45 FTE; if you have 25 FTE, you’d either (a) revisit times, (b) segment simple/complex, or (c) recognise backlog/outsourcing—this is exactly why drivers surface delivery realism. IT platform driver: transactions (applications processed) or user accounts. Estates driver: floor space or FTE. Corporate overhead driver: FTE or staff cost proxy.
+
+ 6) Reconcile and lock: reconcile totals back to GL/payroll, document variances/exclusions, lock the version for assurance/refresh.
+ Assurance pack: GL/payroll reconciliations, mapping tables, variance narrative, exclusions register, sign-offs, locked model version + change log.
+ Use finance systems as the basis for costing/charging and keeping the process documented for audit/monitoring; it also notes cost bases change and costings (especially for charging) should be reviewed at least annually or when the basis changes. Lock: record scope/version, input cut, and agreed exclusions with rationale.
+ Reconcile the £2.1m model total to GL and payroll totals for the same period and scope; ensure every £ is allocated once (no gaps/double counting). Document exclusions (e.g., one-off policy work) and sign-offs. Lock as v1.0 with an input cut date and refresh cadence (annual or triggered by known basis changes).
+
+9.     Glossary
+
+ Term
+ Glossary definition
+
+ Accounting Officer (AO)
+ The senior official accountable to Parliament for the stewardship of public money, including regularity, propriety, value for money and feasibility. In this guidance, AOs have a role in ensuring material service-level cost information is robust, used in decision-making and subject to appropriate senior oversight.
+
+ Activity Based Costing (ABC)
+ A costing approach that identifies activities, cost pools and cost drivers, then allocates costs based on how services or outputs consume those activities. It is often useful where services are complex and overheads/shared costs are material.
+
+ Allocation basis
+ The driver or proxy used to allocate costs to services, activities or outputs. Examples may include headcount, FTE, staff cost, transactions, system usage, floor space, volumes or time.
+
+ Allocation log
+ A record of what costs have been allocated, the basis for allocation, the rationale, the source data used, the calculation method, the owner and any approvals.
+
+ Arm’s-length body (ALB)
+ A public body that operates with a degree of independence from ministers but remains part of the wider public sector accountability framework.
+
+ Assurance pack
+ A proportionate evidence pack that allows a reviewer to understand how the costing has been produced. It may include service definitions, data sources, assumptions, allocation logs, reconciliations, validation checks, review records and outputs narrative.
+
+ Assumptions register
+ A controlled record of key assumptions used in the costing, including the rationale, evidence, owner, uncertainty and any sensitivity of results to changes in the assumption.
+
+ Benchmarking
+ The comparison of cost, productivity or performance information across teams, services, organisations or time periods. Benchmarking should be used as an improvement tool and interpreted alongside scope, demand, quality, complexity and service standards.
+
+ Change log
+ A record of material changes to the service definition, data, method, assumptions, allocation bases, demand, delivery model or policy context, including when the change took effect and its impact on the costing.
+
+ Comparability
+ The extent to which cost information can be meaningfully compared between periods, teams, services or organisations. Comparability depends on consistent service definitions, cost categories, allocation bases, output measures and assumptions.
+
+ Corporate overheads
+ A sub-category of overheads/shared costs relating to corporate support functions, such as HR, finance, commercial, legal, communications, security or senior management, where these support more than one service.
+
+ Cost base
+ The defined set of costs included in a costing exercise. A cost base should make clear the period, scope, cost categories, inclusions, exclusions and assumptions used.
+
+ Cost driver
+ A factor that influences the level of cost incurred by a service, activity or output. Examples may include demand volume, complexity, channel, staff time, rework, service standard, system usage or floor space.
+
+ Cost pool
+ A grouping of similar costs that are brought together before being attributed or allocated to activities, services or outputs. Examples may include frontline labour, supervision, supplier costs, digital platforms, estates or corporate overheads.
+
+ Cost recovery
+ The process of setting charges so that income recovers the relevant cost of providing a service over an agreed period, where permitted and appropriate under Managing Public Money and the relevant statutory framework.
+
+ Cost structure
+ The way costs are organised and mapped from source data into cost pools, activities, services, outputs and units. A good cost structure should be traceable, proportionate and capable of being explained.
+
+ Decision-ready output
+ A costing output that is presented with enough context, assumptions, limitations and explanatory narrative to support a specific decision. This may include unit costs, ranges, cost drivers, scenarios or caveats.
+
+ Direct costs
+ Costs that can be clearly attributed to a specific service, activity or output without needing to be allocated using a proxy.
+
+ Direct non-staff costs
+ Non-staff costs that can be clearly attributed to a service, such as service-specific suppliers, contracts, postage, printing, technology or equipment.
+
+ Direct staff costs
+ Staff costs directly involved in delivering the service, including pay and relevant on-costs where applicable.
+
+ Evidence base
+ The data, assumptions, expert judgement, documentation and analytical material used to support the costing.
+
+ Fee setting
+ The process of setting or reviewing fees and charges for a service. Where fees or charges are involved, service costing should be aligned with Managing Public Money, the relevant statutory authority and departmental approval requirements.
+
+ Full cost
+ The total relevant cost of delivering a service for the decision being supported, including direct costs and appropriate overheads/shared costs, with any exclusions clearly documented.
+
+ Full-time equivalent (FTE)
+ A measure of staff resource that expresses working time as an equivalent number of full-time staff.
+
+ General ledger (GL)
+ The finance system record of an organisation’s financial transactions, often used as a source for cost data.
+
+ Government Finance Function (GFF)
+ The cross-government finance function that supports departments by setting expectations, sharing good practice, developing tools and templates, and supporting capability.
+
+ Head of Finance (HoF)
+ A senior finance role responsible for financial management within an organisation or business area. In this guidance, the HoF may have a role in method selection, sign-off, reconciliations and assurance.
+
+ HM Treasury (HMT)
+ The government department responsible for public spending, fiscal policy and financial management across government. HMT has a distinct role where service cost information informs spending control, allocations, business cases, fee and charge approvals, Spending Review decisions or value-for-money assessments.
+
+ Management information (MI)
+ Operational or performance data used to understand service activity, volumes, demand, quality, timeliness or other relevant delivery information.
+
+ Materiality
+ The significance of a costing in terms of financial value, risk, sensitivity, external scrutiny or decision impact. More material costings usually require stronger evidence, assurance and documentation.
+
+ Modelling lead
+ The person or team responsible for building and evidencing the costing model or analysis, including documenting data sources, assumptions, allocation methods and limitations.
+
+ Overheads/shared costs
+ Costs that support more than one service and need to be allocated using a reasonable and documented basis. Examples may include shared digital platforms, estates, HR, finance, commercial, legal, security or other enabling functions.
+
+ Output
+ The activity, product or unit delivered by a service, such as applications processed, licences issued, cases completed or calls handled.
+
+ Outcome
+ The benefit, result or public value that the service is intended to achieve. Cost information should be considered alongside outcomes where relevant.
+
+ Proportionality
+ The principle that the effort, detail and assurance applied to a costing should reflect the purpose, complexity, risk and materiality of the decision being supported.
+
+ Quality assurance (QA)
+ Checks that provide confidence the costing is accurate, consistent and suitable for its intended use. QA may include checking calculations, assumptions, documentation, version control and consistency with the agreed service definition.
+
+ Reconciliation
+ The process of checking that cost inputs or outputs align to source records, such as general ledger, payroll or operational volume data, where appropriate.
+
+ Refresh trigger
+ A change that should prompt review or update of a costing. Examples may include changes to service boundaries, demand, delivery model, automation, data sources, allocation bases or material movements in unit cost.
+
+ Sampling
+ A method that uses a representative subset of cases, activities or outputs to estimate resource use or cost drivers where full measurement is not possible or proportionate.
+
+ Service boundary
+ The defined scope of the service being costed, including what is in scope, what is out of scope, the relevant outputs or units, the period covered and any assumptions or exclusions.
+
+ Service owner
+ The person or role responsible for the service definition, operational understanding of cost drivers, and validation of outputs and assumptions. In complex services, ownership may be shared or evolve over time.
+
+ Service-level costing
+ The process of understanding the cost of delivering a defined service, including the relevant activities, inputs, outputs, cost drivers and assumptions.
+
+ Subject matter expert (SME) judgement
+ Informed judgement from people with relevant operational, finance, analytical or service expertise. SME judgement should be documented, challenged where appropriate and triangulated against available evidence.
+
+ Senior Responsible Owner (SRO)
+ A senior individual responsible for ownership or oversight of a service, programme or area of delivery. In this guidance, the SRO may help agree service boundaries, assumptions and use of outputs.
+
+ Sensitivity analysis
+ Analysis showing how the costing result changes when key assumptions, drivers or inputs change. This helps decision-makers understand uncertainty and risk.
+
+ Time and motion study
+ An evidence-gathering technique that observes a defined process to establish standard times for activities. It can support labour allocation, productivity analysis and benchmarking where processes are stable and repeatable.
+
+ Time recording
+ The ongoing recording of staff time against activities, services or outputs. It can provide detailed evidence for labour allocation but may be resource intensive to collect and maintain.
+
+ Transparency
+ The principle that assumptions, data sources, allocation bases, exclusions, limitations and material movements should be clearly documented and explained.
+
+ Unit cost
+ The cost of delivering one unit of output, such as one case, application, licence, transaction or call. Unit costs should be interpreted with care where averages may mask material variation.
+
+ Validation
+ Checks that test whether the costing result appears reasonable in context, for example by comparing against historic data, comparable services, benchmarks or operational expectations.
+
+ Value for money (VfM)
+ The effective, efficient and economic use of public money to deliver intended outcomes. Service costing supports VfM by helping departments understand what drives costs and how resources relate to outputs and outcomes.
+
+ Version control
+ The process of recording which version of the costing, dataset, assumptions and outputs has been used, including dates, changes and approvals.
+
+ Back to top
+
+Is this page useful?
+
+ Maybe
+
+ Yes this page is useful
+
+ No this page is not useful
+
+ Thank you for your feedback
+
+ Report a problem with this page
+
+Help us improve GOV.UK
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+ This field is for robots only. Please leave blank
+
+ What were you doing?
+
+ What went wrong?
+
+ Send
+
+ Cancel
+
+Help us improve GOV.UK
+
+ To help us improve GOV.UK, we’d like to know more about your visit today.
+ Please fill in this survey (opens in a new tab and requires JavaScript).
+
+ Cancel
+
+Services and information
+
+ Benefits
+
+ Births, death, marriages and care
+
+ Business and self-employed
+
+ Childcare and parenting
+
+ Citizenship and living in the UK
+
+ Crime, justice and the law
+
+ Disabled people
+
+ Driving and transport
+
+ Education and learning
+
+ Employing people
+
+ Environment and countryside
+
+ Housing and local services
+
+ Money and tax
+
+ Passports, travel and living abroad
+
+ Visas and immigration
+
+ Working, jobs and pensions
+
+Government activity
+
+ Departments
+
+ News
+
+ Guidance and regulation
+
+ Research and statistics
+
+ Policy papers and consultations
+
+ Transparency
+
+ How government works
+
+ Get involved
+
+Support links
+
+ Help
+
+ Privacy
+
+ Cookies
+
+ Accessibility statement
+
+ Contact
+
+ Terms and conditions
+
+ Rhestr o Wasanaethau Cymraeg
+
+ Government Digital Service
+
+ All content is available under the Open Government Licence v3.0, except where otherwise stated
+
+ © Crown copyright
+

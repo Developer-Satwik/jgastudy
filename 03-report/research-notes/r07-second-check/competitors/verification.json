@@ -1,0 +1,993 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 245,
+  "checks": [
+    {
+      "check": "Three new routes and four canonical reuses",
+      "passed": true
+    },
+    {
+      "check": "Six bounded claims/design records",
+      "passed": true
+    },
+    {
+      "check": "Claim refs C7S-C01",
+      "passed": true
+    },
+    {
+      "check": "No adopted numeric estimate C7S-C01",
+      "passed": true
+    },
+    {
+      "check": "Claim refs C7S-C02",
+      "passed": true
+    },
+    {
+      "check": "No adopted numeric estimate C7S-C02",
+      "passed": true
+    },
+    {
+      "check": "Claim refs C7S-C03",
+      "passed": true
+    },
+    {
+      "check": "No adopted numeric estimate C7S-C03",
+      "passed": true
+    },
+    {
+      "check": "Claim refs C7S-C04",
+      "passed": true
+    },
+    {
+      "check": "No adopted numeric estimate C7S-C04",
+      "passed": true
+    },
+    {
+      "check": "Claim refs C7S-C05",
+      "passed": true
+    },
+    {
+      "check": "No adopted numeric estimate C7S-C05",
+      "passed": true
+    },
+    {
+      "check": "Claim refs C7S-C06",
+      "passed": true
+    },
+    {
+      "check": "No adopted numeric estimate C7S-C06",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/C7S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/C7S-S03.html",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/C7S-S03.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0116.html",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0116.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0192.html",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0192.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0193.html",
+      "passed": true
+    },
+    {
+      "check": "Retained filehash 03-report/research-notes/r07-second-check/competitors/captures/SRC-0193.txt",
+      "passed": true
+    },
+    {
+      "check": "No error promoted to original C7S-S01",
+      "passed": true
+    },
+    {
+      "check": "No error promoted to original C7S-S02",
+      "passed": true
+    },
+    {
+      "check": "Raw original valid C7S-S03",
+      "passed": true
+    },
+    {
+      "check": "Raw original valid SRC-0116",
+      "passed": true
+    },
+    {
+      "check": "Raw original valid SRC-0192",
+      "passed": true
+    },
+    {
+      "check": "Raw original valid SRC-0193",
+      "passed": true
+    },
+    {
+      "check": "No error promoted to original SRC-0113",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance all_answers",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance answer_index",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance summary",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance previous_R06_bridge",
+      "passed": true
+    },
+    {
+      "check": "Four constructed prompts32texts no counts transferred",
+      "passed": true
+    },
+    {
+      "check": "Coverage S03-A",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash S03-A",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S03-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S03-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S03-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S03-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S03-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S03-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Coverage S07-A",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash S07-A",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S07-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S07-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S07-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S07-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S07-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S07-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Coverage S08-C",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash S08-C",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Coverage S11-A",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash S11-A",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt S11-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Stable sourcefile S11-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Text hash S11-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact index text S11-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/tool/repeat S11-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source limits S11-A-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Full-study source statuses retained",
+      "passed": true
+    },
+    {
+      "check": "Local note link prior-study-bridge.json",
+      "passed": true
+    },
+    {
+      "check": "Local note link source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Local note link claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Local note link capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Local note link search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "Local note link verification.json",
+      "passed": true
+    },
+    {
+      "check": "No external actions",
+      "passed": true
+    }
+  ],
+  "scope": "Own-strand parse/hash/link/exact saved-data checks; not independent integrated review or validation of generated advice",
+  "source_routes": 3,
+  "canonical_reuses": 4,
+  "claims": 6,
+  "selected_questions": 4,
+  "selected_saved_answer_texts": 32
+}

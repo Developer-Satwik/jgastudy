@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "source_routes_reviewed": 4,
+  "new_source_candidates": 3,
+  "reused_canonical_routes": 1,
+  "actual_raw_originals_retained": 4,
+  "PDFs_inspected": 0,
+  "source_use_limits": [
+    "GreenBook social-value, transfer, discount and prescribed-horizon rules not private corporate mandate",
+    "EfficiencyFramework public reporting definitions scoped; no observed payroll savings",
+    "ACCA/AQA educational examples not client economics, amounts/rates/arithmetic unadopted",
+    "AQA original example contains inconsistent stated ProjectB average return; use conceptual definitions only",
+    "Magenta mainHTML initially screened, then allocated to root and not promoted in this strand"
+  ],
+  "checks": {
+    "cash_vs_non_cash_separate": true,
+    "baseline_vs_feasible_recommendation_separate": true,
+    "gross_net_delivery_costs_visible": true,
+    "future_incremental_vs_resource_accounting_separate": true,
+    "no_double_counted_financing_or_benefits": true,
+    "no_invented_risk_probability": true,
+    "no_private_forecast_or_confidential_data": true,
+    "core_questions_unchanged": true
+  },
+  "screened_not_promoted": [
+    {
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "reason": "Evaluation allocated to parent; no economics source/claim promoted"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/653545/Guide_for_Effective_Benefits_Management_in_Major_Projects.pdf",
+      "reason": "Discovery only; current HTML provides required scoped distinctions without additional historical PDF investigation"
+    }
+  ],
+  "external_actions": [],
+  "canonical_edits": [],
+  "client_edits": []
+}

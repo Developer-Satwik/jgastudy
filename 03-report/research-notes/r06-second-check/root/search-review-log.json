@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "queries": [
+    "site.gov.uk servicemanual retiring service users data transition provider",
+    "site.acas.org.uk payslips electronicaccess formeremployees changesystem",
+    "site.gov.uk payslips electronicpaper employeesaccess employer"
+  ],
+  "selected": [
+    "GDSretirementguidance",
+    "ReusedWestSussexOct2026scopedselfservicedeclaration"
+  ],
+  "excluded": [
+    {
+      "route": "Cambridgeonlinepayslips",
+      "reason": "RawHTMLinspected/captured, but generalaccessdeclaration doesnotaddactualtransitionevidence beyondselectedsources. Notcanonised or reliedon; oldP60/tax/securitybenefitstatements notadopted."
+    },
+    "Forum/legalrightsinterpretations",
+    "No fixedGOVUKretirementtimings/privateemployerlegalrules"
+  ],
+  "external_actions": []
+}

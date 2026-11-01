@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R05 second challenge through segmented market, service allocation and lifecycle cash lens",
+  "queries": [
+    "site.gov.uk Basic PAYE Tools payroll software fewer than 10 employees automatic enrolment",
+    "site.moneysoft.co.uk payroll manager licence multiple companies licence annual",
+    "site.payfit.com uk terms payroll responsibility approval client termination data",
+    "site.modulrfinance.com payroll payments Bacs payroll account funds approval"
+  ],
+  "inspected_routes": [
+    {
+      "url": "https://moneysoft.co.uk/product/payroll-manager-100-annual-licence/",
+      "candidate_id": "R5M-S01",
+      "canonical_source_id": null,
+      "locator": "Product title and first description; retained text lines 47\u201349"
+    },
+    {
+      "url": "https://payfit.com/general-terms-of-service/",
+      "candidate_id": "R5M-S02",
+      "canonical_source_id": null,
+      "locator": "Definitions; clauses 1.1\u20131.3, 2.3\u20132.5, 3.1\u20133.3, 4.2, 5 and 5.3\u20135.4"
+    },
+    {
+      "url": "https://www.modulrfinance.com/pricing-for-business",
+      "candidate_id": "R5M-S03",
+      "canonical_source_id": null,
+      "locator": "Payroll and high volume / Payroll Payments plans; comparison footnotes; separate bundled product sections"
+    },
+    {
+      "url": "https://knowledge.modulrfinance.com/knowledge-hub/funding-overview",
+      "candidate_id": "R5M-S04",
+      "canonical_source_id": null,
+      "locator": "Add Funds feature; first-time funding; final scheduled-payment paragraph"
+    },
+    {
+      "url": "https://www.gov.uk/basic-paye-tools",
+      "candidate_id": null,
+      "canonical_source_id": "SRC-0107",
+      "locator": "What it does; Before you start; Updating the software"
+    }
+  ],
+  "excluded_or_not_adopted": [
+    {
+      "item": "Modulr August 2026 product update search result",
+      "reason": "Planned/soon functions not needed for current workflow claims; not used to assert launched features."
+    },
+    {
+      "item": "Secondary reviews and Reddit",
+      "reason": "Discovery only; no claims relied on these."
+    },
+    {
+      "item": "Payfit reader June heading",
+      "reason": "Conflicts with retained raw October 27 version; no chronological change inferred."
+    },
+    {
+      "item": "Modulr repeated bundle quantities",
+      "reason": "Unresolved source presentation conflict; exact quantities/rates not adopted."
+    },
+    {
+      "item": "Moneysoft/Modulr/Payfit monetary amounts",
+      "reason": "No customer cost or price comparison required; structure only."
+    }
+  ],
+  "external_actions": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "candidate_id": "SC-ROOT-S01",
+    "title": "Protect your business",
+    "publisher": "UK Government Stop! Think Fraud campaign",
+    "url": "https://stopthinkfraud.campaign.gov.uk/protecting-your-business/",
+    "accessed_on": "2026-10-28",
+    "http_status": 200,
+    "final_url": "https://stopthinkfraud.campaign.gov.uk/protecting-your-business/",
+    "capture_path": "03-report/research-notes/r02-second-check/root/SC-ROOT-S01.html",
+    "capture_sha256": "f989b48fcf5ff1df5b6222d5fe1adc8b03a0b7f34a362187dba8b60803d5017f"
+  },
+  {
+    "candidate_id": "SC-ROOT-S02",
+    "title": "Glossary",
+    "publisher": "Pay.UK / Bacs",
+    "url": "https://www.bacs.co.uk/resources/glossary/",
+    "accessed_on": "2026-10-28",
+    "http_status": 200,
+    "final_url": "https://www.bacs.co.uk/resources/glossary/",
+    "capture_path": "03-report/research-notes/r02-second-check/root/SC-ROOT-S02.html",
+    "capture_sha256": "2d1582493ccec906888cbff007718a6024c5d3aed08dd3ab0c91cdc3bb797559"
+  },
+  {
+    "candidate_id": "SC-ROOT-S03",
+    "title": "Learning lessons from the cyber-attack: British Library cyber incident review",
+    "publisher": "British Library",
+    "url": "https://www.bl.uk/files/v5dwkion/production/99206a2d1e9f07b35712b78f7d75fbb09560c08d.pdf/british-library-cyber-incident-review-8-march-2024.pdf?dl=",
+    "accessed_on": "2026-10-28",
+    "http_status": 200,
+    "final_url": "https://www.bl.uk/files/v5dwkion/production/99206a2d1e9f07b35712b78f7d75fbb09560c08d.pdf/british-library-cyber-incident-review-8-march-2024.pdf?dl=",
+    "capture_path": "03-report/research-notes/r02-second-check/root/SC-ROOT-S03.pdf",
+    "capture_sha256": "2d8ed8ce0b0be4611bb0a60e2a36de8ac2bfe40f6dd4b881b9316fb66d1f035a"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-31",
+  "status": "input_specification_not_populated_financial_model",
+  "requirements": [
+    {
+      "input_group_id": "IN01",
+      "group": "Case, period and edition",
+      "required_values": "Selected A/B route, horizon, edition/version, pilot city ifchosen, annual city list and event months.",
+      "applies_when": "All cases; selected event/city details only for B.",
+      "boundary": "No calendar, annual refresh count or Texas city inferred. A can remain usable when event inputs are not selected.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN02",
+      "group": "Research and free/paid units",
+      "required_values": "Number of actual modelled editions, partner bundles, additional unbundled licences/use types, optional sold/scoped briefings and free contributor copies.",
+      "applies_when": "All cases as applicable.",
+      "boundary": "Same edition can support legitimate multiple buyers. Remove equivalent/bundled double-counts; contributor benefit does not imply a second employer purchase.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN03",
+      "group": "Price and volume assumptions",
+      "required_values": "Test prices, customer/partner counts, service units, fulfilment conditions and assumption/source IDs.",
+      "applies_when": "Only revenue streams actually modelled.",
+      "boundary": "No sales or willingnesstopay observed. Conservative/base/optimistic are assumptions, not confidence intervals or forecasts.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN04",
+      "group": "Initial investment and remaining obligations",
+      "required_values": "Existing USD1500commission with report1000/Table500 scope allocation; actual paid/upfront/balance state and dated FX if needed.",
+      "applies_when": "Initial project/investment and later funding views.",
+      "boundary": "Userreported USD750received byRiseklix is not sponsor income forJGA. Firstprojectfee is not recurringedition cost; do not silently load allTablefeasibility onto research-only unitcost.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN05",
+      "group": "Research production and servicing",
+      "required_values": "Research/editorial/design/analysis/rights/admin/sales preparation and optional briefing/followthrough work, hours and actual rate/cash classification.",
+      "applies_when": "All cases that use the work; common costs occur only as specified.",
+      "boundary": "JGAstafftime and alreadybudgeted salary/opportunity cost differ from new cash. Allocate sharedtime once; do not add an overhead-loaded rate and the same overhead again.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN06",
+      "group": "Event costs and participant load",
+      "required_values": "Practitioner seats, host/moderator/partner seats ifany, room capacity, quotedminimum/fee, menus, drinks, service, tax and cancellation conditions.",
+      "applies_when": "Selected B event/city only.",
+      "boundary": "Perpersonmenu is not roomminimum. Distinguish minimumspend eligibleitems, roomhire, deposits and separate event liability. If not known retainunknown; no named partner defaultseat.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN07",
+      "group": "Travel, accessibility and participation operations",
+      "required_values": "Recruitment/scheduling/moderation/admin, accessible/privacy-fit room, necessary travel/accommodation and who bears it.",
+      "applies_when": "Selected event/city only, with staff/member roles distinct.",
+      "boundary": "Free attendance does not promise travel paid. Texas city not defined; do not fabricate route/time/cost or countcapacity asrecruitedpeople.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN08",
+      "group": "Cash timing and exposure",
+      "required_values": "Invoice, expectedreceipt, supplierdeposit/balance/refund/cancellation dates; spend alreadycommitted/receivedfunding.",
+      "applies_when": "Cash schedule for selectedstreams/costs.",
+      "boundary": "Signed/invoiced/received/fulfilled differ. Deposits paid against invoice not addedagain as separate expense; recoveries and future obligations remain distinct.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN09",
+      "group": "Currency and tax basis",
+      "required_values": "Originalcurrency, datedFX direction/source, net/gross tax/service basis and any actuallyconfirmed recovery/refund assumptions.",
+      "applies_when": "Any nonreportingcurrency/tax-sensitive row.",
+      "boundary": "Do not assume FX=1, missingtax=0, serviceoptional orVATrecoverable. No universal tax/legal treatment asserted.",
+      "actual_values": null
+    },
+    {
+      "input_group_id": "IN10",
+      "group": "Scenario and risk decisions",
+      "required_values": "Sales, partnerfees, workhours, deliveryinflation/delay/cancellation assumptions; startingcash/riskappetite for decision.",
+      "applies_when": "Case-dependent parameters and tests.",
+      "boundary": "No arbitrarygo/no-go threshold. Receivedfunding versus nonrefundableexposure and deliveryreadiness must be visible; favourableassumptions do not validate demand.",
+      "actual_values": null
+    }
+  ],
+  "blank_is_not_zero": true,
+  "explicit_zero_requires_basis": true,
+  "unselected_route_missing_inputs_do_not_block_selected_route": true,
+  "selected_missing_critical_input_must_remain_visible": true,
+  "actual_financial_inputs": [],
+  "actual_quotes": [],
+  "actual_partner_orders": [],
+  "actual_customers": [],
+  "reporting_currency_proposal": "GBP,notyetclientagreed",
+  "Texas_city_confirmed": false,
+  "workbook_created": false
+}

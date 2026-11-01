@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "scope": "Independent bounded record/design/source sample review, not a statistical test, fieldwork or final publication approval",
+  "check_count": 82,
+  "checks": [
+    {
+      "check": "Fourteen-question map exactly matches version0.2",
+      "passed": true
+    },
+    {
+      "check": "Q007eight dispositions preserved as analytically normalised vocabulary",
+      "passed": true
+    },
+    {
+      "check": "No status from silence and option/decision/rollout boundaries recorded",
+      "passed": true
+    },
+    {
+      "check": "Nine optional unscored rows have no validated remedy",
+      "passed": true
+    },
+    {
+      "check": "WestSussex distinguishes delivery delay from unknown proposal disposition",
+      "passed": true
+    },
+    {
+      "check": "OEP operational report has no inferred approval",
+      "passed": true
+    },
+    {
+      "check": "NICS2001 remains component-only historical context outside fieldwork window",
+      "passed": true
+    },
+    {
+      "check": "No published context counted as original contributor",
+      "passed": true
+    },
+    {
+      "check": "NZadvance notice has unknown underlying proposal,reason and cancellation date",
+      "passed": true
+    },
+    {
+      "check": "No forecasts, observations, causal tests or additional questions",
+      "passed": true
+    },
+    {
+      "check": "Event template remains blank",
+      "passed": true
+    },
+    {
+      "check": "All R06 support claims resolve",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves PC01",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves PC02",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves PC03",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves PC04",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves PC05",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves PC06",
+      "passed": true
+    },
+    {
+      "check": "Context evidence resolves NC01",
+      "passed": true
+    },
+    {
+      "check": "Reader notes not called raw originals SRC-0195",
+      "passed": true
+    },
+    {
+      "check": "Reader notes not called raw originals SRC-0196",
+      "passed": true
+    },
+    {
+      "check": "Reader notes not called raw originals SRC-0197",
+      "passed": true
+    },
+    {
+      "check": "Azets corrected researcher, country counts and separate qualitative component retained",
+      "passed": true
+    },
+    {
+      "check": "Prior Moorepay and Cintra holds unchanged",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Evidence IDs resolve in 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves research-notes/r06/retention/RETENTION-AND-SWITCHING-EVIDENCE.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves research-notes/r06/stalls/STALLED-AND-STOPPED-EVIDENCE.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves research-notes/r06/buyer-evidence/BUYER-EVIDENCE-AND-LIMITS.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves research-notes/r06/root/OUTCOME-AND-RESPONSE-METHOD.md",
+      "passed": true
+    },
+    {
+      "check": "Evidence IDs resolve in 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Evidence IDs resolve in 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves ../R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves ../R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link resolves ../R06-outcome-map.json",
+      "passed": true
+    }
+  ],
+  "reviewed_artifacts": [
+    {
+      "path": "03-report/R06-DESKTOP-READOUT.md",
+      "sha256": "80501dce8015aab3ec18d7d0b757bd8a98cd10d3534e13fb2dbd850b00ba9c49"
+    },
+    {
+      "path": "03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "sha256": "ff7ac7e7ce3ad4f83e97ecee738e3ff15d7e41c281de2590d578bacfdc939c24"
+    },
+    {
+      "path": "03-report/R06-outcome-map.json",
+      "sha256": "4c341e8f588f7062c709a559f186f97d69b1497afb270e5678784573c6c405cd"
+    },
+    {
+      "path": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "sha256": "6add132fa6a969850dd35e6bd95ba38db9cde93921961b9c5b050185cae20ceb"
+    },
+    {
+      "path": "08-qa/R06-record-map.json",
+      "sha256": "0690080f0883294bbc511fea7f1d75198af46016492b8f9077d133d7b5eebdad"
+    }
+  ]
+}

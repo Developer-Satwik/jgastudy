@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "TC2-C01",
+      "canonical_source_ids": [
+        "SRC-0222"
+      ],
+      "source_candidate_ids": [
+        "TC2-S01"
+      ],
+      "claim_text": "Oakleaf publishes a dated article that presents named-expert webinar themes, employer questions and a link to a recording/future-event route. This is a concrete existing follow-through format beside its payroll market commentary and event account.",
+      "evidence_class": "provider_declared_content_followthrough_format",
+      "locator": "New article parsed13–21,42–43,57–59; existing payroll-event/market article body",
+      "limitations": "Only the content/format and public route are observed. No legal/tax assertions, actual webinar viewing, participant benefit, publication reuse right, reach, fee or market demand is imported.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Provider content or explicit researcher/constructed-prompt application; not original participant data",
+      "time_period": "Article28January2026; other source-specific dates preserved; this review30October2026"
+    },
+    {
+      "candidate_id": "TC2-C02",
+      "canonical_source_ids": [
+        "SRC-0190",
+        "SRC-0221",
+        "SRC-0222",
+        "SRC-0116",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [
+        "TC2-S01"
+      ],
+      "claim_text": "For TP01 briefing and TP03 follow-through, define the additional task, evidence or practical interpretation beyond the actual alternatives the user already has. A summary, event, expert conversation or personalised explanation is not distinctive merely by its format; existing public recruiter/JGA formats supply counterexamples.",
+      "evidence_class": "researcher_offer_incremental_value_vs_format_condition",
+      "locator": "All-seven context map plus Oakleaf webinar-follow-through and Robert Half personalised interpretation route",
+      "limitations": "This does not prove those alternatives solve a specific user need, that a format must be unique, or that free content makes paid interpretation unviable. No market ranking, right to copy, price or guaranteed value is established. Selective design criterion, not a new mandatory question.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Provider content or explicit researcher/constructed-prompt application; not original participant data",
+      "time_period": "Article28January2026; other source-specific dates preserved; this review30October2026"
+    },
+    {
+      "candidate_id": "TC2-C03",
+      "canonical_source_ids": [
+        "SRC-0116",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Earlier constructed recruiting prompts distinguish US domestic remit, UK/European responsibility and Manchester provider-governance ownership. For T02, a tailored reading path or briefing must preserve the actual task, evidence object and geography of the underlying material; office presence or a broader label does not create relevant case evidence.",
+      "evidence_class": "researcher_prior_study_task_remit_and_offer_boundary",
+      "locator": "Exact S03-C/S08-C/S09-C bridge and24saved-answer lineage; three ChatGPT repeat1 texts semantically reread",
+      "limitations": "These prompts already assume recruiting and their stated situations. Generated firms, rankings, weights, capability assertions and recommendations are not revalidated or transferred as buyer demand, case coverage or permission. This is a constructed counterexample lens, not original market evidence.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Provider content or explicit researcher/constructed-prompt application; not original participant data",
+      "time_period": "Article28January2026; other source-specific dates preserved; this review30October2026"
+    }
+  ]
+}

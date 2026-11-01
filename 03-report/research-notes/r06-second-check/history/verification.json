@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "checks": [
+    {
+      "check": "JSON parses capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02-companion-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02-04.png",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02-02.png",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02-03.png",
+      "passed": true
+    },
+    {
+      "check": "Retained file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02-01.png",
+      "passed": true
+    },
+    {
+      "check": "Two new routes and five scoped claims; no Oxford candidate or original practitioner",
+      "passed": true
+    }
+  ],
+  "check_count": 13,
+  "scope": "Parse/hash/content-count checks; visual source reading separately documented, no financial validation"
+}

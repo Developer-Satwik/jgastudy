@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-28",
+  "status": "completed_for_internal_desktop_subtopic",
+  "canonical_modified": false,
+  "client_files_modified": false,
+  "external_actions": [],
+  "sources_reused": [
+    "SRC-0020",
+    "SRC-0022",
+    "SRC-0040",
+    "SRC-0064"
+  ],
+  "new_independent_datasets": 0,
+  "claim_candidates": 7,
+  "numeric_holds": 2,
+  "rendered_pages_inspected": [
+    "Deloitte12",
+    "Deloitte24",
+    "Deloitte25",
+    "Deloitte26"
+  ],
+  "queries": [
+    "site.adp.com potential of payroll in 2026 reporting",
+    "site.adp.com2026payroll skills1816"
+  ],
+  "scope_note": "Capacity and reporting/control mechanisms; not staffing prescription, cost model, new questionnaire or R03 technology selection."
+}

@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "STL6-C01",
+      "source_ids": [
+        "STL6-S01"
+      ],
+      "claim_text": "West Sussex’s March2026 communication moves the planned HR/payroll implementation from April to October and attributes the revised timing to scale and safe, reliable payroll, particularly schools/term-time staff.",
+      "evidence_class": "official_employer_stated_rescheduling_reason",
+      "locator": "Date/body; retained text23,30–32",
+      "population": "Selected primary public records with source-specific jurisdiction/object/date retained",
+      "limitations": "A reported reason and future plan, not evidence of realised risk reduction, rejected need or abandoned programme.",
+      "review_mode": "Relevant original HTML body and date/type sections inspected; rawHTML and parsed text retained with hashes; no PDF relied upon",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific stated events/publication, accessed29October2026"
+    },
+    {
+      "candidate_id": "STL6-C02",
+      "source_ids": [
+        "STL6-S02"
+      ],
+      "claim_text": "The October2026 West Sussex update declares employee self-service access to information, bank details and payslips, while retaining support routes and a limitation on historic payslips.",
+      "evidence_class": "official_employer_scoped_availability_declaration",
+      "locator": "Date/body; retained text23,30–41",
+      "population": "Selected primary public records with source-specific jurisdiction/object/date retained",
+      "limitations": "Same programme context after the earlier postponement, but availability alone does not prove full payroll processing, accuracy, benefits or causal effect of waiting.",
+      "review_mode": "Relevant original HTML body and date/type sections inspected; rawHTML and parsed text retained with hashes; no PDF relied upon",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific stated events/publication, accessed29October2026"
+    },
+    {
+      "candidate_id": "STL6-C03",
+      "source_ids": [
+        "STL6-S03"
+      ],
+      "claim_text": "NIAO’s2004 summary records cancellation of the payroll project in May2001 without a workable system, while personnel and pensions components had delivered benefits.",
+      "evidence_class": "primary_historical_audit_summary",
+      "locator": "Opening summary; retained text33–35",
+      "population": "Selected primary public records with source-specific jurisdiction/object/date retained",
+      "limitations": "Different component outcomes within the wider HRMS. Not current behaviour, a reason to label all ERP change failure, or proof that stopping itself was beneficial.",
+      "review_mode": "Relevant original HTML body and date/type sections inspected; rawHTML and parsed text retained with hashes; no PDF relied upon",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific stated events/publication, accessed29October2026"
+    },
+    {
+      "candidate_id": "STL6-C04",
+      "source_ids": [
+        "STL6-S03"
+      ],
+      "claim_text": "NIAO reports that the payroll extension to an existing contract made termination difficult because of potential effects on equipment needed for the personnel and pensions systems.",
+      "evidence_class": "primary_historical_audit_reported_exit_dependency",
+      "locator": "Procurement findings, retained text41, referring to full-report paras2.26–2.30",
+      "population": "Selected primary public records with source-specific jurisdiction/object/date retained",
+      "limitations": "Source-reported historical dependency, not current legal advice, general vendor lock-in, fixed exit cost or universal personal veto. Underlying contract not inspected.",
+      "review_mode": "Relevant original HTML body and date/type sections inspected; rawHTML and parsed text retained with hashes; no PDF relied upon",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific stated events/publication, accessed29October2026"
+    },
+    {
+      "candidate_id": "STL6-C05",
+      "source_ids": [
+        "STL6-S04"
+      ],
+      "claim_text": "The Education Payroll GETS record is labelled cancelled but identifies an advance information notice and expressly disclaims commencement of procurement or commitment to issue an RFP or award.",
+      "evidence_class": "official_publication_status_and_scope_boundary",
+      "locator": "Details/type plus ImportantInformation; retained text25–40,53–67",
+      "population": "Selected primary public records with source-specific jurisdiction/object/date retained",
+      "limitations": "No reason, date of cancellation, subsequent route or whole-upgrade decision established. Not a completed tender or original UK employer contribution.",
+      "review_mode": "Relevant original HTML body and date/type sections inspected; rawHTML and parsed text retained with hashes; no PDF relied upon",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific stated events/publication, accessed29October2026"
+    },
+    {
+      "candidate_id": "STL6-C06",
+      "source_ids": [
+        "STL6-S01",
+        "STL6-S02",
+        "STL6-S03",
+        "STL6-S04"
+      ],
+      "claim_text": "R06 should attach any pause, stop or cancellation to its actual object, date, authority/knowledge basis and next state, while separating the stated reason from analyst explanation, proposed remedy and observed result.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-source comparison of exact objects and dated states in C01–C05",
+      "population": "Selected primary public records with source-specific jurisdiction/object/date retained",
+      "limitations": "Qualitative design application, not universal workflow, causal remedy or representative prevalence. Missing decision/reason remains missing; no compulsory additional question.",
+      "review_mode": "Relevant original HTML body and date/type sections inspected; rawHTML and parsed text retained with hashes; no PDF relied upon",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific stated events/publication, accessed29October2026"
+    }
+  ]
+}

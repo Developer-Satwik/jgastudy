@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-31",
+  "status": "selective_historical_and_sourcing_conditions_not_financial_inputs",
+  "conditions": [
+    {
+      "condition_id": "HC01",
+      "condition": "Match rate category, statistic, base and period before using a historical trend.",
+      "application": "CIEP same-category guidance can be compared; ProCopywriters average/median and Yuno discipline/role require explicit separation."
+    },
+    {
+      "condition_id": "HC02",
+      "condition": "Select a sourcing route and matched scope before pricing the work.",
+      "application": "UKcontractors, a global marketplace, an internal JGA route and an agreed supplier package are alternatives, not additive full-cost layers. NoIndia discount assumed."
+    },
+    {
+      "condition_id": "HC03",
+      "condition": "Retain actual booking, clientfee, currency and cash basis.",
+      "application": "Normalised hourly labour comparison is not a bookable fractionalday or all-in cash quote. Apply route-specific fees/FX only when sourced or explicitly assumed."
+    },
+    {
+      "condition_id": "HC04",
+      "condition": "Recheck execution-date applicability instead of extrapolating automatically.",
+      "application": "2024–26publicreferences do not establish2027quotes or futureavailability. First-pass rates remain unchanged."
+    }
+  ],
+  "financial_inputs_added": 0,
+  "rate_changes_adopted": 0,
+  "external_actions": []
+}

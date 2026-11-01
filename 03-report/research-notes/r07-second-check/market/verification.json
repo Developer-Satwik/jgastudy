@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 31,
+  "retained_file_count": 6,
+  "checks": [
+    {
+      "check": "Three targeted new routes and one explicit reuse",
+      "passed": true
+    },
+    {
+      "check": "Five bounded claim/design records",
+      "passed": true
+    },
+    {
+      "check": "References resolve M7S-C01",
+      "passed": true
+    },
+    {
+      "check": "No numerical outcome estimate M7S-C01",
+      "passed": true
+    },
+    {
+      "check": "References resolve M7S-C02",
+      "passed": true
+    },
+    {
+      "check": "No numerical outcome estimate M7S-C02",
+      "passed": true
+    },
+    {
+      "check": "References resolve M7S-C03",
+      "passed": true
+    },
+    {
+      "check": "No numerical outcome estimate M7S-C03",
+      "passed": true
+    },
+    {
+      "check": "References resolve M7S-C04",
+      "passed": true
+    },
+    {
+      "check": "No numerical outcome estimate M7S-C04",
+      "passed": true
+    },
+    {
+      "check": "References resolve M7S-C05",
+      "passed": true
+    },
+    {
+      "check": "No numerical outcome estimate M7S-C05",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S01.html",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S02-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S03.html",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S03.txt",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/SRC-0207.html",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S01.html",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S02-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S03.html",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/M7S-S03.txt",
+      "passed": true
+    },
+    {
+      "check": "File hash 03-report/research-notes/r07-second-check/market/captures/SRC-0207.html",
+      "passed": true
+    },
+    {
+      "check": "Reader-only setup note not promoted to original",
+      "passed": true
+    },
+    {
+      "check": "Markdown link resolves source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Markdown link resolves claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Markdown link resolves capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Markdown link resolves search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "Markdown link resolves verification.json",
+      "passed": true
+    },
+    {
+      "check": "No external actions",
+      "passed": true
+    }
+  ],
+  "scope": "Bounded market source/claim/schema/hash/link check; not independent integration, product testing or employer evidence."
+}

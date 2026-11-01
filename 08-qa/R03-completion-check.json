@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R03_desktop_synthesis",
+  "new_source_routes": 17,
+  "new_claim_or_guardrail_records": 29,
+  "source_records": 108,
+  "claim_records": 144,
+  "source_records_with_retained_original": 59,
+  "internal_findings": 28,
+  "option_paths": 8,
+  "case_employers": 2,
+  "capture_log_files_hash_checked": 21,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    }
+  ],
+  "prior_R02_artifacts_unchanged": true,
+  "fourteen_core_questions_unchanged": true,
+  "artifacts": [
+    {
+      "path": "03-report/R03-DESKTOP-READOUT.md",
+      "sha256": "708926c16d89c3d5916728c5621680d11a795e82c0ee315d637868f6de99ad04"
+    },
+    {
+      "path": "03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "sha256": "1d2b78c033a37b6af5ee3fa2e9ed51ecf69892d90ab55f9e6a5378ffaf9f723a"
+    },
+    {
+      "path": "03-report/R03-option-map.json",
+      "sha256": "e50f19ec3b20b1dbfc53bc0dda9461d41352575733c31292e4ce28cc4043560f"
+    },
+    {
+      "path": "03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "sha256": "974e0da05d33a410ea5cdffcba72d2309a46578d5ee6c2d174e9ca8b3d15b355"
+    },
+    {
+      "path": "08-qa/R03-independent-review.md",
+      "sha256": "ae9abe4722adfac78f319333d510ad766036bca50d79b6faeef7807d06ef6c22"
+    },
+    {
+      "path": "08-qa/R03-record-map.json",
+      "sha256": "51736aceaf8893172c39ab8f4bda4cc8c191aa73a29683000e67917135c046d6"
+    },
+    {
+      "path": "08-qa/R03-captures.json",
+      "sha256": "bbae9ebee29bca67740f831c0232914cc4ff0d161f9bbfd3125688c5160934f6"
+    }
+  ],
+  "new_practitioner_observations": 0,
+  "product_or_API_tests": 0,
+  "final_publication_approved": false,
+  "external_actions": [],
+  "next": "R04 decision authority/pathways; original practitioner integration and final publication checks remain open.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 526,
+    "json_files": 102,
+    "source_records": 108,
+    "claim_records": 144,
+    "question_records": 14,
+    "internal_design_findings": 28,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 65,
+    "scope": "R01/R02/R03 record linkage and captures; synthesis references and option-map boundaries; WP02 draft question mapping and project consistency. No final publication, participant testing, commercial validation, product trial or human fieldwork implied."
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_read_only_boundary_review",
+  "source_workbook": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/Event planning and direct costs.xlsx",
+  "source_workbook_sha256": "0a5aad11e1c30d0ec1888fcfd548dedd3908b0f8b7d3e947548a2be4aaccda37",
+  "source_component_sha256": "742b86e01889f138d5a4164e62251b7ca4cc54f3b498403fcc3ee263f860d0c1",
+  "source_financial_inputs_sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d",
+  "formula_caches_reconciled": 64,
+  "case_count": 16,
+  "cases": [
+    {
+      "case_id": "EA01",
+      "title": "Planned complete task",
+      "result": {
+        "planning_hours": 3.0
+      },
+      "interpretation": "A complete unit uses the selected untimed allowance; it is not observed actual work.",
+      "covered_by_current_workbook": true,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA02",
+      "title": "Partial preparation",
+      "result": {
+        "fractional_count_result": "n.a.",
+        "hypothetical_actual_hours": 1.5
+      },
+      "interpretation": "Whole event/activity counts cannot measure a half-completed task. Record identifiable actual/incurred person-hours and remaining work at integration.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA03",
+      "title": "Zero completed events with work incurred",
+      "result": {
+        "explicit_exception_hours": 1.5,
+        "completed_events": 0
+      },
+      "interpretation": "The exception row can retain uncovered incurred work, once; it does not identify phase, person or remaining obligations automatically.",
+      "covered_by_current_workbook": true,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA04",
+      "title": "Two simultaneous functions",
+      "result": {
+        "one_person_elapsed_hours": 2.0,
+        "functions_verified_as_deliverable": false
+      },
+      "interpretation": "A single person may be needed in two places at once. Body-time arithmetic does not validate simultaneous moderator/check-in coverage.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA05",
+      "title": "Separate people or duplicate labels",
+      "result": {
+        "two_role_rows_hours": 4.0
+      },
+      "interpretation": "Four hours are valid if two different required people work two hours. If one person has two simultaneous labels, identity/time mapping must prevent duplicate hours.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA06",
+      "title": "Postponement and exact reused work",
+      "result": {
+        "two_full_units_hours": 6.0,
+        "illustrative_preparation_plus_update": 3.75
+      },
+      "interpretation": "A rescheduled date is not automatically a second complete task. Scope real retained work and required update rather than apply an arbitrary reuse discount.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA07",
+      "title": "Total party capacity",
+      "result": {
+        "people": 17,
+        "room_fit": "Over limit"
+      },
+      "interpretation": "Host and guest places matter in addition to practitioner places.",
+      "covered_by_current_workbook": true,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA08",
+      "title": "Minimum party size and whole-party menu",
+      "result": {
+        "ceiling_only_result": "Within limit",
+        "party_menu_minimum_in_dated_example": 9,
+        "selected_party": 8,
+        "dated_party_menu_eligibility": false
+      },
+      "interpretation": "The source-specific lower party threshold is separate from maximum seats. A capacity pass is not a complete menu or venue eligibility decision.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA09",
+      "title": "Late withdrawals",
+      "result": {
+        "planned_people": 15,
+        "billed_covers": 17
+      },
+      "interpretation": "Attendance and supplier liability remain separate. Actual terms determine any reduction or substitution.",
+      "covered_by_current_workbook": true,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA10",
+      "title": "New and repeat cohorts",
+      "result": {
+        "ten_attempts_hours": 2.5,
+        "accepted_people": null
+      },
+      "interpretation": "An existing cohort does not guarantee new attendance or eliminate changed-scope/permissions work. No conversion or no-show estimate follows.",
+      "covered_by_current_workbook": true,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA11",
+      "title": "Inclusive moderation package",
+      "result": {
+        "direct_cost": 500,
+        "live_hours": 2.0,
+        "additional_monetised_same_scope": null
+      },
+      "interpretation": "A constructed \u00a3500 package is not a price recommendation. Later full-resource integration needs package/task overlap and the correct economic/cash basis, not automatic addition of hourly fees.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA12",
+      "title": "Future-use credit versus cash refund",
+      "result": {
+        "hypothetical_credit_value": 500,
+        "cash_refund_established": false,
+        "current_cash_receipt": 0
+      },
+      "interpretation": "A restricted future-use credit is not cash received, unrestricted recovery or proof the original expense vanished. Exact terms/expiry/remaining service belong in the later schedule.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA13",
+      "title": "Deposit and remaining bill",
+      "result": {
+        "hypothetical_final_total": 1900,
+        "credited_deposit": 500,
+        "remaining_payment": 1400,
+        "expense_not_2400": 1900
+      },
+      "interpretation": "Credit a deposit once against its supplier bill. Actual selected terms still needed.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA14",
+      "title": "Free software with organising effort",
+      "result": {
+        "direct_software_cost": 0,
+        "additional_case_hours": 0.5
+      },
+      "interpretation": "A zero platform fee does not imply zero human work. Suitability and actual data arrangements remain separate.",
+      "covered_by_current_workbook": true,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA15",
+      "title": "Missing travel and unselected location",
+      "result": {
+        "selected_unknown_travel_result": "n.a.",
+        "Texas_city": null
+      },
+      "interpretation": "Do not use an invented origin, route, generic fare or FX. An unselected event should not block a separately valid research-only programme.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    },
+    {
+      "case_id": "EA16",
+      "title": "Refund versus direct cost row",
+      "result": {
+        "negative_expense_result": "n.a."
+      },
+      "interpretation": "The direct-cost template is not a refund/cash ledger. Record any real refund and its date in the appropriate cash and supplier reconciliation schedule.",
+      "covered_by_current_workbook": false,
+      "actual_observation": false,
+      "new_financial_input": false
+    }
+  ],
+  "check_count": 83,
+  "checks": [
+    {
+      "check": "Saved formula Event costs!B5",
+      "actual": "Working",
+      "expected": "Working",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!B7",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!B8",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!B9",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!B22",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!B23",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D31",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D32",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D33",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D34",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D35",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D36",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D37",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D38",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D39",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D40",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D41",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event costs!D42",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!E4",
+      "actual": "Working",
+      "expected": "Working",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I6",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C11",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I11",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C12",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I12",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C13",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I13",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C14",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I14",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C15",
+      "actual": 0.25,
+      "expected": 0.25,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I15",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C16",
+      "actual": 0.5,
+      "expected": 0.5,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I16",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C17",
+      "actual": 0.25,
+      "expected": 0.25,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I17",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C18",
+      "actual": 0.5,
+      "expected": 0.5,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I18",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C19",
+      "actual": 0.25,
+      "expected": 0.25,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I19",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C20",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I20",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C21",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I21",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C22",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I22",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C23",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I23",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C24",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I24",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C25",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I25",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C26",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I26",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C27",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I27",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C28",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I28",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C29",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I29",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C30",
+      "actual": 0.5,
+      "expected": 0.5,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I30",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C31",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I31",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!C32",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "Saved formula Event work!I32",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Planned complete remit unit",
+      "actual": 3.0,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "Fractional event unit rejected",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Explicit uncovered actual hours retained",
+      "actual": 1.5,
+      "expected": 1.5,
+      "passed": true
+    },
+    {
+      "check": "One live body-time counted once",
+      "actual": 2.0,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "check": "Distinct live roles can cost four hours",
+      "actual": 4.0,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "check": "Two complete task units total six",
+      "actual": 6.0,
+      "expected": 6,
+      "passed": true
+    },
+    {
+      "check": "Seventeen distinct people",
+      "actual": 17,
+      "expected": 17,
+      "passed": true
+    },
+    {
+      "check": "Room ceiling fails",
+      "actual": "Over limit",
+      "expected": "Over limit",
+      "passed": true
+    },
+    {
+      "check": "Ceiling check alone can pass eight",
+      "actual": "Within limit",
+      "expected": "Within limit",
+      "passed": true
+    },
+    {
+      "check": "Attendance fifteen",
+      "actual": 15,
+      "expected": 15,
+      "passed": true
+    },
+    {
+      "check": "Billed covers seventeen",
+      "actual": 17,
+      "expected": 17,
+      "passed": true
+    },
+    {
+      "check": "Ten actual invitation attempts",
+      "actual": 2.5,
+      "expected": 2.5,
+      "passed": true
+    },
+    {
+      "check": "Inclusive package direct total",
+      "actual": 500.0,
+      "expected": 500,
+      "passed": true
+    },
+    {
+      "check": "Credit not treated as cash",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "check": "Deposit credited once",
+      "actual": 1400,
+      "expected": 1400,
+      "passed": true
+    },
+    {
+      "check": "Free selected tool amount",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "check": "Organising case still consumes work",
+      "actual": 0.5,
+      "expected": 0.5,
+      "passed": true
+    },
+    {
+      "check": "Unknown selected travel price visible",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "check": "Negative expense entry rejected",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    }
+  ],
+  "workbook_changed": false,
+  "new_financial_inputs": 0,
+  "native_Excel_tested": false,
+  "independent_agent_review": false,
+  "arithmetic_error_identified_for_defined_units": false,
+  "programme_scope_state_and_feasibility_refinements_required": true
+}

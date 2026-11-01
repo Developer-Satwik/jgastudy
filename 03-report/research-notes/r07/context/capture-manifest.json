@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "CTX7-S01",
+      "url": "https://www.gov.uk/government/publications/simplifying-holiday-entitlement-and-holiday-pay-calculations/holiday-pay-and-entitlement-reforms-from-1-january-2024",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/simplifying-holiday-entitlement-and-holiday-pay-calculations/holiday-pay-and-entitlement-reforms-from-1-january-2024",
+      "retrieved_at_utc": "2026-10-28T23:09:37.536097+00:00",
+      "path": "03-report/research-notes/r07/context/captures/CTX7-S01.html",
+      "sha256": "98ee42be47d5a46dcfb4ac5da853deaa2dd9962f922a2c1bf69befb7dd66b91e",
+      "text_path": "03-report/research-notes/r07/context/captures/CTX7-S01.txt",
+      "text_sha256": "6c59c6909f76f68578cce9a67cfa778ca5ecd4dcdd37c15d55663865da0b1124"
+    },
+    {
+      "candidate_id": "CTX7-S02",
+      "url": "https://www.gov.uk/guidance/paying-employees-working-abroad",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/paying-employees-working-abroad",
+      "retrieved_at_utc": "2026-10-28T23:09:38.840456+00:00",
+      "path": "03-report/research-notes/r07/context/captures/CTX7-S02.html",
+      "sha256": "98024e59244d1afb8543ee8c7a2d26e7217585c32e3bc46d07e76284f8fe16eb",
+      "text_path": "03-report/research-notes/r07/context/captures/CTX7-S02.txt",
+      "text_sha256": "16381cb3bc4952096b5c94b1c6e6efb0b83e0c0d6f7d366cf8901ccb5f67dc6d"
+    },
+    {
+      "candidate_id": "SRC-0107",
+      "url": "https://www.gov.uk/basic-paye-tools",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/basic-paye-tools",
+      "retrieved_at_utc": "2026-10-28T23:09:40.049180+00:00",
+      "path": "03-report/research-notes/r07/context/captures/SRC-0107.html",
+      "sha256": "5ed2f7cecdf29557984a2ca284223c367d38618e4fab79931aaedff41e6b3662",
+      "text_path": "03-report/research-notes/r07/context/captures/SRC-0107.txt",
+      "text_sha256": "cb4b05f6e667f0afed4b7d2836cff33b47175310a4bafbe77f07ef3822f801d7"
+    }
+  ]
+}

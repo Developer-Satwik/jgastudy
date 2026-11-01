@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "HIS-C01",
+      "source_candidate_ids": [
+        "HIS-S01"
+      ],
+      "locator": "Printed pp3\u20135 and11\u201313",
+      "claim_text": "The historical HMRC review reports overall successful RTI modernisation alongside costly-to-resolve mismatches, limited account visibility and unclear escalation ownership.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "evidence_class": "historical_context_or_selected_case_mechanism",
+      "time_period": "2017 review and/or2025 published case/methodology context, as specified",
+      "limitations": "Historical official self-review; qualitative mechanism, not current prevalence or independent employer ROI.",
+      "accessed_on": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "HIS-C02",
+      "source_candidate_ids": [
+        "HIS-S02"
+      ],
+      "locator": "PDF p7, CaseStudy5",
+      "claim_text": "CIPP reports a software fix for recurrence while already affected employee records still needed manual HMRC correction.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "evidence_class": "historical_context_or_selected_case_mechanism",
+      "time_period": "2017 review and/or2025 published case/methodology context, as specified",
+      "limitations": "One reported case; do not assert tested permanent prevention or generalise to all NHS/employers.",
+      "accessed_on": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "HIS-C03",
+      "source_candidate_ids": [
+        "HIS-S02"
+      ],
+      "locator": "PDF pp3\u20139, selected case accounts; landing-page HMRC response",
+      "claim_text": "Selected 2025 case accounts describe repeated contact and employer/agent/employee resolution work; HMRC states most RTI data is correctly allocated.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "evidence_class": "historical_context_or_selected_case_mechanism",
+      "time_period": "2017 review and/or2025 published case/methodology context, as specified",
+      "limitations": "Seven purposeful problem cases; no market incidence, national duration or causal provider ranking.",
+      "accessed_on": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "HIS-C04",
+      "source_candidate_ids": [
+        "HIS-S03"
+      ],
+      "locator": "Sections6\u20137",
+      "claim_text": "ONS/HMRC statistical methodology applies additional checks, transformations and revisions to RTI data before producing employment/earnings estimates.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "evidence_class": "historical_context_or_selected_case_mechanism",
+      "time_period": "2017 review and/or2025 published case/methodology context, as specified",
+      "limitations": "Analytical data quality and employer pay accuracy are different outcomes; no employer error-rate inference.",
+      "accessed_on": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "HIS-C05",
+      "source_candidate_ids": [
+        "HIS-S01",
+        "HIS-S02"
+      ],
+      "locator": "2017 review pp11\u201313; 2025 cases pp3\u20139",
+      "claim_text": "Data visibility and exception-resolution themes recur in dated sources, but unlike evidence does not establish unchanged or worsening frequency.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "evidence_class": "historical_context_or_selected_case_mechanism",
+      "time_period": "2017 review and/or2025 published case/methodology context, as specified",
+      "limitations": "Interpretive historical comparison; no matched sample, common measure or representative longitudinal series.",
+      "accessed_on": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    }
+  ]
+}

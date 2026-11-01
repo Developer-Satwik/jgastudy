@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_constructed_only",
+  "cases": [
+    {
+      "case_id": "SEATS-17",
+      "result": [
+        17,
+        false
+      ],
+      "expected": [
+        17,
+        false
+      ],
+      "note": "All people count, not practitioners alone.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "MINIMUM-SHORTFALL",
+      "result": 1900,
+      "expected": 1900,
+      "note": "Hypothetical eligible spend, minimum and separate hire, before any applicable charges.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "ABOVE-MINIMUM",
+      "result": 2200,
+      "expected": 2200,
+      "note": "Do not add the whole minimum to eligible consumption.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "DEPOSIT-CREDIT",
+      "result": [
+        1900,
+        1400
+      ],
+      "expected": [
+        1900,
+        1400
+      ],
+      "note": "Credited deposit changes remaining cash, not total expense.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "CANCEL-SUPPLIER-FINAL",
+      "result": [
+        300,
+        200
+      ],
+      "expected": [
+        300,
+        200
+      ],
+      "note": "A hypothetical credited deposit does not make final cancellation loss400.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "TWO-PEOPLE",
+      "result": 4,
+      "expected": 4,
+      "note": "Two live people for two hours produce four person-hours.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "ONE-PERSON-TWO-ROLES",
+      "result": 2,
+      "expected": 2,
+      "note": "One simultaneous two-hour host/moderator assignment is counted once.",
+      "actual_observation": false
+    },
+    {
+      "case_id": "PACKAGE-NONOVERLAP",
+      "result": 500,
+      "expected": 500,
+      "note": "Hypothetical inclusive package with no additional valuation of its included scope. No actual package rate adopted.",
+      "actual_observation": false
+    }
+  ],
+  "actual_inputs_added": 0
+}

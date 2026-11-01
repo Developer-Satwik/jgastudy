@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_independent_preintegration_source_model_and_lineage_checks",
+  "checks": [
+    {
+      "check_id": "RV01",
+      "passed": true,
+      "detail": "All265 protectedfilehashes,includingoriginalxlsxand33financialinputs,match."
+    },
+    {
+      "check_id": "RV02",
+      "passed": true,
+      "detail": "All13prechangeoriginal/control/registersnapshot hashesmatch."
+    },
+    {
+      "check_id": "RV03",
+      "passed": true,
+      "detail": "Seven newroutes/eighteenboundedclaimrecords reconcile; all466oldclaims exact."
+    },
+    {
+      "check_id": "RV04",
+      "passed": true,
+      "detail": "All235oldsourcebase recordsandpriorreviews preserved; appendedcontextreviewsareseparate."
+    },
+    {
+      "check_id": "RV05",
+      "passed": true,
+      "detail": "81findingsand33firstcomponentfinancialinputs unchanged."
+    },
+    {
+      "check_id": "RV06",
+      "passed": true,
+      "detail": "Threebrowserreaderextracts are notpromotedtoraworiginalHTML;allcandidate capture/extracthashesand18claimtexts/limitsreconcile."
+    },
+    {
+      "check_id": "RV07",
+      "passed": true,
+      "detail": "Baseand7/8-hour normalisationarithmeticallycorrect;daylengthisassumption,notobservedratechange."
+    },
+    {
+      "check_id": "RV08",
+      "passed": true,
+      "detail": "Whole-role-day illustrationcorrectat9190.14,withunsupportedactualbookingterms explicitlynotadopted."
+    },
+    {
+      "check_id": "RV09",
+      "passed": true,
+      "detail": "Unsuccessfulcontact/reusecounterfactualscorrect; noactualconversionrateorverifiedsavinginferred."
+    },
+    {
+      "check_id": "RV10",
+      "passed": true,
+      "detail": "Tenanalystapplicationsare read-only; numericexamplesarenotmarketobservationsormodeladoption."
+    },
+    {
+      "check_id": "RV11",
+      "passed": true,
+      "detail": "Twooriginalprovenancefilesandall24exactprompt/answertextsverifiedagainst bothsavedindices."
+    },
+    {
+      "check_id": "RV12",
+      "passed": true,
+      "detail": "IndependentlyrereadthreeChatGPT-r1texts:generatedS04weightsandS11Londonadditionarenotobservedbuyercriteriaortaskrequirements."
+    }
+  ],
+  "material_issues": [],
+  "original_workbook_edit_needed": false,
+  "original_workbook_preserved": true,
+  "financial_inputs_unchanged": true,
+  "findings_preserved": true,
+  "semantic_rereads": [
+    "S04-C-chatgpt-r1",
+    "S07-C-chatgpt-r1",
+    "S11-C-chatgpt-r1"
+  ],
+  "actual_fieldwork": false,
+  "external_actions": []
+}

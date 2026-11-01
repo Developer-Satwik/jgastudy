@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R8R-C01",
+      "canonical_source_ids": [
+        "SRC-0003"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "QQE treats quality appraisal as informed purpose-fit judgement rather than mechanistic rule-following, and notes that not every indicator is relevant to every study.",
+      "evidence_class": "official_method_appraisal_guidance",
+      "locator": "Sections2.8,4.6–4.8",
+      "limitations": "Guidance does not validate the proposed payroll framework or require a full evidence pack, score, experimental causal design or equal detail for every case.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Official qualitative quality guidance or explicit researcher application, not observed payroll participants",
+      "time_period": "Guidance rechecked29October2026; no empirical time series",
+      "review_mode": "Relevant original HTML sections inspected and retained with separate parsed text"
+    },
+    {
+      "candidate_id": "R8R-C02",
+      "canonical_source_ids": [
+        "SRC-0003"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "QQE asks whose evaluative judgement is reported and on what basis, the source of divergent appraisals, document origins/status and the traceable route from evidence to interpretation.",
+      "evidence_class": "official_method_provenance_and_divergence_guidance",
+      "locator": "Frameworkitems5,9,11,14,16,18",
+      "limitations": "Not a finding that any actual JGA contributor is inaccurate or in conflict. Agreement, acceptance, multiple links and a source label do not independently verify a particular claim.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Official qualitative quality guidance or explicit researcher application, not observed payroll participants",
+      "time_period": "Guidance rechecked29October2026; no empirical time series",
+      "review_mode": "Relevant original HTML sections inspected and retained with separate parsed text"
+    },
+    {
+      "candidate_id": "R8R-C03",
+      "canonical_source_ids": [
+        "SRC-0003"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "R08 should selectively attach a material claim to its source, scope/date and knowledge basis, noting whether it is corroborated, qualified or unresolved without collapsing evidence acceptance into credibility or causal influence.",
+      "evidence_class": "researcher_selective_evidence_qualification",
+      "locator": "Analyticalapplication of frameworkitems1,5,9,11,14,16",
+      "limitations": "No ordinal confidence score, required document/extra interview question or assumption that direct testimony is inherently superior for every claim. Absence of corroboration is not automatically false; independent basis must be demonstrated when claimed.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Official qualitative quality guidance or explicit researcher application, not observed payroll participants",
+      "time_period": "Guidance rechecked29October2026; no empirical time series",
+      "review_mode": "Relevant original HTML sections inspected and retained with separate parsed text"
+    },
+    {
+      "candidate_id": "R8R-C04",
+      "canonical_source_ids": [
+        "SRC-0003"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Where material accounts differ, preserve each scoped account, inspect whether the differences concern object, timing or criteria, and retain a remaining disagreement or alternative explanation rather than average it into consensus.",
+      "evidence_class": "researcher_divergence_and_counterevidence_condition",
+      "locator": "Analyticalapplication of frameworkitems5,12,14,16",
+      "limitations": "No invented dispute, source adjudication, majority-vote truth, saturation claim or automatic duty to recontact. Existing permission, burden and knowledge limits remain; actual case evidence is still required.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Official qualitative quality guidance or explicit researcher application, not observed payroll participants",
+      "time_period": "Guidance rechecked29October2026; no empirical time series",
+      "review_mode": "Relevant original HTML sections inspected and retained with separate parsed text"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-31",
+  "method": "Read-only live official HTML pages through web tool; retained Oct30 original captures remain core evidence. This reading note is not another original source.",
+  "urls": [
+    "https://thehawksmoor.com/locations/manchester/private-dining/",
+    "https://benaresrestaurant.com/private-dining-events/",
+    "https://www.corrigansmayfair.co.uk/private-dining/private-dining-rooms/lindsay-room"
+  ],
+  "checks": [
+    "Hawksmoor private room explicitly10\u201314; semiprivate30/50 are distinct",
+    "Benares live brochure link and rooms16/36 visible",
+    "Corrigan no hire fee beside minimumfooddrink spend, amountnotlisted; no enquiry made"
+  ],
+  "no_external_actions": true
+}

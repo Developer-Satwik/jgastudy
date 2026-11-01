@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "source_ref": "TH2-S01",
+      "url": "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
+      "final_url": "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T04:12:37.693098+00:00",
+      "capture_path": "04-table/research-notes/t02-second-check/history/captures/TH2-S01.html",
+      "capture_sha256": "868a0ebd8d971293b110550f90bcb06b576677498d1ffe0839ea60d4bad9440d",
+      "parsed_path": "04-table/research-notes/t02-second-check/history/captures/TH2-S01.parsed.txt",
+      "parsed_sha256": "f2b6d78effc275920f15ebef93dff0578abb047da86176368410a4e9ee478f10",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "source_ref": "SRC-0227",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+      "final_url": "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T04:12:37.502518+00:00",
+      "capture_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0227.html",
+      "capture_sha256": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+      "parsed_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0227.parsed.txt",
+      "parsed_sha256": "fcbd864b51a6a46bed5d387b0e303abb33db4f699a24a5a881a95644709c6f89",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "source_ref": "SRC-0229",
+      "url": "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025",
+      "final_url": "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T04:12:37.756676+00:00",
+      "capture_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0229.html",
+      "capture_sha256": "544bf5d7d07f7e6f7ad3972c7edb84d634ca67724acb23eeefea508b40c32ad8",
+      "parsed_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0229.parsed.txt",
+      "parsed_sha256": "aef6c7e54093a938faed256dca66425800e4026aa4f1648067aa6019c595d290",
+      "capture_kind": "retained_original_html"
+    }
+  ],
+  "method": "Original HTTP bytes; separate numbered parsed text. No forms/accounts/private content."
+}

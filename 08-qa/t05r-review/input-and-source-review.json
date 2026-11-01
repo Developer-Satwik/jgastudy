@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_input_scope_and_source_review_workbook_pending",
+  "reviewer": "independent sibling agent; did not author benchmark or workload inputs",
+  "source_checks": [
+    {
+      "source_candidate_id": "T5R-S01",
+      "url": "https://www.ciep.uk/knowledge-hub/suggested-minimum-rates.html",
+      "capture_sha256": "3f1f8d281a06b755182d0e2798d299d1bc588f85ccb9125d61a5e29ecef33a01",
+      "original_and_extract_hash_verified": true,
+      "live_primary_page_read": true,
+      "meaning_checked": true
+    },
+    {
+      "source_candidate_id": "T5R-S02",
+      "url": "https://www.procopywriters.co.uk/survey/2026/",
+      "capture_sha256": "ec0707663b1f8d55b0824454e8d4a48ef424b28644b9cfd7041d78f467def7e1",
+      "original_and_extract_hash_verified": true,
+      "live_primary_page_read": true,
+      "meaning_checked": true
+    },
+    {
+      "source_candidate_id": "T5R-S03",
+      "url": "https://www.yunojuno.com/freelancer-rates-report",
+      "capture_sha256": "46d2d3cc88c30866b47443b04a672692d75da228f73f5f512c1a0ac9cf654a4b",
+      "original_and_extract_hash_verified": true,
+      "live_primary_page_read": true,
+      "meaning_checked": true
+    },
+    {
+      "source_candidate_id": "T5R-S04",
+      "url": "https://www.yunojuno.com/freelancer-rates-job-role/market-research-consultant",
+      "capture_sha256": "c8fd3f35c162dbf37ae6be3b49f6a723e24e854c4cd4b4e996ef7aa435429e0a",
+      "original_and_extract_hash_verified": true,
+      "live_primary_page_read": true,
+      "meaning_checked": true
+    },
+    {
+      "source_candidate_id": "T5R-S05",
+      "url": "https://www.yunojuno.com/freelancer-rates-job-role/graphic-designer",
+      "capture_sha256": "7e7772506821bb3cbdaaef8b40c1e25d0b7d8bac5846bc08b85db56c16f067c9",
+      "original_and_extract_hash_verified": true,
+      "live_primary_page_read": true,
+      "meaning_checked": true
+    }
+  ],
+  "workload_checks": [
+    {
+      "case": "low",
+      "contributors": 6,
+      "provider_fixed_hours": 91,
+      "provider_variable_hours": 15.0,
+      "provider_total_hours": 106.0,
+      "JGA_hours": 12.5,
+      "agreement": true
+    },
+    {
+      "case": "base",
+      "contributors": 8,
+      "provider_fixed_hours": 144,
+      "provider_variable_hours": 30.0,
+      "provider_total_hours": 174.0,
+      "JGA_hours": 23,
+      "agreement": true
+    },
+    {
+      "case": "high",
+      "contributors": 10,
+      "provider_fixed_hours": 228,
+      "provider_variable_hours": 57.5,
+      "provider_total_hours": 285.5,
+      "JGA_hours": 38,
+      "agreement": true
+    }
+  ],
+  "material_issues": [],
+  "model_wording_conditions": [
+    "7.5hours/day is an analyst conversion assumption; source UKday/US hour data is not a conversion pair. Fractional-day valuation is not a supplier booking quote or confirmed minimum billable period.",
+    "Copyediting£37.11 applied to combinedcopy/proof work is an analyst proxy; CIEP separately quotes proofreading£31.92 andcopyediting£37.11.",
+    "Research£372/day used for lead,analyst,review or coordination tasks is general-role context, not verified payroll-specialist or task-levelsupplier quote.",
+    "JGA retained hourly rates must stay unknown unless supplied/explicitly assumed; missing combinedvalue must not becomezero.",
+    "CurrentUSD1000report/USD500Table allocations are not added tofuturetaskcosts for same work.",
+    "Person-hours are notelapsedcalendarpromise; actualstaffedcapacity unconfirmed."
+  ],
+  "scope_checks": [
+    "All16producer/5JGAtasks map completepublication/supportingassets; no arbitraryword/pagequota.",
+    "Shared research/scheduling/coding credited once when Table overlap occurs; Table-specific probes remain additional work.",
+    "Six totenusablecontributors drive variablework, notconversionsoractualparticipantcounts.",
+    "W05permissionadministration,W10publicationfact/rightsreview,JGAretaineddecisiontime have distinct work meanings; actualcombinedwork should not be charged twice.",
+    "WR13 revisionallowance not a contractualcorrectioncap or automaticnewcharge.",
+    "OptionalTable,customerfulfilment,briefing,event work excluded fromcoreeditiontotal as distinct futuremodelcomponents."
+  ],
+  "actual_workbook_review_complete": false,
+  "external_actions": []
+}

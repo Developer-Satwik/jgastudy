@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-29",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0210",
+      "url": "https://www.theportfoliogroup.com/payroll/why-use-us/",
+      "retrieved_at_utc": "2026-10-29T04:37:03.348978+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "http_status": 403,
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "evidence_status": "raw_access_failed_not_source_evidence",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0210-selected-reader-notes.txt",
+          "sha256": "b5815c1922e43d6abe3b891f8b42f9d8ad113b568a26ed29fa8815291b826b1f",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "locator": "Roles/services and Ourprocess: registration/assessment/offer/contact/aftercare",
+      "review_status": "fresh_original_reader_sections_inspected_raw_unavailable",
+      "review_result": "Declared assessment and search events remain distinct from actual candidate fit, acceptance, start and later payroll result.",
+      "limitations": "Declared assessment and search events remain distinct from actual candidate fit, acceptance, start and later payroll result. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0119",
+      "url": "https://www.frazerjones.com/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change/",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349539+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "http_status": 403,
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "evidence_status": "raw_access_failed_not_source_evidence",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0119-selected-reader-notes.txt",
+          "sha256": "799e63f0734c7fb56cd7be0b2df944591bcf110cedd3cba7ee6aaa7b87c9b092",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        },
+        {
+          "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0119-reader-extract.txt",
+          "sha256": "ab2f6cd817a30b36216d0c1bbd7c32406da5145041d4a05bf19b1ecf03b67bb0",
+          "kind": "prior_selected_reader_extract_not_raw_original"
+        }
+      ],
+      "fresh_indexed_alias_url": "https://www.frazerjones.com/de/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change/",
+      "locator": "Retained prior-reader challenge/outcome/attribution plus fresh primary indexed same-case alias",
+      "review_status": "prior_reader_extract_rechecked_with_fresh_indexed_same_case_only",
+      "review_result": "Aosphere is one prior canonical provider case; fresh full canonical reader access failed. No independent current search capability or causal payroll effect.",
+      "limitations": "Aosphere is one prior canonical provider case; fresh full canonical reader access failed. No independent current search capability or causal payroll effect. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0115",
+      "url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349642+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+      "capture_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0115.html",
+      "capture_sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0115.txt",
+      "text_sha256": "f7e358bf3a57cdc434f605f81396447a332aa2b5d3fe0d823946a47bcfb31463",
+      "locator": "Payroll capabilities/recentplacement list, originalreader22–38",
+      "review_status": "relevant_live_original_html_and_reader_rechecked",
+      "review_result": "Provider placement examples and level/remit coverage do not assure current candidate availability, this assignment or independent payroll improvement.",
+      "limitations": "Provider placement examples and level/remit coverage do not assure current candidate availability, this assignment or independent payroll improvement. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349718+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "1a7ee6480d1b719895fded2e20d61ce886057eb3458eb8b44ed04f543c5565b6",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "bc3d642157e157c4a1c2c2839b72339b275f0ea80bcffe50754ad83d515c11bf",
+      "locator": "PayrollSearch25–39: assessment,beyondshortlist,PostProjectReport",
+      "review_status": "relevant_live_original_html_and_reader_rechecked",
+      "review_result": "Declared assessment of work/leadership and recruitment analytics are not independently assessed payroll task performance or a necessary hire.",
+      "limitations": "Declared assessment of work/leadership and recruitment analytics are not independently assessed payroll task performance or a necessary hire. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0147",
+      "url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349779+00:00",
+      "http_status": 200,
+      "final_url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "capture_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0147.html",
+      "capture_sha256": "ad18b89272bef77ee89ee5157eb73f1afa11539afa75dd1c0acd26c65af97ac3",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0147.txt",
+      "text_sha256": "5b8a0201c154481db6b05c5b56347e7b2477bcfc709395f0dc80c34d36c33644",
+      "locator": "Deliverymodels275–294; requirements/SOW/onboarding-offboarding/reviews345–382",
+      "review_status": "relevant_live_original_html_and_reader_rechecked",
+      "review_result": "Resource augmentation and PMO-owned defined deliverables are different service declarations; no actual statement of work, payroll accountability transfer or benefit tested.",
+      "limitations": "Resource augmentation and PMO-owned defined deliverables are different service declarations; no actual statement of work, payroll accountability transfer or benefit tested. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0192",
+      "url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349836+00:00",
+      "http_status": 200,
+      "final_url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "capture_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0192.html",
+      "capture_sha256": "0b7500b949de54c87916ce90414da63e20ec9af0d8c1598fb73a8004fc3a7e83",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0192.txt",
+      "text_sha256": "16d11e8b6b301ae1a4e7d1a37d3d2994576ac25ad8aeab4e696e2e158f583bdd",
+      "locator": "2026heading and method107–109; retainedHTML/text",
+      "review_status": "relevant_live_original_html_and_reader_rechecked",
+      "review_result": "2025 salary inputs and employer/employee survey have different bases. Legacy URL is not current edition; no price, salary or funded payroll evidence adopted.",
+      "limitations": "2025 salary inputs and employer/employee survey have different bases. Legacy URL is not current edition; no price, salary or funded payroll evidence adopted. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0193",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349889+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "f7fdc91949aa8bbf41d3f6c8d623daf63cfab7b99050fc4f00900a030752ff12",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0193.txt",
+      "text_sha256": "8e9d08e1acb912dab32d6fec63e5022bf824373c3bfd84b6c646e5aaf092b925",
+      "locator": "2027heading; FAQ84–110 and method",
+      "review_status": "relevant_live_original_html_and_reader_rechecked",
+      "review_result": "Projected starting-salary methodology and non-salary survey differ. No payroll subgroup, employer budget, current offer or forecast value transferred.",
+      "limitations": "Projected starting-salary methodology and non-salary survey differ. No payroll subgroup, employer budget, current offer or forecast value transferred. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "source_id": "SRC-0113",
+      "url": "https://jgarecruitment.com/payroll-recruitment/",
+      "retrieved_at_utc": "2026-10-29T04:37:03.349947+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "http_status": 403,
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "evidence_status": "raw_access_failed_not_source_evidence",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r08-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+          "sha256": "02ca88f2bcdd4220987641c20c0ba919185609a61881057e1634930c099eb1f2",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "locator": "Originalreader2–13 UK/global talent and tailoredsupport/quality declaration",
+      "review_status": "fresh_original_reader_sections_inspected_raw_unavailable",
+      "review_result": "JGA commercial/sponsor proposition, not independent performance or a predetermined recommendation. Numerical quality/retention claims not adopted.",
+      "limitations": "JGA commercial/sponsor proposition, not independent performance or a predetermined recommendation. Numerical quality/retention claims not adopted. No original JGA contributor, representative market demand, candidate availability, contract/legal assurance or validated remedy.",
+      "accessed_on": "2026-10-29"
+    }
+  ],
+  "new_independent_datasets": 0
+}

@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_bounded_source_and_capture_checks",
+  "reviewer": "same_agent_second_check",
+  "independent_agent_review": false,
+  "checks": [
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S02-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S04-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S06.html"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S06.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S07.html"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S07.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S08.html"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S08.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S09.html"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S09.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S10-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S11.html"
+    },
+    {
+      "passed": true,
+      "detail": "Evidence hash 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S11.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C01"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C02"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C03"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C04"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C05"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C06"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C07"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C08"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C09"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C10"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C11"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C12"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source references SS2-C13"
+    },
+    {
+      "passed": true,
+      "detail": "Current Robert Half raw edition distinguished from lagged2026search reader."
+    },
+    {
+      "passed": true,
+      "detail": "Middlemore object remains a post-search client report."
+    },
+    {
+      "passed": true,
+      "detail": "Hays evidence-year context retained without adopting salary numbers."
+    }
+  ],
+  "new_monetary_rates": 0,
+  "new_actual_customer_or_sales_records": 0,
+  "external_actions": []
+}

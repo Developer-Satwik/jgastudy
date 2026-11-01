@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-01",
+  "recruitment_comparators": 6,
+  "JGA_contexts": 1,
+  "records": [
+    {
+      "firm": "Portfolio Payroll",
+      "source_ids": [
+        "SRC-0289"
+      ],
+      "observed_context": "Education-payroll cohort, practitioner chair and CIPP-supported discussion.",
+      "event_implication": "A specific sector context is a stronger comparison than a generic senior-title list. No fee or observed attendance adopted.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Frazer Jones",
+      "source_ids": [
+        "SRC-0290"
+      ],
+      "observed_context": "Multiple HR formats and levels; most events described as complimentary.",
+      "event_implication": "An alternative to compete with on usefulness and fit, not evidence that all events or personalised work must be free.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Oakleaf Partnership",
+      "source_ids": [
+        "SRC-0291"
+      ],
+      "observed_context": "8 October2026 HR breakfast with named co-facilitators/co-host and22 October recap.",
+      "event_implication": "Role/partner/output scope matters. Their setup is not a required JGA headcount or price template.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Middlemore",
+      "source_ids": [
+        "SRC-0116"
+      ],
+      "observed_context": "Client market advice and post-search report in selected payroll service sections.",
+      "event_implication": "Actual engagement-specific evidence and relationships may already satisfy some needs. No event product asserted from these sections.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Hays",
+      "source_ids": [
+        "SRC-0292",
+        "SRC-0293"
+      ],
+      "observed_context": "2020 payroll virtual notice and September2026 mixed-mode commercial partner article.",
+      "event_implication": "Delivery mode and audience varied by purpose/period. No linear return-to-dinner trend or transfer of costs inferred.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Robert Half",
+      "source_ids": [
+        "SRC-0294"
+      ],
+      "observed_context": "UK event catalogue across leadership, finance/HR and networking formats.",
+      "event_implication": "A wider leadership alternative, not an exact payroll peer product or a verified commercial conversion model.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "JGA",
+      "source_ids": [
+        "SRC-0088"
+      ],
+      "observed_context": "Nick Day-hosted UK/global payroll expert podcast and archive routes.",
+      "event_implication": "Existing content could inform a discussion, subject to scope/rights. Guest access, new permission, availability and Table demand remain unknown.",
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    }
+  ],
+  "not_T01_six_business_models": true
+}

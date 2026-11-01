@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "T1MC-C01",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S10"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Payroll Centre markets annual corporate support for the whole payroll team, rather than a personal membership seat.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+        "lines": [
+          14,
+          15,
+          36,
+          37,
+          85,
+          93,
+          95,
+          107
+        ],
+        "heading_or_clause": "Payroll Membership / FAQ"
+      },
+      "limitations": "Public provider description only; not independently observed service delivery or achieved commercial performance.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C02",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S10"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The named Corporate plan is displayed at GBP 1,122 per year.",
+      "evidence_class": "provider_published_price",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+        "lines": [
+          45,
+          46,
+          47
+        ],
+        "heading_or_clause": "Choose your membership plan"
+      },
+      "limitations": "Displayed public list price on 29 October 2026, not a supplier quotation or validated JGA willingness to pay. Tax basis read with T1MC-C03. Not comparable to an event place, individual seat or commercial research licence.",
+      "value": 1122,
+      "unit": "GBP per organisation per year for named Corporate plan",
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C03",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S11"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Payroll Centre business terms state that prices exclude VAT unless otherwise stated.",
+      "evidence_class": "provider_published_terms",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+        "lines": [
+          62
+        ],
+        "heading_or_clause": "3.1.3"
+      },
+      "limitations": "No VAT rate or gross payable total inferred. Offer-specific written terms may state otherwise.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C04",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S10"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The offer includes helpdesk access and practical information, training and resource categories for payroll, HR and finance users.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+        "lines": [
+          53,
+          57,
+          58,
+          60,
+          65,
+          67,
+          69,
+          70
+        ],
+        "heading_or_clause": "Support & Access / Resources & Knowledge / Training & Events"
+      },
+      "limitations": "Comparison table uses graphical inclusion marks. Do not assign every listed feature to every tier from flattened text, or infer an audited complete entitlement schedule.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C05",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S10",
+        "T1MC-S11"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The public FAQ says all payroll experience levels may use membership; the business terms retain discretion to accept or decline applications.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+        "lines": [
+          93,
+          95,
+          99,
+          101
+        ],
+        "heading_or_clause": "FAQ; business terms 2.1.2"
+      },
+      "limitations": "Admission is not equivalent to a vetted senior employer-only research panel. Secondary locator: tpc-terms.parsed.txt lines 48\u201354.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C06",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S11"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Membership use is limited to named members and authorised users; the materials licence is limited and non-transferable, with redistribution and third-party use restricted.",
+      "evidence_class": "provider_published_terms",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+        "lines": [
+          102,
+          143,
+          145,
+          167,
+          169,
+          171,
+          176,
+          183
+        ],
+        "heading_or_clause": "5.1.2; 6.1; 9.1\u20139.5"
+      },
+      "limitations": "Summary of public terms, not legal advice. A corporate member does not thereby acquire a research resale or client-publication licence.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C07",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S11"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The public terms describe annual auto-renewal unless terminated, with a reminder before renewal.",
+      "evidence_class": "provider_published_terms",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+        "lines": [
+          114,
+          115,
+          117,
+          118,
+          119
+        ],
+        "heading_or_clause": "5.4 Membership Renewal"
+      },
+      "limitations": "Contract mechanism only, not observed renewals, achieved retention, future JGA revenue or a recommendation to copy these terms.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C08",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S11"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The helpdesk terms describe staffed business-hours query handling and allow unusual or complex matters to be quoted separately as consultancy.",
+      "evidence_class": "provider_published_terms",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+        "lines": [
+          210,
+          212,
+          213,
+          214,
+          215,
+          216
+        ],
+        "heading_or_clause": "10.3 Help Desk Service"
+      },
+      "limitations": "No guarantee of issue resolution, JGA service capacity or a need for JGA to build a technical advisory service.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C09",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "CIPP Full membership is an individual professional grade with qualification or payroll-management experience eligibility; the current tariff is unconfirmed.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/cipp-grades.parsed.txt",
+        "lines": [
+          237,
+          238,
+          239,
+          240,
+          247
+        ],
+        "heading_or_clause": "Full membership"
+      },
+      "limitations": "Alternative screened only. Do not equate a personal grade with an organisational licence. The retained source at parsed line247 explicitly states price validity until 14 June 2026, so its displayed price is not promoted as a current price; another capture may differ.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C10",
+      "model_candidate_id": "T01-M03",
+      "source_candidate_ids": [
+        "T1MC-S03"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "CIPP describes member-number-controlled, confidential access to payroll, pensions and reward technical advice.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/cipp-advisory.parsed.txt",
+        "lines": [
+          72,
+          73,
+          74,
+          75
+        ],
+        "heading_or_clause": "Advisory Service"
+      },
+      "limitations": "Alternative screened only. Does not demonstrate a corporate membership package or imply access rights can be shared or resold.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C11",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S04"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Human Capital Center Europe targets CHROs across EMEA with research insights, expert access, peer connections and ongoing team programming.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.parsed.txt",
+        "lines": [
+          423,
+          430,
+          450
+        ],
+        "heading_or_clause": "Human Capital Center"
+      },
+      "limitations": "Concrete research-community offer, not proof of payroll-specialist coverage, demand for JGA, or a single standard entitlement bundle.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C12",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S05"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Conference Board separately describes Executive, C-Suite, Leadership Team and individual Council membership paths.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-membership.parsed.txt",
+        "lines": [
+          436,
+          437,
+          445,
+          446,
+          453,
+          454,
+          461,
+          462
+        ],
+        "heading_or_clause": "Our Membership Offerings"
+      },
+      "limitations": "Do not merge the four paths into a single product; negotiated price, region and access rights remain unverified.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C13",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S06"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Council seats are invitation-only, vetted individual memberships sold through an annual fee, with member-led topics, vendor-free exchanges and confidential meetings under the Chatham House Rule.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-councils.parsed.txt",
+        "lines": [
+          431,
+          432,
+          433,
+          435,
+          436,
+          437,
+          439,
+          443,
+          444
+        ],
+        "heading_or_clause": "A Candid Forum for Peer-Based Dialogue"
+      },
+      "limitations": "Council layer only. Not a finding that Center membership includes a Council seat, that every member contributes research, or that a public paid research licence is included.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C14",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S08"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Conference Board website terms reserve rights and require separate permission for uses beyond the stated limited licence; employer-member employees may retain copies only within the licence or membership agreement.",
+      "evidence_class": "provider_published_terms",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-terms.parsed.txt",
+        "lines": [
+          437,
+          438,
+          439,
+          441,
+          442
+        ],
+        "heading_or_clause": "Copyright"
+      },
+      "limitations": "Website terms only. Any negotiated membership or separate data/research licence must be inspected before relying on commercial redistribution rights.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C15",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S08"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The website terms distinguish user submissions from private council discussion: content submitted to the sites is described as non-private and carries a broad usage grant.",
+      "evidence_class": "provider_published_terms",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-terms.parsed.txt",
+        "lines": [
+          451,
+          452,
+          454
+        ],
+        "heading_or_clause": "User Submissions / Bulletin Boards"
+      },
+      "limitations": "Do not transfer website-submission terms to Council meetings or infer that meeting participation alone consents to attributable research publication.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C16",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S05"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Conference Board presents itself as a nonprofit think tank and business membership organisation.",
+      "evidence_class": "provider_declared_organisation_status",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-membership.parsed.txt",
+        "lines": [
+          395
+        ],
+        "heading_or_clause": "About Us"
+      },
+      "limitations": "No financial statements reviewed. Fee revenue mix, margins, sponsorship dependence and programme profitability are unknown.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    },
+    {
+      "candidate_id": "T1MC-C17",
+      "model_candidate_id": "T01-M04",
+      "source_candidate_ids": [
+        "T1MC-S04"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Europe Center public page contains both research publications and events/programming, rather than presenting only a dinner or contact list.",
+      "evidence_class": "provider_declared_offer",
+      "locator": {
+        "file": "04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.parsed.txt",
+        "lines": [
+          431,
+          449,
+          450,
+          460,
+          461,
+          470,
+          471,
+          667,
+          681
+        ],
+        "heading_or_clause": "Publications / Community / Latest Global Insights / Featured Insights & Events"
+      },
+      "limitations": "Visible catalogue only. No inference of research quality, sample representativeness, topic demand or complete paid access rights.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_eligibility": "internal_comparison_candidate_pending_root_review"
+    }
+  ],
+  "analytical_inference_policy": "Operational workload, JGA design lessons and buyer hypotheses are explicitly analyst inference in model notes, never reported as observed supplier performance.",
+  "numeric_policy": "Only the named Payroll Centre Corporate GBP1122 annual list price is promoted as a numeric candidate; VAT is excluded unless stated otherwise. No expired CIPP rate, TCB quote, retention rate or derived willingness-to-pay is promoted."
+}

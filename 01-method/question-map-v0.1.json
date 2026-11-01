@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "version": "0.1",
+  "date": "2026-10-28",
+  "status": "draft_for_user_review",
+  "client_approved": false,
+  "participant_tested": false,
+  "instrument_type": "Semi-structured qualitative guide",
+  "core_question_count": 14,
+  "population": "Proposed senior employer-side payroll decision-makers with UK-relevant responsibilities; outsourced payroll users eligible.",
+  "recall_window_months": 24,
+  "records": [
+    {
+      "question_id": "Q001",
+      "number": 1,
+      "title": "Role in decisions",
+      "wording": "What is your role in decisions about payroll technology, providers or major process changes?",
+      "topic_ids": [
+        "R04"
+      ],
+      "purpose": "Establish actual decision involvement.",
+      "optional_probes": [
+        "Distinguish recommending, evaluating, implementing and approving."
+      ],
+      "route": "all",
+      "part": "context",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q002",
+      "number": 2,
+      "title": "Operating context",
+      "wording": "How is payroll currently delivered in your area of responsibility?",
+      "topic_ids": [
+        "R02",
+        "R03",
+        "R07"
+      ],
+      "purpose": "Interpret the experience in its operating context.",
+      "optional_probes": [
+        "In-house, outsourced or mixed; broad organisational scale; relevant countries and team responsibilities. Do not request employee records."
+      ],
+      "route": "all",
+      "part": "context",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q003",
+      "number": 3,
+      "title": "Improvement priority",
+      "wording": "What, if anything, would you most like to improve about payroll in your organisation?",
+      "topic_ids": [
+        "R02"
+      ],
+      "purpose": "Identify the participant’s own priority before thematic prompts.",
+      "optional_probes": [
+        "What consequence makes this important?",
+        "What currently works well and should be preserved?"
+      ],
+      "route": "all",
+      "part": "needs_and_priorities",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q004",
+      "number": 4,
+      "title": "Unmet needs",
+      "wording": "Where, if anywhere, do the payroll technology or services you use or have recently evaluated fall short of your needs?",
+      "topic_ids": [
+        "R02",
+        "R03"
+      ],
+      "purpose": "Identify a concrete capability or service gap without presuming dissatisfaction.",
+      "optional_probes": [
+        "Ask for an example and any workaround.",
+        "Was a solution unavailable, or available but unsuitable?",
+        "Accept no significant shortfall."
+      ],
+      "route": "all",
+      "part": "needs_and_priorities",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q005",
+      "number": 5,
+      "title": "Future priorities",
+      "wording": "Which payroll improvements, if any, do you expect your organisation to prioritise over the next 12–24 months?",
+      "topic_ids": [
+        "R03",
+        "R07"
+      ],
+      "purpose": "Separate ambition from organisational commitment.",
+      "optional_probes": [
+        "For up to two priorities, establish whether each is an idea, under evaluation, in a plan, approved/funded or being delivered. Preserve not known.",
+        "Only after the unaided answer, use AI, automation, integration or outsourcing as optional prompts. Label prompted themes separately."
+      ],
+      "route": "all",
+      "part": "needs_and_priorities",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q006",
+      "number": 6,
+      "title": "Recent decision",
+      "wording": "Thinking about the past 24 months, what is the most recent payroll investment, provider renewal or proposed change in which you had direct involvement?",
+      "topic_ids": [
+        "R04",
+        "R06"
+      ],
+      "purpose": "Anchor the investigation in one recent real case.",
+      "optional_probes": [
+        "Approximate timing, proposal type and involvement.",
+        "If no eligible case, skip Q007–Q013 and continue to Q014. Older cases are separately labelled context."
+      ],
+      "route": "all",
+      "part": "case_selection",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q007",
+      "number": 7,
+      "title": "Decision reached",
+      "wording": "What decision had been reached on that proposal as of today?",
+      "topic_ids": [
+        "R04",
+        "R06"
+      ],
+      "purpose": "Establish the actual decision position independently of delivery.",
+      "optional_probes": [
+        "Approved, declined, deferred, withdrawn/abandoned, pending, no formal approval required, not known or prefer not to disclose.",
+        "Separately ask what has been implemented, if applicable. Preserve chronology where an earlier approval was subsequently changed."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q008",
+      "number": 8,
+      "title": "Original trigger",
+      "wording": "What prompted this proposal or review?",
+      "topic_ids": [
+        "R02",
+        "R04"
+      ],
+      "purpose": "Connect the case with its initial need or opportunity.",
+      "optional_probes": [
+        "Organisational consequence, why then, deadline or growth opportunity. Do not presume a failure."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q009",
+      "number": 9,
+      "title": "Authority and influence",
+      "wording": "Who had the authority to approve or stop the proposal?",
+      "topic_ids": [
+        "R04"
+      ],
+      "purpose": "Identify decision power and conditions.",
+      "optional_probes": [
+        "Sponsor, budget owner, final sign-off and veto or condition-setting roles.",
+        "Record functions rather than names. Separate known facts from the participant’s understanding."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q010",
+      "number": 10,
+      "title": "Evidence requested",
+      "wording": "What evidence, if any, was requested to assess the proposal?",
+      "topic_ids": [
+        "R05"
+      ],
+      "purpose": "Establish the business-case requirements.",
+      "optional_probes": [
+        "After the unaided answer: costs and benefits, risk, compliance, continuity, capacity, references or a pilot.",
+        "Do not request confidential documents or exact budgets."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q011",
+      "number": 11,
+      "title": "Evidence that mattered",
+      "wording": "Which evidence, if any, appeared to influence the decision most?",
+      "topic_ids": [
+        "R05",
+        "R08"
+      ],
+      "purpose": "Distinguish evidence produced from evidence believed to affect a decision.",
+      "optional_probes": [
+        "What makes you say it mattered?",
+        "Did the proposal or decision change after the evidence was supplied?",
+        "For a pending proposal ask: Which evidence, if any, has appeared to influence the assessment so far? For deferred cases retain the main question. For both pending and deferred cases also ask: What evidence, if any, is still needed before a decision can be made? Record routed wording."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {
+        "pending": "Which evidence, if any, has appeared to influence the assessment so far?",
+        "pending_or_deferred_follow_up": "What evidence, if any, is still needed before a decision can be made?",
+        "deferred": "Retain the main question to capture evidence behind the deferral, then ask the follow-up."
+      }
+    },
+    {
+      "question_id": "Q012",
+      "number": 12,
+      "title": "Alternatives and choice",
+      "wording": "What other options were considered?",
+      "topic_ids": [
+        "R03",
+        "R06"
+      ],
+      "purpose": "Understand the choice set and selected option.",
+      "optional_probes": [
+        "Renewal, keeping the present arrangement, process change, another provider/platform, mixed solution or no change.",
+        "Which option, if any, was selected, and why? Retaining an incumbent is an option, not a decision disposition."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q013",
+      "number": 13,
+      "title": "Conditions and constraints",
+      "wording": "What conditions or concerns, if any, most affected whether or when the proposal could proceed?",
+      "topic_ids": [
+        "R05",
+        "R06",
+        "R08"
+      ],
+      "purpose": "Explain conditions enabling progress and constraints affecting it.",
+      "optional_probes": [
+        "Funding, migration, integration, data, continuity, compliance, security, skills, capacity or competing priorities, after the unaided answer.",
+        "Ask what enabled progress as well as what constrained it.",
+        "If implementation is underway or live: How has the result so far compared with what was agreed? Distinguish early expectation from observed delivery."
+      ],
+      "route": "recent_case",
+      "part": "decision_case",
+      "routed_wording": {}
+    },
+    {
+      "question_id": "Q014",
+      "number": 14,
+      "title": "Next research question",
+      "wording": "What is one question about payroll investment that you think the profession should answer next?",
+      "topic_ids": [
+        "R08",
+        "T02"
+      ],
+      "purpose": "Retain priorities beyond the researcher’s assumptions and inform future research.",
+      "optional_probes": [
+        "Optional: advice to another payroll leader facing a comparable decision.",
+        "Answering does not imply council membership, recontact or attribution permission."
+      ],
+      "route": "all",
+      "part": "closing",
+      "routed_wording": {}
+    }
+  ],
+  "routing": {
+    "no_recent_case": "Ask Q001–Q006 then Q014; exclude from recent-decision-case base.",
+    "recent_case": "Ask all core questions; select probes relevant to the case.",
+    "written_mode": "Same core wording and routing, selective follow-ups, distinguish written responses."
+  },
+  "analysis_rules": [
+    "Separate future priorities from selected historical case.",
+    "Code decision disposition, chosen option and implementation status separately.",
+    "Record unanswered, not asked, not applicable, not known and prefer not to disclose separately.",
+    "Keep quotations separate from paraphrase; participant attribution does not prove causation.",
+    "No automatic population percentages or saturation claim from 6–10 contributions."
+  ]
+}

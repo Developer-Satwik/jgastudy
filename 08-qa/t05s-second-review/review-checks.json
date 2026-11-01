@@ -1,0 +1,4394 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_same_agent_second_check",
+  "method": "Source-scoped desk review, exact preservation/lineage checks and read-only constructed applications. Previous independent review is retained; no new independent-agent audit.",
+  "independent_agent_review": false,
+  "native_Excel_application_tested": false,
+  "checks": [
+    {
+      "passed": true,
+      "detail": "Exactly401 protected files and13 snapshots"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-JGA-and-context.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-controls-rates.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-sources.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-workload.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/research-cost.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/role-chart.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/activity-quantities.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/build.mjs"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/effort-inputs.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/input-rates.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/sources-and-boundaries.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/task-build.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: /Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/unit-costs.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 00-control/scope-baseline.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/FIELDWORK-PLAN.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/PRACTITIONER-GUIDE-v0.2.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/RESEARCH-PROTOCOL.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/TABLE-VALIDATION-GUIDES-v0.1.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/TABLE-VALIDATION-GUIDES-v0.2.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/TOOLS-AND-FILE-RULES.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/collection-pack-v0.1/START-HERE.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/question-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/templates/CONTRIBUTION-TEMPLATE.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 01-method/templates/record-templates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R02-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R02-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R03-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R03-OPTIONS-AND-TRADEOFFS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R03-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R03-option-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R04-DECISION-PATHWAY.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R04-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R04-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R04-decision-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R05-BUSINESS-CASE-CHECKLIST.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R05-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R05-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R05-evidence-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R06-BARRIER-RESPONSE-MATRIX.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R06-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R06-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R06-outcome-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R07-CONTEXTUAL-PRIORITIES.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R07-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R07-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R07-priority-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R08-DECISION-FRAMEWORK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R08-DESKTOP-SYNTHESIS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R08-REPORT-INTEGRATION.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R08-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R08-constructed-walkthroughs.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/R08-framework-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R02-operational-needs-and-service-gaps.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R04-decision-authority-and-pathways.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R05-business-case-evidence-and-risks.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R06-staying-switching-delay-and-abandonment.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R07-priorities-and-contextual-differences.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/modules/R08-decision-framework-and-synthesis.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/before-completion/manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/evidence/synthesis-links.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/reader-flow/READER-FLOW.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/reader-flow/content-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 03-report/research-notes/r08/route-challenge/constructed-routes.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/FINANCIAL-MODEL-SPEC.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-COMPARABLE-MATRIX.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-COMPARABLE-MODELS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-DESKTOP-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-SECOND-CHECK-MATRIX.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-model-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T01-second-challenge-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-BUYER-USES-AND-RIGHTS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-DELIVERY-AND-VALIDATION.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-OFFER-FIT-AND-WORDING.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-PROPOSITION-PACK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-PROPOSITION-WORKING-NOTE.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-SECOND-CHECK-REFINEMENTS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-buyer-segments.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-delivery-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-offer-fit-aid.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-proposition-hypotheses.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-proposition-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-second-challenge-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-use-and-entitlement-options.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T02-validation-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-COMMERCIAL-ROUTES-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-INPUT-AND-MODEL-RULES.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-PUBLIC-COST-SCREEN.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-cost-evidence-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-formula-design.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-input-requirements.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T04-model-design.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05-RESEARCH-AND-STAFFING-COSTS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05-SERVICE-AND-SALES-COSTS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05-research-cost-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05-service-cost-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05R-COST-AND-DELIVERY-REFINEMENTS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05R-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/T05R-second-challenge-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/TABLE-DESIGN-BRIEF.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/financial-inputs.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/before-review/manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/root/visual-source-review.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/routes/ROUTES-AND-UNITS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/routes/assumptions-and-validation.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/routes/model-unit-spec.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/routes/route-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/routes/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/PUBLIC-COST-SCREEN.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/build_cost_screen.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/capture-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/captures/T4E-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/captures/T4E-S03.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/captures/T4E-S05.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/cost-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-4.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-6.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-7.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-8.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/excluded-historical/january-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S02-3.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S04-2.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S04-4.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S04-7.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/live-link-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/parsed/T4E-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/parsed/T4E-S02.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/parsed/T4E-S03.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/parsed/T4E-S05.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t04/uk-costs/visual-inspection.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/LABOUR-BENCHMARKS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/build_benchmark_records.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/capture-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S02.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S03.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S04.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S05.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/labour-benchmark-options.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S02.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S03.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S04.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S05.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/benchmarks/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/workload/WORKLOAD-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/workload/optional-unit-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/workload/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-research-costs/workload/workload-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/00-control/CURRENT-STATUS.md.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/00-control/changes.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/00-control/decisions.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/00-control/work-packages.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/claims.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/searches.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/source-aliases.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/sources.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/04-table/financial-inputs.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/05-analysis/findings.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/08-qa/validate_workspace.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/README.md.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/before-review/manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/BENCHMARK-AND-SERVICE-CHECK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/build_candidates.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/capture-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S02.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S03.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S04.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S02.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S03.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S04.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/raw-retrieval-attempts.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/benchmarks/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/METHOD-APPLICATION.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/capture-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/captures/T5M-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/parsed/T5M-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/root/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/workload/WORKLOAD-READOUT.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05-service-costs/workload/workload-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/00-control/CURRENT-STATUS.md.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/00-control/changes.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/00-control/decisions.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/00-control/work-packages.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/claims.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/searches.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/source-aliases.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/sources.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/04-table/financial-inputs.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/05-analysis/findings.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/08-qa/validate_workspace.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/README.md.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/before-review/manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/COMPETITOR-AND-TASK-CHECK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/capture-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/S04-C-chatgpt-r1-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/S07-C-chatgpt-r1-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/S11-C-chatgpt-r1-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/comparator-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/prior-study-bridge.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/competitors/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/HISTORY-AND-SOURCING-CHECK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/application-conditions.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/capture-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/captures/T5H-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/captures/T5H-S02-reader.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/captures/T5H-S03.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/captures/T5H-S04-reader.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/captures/T5H-S05-reader.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S03.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/history-market/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/METHOD-AND-DELIVERY-CHECK.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/captures/T5O-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/captures/T5O-S02.html"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/claim-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/constructed-cost-applications.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/live-recheck-note.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/parsed/T5O-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/parsed/T5O-S02.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 04-table/research-notes/t05r-second-check/root/source-candidates.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R02-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R02-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R02-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R03-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R03-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R03-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R03-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R04-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R04-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R04-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R04-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R05-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R05-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R05-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R05-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R06-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R06-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R06-second-check-peer-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R06-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R06-second-check-root-verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-prior-study-bridge-check.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-second-check-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R07-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-baseline-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-existing-findings.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-prior-study-bridge-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-prior-study-bridge-check.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-routing-walkthrough.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-second-check-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/R08-second-routing-walkthrough.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-second-check-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T01-second-routing-walkthrough.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-second-check-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-second-check-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T02-second-routing-walkthrough.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T04-baseline-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T04-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T04-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T04-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T04-to-T05-acceptance-cases.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-baseline-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-second-check-baseline.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-second-check-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-second-check-completion.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05R-second-check-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05S-baseline-manifest.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05S-captures.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05S-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/T05S-record-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/WP03-completion-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/WP03-independent-review.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/WP03-routing-permission-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/build_t04_input_design.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/finalize_t05r_second.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/finalize_t05s.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/merge_t04.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/merge_t05r_second.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/merge_t05s.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/r07-review/integrated-review-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/r07-second-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/r08-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t01-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t01-second-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t02-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t02-second-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t04-review/INTEGRATED-REVIEW.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t04-review/design-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t04-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t04-review/primary-source-checks-current.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-review/INTEGRATED-REVIEW.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-review/input-and-source-review.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-review/mapping-arithmetic-review.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-second-review/INTEGRATED-REVIEW.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-second-review/final_integration_audit.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-second-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-second-review/nov01-independent-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-second-review/preliminary-source-and-model-review.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-second-review/prior-bridge-lineage-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-workbook/cell-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-workbook/export-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-workbook/formula-error-scan.ndjson"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-workbook/headline-inspection.ndjson"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05r-workbook/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/INTEGRATED-REVIEW.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/PRELIMINARY-REVIEW.md"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/content-and-source-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/independent-arithmetic-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/independent_arithmetic_review.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-review/preliminary-preservation-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-workbook/cell-map.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-workbook/check_export.py"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-workbook/export-check.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-workbook/formula-error-scan.ndjson"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-workbook/output-inspection.ndjson"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/t05s-workbook/verification.json"
+    },
+    {
+      "passed": true,
+      "detail": "Protected bytes: 08-qa/wp03-review/integration-checks.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 02-evidence/registers/sources.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 02-evidence/registers/claims.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 02-evidence/registers/searches.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 02-evidence/registers/source-aliases.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 05-analysis/findings.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 04-table/financial-inputs.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: README.md"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 00-control/CURRENT-STATUS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 00-control/work-packages.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 00-control/changes.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 00-control/decisions.json"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 05-analysis/CONTRADICTIONS-AND-GAPS.md"
+    },
+    {
+      "passed": true,
+      "detail": "Snapshot bytes: 08-qa/validate_workspace.py"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prior evidence counts"
+    },
+    {
+      "passed": true,
+      "detail": "Exact two-route/thirteen-record append"
+    },
+    {
+      "passed": true,
+      "detail": "All495 earlier claims preserved exactly"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0001"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0001"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0002"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0002"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0003"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0003"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0004"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0004"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0005"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0005"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0006"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0006"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0010"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0010"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0011"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0011"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0012"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0012"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0013"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0013"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0014"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0014"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0015"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0015"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0016"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0016"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0017"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0017"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0018"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0018"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0019"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0019"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0020"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0020"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0021"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0021"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0022"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0022"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0023"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0023"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0024"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0024"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0031"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0031"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0033"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0033"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0034"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0034"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0040"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0040"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0041"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0041"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0042"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0042"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0043"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0043"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0060"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0060"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0061"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0061"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0062"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0062"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0064"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0064"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0065"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0065"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0066"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0066"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0067"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0067"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0068"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0068"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0069"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0069"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0070"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0070"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0071"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0071"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0072"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0072"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0073"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0073"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0074"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0074"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0075"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0075"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0076"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0076"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0077"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0077"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0078"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0078"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0079"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0079"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0080"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0080"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0081"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0081"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0082"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0082"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0083"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0083"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0084"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0084"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0085"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0085"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0086"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0086"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0087"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0087"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0088"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0088"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0089"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0089"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0090"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0090"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0091"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0091"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0092"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0092"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0093"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0093"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0094"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0094"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0095"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0095"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0096"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0096"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0097"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0097"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0098"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0098"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0099"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0099"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0100"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0100"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0101"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0101"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0102"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0102"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0103"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0103"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0104"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0104"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0105"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0105"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0106"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0106"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0107"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0107"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0108"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0108"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0109"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0109"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0110"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0110"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0111"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0111"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0112"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0112"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0113"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0113"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0114"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0114"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0115"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0115"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0116"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0116"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0117"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0117"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0118"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0118"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0119"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0119"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0120"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0120"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0121"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0121"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0122"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0122"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0123"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0123"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0124"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0124"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0125"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0125"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0126"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0126"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0127"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0127"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0128"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0128"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0129"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0129"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0130"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0130"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0131"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0131"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0132"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0132"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0133"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0133"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0134"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0134"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0135"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0135"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0136"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0136"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0137"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0137"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0138"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0138"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0139"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0139"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0140"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0140"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0141"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0141"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0142"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0142"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0143"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0143"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0144"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0144"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0145"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0145"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0146"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0146"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0147"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0147"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0148"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0148"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0149"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0149"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0150"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0150"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0151"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0151"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0152"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0152"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0153"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0153"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0154"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0154"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0155"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0155"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0156"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0156"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0157"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0157"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0158"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0158"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0159"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0159"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0160"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0160"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0161"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0161"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0162"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0162"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0163"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0163"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0164"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0164"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0165"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0165"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0166"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0166"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0167"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0167"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0168"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0168"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0169"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0169"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0170"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0170"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0171"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0171"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0172"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0172"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0173"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0173"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0174"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0174"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0175"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0175"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0176"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0176"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0177"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0177"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0178"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0178"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0179"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0179"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0180"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0180"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0181"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0181"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0182"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0182"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0183"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0183"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0184"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0184"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0185"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0185"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0186"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0186"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0187"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0187"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0188"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0188"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0189"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0189"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0190"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0190"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0191"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0191"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0192"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0192"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0193"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0193"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0194"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0194"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0195"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0195"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0196"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0196"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0197"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0197"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0198"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0198"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0199"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0199"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0200"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0200"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0201"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0201"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0202"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0202"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0203"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0203"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0204"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0204"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0205"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0205"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0206"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0206"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0207"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0207"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0208"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0208"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0209"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0209"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0210"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0210"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0211"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0211"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0212"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0212"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0213"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0213"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0214"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0214"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0215"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0215"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0216"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0216"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0217"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0217"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0218"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0218"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0219"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0219"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0220"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0220"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0221"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0221"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0222"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0222"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0223"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0223"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0224"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0224"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0225"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0225"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0226"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0226"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0227"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0227"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0228"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0228"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0229"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0229"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0230"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0230"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0231"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0231"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0232"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0232"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0233"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0233"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0234"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0234"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0235"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0235"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0236"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0236"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0237"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0237"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0238"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0238"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0239"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0239"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0240"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0240"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0241"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0241"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0242"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0242"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0243"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0243"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0244"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0244"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0245"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0245"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0246"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0246"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0247"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0247"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0248"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0248"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0249"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0249"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0250"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0250"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0251"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0251"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0252"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0252"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0253"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0253"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0254"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0254"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0255"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0255"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0256"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0256"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0257"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0257"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0258"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0258"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0259"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0259"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0260"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0260"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0261"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0261"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0262"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0262"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0263"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0263"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0264"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0264"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0265"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0265"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0266"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0266"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0267"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0267"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0268"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0268"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0269"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0269"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0270"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0270"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0271"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0271"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0272"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0272"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0273"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0273"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0274"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0274"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0275"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0275"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0276"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0276"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0277"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0277"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0278"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0278"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source substantive record: SRC-0279"
+    },
+    {
+      "passed": true,
+      "detail": "Prior source review/topic history: SRC-0279"
+    },
+    {
+      "passed": true,
+      "detail": "Primary-original source count173"
+    },
+    {
+      "passed": true,
+      "detail": "All70 financial records and classifications unchanged"
+    },
+    {
+      "passed": true,
+      "detail": "All81 findings unchanged"
+    },
+    {
+      "passed": true,
+      "detail": "Append-only history: 02-evidence/registers/searches.json"
+    },
+    {
+      "passed": true,
+      "detail": "Append-only history: 02-evidence/registers/source-aliases.json"
+    },
+    {
+      "passed": true,
+      "detail": "Append-only history: 00-control/changes.json"
+    },
+    {
+      "passed": true,
+      "detail": "Append-only history: 00-control/decisions.json"
+    },
+    {
+      "passed": true,
+      "detail": "Originals, readers and prior notes distinguished"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S01.html"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S01.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S02-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S04-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S06.html"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S06.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S07.html"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S07.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S08.html"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S08.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S09.html"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S09.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S10-reader-note.txt"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/captures/SS2-S11.html"
+    },
+    {
+      "passed": true,
+      "detail": "Captured evidence: 04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S11.txt"
+    },
+    {
+      "passed": true,
+      "detail": "SEC reader note is not a raw original; timeline retains original HTML"
+    },
+    {
+      "passed": true,
+      "detail": "Bounded source/capture checks passed"
+    },
+    {
+      "passed": true,
+      "detail": "Six distinct programme conditions"
+    },
+    {
+      "passed": true,
+      "detail": "Condition task/evidence mapping: SS01"
+    },
+    {
+      "passed": true,
+      "detail": "Condition task/evidence mapping: SS02"
+    },
+    {
+      "passed": true,
+      "detail": "Condition task/evidence mapping: SS03"
+    },
+    {
+      "passed": true,
+      "detail": "Condition task/evidence mapping: SS04"
+    },
+    {
+      "passed": true,
+      "detail": "Condition task/evidence mapping: SS05"
+    },
+    {
+      "passed": true,
+      "detail": "Condition task/evidence mapping: SS06"
+    },
+    {
+      "passed": true,
+      "detail": "Required programme work is explicit, not falsely completed"
+    },
+    {
+      "passed": true,
+      "detail": "Preservation and bounded same-agent review status"
+    },
+    {
+      "passed": true,
+      "detail": "Questions and full practitioner benefit preserved"
+    },
+    {
+      "passed": true,
+      "detail": "No actual commercial/fieldwork record fabricated"
+    },
+    {
+      "passed": true,
+      "detail": "Twelve constructed cases and22 checks passed"
+    },
+    {
+      "passed": true,
+      "detail": "Constructed applications use exact unchanged inputs and workbook"
+    },
+    {
+      "passed": true,
+      "detail": "No original edits or new independent/native execution claim"
+    },
+    {
+      "passed": true,
+      "detail": "Zero-completion gap is exposed rather than claimed covered"
+    },
+    {
+      "passed": true,
+      "detail": "Original study provenance: all_answers"
+    },
+    {
+      "passed": true,
+      "detail": "Original study provenance: final_answer_index"
+    },
+    {
+      "passed": true,
+      "detail": "Four exact questions,32 saved answers,four selected semantic rereads"
+    },
+    {
+      "passed": true,
+      "detail": "Four products/two repeats: S01-D"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S01-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S01-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S01-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Four products/two repeats: S02-D"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S02-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S02-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S02-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Four products/two repeats: S08-D"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S08-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S08-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S08-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Four products/two repeats: S10-D"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-chatgpt-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-claude-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-gemini-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-perplexity-r1"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-chatgpt-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-claude-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-gemini-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact prompt: S10-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Exact saved answer/index: S10-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Saved metadata: S10-D-perplexity-r2"
+    },
+    {
+      "passed": true,
+      "detail": "Selected semantic rereads span all four products"
+    },
+    {
+      "passed": true,
+      "detail": "All136 bridge checks retained"
+    },
+    {
+      "passed": true,
+      "detail": "All six recruitment comparators plus JGA retained with scope boundaries"
+    }
+  ],
+  "check_count": 1059,
+  "reviewed_artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+      "sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e"
+    },
+    {
+      "path": "04-table/T05S-PROGRAMME-COST-REFINEMENTS.md",
+      "sha256": "fe377fe31fff1b680776b6150256be2f34b7b098758bd6ce39a3b6b1f1a2985f"
+    },
+    {
+      "path": "04-table/T05S-SECOND-CHECK-READOUT.md",
+      "sha256": "fbf6066e1cc5740986999434bde97765bbf0f83c8c868854f166cf8a70ee2e61"
+    },
+    {
+      "path": "04-table/T05S-second-challenge-map.json",
+      "sha256": "57c64a532cf663bcaa4391129f3af4f9cc256fd225a09387c7387a06e2ce4ba3"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/REVIEW-PLAN.md",
+      "sha256": "4c2cedb5521c99409ab09e1e1d2527d770e47e66073c3279d9d6ba9736e6528e"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/comparator-map.json",
+      "sha256": "772475379afce38ae59ebcf148e4ef6f957fa882ef2f28f641db29d600a67e04"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/cost-applications.json",
+      "sha256": "277a94ea97041b63b48dcf1d0cfd02922cb8233f5ae13ab352f719d5aecc5a8c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/capture-attempts.json",
+      "sha256": "ea8e8081f3da4366458f5e9b5b827df4a6e4790626c7847cd7f586e80796b0a7"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S01.html",
+      "sha256": "ac781268eb984f2b9a77aa1a797b3a825a698ed721d9a2aa7aca4708a1c1086c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S02-reader-note.txt",
+      "sha256": "9b8ea18c343e7d234b05f8857484a5f53831e64bfb60ef96d46bb28d16f25226"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S04-reader-note.txt",
+      "sha256": "6380af596e6284ceaa83e4ad0d54ba2c3d022f9726c80023c06b5b738f337449"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S06.html",
+      "sha256": "97a15b91b6a0f21a0ec955f3592ccd95a8a4ec9694b8828e226b2f15c515b32f"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S07.html",
+      "sha256": "aeaf8fd88556c75b6ef7a7f8e399c0b14d14c8f12a37acb38d4bb1724d5bbf15"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S08.html",
+      "sha256": "b23c9bbe42c30e6edbcc2a2826ef98683b653b7f0190947a7e51ea40d2bafae0"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S09.html",
+      "sha256": "cebb4c7f29d72a5b30bd28804683e21ff39a48f304eb62000d03b4b2e48d29de"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S10-reader-note.txt",
+      "sha256": "f0d84a5e369bead9939c36d9564e6bb3a789b03db606c3657ec9c4dc74ddc2aa"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S11.html",
+      "sha256": "b3f4e0686c2f458f3d4de5911f408bc025abcfe9b0dc9a92fd8c7b129fd7c4ac"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/claim-candidates.json",
+      "sha256": "e1f1590f268f554850864cdc3e9bb3d9767e0aa1df61f9e8ff25090eb49dfee1"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S01.txt",
+      "sha256": "fc90ac5a182c3c238636e94bfedd66e938a593a69f4914baeb5133be049c90c5"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S06.txt",
+      "sha256": "0bd270a51d0df8c8123dbf302d4a4f0c972960b837f5f786fbf5e63cf07c4a66"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S07.txt",
+      "sha256": "539a72cd34429972700a3c83b7ca3034e51222003f2b160d6602fd9b7167ab76"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S08.txt",
+      "sha256": "028d941c966bd024cd319a61b6bfe64b2c334db6d7d51b6568e6a0b87c7e9780"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S09.txt",
+      "sha256": "a19903c4d38e500f1bba7304ef65566217bc2b219f7a7e70bbdcb029a03ab3b9"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S11.txt",
+      "sha256": "685078dfe286e0a3e1940e93ef87f1b90256e3527a18bb8745b5d3507fd2898d"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/source-candidates.json",
+      "sha256": "dc72eed807f61bd28c690032366b12eb372e68153da607bde4b8df3366977e8b"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/verification.json",
+      "sha256": "579389826a8922cd4cfdb1454e6d0f2d237b2ed526674c87270a3a5a38fffc9c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S01-D-semantic-note.md",
+      "sha256": "b1e1d39f573a446377fc07d15adba6f0839dac36c969c48f3744e8d0a63ec628"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S02-D-semantic-note.md",
+      "sha256": "9a38fc1a3ef2278ba271b0ce6551f8303697f26dddf9a2c8b3032014cab5b76c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S08-D-semantic-note.md",
+      "sha256": "7a1e7ac8560256f2dfa0fd49e06d4da0d279c137f745ab6c77e7352c500bf4c7"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S10-D-semantic-note.md",
+      "sha256": "b0fa41a04dd3816af2efe7b3f7ec48beb5ce42cb79d8be73b75ebde9ca0ba4f7"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/bridge-checks.json",
+      "sha256": "503a9a08e12f01ee6a719ab52f4d3dd324b93d28f2de85cc0cfdcfec63dad4f3"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/prior-study-bridge.json",
+      "sha256": "dbf726f3c29251bd3b8d12777d476458d1a27326f164a8896f499360061bbc35"
+    },
+    {
+      "path": "08-qa/T05S-second-check-captures.json",
+      "sha256": "696147c0d4cca6952f37d62f9f9e9b4967c9d75d2f0192dc0bfcee60897c3530"
+    },
+    {
+      "path": "08-qa/T05S-second-check-record-map.json",
+      "sha256": "63459adac6da0963ebfc9b4d8b26629e1a7cad3698ba3284e3e4fc3a5f586155"
+    }
+  ],
+  "required_programme_refinements_recorded": true,
+  "programme_model_complete": false,
+  "arithmetic_error_identified": false,
+  "workbooks_changed": false,
+  "financial_inputs_changed": false,
+  "external_actions": []
+}

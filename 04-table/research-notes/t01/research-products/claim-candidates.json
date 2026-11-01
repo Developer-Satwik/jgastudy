@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "T1RP-C01",
+      "source_candidate_ids": [
+        "T1RP-S01"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "HR.com describes a Custom Research offer consisting of a topic-specific custom survey and branded report.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "Article body beneath displayed last update 04.30.2021",
+      "limitations": "Old public help article; linked commercial page inaccessible. Current availability, full deliverables and charge are unconfirmed.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C02",
+      "source_candidate_ids": [
+        "T1RP-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "HR.com describes sending research surveys to email-subscribed members according to their interests, using responses for reports and infographics.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "Article body; displayed last update 05.20.2024",
+      "limitations": "Generic recruitment channel, not a probability sample or the exact recruitment of each report; no response-rate or nonresponse data.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C03",
+      "source_candidate_ids": [
+        "T1RP-S03"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "HR.com says its research can be obtained free of charge after account sign-in.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "Article body; displayed last update 09.18.2023",
+      "limitations": "Access rule only; no redistribution licence. No account sign-in performed.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C04",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0065"
+      ],
+      "claim_text": "The February 2025 Future of Payroll report visibly recognises IRIS as sponsor and includes publisher and sponsor profiles.",
+      "evidence_class": "observed_published_output",
+      "locator": "PDF/printed pages 1 and 59, visually inspected",
+      "limitations": "Sponsor recognition does not establish amount, cash versus in-kind funding, licence, exclusivity, data ownership or editorial veto.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C05",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0065"
+      ],
+      "claim_text": "The payroll report states that its November 2024 to January 2025 survey gathered 206 HR-professional responses, mostly from North America, especially the US.",
+      "evidence_class": "publisher_reported_method",
+      "locator": "PDF/printed page 3, About the Survey, visually inspected",
+      "limitations": "Broad HR population, not UK-only senior payroll directors; response count is not unique annual Table capacity or representative-market evidence.",
+      "value": 206,
+      "unit": "responses",
+      "denominator": "All reported responses to this survey"
+    },
+    {
+      "candidate_id": "T1RP-C06",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0065"
+      ],
+      "claim_text": "HR.com describes its reports as survey-based, with advisory-board assistance in survey development, and invites participation in its research influencer panel with rewards.",
+      "evidence_class": "publisher_reported_method",
+      "locator": "PDF/printed page 59, About HR.com and the HR Research Institute, visually inspected",
+      "limitations": "Generic publisher description; panel rewards do not establish a specific payment, exact study incentive or sponsor contact entitlement.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C07",
+      "source_candidate_ids": [
+        "T1RP-S04"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "ISG describes an annual Buyers Guide subscription giving access to published market reports, with a 30-minute research-director inquiry included with each guide.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "Access and Inquiries to Meet Your Needs",
+      "limitations": "Price and inquiry scheduling/usage terms not public in reviewed text; offer is not evidence of subscriptions sold.",
+      "value": 30,
+      "unit": "minutes per included inquiry",
+      "denominator": "Each Buyers Guide, as described by publisher"
+    },
+    {
+      "candidate_id": "T1RP-C08",
+      "source_candidate_ids": [
+        "T1RP-S04"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "ISG positions its enterprise service around provider shortlisting and an RFI-based Value Index framework; the complete market report adds detailed rankings and inclusion/product lists beyond the executive summary.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "About the Methodology; Using the Buyers Guides; Buyers Guide Research Reports",
+      "limitations": "Declared product use, not proven buyer decision quality or guaranteed suitability.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C09",
+      "source_candidate_ids": [
+        "T1RP-S05"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "ISG offers software-provider packages that can include licensed reports and graphics for marketing-funnel or sales use, plus market consultation.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "Available in multiple packages that can include the following",
+      "limitations": "Commercial permission category only. Exact licence scope, term, formats, price and sublicensing rights not published; no participant-list or raw-data access stated.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C10",
+      "source_candidate_ids": [
+        "T1RP-S05"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "ISG describes separate Provider Report, Provider Snapshot and Buyers Guide Insight formats with different depths of provider-specific results and commentary.",
+      "evidence_class": "publisher_declared_commercial_model",
+      "locator": "Buyers Guide Report Types",
+      "limitations": "Descriptions do not disclose price, production cost, sales volume or exact reproduction rights.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C11",
+      "source_candidate_ids": [
+        "T1RP-S06"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The December 2025 Global Payroll executive summary reports assessment of 14 software providers for its defined global-payroll category.",
+      "evidence_class": "publisher_reported_method",
+      "locator": "Article date; Key Takeaways / Software Provider Summary; Appendix: Software Provider Inclusion",
+      "limitations": "Eligibility-bound assessment of providers; not a respondent survey, 2026 release, market-share estimate or comparable price unit.",
+      "value": 14,
+      "unit": "assessed software providers",
+      "denominator": "Providers included in this guide"
+    },
+    {
+      "candidate_id": "T1RP-C12",
+      "source_candidate_ids": [
+        "T1RP-S06"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "ISG says eligible providers were invited to participate in the evaluation at no cost; providers meeting criteria without complete participation were assessed using public information.",
+      "evidence_class": "publisher_reported_method",
+      "locator": "Appendix: Software Provider Inclusion",
+      "limitations": "No-cost evaluation invitation differs from paid licensing. Incomplete participation can affect ratings; no participation rate or independent audit of the independence claim is established.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C13",
+      "source_candidate_ids": [
+        "T1RP-S04",
+        "T1RP-S06"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "ISG calls the guide research independent and advises enterprises to supplement it with their own evaluation because rankings do not imply universal suitability.",
+      "evidence_class": "publisher_declared_editorial_position",
+      "locator": "S04 opening/About the Methodology; S06 The Findings / Overall Scoring and Appendix",
+      "limitations": "Publisher assertion and methodological caution, not independently verified editorial governance or a licence-contract protection.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1RP-C14",
+      "source_candidate_ids": [
+        "T1RP-S06"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Global Payroll executive summary is publicly readable and exposes the guide scope, method, summary findings and provider-inclusion caveats.",
+      "evidence_class": "observed_public_access",
+      "locator": "Executive Summary; Buyers Guide Overview; Appendix",
+      "limitations": "Free public summary is a substitute for some headline information, not a permission to republish charts or a claim of access to all paid report content.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    }
+  ],
+  "analysis_policy": "Lessons and operating requirements below are analyst inferences, not observed sales, price validation, contractual rights or adopted JGA policy."
+}

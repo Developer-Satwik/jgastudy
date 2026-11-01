@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "lead_id": "T1H-L01",
+      "url": "https://store.payroll.org/accomplishments",
+      "title": "PayrollOrg Accomplishments",
+      "status": "discovery_only_pending_rendered_original",
+      "indexed_heading": "Top Association Accomplishments in 2024",
+      "indexed_content_date_note": "Contains later 2025 references; exact publication date not established",
+      "reason": "Direct original and web reader return a JavaScript shell. Indexed text mentions JGA collaboration; not accepted as a substantive checked claim or independent evidence. Browser read was unavailable.",
+      "shell_capture_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S03.html",
+      "shell_capture_sha256": "e6a8310b6f3086f89af31e450f19da374977c6640b3382f2d27a2c8f7b3621c1",
+      "not_in_source_candidates": true,
+      "claim_adopted": false
+    }
+  ]
+}

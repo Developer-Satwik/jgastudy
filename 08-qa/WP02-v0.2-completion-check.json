@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-28",
+  "status": "passed_for_local_v02_draft",
+  "client_files": 4,
+  "rendered_pages": 7,
+  "independent_review": "08-qa/v02-independent-review/EXACT-V02-REVIEW.md",
+  "synthetic_cases": 19,
+  "old_client_file_hashes_preserved": true,
+  "core_wording_preserved": true,
+  "human_testing": false,
+  "external_sent": false,
+  "client_approved": false,
+  "visual_review": "All five plan pages and both prospectus pages inspected after rendering; no spill, clipping, missing glyphs or broken hierarchy observed."
+}

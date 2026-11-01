@@ -1,0 +1,808 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_internal_second_constructed_walkthrough",
+  "framework_version": "0.2",
+  "route_count": 15,
+  "check_count": 197,
+  "checks": [
+    {
+      "check": "Six linked framework views present",
+      "passed": true
+    },
+    {
+      "check": "Framework is not an approval sequence score or predictive recipe",
+      "passed": true
+    },
+    {
+      "check": "Partial no-case and limited-disclosure routes allowed",
+      "passed": true
+    },
+    {
+      "check": "Missing facts do not force status identity or confidential disclosure",
+      "passed": true
+    },
+    {
+      "check": "Final synthesis dependency and no practitioner-validation claim preserved",
+      "passed": true
+    },
+    {
+      "check": "Framework adds no questions",
+      "passed": true
+    },
+    {
+      "check": "V01: optional nonordinal view",
+      "passed": true
+    },
+    {
+      "check": "V01: positive claim support resolves without held claims",
+      "passed": true
+    },
+    {
+      "check": "V01: finding/source links resolve",
+      "passed": true
+    },
+    {
+      "check": "V01: mapped to existing questions",
+      "passed": true
+    },
+    {
+      "check": "V01: reusable canvas remains blank",
+      "passed": true
+    },
+    {
+      "check": "V02: optional nonordinal view",
+      "passed": true
+    },
+    {
+      "check": "V02: positive claim support resolves without held claims",
+      "passed": true
+    },
+    {
+      "check": "V02: finding/source links resolve",
+      "passed": true
+    },
+    {
+      "check": "V02: mapped to existing questions",
+      "passed": true
+    },
+    {
+      "check": "V02: reusable canvas remains blank",
+      "passed": true
+    },
+    {
+      "check": "V03: optional nonordinal view",
+      "passed": true
+    },
+    {
+      "check": "V03: positive claim support resolves without held claims",
+      "passed": true
+    },
+    {
+      "check": "V03: finding/source links resolve",
+      "passed": true
+    },
+    {
+      "check": "V03: mapped to existing questions",
+      "passed": true
+    },
+    {
+      "check": "V03: reusable canvas remains blank",
+      "passed": true
+    },
+    {
+      "check": "V04: optional nonordinal view",
+      "passed": true
+    },
+    {
+      "check": "V04: positive claim support resolves without held claims",
+      "passed": true
+    },
+    {
+      "check": "V04: finding/source links resolve",
+      "passed": true
+    },
+    {
+      "check": "V04: mapped to existing questions",
+      "passed": true
+    },
+    {
+      "check": "V04: reusable canvas remains blank",
+      "passed": true
+    },
+    {
+      "check": "V05: optional nonordinal view",
+      "passed": true
+    },
+    {
+      "check": "V05: positive claim support resolves without held claims",
+      "passed": true
+    },
+    {
+      "check": "V05: finding/source links resolve",
+      "passed": true
+    },
+    {
+      "check": "V05: mapped to existing questions",
+      "passed": true
+    },
+    {
+      "check": "V05: reusable canvas remains blank",
+      "passed": true
+    },
+    {
+      "check": "V06: optional nonordinal view",
+      "passed": true
+    },
+    {
+      "check": "V06: positive claim support resolves without held claims",
+      "passed": true
+    },
+    {
+      "check": "V06: finding/source links resolve",
+      "passed": true
+    },
+    {
+      "check": "V06: mapped to existing questions",
+      "passed": true
+    },
+    {
+      "check": "V06: reusable canvas remains blank",
+      "passed": true
+    },
+    {
+      "check": "Decision commitment delivery and benefit fields distinct",
+      "passed": true
+    },
+    {
+      "check": "Requested supplied accepted perceived influential and established effect remain distinct",
+      "passed": true
+    },
+    {
+      "check": "Missingness categories remain distinct",
+      "passed": true
+    },
+    {
+      "check": "Scope and decision-brief templates remain blank",
+      "passed": true
+    },
+    {
+      "check": "Ten original route designs reapplied plus five additional constructed challenges",
+      "passed": true
+    },
+    {
+      "check": "Constructed applications not counted as fieldwork or numerical results",
+      "passed": true
+    },
+    {
+      "check": "Original design record not retroactively changed to an executed validation",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T01: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T02: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T03: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T04: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T05: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T06: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T07: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T08: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T09: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T10: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T11: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T12: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T13: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T14: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: exact supplied constructed premises retained",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: application is to current preparatory framework",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: constructed provenance explicit",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: no invented real date or numerical result",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: application uses actual framework views",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: source-design claim links preserved",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: usable partial record and explicit remaining gap",
+      "passed": true
+    },
+    {
+      "check": "R08-T15: root manual application reports no violated boundary",
+      "passed": true
+    },
+    {
+      "check": "Adequate-current route does not manufacture proposal or next action",
+      "passed": true
+    },
+    {
+      "check": "Never-raised need is not pending declined deferred or preselected solution",
+      "passed": true
+    },
+    {
+      "check": "Scoped no-formal-approval route does not imply wider authority operation or benefit",
+      "passed": true
+    },
+    {
+      "check": "Initial phase approval/resources do not complete release or later-phase support",
+      "passed": true
+    },
+    {
+      "check": "Limited renewal retains actual rationale without satisfaction or outcome inference",
+      "passed": true
+    },
+    {
+      "check": "Retained platform and changed route coexist without contract/service inference",
+      "passed": true
+    },
+    {
+      "check": "Postponed rollout preserves earlier authorisation without inferred investment deferral or elapsed-date outcome",
+      "passed": true
+    },
+    {
+      "check": "Component stop does not abandon whole need or select a replacement",
+      "passed": true
+    },
+    {
+      "check": "Feature interest and future promise do not establish purchase configuration or funding",
+      "passed": true
+    },
+    {
+      "check": "Limited-disclosure route preserves distinct missingness without forced action or owner",
+      "passed": true
+    },
+    {
+      "check": "Second challenge uses framework version0.2",
+      "passed": true
+    },
+    {
+      "check": "Five optional second-challenge conditions present",
+      "passed": true
+    },
+    {
+      "check": "Selective linked condition: C01",
+      "passed": true
+    },
+    {
+      "check": "Selective linked condition: C02",
+      "passed": true
+    },
+    {
+      "check": "Selective linked condition: C03",
+      "passed": true
+    },
+    {
+      "check": "Selective linked condition: C04",
+      "passed": true
+    },
+    {
+      "check": "Selective linked condition: C05",
+      "passed": true
+    },
+    {
+      "check": "Evidence qualification note remains blank/selective",
+      "passed": true
+    },
+    {
+      "check": "Second challenge adds no questions or recommendation/rerun transfer",
+      "passed": true
+    },
+    {
+      "check": "Historical route does not backfill later knowledge or force a next action",
+      "passed": true
+    },
+    {
+      "check": "Recurring report acceptance does not complete payment/continuity",
+      "passed": true
+    },
+    {
+      "check": "Firm material not promoted to candidate/engagement/payroll proof",
+      "passed": true
+    },
+    {
+      "check": "Accepted evidence and divergent accounts retain unresolved qualification",
+      "passed": true
+    },
+    {
+      "check": "Repeated recommendations and added assumptions not independent proof or buyer facts",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved on reapplication: R08-T10",
+      "passed": true
+    }
+  ],
+  "method": "Root-authored manual analytical application to supplied constructed premises, checked for linkage and explicit boundary preservation. Reapplied to version0.2 with five added challenges; no executable decision engine, human-user test, predictive validation or empirical effect is claimed.",
+  "practitioner_validation": false,
+  "actual_participant_cases": 0,
+  "new_questions": 0,
+  "source_design_path": "03-report/research-notes/r08/route-challenge/constructed-routes.json",
+  "source_design_sha256": "77880821b088b757aac8fdbbe85a77bfcd27b45a7826b42e554c5b6abdb579ed",
+  "framework_path": "03-report/R08-framework-map.json",
+  "framework_sha256_at_walkthrough": "a7c8ebb6a5efd57a0daadaccd95b1fb201d1b0657924cf9c1bcc58890bdddb9d",
+  "application_path": "03-report/R08-constructed-walkthroughs.json",
+  "application_sha256_at_walkthrough": "1fa67dac6270f9c364523b25f743cd6ccb5229e87ef8a6b7f66b994f5f32bac0",
+  "external_actions": []
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "original_path": "03-report/R04-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/01-R04-DESKTOP-READOUT.md.txt",
+      "sha256": "099a1626703b54ba9f0cd978e0225c549b5797cb7893597c310cc86f1683470c"
+    },
+    {
+      "original_path": "03-report/R04-DECISION-PATHWAY.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/02-R04-DECISION-PATHWAY.md.txt",
+      "sha256": "cdbb593591d7b8001117cc4be79ae8c9572a1f1695ff0b2d064ed51a9e03b828"
+    },
+    {
+      "original_path": "03-report/R04-decision-map.json",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/03-R04-decision-map.json.txt",
+      "sha256": "bc20567fd0c66ff95af7369d4715152da733bb874b9330d3155b98794dece653"
+    },
+    {
+      "original_path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/04-R04-decision-authority-and-pathways.md.txt",
+      "sha256": "8cbb5061fb8906a705bec8c9192c58f6a1c94a7008004c58b927020a909f4006"
+    },
+    {
+      "original_path": "08-qa/R04-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/05-R04-independent-review.md.txt",
+      "sha256": "f13ebfbde2e6d58f6b46dbe5f8bb5e6c391a6976f14d5e65011f82f4f192d0f0"
+    },
+    {
+      "original_path": "08-qa/R04-record-map.json",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/06-R04-record-map.json.txt",
+      "sha256": "25cdce753e1f64330727d04cf8f3cebf15753ff2cce762abba4a16eda8afe497"
+    }
+  ]
+}

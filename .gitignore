@@ -1,0 +1,7 @@
+# Backstop only. These patterns do not create secure storage.
+private-fieldwork/
+participant-identities/
+**/*identifiable*
+**/*raw-transcript*
+07-delivery/confidential-jga/
+.DS_Store

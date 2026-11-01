@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-31",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0190",
+      "url": "https://www.theportfoliogroup.com/added-value/",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Prior29October catalogue note73–78/133–140: salary/hiring resources and lead-capture route; current full reader timed out.",
+      "review_status": "explicit_prior_source_context_reused",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+          "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+          "kind": "prior_selected_original_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_review_record": "04-table/research-notes/t02-second-check/competitors/source-candidates.json",
+      "prior_access_boundary": "prior_primary_context_rechecked_not_fresh_full_body"
+    },
+    {
+      "source_id": "SRC-0221",
+      "url": "https://www.frazerjones.com/market-insight/payroll/how-to-build-and-retain-a-high-performing-payroll-team-leadership-insights-from-andrea-wraight-head-of-pay-benefits/",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Prior29October original-reader180–225:10April2025 written summary of AndreaWraight leadership interview; fresh full access403.",
+      "review_status": "explicit_prior_source_context_reused",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+          "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+          "kind": "prior_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_review_record": "04-table/research-notes/t02-second-check/competitors/source-candidates.json",
+      "prior_access_boundary": "prior_primary_context_rechecked_not_fresh_full_body"
+    },
+    {
+      "source_id": "SRC-0222",
+      "url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Original body:17March2026 MarketOverview and recent payroll-event account; parsed lines13–21",
+      "review_status": "explicit_prior_source_context_reused",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+          "sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "prior_review_record": "04-table/research-notes/t02-second-check/competitors/source-candidates.json",
+      "prior_access_boundary": "fresh_retained_original_sections_inspected"
+    },
+    {
+      "source_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Original PayrollSearch team/support and PostProjectReport; parsed lines15–27",
+      "review_status": "fresh_primary_HTML_and_selected_body_inspected",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "attempted_at_utc": "2026-10-31T17:59:03.620840+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "fb9939def6a4c8dd281cfa82f77402febb4df4471089585fd1262719e3c9cfe9",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.txt",
+          "sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+          "kind": "parsed_original_text"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0192",
+      "url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Guide access/current2026label and method:2025 salary inputs and survey periods; originalreader35–38/107–109",
+      "review_status": "explicit_prior_source_context_reused",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt",
+          "sha256": "68703795ba527d4bf660b40d6d2c49a141fe52b2da29c826b032219b80dda46e",
+          "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_review_record": "04-table/research-notes/t02-second-check/competitors/source-candidates.json",
+      "prior_access_boundary": "prior_primary_context_rechecked_not_fresh_full_body"
+    },
+    {
+      "source_id": "SRC-0193",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Public projected2027guide, customised salary consultation and distinctmethod; originalreader69–76/84–110",
+      "review_status": "fresh_primary_HTML_and_selected_body_inspected",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "attempted_at_utc": "2026-10-31T17:59:03.621385+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "4bb3304e2054981e280934ef5b4238ffa8671f112f786dfc45c8d12ed5e5c2ed",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.txt",
+          "sha256": "63823e74e04a6daaadefda53fb3368219b7be61362ac58e277a67cbfff70d538",
+          "kind": "parsed_original_text"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0088",
+      "url": "https://jgarecruitment.com/the-payroll-podcast/",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Fresh primary reader2–23: podcast proposition and subscription/archive routes; raw403.",
+      "review_status": "fresh_selected_primary_reader_sections_inspected_not_raw_original",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+          "sha256": "5fedfb3f3c07b14e4cd811f22c8c301f6b3a445fc8807c2c2342dceab675d205",
+          "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0257",
+      "url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "accessed_on": "2026-10-31",
+      "new_independent_dataset": false,
+      "locator": "Retained parsed lines13–21,42–43,57–59; primary reader lines19–32,79–81,106–111",
+      "review_status": "fresh_primary_HTML_and_selected_body_inspected",
+      "limitations": "Publisher description or retained reader note only; no supplier price, staffing capacity, rights grant, original participant, buyer demand or outcome inferred.",
+      "attempted_at_utc": "2026-10-31T17:59:03.621479+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "capture_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.html",
+      "capture_sha256": "09fe3f9ea5fcad516d691be5182f7cdae525c4faad7035523243643c61d02da5",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.txt",
+          "sha256": "1271453ecdacc3c512185d17182e67538517aba44344a9a8a185473c523fd270",
+          "kind": "parsed_original_text"
+        }
+      ]
+    }
+  ],
+  "new_source_routes": 0,
+  "new_independent_demand_datasets": 0
+}

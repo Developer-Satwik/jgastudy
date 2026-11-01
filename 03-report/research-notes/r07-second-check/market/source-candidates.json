@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Supplier product/support declaration; commercial interest. Not empirical employer priority evidence.",
+      "reuse_status": "Private verification; final wording/currentness and rights checks pending",
+      "population": "Source-specific declared product/support scope, not a surveyed employer population",
+      "candidate_id": "M7S-S01",
+      "title": "HMRC-recognised payroll software for your business",
+      "publisher": "FreeAgent",
+      "url": "https://www.freeagent.com/features/payroll/",
+      "source_type": "supplier_payroll_feature_declaration",
+      "locator": "Mainheading; monthlypayrollparagraph; pensiondefaultsetup paragraph",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Section labels are retained where present; no whole-page publication/update date inferred.",
+      "limitations": "Advertised integrated payroll at no extra cost is not a verified quote, total operating cost, all-plan entitlement, actual customer configuration or successful payroll. Monthly scope and setup applicability must be checked together. No price, savings, HMRC assurance, pension outcome or service trial adopted.",
+      "capture_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S01.html",
+      "capture_sha256": "cfd1ba78d24345ea4954b431d7da1604bea354652098b4499db7876488ad1cd2",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S01.txt",
+      "text_sha256": "070b83be22c4d4643986887f68a6a41155b0d0abe7c2fda0c534a64092a12716",
+      "review_status": "relevant_original_html_sections_inspected"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Supplier product/support declaration; commercial interest. Not empirical employer priority evidence.",
+      "reuse_status": "Private verification; final wording/currentness and rights checks pending",
+      "population": "Source-specific declared product/support scope, not a surveyed employer population",
+      "candidate_id": "M7S-S02",
+      "title": "Set up payroll",
+      "publisher": "FreeAgent",
+      "url": "https://support.freeagent.com/hc/en-gb/articles/115001219450-Set-up-payroll",
+      "source_type": "supplier_setup_and_applicability_guide",
+      "locator": "Monthlyscope; Please note account/access/user prerequisites; Companydetails/choosemonth/profile headings",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Section labels are retained where present; no whole-page publication/update date inferred.",
+      "limitations": "Original route inspected by web reader; raw retrieval403. Selected paraphrases are not retained source HTML. No actual account access, setup, entitlement, payroll submission, legal determination or tested UI. Dates not inferred from articleID or access date.",
+      "capture_path": null,
+      "capture_sha256": null,
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/market/captures/M7S-S02-selected-reader-notes.txt",
+          "sha256": "6bfbe5e3faf6ad2b1a39f5005a3c73f9dfac0565b6936f775217602c20acea20",
+          "kind": "selected_reader_paraphrase"
+        }
+      ],
+      "review_status": "original_route_reader_inspected_no_raw_capture"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Supplier product/support declaration; commercial interest. Not empirical employer priority evidence.",
+      "reuse_status": "Private verification; final wording/currentness and rights checks pending",
+      "population": "Source-specific declared product/support scope, not a surveyed employer population",
+      "candidate_id": "M7S-S03",
+      "title": "Payroll Manager New Features and Guides",
+      "publisher": "Moneysoft",
+      "url": "https://moneysoft.co.uk/support/payroll-manager-new-features-guides/",
+      "source_type": "supplier_scheduled_update_and_future_declaration",
+      "locator": "Opening scheduled-update instructions; June2026 future BiKcompatibility statement and current improvement headings",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Section labels are retained where present; no whole-page publication/update date inferred.",
+      "limitations": "Versioned supplier declaration; implemented/prompted/future states differ. No user update installation or task success tested; future compatibility not verified or promoted into legislative guidance. No statutory rates, cost saving, included tariff or funded employer priority adopted.",
+      "capture_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S03.html",
+      "capture_sha256": "16dbdb7273269b3b67de828e3a9e097afe140b272f7e14ee15e8f28cc7e3fcbd",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S03.txt",
+      "text_sha256": "c65346d20df5fac5f2a1730e4a7ab3197ea54e5a98c984fef7720616708c51b1",
+      "review_status": "relevant_original_html_sections_inspected"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0207",
+      "url": "https://bpop.brightsg.com/",
+      "locator": "Findyourmigrationpath: PayrollBureau and BusinessOwner descriptions; no feature parity/outcome claim adopted",
+      "review_result": "Own-employer and multi-client work have different declared task/customer boundaries. Reinspection is a reuse, not an extra employer or dataset.",
+      "review_status": "original_route_web_reader_and_fresh_raw_html_rechecked",
+      "capture_path": "03-report/research-notes/r07-second-check/market/captures/SRC-0207.html",
+      "capture_sha256": "cce1ec3d0b331c25881d959e24df38194c0401e68c8d471b41eb05989971fe0c",
+      "limitations": "Supplier descriptions, not a census of bureaus, validated customer workflow, market segment priority or successful migration. No headcount limit, deadline, pricing or replacement recommendation adopted."
+    }
+  ],
+  "new_empirical_datasets": 0
+}

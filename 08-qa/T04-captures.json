@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S01.html",
+      "sha256": "27fd181c84891bc3086d5e8b5ef7e6557dc316c03f6f36f02cb4c555446c8237",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0258",
+      "source_candidate_id": "T4E-S01",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S01.txt",
+      "sha256": "b06da4021065f81294fa97593a1ce32c564b449229d6373f0a44eadf83fc886f",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0258",
+      "source_candidate_id": "T4E-S01",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf",
+      "sha256": "6a48e6e9547b4cff4bed25bf8075db9608c89a992d56528561eafbbac7568255",
+      "kind": "retained_original_pdf",
+      "source_id": "SRC-0259",
+      "source_candidate_id": "T4E-S02",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S02.txt",
+      "sha256": "18de76580ee206ce502c8779909e51dcaac518a355cb98e76b508f8200c1ef73",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0259",
+      "source_candidate_id": "T4E-S02",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S03.html",
+      "sha256": "678c6f131db1dfc53af4c48cef355a77635ff83d0eb149a5832e4f6c18de1eb8",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0260",
+      "source_candidate_id": "T4E-S03",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S03.txt",
+      "sha256": "8d5e67842299dd6bd721701fe47add963c735e02fb1ecd2302f6e43a1d749dc5",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0260",
+      "source_candidate_id": "T4E-S03",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4",
+      "kind": "retained_original_pdf",
+      "source_id": "SRC-0261",
+      "source_candidate_id": "T4E-S04",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt",
+      "sha256": "65be34ac70fc76bde2dc221ef5ebf89f6603ca5fb6aa6671fe524659aef26fb2",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0261",
+      "source_candidate_id": "T4E-S04",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S05.html",
+      "sha256": "f439e0c9210433f2b5dd0af65873346f4d4042dfa1ebce573002389567a82e27",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0262",
+      "source_candidate_id": "T4E-S05",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S05.txt",
+      "sha256": "99e28dd22279cba8e72fda3d0ec21d107f2549c8841a0ebfff9c51c9617fb8a8",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0262",
+      "source_candidate_id": "T4E-S05",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-3.png",
+      "sha256": "1ce551d2928d411ead02ce78e8532ea88de3654e7bf97eb0b7ceb02c948f3623",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0259",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png",
+      "sha256": "f47435b423234672d8fe4033a91b03899804e54a83c2772c429c2925ea2348f7",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0259",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-2.png",
+      "sha256": "d3deecc84952537402a3acbe424866b5aa20ec516c83e5bd56c4e41657a59247",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0261",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-4.png",
+      "sha256": "4cf94828a0465db0f331ac7e1918164c3dfff3e1d0c7130db5d5f8ad710f6793",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0261",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png",
+      "sha256": "248ec6aed9b6f2b9ae1f9c0ea2afea114493c1cb3c2b3c08b2444daf9518d1c3",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0261",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-7.png",
+      "sha256": "71ff5ebd636812efdc88426c9d224b76a37a39d8fa538f3d5e9aaea2d58e977a",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0261",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png",
+      "sha256": "0b6c3df984d30e50387e70357964b3b1169e783e78c4d74a77ebccdefbd450a6",
+      "kind": "rendered_source_page_not_new_original",
+      "source_id": "SRC-0261",
+      "core_evidence": true
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-4.png",
+      "sha256": "b4fce6f34017194a574ba67be1ab25557c84503bcecff63259b1a7022c1c8dca",
+      "kind": "excluded_historical_render",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-6.png",
+      "sha256": "becf1449697c69c176ede3555a55462be96dc7930ecba7422d08d95b309c9434",
+      "kind": "excluded_historical_render",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-7.png",
+      "sha256": "74e6e991506e86ccface53eb23c285e12dbd82b4a028b582dbbbeb4878bb3381",
+      "kind": "excluded_historical_render",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-8.png",
+      "sha256": "71e3fbe17016f06caa8d52bd3acd5670b28f4dd90d4532e2b70693e012aeb0b0",
+      "kind": "excluded_historical_render",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.pdf",
+      "sha256": "366d9d28932a76b071d1d9d79c66069abe38c26c78dd22253a7cbdd31e5f0efb",
+      "kind": "excluded_historical_original_pdf",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.txt",
+      "sha256": "4a456275862f888428356195d31d765811782a77435f97e7a29f60725797f890",
+      "kind": "excluded_historical_extract",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/january-manifest.json",
+      "sha256": "e4f07b07bfafe7426fc143d9a20894e8b6ef5d2fa5bb7f92148c782a6230fee4",
+      "kind": "excluded_historical_manifest",
+      "source_id": null,
+      "core_evidence": false,
+      "current_cost_eligible": false
+    }
+  ],
+  "core_primary_originals": 5,
+  "core_parsed_extracts": 5,
+  "core_page_renders": 7,
+  "excluded_historical_artifacts": 7,
+  "new_independent_datasets": 0,
+  "note": "Five related official source routes across three venue examples. Parsed texts and renders are review aids, not additional originals or venues. January guide excluded from current cost evidence."
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 25,
+  "checks": [
+    {
+      "check": "JSON parses source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "Two new routes and five explicit reuses",
+      "passed": true
+    },
+    {
+      "check": "SIG7-S01 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SIG7-S01 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "SIG7-S02 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SIG7-S02 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0090 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0090 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0091 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0091 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0072 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0072 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0092 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0092 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0075 capture_path hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0075 text_path hash",
+      "passed": true
+    },
+    {
+      "check": "Seven bounded claims/design records",
+      "passed": true
+    },
+    {
+      "check": "No numerical financial/rate estimate",
+      "passed": true
+    },
+    {
+      "check": "Memo link exists source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link exists claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link exists capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link exists search-review-log.json",
+      "passed": true
+    }
+  ],
+  "new_routes": 2,
+  "canonical_reuses": 5,
+  "claim_records": 7,
+  "pdf_claims_relied_on": false,
+  "external_actions": []
+}

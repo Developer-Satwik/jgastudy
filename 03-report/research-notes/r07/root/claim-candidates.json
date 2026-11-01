@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "METH7-C01",
+      "source_ids": [
+        "SRC-0003"
+      ],
+      "claim_text": "QQE’s framework asks how case selection permits intended comparisons, how achieved and missing coverage are described, and how social/organisational context is preserved.",
+      "evidence_class": "official_qualitative_quality_guidance",
+      "locator": "Framework questions7–8 and11; section2.3–2.4",
+      "limitations": "Qualitative evaluation guidance adapted to a commercial purposive study, not a certification or justification for representative size/sector/country estimates.",
+      "review_mode": "Relevant original HTML sections read and retained; methodological context, not participant testing or completed case analysis",
+      "value": null,
+      "unit": null,
+      "population": "Government qualitative-evaluation guidance; explicit researcher application to proposed6–10purposive payroll practitioners",
+      "time_period": "Current retained guidance inspected29October2026; no employer time series"
+    },
+    {
+      "candidate_id": "METH7-C02",
+      "source_ids": [
+        "SRC-0003"
+      ],
+      "claim_text": "QQE asks for diversity and negative cases, alternative explanations, traceable interpretation and evidence supporting wider inference, with limitations on what transfers.",
+      "evidence_class": "official_qualitative_inference_guidance",
+      "locator": "Framework questions4,12–14 and16",
+      "limitations": "The guidance does not make an association causal, require a particular sample count or establish that this sample is saturated or comparable across all groups.",
+      "review_mode": "Relevant original HTML sections read and retained; methodological context, not participant testing or completed case analysis",
+      "value": null,
+      "unit": null,
+      "population": "Government qualitative-evaluation guidance; explicit researcher application to proposed6–10purposive payroll practitioners",
+      "time_period": "Current retained guidance inspected29October2026; no employer time series"
+    },
+    {
+      "candidate_id": "METH7-C03",
+      "source_ids": [
+        "SRC-0003"
+      ],
+      "claim_text": "For R07, record whose priority, its specific work/outcome, horizon and source, then separately the known evaluation/plan/approval position, funding/resource basis and actual delivery/benefit. These can overlap or change rather than form a guaranteed sequential ladder.",
+      "evidence_class": "researcher_analytical_design",
+      "locator": "Application of source-context/traceability guidance; existing internal Q002/Q003/Q005 and R04–R06 supply case/status distinctions",
+      "limitations": "No new mandatory questions, financial document demand, forecast, maturity score or assumption that a necessary priority has a separate project budget.",
+      "review_mode": "Relevant original HTML sections read and retained; methodological context, not participant testing or completed case analysis",
+      "value": null,
+      "unit": null,
+      "population": "Government qualitative-evaluation guidance; explicit researcher application to proposed6–10purposive payroll practitioners",
+      "time_period": "Current retained guidance inspected29October2026; no employer time series"
+    },
+    {
+      "candidate_id": "METH7-C04",
+      "source_ids": [
+        "SRC-0003"
+      ],
+      "claim_text": "R07 should distinguish an observed case contrast, a source-supported contextual mechanism, a hypothesis for later cases and an unestablished group difference. Compare relevant work, scope, horizon and evidence type before attributing differences to size, sector or geography.",
+      "evidence_class": "researcher_comparison_guardrail",
+      "locator": "Application of framework questions4,7–8,11–14; actual comparison basis remains source/case-specific",
+      "limitations": "No representative subgroup claim, numerical threshold for valid qualitative comparison, ranking of employers, regression or causal decomposition. Sparse coverage is an explicit gap, not a zero or proof groups are the same.",
+      "review_mode": "Relevant original HTML sections read and retained; methodological context, not participant testing or completed case analysis",
+      "value": null,
+      "unit": null,
+      "population": "Government qualitative-evaluation guidance; explicit researcher application to proposed6–10purposive payroll practitioners",
+      "time_period": "Current retained guidance inspected29October2026; no employer time series"
+    }
+  ]
+}

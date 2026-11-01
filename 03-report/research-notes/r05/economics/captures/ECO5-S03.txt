@@ -1,0 +1,367 @@
+1: AQA | Teaching guide: investment appraisal
+2: Most chosen general qualifications exam board in England.
+3: About AQA
+4: Centre Services
+5: Join Us
+6: Contact Us
+7: Log in
+8: .
+9: Profile
+10: Subjects
+11: Qualifications
+12: Professional Development
+13: Exams Admin
+14: Services
+15: Support for
+16: Toggle Overspill Menu
+17: Menu
+18: Search
+19: Log in
+20: .
+21: Profile
+22: Professional Development
+23: Exams Admin
+24: Services
+25: Support for
+26: Close Overspill Menu
+27: Subjects
+28: Subjects
+29: Qualifications
+30: Qualifications
+31: Professional Development
+32: Professional Development
+33: Exams Admin
+34: Exams Admin
+35: Services
+36: Services
+37: Support for
+38: Support for
+39: About AQA
+40: Centre Services
+41: Join Us
+42: Contact Us
+43: Log in
+44: Back
+45: Subjects
+46: Accounting
+47: Art and Design
+48: Biology
+49: Business
+50: Chemistry
+51: Computer Science
+52: Dance
+53: Design and Technology
+54: Drama
+55: Economics
+56: English
+57: Food preparation and Nutrition
+58: French
+59: Geography
+60: German
+61: History
+62: Languages
+63: Law
+64: Mathematics
+65: Media Studies
+66: Music
+67: Physical Education
+68: Physics
+69: Politics
+70: Psychology
+71: Religious Studies
+72: Science
+73: Sociology
+74: Spanish
+75: All subjects
+76: Find past papers
+77: Back
+78: GCSEs
+79: Biology (8461)
+80: Chemistry (8462)
+81: Combined Science: Trilogy (8464)
+82: English Language (8700)
+83: English Literature (8702)
+84: Geography (8035)
+85: History (8145)
+86: Mathematics (8300)
+87: See all GCSEs
+88: AS and A-levels
+89: Biology (7402)
+90: Business (7138)
+91: Chemistry (7405)
+92: Geography (7037)
+93: History (7042)
+94: Physics (7408)
+95: Psychology (7182)
+96: Sociology (7192)
+97: See all AS and A-Levels
+98: Other qualifications
+99: Applied Generals
+100: AQA Certificate Mathematics
+101: Entry Level Certificates
+102: Project Qualifications
+103: Unit Award Scheme
+104: Vocational
+105: All qualifications
+106: Find past papers
+107: Back
+108: Our training
+109: Course finder
+110: About our training
+111: Online training
+112: Face-to-face training
+113: In-school training
+114: Inside assessment
+115: Courses by theme
+116: Preparing for exams
+117: Unit Award Scheme
+118: Courses by subject
+119: English
+120: Mathematics
+121: Science
+122: Languages
+123: Design and Technology
+124: Physical Education
+125: Geography
+126: History
+127: All professional development
+128: Back
+129: Dates
+130: Dates and timetables
+131: Key dates
+132: Non-exam assessment (NEA)
+133: NEA, coursework and controlled assessment
+134: Deadlines for non-exam assessment
+135: Record forms
+136: Submit marks
+137: Submitting student samples
+138: Exams
+139: Entries
+140: Entry fees
+141: Exams guidance
+142: Question papers and stationery
+143: Access arrangements
+144: Special consideration
+145: Results
+146: Results days
+147: Results slips
+148: Grade boundaries
+149: Results statistics
+150: Post-results services
+151: Exam certificates
+152: All Exams Admin
+153: Back
+154: Assessment Services
+155: Centre Services
+156: Associate Extranet
+157: Become an associate
+158: Products
+159: All About Maths
+160: AlphaPlus
+161: Data Insights
+162: Exampro
+163: Project Q
+164: Stride Maths
+165: Testbase
+166: Unit Award Scheme
+167: News and Insights
+168: AQI research and insight
+169: News
+170: Inside Exams Podcast
+171: Exams officers podcast
+172: AQA assessment research
+173: Back
+174: Assessment reform
+175: Curriculum and assessment
+176: Subject summaries
+177: Teacher panels - work with us
+178: Assessment reform - the essentials
+179: Leadership
+180: MAT leadership
+181: Senior leadership
+182: Teachers
+183: Search subjects
+184: Past-paper finder
+185: Digital exams
+186: Learners and parents
+187: Revision
+188: Exam day
+189: Results day
+190: Private candidates
+191: Have a question? Contact us
+192: Home
+193: Teaching guide: investment appraisal
+194: Specifications that use this resource:
+195: AS Business 7131
+196: A-level Business 7132
+197: Print
+198: Teaching guide: investment appraisal
+199: Use this teaching guide in the classroom to engage your students, contextualise the model/theory in real-world business and prepare them for the exam.
+200: Section 3.7.8 Analysing strategic options.
+201: Model/theory
+202: Investment appraisal methods are used to assess different investment opportunities. They help managers to make a decision whether to go ahead with a project.
+203: When considering investment options managers will consider factors such as:
+204: the initial costs
+205: the expected returns each year
+206: the number of years of returns
+207: the timings of the returns
+208: the risk involved.
+209: Three methods of investment appraisal are:
+210: payback: this measures how long it takes to repay the initial investment
+211: Average Rate of Return: this measures the average annual profit as a percentage of the initial investment.
+212: Net Present Value: this takes account of the ‘time value of money’ which recognises that £1 earned in five years’ time is not the same as £1 earned today.
+213: Payback
+214: This method is valuable if managers want to know how long it takes to repay the investment. If managers are worried about liquidity they will look for a short payback.
+215: Year
+216: Net inflow
+217: £m
+218: Net inflow
+219: Em
+220: Project A
+221: Project B
+222: 0
+223: -10
+224: -10
+225: 1
+226: 4
+227: 1
+228: 2
+229: 4
+230: 1
+231: 3
+232: 5
+233: 6
+234: 4
+235: 1
+236: 8
+237: Project A
+238: The project needs to pay back £10m. After 2 years it has earned 4+4 = £8m. This leaves £2m to be paid off. In year 3 the project earns £5m; only £2m of this is needed to pay off the initial investment. We now work out what proportion of year 3’s earnings this is. £2m out of £5m = 2/5 = 0.4. We therefore need 0.4 of the year’s earning. A year is 12 months so we need 0.4*12 = 4.8 months. Payback for project A is 2 years and 4.8 months. This can be rounded up to 2 years and 5 months.
+239: Project B
+240: We need to pay back £10m. After 3 years we have earned £8m of this so we have £2m extra needed. In year 4 the project earns £8m. We need £2m of the £8m which is 2/8= 0.25. There are 12 months in the year so we need 0.25*12= 3 months. Payback for project B is 3 years and 3 months.
+241: On this basis Project A would be chosen as it has the fastest repayment.
+242: The advantage of the payback method is that it is easy to understand and relatively easy to calculate. It is particularly useful if you are focused on the speed of repayment. However, this method does not look at the overall returns. One project may pay back quickly but then little additional may be earned. Another project may be slow to pay back but then earn high amounts later on.
+243: In the example above, Project A has a total return of -10+4+4+5+1 = £4m; Project B has a total return of -10+1+1+6+8 = £6m. Although Project A has a quicker return, Project B has the higher overall return.
+244: Average rate of return
+245: This method considers the total returns of the project. It then calculates the average return per year and calculates this as a percentage of the initial investment.
+246: Year
+247: Net inflow
+248: £m
+249: Net inflow
+250: Em
+251: Project A
+252: Project B
+253: 0
+254: -10
+255: -10
+256: 1
+257: 4
+258: 1
+259: 2
+260: 4
+261: 1
+262: 3
+263: 5
+264: 6
+265: 4
+266: 1
+267: 8
+268: Total return £
+269: 4
+270: 6
+271: Average return per year = total return/number of years
+272: 1
+273: 1.5
+274: ARR (%)
+275: 10
+276: 15
+277: In the example above we can see:
+278: For Project A the total return is £4m; given that the project is expected to last 4 years the return on average is £1m per year. This means the ARR is (1/10) *100 =10%.
+279: For Project B the total return is £6m; this is on average £1.25m.
+280: This means the ARR is (1.5/ 10)*100= 15%.
+281: On average the profit per year for Project A is 10% of the investment; for Project B it is 15%.
+282: On this basis Project B would be chosen because it has the highest average annual rate of return.
+283: The advantage of ARR is it considers the total returns of a project and calculates an average rate of return; this can be compared with the rates of return on other projects or the cost of borrowing.
+284: However, the ARR method does not take account of when the returns occur. For example, the ARR for Project B would be exactly the same even if the net returns were Year 1 £8m, Year 2 £6m, Year 3 £1m, Year 4 £1m. In reality, as the next method will show, the business would prefer the returns to be earlier rather than later and so a failing of the ARR is that it does not take into account the time value of money.
+285: Net present value
+286: This method takes account the time value of money. It considers the value of expected future returns in today’s terms. It recognises that the money spent on the investment could be used in an alternative to earn returns – for example, in a bank – and considers this when valuing future earnings, For example, if the interest rate is 10% then £1 placed in a bank today would become £1.10 in one year’s time. This is the same as saying that the Present Value (the value today) of £1.10 next year is £1 if the interest rate is 10%. There are several ways of explaining the Net Present Value method but one is to consider the project being assessed with an alternative such as putting money into a bank to work out the value of future expected returns in today’s terms.
+287: Year
+288: Net inflow
+289: £m
+290: Project B
+291: Discount factor if interest rate is 10%
+292: 0
+293: -10
+294: 1
+295: 1
+296: 0.91
+297: 2
+298: 1
+299: 0.83
+300: 3
+301: 6
+302: 0.75
+303: 4
+304: 8
+305: 0.68
+306: In the above table the discount factor is taking account of the time value of money if the interest rate is 10%. It shows the value today (the present value) of £1. For example, £0.91 placed in a bank at 10% interest becomes £1 after a year because of the interest. Similarly, £0.83 placed in a bank for two years at 10% becomes £1.
+307: The discount factor depends on the interest rate; the higher the interest rate the less that would need to be put into a bank to earn £1 in the future.
+308: Using the discount factors we can calculate the present value (the value in today’s terms) of future expected earnings from the project.
+309: Year
+310: Net inflow
+311: £m
+312: Project B
+313: £m
+314: Discount factor if interest rate is 10%
+315: Present value £m
+316: =discount factor
+317: * expected return
+318: 0
+319: -10
+320: 1
+321: 1
+322: 0.91
+323: 0.91
+324: 2
+325: 1
+326: 0.83
+327: 0.83
+328: 3
+329: 6
+330: 0.75
+331: 4.5
+332: 4
+333: 8
+334: 0.68
+335: 5.44
+336: The project is expected to earn £1m in year 1. To match these earnings £0.91m would need to be placed in a bank today. This is the amount of money which if it was placed in a bank today would grow to become £1m in a year’s time.
+337: The project is expected to earn £1m in year 2. To match these earnings £0.83m would need to be placed in a bank today. This would grow overtime to become £1m in 2 years.
+338: The project is expected to earn £6m in year 3. We know that 0.91 grows to become £1 over a year due to the discount factor. If we multiply the expected return with the discount factor we get £6m *0.75= £4.5m This means that to match the expected earnings of £6m in 3 years’ time we would need to place £4.5m; this would grow at 10% over three years to become £6m
+339: The project is expected to earn £8m in year 4. To match these earnings £8m * 0.68 = £5.44m would need to be placed in a bank today. £5.44m left in a bank at 10% interest for 4 years would grow to become £8m
+340: This means that to match the total expected returns of the project managers would need to place £0.91 + 0.83+4.5 +5.44 in a bank at 10%. This sums to £11.68m. This is the present value of the project. It is the sum of money which if placed in a bank today would earn the same in year 1, 2, 3 and 4 as this project.
+341: The project only costs £10m which means it is £11.68-£10m= £1.68m cheaper than the amount required to be put in the bank to earn the same returns. £1.68m is known as the Net Present Value (NPV).
+342: The Net Present Value (NPV) = Present Value – cost of investment. The £1.68 is how much managers are saving by doing the project rather than investing in the alternative. The bigger the NPV the better the project is compared to the alternative.
+343: Notes
+344: These discount factors would always be provided in an exam question if needed.
+345: Students often confuse the method eg calculate ARR when they should be doing NPV.
+346: Students often fail to deduct the initial cost of the investment when calculating the total returns of the project.
+347: All investment appraisal methods are based on forecasts of future incomes and costs. The calculations are only as valid as the underlying forecast figures. The further ahead the business is looking the less reliable the numbers might be as more things can change in that time.
+348: Where it’s been used
+349: Q16-17, A-level paper 1, 2017.
+350: Q6, A-level paper 1, SAM set 1.
+351: Q16, A-level paper 1, SAM set 2.
+352: Specifications that use this resource:
+353: AS and A-level Business 7131; 7132
+354: Become an examiner
+355: Switch to AQA
+356: Contact us
+357: Join us
+358: Terms and conditions
+359: Accessibility
+360: Modern slavery statement
+361: Privacy notice
+362: Cookie notice
+363: Safeguarding
+364: LinkedIn
+365: Youtube
+366: ©AQA 2026 | Company number: 03644723 | Registered office: Devas Street, Manchester, M15 6EX | AQA is not responsible for the content of external sites
+367: AQA Education has obtained an injunction preventing interference with public examinations. This notice is to alert you to the injunction, so that you are aware of it and can make submissions about it if you wish to do so.

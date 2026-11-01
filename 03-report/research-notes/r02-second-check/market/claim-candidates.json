@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "MKT-C01",
+      "source_ids": [
+        "MKT-S01"
+      ],
+      "locator": "What it does; Before you start",
+      "claim_text": "Free core payroll tool for fewer than ten employees, with prerequisites and stated agent/bookkeeper limitation.",
+      "evidence_class": "official_guidance_feature_boundary",
+      "population": null,
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "Official feature boundary; not a complete fit recommendation, market need estimate or measurement of operating effort.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "review_mode": "Relevant original live sections inspected through web; capture status recorded separately",
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "r02_implication": "Use for contextual gap diagnosis and counterevidence to blanket capability absence, not ranking or achieved-performance claims."
+    },
+    {
+      "candidate_id": "MKT-C02",
+      "source_ids": [
+        "MKT-S02"
+      ],
+      "locator": "Choosing software; Free payroll software",
+      "claim_text": "Recognition supports PAYE online reporting; buyers should check needed features and HMRC does not recommend a product.",
+      "evidence_class": "official_guidance_feature_boundary",
+      "population": null,
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "Reporting recognition is not comparative quality or end-to-end outcome assurance; listed suppliers can change.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "review_mode": "Relevant original live sections inspected through web; capture status recorded separately",
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "r02_implication": "Use for contextual gap diagnosis and counterevidence to blanket capability absence, not ranking or achieved-performance claims."
+    },
+    {
+      "candidate_id": "MKT-C03",
+      "source_ids": [
+        "MKT-S03"
+      ],
+      "locator": "Compare features across plans; Pricing plan details and offer terms",
+      "claim_text": "Payroll is bundled or charged per additional person within accounting plans, with separately described payment charges.",
+      "evidence_class": "published_service_or_product_scope",
+      "population": null,
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "Dynamic live supplier list; not a managed payroll quote or total cost of ownership. No exact price is used in the synthesis.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "review_mode": "Relevant original live sections inspected through web; capture status recorded separately",
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "r02_implication": "Use for contextual gap diagnosis and counterevidence to blanket capability absence, not ranking or achieved-performance claims."
+    },
+    {
+      "candidate_id": "MKT-C04",
+      "source_ids": [
+        "MKT-S04"
+      ],
+      "locator": "Automatic RTI submissions; 24/7 online support; Spend less time on payroll",
+      "claim_text": "Supplier advertises calculation, reporting, employee/payroll payment functions and online support.",
+      "evidence_class": "published_service_or_product_scope",
+      "population": null,
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "Advertised functions/support do not establish supplier-operated payroll, universal case fit, achieved resolution or independently measured accuracy. Customer agreement statistic and testimonials not adopted.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "review_mode": "Relevant original live sections inspected through web; capture status recorded separately",
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "r02_implication": "Use for contextual gap diagnosis and counterevidence to blanket capability absence, not ranking or achieved-performance claims."
+    },
+    {
+      "candidate_id": "MKT-C05",
+      "source_ids": [
+        "MKT-S05"
+      ],
+      "locator": "What managed payroll services actually mean; You provide the information; ADP manages the payroll process",
+      "claim_text": "Supplier specifies employer changes/inputs and approval alongside provider processing/checks/reporting/support.",
+      "evidence_class": "published_service_or_product_scope",
+      "population": null,
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "Published offer rather than a signed contract or independently audited delivery. Promotional testimonial/accuracy and savings claims not adopted. Web inspection succeeded; local capture returned403.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "review_mode": "Relevant original live sections inspected through web; capture status recorded separately",
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "r02_implication": "Use for contextual gap diagnosis and counterevidence to blanket capability absence, not ranking or achieved-performance claims."
+    },
+    {
+      "candidate_id": "MKT-C06",
+      "source_ids": [
+        "MKT-S06"
+      ],
+      "locator": "A unified platform; Global governance; Strategic decision; User experience",
+      "claim_text": "Supplier advertises multicountry governance/local expertise, consolidated data/reporting and employee self-service.",
+      "evidence_class": "published_service_or_product_scope",
+      "population": null,
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "No uniform jurisdiction coverage, entitlement or achieved result inferred; country fit and actual contract would require checking. Web inspection succeeded; local capture returned403.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "review_mode": "Relevant original live sections inspected through web; capture status recorded separately",
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "r02_implication": "Use for contextual gap diagnosis and counterevidence to blanket capability absence, not ranking or achieved-performance claims."
+    }
+  ]
+}

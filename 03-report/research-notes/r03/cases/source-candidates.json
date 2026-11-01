@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "CASE-S01",
+      "title": "Scottish Government 2024/25 Annual Audit Report",
+      "publisher": "Audit Scotland",
+      "url": "https://audit.scot/uploads/2025-10/aar_2425_scottish_government.pdf",
+      "source_type": "independent_public_external_audit",
+      "document_date": "2025-10",
+      "published_date": null,
+      "date_note": "Cover states October2025; exact upload date not established. Related to the previously registered section22 report SRC-0067, same audit year/programme, not an independent employer sample.",
+      "review_status": "relevant_original_sections_read_and_selected_pages_visually_checked",
+      "locator": "Printed pp42-56; especially47,50,55; paragraphs129-145,153-156,171-174",
+      "population": "Scottish Government and user bodies of one shared HR/finance programme; selected audit tests and questionnaire responses, not market sample",
+      "sample_size": null,
+      "fieldwork_period": "2024/25 audit; implementation October2024; source describes evidence through2025",
+      "funding_or_commercial_interest": "Public external auditor, independent of audited body according to report",
+      "limitations": "Programme-wide and HR/payroll scopes differ. Selected pay tests are not universal accuracy assurance. Go-live, support, reporting and demonstrated benefits differ. No current2026 status, payroll-only cost/ROI, representative failure rate or vendor ranking inferred.",
+      "related_canonical_source_ids": [
+        "SRC-0067"
+      ],
+      "capture_path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "capture_sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "accessed_on": "2026-10-29",
+      "reuse_status": "Private verification; final-use wording and reproduction rights pending"
+    },
+    {
+      "candidate_id": "CASE-S02",
+      "title": "Scottish Parliamentary Corporate Body Annual Report and Accounts2024-25",
+      "publisher": "Scottish Parliamentary Corporate Body",
+      "url": "https://www.businessintheparliament.scot/-/media/files/spcb/annual-reports/spcb-annual-report-and-accounts-2024-25.pdf",
+      "source_type": "employer_annual_report_with_reported_internal_audit",
+      "document_date": "2025-09-25",
+      "published_date": null,
+      "date_note": "Approval/signature date25September2025; exact public upload date unknown. Verified cover identifies2024-25 despite misleading search/document title.",
+      "review_status": "original_relevant_page_read_and_visually_checked",
+      "locator": "Printed p37/PDFp38; report approval date printed p59/PDFp60",
+      "population": "One parliamentary employer; new i-Trent HR/payroll and separate finance replacement",
+      "sample_size": null,
+      "fieldwork_period": "Go-live October2024; stated internal audit June2025",
+      "funding_or_commercial_interest": "Employer governance account; full underlying internal-audit report not inspected",
+      "limitations": "Positive scoped assurance is reported in employer account, not independently replicated full payroll test. No significant issues does not mean zero payroll errors, achieved savings or comparative product superiority.",
+      "related_canonical_source_ids": [],
+      "capture_path": "03-report/research-notes/r03/cases/parliament-accounts-2024-25.pdf",
+      "capture_sha256": "777ffd7fada746264986c6bb431c7355487867f0f601677c9d00ae6fd524a511",
+      "accessed_on": "2026-10-29",
+      "reuse_status": "Private verification; final-use wording and reproduction rights pending"
+    },
+    {
+      "candidate_id": "CASE-S03",
+      "title": "Shared services programme phase1 closure report: post implementation and linked benefits/HR reflections",
+      "publisher": "Scottish Government",
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/5/",
+      "source_type": "employer_programme_self_review",
+      "published_date": "2026-03-23",
+      "date_note": "Published 23 March 2026. The document mixes retrospective implementation accounts, management assessment/progress by publication and later plans; Appendix1 early reflections are not the sole reporting timeframe.",
+      "review_status": "original_sections4_8_and_appendix1_HR_inspected",
+      "locator": "Section4 post implementation; section8 benefits realisation; Appendix1 HR achievements, continued focus and future outlook",
+      "population": "Same Scottish Government shared-services programme as CASE-S01; retrospective directorate reflections and later management assessments/plans.",
+      "sample_size": null,
+      "fieldwork_period": "Phase1 concluded31March2025; retrospective initial-operation accounts plus later management progress/benefits checkpoint and2026 plans, as specified by section.",
+      "funding_or_commercial_interest": "Programme owner self-review",
+      "limitations": "Management account, not independent verification of all claimed benefits. Distinguish retrospective events, management assessment by March2026 publication and future plans. Do not freeze all content at initial operation or infer independently confirmed October2026 status, complete issue resolution or realised payroll-only ROI.",
+      "alias_urls": [
+        "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/9/",
+        "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/11/"
+      ],
+      "related_canonical_source_ids": [
+        "SRC-0067"
+      ],
+      "capture_path": "03-report/research-notes/r03/cases/sg-closure-post-implementation.html",
+      "capture_sha256": "018b140ffdcb8fafb846bf7c8f432657f04bdb3246668b2dee4c8562fb9f93bc",
+      "accessed_on": "2026-10-29",
+      "reuse_status": "Private verification; final-use wording and reproduction rights pending"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "records": [
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/root/qa/british-library-page-2.png",
+      "sha256": "2941c7f5802be254010ea7dac1a0e53d542b2f80b632963f57578d0277e531c1",
+      "visually_inspected_by": "root",
+      "result": "Relevant pages legible; headings and statements checked against extraction."
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/root/qa/british-library-page-9.png",
+      "sha256": "e47120cd4c871eb07bcedd1323977839074a084a68d739fb69c4d7f4ca84231d",
+      "visually_inspected_by": "root",
+      "result": "Relevant pages legible; headings and statements checked against extraction."
+    }
+  ]
+}

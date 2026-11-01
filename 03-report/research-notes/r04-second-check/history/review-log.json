@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-29",
+  "queries": [
+    "site.gov.uk 2026 spending controls reforms delegated authority assurance approval controls",
+    "site.nao.org.uk shared service centres 2016 responsibility departmental ownership governance"
+  ],
+  "original_body_inspected": [
+    {
+      "candidate_id": "H4-S01",
+      "method": "web original paragraphs4,6,16; no PDF accessed"
+    },
+    {
+      "candidate_id": "H4-S02",
+      "method": "web original sections1–3,9.2 and glossary, raw HTML retained"
+    },
+    {
+      "candidate_id": "H4-S03",
+      "method": "web original Action/Context, raw HTML retained"
+    }
+  ],
+  "screened_not_added": [
+    {
+      "url": "https://www.nao.org.uk/reports/shared-service-centres/",
+      "reason": "Original parliamentary chapter provides the narrow framework/call-off distinction needed; no extra report needed for this claim"
+    },
+    {
+      "url": "https://www.gov.uk/guidance/spend-controls-framework",
+      "reason": "Discovery supports regime change but selected current originals sufficiently discriminate; not another independent study"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/reforming-the-spending-control-and-accountability-framework/office-for-value-for-money-reforming-the-spending-control-and-accountability-framework",
+      "reason": "Policy predecessor discovered; no quantitative reform outcome or performance forecast adopted"
+    }
+  ],
+  "design_changes": [
+    "Effective mandate/regime and known change at the actual event",
+    "Organisational/contractual layer and escalation trigger"
+  ],
+  "original_practitioner_contributions": 0,
+  "economic_or_prevalence_metrics_adopted": 0,
+  "external_actions": [],
+  "shared_or_client_edits": [],
+  "limits": [
+    "No proof new public arrangements were implemented everywhere",
+    "No universal private-employer centralisation/decentralisation trend",
+    "No R05 value model or R06 outcome explanation",
+    "Existing twelve optional functions and fourteen-question core unchanged by this strand"
+  ]
+}

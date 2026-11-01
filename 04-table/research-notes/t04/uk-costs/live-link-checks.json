@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "parent_source_candidate_id": "T4E-S01",
+      "link_label": "group sharing menus",
+      "target_url": "https://thehawksmoor.com/wp-content/uploads/2026/09/MCR_SHARING-MENUS-PACKAGES_140826AK.pdf",
+      "found_in_retained_original": true,
+      "live_web_rechecked_on": "2026-10-31"
+    },
+    {
+      "parent_source_candidate_id": "T4E-S03",
+      "link_label": "VIEW THE BROCHURE / Events Guide & Menus",
+      "target_url": "https://benaresrestaurant.com/wp-content/uploads/2026/09/Benares-Events-Guide-2026-WEB-3-SEP-Onwards.pdf",
+      "found_in_retained_original": true,
+      "live_web_rechecked_on": "2026-10-31"
+    }
+  ],
+  "three_room_pages_live_rechecked": true,
+  "live_reader_note": "Corrigancapacityheadingomittedbywebreader;retainedoriginalHTMLhas24BOARDROOM|40RECEPTION. Noformsopened/submitted."
+}

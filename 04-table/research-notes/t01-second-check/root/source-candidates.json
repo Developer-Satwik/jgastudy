@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1R2-S01",
+      "title": "Chatham House Rule",
+      "publisher": "Chatham House",
+      "url": "https://www.chathamhouse.org/about-us/chatham-house-rule",
+      "source_type": "rule_originator_public_explanation_and_faq",
+      "review_status": "relevant_primary_web_reader_sections_inspected",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "primary_reader_extract_only",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/root/captures/T1R2-S01-selected-reader.md",
+          "sha256": "15d1a0190e6569376c7952ae936d75b0af5a1077a17ff2c7c032c75bab40f54a",
+          "kind": "selected_reader_extract"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "locator": "Opened primary page lines396\u2013463, Rule and meeting-mode FAQs",
+      "limitations": "Raw request403; retained selected paraphrase is not an original export. Current opened FAQ used rather than different cached snippet. Interpretation applies if JGA chooses this named Rule, not all interviews or a legal confidentiality guarantee. No meeting rules, consent or tools are approved by this review."
+    },
+    {
+      "candidate_id": "T1R2-S02",
+      "title": "Acceptance of gifts, benefits and hospitality",
+      "publisher": "Planning Inspectorate",
+      "url": "https://www.gov.uk/government/publications/acceptance-of-gifts-benefits-and-hospitality/acceptance-of-gifts-benefits-and-hospitality",
+      "http_status": 200,
+      "capture_path": "04-table/research-notes/t01-second-check/root/captures/T1R2-S02.html",
+      "capture_sha256": "8083790b1cf0ef49f4a55d95538df02aed754e63efc0bef4c4cccd953a95d289",
+      "parsed_extract_path": "04-table/research-notes/t01-second-check/root/captures/T1R2-S02.txt",
+      "parsed_extract_sha256": "1f81e130efe2a19ea356cbac03a55655af9d851fda259ae93d68bd551d518086",
+      "capture_kind": "retained_original_html",
+      "source_type": "employer_specific_public_hospitality_policy",
+      "review_status": "selected_original_policy_sections_inspected",
+      "updated_date": "2024-11-06",
+      "locator": "Sections13,14,18; employer scope in section1",
+      "limitations": "Planning Inspectorate staff policy in England, not all employers or a prohibition on premium hospitality. Use only as a concrete counterexample to assuming a free seat needs no employer approval. Do not adopt thresholds, legal interpretations or sanctions for JGA. Actual attendee employer rules remain unknown."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0227",
+      "locator": "Enterprise research-use access and distinct provider licensed asset pages",
+      "use": "Interpret exchange/use-rights unit, alongside original Table design premise that practitioner research is free.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0228",
+      "locator": "Enterprise research-use access and distinct provider licensed asset pages",
+      "use": "Interpret exchange/use-rights unit, alongside original Table design premise that practitioner research is free.",
+      "new_independent_dataset": false
+    }
+  ]
+}

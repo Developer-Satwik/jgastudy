@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_or_source_id": "R5DEL-S01",
+      "url": "https://learn.microsoft.com/en-gb/dynamics365/guidance/implementation-guide/prepare-go-live-checklist",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:19.982448+00:00",
+      "http_status": 200,
+      "final_url": "https://learn.microsoft.com/en-gb/dynamics365/guidance/implementation-guide/prepare-go-live-checklist",
+      "content_type": "text/html",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.html",
+      "capture_sha256": "9d31cb9c1e2b73380063967db02a9dccdb6b39f9a194658389bdfc6dd242bdb8",
+      "capture_kind": "retained_original_html",
+      "bytes": 66309,
+      "text_path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.txt",
+      "text_sha256": "bf5abcc73140001863f3f580b0aad39de1daadb72345a0f6038edd7a0dfaebb2"
+    },
+    {
+      "candidate_or_source_id": "R5DEL-S02",
+      "url": "https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:19.982808+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works",
+      "content_type": "text/html; charset=utf-8",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.html",
+      "capture_sha256": "4d8a429ad79c435a1a8a6c4f0bdaa3a06bd6c9dcd92d4ae0f4e53ca74bbda4f8",
+      "capture_kind": "retained_original_html",
+      "bytes": 79178,
+      "text_path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.txt",
+      "text_sha256": "dae4e164fb6f20d0d2470af48a110ac428e3046eeeb36ca6c306e2706c659778"
+    },
+    {
+      "candidate_or_source_id": "SRC-0075",
+      "url": "https://www.gov.uk/government/publications/8-april-2026-synergy-programme-summary-business-case/8-april-2026-synergy-programme-summary-business-case",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:19.982896+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/8-april-2026-synergy-programme-summary-business-case/8-april-2026-synergy-programme-summary-business-case",
+      "content_type": "text/html; charset=utf-8",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/SRC-0075.html",
+      "capture_sha256": "6fc07b7c779faadfeaedce2de0eeec233e181b558885488794ba95fbd3cc6c1f",
+      "capture_kind": "retained_original_html",
+      "bytes": 176184,
+      "text_path": "03-report/research-notes/r05/delivery/captures/SRC-0075.txt",
+      "text_sha256": "e7a9630e8ea0de829213d5b38ba45eac30349301da4fb06a1372457eba699de9"
+    },
+    {
+      "candidate_or_source_id": "SRC-0076",
+      "url": "https://www.nao.org.uk/wp-content/uploads/2026/03/update-on-government-shared-services.pdf",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:19.982960+00:00",
+      "http_status": 200,
+      "final_url": "https://www.nao.org.uk/wp-content/uploads/2026/03/update-on-government-shared-services.pdf",
+      "content_type": "application/pdf",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/SRC-0076.pdf",
+      "capture_sha256": "1eb78842927f9ca9e1c7c24e281a1c30fac9e510b6d12f6fc70d6532c3199ea8",
+      "capture_kind": "retained_original_pdf",
+      "bytes": 423078
+    },
+    {
+      "candidate_or_source_id": "SRC-0134",
+      "capture_path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "capture_sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "capture_kind": "reused_retained_original_pdf",
+      "accessed_on": "2026-10-29"
+    },
+    {
+      "candidate_or_source_id": "SRC-0135",
+      "capture_path": "03-report/research-notes/r03/cases/parliament-accounts-2024-25.pdf",
+      "capture_sha256": "777ffd7fada746264986c6bb431c7355487867f0f601677c9d00ae6fd524a511",
+      "capture_kind": "reused_retained_original_pdf",
+      "accessed_on": "2026-10-29"
+    }
+  ]
+}

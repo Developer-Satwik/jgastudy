@@ -1,0 +1,200 @@
+# Contradictions and evidence gaps
+
+Updated after R01, 28 October 2026. Internal controls. An affected figure is not cleared merely because it appears in a source.
+
+| Issue | Evidence records | Handling |
+| --- | --- | --- |
+| CIPP edition labels and undisclosed report-specific bases | SRC-0010, SRC-0020–0024; CLM-0030 | Use original edition identification. Do not borrow the separate annual-survey sample. Numerical use needs base/method review. |
+| Moorepay switching direction differs in prose and graph | CLM-0051 | Hold the figure. Graph inspection establishes the conflict, not the underlying questionnaire/base. |
+| Moorepay funding-barrier values differ | CLM-0052 | No claim that money is insignificant. Version/base unresolved; qualify or omit. |
+| Finity delay wording varies | CLM-0084 | Do not conflate all payroll/reconciliation/reporting delays with worker-payment delay or UK prevalence. |
+| HR.com customisability prose and chart disagree | CLM-0126 | Hold the figure rather than choose a convenient version. |
+| Non-agreement is not observed payroll error incidence | CLM-0059 | Preserve actual response wording and neutral/unmeasured categories. |
+| Buying logic and investment themes already researched | CLM-0087, CLM-0120, CLM-0122, CLM-0128 | Do not claim a vacant topic. Test a narrower concrete-case contribution. |
+| Positive outcomes coexist with friction | CLM-0053, CLM-0056, CLM-0058, CLM-0123, CLM-0129 | Include success and sensible renewal; avoid universal-failure framing. |
+| Different source populations | SRC-0020–0022, SRC-0033, SRC-0040, SRC-0043, SRC-0060, SRC-0064, SRC-0065 | Contextual comparison, no pooled percentages or unjustified UK senior-payroll prevalence. |
+| Bright and KPMG/UKG full reports not inspected | SRC-0041, SRC-0066 | Public coverage statements only; no unseen findings or method. |
+| ADP readable through web tool, local download blocked | SRC-0064 | Preserve actual inspection state; no invented local file/hash. |
+| Commercial value and audience not yet validated | DEC-002 and pending Table work | Focus remains proposed; no completed buyer interviews or price conclusions. |
+
+Resolve gaps through targeted checks, qualified wording or an explicit remaining limitation. Preserve original evidence and adverse findings.
+
+## Additional R02 numerical holds
+
+- Deloitte support-query and technical-support presentations: CLM-0167 and CLM-0168. Displayed query counts/footnoted base and combined/subgroup figures do not reconcile transparently. Preserve the source; do not renormalise, infer a missing category or use disputed numbers in a headline. Qualitative scope distinctions remain useful.
+- Public employer advances and overpayments: principal, recoverable balances and an unused internal charging policy are not an administrative cost or loss benchmark.
+- Service response/SLA targets, survey KPI adoption and employee agreement remain distinct from achieved resolution, incident rates and audited outcomes.
+
+## R02 second-challenge interpretation controls
+
+- Historical RTI review versus selected 2025 cases: recurring mechanisms, no comparable incidence series or deterioration conclusion. CLM-0184–0188.
+- Payroll supplier and recruitment firm declarations: inspectable scope, not actual demand, shortages, availability, achieved service or relative quality. CLM-0189–0202.
+- Software/payroll add-ons, transaction charges, managed-service fees and retained effort: unlike price units; no total-cost ranking from live pages.
+- Earlier 352-answer AI study: discovery bridge only; exact hashes and selected counts checked. Seven incomplete source records remain six partial and one pending. No conversion to employer observations or market share.
+- British Library incident account: wider staff/user information harm and payroll continuity are distinct; payroll-data exposure or causal cloud advantage not established. CLM-0205.
+- Middlemore live body differs from indexed/earlier text. Current retained original supports current scope only; no inferred date or capability trend.
+
+## R03 interpretation and freshness controls
+
+- CLM-0218: dated Cintra pages differ on in-house calculation/status visibility. Hold universal UI behaviour; processing/payment separation is supported separately. No defect/resolution inference.
+- CLM-0209–0210: async/import documentation includes beta access. Technical state definitions are not general availability or successful outcomes.
+- Staffology retained body dates differ from cached web-reader headers. Retained live body controls metadata; no capability-change trend.
+- CLM-0232–0234: supplier availability, development direction and expert/early-adopter savings wording are distinct from verified adoption or demonstrated payroll savings. No numerical benchmark adopted.
+- CLM-0223–0228: two public employers, different implementations and evidence classes. Scottish Government retrospective events, management's publication-time assessment and future plans remain separate. No October2026 status or payroll-only ROI inferred.
+- Public-sector sourcing/AI guidance is a transferable design lens, not a private-employer procurement or legal mandate. Historical service tiers are not current package rights.
+
+## R03 second-challenge controls
+
+- Historical expectations and release/update guidance: do not become observed adoption, fulfilled forecasts, maintenance cost or a universal payroll cadence. CLM-0235–0239.
+- Self-service scope is not measured net saving or burden. Track work and outcomes across the actual stakeholders. CLM-0240/0243.
+- Multicountry product/worker/service roles and partner coordination are not equivalent under one global brand; no employment-model recommendation or all-country guarantee. CLM-0241–0243.
+- Recruitment, project/SOW delivery and ongoing operation declarations are not a signed payroll contract or achieved result. P08 now permits enduring leadership without presumed hiring demand. CLM-0244–0248.
+- Constructed prior S04/S05/S09 scenarios remain analyst contrasts; unaided participant priorities come first. No ranking/demand inference. Independent bridge check preserves twelve prompt texts, ninety-six saved answers and global source limits.
+- Oakleaf TCT live redirect: cached body excluded from current claims; redirected homepage retained only as access evidence. No capability-disappearance inference.
+- Export/backup is not proof of recoverable service; technical dependence can bring useful managed capability. No recovery target, provider certification or payroll switching-cost estimate. CLM-0249–0252.
+
+## R04 authority and pathway controls
+
+- Title, meeting attendance, familiarity, evaluation involvement and practical dependency do not independently establish decision rights. CLM-0253–0266.
+- G2 evaluation perceptions, HR.com selection criteria and KPMG/UKG leadership recommendations are not an authority-prevalence dataset. CLM-0263/0267/0268.
+- Purplebricks CFO agreement on change is not final funding/contract approval; the CIPP case's later CEO resourcing is not original selection authority. Attributed cases remain distinct from new JGA contributors. CLM-0264–0266.
+- Scottish recommendation, conditional backing, formal go-live and functional migration signoff retain separate dates/scopes. Positive governance assessment retained; no benefit inference. CLM-0269–0273.
+- Rotherham continuity award uses the stated delegation; decision body says 2024 but signature line says 2023. Do not silently repair it, infer reviewer vetoes or equate award with execution. CLM-0274.
+- Argyll minutes/report concern one employer and decision; additional-budget approval is not actual spend or successful remediation. Final go-live approver is unestablished. CLM-0275–0276.
+- GovS definitions and listed-company guidance retain their populations. Advice/assurance and accountable organisational ownership do not establish a universal payroll veto; ICO page is under review. CLM-0253–0262/0277.
+- Procurement notice labels require the applicable regime/date and actual wording; do not apply current Act sequence to older/differently governed or ordinary private cases. CLM-0278.
+- GovS 002 and Purplebricks retain parsed reader extracts rather than raw originals. Three new council source bodies were inspected but local raw captures remain unavailable. No missing file/hash is fabricated.
+- Twelve functions are an analytical vocabulary, not twelve required posts or extra mandatory questions. Original observation arrays remain empty. No validated approval funnel or authority score.
+
+## R04 second-challenge controls
+
+- Historical framework/customer powers and April 2026 reforms demonstrate the need to identify effective remit and scope, not a measured private-market shift or better outcome. CLM-0279–0282.
+- Payfit selected involvement and software-admin rights do not establish headcount, sole authority or a complete buying chain. HMRC retained PAYE responsibility does not name the internal signatory. CLM-0283–0284/0286.
+- Chazey's Herbalife diagnosis concerns reported practical implementation calls, not proven formal delegation, misconduct or independently verified causation. No universal provider behaviour. CLM-0285/0287.
+- Frazer's CPO-tasked case and Oakleaf's prospective services brief do not establish funding/signature or actual appointment powers. Temporary/succession/handback conditions are analyst checks. CLM-0288–0289.
+- Hays time approval is for its defined operational object; it is not automatically deliverable acceptance or investment authority. Other service declarations are not a signed client scope. CLM-0290–0291.
+- Constructed S01/S05/S10 prompts, including specified CFO/permanent-leader premises, cannot validate market hierarchy, demand or a staffing solution. Twelve exact prompts and 96 saved answers remain internal analyst contrasts;243 independent provenance/link/text checks passed. No reruns or recommendation counts reused.
+- Relevant terms-change/monitoring conditions must be established for the actual proposal. No universal consultation route, employee veto or processing-consent inference. ICO page is under review. CLM-0292–0294.
+- Datasite's unrecovered rollout passage and redirected Portfolio job advert are not promoted as original-body evidence. Failed raw captures and selected reader extracts remain labelled; no fabricated originals/hashes.
+- Five conditions are optional analysis, not additional mandatory interview questions, a new respondent cohort or extra required posts. First-pass artifacts and original-client/core files remain preserved.
+
+## R05 business-case controls
+
+- Resource/TCO, future incremental cash and funding profiles stay separate. Realistic BAU may evolve; comparison baseline is not automatically a feasible recommendation. No social/public rate, classroom hurdle or client tax treatment imported. CLM-0295–0302.
+- Cash release, capacity and cost avoidance need different evidence. Valued time is not automatic budget reduction, overlapping claims are not additive and unknown cost is not zero. No invented fine probability or reputational amount. CLM-0298–0302.
+- Supplier price declarations are not quotes, whole-life cost or market averages. Empty BrightPay zero is not free service; conflicting billing-period descriptions require actual plan confirmation. Moorepay credit is not assumed cash reimbursement and promotional saving is not accepted. CLM-0303–0308.
+- Payfit pricing redirect/inaccessible managed-route material is not scope or price evidence. AQA worked-example arithmetic is excluded; definitions only. No numerical rates, prices or savings adopted.
+- Plans, available training, executed results, accepted exceptions, usable live service and benefits are different. No compulsory parallel-run duration, pay-error threshold, full project team or automatic hire. CLM-0309–0318.
+- NAO did not replicate/assure business-case figures; March2026 audit is not a later assessment of April-published Synergy summary. Scottish positives and practical limitations retain audited dates/scopes; SPCB underlying test work uninspected. CLM-0312–0317.
+- Early measurement supports later assessment; monitoring alone does not isolate attribution. NIST context/limits/update notice retained; no AI certification, financial saving or forced experiment. CLM-0319–0322.
+- Nine optional domains do not add required questions or a validated score. Original observation, chart and financial-input arrays remain empty; The Table workbook is a separate later package.
+
+## R05 second challenge controls
+
+- Record dated case/version, actual payroll component/wider decision, changed inputs and next reconsideration. Historical public audits are not a repeated employer cohort or payroll-market trend; no historical totals adopted. CLM-0323–0327, CLM-0340.
+- Whole-case value differs from party funding: distinguish cost/work/risk bearer, benefit recipient/timing and actual allocation/shortfall authority. Do not invent conflict or transfers. CLM-0324, CLM-0326, CLM-0328.
+- Licence/payroll/employee/payslip/payment units, retained work, actual contract version and commitment/use/handback timing are case-specific. Ordinary wage principal is not automatically additional transformation cost; changed funding timing can matter. No numerical tariff/funding model. CLM-0329–0336, CLM-0341.
+- Retained Payfit 27 October 2026 label versus reader older version is unresolved chronology/applicability, not evidence of policy change. Declared AI controls not tested UI; Cintra hold unchanged. Modulr bundle quantity conflicts excluded from arithmetic. BrightPay/Moorepay earlier holds preserved.
+- Usable skill/time/cover/displaced work are different from annual hours or salary allocations. No educational numbers/formula or compulsory hire. CLM-0342–0343.
+- Hays live 2026/2025 inputs and RobertHalf live 2027 projected starting salaries retain separate methods/populations. No salary, loading factor, current availability or realised benefit inferred. Portfolio/Frazer reader notes are not retained raw originals. CLM-0337–0341.
+- Four selected C prompts explicitly ask for evidence/verification and embed specified leadership/transition/temporary-cover assumptions.32 saved texts and exact linkage do not establish buyer demand/evidence priorities, cost, authority or supplier performance. No recommendation counts or generated tax rules transferred.
+- Nine first-pass domains, three views, fourteen core questions and blank financial/observation arrays are unchanged. Five optional conditions add no required questions, fieldwork or final-use approval.
+
+## R06 outcome and response controls
+
+- Actual product/service/route/organisational scope differs from a binary supplier label. Retained platform and changed route can coexist; public approval/websiteImplemented is not operational implementation. Warwickshire call-in labels differ; Sandwell visible renewal is not contract entry; Cumberland product/provider unknown. CLM-0344–0348.
+- WestSussex postponed rollout and later scoped self-service are one programme, not investment-decision deferral or independently assured full payroll/benefit. OEP management reports transition/processing with refinement, not approval rationale or a zero-error audit. CLM-0349–0350,CLM-0364.
+- NICS2001 component cancellation is historical context outside24month practitioner window; other components' benefits cannot be payroll benefit. Termination/equipment dependency is reported by summary; full report/contract uninspected. CLM-0351–0352.
+- NZ GETS cancelled record is an advance notice expressly not commencing procurement. Cancellation date/reason/underlying upgrade outcome remain unknown. CLM-0353–0354.
+- CIPP satisfaction/change/tender/exploration, Moorepay differently routed ease/non-switch reasons, Azets prospective E2/attitudinal L1/conditional L2 and SDWorx current/preferred models remain separate. Moorepay CLM-0051/0052 quarantines and older holds remain. No outcome or conversion rate. CLM-0355–0361.
+- Azets original methodpage32 supplies commissioned researcher, country sample counts, employer profile and four separate commentary interviews. Recruitment/weights/item-valid counts/routing and country-specific item results unestablished. Method corrected before merge; no pooled-to-UK generalisation or survey percentage adopted.
+- GDS reasoned stop is source-scoped guidance, not proof every abandonment was appropriate. HMRC payroll-ID guidance gives a specific transition mechanism, not an actual employer reason, quantified risk or compulsory delay. CLM-0362–0363.
+- Possible response, adopted action and observed effect are different. Unknown/not applicable/not measured/refusal are not automatic pending, failure or zero. Nine optional rows preserve14core and existing routes. No original fieldwork, causal remedy, price/forecast or final-use approval. CLM-0365–0366.
+- Current private-employer explicit declines/withdrawals and actual remedy effects remain evidence gaps for permissioned practitioner cases; no confidential complete budget/contract required.
+
+## R06 second challenge controls
+
+- LFB2021/2025 material concerns one continuing programme. Actual feasible alternatives and employer-stated persistent data conditions differ by event; no option optimality, private-employer rule, universal parallel-run count or supplier-fix guarantee. CLM-0367–0370.
+- Last evidenced state is not ultimate outcome. Passed forecast dates do not establish current success, continued delay or abandonment; later results remain unestablished in reviewed evidence. CLM-0371.
+- BrightPay same-supplier/new-product routes, IRIS processing versus read-only/export/security-monitoring declaration, Sage applicable expiry/access and Payfit retention/agency tasks remain specific declarations. No promoted replacement mandate, permanent safe archive, exact notice rule, tested UI/export or successful migration inferred. CLM-0372–0378.
+- Portfolio declared offer/acceptance/contract/start/aftercare and Robert Half finance handover advice are not actual payroll staffing outcomes. Other comparator/JGA propositions remain possible responses; Frazer Jones reuse is prior-original plus fresh indexed text, not fresh full live original. CLM-0379–0382.
+- Three saved prompt premises assume replacement/provider change/interim cover.24 texts and exact linkage cannot establish demand, rejection reasons, availability, six-month standard, tax status or handover success. No recommendation counts/reruns.
+- GDS government retirement guidance and West Sussex current/historic access declaration motivate a selective affected-user/task check. No actual harm, archive availability, universal access or legal retention/redirect timing rule. Screened Cambridge page excluded from claims. CLM-0383–0385.
+- Review is scoped peer challenge of other strands/integration plus root competitor/source and250 exact bridge checks. Peer author did not independently validate own competitor inputs; no fully independent integrated audit claimed. Additional reviewer tool attempts hit agent-thread limit.
+- Five optional unscored conditions preserve first-pass nine rows/six employer contexts/notice/template and14core. No observations, financial inputs, numerical estimate, causal remedy or external action. Original cases/client/final-use gates remain open.
+
+## R07 priority and contextual-comparison controls
+
+- Azets B1 composite status and E1 manages-or-invests framing do not establish a separately approved/funded project. SD Worx separate AI agreement marginals do not form a respondent pipeline; urgent HR/payroll/publisher-advice frames are not one ranking. CLM-0386–0389.
+- Moorepay feature desire is not a purchase, willingness to pay or switching need. Branding/customisation prose13 versus original chart12 is held in CLM-0392; no feature percentage is used. Earlier Moorepay/Deloitte/UI holds remain. CLM-0390–0393.
+- CIPP personal training status and employer support differ; neither alone establishes paid resources, completed learning or usable capability. Priority, authority, funding/resources, delivery and assessed result are separate, potentially concurrent facts. No mandatory ladder, score, budget document or extra core question. CLM-0391, CLM-0393, CLM-0408.
+- Working-pattern, jurisdiction and tool/task boundaries plus one employer timing account support conditional mechanisms, not funded group rankings. Six optional context dimensions do not classify workers, supply tax advice or justify an SME/sector/country stereotype. CLM-0394–0398.
+- HMRC BiK manual remains draft/interim future scope; specified phases/benefits, exclusions and dependencies matter. November2026 services/April2027 tools availability are future declarations as of29October, not observed launches or product tests. Recheck applicable current detail before final use. CLM-0399–0401.
+- HMRC/Acas SSP guidance describes effective6April2026 changes with remaining eligibility/transitional conditions. Guidance instructions are not actual employer compliance, resources or benefit. Empty HTTP202 legislation and blocked Powys retrieval are excluded, not legal originals or budget case evidence. CLM-0402–0403.
+- Synergy is one reused combined-function published programme: reported approval/contract/funding responsibilities differ from prospective gaps/benefits. No amount, spend assurance, payroll-only cost or new employer case. CLM-0404.
+- Distinguish actual case contrast, source-supported mechanism, later hypothesis and unestablished group difference; these are not ordinal evidence scores. Achieved/missing coverage, alternative explanations and contrary cases remain visible. No participant observation, subgroup estimate, national priority ranking or forecast exists. CLM-0405–0409.
+- R07 passed an independent integrated desktop review. The reviewer’s chart-asset provenance correction is applied; retained publisher chart is not labelled as our PDF render. Fourteen questions, eight client files and54 prior/core/client hashes remain unchanged. Final practitioner integration, proposed cohort confirmation and final-use review are open; nothing sent.
+
+## R07 second challenge controls
+
+- CIPP2020 expectations versus2024 current use/pressure are different task/population/measure frames, not a matched investment trend. No figures or causal progress gap. CLM-0410–0411.
+- Existing LFB2025 combined programme declares phase2 HR-module dependency/BAU sequence; no new employer, later outcome, lower importance or absent funding inferred. Continuing/re-scoped/re-timed priority and actual next milestone need case knowledge, not forecast-date extrapolation. CLM-0412–0413.
+- FreeAgent advertised inclusion, account/access/setup and useful operation differ. Moneysoft update prompts and June2026 future BiK promise are supplier declarations, not tested shipment/readiness or legal-currentness. BrightPay own-employer/bureau scopes do not prove client priorities. No prices or savings. CLM-0414–0418.
+- Portfolio indexed skills advice retains Canadian author context and raw403. Frazer named written interview summary is a secondary account; audio uninspected, raw403. Oakleaf blended-remit commentary has no inspected prevalence method. These do not establish UK funded priorities or tested interventions. CLM-0419–0421.
+- Hays salary inputs and employer/employee survey, and RobertHalf projected starting salaries and non-salary survey, remain different frames. Middlemore/JGA propositions are not a compulsory hire, availability, resource commitment or payroll benefit. No figures/ranking. CLM-0422–0424.
+- Four constructed prompts select USdomesticdirector, UKreplacement, USparent/UKEMEAremit and UKsmall-teamgrowthhire.32savedtexts/327root exact checks preserve original capture-status limits; no counts/reruns or generatedadvice transferred as buyer evidence. Team size differs from employer size; HQ/workbase/remit differ. CLM-0424.
+- GovS002 and GovS005 are normative public-management context, not observed private payroll or universal cadence. Relative priority/dependencies/ongoing work and affected-user knowledge are selective aids, not a full portfolio/stakeholder census. GovS002 reader note is not raw original. CLM-0425–0428.
+- Reader-extract metadata is separate from failed raw retrieval; the valid FreeAgent selected note is not an HTTP403payload. New reader-only routes remain without raw capture fields. Existing Moorepay/Deloitte/UI holds unchanged, including CLM-0392.
+- Independent integrated second-challenge review and root327 saved-data linkage checks passed. Five unscored optional conditions preserve first-pass six priority/context dimensions, four comparison purposes, templates,14core and8client files. No observations, estimates, Table inputs, modelreruns or external action. Final practitioner/client/final-use gates remain open.
+
+## R08 preparatory synthesis controls
+
+- Six views organise existing source-scoped distinctions; no new source/claim/finding or validated recipe is created. Need/current basis, feasible responses, action rights, evidence/resources, actual states and next action can be partial and nonsequential.
+- No owner/date/approval/action is required to make a partial brief. Unknown/not measured/not applicable/not disclosed remain distinct; no silence-to-pending or forced purchase. Existing14Q version0.2 and client files unchanged.
+- Evidence requested, supplied, accepted if known, perceived influence/basis and independently established effect are distinct. Temporal sequence or an attributed explanation is not causal proof. No causal experiment or confidential business-case documentation is required.
+- The report map preserves two parts/eight chapters/conclusion from the unapproved client draft. Chapter3CLM-0392 is a conflict/hold guardrail, excluded from positive support. All six heldclaims remain excluded from positive framework claims.
+- Ten root-applied constructed walkthroughs/133checks demonstrate analytical handling of supplied premises only, not actual employer cases, user testing, predictive performance, commercial demand or remedies. Original design remains unexecuted against a final framework; root applications are against the preparatorydraft.
+- Independent review corrected the structured acceptance/perceived-influence conflation and confirmed actual part labels/guardrail classification.76prior/core/client/register/findings hashes remain preserved; actual observations/charts/Table inputs stay empty.
+- Original permissioned/coded practitioner evidence, client population/outline/timing, collection arrangements, factual/currentness/rights/confidentiality and final package production remain open. TheTable buyer/member/pricing/economics stay separate from public report; finalWP15 not marked complete. Nothing sent.
+
+## R08 second challenge controls
+
+- Existing LFB/Scottish accounts concern distinct event-time knowledge, release conditions and later appraisal, not matched risks, hindsight-optimality, current outcomes or common approval thresholds. CLM-0429–0432.
+- Cintra operational/report/payment actions recur by period and differ from investment/change decisions. Current displayed update does not reconcile cross-article visibility/payment wording; CLM-0218hold remains. No UI/run/payment/account test. Scoped HMRCprovider guidance not full legal/contractual assurance. CLM-0433–0436.
+- Portfolio/Middlemore firmprocess/recruitmentanalytics, Haysengagementscope, Frazerhostedcase, Oakleafplacement/capability and JGAproposition are not currentcandidatefit/start/engagement/result. Hays/RobertHalfmethodframes not actualemployerbudget/evidenceacceptance. CLM-0437–0441.
+- S01-C/S02-D/S06-C/S11-C preselect hires and ask for verification.32savedtexts/327rootchecks retain originalcapturelimits. FourChatGPTr1texts semanticallyread,28integrityonly. Model-addedLondon/selectionweights not casefacts, legalrequirements or validatedscores; no count/reruntransfer.
+- QQEsupports purpose-fitprovenance, evaluativebasis, divergentaccounts and traceableinterpretation, not certification. Acceptance is not verification/corroboration or causality. Repeatedpages/models not independentvotes; lackofcorroborationnotautomaticfalse. Preserve object/time/criterion differences and unresolved alternatives. CLM-0442–0445.
+- Frameworkv0.2logs2textrefinements while preserving6views/selectivefields/blankcanvas/14Q/outline. Fiveoptionalconditions/blankqualificationnote add no interview/doc/score/recontact burden. Tenoldconstructedroutesreappliedplus5new/197checks; not actualfieldwork, uservalidation or decisioneffect.
+- Independent integrated second-challenge review,85preservationhashes,8firstpasssnapshots and exactcanonicalraw snapshots passed. Earlierclaims/76findings unchanged; only permitted source-review metadata extends. No newroute/dataset, numericestimate, Tableinput, externalaction or finalWP15completion. Client/practitioner/final-use gates open.
+
+## WP03 collection preparation controls
+
+- Working agreementsection12already assignsJGAcontroller/Riseklixprocessor foron-behalfprocessing, ownbusinessrecordsseparate, materialrolechangesdocumented; return/delete30days/backups90days withtrigger/exceptions. Actual notice/instructions/tools/access/requiredtransferroute are separate pending decisions; executedcopyunretrieved.
+- Five focused operatingguidance HTMLpages are recorded inWP03data source-review/capturemanifest, not newpayrollmarketdatasets/findings. ICO23Oct2026consentupdate noted; roleguideunderreview and privacyinformationpagelegacyEUtransferrow not copied ascurrentUKmechanism; MRSlandingonlynotfullPDF.
+- Voluntaryparticipation/notes versus recording, exactquotes, person/employeridentification, councilrecognition, limitedclarification, futurecontact/reuse andTableinterest are distinct; blankisnotyes. Namingpermission doesnotpreventindirectidentification or authorise employer naming.
+- OnePpersonreference acrossmodes/streams; actualeligibleusablepermittedreportinput counts once; no recentcaseorall14answerthresholdrequired. Up4substantiveTableevents count events, notroles; combined/repeatedsessions explicit. Publicationitemclearance andquestionspecificbases separate.
+- Blanktemplates are forapprovedrestrictedstorage only, notpersonaldata entry inthisworkspace. Pseudonymisation/UKhosting/toolavailability are notautomaticanonymisation or approval. No rightswithdrawalcutoff/incentive/duration/recallpromise invented.
+- Root8constructedcountapplications+3releasecases passed199checks; originaldesignsremainunexecuted asdesignrecords. Independent integrated preparationreview and111preservationhashes passed; actualrecords/counters0. Notfieldwork/usertesting/legalcertification or activatedcollection.
+- Fivegroupedrelease decisions remainopen. Core14Q/clientfiles/sourceclaimfindingregisters unchanged; finalWP15/practitionerinputs andTablevalidation remainopen. Nothing sent/collected/uploaded.
+
+
+## T01 comparable-model boundaries, 29 October 2026
+
+- Six selected business mechanisms, not the earlier six recruitment firms, a competitor league table or exhaustive market census. Direct payroll and adjacent HR/L&D audiences are distinguished.
+- HR.com's dated Custom Research help page and separate 2025 sponsor-branded payroll output do not establish the exact sponsor contract. ISG 2025 software comparisons do not validate a small council benchmark.
+- The Payroll Centre Corporate list price is GBP 1,122 per organisation/year with VAT excluded unless stated otherwise; support/training differs from a research licence. No JGA price input is inferred. CIPP current tariff remains unconfirmed; its tier footnotes explicitly date validity to 14 June 2026.
+- Conference Board Center research membership and vetted annual-fee individual Council seats are distinct; website submissions and confidential Council meetings have different terms. No automatic research/publication right follows.
+- CPO free quarterly editorial subscription is distinct from forum access/fee; provider-side leaders appear, so employer-only/vendor-free status is not assumed. General platform rules are not confidential interview terms.
+- iVentiv L&D London 17–18 November 2026 is forthcoming in this review. Advertised contacts/meetings are explicit commercial-access inventory, not default research-partner rights. Research/access may be a separately defined combination. Conflicting generic invoice intervals cannot supply cash timing.
+- Public offered architecture is not proved commercial viability. 52 new bounded records do not add demand/retention/outcome estimates or original participant findings. T02 hypotheses, actual T03 input, final rights and T04/T05 cash/resource model remain open. No external action occurred.
+
+
+## T01 second challenge, 30 October 2026
+
+- Preserve the research promised free to practitioner contributors. Equivalent beneficiary/use/access cannot be an automatic second paid sale. Any team/adviser/partner service or reuse entitlement must be genuinely additional and agreed, not a restriction invented to create revenue.
+- Public programme outputs, event cohorts, ongoing council membership, contract renewal, paid receipt and useful engagement are distinct. CPO chronology and TPC terms do not demonstrate same-member retention or recurring JGA revenue.
+- Nick's publicly documented moderator role is specific dated involvement. Broader PayrollOrg collaboration surfaced only in a shell/search lead and is not adopted as a formal/current partnership, endorsement, audience or rights.
+- All six recruitment comparators plus JGA already offer content, service/interpretation or convening in different forms. Treat their role in each exchange specifically; no automatic sponsor/paid-buyer list, uniqueness or attributed client conversion.
+- IPASS/GPA sharpen actual country/decision alternatives. A venue city, event interest, eligible professional and permitted hospitality are separate from a usable research contribution. The employer-policy counterexample is not universal.
+- A named Chatham House Rule meeting follows its current definition/FAQ; recording/AI/in-room imagery are excluded under that mode. This is not an automatic rule for all separately agreed research interviews, an anonymity guarantee or publication licence. Optional recognition and actual attendance disclosure remain separate.
+- Six new routes and 25 bounded records append; first-pass six models/four hypotheses, 131 baseline files, earlier 407 claims/217 source base records/81 findings preserved. Three exact prompts/24 saved answers/126 lineage checks do not supply spontaneous demand or fact validation. Nine constructed cases/173 checks are analyst applications, not fieldwork. Actual T03, collection arrangements, final rights/currentness and T04/T05 costs/cash remain open. No external action.

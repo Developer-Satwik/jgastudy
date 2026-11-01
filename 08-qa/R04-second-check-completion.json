@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R04_second_challenge",
+  "supersedes_for_current_synthesis": "08-qa/R04-completion-check.json",
+  "new_source_routes": 9,
+  "new_claim_or_guardrail_records": 16,
+  "source_records": 141,
+  "claim_records": 204,
+  "source_records_with_retained_original": 82,
+  "internal_findings": 43,
+  "optional_functions": 12,
+  "selective_conditions": 5,
+  "prior_bridge_checks_passed": 243,
+  "capture_files_hash_checked": 44,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    }
+  ],
+  "prior_topic_artifacts": [
+    {
+      "check": "R02-second-check-completion.json",
+      "all_artifacts_unchanged": true
+    },
+    {
+      "check": "R03-second-check-completion.json",
+      "all_artifacts_unchanged": true
+    }
+  ],
+  "first_pass_R04_snapshots": [
+    {
+      "original_path": "03-report/R04-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/01-R04-DESKTOP-READOUT.md.txt",
+      "sha256": "099a1626703b54ba9f0cd978e0225c549b5797cb7893597c310cc86f1683470c"
+    },
+    {
+      "original_path": "03-report/R04-DECISION-PATHWAY.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/02-R04-DECISION-PATHWAY.md.txt",
+      "sha256": "cdbb593591d7b8001117cc4be79ae8c9572a1f1695ff0b2d064ed51a9e03b828"
+    },
+    {
+      "original_path": "03-report/R04-decision-map.json",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/03-R04-decision-map.json.txt",
+      "sha256": "bc20567fd0c66ff95af7369d4715152da733bb874b9330d3155b98794dece653"
+    },
+    {
+      "original_path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/04-R04-decision-authority-and-pathways.md.txt",
+      "sha256": "8cbb5061fb8906a705bec8c9192c58f6a1c94a7008004c58b927020a909f4006"
+    },
+    {
+      "original_path": "08-qa/R04-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/05-R04-independent-review.md.txt",
+      "sha256": "f13ebfbde2e6d58f6b46dbe5f8bb5e6c391a6976f14d5e65011f82f4f192d0f0"
+    },
+    {
+      "original_path": "08-qa/R04-record-map.json",
+      "snapshot_path": "03-report/research-notes/r04-second-check/before-review/06-R04-record-map.json.txt",
+      "sha256": "25cdce753e1f64330727d04cf8f3cebf15753ff2cce762abba4a16eda8afe497"
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "product_or_API_tests": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R04-SECOND-CHECK-READOUT.md",
+      "sha256": "6c08a21ff403c62c41601519d62ebdcb2bf48fcc520398220f5fcf355119d7b3"
+    },
+    {
+      "path": "03-report/R04-DESKTOP-READOUT.md",
+      "sha256": "ac9e0a6a3946b8023b30be04fcce823f2134eaef24cf45aec923af2cf8a1a972"
+    },
+    {
+      "path": "03-report/R04-DECISION-PATHWAY.md",
+      "sha256": "fc02f630e3353ebacfc49b352c09f03725400ff28087e4a6246cd73a96e58fd5"
+    },
+    {
+      "path": "03-report/R04-decision-map.json",
+      "sha256": "fb2b21afcd725c26b97995fd7f9577536decc1c4169061820411a8eefc43d483"
+    },
+    {
+      "path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "sha256": "535166df272b4c95dbd9110c728f3c5e697404ac4550e926b261224330dd2fa3"
+    },
+    {
+      "path": "08-qa/R04-second-check-record-map.json",
+      "sha256": "cb7d5163870fbf3370d8ab4824f1d845dc2f61e7e957a2b4f1b98d726b21781c"
+    },
+    {
+      "path": "08-qa/R04-second-check-independent-review.md",
+      "sha256": "6e37652e2f377e6789eda88be0c20f177e44225fc08c64052cf94eeeb4d813ed"
+    },
+    {
+      "path": "08-qa/R04-prior-study-bridge-check.json",
+      "sha256": "acd73cf1c9d745919c61e91decd2f4f4dd4cca0c26af184feb0733f57ecd5c56"
+    }
+  ],
+  "next": "R05 business-case evidence, funding and implementation risks. No external sending.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 852,
+    "json_files": 173,
+    "source_records": 141,
+    "claim_records": 204,
+    "question_records": 14,
+    "internal_design_findings": 43,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 103,
+    "scope": "R01–R04 record linkage and captures; synthesis references, R03 options and R04 analytical authority/pathway boundaries; WP02 draft question mapping and project consistency. No final publication, participant testing, commercial validation, product trial or human fieldwork implied."
+  }
+}

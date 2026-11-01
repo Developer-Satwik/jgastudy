@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R4ROOT-S01",
+      "title": "Data protection officers",
+      "publisher": "Information Commissioner\u2019s Office",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/data-protection-officers/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/data-protection-officers/",
+      "capture_path": "03-report/research-notes/r04/root/R4ROOT-S01.html",
+      "capture_sha256": "d110c40ed44cabef92bd491e93c8928ff769dfee18853e685c54e87b3a634d94",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "R4ROOT-S02",
+      "title": "Guidance: Contract Award Notices and Standstill (HTML)",
+      "publisher": "Cabinet Office",
+      "url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "capture_path": "03-report/research-notes/r04/root/R4ROOT-S02.html",
+      "capture_sha256": "6024c667fb6697d3d31d5c8603916051a0142c9db1fd3d6601fd9621480e0dd5",
+      "capture_status": "retained_original_html"
+    }
+  ]
+}

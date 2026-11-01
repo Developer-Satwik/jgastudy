@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "status": "desktop_comparison_reviewed_for_internal_use",
+  "scope": "Six selected distinct public business mechanisms, not exhaustive market research or a competitor league table.",
+  "models": [
+    {
+      "model_id": "T01-M01",
+      "mechanism": "Sponsored research",
+      "selected_offer": "HR.com Custom Research and the separate Future of Payroll 2025 sponsored output",
+      "comparability": "Adjacent HR research offer with a payroll output; not evidence of a UK senior-payroll council.",
+      "buyer_or_funder": "An organisation commissioning custom research; sponsor recognition is visible in the payroll example, but cash terms are unknown.",
+      "commercial_unit_and_currentness": "Custom survey and branded report. Current package details remain unconfirmed: the accessible help article dates to 2021 and the linked main offer was blocked.",
+      "participant_or_member_value": "Public research is free with account sign-in; commercial commissioning is a separate exchange.",
+      "jga_design_lesson": "Specify the decision question, audience, outputs and funding. Sponsor recognition does not confer editorial control, raw answers or participant contacts.",
+      "critical_transfer_limit": "No published fee or verified sales, margin or renewal economics.",
+      "public_price": {
+        "amount": null,
+        "currency": null,
+        "unit": "custom survey / branded-report package",
+        "status": "Not published in reviewed accessible material; no quote requested."
+      },
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0224",
+        "SRC-0225",
+        "SRC-0226"
+      ],
+      "claim_ids": [
+        "CLM-0446",
+        "CLM-0447",
+        "CLM-0448",
+        "CLM-0449",
+        "CLM-0450",
+        "CLM-0451"
+      ],
+      "review_note": "04-table/research-notes/t01/research-products/MODEL-SPONSORED-RESEARCH.md",
+      "raw_model_candidate_path": "04-table/research-notes/t01/research-products/model-candidates.json",
+      "raw_model_candidate_id": "RP-M01",
+      "evidence_basis": "Publisher offer/terms and specific published-output context; researcher lessons are conditional.",
+      "actual_demand_validated": false,
+      "adopted_jga_model": false,
+      "jga_price_input": false
+    },
+    {
+      "model_id": "T01-M02",
+      "mechanism": "Licensed analyst intelligence",
+      "selected_offer": "ISG Buyers Guide access and provider report/graphic licences",
+      "comparability": "Payroll-specific software-category research; distinct from payroll-service investment cases or a practitioner survey.",
+      "buyer_or_funder": "Enterprise/service-provider research subscribers; separately, software providers licensing marketing assets.",
+      "commercial_unit_and_currentness": "Annual research access with analyst inquiry; separately scoped provider report/graphic licence packages. The reviewed payroll guide is the 2025 edition.",
+      "participant_or_member_value": "Buyers receive structured decision support; evaluated supplier participation is a separate no-charge process.",
+      "jga_design_lesson": "Separate internal reading/briefing rights from external commercial reuse. Do not copy analyst ratings into a small invited qualitative study.",
+      "critical_transfer_limit": "Public fee, seats, licence duration/channels and achieved sales remain unknown.",
+      "public_price": {
+        "amount": null,
+        "currency": null,
+        "unit": "annual research subscription or provider-specific licensed package, separately",
+        "status": "Not published in reviewed service pages; no quote requested."
+      },
+      "source_ids": [
+        "SRC-0227",
+        "SRC-0228",
+        "SRC-0229"
+      ],
+      "claim_ids": [
+        "CLM-0452",
+        "CLM-0453",
+        "CLM-0454",
+        "CLM-0455",
+        "CLM-0456",
+        "CLM-0457",
+        "CLM-0458",
+        "CLM-0459"
+      ],
+      "review_note": "04-table/research-notes/t01/research-products/MODEL-LICENSED-ANALYST-INTELLIGENCE.md",
+      "raw_model_candidate_path": "04-table/research-notes/t01/research-products/model-candidates.json",
+      "raw_model_candidate_id": "RP-M02",
+      "evidence_basis": "Publisher offer/terms and specific published-output context; researcher lessons are conditional.",
+      "actual_demand_validated": false,
+      "adopted_jga_model": false,
+      "jga_price_input": false
+    },
+    {
+      "model_id": "T01-M03",
+      "mechanism": "Payroll support membership",
+      "selected_offer": "The Payroll Centre Corporate Payroll Membership",
+      "comparability": "Direct payroll audience but operational technical support across a team, not senior-only research licensing.",
+      "buyer_or_funder": "An organisation buying continuing support for its payroll/HR/finance users. Actual budget-holder behaviour untested.",
+      "commercial_unit_and_currentness": "Annual organisation-level support subscription. Public Corporate list price observed 29 October: GBP 1,122/year; terms exclude VAT unless otherwise stated. This is not a quote or JGA price input.",
+      "participant_or_member_value": "Ongoing guidance, resources and learning across the team. Exact per-tier feature inclusions require plan confirmation.",
+      "jga_design_lesson": "Continuing value requires continuing delivery and servicing capacity. Research access is different from a staffed payroll helpdesk, which JGA is not assumed to provide.",
+      "critical_transfer_limit": "No achieved retention/outcomes adopted; member access does not include resale or third-party republication rights.",
+      "public_price": {
+        "value": 1122,
+        "currency": "GBP",
+        "period": "year",
+        "unit": "organisation / named Corporate plan",
+        "vat": "exclusive unless otherwise stated in business terms clause 3.1.3",
+        "status": "public list price observed 2026-10-29; not a quote",
+        "source_candidates": [
+          "T1MC-S10",
+          "T1MC-S11"
+        ],
+        "jga_forecast_input": false
+      },
+      "source_ids": [
+        "SRC-0231",
+        "SRC-0232",
+        "SRC-0238",
+        "SRC-0239"
+      ],
+      "claim_ids": [
+        "CLM-0460",
+        "CLM-0461",
+        "CLM-0462",
+        "CLM-0463",
+        "CLM-0464",
+        "CLM-0465",
+        "CLM-0466",
+        "CLM-0467",
+        "CLM-0468",
+        "CLM-0469"
+      ],
+      "review_note": "04-table/research-notes/t01/membership-community/MODEL-03-payroll-decision-support.md",
+      "raw_model_candidate_path": "04-table/research-notes/t01/membership-community/model-candidates.json",
+      "raw_model_candidate_id": "T01-M03",
+      "evidence_basis": "Publisher offer/terms and specific published-output context; researcher lessons are conditional.",
+      "actual_demand_validated": false,
+      "adopted_jga_model": false,
+      "jga_price_input": false
+    },
+    {
+      "model_id": "T01-M04",
+      "mechanism": "Research and practitioner community",
+      "selected_offer": "The Conference Board Human Capital Center Europe, with a separate Council layer",
+      "comparability": "Adjacent CHRO/EMEA research and expert support; global role-specific councils are a separate architecture, not a verified payroll package.",
+      "buyer_or_funder": "Membership customers for research/team support; separately vetted individuals with annually priced Council seats. Exact amounts are not published in reviewed routes.",
+      "commercial_unit_and_currentness": "Research/expert/programme access and a distinct invitation-only peer seat. Do not assume Center access includes a Council seat.",
+      "participant_or_member_value": "Research interpretation and a continuing peer/expert programme. Council agendas are member-led and described as vendor-free and confidential.",
+      "jga_design_lesson": "Keep research membership, peer admission, topic input and publication rights separate. A meeting rule does not itself authorise research publication.",
+      "critical_transfer_limit": "Website submissions rules are not confidential Council terms; private agreements and specific research permissions were not inspected.",
+      "public_price": {
+        "value": null,
+        "currency": null,
+        "period": null,
+        "unit": "Center membership terms unknown; Council seat annual fee, amount undisclosed",
+        "vat": "not published in inspected pages",
+        "status": "request/negotiation required; no enquiry made",
+        "source_candidates": [
+          "T1MC-S05",
+          "T1MC-S06"
+        ],
+        "jga_forecast_input": false
+      },
+      "source_ids": [
+        "SRC-0233",
+        "SRC-0234",
+        "SRC-0235",
+        "SRC-0236"
+      ],
+      "claim_ids": [
+        "CLM-0470",
+        "CLM-0471",
+        "CLM-0472",
+        "CLM-0473",
+        "CLM-0474",
+        "CLM-0475",
+        "CLM-0476"
+      ],
+      "review_note": "04-table/research-notes/t01/membership-community/MODEL-04-practitioner-research-community.md",
+      "raw_model_candidate_path": "04-table/research-notes/t01/membership-community/model-candidates.json",
+      "raw_model_candidate_id": "T01-M04",
+      "evidence_basis": "Publisher offer/terms and specific published-output context; researcher lessons are conditional.",
+      "actual_demand_validated": false,
+      "adopted_jga_model": false,
+      "jga_price_input": false
+    },
+    {
+      "model_id": "T01-M05",
+      "mechanism": "Senior payroll peer forum",
+      "selected_offer": "PayrollOrg CPO Forum and distinct CPO editorial subscription",
+      "comparability": "Direct senior-payroll topic overlap, but provider-side leaders also appear; not established as employer-only or vendor-free.",
+      "buyer_or_funder": "Forum fee, funding and membership dependency are not publicly established. The quarterly editorial email subscription is separately free.",
+      "commercial_unit_and_currentness": "Invite-only online senior-payroll discussion, launched in October 2025 and publicly reviewed in January 2026. Free publication does not establish free forum admission.",
+      "participant_or_member_value": "Peer exchange and payroll leadership content without travel. Private invitation conditions remain unknown.",
+      "jga_design_lesson": "Define member fit and between-event usefulness. A remote forum is a credible format alternative; the Table dinner needs its own incremental benefit.",
+      "critical_transfer_limit": "General community posting rules discourage confidential posting and provide broad reuse rights; they are not a template for confidential research.",
+      "public_price": {
+        "forum_fee": null,
+        "forum_unit": "not publicly established",
+        "editorial_subscription_price": 0,
+        "currency": null,
+        "subscription_unit": "quarterly email publication",
+        "vat_status": "not stated; no paid price used"
+      },
+      "source_ids": [
+        "SRC-0240",
+        "SRC-0241",
+        "SRC-0242",
+        "SRC-0243",
+        "SRC-0249"
+      ],
+      "claim_ids": [
+        "CLM-0477",
+        "CLM-0478",
+        "CLM-0479",
+        "CLM-0480",
+        "CLM-0481",
+        "CLM-0482",
+        "CLM-0492"
+      ],
+      "review_note": "04-table/research-notes/t01/forums-events/MODEL-05-SENIOR-PAYROLL-FORUM.md",
+      "raw_model_candidate_path": "04-table/research-notes/t01/forums-events/model-candidates.json",
+      "raw_model_candidate_id": "MODEL-05",
+      "evidence_basis": "Publisher offer/terms and specific published-output context; researcher lessons are conditional.",
+      "actual_demand_validated": false,
+      "adopted_jga_model": false,
+      "jga_price_input": false
+    },
+    {
+      "model_id": "T01-M06",
+      "mechanism": "Sponsor-funded executive events",
+      "selected_offer": "iVentiv Learning Futures London Executive Knowledge Exchange",
+      "comparability": "Adjacent L&D business-model analogy. Announced for 17–18 November 2026; not observed payroll attendance or a delivered event in this review.",
+      "buyer_or_funder": "Sponsors support free approved corporate executive places. Live packages sell explicit commercial access/visibility.",
+      "commercial_unit_and_currentness": "Approved delegate place excluding travel/accommodation; separate Business Development/Plenary sponsor packages. Public sponsor price unknown.",
+      "participant_or_member_value": "Facilitated discussion, breakouts and peer exchange; public sponsor inventory includes meetings and delegate contacts.",
+      "jga_design_lesson": "Specify whether funding buys research, commercial access or a separately defined combination. Identities, answers and meetings are not included by default.",
+      "critical_transfer_limit": "No delivered meetings, attendance, profitability or JGA demand verified. Conflicting generic invoice intervals are not a financial timing input.",
+      "public_price": {
+        "qualified_delegate_price": 0,
+        "currency": null,
+        "delegate_unit": "approved event place; excludes travel/accommodation",
+        "sponsor_price": null,
+        "sponsor_unit": "Business Development / Plenary package per event; annual tier requires 8+ in-person events",
+        "vat_status": "No public sponsor amount or VAT basis established"
+      },
+      "source_ids": [
+        "SRC-0244",
+        "SRC-0245",
+        "SRC-0246",
+        "SRC-0247",
+        "SRC-0248"
+      ],
+      "claim_ids": [
+        "CLM-0483",
+        "CLM-0484",
+        "CLM-0485",
+        "CLM-0486",
+        "CLM-0487",
+        "CLM-0488",
+        "CLM-0489",
+        "CLM-0490",
+        "CLM-0491",
+        "CLM-0493"
+      ],
+      "review_note": "04-table/research-notes/t01/forums-events/MODEL-06-SPONSOR-FUNDED-EXECUTIVE-EVENT.md",
+      "raw_model_candidate_path": "04-table/research-notes/t01/forums-events/model-candidates.json",
+      "raw_model_candidate_id": "MODEL-06",
+      "evidence_basis": "Publisher offer/terms and specific published-output context; researcher lessons are conditional.",
+      "actual_demand_validated": false,
+      "adopted_jga_model": false,
+      "jga_price_input": false
+    }
+  ],
+  "model_count": 6,
+  "ranking": false,
+  "commercial_validation": false,
+  "participant_observations": [],
+  "actual_Table_conversations": [],
+  "financial_inputs": [],
+  "new_mandatory_questions": 0,
+  "original_fourteen_questions_unchanged": true,
+  "free_alternatives_source_ids": [
+    "SRC-0010",
+    "SRC-0013"
+  ],
+  "root_claim_ids": [
+    "CLM-0494",
+    "CLM-0495",
+    "CLM-0496",
+    "CLM-0497"
+  ],
+  "conditions": [
+    "Current offer declarations are not observed purchases or renewals.",
+    "Annual availability is not contracted recurring revenue.",
+    "Research access, reuse licence, peer admission and commercial introductions are separate.",
+    "Public prices have unlike units and are not JGA financial inputs.",
+    "T03 original buyer/member contributions and T04/T05 economics remain pending."
+  ],
+  "review_basis": "08-qa/T01-independent-review.md and t01-review/integration-checks.json; original fieldwork, commercial validation and final-use review remain pending."
+}

@@ -1,0 +1,559 @@
+1: The Government Efficiency Framework - GOV.UK
+2: Cookies on GOV.UK
+3: We use some essential cookies to make this website work.
+4: We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+5: We also use cookies set by other sites to help us deliver content from their services.
+6: You have accepted additional cookies. You can change your cookie settings at any time.
+7: You have rejected additional cookies. You can change your cookie settings at any time.
+8: Accept additional cookies
+9: Reject additional cookies
+10: View cookies
+11: Hide cookie message
+12: Skip to main content
+13: GOV.UK
+14: Navigation menu
+15: Menu
+16: Menu
+17: Services and information
+18: Benefits
+19: Births, death, marriages and care
+20: Business and self-employed
+21: Childcare and parenting
+22: Citizenship and living in the UK
+23: Crime, justice and the law
+24: Disabled people
+25: Driving and transport
+26: Education and learning
+27: Employing people
+28: Environment and countryside
+29: Housing and local services
+30: Money and tax
+31: Passports, travel and living abroad
+32: Visas and immigration
+33: Working, jobs and pensions
+34: Government activity
+35: Departments
+36: Departments, agencies and public bodies
+37: News
+38: News stories, speeches, letters and notices
+39: Guidance and regulation
+40: Detailed guidance, regulations and rules
+41: Research and statistics
+42: Reports, analysis and official statistics
+43: Policy papers and consultations
+44: Consultations and strategy
+45: Transparency
+46: Data, Freedom of Information releases and corporate reports
+47: Search GOV.UK
+48: ×
+49: Search GOV.UK
+50: Search
+51: Search GOV.UK
+52: Search
+53: Home
+54: Government
+55: Government efficiency, transparency and accountability
+56: The Government Efficiency Framework
+57: GovernmentFinanceFunction
+58: HM Treasury
+59: Guidance
+60: The Government Efficiency Framework
+61: Updated 24 November 2025
+62: Contents
+63: Foreword
+64: 1. Driving Efficiency in Government
+65: 2. Defining Efficiency
+66: 3. The drivers of efficiency
+67: 4. Tracking efficiency
+68: 5. Data and Reporting
+69: 6. Benefits realisation, risk, and governance
+70: 7. Further guidance and information
+71: Annex A: Examples of efficiency and non-efficiency savings within functional areas
+72: Annex B: Types of efficiency savings & measures not classified as an efficiency saving
+73: Annex C: Non-monetisable benefits
+74: Print this page
+75: © Crown copyright 2025
+76: This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+77: Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+78: This publication is available at https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2
+79: Foreword
+80: Driving efficiency is a vital responsibility for public servants; ongoing improvement and innovation ensure we maximise the value of taxpayers’ money and deliver the best possible outcomes for the public. We endorse this updated Framework to be used as a guiding set of principles for all public sector organisations on how they progress and track efficiencies.
+81: The 2025 Spending Review provided a renewed focus on efficiency, with departments set to deliver almost £14bn of efficiency gains by 2028-29. The Government Efficiency Framework supports departments in delivering their efficiency plans – setting out how we should define, measure and deliver efficiencies. By using the Government Efficiency Framework, we can standardise reporting; track progress using high-quality data; and foster public trust through greater transparency. This revised framework is based on your feedback, clarifies definitions and provides worked examples to support you in the important role of driving efficiencies across our public services.
+82: The Government Efficiency Framework invites us to work together and build a system that supports genuine long-term improvement. Getting this right means we will be better placed to serve the public and steward the nation’s finances.
+83: Conrad Smewing, Director General of Public Spending, HM Treasury
+84: Tara Smith, Chief Operating Officer, Department for Business and Trade
+85: Joint-Heads of the Government Finance Function
+86: 1. Driving Efficiency in Government
+87: The government is committed to working more efficiently and in doing so, reducing the running costs of government and our public services.
+88: Day to day, departments are making decisions to live within their departmental expenditure limits (DEL) totals - and should seek to drive continuous improvement and improve the productivity with which government services are delivered, while maximising opportunities to drive efficiency.
+89: The Government Efficiency Framework is a standard approach and framework for tracking, monitoring, and oversight of efficiency savings. It provides the definitions and reporting standards for efficiency savings, best practice guidance for reporting processes, and guidance on how departments should be reporting efficiency savings to HM Treasury. Effective, standardised reporting ensures that we understand what is being done well and where improvements can be made.
+90: Departmental priorities differ, but the same fundamental principles for reporting and governance underpin the delivery of efficiencies, supported by the effective use of data and tools. This guidance also consolidates current best practice across departments to give senior leaders a blueprint for how to implement, improve, or enhance their efficiency reporting processes.
+91: 1.1 How we use this document
+92: This guidance sets out efficiency definitions and reporting standards - which departments, agencies, non-departmental public bodies and arm’s length bodies are expected to adopt across their efficiency reporting. It also sets out recommendations for best practice data gathering.
+93: The intention is that this framework establishes a centralised, consistent, and enduring process for departments to categorise, track and report on their efficiency savings.
+94: This guidance will be refreshed on a regular basis.
+95: 1.2 Who is this for
+96: The definitions and framework apply to all bodies classified by the ONS to central government. This means all central government departments and their agencies, most non-departmental public bodies and arm’s length bodies (ALBs). The sector classification of bodies assessed by the ONS is published in their Sector Classification Guide publication; HM Treasury also publishes a guidance note on sector classification.
+97: We all have a responsibility for delivering services as efficiently as possible for the taxpayer - this guidance is for all public servants. It is expected to be adopted by accounting officers, finance directors, chief operating officers, budget holders, senior responsible owners, and finance/project teams - those involved with the monitoring, delivery, appraisal, and evaluation of efficiency savings in government.
+98: 2. Defining Efficiency
+99: Definition: Efficiency
+100: In simple terms, efficiency means being able to spend less to achieve the same or greater outputs, or to achieve higher outputs, while spending the same amount. Efficiency does not include decisions to reduce costs with the intention of achieving less.
+101: Definition: Productivity
+102: Productivity, at a high level, measures how many units of output are produced from one unit of input. Any measure where productivity increases and output remains the same or increases is a means of achieving greater efficiency. Sometimes productivity can increase while outputs decrease. This type of productivity would not constitute an efficiency gain – to be classified as an efficiency, outputs or outcomes must stay the same or increase.
+103: Figure 2.A Efficiency and Productivity
+104: As this framework is primarily a financial tool, its focus is on productivity and efficiency when they can be measured in financial terms. Please refer to section 4.1 for further guidance.
+105: This diagram sets out the interaction between efficiency and productivity and what happens to the relationship between inputs and outputs (or outcomes) for different types of savings.
+106: There are two different types of efficiency as set out below.
+107: Definition: Technical Efficiency
+108: For example, if a department operates a call centre, and has a target of processing 5000 customer queries per day but can do this with half the number of staff (because it has automated the logging of customer queries, triaging them to the correct team)
+109: Government can achieve efficiency gains by carrying out activities with fewer resources (such as people and buildings); or to a higher standard without additional resources - this is a ‘technical’ efficiency. Technical efficiency refers to achieving a given output for the lowest level of input.
+110: Definition: Allocative Efficiency
+111: For example, if a departmental priority outcome is to eradicate a disease, it may move from treatment (dealing with the disease at the point that patients have it) to preventative support (for example, early intervention with vaccines at reduced cost). The outcomes are the same, but the allocation of resources shifts to a more efficient approach.
+112: Efficiency gains can also be realised by allocating - or reallocating - resources on those activities with the best ratio of costs to the benefits achieved. Where this can be calculated, this is an ‘allocative’ efficiency. Allocative efficiency refers to maximising outcomes by allocating resources in a wholly different way.
+113: Figure 2.B. Delivering efficiencies through the public spending system
+114: This diagram sets out how different (technical and allocative) efficiencies can be realised at different stages from the policy creation through to the delivery process, such as:
+115: Using resources in the best way (technical efficiency);
+116: Putting money where it has most impact (allocative efficiency);
+117: Minimising costs (economy); and ensuring intended outcomes are achieved (effectiveness);
+118: Together, these levers drive value for money.
+119: 3. The drivers of efficiency
+120: There are five broad drivers of efficiency based on evidence from departments’ Efficiency Delivery Plans at the recent Spending Review (SR). It is likely that budget holders (and so departments) will base many of their efficiency plans around these types of activity. The drivers are set out below, with examples of how these could materialise within different areas of government.
+121: 3.1 Markets and competition
+122: In some situations, departments can leverage markets and competition to control their input costs. For example, where there is high quality data about common categories of cost and associated quality measures in genuinely comparable peer groups, unit cost benchmarking can provide valuable insights to help manage costs.
+123: Other areas to consider are:
+124: New entry competition/market creation
+125: Intelligent outsourcing
+126: Strengthened incentives
+127: Cost benchmarking
+128: 3.2 Organisation and workforce
+129: Departments can create efficiencies through carefully considering their organisational design. Examples may include options such as co-locating responsibility for both policy and operational teams together to avoid complex policy implementation challenges. Departments might also concentrate on workforce capability, such as cross-training staff who deal with formal correspondence to handle written, verbal and online enquiries, improved managerial quality, or building an agile workforce.
+130: Other areas to consider are:
+131: Sharing services
+132: Pay systems
+133: Sharing best practice
+134: Capability and leadership
+135: Organisational structure
+136: 3.3 Service re-design and alternative delivery mechanisms
+137: Departments can use improvements in cloud technology and shared services to encourage greater self-service for HR and finance processes. Many departments are currently planning significant back-office transformation as part of the Shared Services Strategy for Government
+138: Departments can lean into this programme to identify processes that can be shared between multiple departments in their cluster, leading to greater efficiency. This could include reducing effort in case management through automation, reducing the reliance on highly customised, high-cost IT systems (and so lower associated supporting contracts/costs), or making journey improvements to reduce failure demand.
+139: Other areas to consider are:
+140: Prevention/early detection
+141: Front-line service integration
+142: Reconfiguring services
+143: Lean process improvements
+144: Digital process redesign
+145: Case management and integration
+146: Customer-service centric design
+147: Invoicing users in service design
+148: 3.4 Technology efficiencies
+149: The use of AI, digital, data, and technology can reduce costs at an organisational, departmental and cross-government level. It can also drive wider transformation of services for the public.
+150: Initiatives to reduce cost include: reusing technology solutions (taking a ‘buy one, use many’ approach); sourcing commodity solutions to reduce operating costs; reducing reliance on legacy (higher cost) IT systems; substituting manual processing with digital solutions and automation; increasing the adoption of digital channels instead of higher cost offline channels, or making journey improvements to reduce failure demand.
+151: Other areas to consider are:
+152: Effective use of AI
+153: Effective use of IT
+154: Effective use of digital services
+155: Technological advances
+156: Effective use of data
+157: 3.5 Estates and condition
+158: Efficiencies can be delivered by maximising utilisation of a department’s property estate, where an organisation delivers the same level of outputs as previously - but does so at a lower property running cost. The organisation may have done several things to achieve this, such as having fewer properties and/or having more efficient properties.
+159: Other areas to consider are:
+160: Adopting sustainable construction methods
+161: Selection of materials to reduce future energy consumption
+162: Installation of renewable energy generation
+163: Using intelligent building management systems to reduce energy consumption,
+164: Refurbishing existing property-based consumables
+165: Table 3.A Efficiency drivers and common efficiencies within them
+166: The table below sets out the drivers, with some key examples for each.
+167: Markets & competition
+168: Workforce & organisation
+169: Service re-design & alternative delivery
+170: Technology & digital transformation
+171: Estates & condition
+172: Procurement
+173: Pay
+174: Productivity
+175: Replacing legacy IT
+176: Leases
+177: Contract efficiencies
+178: Headcount
+179: Grants and transfers
+180: Digitising
+181: Space optimisation
+182: Goods & services
+183: Capability building
+184: Major projects
+185: ICT transformation
+186: Utilities
+187: Suppliers
+188: Professional services
+189: Communications
+190: AI
+191: Property
+192: Private finance initiative
+193: Admin
+194: Front line
+195: Automation
+196: Equipment
+197: Fraud prevention
+198: Organisation reform
+199: Project delivery
+200: ICT
+201: Maintenance
+202: Cost recovery
+203: Employee exit schemes to aid reform
+204: ALB efficiencies
+205: Cloud
+206: Sustainability
+207: Contingent labour
+208: Shared services
+209: Rationalising estates
+210: Consultants
+211: Please refer to Annex A for examples of efficiency savings and non-efficiency savings within functional areas.
+212: 4. Tracking efficiency
+213: This section sets out the categories of efficiencies used in the Framework and the principles and criteria for efficiency savings. When considering efficiency opportunities within programmes or business areas, both technical and allocative efficiencies can be measured in line with the approach to carrying out cost-effectiveness analysis and cost­ benefit analysis set out in the Green Book.
+214: 4.1 Efficiency categories
+215: All efficiencies are a form of benefit as defined in the Green Book. If efficiency opportunities are monetisable (defined in financial terms) realised efficiency gains can be categorised as either cash releasing or non-cash releasing.
+216: Cash releasing means it could lead to a direct reduction in spending on an activity, project, programme, or policy; non-cash releasing means there is a benefit (which could be either monetisable or non-monetisable saving) but it does not lead to a direct reduction in spending.
+217: Efficiency categories
+218: Monetisable
+219: Non-monetisable
+220: Cash releasing efficiencies
+221: - i. Cash releasing efficiency savings
+222: Yes
+223: Non-cash releasing efficiencies
+224: - ii. Monetisable non-cash releasing efficiency savings
+225: Yes
+226: - iii. Quantifiable but non monetisable benefits
+227: Yes
+228: - iv. Qualitative unquantifiable benefits
+229: Yes
+230: 4.2 Examples and relevant sections of this framework
+231: Cash releasing efficiencies (section 4.4 and Annex B)
+232: Cash releasing efficiency savings. Example: A reduced estate footprint that will create capital receipts and reduced maintenance costs.
+233: An organisation may have several underused or unused buildings.
+234: Therefore, rationalising and consolidating its estate would reduce energy/occupancy costs.
+235: By doing this, it directly (and sustainably) reduces spending on its estate and overall budget.
+236: Non-cash releasing (section 4.5 and Annex B)
+237: Monetisable non-cash releasing benefits. Example: A new IT system that will save users’ time so they have more resource for other activities.
+238: Staff processing customer queries can save time with a new IT system, so they have more resource for other activities.
+239: The staff processes 100 customer queries per hour with 10 members of staff. The new IT system increases this to 150 queries per hour with the same level of staff.
+240: There is a monetisable benefit as the budget has not been reduced to maintain 100 queries per hour - so spending is not directly impacted.
+241: Non-monetisable benefits (Not covered by this framework – find more information in Annex C)
+242: Quantifiable but non-monetisable benefits. Example: An agency making road improvements aims to improve access for commercial uses and reduce traffic.
+243: If an agency is making improvements to the roads in a town, and can do this quicker than initially planned, the wider economic benefits are monetisable.
+244: The benefits do not directly impact a government department’s spending and so are not monetisable to the department.
+245: Qualitative unquantifiable benefits. Example: Improving public services for customers.
+246: If a department improves the efficiency of a service offered to the public and so reduces the time it takes for a member of the public to resolve a query.
+247: There are qualitative benefits, such as public satisfaction with the service.
+248: These qualitative benefits are not quantifiable but contribute to the wider public value of the efficiency measure.
+249: 4.3 Monetisable efficiency benefits
+250: While all quantifiable benefits could be monetisable in some way, this guidance is focused on budgetary impacts and financial reporting. In this case, the distinction between cash releasing savings and monetisable non­-cash releasing benefits is one of choice - there will have been a choice on whether budgets should be reduced to maintain a level of output or accept higher outputs for the same level of spending (and in this scenario, it would directly release cash if the budget was reduced).
+251: As this framework aims to aid financial reporting, it focuses on the (i) cash releasing savings and (ii) monetisable non-cash releasing savings.
+252: Departments should also be reporting and evaluating the benefits delivered through (iii) quantifiable but non-monetisable benefits and (iv) qualitative unquantifiable benefits. These are not in scope of this framework but are set out with extensive guidance in the Green Book and Magenta book and will have different monitoring processes.
+253: 4.4 Criteria for cash releasing efficiency savings
+254: Cash releasing efficiency savings lead to a direct reduction in a department’s spending on an activity, project, programme, or policy, leaving surplus budgets that can be reprioritised, reinvested, or returned to the Exchequer.
+255: To report cash releasing efficiency savings, the following principles must apply:
+256: They should be calculated with quality data. The calculation is likely to be based on baseline cost information, a counterfactual spending profile (which may involve estimates and assumptions) and outturn spending data. This should happen within a financial year, so that the saving can be reported against the annual budget.
+257: They should release cash from a department’s budget, net of costs (see section 4.8) without causing unplanned or unintended consequential costs elsewhere in the department, other government departments, or local government. This is usually considered through business cases and impact assessments.
+258: There should not be an adverse impact on performance or outcomes. Savings must not adversely impact on the achievement of a department’s strategic priorities, as defined in a departmental delivery plan. Departments should be able to demonstrate that because of reforms, the department and sector is delivering better value for money overall.
+259: They should be sustainable (recurring) and should not be reallocating or deferring costs to future years. Sustainable efficiencies must exist in the year they are realised and remain in all subsequent years at equal or greater value. Cost reallocation or deferral takes place where there is a simple movement in cash across a year end which does not in fact relate to a total net reduction in waste or inefficiency when the two years are taken together. For example, where a project is delayed by six months and therefore, there is a cash positive impact on the current year at the cost of future years, this is not an efficiency saving.
+260: Cash releasing savings should be scored once against the year in which they are realised, net of any double counting between different organisations. Departments (or ALBs working with departments) should decide how to report these efficiencies, and where accountability sits.
+261: The nature and calculation of cash releasing savings should be readily understood, calculated with quality data, and likely to be seen as reliable, reasonable, and verifiable by an impartial third party. Efficiency savings must have been realised by the point at which they are reported as an achieved saving. Any saving should be readily defendable to the National Audit Office (NAO), GIAA, or independent auditors and well evidenced with documentation.
+262: The nature of the saving should be clear. For example, identifying savings that relate to procurement, or pay (which would also identify the Functional area). Functional efficiencies will likely also be reported; these are not additive and double counting must be avoided through clear reporting of data.
+263: Increasing income from fees or charges does not count as a saving or technical efficiency, as it does not lead to reduced spending.
+264: If a saving materialises because a programme is stopped or cancelled, this is not a cash releasing efficiency saving as the original baseline outcome has not been achieved. This would be considered a (non-efficiency) saving.
+265: If a department decides to stop or cancel a programme and spend the funding on another programme with the same outcome, but has improved outputs and outcomes, this would be an allocative efficiency. For example, moving spending from treatment to prevention would still achieve the outcome of reducing the prevalence of a specific health issue.
+266: If a department decides to reallocate or reprioritise funding to achieve a wholly different outcome or ministerial priority, or intends to reduce or achieve less than the original outcome, this is a reallocation and would not be considered an allocative efficiency. Through this process, a department may also realise non-efficiency savings.
+267: Please refer to Annex B for further details on types of cash releasing efficiencies and measures not classified as a cash releasing efficiency saving.
+268: 4.5 Criteria for monetisable non-cash releasing efficiency savings
+269: Monetisable, non-cash releasing efficiency savings are a form of monetisable, non-cash releasing benefits as set out in the Green Book. These are savings that will result in monetisable efficiencies for a department or organisation - but do not deliver direct spending reductions and so cannot not be directly reported against a department’s budget. For example, non-cash releasing efficiency savings could be because of increased productivity within a service with no reduction to service costs.
+270: The distinction is also one of reporting. Within a department, there will ultimately be a choice on whether budgets should be reduced to maintain a level of output or accept higher outputs for the same level of spending (noting that reducing spending on staffing has other associated costs).
+271: The principles underpinning accurate reporting of non-cash releasing savings are similar to those underpinning cash releasing efficiency savings:
+272: They should be calculated with quality data. Every non-cash releasing efficiency saving should be evidenced through a comprehensive methodology, which has appropriate assurance; this is discussed in chapter 5.
+273: They should be net of costs (see section 4.8), without causing unplanned or unintended consequential costs elsewhere in the department, other government departments, or local government. This is usually considered through business cases and impact assessments.
+274: There should not be an adverse impact on performance or outcomes. Savings must not adversely impact on the achievement of a department’s strategic priorities, as defined in a departmental delivery plan. Departments should be able to demonstrate that because of reforms, the department and sector is delivering better value for money overall.
+275: They should be sustainable (recurring) and should not be reallocating or deferring costs to future years. Sustainable efficiencies must exist in the year they are realised and remain in all subsequent years at equal or greater value.
+276: They should be scored once, net of any double counting between different organisations. Departments (or ALBs working with departments) should decide how to report these efficiencies, and where accountability sits.
+277: The nature and calculation of non-cash releasing efficiency savings should be readily understood, calculated with quality data, and likely to be seen as reasonable and comprehensive by an impartial third party. Efficiency savings must have been realised by the point at which they are reported as an achieved saving. Any saving should be readily defendable to the National Audit Office (NAO), GIAA, or independent auditors and well evidenced with documentation.
+278: The nature of the non-cash releasing efficiency saving should be clear, for example identifying if it relates to procurement, or pay (which would also identify the Functional area). Functional efficiencies will likely also be reported; these are not additive, and double counting must be avoided through clear reporting of data.
+279: Where the costs of delivering a fee or charge service have been reduced through a technical efficiency and the fees/charges have been reduced (in line with Chapter 6 of Managing Public Money), and this can be clearly evidenced, this can be included as a monetisable, non-cash releasing efficiency.
+280: Please refer to Annex B for further details on types of cash releasing efficiencies and measures not classified as a cash releasing efficiency saving.
+281: 4.6 Non-monetisable benefits
+282: Non-monetisable benefits are not in scope of this framework. The Green Book and the Magenta book set out extensive guidance on the monitoring processes required. An overview is set out in Annex C to ensure efficiencies are considered in a systematic way.
+283: 4.7 Efficiency calculations
+284: In line with the Green Book and Teal Book benefits guidance, benefits are calculated against the start of the appraisal process. This involves establishing a clear understanding of the current situation (the ‘baseline’ or ‘starting point’) against which future changes (the ‘benefits’) can be measured. For new efficiencies, either in cash or output terms, the starting point should be the year in which they begin. It should be clear how these calculations are made and supporting evidence should be available.
+285: 4.8 Costs of delivering efficiencies
+286: Delivering monetisable efficiency benefits may require upfront investment. This framework uses the following definitions for ‘gross’ and ‘net’ efficiencies:
+287: Gross efficiency: ongoing, sustainable reduction in running costs (or non-cash releasing equivalent) i.e. the difference in running the service now, versus what it used to cost.
+288: Costs to deliver: upfront investment and any additional costs to deliver the efficiency initiative.
+289: Net efficiency: gross efficiency less costs to deliver
+290: Considering these measures together provides a full and fair reflection of the overall impact of any efficiency activity.
+291: As technical efficiencies are made against existing processes, the costs to deliver the efficiency may not be the total costs of the programme, but rather the additional costs required to make the efficiency improvement. Some policy changes may not incur any direct costs, whilst new investment to make a business process improvement (e.g. specific equipment or temporary staff) would.
+292: Example: a department replaces an IT system, with the main purpose of saving money through reduced staff numbers. The efficiency is the reduction in staff costs, net of the investment cost to replace the IT system and the running costs of the new system. This is the amount of cash that can be sustainably released from, or redeployed in, a department’s budget.
+293: Where a programme has the primary objective of delivering efficiencies (invest-to-save) then its total costs should be reported.
+294: Example: a department replaces an old IT system, as the software has known security risks. In doing so, the department could purchase System X, which is a basic model (which addresses the security issue), or System Y which would address the security concerns, and enable the department to make efficiency savings.
+295: In this instance, the difference in investment costs between X and Y could be used to calculate the proportion of the investment cost that should be allocated to delivering the efficiency gain. As with all efficiencies, it should be clear how these calculations are made and supporting evidence should be available. The efficiency for System Y is the staff cost reduction, net of the any additional costs (i.e. the difference in investment costs to make efficiency savings) to increase efficiency, and the running cost.
+296: Where efficiencies arise from projects where efficiencies are a Secondary objective of an activity, the department should work to identify what proportion of the cost of the wider programme should be allocated to delivering the efficiency gain. In some cases, this may be none or negligible, but departments should be able to justify their position. It should be clear how these calculations are made and supporting evidence should be available.
+297: 4.9 Cross-government joint efficiencies
+298: Sometimes efficiencies may be inter-departmental. For example, one department (the “lead department”) delivers an IT improvement programme, or rolls out a shared services function, generating an efficiency in other departments (the “benefiting departments”). Joint business cases go through processes for approval, which are detailed in the Green Book, Treasury Approvals Process guidance and Managing Public Money.
+299: Cash releasing efficiencies may be recorded by both the lead departments (as the total benefit of the programme they are delivering, in addition to the amount of benefit that has occurred in their budget) and/or by the benefiting departments (as the amount of benefit that has occurred in their budgets).
+300: Where lead departments are reporting on efficiencies delivered on behalf of others, we would expect them to reforecast and check whether benefits are being realised in the same way that they do for efficiencies in their own budgets.
+301: 4.10 Long-term transformation programmes
+302: Programmes to drive efficiency may deliver net benefits straight away, or in the case of long-term transformation programmes, this may take some years.
+303: All longer-term plans for efficiencies should be set out in a business case and should be subject to investment approval processes. Costs and benefits should then be monitored through life against the business case.
+304: Please refer to HM Treasury reporting guidance for when the efficiency savings from these long-term programmes should be reported to HM Treasury.
+305: 5. Data and Reporting
+306: This section sets out the effective use of data to monitor efficiencies, and the appropriate tools to maximise monitoring effectiveness. It explains the minimum expectations, best practice, and steps to make sure better data standards are embedded across organisations.
+307: Departments will need to, at minimum, have central data monitoring processes in place to oversee the delivery and realisation of cash releasing and monetisable non-cash releasing efficiency savings as agreed with HM Treasury. Departments will then use this to complete their quarterly efficiencies reporting to HM Treasury, which will form the basis of what they publicly report in their Annual Reports and Accounts
+308: HM Treasury uses this information to understand the overall efficiencies being delivered across government, and it informs longer term planning. The data should therefore be accurate and timely to ensure that decisions are made with accurate information.
+309: Data is an asset. In this context, it enables effective decision making, to ensure that senior leaders and ministers understand the impacts and delivery of efficiency initiatives. This ultimately leads to improved service quality, greater efficiency, reduced costs of public services, and an improved ability to measure the impacts of policies and programmes.
+310: 5.1 Reporting efficiencies
+311: Accounting officers should ensure that there is an efficiencies reporting process embedded across all business areas in their organisation. This should be based on this framework and the reporting guidance that accompanies it.
+312: Efficiency opportunities may be identified through different channels - including central planning targets and so via senior decision makers, or within specific areas of a business at the budget holder (or SRO) level. It is possible that an identified efficiency opportunity has spread accountability across different business areas. This should not impact accountability, as roles and responsibilities should be agreed together and clear across the different business areas of a department.
+313: As each budget holder is accountable (through their delegated accountability) for the management of their own business area’s budget, they are also responsible for the financial data being reported to finance teams. Budget holders must understand the difference between efficiency savings and non-efficiency savings as set out in this framework to be able to report effectively. Where a budget holder is responsible for a delivery of efficiency savings, they should work with their finance business partner or finance team to report efficiency data. Finance teams will also be able to support budget holders with appropriate guidance, sharing best practice, and ensuring reporting systems are fit for purpose.
+314: The efficiency target for each business area (where relevant) should be clear and agreed between the budget holder and finance teams. There should be a clear understanding of the baseline and expectations on delivering outputs against this. Finance teams in turn discuss efficiency plans and delivery with HM Treasury.
+315: This information should be used to inform a central dataset which aggregates the total efficiency savings being delivered. This should be mapped against HM Treasury’s reporting requirements (as set out in the reporting guidance, which is shared with departmental finance teams).
+316: Finance teams, with budget holders, should internally track:
+317: Areas departments should track
+318: Further information
+319: What the efficiency measure is, and what is driving it
+320: High-level information describing the efficiency; the business areas impacted; how the efficiency will be delivered; and if a central Function assisted efficiency delivery.
+321: Where and when the efficiency measure will be realised, with forecast efficiency savings
+322: The forecast reduction in running costs (the ‘gross’ efficiency) and upfront and additional costs required to deliver the efficiency (the costs to deliver). Combined these two provide the ‘net’ efficiency saving.
+323: Whether there are any impacts to other parts of the business, or another department
+324: The impacts to outputs, profile, and any interactions should be listed at a high level
+325: The total, actual efficiency savings which have been realised to date within the Spending Review period
+326: An aggregate summary of the actual efficiency savings achieved to date should be logged and presented against the total expected
+327: 5.2 Reporting tools
+328: When departments collect data from across business areas, there may either be a commissioned reporting process in place (such as the use of templates to commission out for information) or a centralised reporting system where budget holders directly input into a template hosted in a department’s central database. The use of central systems which individuals can update in real time removes opportunities for error through re-entering information. It also enables more timely reporting as teams can share live information. Departments should consider storing data which is auditable and shows the progress of their efficiencies. This means the data can show the planning, delivering and the final completion of the efficiency saving.
+329: HM Treasury will provide templates on their data requirements, which departments should consider mapping against their data collection to simplify processes.
+330: 5.2.1 Maturity level reporting
+331: Cash releasing savings can take several years to materialise within a department’s budget. Best practice reporting will identify the maturity of an efficiency measure’s delivery - from inception to realisation. This enables finance teams to identify and reflect efficiencies within a wider pipeline of delivery; and take action to make sure the delivery of efficiency savings is on track and to mitigate risks as appropriate.
+332: Departments should report the maturity level of cash-releasing savings to understand whether they are likely to be delivered. This is reflected below:
+333: Pipeline - the forecasted savings
+334: Maturity Level 0: Efficiency opportunity identified with basic idea and savings/benefit profile generated
+335: Maturity Level 1: Initiative scoped, levers identified, stakeholders engaged, and an estimate of the value of resources required are established against the benefits/savings profile
+336: Maturity Level 2: Initiative refined with actions for delivery; stakeholders engaged and plan agreed
+337: Maturity Level 3: Initiative plan finalised and developed for implementation; stakeholders involved agree to transition to delivery phase
+338: In delivery/realised - the actual savings
+339: Maturity Level 4: Outputs required by the initiative are complete
+340: Maturity Level 5: Activity to realise efficiency is complete, actual spend reflects efficiency saving realised
+341: 5.3 Reporting against Spending Review (SR) efficiency targets
+342: At SR25, departments agreed bespoke technical efficiency targets and published Efficiency Delivery Plans. The government has committed to an expectation of at least 1% technical efficiencies for all departments in all future years. To support this commitment, the government will publish bespoke departmental efficiency targets and plans biennially.
+343: Efficiency reporting to HM Treasury will be used to monitor the delivery of annual efficiency targets set at SR25. These targets support continuous improvement in the delivery of technical efficiencies.
+344: Please refer to HM Treasury reporting guidance for details of when to report efficiencies to HM Treasury.
+345: 5.4 Reporting efficiency savings in Annual Reports and Accounts (ARAs)
+346: From 2026/27 departments will be required to report their efficiency savings within the performance section of their ARAs. The 2026/27 Financial Reporting Manual (FreM) sets out full guidance for these disclosures.
+347: Departments will be required to disclose a summary of the efficiencies they report to HM Treasury and progress towards agreed targets. These are targets set at Spending Review, and include any changes agreed with their Treasury spending team.
+348: The reporting entity should set out relevant contextual information to help readers understand efficiency reporting such as:
+349: Descriptions of large programmes that released efficiencies
+350: Explanations of key area/activities that released efficiencies
+351: Graphs or charts that depict efficiencies
+352: 6. Benefits realisation, risk, and governance
+353: Efficiencies deliver better outcomes and more effective government, using public money in the smartest way possible. To ensure information is accurate and effective, processes to validate and realise benefits should be thorough and accounted for with appropriate oversight.
+354: 6.1 Benefits realisation
+355: Benefits realisation planning and monitoring ensures that intended outcomes are achieved. Efficiency savings, when considered as a benefit, would typically be mapped through the wider benefits management of a portfolio, programme or project and be integrated into wider project management activities. Benefits management should also be built into, and follow, the full life cycle of the delivery of a change that will unlock an efficiency saving - before, during, and after. It is especially important to make sure there are plans in place to transition any benefits management work into ‘business as usual’, as most often efficiencies are realised after a project or programme has been delivered.
+356: Green Book business case guidance sets out expectations for a benefits realisation strategy, framework, and outline. Chapter 19 of the Teal Book sets out how benefits realisation should be planned and managed through delivery and in operations, and provides supporting tools and templates. The National Infrastructure and Service Transformation Authority (NISTA) provides users with case studies, tools and guides on how to meet those expectations. This guidance assumes that teams have considered this and focuses specifically on the realisation of efficiency savings (as benefits) and ensuring governance arrangements to support accurate and timely reporting and to identify risks to delivery.
+357: 6.2 Methodology
+358: The approach to valuing, calculating and validating each efficiency benefit should be agreed and documented as early as possible, seeking expert input as necessary. As set out in Green Book guidance, if an efficiency saving is identified within a business case, it would initially be considered at the Outline Business Case stage (where benefits identified will need to be valued), with a plan to realise the benefit at the Full Business Case stage.
+359: The benefit owner (normally the budget holder) should work with finance, economist and analyst teams to agree the approach and methods used and how these should link to evaluation.
+360: The approach and methods developed should:
+361: Be supported by evidence and reasonable assumptions - this should include information on the baseline cost, clear calculations given against the baseline, and documented supporting evidence should be available.
+362: Ensure all figures are accurately claimed, with evidence.
+363: Ensure reporting is aligned with the right period.
+364: Have sufficient review, verification, and governance arrangements in place.
+365: Chapter 19 of the Teal Book and supporting guidance set out how to value and validate benefits estimates, and how these should be documented, as part of developing benefits profiles.
+366: The NISTA has also produced Cost Estimating Guidance which sets out best practice approach to the development of cost estimates for projects and programmes; the principles may also apply to the projection of an efficiency saving.
+367: 6.3 Risk
+368: Risk management arrangements need to be considered and proactively shaped from the outset when policies are formulated and projects initiated, in line with Orange Book principles. Opportunities for efficiency can increase or decrease risk levels in the organisation or government more broadly. Before deciding whether to pursue an efficiency, the department needs to understand the level of risk involved with different options, in line with their risk appetite.
+369: At each stage of efficiency delivery review, decision makers should consider changes in risk levels – both to delivery and realisation of planned efficiencies, using financial risk reporting and other relevant tools. This is because efficiency savings may be:
+370: Critical to the successful implementation of a wider portfolio of work - and programme budgets may be impacted if there is a significant deviation from planned benefit levels.
+371: Already be factored into a departmental budget - and so risks to delivery could risk a department breaching spending control totals.
+372: If efficiencies are not being delivered as planned, programme teams must intervene as early as possible and escalate to senior leaders to ensure that all mitigation options have been considered.
+373: Where plans are not on track, and risks have not been successfully mitigated, departments must notify their HM Treasury spending team.
+374: 6.4 Governance, assurance and oversight
+375: Departments should have appropriate governance arrangements to review and assure efficiency data and reporting; and to enable relevant Senior Civil Servants to understand and ultimately approve the efficiencies being reported. These should include the monitoring of outputs and outcomes to ensure these do not fall, in accordance with the definition of an efficiency.
+376: Where efficiency data relates to a specific central function, departments may wish to share efficiency data with them. Central functional teams may be able to provide more granular guidance on scoring efficiency savings relating to their areas of expertise and hence support additional oversight and assurance.
+377: This in turn ensures that both the team and department can use high quality data to inform decision making, such as making interventions to enable or progress the efficiency measure.
+378: 6.4.1 Portfolios, programmes and projects
+379: Efficiencies are often part of the wider benefits delivered by portfolios, programmes and projects. They should be included in the relevant benefits register and in the benefits realisation plan.
+380: Work to deliver such efficiencies is therefore overseen primarily through the portfolio, programme or project’s governance and management arrangements. This should include:
+381: establishing arrangements for tracking and reporting progress on delivery and realisation against plan, including baselines, targets and confidence levels;
+382: identifying risks and issues to realising them, capturing these in the relevant risk register;
+383: ensuring appropriate challenge and assurance through the life cycle;
+384: escalation where there are implications for wider organisational efficiency targets or risk levels.
+385: Review and assurance arrangements should be agreed early on and included in the benefits management framework and the integrated approvals and assurance plan for the work. This should include independent scrutiny, for example as part of assurance reviews or other scrutiny mechanisms.
+386: The budget holder and/or Senior Responsible Owner should sign off the efficiency saving data at each point and ensure this is reported to the appropriate governance and linked to wider departmental processes for measuring efficiencies.
+387: Projects and programme efficiency measures should also be reported to, and overseen by, the portfolio board where relevant, to make sure impacts and reprioritisation can be considered at the appropriate level.
+388: Chapter 19 of the Teal Book and supporting guidance set out governance, oversight and assurance arrangements for benefits within projects, programmes and portfolios, and how these should relate to wider organisational arrangements. These should be set out in a benefits management framework, which forms part of the overall governance and management framework for the work, and should link to wider organisational arrangements.
+389: Figure 6.A Benefits management activities mapped to the reference life cycle in the Project Delivery Functional Standard.
+390: 6.4.2 Departmental oversight
+391: Senior decision makers require good quality data to inform decision making. The process to input into the department’s aggregate position should be clear across the organisation. We expect the following oversight process:
+392: Departmental central finance teams commission budget holders for efficiency savings as part of wider financial reporting plans and business planning cycles.
+393: The budget holder reports an efficiency saving (both realised and forecast) to finance teams.
+394: The finance business partner or finance team offer support and challenge against the reported efficiency.
+395: The efficiency saving is then formally submitted to finance teams.
+396: At each quarter, efficiency delivery plans and realised savings are reviewed with senior finance leaders and budget holders (supported by finance teams) to ensure delivery is on track.
+397: At each quarter, the department’s executive committee/board should receive efficiency delivery information for review and consider these against a departmental delivery plan.
+398: 6.4.3 Departmental Boards
+399: Accounting officers and a department’s board should have oversight of efficiency delivery and realisation plans, supported by its Audit and Risk Assurance Committee (ARAC). In turn, the ARAC should proactively support in advising on and scrutinising risks, and audit assurance requirements
+400: When considering delivery of efficiencies, the board should:
+401: Consider any risks to deliver promised efficiencies (including changes in organisational risk levels), and take proactive and early intervention to mitigate where necessary.
+402: Ensure that the appropriate assurance processes are in place so that the underpinning data to efficiency delivery and realisation is accurate.
+403: Review and sign off reported efficiencies, in line with wider budget accountability processes.
+404: The principles and requirements around financial reporting and risk management set out in the Orange Book, Managing Public Money and Corporate Governance code apply fully.
+405: It is important that decision-makers undertake their duties in an informed way. To support finance leaders to do this in a board reporting context, the Government Finance Function has developed standards to guide the content that department teams produce for senior boards. This can be found here: https://gff.civilservice.gov.uk/standards-policy-and-procedures/finance-insight/finance-board-pack-reporting-project/
+406: 7. Further guidance and information
+407: Consolidated Budgeting Guidance https://www.gov.uk/government/publications/consolidated-budgeting-guidance-2025-to-2026/consolidated-budgeting-guidance-2025-26
+408: Managing Public Money https://www.gov.uk/government/publications/managing-public-money
+409: Treasury approvals Process for projects and programmes: https://www.gov.uk/government/publications/treasury-approvals-process-for-programmes-and-projects
+410: Functional Standards: https://www.gov.uk/government/collections/functional-standards
+411: The Green Book - appraisal and evaluation in central government: https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020
+412: The Teal Book - Government Project Delivery: https://projectdelivery.gov.uk/teal-book/home/
+413: The Magenta Book – Central Government guidance on Evaluation: https://assets.publishing.service.gov.uk/media/5e96cab9d3bf7f412b2264b1/HMT_Magenta_Book.pdf
+414: The Orange Book Management of Risk – principles and concept: https://www.gov.uk/government/publications/orange-book/the-orange-book-management-of-risk-principles-and-concepts
+415: Corporate governance in central government departments – code for good practice: https://www.gov.uk/government/publications/corporate-governance-code-for-central-government-departments-2017
+416: Project Delivery Functional Standard: https://projectdelivery.gov.uk/library-product/government-functional-standard-govs-002-project-delivery/
+417: Practitioner workbook for benefits management in government: https://projectdelivery.gov.uk/library-product/practitioner-workbook-for-benefits-management-in-government/
+418: NISTA Cost Estimating Guidance: https://projectdelivery.gov.uk/library-product/cost-estimating-guidance/
+419: Annex A: Examples of efficiency and non-efficiency savings within functional areas
+420: Property & estates - efficiency savings
+421: ​​A large area for delivering property efficiencies is in maximising utilisation of a department’s estate​, ​​​where an organisation delivers the same level of outputs as previously - but does so at a lower property running cost. The organisation may have done several things to achieve this, such as:​​​
+422: ​​​​Having fewer properties (e.g. new casework processes, adoption of new technology, changes in working practices etc. mean less properties are required);​​​
+423: ​​​​Having more efficient properties - this could include new replacement properties or refurbishing/ ‘enhancing’ existing properties (e.g. a new Hub property that allows a greater utilisation density; the installation of a fuel efficient HVAC system or solar power to an existing property; a lease, FM service or PFI is negotiated or renegotiated at a lower cost; unused space is sub-let to provide income or is mothballed to reduce utility/FM costs; hedging on utility prices or forward procurement to avoid price spikes delivers cost savings; negotiating reduced dilapidations liabilities on lease exits);​​​
+424: However, designing efficiency can also help realise operating cost efficiencies or reducing future liabilities throughout the life cycle of government properties, reducing waste and minimising the negative impact on the environment. Many of these features can also be successfully retrofitted to existing properties. Examples include:
+425: adopting sustainable construction methods such as Modern Methods of Construction (MMC) to reduce construction cost, time and waste;
+426: using Passivhaus principles in design, where appropriate, so that buildings naturally maintain a comfortable temperature;
+427: selection of materials to reduce future energy consumption like high quality insulation, solar glazing film and LED lighting;
+428: installation of renewable energy generation such as solar photovoltaic cells, solar thermal panels and air source heat pumps to reduce or eliminate dependency on carbon-based heat sources;
+429: using intelligent building management systems to reduce the energy consumption, operating costs and carbon footprint of a building
+430: recycling existing property-based consumables such as office furniture in new projects, or rainwater to irrigate government land, watering plants and for flushing toilets.
+431: ​​​​​The Office of Government Property can provide further guidance and support.
+432: Property and estates - non-efficiency
+433: ​​​Achieving a reduction in business rates ​to one or more properties, as although this is a saving to the organisation, it has pushed the cost (local tax revenue foregone) to another part of the public sector.​​​​​
+434: Organisational design and strategic workforce planning - efficiency savings
+435: Strategic workforce planning can enable better use of resources and so deliver allocative efficiencies within a department through organisational design (OD). OD is the process of looking at what a programme (or department’s) outcomes and strategic objectives are and planning the most effective and efficient use of the workforce to best achieve those outcomes. It is an ongoing process, making best use of the skills and capabilities available.
+436: One example is where a programme area has decided to review the design of its workforce. Leaders may decide to undertake a review on short- and long-term priorities with seniors in the department and reprioritise teams to focus on short term priority goals and outcomes. This may involve looking closely at grades and appropriate work to suit skills and responsibilities, as well as minimising the risk of duplication of effort and ensuring seamless information and data flows.
+437: In the longer term, the business area’s senior leaders may want to undertake a gap analysis to make sure that the workforce has the right skills - identifying where to build new skills and capabilities in teams. They may also seek to minimise unnecessary cost in the use of contingent labour and management consultancy (which is usually a more expensive mechanism of outcome delivery).
+438: This could create non-cash releasing efficiency savings, as the budget has stayed the same but, through an allocative efficiency initiative, has made more efficient use of staff. The Government People Group has further materials and guidance.
+439: Organisational design and strategic workforce planning - non-efficiency savings
+440: A reduction in workforce with the intention of delivering lower outputs or outcomes is an example of a non-efficiency workforce saving.
+441: Efficient use of data - efficiency savings
+442: Departments (internally and across government) can be more efficient by reusing technology effectively- ‘buy once, use many times’. Working collaboratively across departments can help to identify opportunities to do this; effective governance through internal controls can help to identify opportunities within a department.
+443: One cross-government example is the contract with Amazon Web Services (AWS) and the Crown Commercial Services (CCS), through which AWS, which enables adoption of cloud computing, agreed to treat participating UK government and public sector organisations as a single client - offering savings opportunities.
+444: Several departments have also moved to centralise access to technology and data systems through controls. This means that when procuring data sets or access to data and technology through contractual agreements with external providers, there is a mechanism for ensuring that duplications or similar procurements are identified early and so consolidated, or data/technology is extended so that the department is using its existing services more efficiently.
+445: This could create either (or both) cash releasing and non-cash releasing efficiency savings. The Chief Digital and Data Office in the Government Digital Service and the Crown Commercial Service can provide support with this.
+446: Digital - non-efficiency savings
+447: An example of a non-efficiency saving is a choice to cancel the build of a digital pathway for a service that currently relies on non-digital methods like paper forms, in response to in-year budget pressures. This doesn’t meet the definition of an efficiency saving since it is a choice to cancel a policy initiative.
+448: Counter fraud - efficiency savings
+449: Preventing fraud being committed against schemes is more efficient than investigating fraud once it has occurred. To aid fraud prevention all new funding for schemes, that meet specific criteria, must complete an Initial Fraud Impact Assessment (IFIA), as laid out in the HM Treasury Green Book. It is also good practice for high risk or high value schemes, taking into account the overall IFIA impact score, to also conduct a Full Fraud Risk Assessment (FRA). These assessments will then enable policy makers to implement the necessary controls to reduce the impact and mitigate the risk of fraud on their schemes, providing an efficiency against costly investigations.
+450: Departments should reflect recovery and/or prevention as an efficiency if it meets the criteria outlined in section 4.4 of the framework. Counter fraud financial savings can be calculated using methodologies approved by the Public Sector Fraud Authority’s (PSFA) Prevention Panel.
+451: Project delivery performance reporting - efficiency savings
+452: Departments across government can realise efficiency savings by improving how project and programme data is managed, shared and reused.
+453: GRIP+ is a new service designed to support wider government reporting needs, including both Government Major Projects Portfolio (GMPP) and non-GMPP projects. GRIP+ provides private workspaces for organisations, a back-end database, and dashboards with connectors and AI tools. These features help reduce duplication in reporting, improve data quality and consistency, and save time and costs. GRIP+ also supports compliance with the Project Data Standard and aligns with Chapter 24 of the Teal Book by helping turn raw data into actionable insights.
+454: Additionally, Scout is an AI-enhanced tool developed by the National Infrastructure and Service Transformation Authority (NISTA) to support the independent assurance review process. Scout analyses project documentation against guideline questions, enabling reviewers to understand and assess projects more quickly and thoroughly. This improves the standardisation and accuracy of reviews, making the process more reliable and transparent. Scout has already delivered ~50% time savings in GMPP assurance reviews
+455: Where the use of GRIP+ and Scout can be measured, monitored and evidenced, these initiatives could result in both cash-releasing and non-cash-releasing efficiency savings. The Government Project Delivery function and NISTA can provide further guidance and support.
+456: Project delivery performance reporting - non-efficiency savings
+457: GRIP, is a platform developed by NISTA and the Cabinet Office to support departmental reporting on the Government Major Projects Portfolio (GMPP). GRIP enables better performance reporting and decision-making by improving the quality and quantity of data shared across programmes and portfolios.
+458: Whilst GRIP makes decision making more effective, it would not free up time for users in a quantifiable way and therefore, it does not result in efficiency savings from current spend within budgets.
+459: Annex B: Types of efficiency savings & measures not classified as an efficiency saving
+460: Types of cash releasing efficiency savings
+461: For cash releasing efficiency savings to be realised some output metrics may decrease, but the benefits (in terms of outcomes delivered) must not be adversely affected.
+462: There are several ways in which cash releasing savings could be realised or delivered. This list is indicative only, as there will be many ways of finding and driving efficiency:
+463: Volume or scope reduction
+464: Savings secured by a supplier resulting from a reduction of planned volume or scope delivered. The reduction must not impact the benefits (outcomes) derived.
+465: HR and workforce
+466: Better use of technology could deliver efficiency savings by reducing the number of staff needed to deliver the same service. Building skills in-house could reduce contingent labour and consultancy costs.
+467: Estate rationalisation
+468: The creation of a more efficiently operated estate (supported by the acceleration of centralisation of general purpose property under the Government Property Agency) can deliver operating cost savings through estate rationalisation and consolidation - leading to reduced running costs.
+469: Service re-design
+470: Process improvements in the ways public services are delivered on the ground such as eliminating wasteful steps and optimising speed and quality have the potential to unlock efficiency savings.
+471: Technology efficiencies and digital transformation
+472: Embracing AI, data analytics, digital transformation and automating manual processes can make public services more efficient. Investing in online and digital services can lead to cost savings by delivering service outcomes at a lower cost compared to manual or offline processes. For example, implementing an online solution can reduce the need for in-person visits, paperwork processing, and manual case management. This investment in digital solutions prevents future spending on physical infrastructure, staffing, and administrative tasks, while still delivering efficient and effective public services.
+473: Fraud prevention and recovery
+474: Reducing irregularity drives efficiency and better value for money in government. Where fraudulent money is either recovered or prevented, this will either impact Annually Managed Expenditure (AME) or DEL budgets depending on the budgetary treatment. Departments should reflect recovery and/or prevention as an efficiency if it meets the efficiency criteria outlined in this framework. Whilst the Government Efficiency Framework is primarily intended to be used as part of DEL budgetary management, users should use the framework to categorise any AME efficiencies that they oversee.
+475: Measures not classified as a cash releasing efficiency saving
+476: For clarity, this section provides examples where cash is saved but this will not be measured as an efficiency saving.
+477: Cancellation of a policy measure or legislation and tax changes
+478: If a decision is made to deprioritise or cancel a policy measure, initiative, or programme, this is not an efficiency saving; please see above section 4.4 on the distinction between cancellation and reprioritisation as an allocative efficiency. Similarly, if there are legislation/tax changes (e.g. to the minimum wage) resulting in savings to a department’s budget, this is not an efficiency saving.
+479: Underspending
+480: If there is an underspend, there may be several reasons for this being because of efficiency impacts - however where it is because of less than forecasted demand or optimism bias in the forecast, this is not an efficiency saving. This includes unexpected windfalls.
+481: Lower than expected inflation rates may also lead to direct savings within a department’s budget. This should not be calculated as an efficiency saving, as an output or outcome is not being delivered more efficiently.
+482: Liability not crystalising
+483: A contingent liability is not usually forecast within a budget (instead it is a risk); where a liability has not crystalised this is not an efficiency saving.
+484: Types of monetisable non-cash releasing efficiency savings
+485: Non-cash releasing benefits will often be categorised as follows (as above, this list is not exhaustive):
+486: Improved demand management
+487: A process whereby teams ensure that the demand for goods and services is appropriate to business need, for example by reducing demand or replacing demand with an existing substitute. For example, if a forecast demand of 100 software licences is made by a government department, but reduced to 80 through negotiations, the core outcome is met but a saving of 20 licences is claimable.
+488: Improved resource management
+489: A benefit where an improvement leads to more for the same. For example, if a department improved a system or process this would allow a small proportion of the headcount to maintain their delivery output as well as complete additional activities. This means that there will be an improved output and outcomes (where it can be quantified in non-monetisable terms).
+490: Fees, charges and levies
+491: Any income generated from fees and charges should be used effectively and efficiently in line with the principles set out in Chapter 6 of Managing Public Money (MPM). Efficiencies may allow reductions in subsidies to the service to the benefit of the taxpayer or reduction in charges to the benefit of the service user.
+492: Where the costs of delivering a fee or charge service have been reduced through a technical efficiency and the fees/charges have been reduced (in line with 6.2.2. of MPM) and this can be clearly evidenced; this can be included as a monetisable non-cashable efficiency. For example, if an organisation brings down its cost to delivering a fee charging service through automation and makes a saving of £10 million and is able to reduce its overall fees by the same amount, then the £10 million is claimable, and the beneficiary has been the service user in reduced fees.
+493: Annex C: Non-monetisable benefits
+494: Non-monetisable benefits are not in scope of this framework. The Green Book and the Magenta Book sets out extensive guidance on the monitoring processes required. An overview is set out below to ensure efficiencies are considered in a systematic way.
+495: Through undertaking a benefits appraisal you will be able to identify benefits that are quantifiable and can be expressed in monetary equivalent terms. Every reasonable attempt should be made to quantify benefits, even if they cannot be expressed in monetary equivalent terms.
+496: Non-monetisable benefits are those which cannot be valued in a monetisable way, or are not easily monetisable. Measuring the impact of these kinds of efficiencies should be considered at the business case stage, within a departmental delivery plan or through evaluation and appraisal methods as set out in the Green Book and Magenta book. More information on identifying and managing all types of benefit can be found in Chapter 19 of the Teal Book and in supporting guidance.
+497: Quantifiable but non-monetisable benefits
+498: Not all efficiency benefits will be measured in monetary terms but are still quantifiable (for instance, the unit output may not be monetisable). Quantifiable but not monetisable benefits should still be measurable and quantified to show the wider impacts of an efficiency measure.
+499: Qualitative unquantifiable benefits
+500: Qualitative unquantifiable benefits require qualitative measurements to evidence the efficiency being delivered.
+501: Where quantification is particularly challenging (because the evidence base is insufficient or unreliable; or the research costs would be disproportionate to the expenditure) it may be acceptable to express a benefit in qualitative terms. Even then it should be possible to provide evidence on the likely order of magnitude of the benefit.
+502: When a qualitative or non-monetised benefit is considered too important to be ignored in the decision, a separate calculation and judgement needs to be made about whether its cost is ‘a price worth paying’ in terms of its additional value. This calculation provides the basis upon which alternative options without these benefits can be generated and appraised.
+503: Qualitative assessments should be thorough and evidenced through techniques set out in the Green Book such as the Multi Criteria Decision­ making Analysis (MCDA).
+504: If a decision has been made to reallocate or reprioritise funding to achieve a wholly different outcome or ministerial priority, or with the intention to reduce or achieve less than the original outcome, this is a reallocation and would not be considered an allocative efficiency. Through this process, a department may also realise non-efficiency savings.
+505: Back to top
+506: Is this page useful?
+507: Maybe
+508: Yes this page is useful
+509: No this page is not useful
+510: Thank you for your feedback
+511: Report a problem with this page
+512: Help us improve GOV.UK
+513: Do not include personal or financial information like your National Insurance number or credit card details.
+514: This field is for robots only. Please leave blank
+515: What were you doing?
+516: What went wrong?
+517: Send
+518: Cancel
+519: Help us improve GOV.UK
+520: To help us improve GOV.UK, we’d like to know more about your visit today.
+521: Please fill in this survey (opens in a new tab).
+522: Cancel
+523: Services and information
+524: Benefits
+525: Births, death, marriages and care
+526: Business and self-employed
+527: Childcare and parenting
+528: Citizenship and living in the UK
+529: Crime, justice and the law
+530: Disabled people
+531: Driving and transport
+532: Education and learning
+533: Employing people
+534: Environment and countryside
+535: Housing and local services
+536: Money and tax
+537: Passports, travel and living abroad
+538: Visas and immigration
+539: Working, jobs and pensions
+540: Government activity
+541: Departments
+542: News
+543: Guidance and regulation
+544: Research and statistics
+545: Policy papers and consultations
+546: Transparency
+547: How government works
+548: Get involved
+549: Support links
+550: Help
+551: Privacy
+552: Cookies
+553: Accessibility statement
+554: Contact
+555: Terms and conditions
+556: Rhestr o Wasanaethau Cymraeg
+557: Government Digital Service
+558: All content is available under the Open Government Licence v3.0, except where otherwise stated
+559: © Crown copyright

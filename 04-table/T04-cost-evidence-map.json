@@ -1,0 +1,283 @@
+{
+  "date": "2026-10-31",
+  "status": "reviewed_public_context_not_adopted_budget",
+  "records": [
+    {
+      "cost_candidate_id": "T4E-K01",
+      "venue": "Hawksmoor Manchester",
+      "city": "Manchester",
+      "room": "Temperance Room",
+      "source_candidate_ids": [
+        "T4E-S01",
+        "T4E-S02"
+      ],
+      "claim_candidate_ids": [
+        "T4E-C01",
+        "T4E-C02",
+        "T4E-C03",
+        "T4E-C04",
+        "T4E-C05",
+        "T4E-C14"
+      ],
+      "published_capacity": {
+        "min": 10,
+        "max": 14,
+        "unit": "distinct seated people"
+      },
+      "published_menu_options": {
+        "currency": "GBP",
+        "unit": "per person",
+        "two_three_course_pairs": {
+          "Moonlighter": [
+            65,
+            70
+          ],
+          "Silvertail": [
+            77,
+            82
+          ],
+          "Hawkabelle": [
+            98,
+            103
+          ]
+        },
+        "quoted": false
+      },
+      "published_drinks_example": {
+        "package": "A",
+        "currency": "GBP",
+        "wine_half_bottle_pp": 23,
+        "whole_package_with_arrival_beer_pp": 30,
+        "whole_package_with_arrival_prosecco_pp": 35.5,
+        "whole_package_with_arrival_champagne_pp": 45,
+        "quoted": false
+      },
+      "tax_and_service_basis": "Not established in inspected selected menu/pages; do not default to zero.",
+      "capacity_screen": "Does not accommodate15practitioners; lower group only if total distinct seats includinghosts fits14. Semi-private larger space is a separate privacy proposition.",
+      "future_date_price_applicability": "Unconfirmed; live-linked at capture is not guaranteed2027pricing.",
+      "evidence_status": "published_context_only",
+      "selected_for_pilot": false,
+      "quote_received": false,
+      "quote_total": null,
+      "budget_amount": null,
+      "financial_input_eligible": false,
+      "current_published_context_eligible": true,
+      "future_2027_budget_eligible": false,
+      "unknown_inputs": [
+        "event_date",
+        "date_availability",
+        "actual_distinct_total",
+        "room_layout_and_discussion_suitability",
+        "eligible_minimum_spend_and_offset",
+        "date_specific_hire_and_other_charges",
+        "service_charge_base_and_treatment",
+        "deposit_amount_and_due_date",
+        "balance_due_date",
+        "cancellation_and_refund_schedule",
+        "employer_hospitality_acceptability"
+      ],
+      "actual_participant_count": 0,
+      "contact_attempts": 0,
+      "source_ids": [
+        "SRC-0258",
+        "SRC-0259"
+      ],
+      "claim_ids": [
+        "CLM-0534",
+        "CLM-0535",
+        "CLM-0536",
+        "CLM-0537",
+        "CLM-0538",
+        "CLM-0547"
+      ],
+      "selected_budget_input": false
+    },
+    {
+      "cost_candidate_id": "T4E-K02",
+      "venue": "Benares",
+      "city": "London",
+      "room": "Berkeley or Dover, conditional on whole-party size",
+      "source_candidate_ids": [
+        "T4E-S03",
+        "T4E-S04"
+      ],
+      "claim_candidate_ids": [
+        "T4E-C06",
+        "T4E-C07",
+        "T4E-C08",
+        "T4E-C09",
+        "T4E-C10",
+        "T4E-C11",
+        "T4E-C15"
+      ],
+      "published_capacity": {
+        "Berkeley": [
+          11,
+          16
+        ],
+        "Dover": [
+          17,
+          36
+        ],
+        "unit": "private dining people"
+      },
+      "published_menu_options": {
+        "currency": "GBP",
+        "unit": "per person",
+        "valid_from": "2026-09-01",
+        "valid_through": "2026-11-15",
+        "Bayleaf": 78,
+        "Fennel": 89,
+        "Deluxe": 129,
+        "Deluxe_with_champagne": 147,
+        "tasting": 139,
+        "tasting_paired_wine_additional": 129,
+        "tasting_max_guests": 16,
+        "quoted": false
+      },
+      "tax_and_service_basis": {
+        "VAT": "Included in listed prices",
+        "cover_percent": 2,
+        "service_percent": 13,
+        "service_discretionary": true,
+        "charge_calculation_base": null,
+        "tax_recoverability": null
+      },
+      "capacity_screen": "Berkeley tops out16total; Dover published17–36. Tasting menu maximum16cannot automatically be combinedwithDover17+party.",
+      "future_date_price_applicability": "Printedperiodcurrentatcapturebutnot2027pilotprice.",
+      "published_timing": {
+        "final_numbers_hours_before": 72,
+        "menu_days_before": 14,
+        "deposit_period_wording": "15 November to 30 December; no amount or cancellation terms given"
+      },
+      "evidence_status": "published_context_only",
+      "selected_for_pilot": false,
+      "quote_received": false,
+      "quote_total": null,
+      "budget_amount": null,
+      "financial_input_eligible": false,
+      "current_published_context_eligible": true,
+      "future_2027_budget_eligible": false,
+      "unknown_inputs": [
+        "event_date",
+        "date_availability",
+        "actual_distinct_total",
+        "room_layout_and_discussion_suitability",
+        "eligible_minimum_spend_and_offset",
+        "date_specific_hire_and_other_charges",
+        "service_charge_base_and_treatment",
+        "deposit_amount_and_due_date",
+        "balance_due_date",
+        "cancellation_and_refund_schedule",
+        "employer_hospitality_acceptability"
+      ],
+      "actual_participant_count": 0,
+      "contact_attempts": 0,
+      "source_ids": [
+        "SRC-0260",
+        "SRC-0261"
+      ],
+      "claim_ids": [
+        "CLM-0539",
+        "CLM-0540",
+        "CLM-0541",
+        "CLM-0542",
+        "CLM-0543",
+        "CLM-0544",
+        "CLM-0548"
+      ],
+      "selected_budget_input": false
+    },
+    {
+      "cost_candidate_id": "T4E-K03",
+      "venue": "Corrigan’s Mayfair",
+      "city": "London",
+      "room": "Lindsay Room",
+      "source_candidate_ids": [
+        "T4E-S05"
+      ],
+      "claim_candidate_ids": [
+        "T4E-C12",
+        "T4E-C13"
+      ],
+      "published_capacity": {
+        "boardroom": 24,
+        "reception": 40,
+        "unit": "people in specified distinct configurations"
+      },
+      "published_menu_options": null,
+      "tax_and_service_basis": "Unresolved in inspected room page.",
+      "room_hire_fee_statement": "No hire fee; minimum food-and-drink spend applies, amount not published.",
+      "capacity_screen": "24boardroomplacesprovidenumericalheadroomforconstructedsmallgroups;actualdinner/discussionlayoutandtermsremainunconfirmed.",
+      "future_date_price_applicability": "No numerical menu or minimum selected; no future quotation.",
+      "evidence_status": "published_context_only",
+      "selected_for_pilot": false,
+      "quote_received": false,
+      "quote_total": null,
+      "budget_amount": null,
+      "financial_input_eligible": false,
+      "current_published_context_eligible": true,
+      "future_2027_budget_eligible": false,
+      "unknown_inputs": [
+        "event_date",
+        "date_availability",
+        "actual_distinct_total",
+        "room_layout_and_discussion_suitability",
+        "eligible_minimum_spend_and_offset",
+        "date_specific_hire_and_other_charges",
+        "service_charge_base_and_treatment",
+        "deposit_amount_and_due_date",
+        "balance_due_date",
+        "cancellation_and_refund_schedule",
+        "employer_hospitality_acceptability"
+      ],
+      "actual_participant_count": 0,
+      "contact_attempts": 0,
+      "source_ids": [
+        "SRC-0262"
+      ],
+      "claim_ids": [
+        "CLM-0545",
+        "CLM-0546"
+      ],
+      "selected_budget_input": false
+    }
+  ],
+  "source_routes": 5,
+  "distinct_venue_examples": 3,
+  "all_source_ids": [
+    "SRC-0258",
+    "SRC-0259",
+    "SRC-0260",
+    "SRC-0261",
+    "SRC-0262"
+  ],
+  "all_claim_ids": [
+    "CLM-0534",
+    "CLM-0535",
+    "CLM-0536",
+    "CLM-0537",
+    "CLM-0538",
+    "CLM-0539",
+    "CLM-0540",
+    "CLM-0541",
+    "CLM-0542",
+    "CLM-0543",
+    "CLM-0544",
+    "CLM-0545",
+    "CLM-0546",
+    "CLM-0547",
+    "CLM-0548",
+    "CLM-0549"
+  ],
+  "synthesis_claim_ids": [
+    "CLM-0549"
+  ],
+  "actual_quotes": [],
+  "selected_venue": null,
+  "selected_budget_inputs": [],
+  "financial_inputs": [],
+  "historical_exclusion_path": "04-table/research-notes/t04/uk-costs/excluded-historical/january-manifest.json",
+  "source_currentness_not_future_price_applicability": true,
+  "external_actions": []
+}

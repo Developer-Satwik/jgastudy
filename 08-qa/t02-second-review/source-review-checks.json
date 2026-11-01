@@ -1,0 +1,918 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_author_pack_independent_review_integration_pending",
+  "check_count": 226,
+  "checks": [
+    {
+      "name": "unique new source TH2-S01",
+      "passed": true
+    },
+    {
+      "name": "new retained original TH2-S01",
+      "passed": true
+    },
+    {
+      "name": "new parsed file TH2-S01",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0227capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0227parsed_path",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0229",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0229capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0229parsed_path",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0003",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0003capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0003parsed_path",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0227capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0227parsed_path",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0229",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0229capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0229parsed_path",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0246capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0246parsed_path",
+      "passed": true
+    },
+    {
+      "name": "unique new source TC2-S01",
+      "passed": true
+    },
+    {
+      "name": "new retained original TC2-S01",
+      "passed": true
+    },
+    {
+      "name": "new parsed file TC2-S01",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0222capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0222text_path",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0116capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0116text_path",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0193capture_path",
+      "passed": true
+    },
+    {
+      "name": "reuse retained hash SRC-0193text_path",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "reuse known canonical SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "reuse selected/parsed hash SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TH2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TH2-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TH2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TH2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TH2-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TH2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TH2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TH2-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TH2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TM2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TM2-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TM2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TM2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TM2-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TM2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TM2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TM2-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TM2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TC2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TC2-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TC2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TC2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TC2-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TC2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim support/boundary TC2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate references TC2-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical market result TC2-C03",
+      "passed": true
+    },
+    {
+      "name": "nine distinct author claims before root additions",
+      "passed": true
+    },
+    {
+      "name": "three selected exact questions",
+      "passed": true
+    },
+    {
+      "name": "original provenance all_answers",
+      "passed": true
+    },
+    {
+      "name": "original provenance final_answer_index",
+      "passed": true
+    },
+    {
+      "name": "prompt hash S03-C",
+      "passed": true
+    },
+    {
+      "name": "four products two repeats S03-C",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S03-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S03-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S03-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S03-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S03-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S03-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "prompt hash S08-C",
+      "passed": true
+    },
+    {
+      "name": "four products two repeats S08-C",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S08-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "prompt hash S09-C",
+      "passed": true
+    },
+    {
+      "name": "four products two repeats S09-C",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved prompt S09-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "exact saved answer hash S09-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "final-index exact text S09-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "routing metadata S09-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "source-status context S09-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "three semantic rereads distinct S09-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "all six recruiters plus JGA",
+      "passed": true
+    }
+  ],
+  "new_author_sources": 2,
+  "author_claims": 9,
+  "prior_questions": 3,
+  "prior_saved_answers": 24,
+  "semantic_rereads": 3,
+  "manual_semantic_scope": "Read original ChatGPT-r1 full texts for task/remit/evidence assumptions; no generated facts verified or Table demand inferred.",
+  "open_substantive_issues": []
+}

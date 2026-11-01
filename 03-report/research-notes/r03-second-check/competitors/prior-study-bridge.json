@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R03 second-challenge bridge to systems, acquisition and provider-transition case contrasts. No prompt reruns.",
+  "provenance": [
+    {
+      "role": "all_answers",
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/all-answers.json",
+      "sha256": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719"
+    },
+    {
+      "role": "summary",
+      "path": "sites/jgafinalcode/dist/data/summary.json",
+      "sha256": "9ad39abd44ec81ffd7ffd92fb9209858fc4344433b3edb2da6142c50f95bbefc"
+    },
+    {
+      "role": "source_events",
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/source-events.csv",
+      "sha256": "e621bf5cb7abfaa201b57c5210cc5b4905d79f9d25601f7b334af4ca9549cd83"
+    },
+    {
+      "role": "answer_index",
+      "path": "sites/jgafinalcode/dist/data/answer-index.json",
+      "sha256": "940541ab4520d6a00cfae7d038491dcbc72516d999325aada8276027c54c7da2"
+    },
+    {
+      "role": "previous_bridge",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/competitors/prior-study-bridge.json",
+      "sha256": "1bf0ab7ce77a049fe8a51cb5c2823a190673877d69c628a36b3808bf35e59316"
+    },
+    {
+      "role": "previous_independent_check",
+      "path": "projects/JGA-Payroll-Research-2027/08-qa/R02-prior-study-bridge-check.json",
+      "sha256": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab"
+    }
+  ],
+  "previous_bridge_hashes_match": true,
+  "previous_independent_check_status": "passed",
+  "study_description": {
+    "saved_answers": 352,
+    "unique_questions": 44,
+    "situations": 11,
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "date_range_utc": [
+      "2026-10-18T17:30:52.134Z",
+      "2026-10-22T14:24:16.490Z"
+    ],
+    "comparators": [
+      "Portfolio Payroll",
+      "Frazer Jones",
+      "Oakleaf Partnership",
+      "Middlemore",
+      "Hays",
+      "Robert Half"
+    ],
+    "unit": "Recorded consumer-tool answers to selected employer recruitment questions; not employers or hiring transactions."
+  },
+  "selected_situations": [
+    {
+      "situation_id": "S04",
+      "label": "Payroll systems transformation",
+      "saved_answers": 32,
+      "unit": "Saved model responses, not employer cases",
+      "questions": [
+        {
+          "question_id": "S04-A",
+          "prompt": "We are a UK employer replacing fragmented payroll systems across the UK and Europe. We need a UK-based Payroll Transformation Director who can lead the programme and work with HR, finance and technology teams. Which recruitment firms specialise in this kind of hire?",
+          "prompt_text_sha256": "23e0784002b96fe0c1dd799834e4175e84720fa37f0e8058de2067641bc14e39",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S04-B",
+          "prompt": "Who recruits senior payroll change leaders in the UK? We need someone to lead a multi-country payroll system implementation, not just run monthly payroll.",
+          "prompt_text_sha256": "cec991f4b9aaeefe8d475bf326685cbdf05ee28601bb544569d00dc9b3377021",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S04-C",
+          "prompt": "Which UK recruitment firms should we consider for a Payroll Transformation Director leading a UK and European systems programme? What evidence should we request of their experience recruiting leaders across payroll operations, HR systems integration and change management?",
+          "prompt_text_sha256": "d01d4f20b74a3096d97bb7a00a08288d3fafbfbd85aab12ee931842262c02dfb",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S04-D",
+          "prompt": "Which recruitment firms can help us hire a UK-based Payroll Transformation Director with experience keeping payroll running while moving UK and European operations onto new systems? We need a senior programme owner who can work across HR, finance and IT.",
+          "prompt_text_sha256": "cd3ed6484ee10324e43808a75780fb7aa9f56ee898f73dce23bb77506a9654fb",
+          "saved_answers": 8
+        }
+      ],
+      "case_contrast": "Continuity while systems/programme work proceeds",
+      "optional_case_analysis_probes": [
+        "Who keeps recurring payroll and controls running while implementation work consumes capacity?",
+        "What is the programme deliverable, accepted output and retained business authority?"
+      ],
+      "capture_status_counts": {
+        "complete": 32
+      }
+    },
+    {
+      "situation_id": "S05",
+      "label": "Post-acquisition payroll integration",
+      "saved_answers": 32,
+      "unit": "Saved model responses, not employer cases",
+      "questions": [
+        {
+          "question_id": "S05-A",
+          "prompt": "We are a UK-based, private-equity-backed group that has acquired businesses across the UK and Europe. We need a UK-based Group Payroll Director to integrate payroll teams, providers and controls. Which recruitment firms should we shortlist?",
+          "prompt_text_sha256": "15a99c4e078efc023e33a342b00e8568e65ddcc0310976dc6279ea622cb86c36",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S05-B",
+          "prompt": "Which recruiters can find a Group Payroll Director for a UK buy-and-build business? We need someone who has integrated payroll after acquisitions in the UK and Europe.",
+          "prompt_text_sha256": "6515e2465197825286b19caf36bd9c3844080fb31fdbb7ef54c26bdb71c29d28",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S05-C",
+          "prompt": "For a UK-based Group Payroll Director appointment after several UK and European acquisitions, which specialist recruiters would you approach, and what would demonstrate that they understand payroll integration rather than general finance hiring?",
+          "prompt_text_sha256": "e57d4feee40b61b114d24a57efc13a968b9b97a3b99f942cc30b9222f7a9fe80",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S05-D",
+          "prompt": "Following several UK and European acquisitions, our UK group CFO wants one permanent Group Payroll Director to own the integration. Which recruitment agencies have a relevant senior payroll specialism, and which would you contact first?",
+          "prompt_text_sha256": "a034f26ec8e2d681f1b839bac647044210130068864827b28bf21406f8e2e04a",
+          "saved_answers": 8
+        }
+      ],
+      "case_contrast": "Post-acquisition ownership, heterogeneity and integration",
+      "optional_case_analysis_probes": [
+        "Which acquired systems, providers, entities, rules or data actually need changing, and which should remain?",
+        "Is the need a permanent accountable owner, time-bound integration expertise, a delivery team or a service change?"
+      ],
+      "capture_status_counts": {
+        "complete": 30,
+        "none_present": 2
+      }
+    },
+    {
+      "situation_id": "S09",
+      "label": "Payroll provider transition",
+      "saved_answers": 32,
+      "unit": "Saved model responses, not employer cases",
+      "questions": [
+        {
+          "question_id": "S09-A",
+          "prompt": "We are a Manchester-based employer changing payroll providers across the UK and Europe. We need a permanent Head of Payroll, hybrid in Manchester, to own supplier governance and the transition. Which recruitment firms should we approach for this senior hire?",
+          "prompt_text_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S09-B",
+          "prompt": "Which recruiters can find a Head of Payroll for a hybrid role in Manchester overseeing UK and European payroll suppliers? We are changing providers and need an experienced permanent leader.",
+          "prompt_text_sha256": "de98c37de650d13e1adcfdf7323f2314bb933e55a67f9fb44ab12ec308c4d69d",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S09-C",
+          "prompt": "For a Manchester-based Head of Payroll responsible for a UK and European provider transition, which recruitment firms would you shortlist, and what evidence supports their ability to find leaders with vendor-governance experience?",
+          "prompt_text_sha256": "00992bb48912dbe31c5df808c78d09e910e0a5bd6ed069767752f2ab0362a378",
+          "saved_answers": 8
+        },
+        {
+          "question_id": "S09-D",
+          "prompt": "Which specialist recruitment firms could help our Manchester finance team hire a permanent Head of Payroll to manage UK and European payroll providers? The role is hybrid in Manchester and needs supplier oversight and service-transition experience.",
+          "prompt_text_sha256": "8c03ecdf797e63e20f2995a7ddc8b47a420874a109fe25ef838a6f5aee097f78",
+          "saved_answers": 8
+        }
+      ],
+      "case_contrast": "Provider transition with retained operating governance",
+      "optional_case_analysis_probes": [
+        "Who can approve inputs, accept supplier outputs and close exceptions during and after transition?",
+        "What knowledge, data and decisions must remain with the employer rather than be presumed delegated?"
+      ],
+      "capture_status_counts": {
+        "complete": 32
+      }
+    }
+  ],
+  "raw_examples": [
+    {
+      "answer_id": "S04-A-claude-r1",
+      "question_id": "S04-A",
+      "product": "Claude",
+      "observed_at_utc": "2026-10-19T12:22:56.999Z",
+      "exported_full_answer_sha256": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "recorded_answer_hash": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "use": "Generated framing and source leads only; generated recruiter capabilities, people/affiliations, fees, availability, rankings and performance are not adopted as external facts."
+    },
+    {
+      "answer_id": "S05-A-chatgpt-r1",
+      "question_id": "S05-A",
+      "product": "ChatGPT",
+      "observed_at_utc": "2026-10-19T17:35:51.637Z",
+      "exported_full_answer_sha256": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "recorded_answer_hash": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "use": "Generated framing and source leads only; generated recruiter capabilities, people/affiliations, fees, availability, rankings and performance are not adopted as external facts."
+    },
+    {
+      "answer_id": "S09-A-chatgpt-r1",
+      "question_id": "S09-A",
+      "product": "ChatGPT",
+      "observed_at_utc": "2026-10-19T22:03:12.492Z",
+      "exported_full_answer_sha256": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "recorded_answer_hash": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "use": "Generated framing and source leads only; generated recruiter capabilities, people/affiliations, fees, availability, rankings and performance are not adopted as external facts."
+    }
+  ],
+  "selected_total_answers": 96,
+  "recommendation_counts_reused": false,
+  "can_transfer": [
+    "Exact selected wording may challenge analyst coverage of alternative case contexts; it must not be presented as observed buyer demand or put ahead of unaided participant priorities.",
+    "Saved original URLs/named firms as leads for current primary inspection.",
+    "Distinguishing operational continuity, programme delivery, integration ownership and retained supplier oversight as questions to test."
+  ],
+  "cannot_transfer": [
+    "Recommendation counts or ranks as market share, demand, shortage, supplier quality, talent availability or employer priorities.",
+    "Observed wording as proof of hidden model reasoning or evidence of real buyer behaviour.",
+    "Mixed UK/US results or tool/repeat responses as independent employer observations.",
+    "Old generated capability/affiliation/fee claims as verified external facts.",
+    "Previously cited page frequency as proof of page quality, of research causal effect or of the most important operating gap.",
+    "Prior partial source captures as complete citation inventories; missing source records remain missing."
+  ],
+  "global_source_limitations_preserved": {
+    "complete": 339,
+    "partial": 6,
+    "pending": 1,
+    "none_present": 6
+  },
+  "new_current_checks": "Current primary declarations independently inspected for engagement mode and output/ownership distinctions; no product or payroll outcome verified.",
+  "files_changed": [],
+  "anti_anchoring_rule": "The earlier prompts are researcher-written constructed scenarios, not observed real buyer questions. Keep the unchanged core unaided priority/need questions first. Use scenario contrasts only for analyst challenge or relevant later selective follow-up; they cannot establish participant priorities or engagement terms."
+}

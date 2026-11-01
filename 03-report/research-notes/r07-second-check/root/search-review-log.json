@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R07 second challenge: relative priority, ongoing work, dependencies and affected-user evidence",
+  "queries": [
+    "government functional standard portfolio prioritisation capacity dependencies",
+    "government digital service standard user evidence prioritisation service dependencies"
+  ],
+  "inspected": [
+    {
+      "source_id": "SRC-0153",
+      "locator": "Sections3.3,5.3.3–5.3.7,7.4"
+    },
+    {
+      "candidate_id": "R7R-S01",
+      "locator": "4.6.7–4.6.8;5.4–5.6;8.3;8.11"
+    }
+  ],
+  "excluded": [
+    "Superseded2018trial/2021standard search routes not used as current guidance",
+    "GovS002 raw403 is not a retained original"
+  ],
+  "external_actions": []
+}

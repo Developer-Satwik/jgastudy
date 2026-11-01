@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R06 second challenge: actual feasibility, access and handback versus binary supplierstay/switch",
+  "queries": [
+    "site.iris.co.uk Earnie endoflife5April2026payrollarchive",
+    "site.brightsg.com BrightPaydesktop discontinued2026migrationhistory bureau",
+    "site.sage.com payrollcancelsubscription dataaccessUK"
+  ],
+  "inspected_primary_routes": [
+    "BrightPaycurrentmigrationhub",
+    "BrightPay25-26legacydoc for versioncrosscheckonly",
+    "IRIS EarnieJan2026EoLguide",
+    "SageUKcancelaccount",
+    "SageUKknowledgebasecancelarticle crosscheckonly",
+    "RetainedPayfit27October2026clauses4.2/5.4"
+  ],
+  "exclusions": [
+    "SageSouthAfrica30dayaccess article notUKrule",
+    "SageIreland/USdifferentread-onlyrule notUKrule",
+    "Thirdpartymigrationvendors/forums notprimaryevidence",
+    "BrightPaylegacyfeature/CIS/accessfactsnotmergedintocurrenthub",
+    "Cloudsecurity/compliancebenefits nottested oradoptedasoutcomes"
+  ],
+  "pdf_review": {
+    "skill_read": true,
+    "original": "M6S-S02",
+    "pages_one_based": [
+      1,
+      3,
+      4
+    ],
+    "printed_pages": [
+      1,
+      3,
+      4
+    ],
+    "visual_inspection": true,
+    "scope": "Coverversion; lifecycle/read-only, risk and preservation/transitiononly"
+  },
+  "external_actions": []
+}

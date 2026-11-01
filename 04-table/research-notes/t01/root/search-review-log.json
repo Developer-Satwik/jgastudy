@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Root comparison of free/public substitutes and paid-value hypotheses",
+  "queries": [
+    "CIPP public payroll survey report catalogue",
+    "Payroll Influences research partner reports payroll",
+    "PayrollOrg 2026 PPCI complimentary report release announcement"
+  ],
+  "reviewed_canonical_source_ids": [
+    "SRC-0010",
+    "SRC-0013"
+  ],
+  "excluded_leads": [
+    {
+      "route": "PayrollOrg July 2026 PPCI research announcement",
+      "reason": "Announcement of a later release/participation window does not establish completed report availability. Existing canonical substantive PPCI evidence is sufficient; no extra route added for volume."
+    }
+  ],
+  "external_contact": false,
+  "paid_access": false
+}

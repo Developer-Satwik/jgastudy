@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "module": "R04",
+  "status": "internal_analytical_design_practitioner_integration_pending",
+  "universal_workflow": false,
+  "mandatory_sequence": false,
+  "validated_framework": false,
+  "ranking": false,
+  "original_practitioner_observations": 0,
+  "functions": [
+    {
+      "function_id": "F01",
+      "name": "Need origin",
+      "possible_actions": [
+        "raise need",
+        "request review"
+      ],
+      "authority_inference_limit": "Initiation alone does not establish purchase authority.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F02",
+      "name": "Requirements and evaluation",
+      "possible_actions": [
+        "define requirements",
+        "compare options",
+        "supply relevant experience"
+      ],
+      "authority_inference_limit": "Evaluation is not final selection authority.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F03",
+      "name": "Sponsorship and change ownership",
+      "possible_actions": [
+        "advocate",
+        "carry case",
+        "resolve escalation within remit"
+      ],
+      "authority_inference_limit": "Sponsorship does not establish budget or signature.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F04",
+      "name": "Service and result ownership",
+      "possible_actions": [
+        "define service criteria",
+        "own continuing service or controls",
+        "assess intended result"
+      ],
+      "authority_inference_limit": "Title alone does not identify the owner; result remains separate from release.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F05",
+      "name": "Funding and resources",
+      "possible_actions": [
+        "allocate existing resources",
+        "approve additional funds or people",
+        "reprioritise within remit"
+      ],
+      "authority_inference_limit": "Approved budget is not realised spend or contractual commitment.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F06",
+      "name": "Proposal or stage authorisation",
+      "possible_actions": [
+        "approve",
+        "decline",
+        "defer",
+        "set condition"
+      ],
+      "authority_inference_limit": "Authority is scoped to a decision and date, not unrestricted future changes.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F07",
+      "name": "Commercial process",
+      "possible_actions": [
+        "run procurement",
+        "negotiate",
+        "evaluate commercial terms"
+      ],
+      "authority_inference_limit": "Tender management does not establish business ownership or final vote.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F08",
+      "name": "Contractual commitment",
+      "possible_actions": [
+        "enter agreement",
+        "vary agreement",
+        "terminate within remit"
+      ],
+      "authority_inference_limit": "Signature does not establish initiation, evaluation or budget ownership.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F09",
+      "name": "Specialist advice and assurance",
+      "possible_actions": [
+        "advise",
+        "review controls or risk",
+        "recommend",
+        "identify requirement"
+      ],
+      "authority_inference_limit": "Establish any additional binding condition or stop power separately.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F10",
+      "name": "Delivery",
+      "possible_actions": [
+        "configure",
+        "migrate",
+        "integrate",
+        "test",
+        "manage transition"
+      ],
+      "authority_inference_limit": "Executing work does not establish selection or approval authority.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F11",
+      "name": "Operational acceptance and release",
+      "possible_actions": [
+        "accept handover",
+        "authorise use or release",
+        "perform operational authorisation"
+      ],
+      "authority_inference_limit": "Functional signoff is not necessarily full go-live or investment approval.",
+      "mandatory": false,
+      "distinct_person_required": false
+    },
+    {
+      "function_id": "F12",
+      "name": "Escalation and exception",
+      "possible_actions": [
+        "resolve exceeded limit",
+        "resolve disputed condition",
+        "decide exception"
+      ],
+      "authority_inference_limit": "Seniority alone does not establish escalation authority.",
+      "mandatory": false,
+      "distinct_person_required": false
+    }
+  ],
+  "decision_objects": [
+    "permission to investigate or pursue",
+    "resource allocation",
+    "option or provider choice",
+    "contractual commitment or variation",
+    "readiness release or handover",
+    "continuing service or later change review"
+  ],
+  "decision_object_rule": "Selective and combinable; ordinary payroll/payment authorisation is a boundary example, not investment authority. Preserve exact case scope.",
+  "action_right_codes": [
+    "initiate",
+    "specify",
+    "evaluate",
+    "recommend",
+    "advocate",
+    "advise",
+    "allocate_resources",
+    "approve",
+    "decline",
+    "defer",
+    "set_binding_condition",
+    "formally_stop",
+    "sign",
+    "implement",
+    "accept_operations",
+    "authorise_operational_release",
+    "escalate"
+  ],
+  "knowledge_basis_codes": [
+    "first_hand_action",
+    "direct_observation",
+    "described_formal_mandate_or_process",
+    "participant_understanding",
+    "reported_by_other",
+    "unknown"
+  ],
+  "condition_codes": [
+    "concern",
+    "advice",
+    "prerequisite",
+    "binding_condition",
+    "formal_stop",
+    "not_applicable",
+    "unknown"
+  ],
+  "disposition_codes_from_Q007": [
+    "approved",
+    "declined",
+    "deferred",
+    "withdrawn_or_abandoned",
+    "pending",
+    "no_formal_approval_required",
+    "not_known",
+    "prefer_not_to_disclose"
+  ],
+  "conditional_approval_rule": "Use approved with separately recorded scope/conditions and subsequent events; do not replace Q007 response wording.",
+  "missingness_codes": [
+    "not_asked",
+    "not_known",
+    "not_disclosed_or_prefer_not_to_say",
+    "not_applicable",
+    "not_involved",
+    "disputed"
+  ],
+  "minimum_useful_case": [
+    "specific directly experienced decision",
+    "contributor involvement",
+    "at least one action with described actor/function",
+    "unknowns retained"
+  ],
+  "full_committee_map_required": false,
+  "confidential_documents_required": false,
+  "exact_budget_or_threshold_required": false,
+  "personal_names_required": false,
+  "template_fields": [
+    "case_id",
+    "broad_employer_context",
+    "jurisdiction",
+    "change_type",
+    "selected_event_date",
+    "as_of_date",
+    "direct_involvement",
+    "decision_object",
+    "decision_scope",
+    "function_id",
+    "action",
+    "authority_domain_and_limit",
+    "knowledge_basis",
+    "source_or_locator",
+    "reported_influence",
+    "condition_type",
+    "condition_owner",
+    "clearance_or_escalation_owner",
+    "condition_state",
+    "decision_disposition",
+    "subsequent_implementation_state",
+    "intended_and_observed_results",
+    "missingness_or_dispute",
+    "permission_and_attribution",
+    "holder_organisation_and_level",
+    "relevant_service_or_agreement_scope",
+    "requested_or_intended_remit",
+    "described_delegation_and_effective_period",
+    "authority_change_or_handover",
+    "mandate_as_described",
+    "action_in_practice",
+    "reported_difference_and_knowledge_basis",
+    "acceptance_object",
+    "affected_party_or_external_condition_applicability"
+  ],
+  "blank_event_template": {
+    "case_id": null,
+    "broad_employer_context": null,
+    "jurisdiction": null,
+    "change_type": null,
+    "selected_event_date": null,
+    "as_of_date": null,
+    "direct_involvement": null,
+    "decision_object": null,
+    "decision_scope": null,
+    "function_id": null,
+    "action": null,
+    "authority_domain_and_limit": null,
+    "knowledge_basis": null,
+    "source_or_locator": null,
+    "reported_influence": null,
+    "condition_type": null,
+    "condition_owner": null,
+    "clearance_or_escalation_owner": null,
+    "condition_state": null,
+    "decision_disposition": null,
+    "subsequent_implementation_state": null,
+    "intended_and_observed_results": null,
+    "missingness_or_dispute": null,
+    "permission_and_attribution": null,
+    "holder_organisation_and_level": null,
+    "relevant_service_or_agreement_scope": null,
+    "requested_or_intended_remit": null,
+    "described_delegation_and_effective_period": null,
+    "authority_change_or_handover": null,
+    "mandate_as_described": null,
+    "action_in_practice": null,
+    "reported_difference_and_knowledge_basis": null,
+    "acceptance_object": null,
+    "affected_party_or_external_condition_applicability": null
+  },
+  "participant_observations": [],
+  "published_case_examples": [
+    {
+      "case_id": "R04-PUB01",
+      "employer": "Purplebricks",
+      "geography": "UK",
+      "evidence_type": "Supplier-published named employer testimony",
+      "source_ids": [
+        "SRC-0157"
+      ],
+      "claim_ids": [
+        "CLM-0264"
+      ],
+      "relevant_function_ids": [
+        "F02",
+        "F03"
+      ],
+      "reported_actions": [
+        "Team built change case",
+        "CFO agreed change needed"
+      ],
+      "event_period": "Following May 2023 acquisition; precise selection date undisclosed",
+      "unknowns": [
+        "Formal final approver",
+        "Budget release",
+        "Signatory",
+        "IT/security/procurement authority"
+      ],
+      "original_JGA_contribution": false,
+      "case_example_not_prevalence": true
+    },
+    {
+      "case_id": "R04-PUB02",
+      "employer": "Anonymous construction employer",
+      "geography": "UK",
+      "evidence_type": "Adviser-reported anonymous case",
+      "source_ids": [
+        "SRC-0158"
+      ],
+      "claim_ids": [
+        "CLM-0265"
+      ],
+      "relevant_function_ids": [
+        "F02",
+        "F05"
+      ],
+      "reported_actions": [
+        "Payroll Manager excluded from original selection",
+        "Payroll Manager involved in later review",
+        "CEO approved later corrective resources"
+      ],
+      "event_period": "Undisclosed",
+      "unknowns": [
+        "Original selector",
+        "Original budget owner",
+        "Signatory",
+        "Technical/procurement rights"
+      ],
+      "original_JGA_contribution": false,
+      "case_example_not_prevalence": true
+    },
+    {
+      "case_id": "R04-PUB03",
+      "employer": "Decjuba",
+      "geography": "Australia-context, not UK",
+      "evidence_type": "Supplier-published named time-and-attendance case",
+      "source_ids": [
+        "SRC-0159"
+      ],
+      "claim_ids": [
+        "CLM-0266"
+      ],
+      "relevant_function_ids": [
+        "F02",
+        "F10"
+      ],
+      "reported_actions": [
+        "Payroll Manager led transition",
+        "Requirements and tender described"
+      ],
+      "event_period": "Event date undisclosed; published 22 December 2025",
+      "unknowns": [
+        "Final individual approver",
+        "Budget owner",
+        "Signatory",
+        "Procurement/security authority"
+      ],
+      "original_JGA_contribution": false,
+      "case_example_not_prevalence": true
+    },
+    {
+      "case_id": "R04-PUB04",
+      "employer": "Scottish Government",
+      "geography": "Scotland",
+      "evidence_type": "Independent audit and contextual employer closure",
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0136"
+      ],
+      "claim_ids": [
+        "CLM-0269",
+        "CLM-0270",
+        "CLM-0271",
+        "CLM-0272",
+        "CLM-0273"
+      ],
+      "relevant_function_ids": [
+        "F03",
+        "F06",
+        "F09",
+        "F10",
+        "F11"
+      ],
+      "reported_actions": [
+        "14 August 2024 HR migration-process signoff",
+        "19 September recommendation",
+        "20 September conditional backing",
+        "30 September formal approval for 1 October go-live",
+        "Separate cutover execution responsibility"
+      ],
+      "event_period": "August–October 2024 events; later management benefits-strategy account June 2025",
+      "unknowns": [
+        "Original funding authority",
+        "Commercial signatory",
+        "All contractual acceptance conditions",
+        "Realised benefits"
+      ],
+      "original_JGA_contribution": false,
+      "case_example_not_prevalence": true
+    },
+    {
+      "case_id": "R04-PUB05",
+      "employer": "Rotherham Metropolitan Borough Council",
+      "geography": "England",
+      "evidence_type": "Official officer-delegated incumbent-support award",
+      "source_ids": [
+        "SRC-0160"
+      ],
+      "claim_ids": [
+        "CLM-0274"
+      ],
+      "relevant_function_ids": [
+        "F06",
+        "F07"
+      ],
+      "reported_actions": [
+        "Assistant Chief Executive exercised stated delegation for support/maintenance award",
+        "Finance Legal HR review described"
+      ],
+      "event_period": "Decision body 22 March 2024; signature line conflicting 2023",
+      "unknowns": [
+        "Actual later execution",
+        "Measured service result",
+        "Each reviewer veto right"
+      ],
+      "original_JGA_contribution": false,
+      "case_example_not_prevalence": true
+    },
+    {
+      "case_id": "R04-PUB06",
+      "employer": "Argyll and Bute Council",
+      "geography": "Scotland",
+      "evidence_type": "Official minutes and same-programme management report",
+      "source_ids": [
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "claim_ids": [
+        "CLM-0275",
+        "CLM-0276"
+      ],
+      "relevant_function_ids": [
+        "F03",
+        "F05",
+        "F06",
+        "F10"
+      ],
+      "reported_actions": [
+        "Committee approved Phase 2 continuation and additional resources",
+        "Project Board and ELT delivery prioritisation separately described"
+      ],
+      "event_period": "Selected Committee event 8 May 2025",
+      "unknowns": [
+        "Later expenditure",
+        "New contract execution",
+        "Final go-live approver",
+        "Completed remediation or benefit"
+      ],
+      "original_JGA_contribution": false,
+      "case_example_not_prevalence": true
+    }
+  ],
+  "published_case_rule": "Selected secondary cases, some older than the primary 24-month recall window. Not fieldwork, participant eligibility, a representative sample or a ranking.",
+  "existing_question_mapping": {
+    "Q001": [
+      "actual contribution"
+    ],
+    "Q006": [
+      "case and directly experienced milestone"
+    ],
+    "Q007": [
+      "disposition separate from implementation"
+    ],
+    "Q008": [
+      "trigger"
+    ],
+    "Q009": [
+      "authority object scope and basis"
+    ],
+    "Q010": [
+      "requested evidence"
+    ],
+    "Q011": [
+      "reported influence"
+    ],
+    "Q012": [
+      "alternatives"
+    ],
+    "Q013": [
+      "conditions and concerns"
+    ]
+  },
+  "fourteen_core_questions_unchanged": true,
+  "unaided_account_first": true,
+  "extra_mandatory_questions": 0,
+  "guardrails": [
+    "Never infer authority or causation from title attendance sequence or supplier access alone",
+    "Advice binding conditions formal stop and practical dependency are distinct",
+    "Public rules and listed-company guidance retain source scope",
+    "Retained incumbent can be an affirmative choice",
+    "Record changed decisions as further dated events",
+    "Approval signature release and benefit are separate",
+    "No universal CFO or specialist veto",
+    "Existing source conflicts and numerical holds remain in force",
+    "No authority or credibility score"
+  ],
+  "supporting_claim_ids": [
+    "CLM-0253",
+    "CLM-0254",
+    "CLM-0255",
+    "CLM-0256",
+    "CLM-0257",
+    "CLM-0258",
+    "CLM-0259",
+    "CLM-0260",
+    "CLM-0261",
+    "CLM-0262",
+    "CLM-0263",
+    "CLM-0264",
+    "CLM-0265",
+    "CLM-0266",
+    "CLM-0267",
+    "CLM-0268",
+    "CLM-0269",
+    "CLM-0270",
+    "CLM-0271",
+    "CLM-0272",
+    "CLM-0273",
+    "CLM-0274",
+    "CLM-0275",
+    "CLM-0276",
+    "CLM-0277",
+    "CLM-0278",
+    "CLM-0279",
+    "CLM-0280",
+    "CLM-0281",
+    "CLM-0282",
+    "CLM-0283",
+    "CLM-0284",
+    "CLM-0285",
+    "CLM-0286",
+    "CLM-0287",
+    "CLM-0288",
+    "CLM-0289",
+    "CLM-0290",
+    "CLM-0291",
+    "CLM-0292",
+    "CLM-0293",
+    "CLM-0294"
+  ],
+  "next_module": "R05 business-case evidence funding and implementation risks",
+  "second_challenge_date": "2026-10-29",
+  "cross_cutting_conditions": [
+    {
+      "condition_id": "C01",
+      "name": "Effective remit and change",
+      "establish": "Requested role scope, described delegation, effective period/change and actual exercise",
+      "supporting_claim_ids": [
+        "CLM-0279",
+        "CLM-0280",
+        "CLM-0281",
+        "CLM-0282",
+        "CLM-0288",
+        "CLM-0289"
+      ],
+      "limits": "An intended role or unchanged title is not effective delegated authority. Preserve interim/succession/handback where relevant.",
+      "mandatory": false
+    },
+    {
+      "condition_id": "C02",
+      "name": "Organisation and contract level",
+      "establish": "Broad employer/external party, group/region/entity/country and service or agreement scope",
+      "supporting_claim_ids": [
+        "CLM-0279",
+        "CLM-0286",
+        "CLM-0287"
+      ],
+      "limits": "Do not demand entity names or a complete corporate chart, or transfer framework/group rights to every customer/local decision.",
+      "mandatory": false
+    },
+    {
+      "condition_id": "C03",
+      "name": "Mandate and practice",
+      "establish": "Mandate as described, action directly taken/observed, any reported difference/change and knowledge basis",
+      "supporting_claim_ids": [
+        "CLM-0285",
+        "CLM-0287"
+      ],
+      "limits": "Practical control alone does not establish formal delegation, misconduct or motive. Preserve divergent accounts.",
+      "mandatory": false
+    },
+    {
+      "condition_id": "C04",
+      "name": "Acceptance object",
+      "establish": "Hours for payment, deliverable, handover, payroll result, readiness, supplier choice or contract commitment",
+      "supporting_claim_ids": [
+        "CLM-0284",
+        "CLM-0290",
+        "CLM-0291"
+      ],
+      "limits": "Application/time approval, output acceptance and purchasing authority are not interchangeable; actual scope governs.",
+      "mandatory": false
+    },
+    {
+      "condition_id": "C05",
+      "name": "Affected-party or external condition",
+      "establish": "Actual change and any relevant representation/agreement/specialist/external condition, its applicability owner basis and state",
+      "supporting_claim_ids": [
+        "CLM-0292",
+        "CLM-0293",
+        "CLM-0294"
+      ],
+      "limits": "No universal employee veto, automatic processing consent or mandatory consultation route for every software change. Current context and final-use guidance check required.",
+      "mandatory": false
+    }
+  ],
+  "secondary_challenge_examples": [
+    {
+      "example_id": "R04-SC-EX01",
+      "name": "Payfit selected Roots KBB quote and separately declared admin workflow",
+      "source_ids": [
+        "SRC-0168"
+      ],
+      "claim_ids": [
+        "CLM-0283",
+        "CLM-0284"
+      ],
+      "evidence_type": "Supplier-selected customer involvement account plus distinct product-permission declaration",
+      "scope": "UK founders-targeted page; employer size and full purchase chain unverified",
+      "unknowns": [
+        "Sole/formal authority",
+        "Funding",
+        "Signatory",
+        "Actual configured permissions"
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "example_id": "R04-SC-EX02",
+      "name": "Herbalife programme in Chazey adviser account",
+      "source_ids": [
+        "SRC-0169"
+      ],
+      "claim_ids": [
+        "CLM-0285"
+      ],
+      "evidence_type": "Adviser-reported retrospective practical-governance account",
+      "scope": "Global/regional programme; described intervention2023 and programme through2024",
+      "unknowns": [
+        "Formal contract/delegation",
+        "Every approver",
+        "Independent causal verification",
+        "Current October2026 state"
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "example_id": "R04-SC-EX03",
+      "name": "aosphere CPO remit in Frazer Jones case",
+      "source_ids": [
+        "SRC-0119"
+      ],
+      "claim_ids": [
+        "CLM-0288"
+      ],
+      "evidence_type": "Recruiter-selected named restructuring case",
+      "scope": "HR operations/payroll structure during de-merger; decision date unestablished",
+      "unknowns": [
+        "Funding",
+        "Signatory",
+        "Platform choice",
+        "Final acceptance"
+      ],
+      "original_JGA_contribution": false
+    }
+  ],
+  "prior_study_bridge": "03-report/research-notes/r04-second-check/competitors/prior-study-bridge.json",
+  "prior_study_question_ids": [
+    "S01-A",
+    "S01-B",
+    "S01-C",
+    "S01-D",
+    "S05-A",
+    "S05-B",
+    "S05-C",
+    "S05-D",
+    "S10-A",
+    "S10-B",
+    "S10-C",
+    "S10-D"
+  ],
+  "prior_prompt_scenarios_are_constructed": true,
+  "prior_recommendation_counts_reused": false,
+  "prior_prompt_anchoring_rule": "Selected CFO/permanent-leader premises were written into the questions; repetition in answers cannot establish actual authority, demand or a hiring requirement.",
+  "unaided_participant_priorities_first": true,
+  "additional_mandatory_questions_from_second_challenge": 0
+}

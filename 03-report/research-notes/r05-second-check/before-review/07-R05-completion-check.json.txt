@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R05_desktop_synthesis",
+  "new_source_routes": 9,
+  "source_candidate_routes_including_reuse": 10,
+  "new_claim_or_guardrail_records": 28,
+  "source_records": 150,
+  "claim_records": 232,
+  "source_records_with_primary_retained_original": 90,
+  "internal_findings": 49,
+  "evidence_domains": 9,
+  "financial_views": 3,
+  "checked_capture_files": 62,
+  "prior_topic_and_core_hashes_preserved": 23,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "employer_forecasts": 0,
+  "numerical_estimates": 0,
+  "product_or_API_tests": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R05-DESKTOP-READOUT.md",
+      "sha256": "32409c4f7b8bb8c93c830ae23033a56c33829d2cf4c195f62394c2e6b783e842"
+    },
+    {
+      "path": "03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "sha256": "e89f5d72d82fce6ff63a011af69f783e587a93f18dd954b8bdbfcd8eb6b84609"
+    },
+    {
+      "path": "03-report/R05-evidence-map.json",
+      "sha256": "241b545fc05ae2bf88e5141d0e9b39fa9c75d5058b420ac6a26915f54ff13339"
+    },
+    {
+      "path": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "sha256": "4ad9bebd3ede93f18485494e4624a0290b821f84c27da417b8f52452d1cb6455"
+    },
+    {
+      "path": "08-qa/R05-independent-review.md",
+      "sha256": "160758000bba5d925ac44ae08f76db48be52dc6ac7ed6ea5edd5c650a6446789"
+    },
+    {
+      "path": "08-qa/R05-record-map.json",
+      "sha256": "1f9b29eb8d3984ba7d893771f76aea97cb730715100864f4e12d86ab073578df"
+    }
+  ],
+  "next": "R06 actual staying switching deferral rejection and abandonment; no sending without user permission.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 989,
+    "json_files": 197,
+    "source_records": 150,
+    "claim_records": 232,
+    "question_records": 14,
+    "internal_design_findings": 49,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 115,
+    "scope": "R01–R05 record linkage and captures; synthesis references, R03 options, R04 authority/pathways and R05 cost/benefit/funding/readiness boundaries; WP02 question mapping and project consistency. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1H-S01",
+      "title": "CPO magazine archive",
+      "publisher": "PayrollOrg / CPO",
+      "url": "https://cpo.org/magazine/",
+      "source_type": "publisher_original_archive",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-30",
+      "published_date": null,
+      "last_updated": null,
+      "date_note": "Review date is not event date. Archive lists issue dates; event article published9 October 2026 describesMay 2026. No time-series inference.",
+      "population": "Publisher’s senior-payroll editorial/event audience; no research sample established",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Publisher promotes own editorial/community/event activity; Summit article names Strada sponsorship.",
+      "capture_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S01.html",
+      "capture_sha256": "2c22058a432242c9c683adc95fd8739ab5dfc483c1e25bebe2c75f5bd71f3927",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/history/captures/T1H-S01.txt",
+          "sha256": "325787c739cbcb029974d91047bf0fdef1af75518c5e489625f572dca4175c26",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Live original archive and page dates establish listed editorial issues only. Web reader was stale relative to original capture; retained original shows October 2026. No paid readership, engagement, ongoing forum activity, future cadence guarantee or retention inferred.",
+      "reuse_status": "Internal source review only; no commercial reuse rights obtained."
+    },
+    {
+      "candidate_id": "T1H-S02",
+      "title": "AI, Talent, Trust Took Center Stage at Payroll’s Executive Summit",
+      "publisher": "PayrollOrg / CPO",
+      "url": "https://cpo.org/ai-talent-trust-take-center-stage-at-payrolls-executive-summit/",
+      "source_type": "publisher_event_retrospective",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-30",
+      "published_date": "2026-10-09",
+      "last_updated": null,
+      "date_note": "Review date is not event date. Archive lists issue dates; event article published9 October 2026 describesMay 2026. No time-series inference.",
+      "population": "Publisher’s senior-payroll editorial/event audience; no research sample established",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Publisher promotes own editorial/community/event activity; Summit article names Strada sponsorship.",
+      "capture_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S02.html",
+      "capture_sha256": "afd8fb97e43ede11ac17bf4948453c688e3002961fdf68b8de98e8c206901fa2",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/history/captures/T1H-S02.txt",
+          "sha256": "deda805896ab9cb87655da84166221ad46dec6d4d3d8cd0758980331cfd82237",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Publisher retrospective of May 2026 event, not independently verified attendance, sponsor receipt, commercial success or permissioned Table input. Use only format, named sponsor and Nick Day moderator role. Article valuation, tax-law and employee-benefit assertions are not adopted.",
+      "reuse_status": "Internal source review only; no commercial reuse rights obtained."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0240",
+      "locator": "Retained cpo-about.parsed.txt lines5–9",
+      "limitations": "Publisher origin narrative linking summits and CPO; positive success language is not independently validated.",
+      "review_mode": "Existing retained original and separate parsed text re-inspected; no new original file or independent dataset.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0241",
+      "locator": "Retained cpo-forum-review.parsed.txt launch and discussion paragraphs",
+      "limitations": "January 2026 report of October 2025 launch and initial discussion, not October 2026 activity/retention. Provider-side participant present; no employer-only inference.",
+      "review_mode": "Existing retained original and separate parsed text re-inspected; no new original file or independent dataset.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0239",
+      "locator": "Terms clauses5.1.3,5.4,5.5 and9.3.3/9.5; retained parsed text lines102–123,173–181",
+      "limitations": "Public general terms describe default contractual mechanisms, not observed purchases, actual renewal rates or terms for The Table.",
+      "review_mode": "Existing retained original and separate parsed text re-inspected; no new original file or independent dataset.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0224",
+      "locator": "Retained help article displayed lastupdate30 April 2021 and custom survey/report paragraph",
+      "limitations": "Older help article; main offer unavailable in T01; cannot establish current package availability or historical change.",
+      "review_mode": "Existing retained original and separate parsed text re-inspected; no new original file or independent dataset.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0225",
+      "locator": "Retained help article displayed lastupdate20 May 2024 and recruitment paragraph",
+      "limitations": "Generic recruitment description not proof of current method for every report or demand.",
+      "review_mode": "Existing retained original and separate parsed text re-inspected; no new original file or independent dataset.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0226",
+      "locator": "Retained help article displayed lastupdate18 September 2023 and free-sign-in paragraph",
+      "limitations": "A dated access statement, not a redistribution licence or current commercial package confirmation.",
+      "review_mode": "Existing retained original and separate parsed text re-inspected; no new original file or independent dataset.",
+      "new_independent_dataset": false
+    }
+  ],
+  "excluded_route_candidates": [
+    "T1H-L01"
+  ]
+}

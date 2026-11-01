@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_for_parent_integration_only",
+  "checks": [
+    {
+      "name": "six competitors plus JGA source contexts",
+      "passed": true
+    },
+    {
+      "name": "all six recruitment comparators and JGA",
+      "passed": true
+    },
+    {
+      "name": "seven bounded context/design claims",
+      "passed": true
+    },
+    {
+      "name": "selected note hash SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "selected note hash SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0222 capture_path",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0222 text_path",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0116 capture_path",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0116 text_path",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0192 capture_path",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0192 text_path",
+      "passed": true
+    },
+    {
+      "name": "selected note hash SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0193 capture_path",
+      "passed": true
+    },
+    {
+      "name": "source hash SRC-0193 text_path",
+      "passed": true
+    },
+    {
+      "name": "selected note hash SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "prior study original hash all_answers",
+      "passed": true
+    },
+    {
+      "name": "prior study original hash final_answer_index",
+      "passed": true
+    },
+    {
+      "name": "prior study original hash previous_R08_exact_bridge",
+      "passed": true
+    },
+    {
+      "name": "no model reruns or demand-count transfer",
+      "passed": true
+    },
+    {
+      "name": "local JSON parse",
+      "passed": true
+    }
+  ],
+  "check_count": 20,
+  "new_source_routes": 0,
+  "canonical_reuses": 7,
+  "raw_primary_HTML": 4,
+  "selected_notes": 4,
+  "Hays_shell_vs_reader_note_separated": true,
+  "prior_bridge_checks": 126,
+  "selected_saved_records": 24,
+  "semantic_rereads": 3,
+  "shared_or_client_edits": false,
+  "external_actions": false,
+  "financial_inputs_added": 0,
+  "fieldwork": false
+}

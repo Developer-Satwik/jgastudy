@@ -1,0 +1,526 @@
+{
+  "date": "2026-10-29",
+  "status": "source_and_preservation_checks_passed_integration_pending",
+  "check_count": 124,
+  "checks": [
+    {
+      "check": "58 preservation records present",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved prior/client/core hash: 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Seven first-pass snapshots present",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot hash: 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Fourteen core questions remain version0.2 exactly",
+      "passed": true
+    },
+    {
+      "check": "Core wording preserved from version0.1",
+      "passed": true
+    },
+    {
+      "check": "No unperformed data invented: 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "No unperformed data invented: 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "No unperformed data invented: 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "check": "Hold retained: CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Hold retained: CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Hold retained: CLM-0167",
+      "passed": true
+    },
+    {
+      "check": "Hold retained: CLM-0168",
+      "passed": true
+    },
+    {
+      "check": "Hold retained: CLM-0218",
+      "passed": true
+    },
+    {
+      "check": "Hold retained: CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "history bounded claims present",
+      "passed": true
+    },
+    {
+      "check": "history no adopted numeric measure: H7S-C01",
+      "passed": true
+    },
+    {
+      "check": "history locator and inference boundary: H7S-C01",
+      "passed": true
+    },
+    {
+      "check": "history no adopted numeric measure: H7S-C02",
+      "passed": true
+    },
+    {
+      "check": "history locator and inference boundary: H7S-C02",
+      "passed": true
+    },
+    {
+      "check": "history no adopted numeric measure: H7S-C03",
+      "passed": true
+    },
+    {
+      "check": "history locator and inference boundary: H7S-C03",
+      "passed": true
+    },
+    {
+      "check": "history no adopted numeric measure: H7S-C04",
+      "passed": true
+    },
+    {
+      "check": "history locator and inference boundary: H7S-C04",
+      "passed": true
+    },
+    {
+      "check": "market bounded claims present",
+      "passed": true
+    },
+    {
+      "check": "market no adopted numeric measure: M7S-C01",
+      "passed": true
+    },
+    {
+      "check": "market locator and inference boundary: M7S-C01",
+      "passed": true
+    },
+    {
+      "check": "market no adopted numeric measure: M7S-C02",
+      "passed": true
+    },
+    {
+      "check": "market locator and inference boundary: M7S-C02",
+      "passed": true
+    },
+    {
+      "check": "market no adopted numeric measure: M7S-C03",
+      "passed": true
+    },
+    {
+      "check": "market locator and inference boundary: M7S-C03",
+      "passed": true
+    },
+    {
+      "check": "market no adopted numeric measure: M7S-C04",
+      "passed": true
+    },
+    {
+      "check": "market locator and inference boundary: M7S-C04",
+      "passed": true
+    },
+    {
+      "check": "market no adopted numeric measure: M7S-C05",
+      "passed": true
+    },
+    {
+      "check": "market locator and inference boundary: M7S-C05",
+      "passed": true
+    },
+    {
+      "check": "root bounded claims present",
+      "passed": true
+    },
+    {
+      "check": "root no adopted numeric measure: R7R-C01",
+      "passed": true
+    },
+    {
+      "check": "root locator and inference boundary: R7R-C01",
+      "passed": true
+    },
+    {
+      "check": "root no adopted numeric measure: R7R-C02",
+      "passed": true
+    },
+    {
+      "check": "root locator and inference boundary: R7R-C02",
+      "passed": true
+    },
+    {
+      "check": "root no adopted numeric measure: R7R-C03",
+      "passed": true
+    },
+    {
+      "check": "root locator and inference boundary: R7R-C03",
+      "passed": true
+    },
+    {
+      "check": "root no adopted numeric measure: R7R-C04",
+      "passed": true
+    },
+    {
+      "check": "root locator and inference boundary: R7R-C04",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/history/captures/SRC-0068.html",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/history/captures/SRC-0068.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/history/captures/SRC-0070.html",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/history/captures/SRC-0070.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r06-second-check/history/captures/H6S-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/history/captures/SRC-0206-05.png",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/history/captures/SRC-0206-06.png",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/market/captures/M7S-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/market/captures/M7S-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/market/captures/M7S-S02-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/market/captures/M7S-S03.html",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/market/captures/M7S-S03.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/market/captures/SRC-0207.html",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/root/captures/R7R-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/root/captures/R7R-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/extract/render hash: 03-report/research-notes/r07-second-check/root/captures/SRC-0153-selected-reader-notes.txt",
+      "passed": true
+    }
+  ],
+  "notes": [
+    {
+      "strand": "history",
+      "review": "Read original hosted CIPP2020/2024 parsed text and visually inspected retained LFB2025 PDFpages5\u20136. Different expectation/current-use/pressure measures are not a matched funding panel. LFB phase2 includes HR modules and declared phase/BAU sequence; no actual later result inferred.",
+      "visual_files": [
+        "03-report/research-notes/r07-second-check/history/captures/SRC-0206-05.png",
+        "03-report/research-notes/r07-second-check/history/captures/SRC-0206-06.png"
+      ]
+    },
+    {
+      "strand": "market",
+      "review": "Read retained FreeAgent feature and Moneysoft current/future-update wording; independently reopened original FreeAgent setup route with web reader. Inclusion versus account/access/setup and declaration versus installed/use remain distinct. Reader note after raw403 is not raw original."
+    },
+    {
+      "strand": "root",
+      "review": "Independently reopened GovS002 in web reader and read retained GovS005 text. Ongoing-work dependencies/capacity, user evidence and digital/non-digital service framing support selective analyst conditions, not private payroll mandates or observed outcomes."
+    }
+  ],
+  "remaining": [
+    "Competitor strand and prior-study bridge semantic limits",
+    "Integrated R07second files and canonical map",
+    "Final integrated findings/condition linkage"
+  ]
+}

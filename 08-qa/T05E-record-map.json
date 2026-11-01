@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "source_map": {
+    "E-S01": "SRC-0282",
+    "E-S02": "SRC-0283",
+    "E-S03": "SRC-0284",
+    "E-S04": "SRC-0285",
+    "E-S05": "SRC-0286",
+    "E-S07": "SRC-0287",
+    "E-S08": "SRC-0288"
+  },
+  "claim_map": {
+    "E-C01": "CLM-0599",
+    "E-C02": "CLM-0600",
+    "E-C03": "CLM-0601",
+    "E-C04": "CLM-0602",
+    "E-C05": "CLM-0603",
+    "E-C06": "CLM-0604",
+    "E-C07": "CLM-0605",
+    "E-C08": "CLM-0606",
+    "E-C09": "CLM-0607",
+    "E-C10": "CLM-0608",
+    "E-C11": "CLM-0609",
+    "E-C12": "CLM-0610"
+  },
+  "new_source_routes": 7,
+  "new_claim_records": 12,
+  "canonical_sources": 256,
+  "canonical_claims": 520,
+  "financial_inputs_added": 0
+}

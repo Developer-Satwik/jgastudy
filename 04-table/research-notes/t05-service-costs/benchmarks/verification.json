@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-01",
+  "verified_at_utc": "2026-11-01T10:29:09.392197+00:00",
+  "status": "passed_bounded_record_and_capture_checks",
+  "checks": [
+    {
+      "check": "hash_T5S-S01_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S01_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "substantive_original_T5S-S01",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S02_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S02_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "substantive_original_T5S-S02",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S03_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S03_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "substantive_original_T5S-S03",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S04_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5S-S04_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "substantive_original_T5S-S04",
+      "passed": true
+    },
+    {
+      "check": "T5S-C01_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C02_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C03_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C04_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C05_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C06_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C07_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5S-C08_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "no_new_monetary_rate_or_actual_customer_input",
+      "passed": true
+    },
+    {
+      "check": "four_primary_routes_with_original_and_parsed_text",
+      "passed": true
+    }
+  ],
+  "source_routes": 4,
+  "claim_candidates": 8,
+  "raw_originals": 4,
+  "reader_extracts": 0,
+  "new_monetary_benchmarks": 0,
+  "canonical_changes_by_this_subtask": 0,
+  "financial_inputs_added": 0,
+  "actual_quotes": [],
+  "actual_customer_or_sales_records": [],
+  "external_actions": [],
+  "scope": "Owned benchmarks folder only. Hashes, source references and substantive capture checks plus manual inspection of cited parsed lines. No canonical/control or financial file was written by this subtask. Not a legal review, supplier qualification or validation of JGA economics."
+}

@@ -1,0 +1,434 @@
+0001 8 April 2026: Synergy Programme - Summary Business Case - GOV.UK
+0002 Cookies on GOV.UK
+0003 We use some essential cookies to make this website work.
+0004 We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+0005 We also use cookies set by other sites to help us deliver content from their services.
+0006 You have accepted additional cookies. You can change your cookie settings at any time.
+0007 You have rejected additional cookies. You can change your cookie settings at any time.
+0008 Accept additional cookies
+0009 Reject additional cookies
+0010 View cookies
+0011 Hide cookie message
+0012 Skip to main content
+0013 GOV.UK
+0014 Navigation menu
+0015 Menu
+0016 Menu
+0017 Services and information
+0018 Benefits
+0019 Births, death, marriages and care
+0020 Business and self-employed
+0021 Childcare and parenting
+0022 Citizenship and living in the UK
+0023 Crime, justice and the law
+0024 Disabled people
+0025 Driving and transport
+0026 Education and learning
+0027 Employing people
+0028 Environment and countryside
+0029 Housing and local services
+0030 Money and tax
+0031 Passports, travel and living abroad
+0032 Visas and immigration
+0033 Working, jobs and pensions
+0034 Government activity
+0035 Departments
+0036 Departments, agencies and public bodies
+0037 News
+0038 News stories, speeches, letters and notices
+0039 Guidance and regulation
+0040 Detailed guidance, regulations and rules
+0041 Research and statistics
+0042 Reports, analysis and official statistics
+0043 Policy papers and consultations
+0044 Consultations and strategy
+0045 Transparency
+0046 Data, Freedom of Information releases and corporate reports
+0047 Search GOV.UK
+0048 ×
+0049 Search GOV.UK
+0050 Search
+0051 Search GOV.UK
+0052 Search
+0053 Home
+0054 Government
+0055 Government efficiency, transparency and accountability
+0056 8 April 2026: Synergy Programme - Summary Business Case
+0057 Department
+0058 for Work &
+0059 Pensions
+0060 Policy paper
+0061 8 April 2026: Synergy Programme - Summary Business Case
+0062 Published 8 April 2026
+0063 This was published under the 2024 to 2026 Starmer Labour government
+0064 Contents
+0065 Executive summary
+0066 1. Strategic Case
+0067 2. Economic case
+0068 3. Commercial case
+0069 4. Finance case
+0070 5. Management case
+0071 Print this page
+0072 © Crown copyright 2026
+0073 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+0074 Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+0075 This publication is available at https://www.gov.uk/government/publications/8-april-2026-synergy-programme-summary-business-case/8-april-2026-synergy-programme-summary-business-case
+0076 The Synergy Programme’s Full Business Case 2 (FBC2) secured His Majesty’s Treasury (HMT) approval on 8 December 2025. This Summary Business Case (SBC) has been developed and published in line with HM Government Publishing Business Cases guidance (June 2025), to increase transparency around how public money is spent and to ensure the public can easily access and review business cases for major projects and programmes.
+0077 Executive summary
+0078 Synergy will transform back-office functions for c250,000 civil servants – delivering a more modern, continuously improving shared services model, designed by and for government – making us more efficient, effective and able to deliver better for the people of the UK
+0079 The technology three of the four Synergy departments use is at end-of-life and support cannot be guaranteed past 2035. An Oracle Cloud Enterprise Resource Planning (ERP) Software as a Service (SaaS) has been procured for the Cluster
+0080 FBC2 is to secure critical investment to procure a new Business Process Services (BPS) partner. Our new technology emphasises automation and self-serve, meaning a new type of BPS supplier relationship and function is required
+0081 Total undiscounted programme costs are approximately £2bn over the FBC2 period, consisting of £746.4m investment costs, and £1,315.4m future running costs
+0082 Of the £2bn total programme costs, £873.4m is required for the new Business Process Service (BPS) partner contract, which includes both investment and future running costs
+0083 Full Business Case 1 (FBC1) showed Synergy returning £124m of net present value (NPV) and a benefit cost ratio (BCR) of 1.2. These have been revised to £582m and 1.9 respectively for FBC2. NPV of £582m represents discounted benefits of £1,238m less discounted costs of £656m.
+0084 Sensitivity analysis shows that the tipping point for a negative NPV is an 85% reduction in benefits
+0085 Optimism bias is set at 46% of total investment costs to cover risk and uncertainty
+0086 1. Strategic Case
+0087 1.1 Programme background and case for change
+0088 The Prime Minister’s ambition is to create a Productive and Agile State (PAS) through reducing government administration costs by 15% by the end of the decade. The Synergy Programme is a key enabler to delivering this vision. Established as one of five ‘Cluster’ programmes, the programme is responsible for delivering a new Shared Service Centre (SSC) under the Shared Services Strategy for Government 2021 (SSSG). The SSSG is addressing two fundamental challenges affecting Government:
+0089 high cost of services – over £550 million is spent each year delivering HR, Finance, Payroll and Procurement for 470,000 Civil Servants, 230,000 military personnel/reservists and one million veterans. These services manage around 15 million transactions per year with a value of approximately £278 billion.
+0090 Outdated technology – most systems used to support these services are bespoke, expensive to maintain and reaching-end-of-life. Owing to their age, they are also increasingly vulnerable to cyber-attacks, which are both costly to address and result in heightened risk of data breaches and loss of confidential government and personal information.
+0091 The Synergy Cluster comprises four departments and their 98 in-scope arm’s-length bodies (ALBs):
+0092 Department for Environment, Food and Rural Affairs (Defra)
+0093 Department for Work and Pensions (DWP) – the lead Department that houses the core programme team
+0094 Home Office (HO)
+0095 Ministry of Justice (MoJ)
+0096 Synergy is the largest of the Cluster programmes and accounts for almost half the Civil Service. Our people deliver some of the most vital and high-risk public services in the UK. Investment is required because:
+0097 the systems, tools and more efficient ways of working the programme will deliver will enable the Cluster Departments contribute to the efficiency targets set out in the Productive and Agile State
+0098 the benefits of delivering the programme far outweigh the cost of the investment
+0099 The consequences for government if Synergy is not delivered include rising costs, delivery implications, increased climate risk and security vulnerability – notably from aging technology and services that are out of line with current standards. Additionally, manually carrying out the services that are transforming would be time consuming, costly and not fit for purpose. Risks attached to using old and outdated technology would result in a continuously degrading experience for users, and key services being impacted – putting operational capability at risk and severely impacting citizens, suppliers and staff alike.
+0100 1.2 Programme context and objectives
+0101 In August 2024, the Chief Secretary to the Treasury approved FBC1, which secured investment for a new ERP and Systems Integrator (SI) contract (£443m) and the programme’s ongoing funding. The contract was executed soon after and the Consortium of partners have been working with the Cluster to design the ERP solution and converge processes.
+0102 From Synergy Strategic Outline Business Case (SOBC), through the Outline Business Case (OBC) and then to FBC1, it has been made clear that there is no feasible ‘do nothing’ option. Synergy FBC2 reinforces this position and is summarised in this Summary Business Case (SBC).
+0103 Synergy Departments already operate a Shared Service; delivered by Shared Services Connected Ltd (SSCL) via the Independent Shared Service Centre 2 (ISSC2) Framework. However, current contracts are expiring, and the technology that 3 of the 4 Departments use is reaching end of support. FBC1 secured investment in Oracle Cloud SaaS ERP. FBC2 enables the programme to drive transformation forward by implementing:
+0104 modern ERP technology (Oracle SaaS) that encourages self-service/self-help, maximises automation and exploits the opportunities available through emerging AI
+0105 new BPS partner provides transactional support, supports complex queries and delivers continuous improvement
+0106 new SSC Hub to manage the service delivery and partner contracts and further evolve the service with our departments and partners
+0107 a new Common Operating Model (COM) will standardise Finance, HR and Commercial processes and be owned by the Hub in live running, working with our partners and the Cluster to continuously improve the service over time
+0108 The programme is underpinned by the Synergy Transformation Commitments which are aligned to SSSG and support a range of cross-government strategic priorities.
+0109 The new service is being designed around user outcomes, rather than processes, and is focused on continuous evolution and service improvement. The ERP platform will be improved continuously through regular upgrades, meaning performance and user experience will continuously improve and offer a more personalised experience to staff. To fully realise the value of the new technology, a stronger relationship-based contracting approach with the BPS is essential. While transactional services remain, the new partnership model emphasises facilitation over transaction. Basic enquiries will be resolved through self-service channels, freeing the BPS to handle more complex support needs and focus on adding value through innovation and continuous improvement.
+0110 The Hub will manage the service and its contracts and focus on removing barriers to back-office tasks, offering a seamless user experience that frees up time for core work. It is being built and scaled within the programme, so it can develop its people, capabilities, and understanding of services, suppliers and users before it transitions to its own entity and BAU in 2028/2029. The ambition is that the new SSC will be one of five Shared Service Centres of Excellence and will play a key role working with the other SSCs in driving wider transformation across government. It is also expected that the Hub, through cross-cluster Subject Matter Expert (SME) support, will manage the social value initiatives arising from the ERP and BPS contracts – delivering enhanced and positive environmental and social benefits.
+0111 A core element of the programme is the work undertaken by our Cluster functional leaders and the SMEs they work with. They play a key role in designing new HR, Finance and Commercial processes now, while also using Synergy as a mechanism to inspire sustainable transformation. They are taking a proactive, future focused approach to identifying and exploring functional transformation and new organisation design opportunities to drive forward once the new service is in place. The key requirements identified have enabled us to establish a Common Operating Model (COM) that will deliver a range of cashable and non-cashable benefits that are set out in the Economic Case, along with the detailed benefits appraisal.
+0112 2. Economic case
+0113 2.1 Introduction
+0114 The Economic Case was developed in line with HMT Green Book guidance, using Social Cost-Benefit Analysis (SCBA) to assess value for money (VfM). This approach monetised both cash-releasing and non-cash-releasing benefits and compared them against investment and operating costs over the appraisal period, discounted at 3.5%.
+0115 2.2 Options at SOBC and OBC
+0116 At the SOBC stage, a longlist of 41 options was reduced to four shortlisted options for detailed appraisal in the Outline Business Case (OBC). These options scored highest against critical success factors (CSFs) and strategic objectives, and offered the greatest interoperability across Departments and the strongest alignment with the SSSG:
+0117 Full Transformation
+0118 Incremental Transformation
+0119 Do Minimum
+0120 Business as Usual (BAU)
+0121 At OBC, economic appraisal of the four options showed Full Transformation as the preferred option and was taken forward to FBC1. It returned the greatest VfM and met all CSFs. It also returned the highest NPV across all sensitivity analysis, and when considering the financial impacts of programme risks materialising (Risk adjusted NPV).
+0122 2.3 Analysis and rationale
+0123 Economic analysis has been updated following FBC1. It now reflects the final prices for services offered by the new BPS provider contract, costs of establishing the Hub and delivering the programme through to conclusion.
+0124 It presents the total VfM position, even though the ERP/SI and BPS procurements occur sequentially. Alongside the qualitative benefits identified, investment in Synergy will deliver an NPV of £582m and BCR of 1.9 – showing a better VfM position than in FBC1.
+0125 11-year VfM (£m)
+0126 Winning supplier (£m) (negative (-) is a saving)
+0127 Business as Usual (£m)
+0128 Comparison against BAU (negative (-) is a saving)
+0129 Run costs*
+0130 1,453
+0131 2,003
+0132 -551
+0133 Transition costs
+0134 656
+0135 -
+0136 656
+0137 Cash releasing savings
+0138 -206
+0139 -
+0140 -206
+0141 Non-cash releasing savings
+0142 -481
+0143 -
+0144 -481
+0145 NPV
+0146 -
+0147 -
+0148 -582
+0149 Benefit Cost Ratio (Comparison against BAU)
+0150 11-year VfM (£m)
+0151 Comparison against BAU (negative (-) is a saving)
+0152 Benefits (including reduction in run costs)
+0153 -1,238
+0154 Transition costs
+0155 656
+0156 Benefit-Cost Ratio (BCR)
+0157 1.9
+0158 Synergy delivers two key financial benefits:
+0159 significant benefits from an improved ERP system – creating efficiencies in departments (categorised as cash releasing and non-cash releasing benefits)
+0160 reduced cost of running BAU from the ERP and BPS contracts (categorised as reduced operating costs)
+0161 The tables below shows the breakdown of undiscounted cost savings and benefits by department and compares FBC2 totals with FBC1.
+0162 Cost Savings FBC2
+0163 MOJ
+0164 DWP
+0165 Defra
+0166 HO
+0167 Cabinet Office
+0168 Total
+0169 ERP tech
+0170 -10.1
+0171 -6.9
+0172 -1.6
+0173 20.6
+0174 -
+0175 2.0
+0176 Outsourced BPS
+0177 34.9
+0178 21.8
+0179 14.6
+0180 17.4
+0181 -
+0182 88.7
+0183 Shared Service Hub
+0184 -5.2
+0185 -5.2
+0186 -3.5
+0187 4.7
+0188 1.7
+0189 -7.5
+0190 Subtotal
+0191 19.7
+0192 9.7
+0193 9.5
+0194 42.6
+0195 1.7
+0196 83.2
+0197 Benefits FBC2
+0198 MOJ
+0199 DWP
+0200 Defra
+0201 HO
+0202 Cabinet Office
+0203 Total
+0204 FTE related (cashable)
+0205 9.8
+0206 8.5
+0207 4.2
+0208 -
+0209 -
+0210 22.5
+0211 Other cashable
+0212 1.5
+0213 8.4
+0214 6.5
+0215 -
+0216 -
+0217 16.3
+0218 Non-cashable
+0219 31.2
+0220 39.7
+0221 19.4
+0222 -
+0223 -
+0224 90.3
+0225 Subtotal
+0226 42.5
+0227 56.6
+0228 30.1
+0229 -
+0230 -
+0231 129.0
+0232 Comparison with FBC1
+0233 MOJ
+0234 DWP
+0235 Defra
+0236 HO
+0237 Cabinet Office
+0238 Total
+0239 Total savings and benefits FBC2
+0240 62.2
+0241 66.3
+0242 39.6
+0243 42.6
+0244 1.7
+0245 212.4
+0246 Total savings and benefits FBC1
+0247 40.9
+0248 23.3
+0249 13.6
+0250 35.0
+0251 1.8
+0252 114.6
+0253 Variance
+0254 21.3
+0255 43.0
+0256 26.0
+0257 7.6
+0258 -0.1
+0259 97.9
+0260 The HMT Green Book recommends that: ‘ideally adjustments should be based on an organisation’s own evidence base for historic levels of optimism bias (OB)’. At FBC1, Synergy commissioned external work, undertaken by Oxford Global Projects, on Reference Class Forecasting (RCF) to measure the outputs of 1000+ similar past ERP and BPS projects. RCF is assumed to provide a more robust estimator of potential cost overrun, considering uncertainty and risk in similar projects as well as the inherent OB of estimates. The RCF approach also has the advantage of including any costs associated with delay.
+0261 The RCF modelling was updated to reflect the current stage of the programme, which increased the OB from 39% in FBC1 to 46% in FBC2. This is because we are moving into the BPS phase and BPS programmes have larger cost overruns.
+0262 3. Commercial case
+0263 3.1 Introduction
+0264 The FBC2 Commercial Case sets out the commercial strategy used and the arrangements that have been put in place regarding the procurement of a new BPS supplier. The procurement process followed principles set out in the Cabinet Office’s Sourcing Playbook and Government Commercial Function guidance.
+0265 3.2 Procurement process
+0266 The BPS procurement was informed by an early delivery model assessment at OBC stage, which evaluated a wide range of options before recommending Full Transformation as the preferred approach. To reduce complexity and risk, the programme bundled ERP and System Integration (SI) requirements into a single procurement and sequenced the BPS procurement; the ERP & SI contract award was governed separately through FBC1 in August 2024 (please see Contract Award Notice).
+0267 The route to market used for the BPS procurement was the Competitive Procedure with Negotiation (CPN) under the Public Contracts Regulations 2015 and advertised via Find a Tender on 9th of September 2024 (Synergy Business Process Services - Find a Tender). This choice reflected the complexity of the requirement and the need for iterative dialogue with suppliers, consistent with Playbook guidance for high-risk, high-value services. The process comprised multiple stages: a Selection Questionnaire (SQ) to shortlist suppliers, an Initial Tender stage in November 2024, an extended negotiation phase across four workstreams (solution, contract, pricing, and TUPE) which took place from January 2025 to May 2025, and a Final Tender stage with responses received on 12th of June 2025. Suppliers were subsequently evaluated against criteria based on a 70% quality and 30% price weighting.
+0268 3.3 Contractual arrangements
+0269 The resulting BPS contract is based on the Model Services Contract, Tier ‘A’ Contract Management Plan due to its complexity and risk profile. The total potential contract value for the maximum 10-year term is £873.4m (initial 7-year term plus up to 3 years of extension options) and is inclusive of optional services.
+0270 Pricing mechanisms are designed to balance risk and incentivise performance to drive continuous improvement and service evolution:
+0271 implementation services are firm-priced and milestone-based
+0272 transactional services use capped cost-plus
+0273 technology services are volumetric with caps, and strategic services are fixed monthly
+0274 For future projects, flexible pricing models such as fixed price or gainshare will apply
+0275 Overall, the procurement strategy demonstrates strong adherence to commercial best practice: early market engagement, structured negotiation, clear risk-sharing mechanisms, and performance-based incentives.
+0276 4. Finance case
+0277 4.1 Introduction
+0278 Figures in the finance case are not discounted.
+0279 The finance case summarises the affordability and funding position of the Synergy programme over the FBC2 period (10 years and 3 months). The Spending Review 2025 (SR25) settled the programme’s funding envelope as £543.4m until 2028/29. The funding is ring-fenced to deliver the programme.
+0280 As lead department, DWP holds the funding. The impact of the programme on future running costs and savings sit with the Cluster Department’s budgets. As part of SR25, individual Cluster Departments were responsible for securing the funding required to manage their future running costs.
+0281 A positive net cash flow of £349.8m is expected over the FBC2 period, shown in the table below (costs are negatives, savings are positive).
+0282 SR24 2025/26 £m
+0283 SR25 2026/27 £m
+0284 SR25 2027/28 £m
+0285 SR25 2028/29 £m
+0286 Future years £m
+0287 Total £m
+0288 Investment required
+0289 -60.0
+0290 -208.1
+0291 -223.6
+0292 -211.5
+0293 -43.2
+0294 -746.4
+0295 Future running costs
+0296 0.0
+0297 0.0
+0298 -51.9
+0299 -161.3
+0300 -1,102.2
+0301 -1,315.4
+0302 Savings and benefits
+0303 0.0
+0304 0.0
+0305 41.9
+0306 225.7
+0307 2,144.0
+0308 2,411.6
+0309 Expected net cash flow
+0310 -60.0
+0311 -208.1
+0312 -233.6
+0313 -147.2
+0314 998.7
+0315 349.8
+0316 Note: Totals may not sum due to rounding.
+0317 In line with HMT Green Book processes, approval Control Points will be undertaken throughout the programme lifecycle and prior to making any formal financial commitment.
+0318 4.2 Investment – costs and funding
+0319 The overall investment required is £746.4m. Within the investment costs, there are areas which are expected to be funded directly by Cluster Departments and not the programme, including local integrations. The programme has also established a subsidy model, to provide an amount of funding from the programme to the Cluster Departments to subsidise some of their direct investment costs.
+0320 For the SR25 period, investment costs (excluding costs funded directly by Cluster Departments) are £607.5m. This leaves a potential funding shortfall of £64.2m in the SR25 period, and £107.3m over the full investment period.
+0321 The funding shortfall of £107.3m creates financial risk, primarily in later years. The programme will work with Cluster Departments to contain costs and manage risks where feasible. The Cluster Departments have acknowledged that they may be called upon to meet their share of any funding shortfalls. Costs already incurred that can’t be recovered from 2020/21 to November 2025 are £258.9m and not included in any FBC2 affordability calculations.
+0322 No capital costs are expected to be incurred during the programme.
+0323 4.3 Future running costs/savings
+0324 Future running costs are expected to be £1,315.4m, resulting from ERP/SI and BPS procurements and the latest design for the Hub. These are offset with programme savings and benefits of £2,411.6m - of which £2,110.9m is assumed savings on existing service running costs, and £300.7m are cashable benefits (which will result in reductions to budgets). In total, Departments will pay around 35% less for services following rollout of the programme.
+0325 Savings will start to realise from 2027/28, but do not exceed costs until 2029/30. This is the first year of steady state new services. From this point forward, the annual net funding requirement will be lower than expenditure, with the programme paying back in January 2034. If costs already incurred which can’t be recovered of £258.9m are included, payback for the programme is August 2035.
+0326 4.4 Analysis of savings and benefits
+0327 The table below provides an analysis of the savings and benefits of £2,411.6m.
+0328 Category
+0329 Total £m
+0330 Cashable benefits
+0331 261
+0332 Savings arising from the ERP contract
+0333 380
+0334 Savings arising from the BPS contract
+0335 1,370
+0336 Savings arising from the implementation of the Hub
+0337 110
+0338 Inflation
+0339 290
+0340 Total savings/benefits
+0341 2,411
+0342 Cashable benefits reflect changes or improvements that will result in reductions to budgets. Savings refer to the actual reduction in expenses or spending compared to what was previously being spent. There are also non-cashable benefits to the programme, such as time savings.
+0343 4.5 Financial risks and mitigation strategies
+0344 In accordance with HMT Green Book guidance, the identification, assessment and management of risk is a critical component of developing a robust business case. The financial risks identified are: risk of financial collapse of the ERP and/or BPS suppliers; delays in the programme increasing costs; changes to the implementation of the programme increasing costs; and any other unforeseen cost pressures. These risks will be mitigated by regular monitoring of the financial performance of suppliers, and monitoring of all programme costs through regular finance reporting.
+0345 5. Management case
+0346 5.1 Programme management
+0347 The Programme uses a combination of waterfall methodologies (Managing Successful Programmes (MSP) and PRINCE2) to manage the programme end-to-end. Agile is used, primarily in Design, to ensure a dynamic, fast-paced, value focused and user-centric approach to developing products. The core programme team operate out of DWP, with the DWP Permanent Secretary as the Principal Accounting Officer (PAO).
+0348 In March 2025, the PAO approved the decision to ‘build and incubate’ the Hub inside the programme. This enables essential service and product capability building, and strategic partner knowledge transfer to be developed in-house, before a smooth transition to live running in FY 28/29.
+0349 The design of the Common Operating Model (COM) is the foundational outcome that binds the programme together. It drives and determines the service’s success. The programme continues to follow a collaborative, co-creation design methodology (across Synergy Departments and HR, Finance and Commercial functions) with clarity on design points and implications of choices on end-users and development of benefits. The design of the Hub is intrinsically linked to this as the organisation that will own the Common Operating Model (COM) in BAU. It is underpinned (and informed) by government strategic objectives, standards and principles, but is also focused on taking decisions that are best for our users and benefit realisation, not just what’s easiest to do.
+0350 5.2 Roadmap and critical path
+0351 The programme’s ‘Roadmap’ breaks the programme down into key delivery phases. It is a simple, easy to understand view of the programme service journey. It outlines the critical activities, key milestones and intended outcomes that must be achieved to ensure the successful delivery of programme objectives, and links planning and reporting at all levels across the programme.
+0352 The Synergy Integrated Programme Plan (SIPP) and Synergy Integrated Milestone Schedule (SIMS) map to the programme phases. The SIMS provides a detailed view of all high-level milestones in a Work Breakdown Structure and includes detailed supporting interfaced Work Management Plans in a Work Breakdown Structure. This identifies and tracks the Critical Path to help manage and sequence detailed work on a day-to-day basis to complete the programme successfully. It highlights the dependencies that are likely to cause the most significant impact on our overall timeline.
+0353 5.3 Programme structure and governance
+0354 The programme structure and governance has reorganised into a Design, Build, Implement structure, with essential Project Management Office (PMO) and Strategy and Transformation functions providing central oversight and assurance. Governance processes and boards provide a clear and robust framework of authority, transparency and accountability ​that defines and controls the project and programme outputs. Decision making on relevant specific areas is deferred to speed up delivery and the model is built on the assumption that the Synergy programme’s governance provides a single apex of accountability, and decisions taken at relevant boards are binding on the Cluster.
+0355 5.4 Arrangements for risk management
+0356 Synergy’s Risk Management Strategy and Risk Management Framework and Approach outline how the programme plans, manages and escalates risk. These are captured in the Programme Risks, Assumptions, Issues, and Dependencies (RAID) log, which also contains contingency plans for key risks and sets out what actions will be taken if risks realise and become issues. Contingency plans are managed by the central Risk Management team and are monitored as part of monthly risk reviews with risk owners and managers. Both Synergy project teams and suppliers must have contingency plans in place. Key Strategic Risks include the capacity of the programme to deliver, our challenging timing and erosion of benefits.
+0357 It incorporates central Government requirements and best practices, including HMT’s Management of Risk (MoR) – Principles and Concepts (Orange Book), RAID analysis.
+0358 Regular risk monitoring and reporting is conducted to ensure the Programme understands how its risk profile is changing, and whether internal controls are working, including:
+0359 submissions from projects to Programme level help identify project-specific risks that could potentially impact broader Programme objectives
+0360 cross-functional facilitated collaboration opportunities – such as risk pre-mortems and scenario planning, Departmental and cross programme risk forums - leverage collective expertise/insights to identify and assess potential risks comprehensively
+0361 monthly cross-Cluster engagement and touchpoints help identify common and shared risks across the core programme teams and Departments
+0362 the Strategic Risk Management Board –senior leaders discuss where strategic risks are identified, assessed and addressed
+0363 Escalation processes are established in the Risk Management Strategy and includes risks escalated by Cluster Departments (ALB risks are managed by the home Department). Risk escalation is triggered by a range of factors including (but not restricted to) proximity to impact dates, realisation likelihood, or the risk moving outside agreed tolerance. Issues are defined as ‘materialised risks that require significant management to avoid immediate project disruption’. Programme Board reviews and manages significant Programme issues.
+0364 Transition of any service is the time that risk needs to be monitored and managed most robustly. We’re focused on making sure the new BPS provider has all the information they need to fully align with the Synergy Integrated Programme Plan (SIPP). We’ll also be setting up three-way governance between the programme, BPS provider and our current supplier, that will deliver joint planning, and joint risk management as we get ready for the transition. There will also be strong oversight via the Hub, as the eventual governing organisation of the whole Shared Services Model which the BPS will be part of.
+0365 5.5 Programme evaluation
+0366 The programme uses Evaluation to complement benefits management and performance management so that it can better understand impacts and learn lessons. Used together, the three build a strong evidence base that helps the Programme continuously improve what it does, and other change Programmes. The programme is currently in the process of drafting the Performance Management Framework, which is due to be finalised in 2026, to set out the digital monitoring data to be collected, including the measurement approach and measurement intervals. The evaluation will build on and use data from benefits management and performance management to systematically examine the causal link between the impacts measured and the Programme to understand the attribution of Synergy.
+0367 The Evaluation Plan is made up of several elements including process, impact and value for money. Key Performance Indicators (KPIs) link to the Strategic Objectives and Strategic Outcomes of the Programme. As agreed with the Evaluation Taskforce in July 2025, the detailed Evaluation Strategy and Plan will be finalised in early 2026.
+0368 Evaluation will align to the SSSG, the Magenta Book and Cabinet Office guidance. It will include detailed methodology, governance, timescales, and dissemination plan, and recognises that more detailed work can be done (as service deployment does not begin until August 2027).
+0369 Given the scale and length of the Programme and the new Common Operating Model (COM) being established, evaluation will be undertaken in stages to allow initial findings to inform future rollouts and provide evidence for Spending Review bids.
+0370 Stage 1: Evaluation Scoping – end 2025
+0371 Sign-off the Evaluation Strategy. Begin relevant governance and external evaluation partner tendering processes. Programme Delivery lessons learnt ongoing.
+0372 Stage 2: Evaluation Tendering and Baselining – end 2026/27
+0373 Procure evaluation partner. Review and update the Benefits Map. Collect baseline data to measure progress against. Programme Delivery lessons learnt ongoing.
+0374 Stage 3: Initial Evaluation – end 2027/28
+0375 Programme Implementation Process Evaluation conducted during first rollout to learn lessons for future rollouts. Benefits and impact monitoring begins to track initial change. Programme Delivery lessons learnt ongoing.
+0376 Stage 4: Interim Evaluation – end 2028/29
+0377 Final Programme Implementation Process Evaluation conducted during remaining rollouts to learn lessons for future change Programmes. Benefits and impact monitoring ongoing to continue to track change. Programme Delivery lessons learnt ongoing.
+0378 Stage 5: Final Evaluation – mid 2031/32
+0379 Final impact and value for money evaluations conducted once rollout complete and changes are embedded within Departments (at least one year after rollout) to understand final impact and value for money of Synergy.
+0380 Back to top
+0381 Is this page useful?
+0382 Maybe
+0383 Yes this page is useful
+0384 No this page is not useful
+0385 Thank you for your feedback
+0386 Report a problem with this page
+0387 Help us improve GOV.UK
+0388 Do not include personal or financial information like your National Insurance number or credit card details.
+0389 This field is for robots only. Please leave blank
+0390 What were you doing?
+0391 What went wrong?
+0392 Send
+0393 Cancel
+0394 Help us improve GOV.UK
+0395 To help us improve GOV.UK, we’d like to know more about your visit today.
+0396 Please fill in this survey (opens in a new tab and requires JavaScript).
+0397 Cancel
+0398 Services and information
+0399 Benefits
+0400 Births, death, marriages and care
+0401 Business and self-employed
+0402 Childcare and parenting
+0403 Citizenship and living in the UK
+0404 Crime, justice and the law
+0405 Disabled people
+0406 Driving and transport
+0407 Education and learning
+0408 Employing people
+0409 Environment and countryside
+0410 Housing and local services
+0411 Money and tax
+0412 Passports, travel and living abroad
+0413 Visas and immigration
+0414 Working, jobs and pensions
+0415 Government activity
+0416 Departments
+0417 News
+0418 Guidance and regulation
+0419 Research and statistics
+0420 Policy papers and consultations
+0421 Transparency
+0422 How government works
+0423 Get involved
+0424 Support links
+0425 Help
+0426 Privacy
+0427 Cookies
+0428 Accessibility statement
+0429 Contact
+0430 Terms and conditions
+0431 Rhestr o Wasanaethau Cymraeg
+0432 Government Digital Service
+0433 All content is available under the Open Government Licence v3.0, except where otherwise stated
+0434 © Crown copyright

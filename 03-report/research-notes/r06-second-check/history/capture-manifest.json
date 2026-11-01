@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H6S-S01",
+      "url": "https://www.london.gov.uk/decisions/dmfd106-replacement-human-resources-and-payroll-solution",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "retrieved_at_utc": "2026-10-28T22:58:19.454690+00:00"
+    },
+    {
+      "candidate_id": "H6S-S02",
+      "url": "https://www.london.gov.uk/dmfd282-replacement-hr-and-payroll-system-itrent",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "retrieved_at_utc": "2026-10-28T22:58:20.112971+00:00"
+    },
+    {
+      "candidate_id": "H6S-S03",
+      "url": "https://oxfordcity.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=41521&PlanId=578&RPID=0",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "retrieved_at_utc": "2026-10-28T22:58:20.811411+00:00"
+    },
+    {
+      "candidate_id": "H6S-S02-PDF",
+      "url": "https://www.london-fire.gov.uk/media/jrqngpy0/lfc-25-098-replacement-hr-and-payroll-system-novemberr-2025-update-signed.pdf",
+      "http_status": 200,
+      "final_url": "https://www.london-fire.gov.uk/media/jrqngpy0/lfc-25-098-replacement-hr-and-payroll-system-novemberr-2025-update-signed.pdf",
+      "retrieved_at_utc": "2026-10-28T22:58:36.607996+00:00",
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "sha256": "27329a0fd6977d885425dd528af239ad8340513ff87b354e780efca64d784609",
+      "text_path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.txt",
+      "text_sha256": "2161a64d61f1582ce6b050e5187317d4f6046b484691945a5d9cdda64ecf8919",
+      "page_count": 19
+    }
+  ],
+  "files": [
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02-companion-reader-notes.txt",
+      "sha256": "fa096233ede69c8c7bea45771022cb2d25eebdba02c2d7a4db550ee560293bad",
+      "kind": "selected_reader_notes"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "sha256": "368e25ed0837504ca0391f787b364b386415a84d2196cd38cb029e8e8bcbc0fd",
+      "kind": "selected_reader_notes"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.txt",
+      "sha256": "2161a64d61f1582ce6b050e5187317d4f6046b484691945a5d9cdda64ecf8919",
+      "kind": "parsed_pdf_text"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02-04.png",
+      "sha256": "3cddd983fe5cfeb6b985901df5f60a3ab8bb4fdbfc6445fdcda14579a74927fd",
+      "kind": "rendered_pdf_page"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02-02.png",
+      "sha256": "6984769ce6a0a43a18237fad45240f8593a911dc05bf93e3dc049e6c51f1defd",
+      "kind": "rendered_pdf_page"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "sha256": "27329a0fd6977d885425dd528af239ad8340513ff87b354e780efca64d784609",
+      "kind": "retained_original_pdf"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02-03.png",
+      "sha256": "e4806f22d1446514cfae874c1dcb889dd9375c9044fe30949f9f1c4242c0dde3",
+      "kind": "rendered_pdf_page"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02-01.png",
+      "sha256": "a99ffbfa747aec66b68b3c0113b137c227ffa3754d8e4f2656bfb28240d76283",
+      "kind": "rendered_pdf_page"
+    }
+  ],
+  "pdf_review": {
+    "source_candidate_id": "H6S-S02",
+    "skill_read": true,
+    "one_based_pdf_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "printed_page_labels": "No consistent numeric printed labels; use one-based PDFpages and section numbers",
+    "visually_reviewed": true,
+    "pdf_authoring": false
+  },
+  "excluded_leads": [
+    "Oxfordissue41521 planningstatus conflict not promoted to canonical evidence; no finalisation inference"
+  ]
+}

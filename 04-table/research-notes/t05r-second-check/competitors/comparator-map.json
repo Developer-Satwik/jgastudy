@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "firm": "Portfolio Payroll",
+      "source_ids": [
+        "SRC-0190"
+      ],
+      "observed_format": "Salary/hiring resources catalogue, with access/contact route",
+      "relevant_workload_ids": [
+        "WR02",
+        "WR09",
+        "WR16"
+      ],
+      "cost_model_implication": "Potential desktop input/alternative. Do not assume linked reports were inspected, commercially reusable or sufficient for the commissioned decision-case research.",
+      "review_boundary": "Prior inspected catalogue/reader-note only; no fresh full body claimed.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    },
+    {
+      "firm": "Frazer Jones",
+      "source_ids": [
+        "SRC-0221"
+      ],
+      "observed_format": "Dated named payroll-leader interview summary",
+      "relevant_workload_ids": [
+        "WR02",
+        "WR06",
+        "WR08",
+        "WR10"
+      ],
+      "cost_model_implication": "A public expert account can inform context, but is not one of the new permitted contributors and does not give rights to reuse audio/quotes or avoid currentness checking.",
+      "review_boundary": "10April2025 written account; audio uninspected, retained prior selected reader note.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    },
+    {
+      "firm": "Oakleaf Partnership",
+      "source_ids": [
+        "SRC-0257"
+      ],
+      "observed_format": "Expert webinar followed by written themes/questions and recording route",
+      "relevant_workload_ids": [
+        "WR03",
+        "WR06",
+        "WR08",
+        "WR09",
+        "WR10"
+      ],
+      "cost_model_implication": "Reuse a permitted existing asset only after scope/date/rights review. A fresh comparative report still needs collection, coding, synthesis and publication checks.",
+      "review_boundary": "Fresh primary HTML/reader for format only; legal/tax/reform assertions excluded, recording uninspected.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    },
+    {
+      "firm": "Middlemore",
+      "source_ids": [
+        "SRC-0116"
+      ],
+      "observed_format": "Post-search recruitment analytics and client-specific advisory output",
+      "relevant_workload_ids": [
+        "WR02",
+        "WR08",
+        "WR10",
+        "WR16"
+      ],
+      "cost_model_implication": "Its declared post-search report uses recruitment analytics/diversity/brand perception. It is a different evidence object from syndicated payroll operating/investment research, not a free reusable dataset or cost quote.",
+      "review_boundary": "Fresh primary body; download form not submitted and sample report uninspected.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    },
+    {
+      "firm": "Hays",
+      "source_ids": [
+        "SRC-0192"
+      ],
+      "observed_format": "Salary/recruiting guide with evidence-period/method context",
+      "relevant_workload_ids": [
+        "WR02",
+        "WR10",
+        "WR16"
+      ],
+      "cost_model_implication": "A salary guide may serve compensation decisions. Keep task, country, period and dataset separate from leadership decision cases; no direct JGA employee rate or research-production quote.",
+      "review_boundary": "Prior retained reader method note; raw shell is not substantive method export. No figures adopted.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    },
+    {
+      "firm": "Robert Half",
+      "source_ids": [
+        "SRC-0193"
+      ],
+      "observed_format": "Projected starting-salary guide plus customised salary insight/personal support",
+      "relevant_workload_ids": [
+        "WR02",
+        "WR09",
+        "WR10",
+        "WR16"
+      ],
+      "cost_model_implication": "A public resource and added interpretation coexist. Its mixed research/placement/job data does not price an equivalent qualitative study or establish that JGA can omit original work.",
+      "review_boundary": "Fresh primary body for format and dataset distinction; no salary/survey totals adopted.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    },
+    {
+      "firm": "JGA",
+      "source_ids": [
+        "SRC-0088"
+      ],
+      "observed_format": "UK/global payroll podcast and archive/subscription routes",
+      "relevant_workload_ids": [
+        "WR02",
+        "WR05",
+        "WR06",
+        "WR08",
+        "WR10"
+      ],
+      "cost_model_implication": "Existing expert content and relationships may offer reuse/introduction candidates. Audit actual usable evidence, current permission and required remaining work; no assumed guest access, audience conversion or automatic labour saving.",
+      "review_boundary": "Fresh selected reader sections; no episodes, rights, reach or availability verified.",
+      "actual_supplier_quote": false,
+      "actual_buyer_or_sponsor": false,
+      "actual_participant": false,
+      "labour_saving_quantified": false
+    }
+  ],
+  "recruitment_comparators": 6,
+  "JGA_contexts": 1,
+  "not_T01_six_business_models": true,
+  "no_competitor_cost_comparison": true,
+  "no_demand_or_capacity_validation": true
+}

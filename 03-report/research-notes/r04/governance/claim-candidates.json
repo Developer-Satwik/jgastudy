@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-29",
+  "module": "R04",
+  "status": "internal_candidates_not_canonical",
+  "records": [
+    {
+      "candidate_id": "GOV4-C01",
+      "source_ids": [
+        "GOV4-S01"
+      ],
+      "locator": "4.4.7-4.4.9; 6.4.4",
+      "claim_text": "GovS 002 distinguishes higher sponsoring authority, the accountable SRO owning the business case, and day-to-day programme/project management; the SRO escalates decisions outside delegated authority.",
+      "evidence_class": "official_public_sector_role_framework",
+      "limitations": "Do not substitute public SRO titles for private employer roles or infer a universal approval chain.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-scoped government framework, not an observed employer sample",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "GovS 002 relevant original online HTML sections read via browser tooling; retained captures are explicitly parsed browser text extracts, not original HTML or PDF.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C02",
+      "source_ids": [
+        "GOV4-S01"
+      ],
+      "locator": "4.2.3; 6.3",
+      "claim_text": "GovS 002 places assurance assessment before significant decisions and requires decision-makers, consultation and review type to be defined for each gate.",
+      "evidence_class": "official_public_sector_role_framework",
+      "limitations": "Review recommendations are inputs; this wording alone does not assign reviewers authority to approve funds or go-live.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-scoped government framework, not an observed employer sample",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "GovS 002 relevant original online HTML sections read via browser tooling; retained captures are explicitly parsed browser text extracts, not original HTML or PDF.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C03",
+      "source_ids": [
+        "GOV4-S01"
+      ],
+      "locator": "4.1.3; 4.3; 6.2-6.3",
+      "claim_text": "GovS 002 allows proportionate governance, conditional or phased decisions, and outcomes including revision, deferral or termination.",
+      "evidence_class": "official_public_sector_governance_framework",
+      "limitations": "Government project provisions do not impose the same stages, gates or thresholds on private routine renewals.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-scoped government framework, not an observed employer sample",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "GovS 002 relevant original online HTML sections read via browser tooling; retained captures are explicitly parsed browser text extracts, not original HTML or PDF.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C04",
+      "source_ids": [
+        "GOV4-S02"
+      ],
+      "locator": "4.6.4-4.6.7",
+      "claim_text": "GovS 008 separates contract justification/business ownership, commercial leadership, signature under delegation and day-to-day contract management; specialist commercial roles can be advisory or executive.",
+      "evidence_class": "official_public_sector_commercial_framework",
+      "limitations": "Government standard; these rights may be combined or distributed in an actual case. Title does not establish authority.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-scoped government framework, not an observed employer sample",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "GovS 008 relevant original online HTML sections read; original HTML retained and hashed. No PDF visual review applies.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C05",
+      "source_ids": [
+        "GOV4-S02"
+      ],
+      "locator": "4.5.1-4.5.2; 4.4.3",
+      "claim_text": "GovS 008 identifies offer invitation, award recommendation, payment, extension/change and termination as distinct decisions within the organisation’s controls, with commercial and project decisions aligned.",
+      "evidence_class": "official_public_sector_commercial_framework",
+      "limitations": "Do not read these as a universal fixed sequence or import public-spending controls into private payroll procurement.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-scoped government framework, not an observed employer sample",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "GovS 008 relevant original online HTML sections read; original HTML retained and hashed. No PDF visual review applies.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C06",
+      "source_ids": [
+        "GOV4-S03"
+      ],
+      "locator": "4.4.5-4.4.7, printed pp15-16/PDF pp19-20",
+      "claim_text": "GovS 006 describes delegated budget holders separately from finance business partners who support and challenge them; specialist finance roles can be advisory or executive according to assignment.",
+      "evidence_class": "official_public_sector_finance_framework",
+      "limitations": "Not proof that finance advice is a binding veto, or that every CFO personally approves every payroll change.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-scoped government framework, not an observed employer sample",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "GovS 006 original PDF sections 4.4.5-4.4.7 read; printed pp15-16 / PDF pp19-20 rendered and visually checked. Original PDF retained and hashed.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C07",
+      "source_ids": [
+        "GOV4-S04"
+      ],
+      "locator": "Opening scope; paragraphs 1-3, 6, 221-228",
+      "claim_text": "FRC guidance distinguishes board delegation and committee advice from retained board responsibility for the risk/control framework and management’s day-to-day implementation; delegations should be explicit.",
+      "evidence_class": "listed_company_governance_guidance",
+      "limitations": "Non-mandatory guidance supporting the Code for specified listed categories, not all private employers or individual payroll approvals.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "In-scope listed-company governance guidance, not observed payroll decisions",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "FRC relevant original online HTML sections and numbered paragraphs read; original HTML retained and hashed. No PDF visual review applies.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C08",
+      "source_ids": [
+        "SRC-0131"
+      ],
+      "locator": "SaaS customers / Authorise payments; Source customers / Authorise payments",
+      "claim_text": "Cintra distinguishes approval/submission of payroll from BACS payment authorisation according to service/payment route.",
+      "evidence_class": "supplier_operational_documentation",
+      "limitations": "Does not show who can purchase the platform, approve investment, sign contracts or release funds outside that supplier workflow.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific supplier workflows",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "Cintra relevant sections re-read from the existing retained original HTML capture for SRC-0131; capture hash reverified. No PDF visual review applies.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C09",
+      "source_ids": [
+        "GOV4-S01",
+        "GOV4-S02",
+        "GOV4-S03",
+        "GOV4-S04",
+        "SRC-0131"
+      ],
+      "locator": "Cross-source analytical distinction; see GOV4-C01-C08",
+      "claim_text": "R04 should code the right exercised at a dated decision separately from job title, sponsorship, influence, assurance, signature and operational approval.",
+      "evidence_class": "researcher_method_recommendation",
+      "limitations": "An analytical recommendation, not an empirical finding that all organisations use these roles or a proposal to change the 14-question core.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Proposed qualitative case analysis",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "Cross-source analytical method recommendation based on source-specific reviews in GOV4-C01-C08; not a separate PDF review or empirical observation.",
+      "status": "internal_R04_context_candidate"
+    },
+    {
+      "candidate_id": "GOV4-C10",
+      "source_ids": [
+        "GOV4-S01",
+        "GOV4-S02"
+      ],
+      "locator": "4.3/6.3 and 4.5.1; methodological application to Q007/Q009/Q013",
+      "claim_text": "Case coding should distinguish a concern or recommendation from a binding condition, establish who can clear or escalate it, and preserve decision disposition separately from implementation.",
+      "evidence_class": "researcher_method_recommendation",
+      "limitations": "Actual conditions and decision rights remain to be established from original practitioner cases; do not impose a mandatory private workflow.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Proposed qualitative case analysis",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-29",
+      "review_mode": "Cross-source analytical method recommendation using the specified GovS 002 and GovS 008 sections; not a separate PDF review or empirical observation.",
+      "status": "internal_R04_context_candidate"
+    }
+  ]
+}

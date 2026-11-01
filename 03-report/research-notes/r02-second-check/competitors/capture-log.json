@@ -1,0 +1,104 @@
+[
+  {
+    "candidate_id": "COMP-S01",
+    "title": "JGA payroll recruitment",
+    "url": "https://jgarecruitment.com/payroll-recruitment/",
+    "accessed_on": "2026-10-28",
+    "status": "capture_unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "candidate_id": "COMP-S02",
+    "title": "Portfolio Payroll recruitment services",
+    "url": "https://www.theportfoliogroup.com/payroll/recruitment-services/",
+    "accessed_on": "2026-10-28",
+    "status": "capture_unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "candidate_id": "COMP-S03",
+    "title": "Frazer Jones payroll",
+    "url": "https://www.frazerjones.com/payroll/",
+    "accessed_on": "2026-10-28",
+    "status": "capture_unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "candidate_id": "COMP-S04",
+    "title": "Oakleaf Payroll Capabilities",
+    "url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+    "accessed_on": "2026-10-28",
+    "final_url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+    "http_status": 200,
+    "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/competitors/COMP-S04.html",
+    "sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803",
+    "bytes": 74296,
+    "status": "retained_original_html"
+  },
+  {
+    "candidate_id": "COMP-S05",
+    "title": "Middlemore Payroll Search",
+    "url": "https://middlemore.co.uk/payroll-search/",
+    "accessed_on": "2026-10-28",
+    "final_url": "https://middlemore.co.uk/payroll-search/",
+    "http_status": 200,
+    "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/competitors/COMP-S05.html",
+    "sha256": "9b2f4a099d49809b1f1bc0489f38dd31080504382ea24e5ea6c5c56a3c15155e",
+    "bytes": 127473,
+    "status": "retained_original_html"
+  },
+  {
+    "candidate_id": "COMP-S06",
+    "title": "Hays Accountancy and Finance recruitment",
+    "url": "https://www.hays.co.uk/recruitment/accountancy-finance",
+    "accessed_on": "2026-10-28",
+    "final_url": "https://www.hays.co.uk/recruitment/accountancy-finance",
+    "http_status": 200,
+    "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/competitors/COMP-S06.html",
+    "sha256": "6c5fca5506a5eeb7171820d5281c8f86f607bc690e6b6de656b2207bfd641105",
+    "bytes": 252806,
+    "status": "retained_original_html"
+  },
+  {
+    "candidate_id": "COMP-S07",
+    "title": "Robert Half Accountancy and Finance recruitment",
+    "url": "https://www.roberthalf.com/gb/en/finance-accounting-recruitment",
+    "accessed_on": "2026-10-28",
+    "final_url": "https://www.roberthalf.com/gb/en/finance-accounting-recruitment",
+    "http_status": 200,
+    "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/competitors/COMP-S07.html",
+    "sha256": "f01a5b3f2c7022cfb050231d6bf4163df9c89a72e04677c99af607e0dba8feb9",
+    "bytes": 183477,
+    "status": "retained_original_html"
+  },
+  {
+    "candidate_id": "COMP-S08",
+    "title": "Frazer Jones organisational change case",
+    "url": "https://www.frazerjones.com/de/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change/",
+    "accessed_on": "2026-10-28",
+    "status": "capture_unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "candidate_id": "COMP-S09",
+    "title": "Oakleaf Interim Payroll and Pensions Manager advert",
+    "url": "https://www.oakleafpartnership.com/jobs/interim-payroll-and-pensions-manager-pr-016244",
+    "accessed_on": "2026-10-28",
+    "final_url": "https://www.oakleafpartnership.com/jobs/interim-payroll-and-pensions-manager-pr-016244",
+    "http_status": 200,
+    "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/competitors/COMP-S09.html",
+    "sha256": "72a3900c7d50ade25f25b691651a3e705f2a88bb04290cf35b3e772b7d4c5897",
+    "bytes": 79392,
+    "status": "retained_original_html"
+  },
+  {
+    "candidate_id": "COMP-S08",
+    "title": "Delivering payroll and HR operations talent during organisational change",
+    "url": "https://www.frazerjones.com/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change/",
+    "accessed_on": "2026-10-28",
+    "review_status": "original_case_body_inspected_via_web",
+    "locator": "The challenge; The solution; The outcome; Roles; Region",
+    "status": "capture_unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

@@ -1,0 +1,99 @@
+0001: QUADRA-AI - UK Data Service
+0002: This site uses necessary cookies
+0003: Some of these cookies are essential. Strictly necessary cookies enable core functionality, without which, the website cannot function properly. For more detailed information please see our Cookie Policy .
+0004: Website stats
+0005: We use Matomo Analytics to understand how our website is used and to improve your experience. This tool gathers limited information about the device you use to access the UK Data Service website. To learn more, please see our Privacy Policy .
+0006: Skip to content
+0007: Search the UK Data Service website:
+0008: Login/Register
+0009: Find data
+0010: Deposit data
+0011: Learning Hub
+0012: Learning Hub overview
+0013: Data producer support
+0014: New to using data
+0015: Data skills modules
+0016: Students
+0017: Survey data
+0018: International data
+0019: Qualitative data
+0020: Computational social science
+0021: Census
+0022: Software and tools
+0023: Teach with real data
+0024: Geography and data
+0025: Training and events
+0026: About
+0027: News
+0028: Impact
+0029: Help
+0030: Contact
+0031: Menu
+0032: Search
+0033: Find data
+0034: Deposit data
+0035: Learning Hub
+0036: Training and events
+0037: About
+0038: News
+0039: Impact
+0040: Help
+0041: Contact
+0042: Login
+0043: < Back
+0044: Learning Hub overview
+0045: Data producer support
+0046: New to using data
+0047: Data skills modules
+0048: Students
+0049: Survey data
+0050: International data
+0051: Qualitative data
+0052: Computational social science
+0053: Census
+0054: Software and tools
+0055: Teach with real data
+0056: Geography and data
+0057: Close search
+0058: Search the UK Data Service website:
+0059: Search the website
+0060: Home › About › Research and development › QUADRA-AI
+0061: QUADRA-AI
+0062: About the project
+0063: The QUADRA‑AI project will significantly enhance the UK’s qualitative data infrastructure by developing and deploying AI‑enabled tools, strengthening governance frameworks and building researcher capacity to improve the discovery, access and reuse of qualitative data. As the backbone of this infrastructure, UK Data Service already hosts over 350 curated qualitative and mixed methods collections and over 1,750 self-curated qualitative and mixed methods collections.
+0064: It is well known that qualitative data provide crucial insight into social behaviour, context and lived experience, yet they remain under shared and underutilised due to challenges in discoverability, accessibility and due to ethical and current digital infrastructure barriers.
+0065: This project addresses these barriers by introducing appropriate technical infrastructure and best practice guidance and frameworks, alongside scalable, AI supported solutions aligned with the ESRC’s priority gaps delivering vital support for data producers and secondary researchers. Crucially, it secures lasting public benefit by ensuring that data contributed by the public is safely, ethically and maximally reused to drive impactful social science research for the public good.
+0066: First, we will develop and implement AI assisted tools for automated transcription, anonymisation and thematic coding, enabling more efficient and consistent processing of qualitative data while maintaining human oversight. This human-in-the-loop tool will flag likely identifiers and guide reviewer attention, materially reducing disclosure risk and the manual burden. These tools will be applied to at least 200 datasets within the UK Data Service collection.
+0067: Second, we will enhance metadata structures and develop AI driven thematic search capabilities, allowing secondary researchers to discover qualitative data more effectively. This will be supported by a user‑friendly interface tailored to qualitative research needs.
+0068: Third, the project will establish a robust ethical governance framework for AI use in qualitative data, co‑designed with researchers and the public to ensure transparency, accountability and trust. This will include updated guidance, policies and training materials.
+0069: Fourth, we will work with a community of data owners and researchers to explore and define requirements for incorporating highly sensitive qualitative data into Trusted Research Environments (TREs), helping to future‑proof infrastructure for secure and innovative research.
+0070: Project duration
+0071: The project is due to run from July 2026 to March 2027.
+0072: UK Data Service contribution
+0073: This project is being led by the UK Data Service.
+0074: Project outputs
+0075: By the end of the project, QUADRA-AI will:
+0076: Develop and deploy AI enabled tools for transcription, anonymisation and thematic coding.
+0077: Enhance metadata and implement AI driven discovery tools.
+0078: Apply AI assisted anonymisation and thematic coding tools to at least 200 qualitative datasets.
+0079: Establish an ethical governance framework for AI in qualitative research.
+0080: Engage researchers to define requirements for qualitative TRE capability.
+0081: Build community capacity through training, guidance and engagement.
+0082: Funded by UKRI through the ESRC with contributions from our partners.
+0083: Accessibility
+0084: Cookies
+0085: Privacy
+0086: Sitemap
+0087: Terms and conditions
+0088: About
+0089: Contact
+0090: Help
+0091: Impact
+0092: News
+0093: Email
+0094: LinkedIn
+0095: YouTube
+0096: Bluesky
+0097: Zenodo
+0098: © 2026 UK Data Service
+0099: We are supported by the University of Essex, University of Manchester, Jisc, UCL and University of Edinburgh. We are funded by UKRI through the Economic and Social Research Council.

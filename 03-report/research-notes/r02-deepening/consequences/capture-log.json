@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28",
+  "records": [
+    {
+      "url": "https://committees.oldham.gov.uk/documents/s155079/Payroll%20Audit%20Progress.pdf",
+      "status": "not_retained",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "https://www.cne-siar.gov.uk/sites/default/files/imce/Committees/Audit%20and%20Scrutiny%20Committee/2025/June/O-15A-Final-Report-Payroll-and-Expenses.pdf",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-deepening/consequences/captures/comhairle-payroll-expenses-2025.pdf",
+      "bytes": 489833,
+      "sha256": "817f110de0d65c01ce4dc2a6c5489aa55a735f3315b1ead6c97951036fd02c41",
+      "status": "saved"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/employer-bulletin-april-2026/april-2026-issue-of-the-employer-bulletin",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-deepening/consequences/captures/hmrc-employer-bulletin-april-2026.html",
+      "bytes": 208257,
+      "sha256": "86780f080962f6458887d3d1222d776a606b05168af331661f7e908d94e71969",
+      "status": "saved"
+    }
+  ]
+}

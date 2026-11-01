@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1C-C01",
+      "canonical_source_ids": [
+        "SRC-0190",
+        "SRC-0221",
+        "SRC-0222"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Portfolio has a retained salary/hiring-resource catalogue; Frazer Jones has a retained named leadership interview summary; Oakleaf publicly describes market commentary and a recent payroll event. These are different existing research/learning/convening alternatives, rather than evidence that The Table is novel merely because it publishes insights or gathers payroll professionals.",
+      "evidence_class": "competitor_published_content_and_format_context",
+      "locator": "Portfolio prior catalogue note; Frazer prior10April2025interview summary; Oakleaf17March2026body/event statement",
+      "limitations": "Portfolio/Frazer fresh full access unavailable; prior inspected notes retained. Oakleaf event success is its own description, not independently verified participant value or demand. No absence claim about any firm’s other products.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    },
+    {
+      "candidate_id": "T1C-C02",
+      "canonical_source_ids": [
+        "SRC-0116"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Middlemore publicly describes an end-of-search Post Project Report containing recruitment analytics, diversity data and brand-perception findings. A task-linked client output is distinct from a general external research licence or a payroll operating-performance benchmark.",
+      "evidence_class": "provider_declared_client_output_and_unit_boundary",
+      "locator": "PayrollSearch original body/PostProjectReport parsed26–27",
+      "limitations": "No sample quality, independent performance verification, public price, current client contract, third-party data reuse permission or sales result established.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    },
+    {
+      "candidate_id": "T1C-C03",
+      "canonical_source_ids": [
+        "SRC-0192",
+        "SRC-0193"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Hays and Robert Half offer salary/hiring resources with specific method and geography context, and Robert Half pairs public research with customised salary insight/contact routes. This is a visible research-to-service architecture, not evidence of a separately paid report sale or a causal recruitment return.",
+      "evidence_class": "provider_declared_research_distribution_and_service_architecture",
+      "locator": "Hays access/method; RobertHalf customised insights69–76 and method84–110",
+      "limitations": "No salaries, response totals, sample percentages or projected values imported. Public resource availability does not establish fee status or completed consultation. No actual conversion, placement attribution or JGA economics.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    },
+    {
+      "candidate_id": "T1C-C04",
+      "canonical_source_ids": [
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "JGA’s public podcast page describes expert payroll conversations for UK and global audiences across strategy, technology, systems, processes, leadership and compliance. The Table should specify which deeper decision-case, peer or use-right benefit it would add to JGA’s existing content, rather than imply that payroll thought leadership begins with the new programme.",
+      "evidence_class": "client_existing_public_content_context_and_analyst_application",
+      "locator": "Fresh primary reader2–23; selected notes retained separately from raw403",
+      "limitations": "Public proposition/archive is not listener reach, buyer access, active recruitment pipeline, podcast-guest research permission or permission to reuse episode extracts. No podcast production work added to scope.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    },
+    {
+      "candidate_id": "T1C-C05",
+      "canonical_source_ids": [
+        "SRC-0190",
+        "SRC-0222",
+        "SRC-0116",
+        "SRC-0193",
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "For The Table, qualify the actual use and commercial object when needed: free/public discovery, an employer’s internal decision task, client-service support, an external reuse licence, partner visibility or explicit access. The same firm can occupy several roles, so a competitor/content-provider list is not automatically a buyer or sponsor list.",
+      "evidence_class": "researcher_selective_use_object_and_role_collision_condition",
+      "locator": "Cross-comparator synthesis and Table T02H01/H02 applications",
+      "limitations": "Selective analytical condition, not a new mandatory question or a proven segment. Actual buyer authority, permission, budget, delivery capacity and rights require appropriate evidence; no outreach or list qualification completed.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    },
+    {
+      "candidate_id": "T1C-C06",
+      "canonical_source_ids": [
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Research can have a distribution or client-service purpose alongside a possible direct licence. In the later business model, specify the intended purpose and test its evidence separately; do not invent conversion value, attribute all recruiting revenue to a report, or count a bundled report licence twice.",
+      "evidence_class": "researcher_distribution_value_and_attribution_boundary",
+      "locator": "Hays/RobertHalf content-service routes; JGA existing podcast; financialspec analytical application",
+      "limitations": "Does not claim free content is a failed commercial model or guarantee downstream value. No forecast, partner commitment, achieved conversion, ROI or extra paid service is introduced.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    },
+    {
+      "candidate_id": "T1C-C07",
+      "canonical_source_ids": [
+        "SRC-0190",
+        "SRC-0116",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The earlier constructed hiring prompts can clarify role, market, evidence object and assumptions for a proposed Table decision pack, but model-generated checks and public assertions cannot establish participant priorities, research demand or acceptable reuse/confidentiality terms.",
+      "evidence_class": "researcher_prior_study_scope_and_assumption_condition",
+      "locator": "Exact local S01-C/S02-D/S11-C bridge;24saved-answer integrity links with three ChatGPTr1 semantic rereads",
+      "limitations": "Constructed buyer situations already choose recruiting and often request evidence; the generated London assumption/weights are not supplied facts or validated selection rules. No model reruns, recommendation-count transfer or new practitioner evidence.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific primary provider/client content or explicit researcher application; no original participant sample",
+      "time_period": "Source-specific dates; live/retained context rechecked 30 October 2026",
+      "review_mode": "Fresh retained primary HTML/reader sections or explicitly labelled earlier selected primary reader notes; no primary paid market experiment."
+    }
+  ]
+}

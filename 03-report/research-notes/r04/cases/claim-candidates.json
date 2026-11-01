@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "module": "R04",
+  "created_on": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R4CASE-C01",
+      "canonical_source_ids": [
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The Scottish Government annual audit describes an executive Steering Committee and a reporting Programme Management Board, with separate finance-review, vendor, design and customer arrangements; the auditor judged governance appropriate and functioning as expected.",
+      "locator": "Printed/PDF p41, paras117–119 and preceding governance bullets",
+      "evidence_class": "independent_auditor_case_observation",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "Implementation through 2024/25",
+      "value": null,
+      "unit": null,
+      "limitations": "Membership and supplier attendance do not establish individual vetoes, signature powers or universal organisational design.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C02",
+      "canonical_source_ids": [
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Two HR functional heads signed off moving the HR data-migration process into the live system on 14 August 2024, a narrower decision than the later final programme go-live approval.",
+      "locator": "Printed/PDF p43, para125; compare p46 paras138–140",
+      "evidence_class": "independent_auditor_case_observation",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "14 August 2024",
+      "value": null,
+      "unit": null,
+      "limitations": "Do not equate migration-process signoff with all testing acceptance, funding approval or final go-live.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C03",
+      "canonical_source_ids": [
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Programme Management Board recommended1 October 2024 go-live on 19September subject to specified outstanding factors; Steering Committee backed proceeding conditionally on 20September, then formally approved the1 October date on 30September after considering remaining risks and assurances.",
+      "locator": "Printed/PDF p46, paras138–140",
+      "evidence_class": "independent_auditor_case_observation",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "19–30 September 2024",
+      "value": null,
+      "unit": null,
+      "limitations": "One programme; approval with known risks does not establish complete issue closure or universal readiness thresholds.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C04",
+      "canonical_source_ids": [
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The audit records assigned owners for cutover activities and an overall cutover manager, separating execution responsibility from the Steering Committee go-live approval.",
+      "locator": "Printed/PDF p46, paras140–141",
+      "evidence_class": "independent_auditor_case_observation",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "October2024 cutover",
+      "value": null,
+      "unit": null,
+      "limitations": "Does not identify every contractual acceptance or commercial-signing role.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C05",
+      "canonical_source_ids": [
+        "SRC-0136"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The closure account labels external assurance checkpoints separately from internal stage gates and describes a later benefits-management strategy approval. These are distinct events, not evidence that all benefits were realised.",
+      "locator": "Section 6.0 milestone list and Audit Recommendations, recommendation 13 response",
+      "evidence_class": "employer_programme_self_review",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "Checkpoints 2020–2024; benefits-strategy approval June 2025; published 23 March 2026",
+      "value": null,
+      "unit": null,
+      "limitations": "Same programme as SRC-0134; management self-review. Checkpoint labels do not disclose every formal decision right.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C06",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "R4CASE-S03"
+      ],
+      "claim_text": "Rotherham records an Assistant Chief Executive-delegated award for incumbent iTrent support/maintenance after framework further competition, with Finance, Legal and HR review of a business case signed off by that officer. The stated route preserves an existing platform.",
+      "locator": "Decision Maker, Delegation, Decision, Reasons and Alternatives; page lines29–64",
+      "evidence_class": "official_employer_decision_record",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "Decision body22 March 2024; published heading 26 March 2024",
+      "value": null,
+      "unit": null,
+      "limitations": "One council; consultation/review is not a veto. Signature-date line says 2023, retained as inconsistency. Award not proof of later execution/outcomes.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C07",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "R4CASE-S04"
+      ],
+      "claim_text": "On8 May 2025 Argyll and Bute Policy and Resources Committee approved continuing Phase2 of an HR/payroll implementation and £480,000 additional 2025/26 resources from part of an earmarked reserve.",
+      "locator": "Item 10, decision points1–2; original minutes lines244–252",
+      "evidence_class": "official_employer_committee_decision",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "8 May 2025",
+      "value": 480000,
+      "unit": "GBP approved additional budget, not realised spend",
+      "limitations": "Additional-budget approval, not actual expenditure, new contract award, completion, go-live authority or realised return.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    },
+    {
+      "candidate_id": "R4CASE-C08",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "R4CASE-S05"
+      ],
+      "claim_text": "Argyll’s supporting report separates earlier business-case/funding/procurement steps from delivery, identifies a Project Board/SRO and multidisciplinary input, and records Board resource redirection plus ELT prioritisation before the subsequent Committee funding decision.",
+      "locator": "PDF pp2–4, sections2.1,4.2.1–4.2.3; original report lines33–39,99–123",
+      "evidence_class": "employer_management_retrospective",
+      "population": "One specified public-sector employer/programme",
+      "time_period": "Report for 8 May 2025; earlier 2021–2024 decisions described retrospectively",
+      "value": null,
+      "unit": null,
+      "limitations": "Same employer/programme as R4CASE-C07, not independent market corroboration. Does not identify final go-live approver; membership does not create individual vetoes.",
+      "status": "candidate_for_parent_review",
+      "publication_eligibility": "internal_context_final_use_pending"
+    }
+  ],
+  "guardrails": [
+    "Separate recommendation, conditional approval, budget authority, procurement award, contract execution, functional signoff, go-live and measured result.",
+    "No universal CFO veto, private-employer hierarchy, country-wide prevalence, failure rate or ROI is derived.",
+    "Positive governance/continuity evidence retained.",
+    "Missing dates and approval rights stay unknown; no chronology reconstructed from attendance or consultation."
+  ]
+}

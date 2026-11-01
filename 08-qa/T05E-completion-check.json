@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-01",
+  "status": "completed_internal_event_component_unpriced_full_programme_pending",
+  "canonical_sources": 256,
+  "canonical_claims": 520,
+  "internal_findings_preserved": 81,
+  "source_records_with_primary_originals": 180,
+  "new_source_routes": 7,
+  "new_bounded_records": 12,
+  "work_tasks": 22,
+  "direct_cost_areas": 12,
+  "new_financial_register_rows": 0,
+  "original_shared_financial_inputs_preserved": 70,
+  "original_workbooks_changed": false,
+  "event_activity_and_amount_inputs_blank": true,
+  "labour_monetised": false,
+  "all_in_budget_complete": false,
+  "full_programme_model_complete": false,
+  "actual_quotes": 0,
+  "actual_bookings": 0,
+  "actual_participants": 0,
+  "external_messages_or_spend": 0,
+  "same_agent_review_checks": 2023,
+  "new_independent_agent_review": false,
+  "workbook_calculation_cases": 35,
+  "workbook_rendered_regions": 7,
+  "workbook_export_xml_checked": true,
+  "native_Excel_tested": false,
+  "constructed_mechanics_cases": 8,
+  "protected_baseline_files": 1845,
+  "exact_before_snapshots": 11,
+  "full_workspace_validation": {
+    "status": "passed",
+    "checks": 13437,
+    "json_files_at_check": 722,
+    "source_records": 256,
+    "claim_records": 520,
+    "local_markdown_links_checked": 550,
+    "date": "2026-11-01"
+  },
+  "next_step": "Review the event component, then dated cash/payment and remaining-obligation schedules before complete matched A/B programme integration.",
+  "artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/Event planning and direct costs.xlsx",
+      "sha256": "0a5aad11e1c30d0ec1888fcfd548dedd3908b0f8b7d3e947548a2be4aaccda37"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/build.mjs",
+      "sha256": "d7d7f1403749147b050ece7c78fa76b65f74859217616405773b64600ea21617"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/direct-cost-inputs.png",
+      "sha256": "202280b99c044c823f00e3b0ba34cbeb8df4312670b2b5a995803419f2271b36"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/direct-cost-scope.png",
+      "sha256": "c9a06ec1088b0d0cda5f5558bd2f063296b4bb688e9fca3628585da22659aba0"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/event-overview.png",
+      "sha256": "a93e374571fda50c3a384fd66056d821a8f3b5435b4494b5cb22c89f1e50a2a7"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/event-work-bottom.png",
+      "sha256": "5e8590cf6b1258da7f1aa2872507c33ece3343badf9876d36a811da8d3bc9fa4"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/event-work-top.png",
+      "sha256": "ff6cd2c04b5ce47bf34590ff2b5ed0ef3b84e0d2308206b0ffe9f51997249a05"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/source-context.png",
+      "sha256": "52ee6676deccbc5ff83f0851c3be5b8c0d7719600927779b46d73fde570f977e"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/work-boundaries.png",
+      "sha256": "e13881fe043aab31c1c7a1ebc8840aaf27fe43dad23a68add67ea359ccdbd415"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "2a206c3fc3d948fca8c5840ae0f2d9e627cd9e00c23033cb9dd9a0bc68ca8649"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "c0afa42cb95072b903edf3ca7dc5acbd8b5855a456c8af98fd21fa6d9bf9f437"
+    },
+    {
+      "path": "00-control/decisions.json",
+      "sha256": "2fd4e6c8e30e0464d309f4a5de4a72402bd2677a787f1b2524f2cc5df1cb811d"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "783d84b69e1163a49f5c5eb039ab70014376c339751042b6bff9c0339e395820"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "d7003d40349032d6f4eb3a2d473266819a1582a8f92191b654c6855d5181730c"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "0514681132925b49ddd19bce4bd45648c4dde6ad758ebb9924027b91b2969fc4"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "9982df8341d06c1c272d1f11856f72180fd12b09610d0695e6de94c55f4a2ad8"
+    },
+    {
+      "path": "04-table/T05-EVENT-OPERATIONS-AND-TRAVEL.md",
+      "sha256": "e631581be7fe8b592cce6d2f229d65864248e8669b3b2346a8f72952a45a840f"
+    },
+    {
+      "path": "04-table/T05-event-cost-map.json",
+      "sha256": "742b86e01889f138d5a4164e62251b7ca4cc54f3b498403fcc3ee263f860d0c1"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/WORK-PLAN.md",
+      "sha256": "f9620b741fafc867af254869efa5a875db6f967f51d50a50716765cab7f90d8b"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "ea73db411ffe307e76843e75053b9a57ab3cef3b817f80d25c6f737357e43285"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/00-control/changes.json",
+      "sha256": "7ddaf14ffa37cba51b96b106078231b288c3832124c316caed30416d1264c529"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/00-control/decisions.json",
+      "sha256": "e8e2cb9fa416afef4651434b97d1c8791d281915ded569a63e77c200df4da6a8"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/00-control/work-packages.json",
+      "sha256": "fa98b780b03a3f15fd0066b49333e24d4708c7f53af23fbf165fa7380f40f02f"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/02-evidence/registers/claims.json",
+      "sha256": "00f3b922057bda6b69183f3fe1cbdb4e822b0c80ffae8d1fce999cd0e1d8356d"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/02-evidence/registers/searches.json",
+      "sha256": "52feb50928e9ea9640c898e47eb7fff3d7af67a1cc0426127583afce06edb1db"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/02-evidence/registers/sources.json",
+      "sha256": "b94695e18ce6af6b8254ccf3b9665e13d6dff46200244e3d22ea353634f53f99"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "df0a90ba1c2ddf06bf3123c3de648957826759a542469e3d3cb2db40b9abd920"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/08-qa/validate_workspace.py",
+      "sha256": "bb0885692e9686b8a344c58f49dfa08fa199d2b61f3dbd377d131ccb34595270"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/README.md.txt",
+      "sha256": "a9d22e64fe23de44c8fcae58e728a5320c6ab653886cf7aabbf349d4596cba98"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/before-review/manifest.json",
+      "sha256": "08d4fb5481e10f67a31300175e9b942edd4ad8aee42d794c6e61a92e4f8250dd"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/constructed-applications.json",
+      "sha256": "09920c5e7219e17277afaf824217883ef54e56de55b6be665268bcedd803c040"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/capture-attempts.json",
+      "sha256": "bd439c1f267244ca916b782a1ea6869e86bb6958219a24188277dba76803e034"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S01.html",
+      "sha256": "9d5466dd3c6bfcd2b371ffddff74d612c29306df1e1759ae07a56d3eaa56b28b"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S02.html",
+      "sha256": "7cd06dead0562e2dda0a34d93c375f07f19fb1685f7fc9a8fa699e36426b36c0"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S03.html",
+      "sha256": "89d798bb7d22789152a2a42a4100f15a46d8f77a881fc8aec6ebfdd210684aec"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S04.html",
+      "sha256": "8deb7a023b1d2a5b9bb1a659797be74047b8e0118588b7426e2bca39d2f82687"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S05.html",
+      "sha256": "735467e6d7a5e5b224ea024f44fcdb0676801dce186c3d236cd6fcb3b7b2b454"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S07.html",
+      "sha256": "a2141f6726bcbc3c43e1385ec11edbdb9263c52712dbcb9029b804bfc172cd0f"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/captures/E-S08.pdf",
+      "sha256": "e7291f62f56b9689631b38e6e0cef351d1373b2e1a9d004f0091279d5259b449"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/claim-candidates.json",
+      "sha256": "25325e8676e6d8b7d4f258b9475c9966b96dbe6cb507fdbfa0183d5bb7efc4e3"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/excluded/old-iaf-route-unrelated-redirect.html",
+      "sha256": "f11949f0f9241ee64783e67241673b98fb5d0c4d8378959e8a1b24c439a81568"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S01.txt",
+      "sha256": "2c3c1df9ca07d939d1f1711228b6ed3ec1465cf51ce4c058292ab846f72e03a0"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S02.txt",
+      "sha256": "48e4f99526ce7feb1e373377c445e5bcb1dbc6d22902a13a0fc700ded82df9c7"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S03.txt",
+      "sha256": "ec1d32d4c1b56633e4c82fea2c3fb1270c7b7301e9088f1c9de217b15432f4c6"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S04.txt",
+      "sha256": "ef423f1643c17173e6f68ddfc25c3ca79b4be78310f65adc0819d072bd62ece9"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S05.txt",
+      "sha256": "5eb9cd417ce069647a2f2a5d8ba0de3275c9ff39ad595896ef1eba322c03aeb4"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S07.txt",
+      "sha256": "6d63c20ea7c6c6cef8cb27f0a24584b14636073933409baf6a9e8604e06075e3"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/E-S08.txt",
+      "sha256": "99e4c0c6a1155fa7fe1508b0d35f5d4dbae6efcccaf9ba02fdaa61d8f040b1da"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/iaf-page-3.png",
+      "sha256": "2ff4a41522d81b13206d6ba125ccfef79dcd77e2eb9f9b9fd737be86f00e55b6"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/parsed/iaf-page-4.png",
+      "sha256": "6970e51bd13994901bfd29a741fbac02f9ba0980e119e3f23dcfe9a24f21ea9e"
+    },
+    {
+      "path": "04-table/research-notes/t05-event-costs/evidence/source-candidates.json",
+      "sha256": "310a5e755a4b85dd23294629467e3eeb30348d9490f81af67e794a8a3215edd0"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "c4822bcf90b3c0f4cba872264a8f7932cf1d22f4971425411cfb421774c7d706"
+    },
+    {
+      "path": "08-qa/T05E-baseline-manifest.json",
+      "sha256": "757a9a7afd69d5cb6a26f7ea1fd96d5110ad5f2f9a939d320ac1b8c80195d1d4"
+    },
+    {
+      "path": "08-qa/T05E-record-map.json",
+      "sha256": "bb52ed04a587b95c5cefa52e70b712253e1279ba7ec95938e40f8a99149b7e42"
+    },
+    {
+      "path": "08-qa/build_t05e_records.py",
+      "sha256": "c91608b99cf76a9f8884f501ecfc1166d89f9a748e4b95b4ed66798d5da7023e"
+    },
+    {
+      "path": "08-qa/t05e-review/verification.json",
+      "sha256": "bcb57952e1fd3ce118481c189330278eade6c7afa045849a117481f42dcf92ec"
+    },
+    {
+      "path": "08-qa/t05e-workbook/formula-error-scan.ndjson",
+      "sha256": "acc0111e19cf44d2753fc9ecd164bf1b27fbd65597463a25cf48bd1c65e90146"
+    },
+    {
+      "path": "08-qa/t05e-workbook/output-inspection.ndjson",
+      "sha256": "2ddcc2a511ef9f45a68cd2dca20218c7f4526a167bbbd84e567b8459b9f9a77f"
+    },
+    {
+      "path": "08-qa/t05e-workbook/verification.json",
+      "sha256": "43c37ea9058bdb92533b8dc482690680c307a1289cf6374396f3231b5db55d82"
+    },
+    {
+      "path": "08-qa/validate_t05e.py",
+      "sha256": "37ff9265cd1d12fafd0cb3667d7729d2e5e89e888890bf639f66684b8805824e"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "6d3d5c4a3473a9fbd253bca120469ee42cd02f90bc6bfd8c6576773d904096b1"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2f5470b7b24554ccc0400c4672a3728a980723c33d82587783258830c85d6fd3"
+    }
+  ]
+}

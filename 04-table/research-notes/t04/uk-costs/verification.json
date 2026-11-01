@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_internal_source_and_unit_checks",
+  "checks": [
+    {
+      "check": "five core sources across three examples",
+      "passed": true
+    },
+    {
+      "check": "sixteen distinct bounded claims",
+      "passed": true
+    },
+    {
+      "check": "T4E-S01 capture_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S01 parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S02 capture_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S02 parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S03 capture_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S03 parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S04 capture_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S04 parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S05 capture_path",
+      "passed": true
+    },
+    {
+      "check": "T4E-S05 parsed_path",
+      "passed": true
+    },
+    {
+      "check": "all claim sources resolve",
+      "passed": true
+    },
+    {
+      "check": "each claim scoped",
+      "passed": true
+    },
+    {
+      "check": "T4E-K01 no budget adoption",
+      "passed": true
+    },
+    {
+      "check": "T4E-K01 future-date applicability open",
+      "passed": true
+    },
+    {
+      "check": "T4E-K02 no budget adoption",
+      "passed": true
+    },
+    {
+      "check": "T4E-K02 future-date applicability open",
+      "passed": true
+    },
+    {
+      "check": "T4E-K03 no budget adoption",
+      "passed": true
+    },
+    {
+      "check": "T4E-K03 future-date applicability open",
+      "passed": true
+    },
+    {
+      "check": "historical raw preserved",
+      "passed": true
+    },
+    {
+      "check": "historical text preserved",
+      "passed": true
+    },
+    {
+      "check": "current and historical are different originals",
+      "passed": true
+    },
+    {
+      "check": "current Benares period verified",
+      "passed": true
+    },
+    {
+      "check": "current Benares charge wording verified",
+      "passed": true
+    },
+    {
+      "check": "capacity checks 13 16 17 correct",
+      "passed": true
+    },
+    {
+      "check": "financial register remains blank",
+      "passed": true
+    }
+  ],
+  "check_count": 27,
+  "artifacts": [
+    {
+      "path": "04-table/research-notes/t04/uk-costs/source-candidates.json",
+      "sha256": "f9256e65a314d9ed9b296a86fd6f72549db5c6b6cec8bdc1faba653ea7460e02"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/claim-candidates.json",
+      "sha256": "21bbed81b66534a181df3a6f6e9723b20376ee62247e9169bc1b158cff439721"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/cost-candidates.json",
+      "sha256": "740be7a2143057ce38675c7014229ed2f5f26a958d03162af34f76590e39cfa8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/PUBLIC-COST-SCREEN.md",
+      "sha256": "7b1470660d3731386c0df6e814c2df2df50ff19138ad758d444f191dbdf80fab"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/live-link-checks.json",
+      "sha256": "fb8e74a96da50a719a4aba63edf922f660dadd887585b95a98c3617861e54cd9"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/visual-inspection.json",
+      "sha256": "c3ee495e6e3bc1fc40774cb5c0d50109df051f90c9a480bfb8092c22419b430d"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/capture-manifest.json",
+      "sha256": "c080e2aa8e952f8010965a18d19c5a8e2c0f0256121e9c22f67713dcc8ee5f54"
+    }
+  ],
+  "no_external_actions": true,
+  "financial_inputs_added": 0,
+  "budget_complete": false,
+  "scope": "Self-check of public cost evidence and record integrity. Independent integrated review separate."
+}

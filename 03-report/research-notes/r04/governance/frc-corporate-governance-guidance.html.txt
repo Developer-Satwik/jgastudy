@@ -1,0 +1,1755 @@
+Corporate Governance Code Guidance
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                                      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM\u002DN6RGNTC');
+function OptanonWrapper() { }
+document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+Skip to main content
+Skip to table of contents
+Skip to table of contents
+Careers at the FRC
+Contact us
+Search this website
+Search
+Financial Reporting Council
+Library
+About the FRC
+About the FRC
+Our Purpose
+FRC Structure
+Role and Responsibilities
+Reports, Plans and Budgets
+Policies and Procedures
+Governance Reporting
+Funding
+FRC Responses to External Consultations
+Tribunals
+The FRC's International Activity
+Consultations
+News and events
+Library
+About the FRC
+About the FRC
+Our Purpose
+FRC Structure
+Role and Responsibilities
+Reports, Plans and Budgets
+Policies and Procedures
+Governance Reporting
+Funding
+FRC Responses to External Consultations
+Tribunals
+The FRC's International Activity
+Consultations
+News and events
+Careers at the FRC
+Contact us
+Home
+Library
+Standards, codes and policy
+Corporate Governance
+Corporate Governance Code Guidance
+Published:
+29 January 2024
+Last updated:
+3 June 2026
+—
+See all updates
+The Code is based on application of the Principles and comply or explain with the Provisions. What this means is that companies listed in the commercial companies category or the closed-ended investment funds category should apply the Principles of the Code in line with the FCA Listing Rules. The Code sets out a number of provisions that are more prescriptive than the Principles. The FRC’s view is that compliance with the provisions can be met by complying with these Provisions or setting out an explanation of sufficient quality for why it can still meet the Principle whilst departing from a specific Provision. In taking a view on the quality of the explanation boards should consider whether it is cogent, well justified in the circumstances of the company and sufficiently transparent. This should be considered when reporting against the Code and using the guidance.
+Set out below is the guidance to the
+UK Corporate Governance Code 2024
+. The purpose of this guidance is to support those who use the Code by providing advice, further detail and examples. The guidance is not intended to be prescriptive. To make the guidance user-friendly, the FRC has included links in the Code to relevant sections of the guidance, and links in the guidance to other materials which may be of interest. The guidance can be navigated by using the menu displayed on the right hand side, designed to provide quick access to those sections users wish to consult. For those who prefer to print out or consult a full version of the guidance documentation, it is possible to create a PDF file.
+The FRC will be keeping the guidance under regular review to ensure it is relevant and up to date, and to ensure the links included work effectively. Any updates or changes to the guidance will be clearly signposted.
+Contents
+Executive Summary
+Section 1 - Board Leadership and Company Purpose
+Section 2 - Division of responsibilities
+Good Practice Guidance For The Successful Management of Board Committees
+Section 3 - Composition, Succession and Evaluation
+Section 4 - Audit, Risk and Internal Control
+Section 5 - Remuneration
+Appendix - Overlap with FCA Handbook
+Executive Summary
+1
+The primary purpose of the guidance is to stimulate boards’ thinking on how they can carry out their role in governing the company effectively. The guidance should not be used as a tick-box list of actions which should be followed in every situation. Reporting against the Code should always be proportionate and appropriate to the company.
+2
+It is for individual boards to decide on the governance arrangements most appropriate to their company’s circumstances, applying the Principles of The UK Corporate Governance Code (the Code) and complying, or when appropriate, explaining against the Provisions. A cogent explanation can improve transparency of governance arrangements and should be used where it is not possible to comply, or a company chooses to depart from a Provision.  FRC guidance
+Improving the quality of 'comply or explain' reporting (March 2026)
+offers further information.
+3
+The guidance is not mandatory, and not part of the Code itself, and is not prescriptive. It contains suggestions of good practice to support directors and their advisors in applying the Code
+. Where we have used the term ‘must’ there is a direct reference to a specific, legislation, or rules.
+4
+This guidance incorporates previous published FRC guidance: The Guidance on Board Effectiveness, Guidance on Audit Committees and Guidance on Risk Management and Related Financial and Business Reporting. Hyper-links to other sources of information and examples of good practice that companies may find useful are also included.
+5
+The Code includes links to the relevant part of the guidance from each section and in some cases sub-sections. It is also possible to link between sections of the guidance when necessary. The guidance is a live webpage and can be downloaded and printed as a pdf as a single document or in part.
+6
+The guidance includes a series of questions and concepts that boards may wish to consider depending on the size, complexity and maturity of the company. This is not a prescriptive or exhaustive list, and the questions aim to stimulate further discussion.
+7
+As Board committees have comparable composition and practices, we have introduced a section to support the effective management of board committees. This includes Risk and Sustainability committees which, although not included in the Code, may be needed by companies under other legislation or regulation.
+8
+A summary of each section is set out below:
+‘Board Leadership and Company Purpose’
+This section covers board decision-making, culture and engagement with shareholders and stakeholders. In line with the new Code Principle there is discussion of the importance and benefits of reporting on outcomes.
+Boards need to consider how they carry out their role. The behaviours they display, individually as directors and collectively as the board, set the tone from the top. There is no one way to do this and the guidance should provoke discussion.
+‘Division of Responsibilities’
+This section covers the different roles within the board; chair, CEO, executive directors, non-executive directors and company secretary and the important role each plays in achieving good governance. This section also briefly covers board papers and the role of the company secretary in bringing information together.
+‘Good Practice Guidance for the successful management of board committees’
+For the first time we have brought together foundational information relating to the make-up and general approach of board committees. Information on risk committees and sustainability committees is also included. Despite the fact that the Code does not state that such committees are necessary, they may be required under other regulations and rules.
+It is important that board committees have clear oversight and that they are able to work both independently of the board and when necessary, share relevant information. This section then further links to more detailed subject specific guidance for the individual committees.
+‘Composition, Succession and Evaluation’
+This section discusses the importance of having a breadth and depths of skills and perspectives on any board. Suggestions related to recruitment and improving the talent pipelines are discussed alongside approaches to diversity and inclusion. The guidance does not promote any one approach but links to a number of initiatives for further information.
+Board performance can be improved by a monitoring and assessment process. The guidance discusses both the importance of, and approach to, board performance reviews.
+‘
+Audit, Risk, and Internal Controls’
+This section is split into three sub-sections.
+Audit – The guidance is designed to assist boards in making suitable arrangements for their audit committees and assist those serving on them. This guidance should be read in conjunction with the audit committee minimum standard, Code companies should follow the standard on a comply or explain basis.
+Risk Management – The guidance prompts boards on the matters to consider when determining and maintaining their emerging and principal risks. The guidance does not set out specific procedures to follow and acknowledges that risk appetite will differ not only on a company basis but also on a sectoral basis.
+Internal Controls – The Code asks boards to monitor and review all material controls and make a declaration on their effectiveness. This guidance does not set out a framework that companies should follow or define a material control; this will be dependent on the nature of the principal risks. It is not the FRC’s role or intention to prescribe or dictate what a material control is for a company. Boards will need to determine the actions necessary to give them the information they require to make the declaration. The declaration relates to the internal controls and not the framework as a whole.
+‘Remuneration’
+This section concentrates on the role of the remuneration committee. It does not comment on the existing legislation that is applicable to determining levels of remuneration; it deals with workforce remuneration and remuneration and considers the use of discretion and malus and clawback provisions.
+Section 1 - Board Leadership and Company Purpose
+In this section:
+Purpose
+Strategy
+Directors
+Conduct
+Culture
+Decision-making
+Outcomes
+Relations with Stakeholders
+Print this section
+Purpose
+9
+An effective board defines the company’s purpose and sets a strategy to deliver it, underpinned by the values and behaviours that shape its culture and the way it conducts its business. It understands the main trends and factors affecting the long-term sustainable success, resilience and future prospects of the company – for example technological change or environmental and social impacts. It will also be able to explain how these have been assessed in the delivery of the company’s strategy and business model.
+10
+A company’s purpose is the reason for which it exists. A well-defined purpose will help companies to articulate their business model, and develop their strategy, operating practices and approach to risk. A board which is clear about its purpose, and the corporate culture needed to deliver that purpose, often finds it easier to engage with its shareholders and wider stakeholders.
+Strategy
+11
+A sound understanding at board level of how value is created and maintained over time is key in steering strategies and business models towards a sustainable future. This is not limited to value that is found in the financial statements.
+12
+An understanding of how all material sources of value are developed, managed and sustained – for example a trained workforce, intellectual property or brand recognition – is increasingly relevant to an understanding of the company’s performance and the impact of its activity. These are important considerations for boards when setting corporate strategy.
+13
+Boards are responsible for the health of the company and need to take a long-term view while considering the priorities of investors, not all of whom will be aligned with the pursuit of success over the long-term. An effective board will manage the conflict by for example assessing shareholder and other stakeholder interests from the perspective of the sustainable success of the company.
+14
+The chair has a key role to play in representing the company to its key stakeholders and is encouraged to report personally in the annual report about board leadership and effectiveness.
+Questions for boards:
+How do we know that management is identifying and addressing future challenges and opportunities, for example, changes in technology, business-relevant environmental and social matters, or changing stakeholder expectations?
+What proportion of board time is spent on financial performance management versus other matters of strategic importance?
+Is the balance between the focus on immediate issues and long-term success appropriate?
+Are we playing an active role in shaping long-term investment plans to underpin delivery of strategy and value creation?
+Is sufficient board time allocated to idea generation, opportunity identification and innovation?
+Are we using scenario analysis to help us assess the strategic importance and potential impact of our challenges and opportunities?
+Are we aware of emerging technologies (e.g. Responsible Artificial Intelligence) being used by the company, for example, in reporting?
+Is our supply chain using emerging technologies and if so, how?
+Are we aware of the challenges and benefits of emerging technologies to give us a competitive edge?
+How will we assess and measure the impact of our decisions on financial performance, the value for shareholders and the impact on key stakeholders?
+Directors
+15
+Effective directors understand their duties both collectively and individually. Directors’ duties are formally set out in sections 171–177 of the Companies Act 2006. Directors must  act in a manner consistent with their statutory duties, and to uphold the highest standards of integrity.
+16
+The boardroom is a place for robust debate where challenge, support, diversity of thought and teamwork are essential features. Diversity of skills, background and personal strengths is an important driver of a board’s effectiveness, creating different perspectives among directors, and mitigating any risk of ‘group think’.
+Conduct
+17
+Transparency and accountability matter at every level.  The quality of governance will be evident in the way the company conducts business, for example, its relations with stakeholders, speak-up culture and approach to ethics and compliance. Relationships based on honesty and integrity foster a culture of trust around key decisions and reinforce mutual understanding.
+18
+Directors can reinforce values through their own behaviour and decisions. To do this effectively, executive and non-executive directors may need to increase their visibility.
+Culture
+19
+A ‘positive’ working culture, one based on transparency, trust, respect and inclusion, supports better organisational resilience and performance. A culture blueprint or framework which demonstrates how culture, purpose, values and strategy are all aligned can act as a lens through which decisions are made and actions taken.
+20
+The board, responsible for establishing and articulating the corporate culture, also sets the framework of values, attitudes, ethics and behaviours which support a positive culture
+[1]
+. Ownership of the values will be stronger if a collaborative approach is taken, and both the leadership and the workforce are involved in a two-way process to define them.
+21
+It is important that the board develops a common and consistent understanding and language around culture, and pays attention to factors that can influence this, such as corporate history and sub-cultures, local traditions and responding to regulatory requirements. Boards will also need to be alert to signs of possible cultural problems, such as those in Figure 1.
+Figure 1 – Signs of a possible culture problem
+Silo thinking
+Dominant chief executive
+Leadership arrogance
+Pressure to meet the numbers / overambitious targets
+High staff turnover
+Lack of access to information
+Low levels of meaningful engagement between leadership and employees
+Lack of openness to challenge
+Tolerance of regulatory or code of ethics breaches
+Short-term focus
+Misaligned incentives
+Sub-cultures
+Fear of speaking up
+Questions for boards:
+How can we ensure positive aspects of our corporate culture are leveraged, without losing sight of the challenges?
+How do we demonstrate ethical leadership and display the behaviours we expect from others?
+To what extent is our own way of operating a reflection of the values we are promoting? Can we give good and bad examples?
+Do we understand what culture will best fit the company’s strategic objectives, values and purpose, and is that what the management is maintaining?
+How do we articulate and communicate what we consider to be acceptable business practices?
+What behaviours are being driven when setting strategy, financial targets and risk profile?
+How consistent is company strategy and business model – for example, on tax, business-relevant environmental and social matters and capital allocation – with our purpose and values, and our responsibilities for long-term success and to contribute to wider society?
+How can we build investor understanding of our corporate culture?
+What kind of culture does a company in our sector need to have to be successful in the next 10 years?
+22
+To have an impact on behavioural outcomes and influence the way business is done, culture and values need to be embedded throughout the organisation, in particular in communication, talent management and incentives. Empowered middle managers are key to this. To assess and monitor how the desired culture has been embedded (Provision 2), boards might seek periodic assurance either conducted internally or externally. The CEO, who drives the embedding, should keep the board abreast of the progress.
+Questions for boards:
+How have the culture, values and desired behaviours been reinforced in our recruitment, promotion, reward, performance management and other policies, processes and practices?
+How is the chief executive spearheading, promoting and embedding our organisational culture, and are they sufficiently supported in doing so?
+Do reward structures produce appropriate incentives that encourage desired behaviours and responsible risk-taking?
+What steps have management taken to communicate culture, purpose, values and expected behaviours widely and clearly across the company?
+How do we ensure that the code of conduct and ethics training programmes are up to date, adequately communicated and understood and lived by the workforce?
+What steps has management taken to ensure that suppliers meet expected standards of behaviour and are encouraged to report any breaches and instances of misconduct?
+Has management identified appropriate KPIs that are properly aligned to desired outcomes, including behaviours?
+How is ‘speaking up’, beyond whistleblowing policies – including ideas and innovation, encouraged across the organisation?
+23
+Periodic reflection on whether the culture is still relevant in a changing environment can help the company adapt its culture to ensure it supports its long-term success and aligns with the company’s strategy. The Code require boards to assess (initial process) and monitor (ongoing review) culture for alignment with purpose, values and strategy (Provision 2). The first step in assessing culture is to establish a benchmark against which future monitoring can take place. One approach to monitoring culture might be to identify and track core characteristics that are typical features of a positive culture, such as those in Figure 2, and link this to commitment to company values, supported by desired behaviours.
+Figure 2 – Common attributes of a positive culture
+Honesty
+Transparency
+Respect
+Adaptability
+Reliability
+Recognition
+Acceptance of challenge
+Accountability
+A sense of shared purpose
+Diversity, equity and inclusion
+Positive behaviours
+Psychological safety
+24
+Monitoring culture can involve regular analysis and interpretation of evidence and information gathered from a range of sources across the organisation. Drawing insight from quantitative and qualitative sources helps guard against forming views based on incomplete or limited information. The workforce, suppliers and customers, as well as relationships with stakeholders more broadly, will be a vital source of insight into the culture of the company.
+Some sources of culture insights and metrics:
+Data analytics, including on learning and development.
+Diversity, equity and inclusion initiatives and strategy.
+Recruitment, reward and promotion decisions.
+Use of non-disclosure agreements.
+Whistleblowing, grievance and ‘speak-up’ arrangements and findings.
+Employee surveys and direct engagement.
+Board interaction with senior management and workforce.
+Health and safety incidents and near misses.
+Promptness of payments to suppliers.
+Attitudes to regulators, internal audit and employees.
+Turnover, absenteeism rates and exit interviews.
+25
+Boards ought to draw on existing internal capabilities and information to shape their assessment and monitoring efforts. Different functions from across the organisation, such as human resources, internal audit, risk management and ethics and compliance, as well as the company secretary, all have a role to play. An integrated approach is likely to yield a more sophisticated understanding of how culture and values, underpinned by behaviours, affect performance. Senior professionals from these fields can get beneath the surface and offer expert analysis and advice to the board and its committees.
+26
+Assessment and monitoring also help to identify areas of good practice that can be used to drive up standards across the business. If the information received is joined up it will improve interpretation of results and help boards identify trends over time to inform decision making. Cultural change will generally require consistent practice, engagement and patience. The FRC's
+Corporate culture and the role of boards
+and
+Creating Positive Culture: Opportunities and Challenges
+reports look at those areas in more detail.
+Questions for boards:
+What does the workforce say about ‘the tone from the top’ and the ‘tone from the middle’?
+What evidence do we have that the chief executive is willing to listen, take criticism and let others make decisions?
+What do examples of communications from leadership and middle management tell us about the commitment to values, transparency and accountability?
+What action do we take against leaders or top performers who do not uphold the company’s culture and values?
+How are key promotions decided?
+Is management using root cause analysis where cultural issues are found, examining not just what went wrong but why?
+How can we use technology to analyse, interpret and present information?
+Do we need to invest in human resources, compliance and ethics, or internal audit to develop skills and capabilities, or encourage the use of multi-disciplinary teams?
+Do we take a broad view of culture, based on joined-up inputs from various functions across the organisation?
+How does the company deal with breaches of company rules or codes of conduct?
+How will we address any negative trends or misalignment between values and behaviours?
+Does internal audit have the degree of independence needed and a clear mandate to review aspects of corporate culture if necessary?
+Are we satisfied with the management’s response to findings from culture reviews and whether it is aligned with business strategy and long-term success?
+Decision-making
+27
+Many of the factors that lead to poor decision-making are predictable and preventable. Boards can minimise the risk of poor decisions by investing time in their decision-making including the contribution of committees and obtaining input from key stakeholders and expert opinions when necessary.
+28
+Meeting regularly is essential for the board to discharge its duties effectively and to allow adequate time for consideration of all the issues falling within its remit. Ensuring there is a formal schedule of matters reserved for its decision will assist the board’s planning and provide clarity to all over where responsibility for decision-making lies.
+29
+Most complex decisions depend on judgement, but the decisions of well-intentioned and experienced leaders can, in certain circumstances, be distorted. Factors known to distort judgement are conflicts of interest, emotional attachments, unconscious bias, and inappropriate reliance on previous experience and decisions. These are set out in more detail in Figure 3.
+Figure 3 – Risk factors for poor decision-making
+A dominant personality or group of directors on the board, inhibiting contribution from others.
+Insufficient diversity of perspective on the board, which can contribute to ‘group think’.
+Excess focus on risk mitigation or insufficient attention to risk.
+A compliance mindset and failure to treat risk as part of the decision-making process.
+Insufficient knowledge and ability to test underlying assumptions.
+Failure to listen to and act upon concerns that are raised.
+Failure to recognise the consequences of running the business on the basis of self-interest and other poor ethical standards.
+A lack of openness by management, a reluctance to involve non-executive directors, or a tendency to bring matters to the board for sign-off rather than debate.
+Complacent or intransigent attitudes.
+Inability to challenge effectively.
+Inadequate information or analysis.
+Poor quality papers.
+Lack of time for debate and truncated debate.
+Undue focus on short-term time horizons.
+Insufficient notice.
+30
+Boards can create conditions that support sound decision-making. The chair has the responsibility for creating an inclusive board where a range of views and a constructive exchange of ideas are encouraged. Where more than one part of the business is affected, integrated and joined-up information is likely to aid decision-making.
+Questions for boards:
+Have relevant members of the executive team been invited to explain the issues at the earlier stages, enabling all directors to share concerns or challenge assumptions well before the point of decision?
+Does the board have a clear idea of the success criteria related to a particular decision?
+What are we doing to test key decisions for alignment with corporate culture, purpose, values and strategy? Can we give examples and explain how this was considered?
+What are the risks that the decision could encourage undesirable behaviours or send the wrong message?
+Can we explain how the impact on key stakeholders has been taken into account?
+31
+For significant decisions, a board may wish to consider extra steps, for example:
+Describing in board papers how the proposals have been developed and challenged prior to presenting it to the board, thereby allowing directors not involved in the project to assess the appropriateness of the process before assessing the merits of the project itself.
+Where appropriate, putting in place safeguards to reduce the risk of distorted judgements by, for example, commissioning an independent report, seeking advice from an expert, introducing a devil’s advocate to provide challenge, establishing a specific sub-committee, and convening additional meetings.
+Ensuring that board minutes document the discussion that led to the decision, including the issues raised and the reasons for the decision.
+32
+Once a significant decision has been made and implemented the board may find it useful to review the effectiveness of the decision-making process, and the merits of the decision itself where it considers it relevant to do so. This could also be considered as part of the board evaluation process.
+[2]
+Outcomes
+33
+The Code places emphasis on the importance of outcome-based reporting without losing sight of the longer-term goals of sustainable value creation. Boards should demonstrate how the actions and other observable outcomes of their decisions align with the company’s strategy and objectives. Outcomes may not always crystalise as expected or may change over time. Equally, not all decisions will have immediately observable outcomes. The annual report should reflect this.
+34
+Reporting in a more insightful manner, with the focus on quality of disclosures rather than quantity, reduces boilerplate reporting and consequently the length of annual reports. Some companies may choose to move more routine or process-based disclosures onto their corporate websites, with appropriate signposting in the annual report.
+Questions for boards:
+Objectives:
+What are the objectives most relevant to the strategic aims of the company?
+Which issues are key to stakeholders?
+Decisions:
+What decisions have been taken in order to achieve these objectives?
+Is the alignment between the company’s strategy and decisions taken clearly explained?
+Actions:
+What actions have been taken in order to achieve these objectives?
+What policies and procedures have the board implemented subsequently or are planning to implement?
+What are the milestones that the board expects to achieve in working towards those objectives and what progress has been made already?
+Impacts:
+What impact have these actions had or are expected to have on stakeholders and the company?
+Have the actions had the intended impact? If not, how might the board review its actions to achieve the desired objective?
+Relations with Stakeholders
+35
+An effective board will appreciate the importance of dialogue with shareholders, the workforce and other key stakeholders, be proactive in ensuring that such dialogue takes place and is used to inform its decision-making. How the board approaches this will provide useful insight into the company’s culture.
+Relations with Shareholders
+36
+The chair has an important role in fostering constructive relations with major shareholders and in conveying their views to the board as a whole. When called upon, the senior independent director should seek to meet major shareholders to develop a balanced understanding of their views. Non-executive directors are encouraged to take opportunities, such as attendance at general and other meetings, to understand the concerns of shareholders.
+37
+It is important that shareholders are able to effectively discharge their stewardship duties if they wish. Formal ways of doing this are at shareholder meetings and the annual general meeting (AGM). To ensure that there is sufficient time to consider the issues, the notice of the AGM and related papers should be sent at least 20 working days before the AGM.
+38
+Smaller investors can be overlooked when the board’s focus is primarily on major shareholders. Companies may want to consider additional ways to engage with smaller shareholders, for example via methods of group engagement, such as shareholder roundtables or webinars. Many issues can be dealt with below board level, leaving a route open for escalation where necessary.
+39
+The chairs of the audit, remuneration and nomination committees ought to be available to answer questions at the AGM. This could include details of engagement with shareholders and any subsequent actions taken.
+40
+In cases where investors have a specific policy which may not align with a company’s approach, this may lead to an investor repeatedly voting against a resolution year on year. In such cases, engagement is unlikely to achieve a change in the approach, and  companies are encouraged to disclose this in their annual reports.
+Relations with other key stakeholders
+41
+Directors have a duty to promote the success of the company for the benefit of shareholders as a whole, having regard to a range of other key stakeholders and interests. This duty is set out in section 172 of the Companies Act 2006.
+42
+An effective board understands that a company has to engage and build relationships with its stakeholders. It will be able to explain how those relationships contribute to the company’s success and help deliver its purpose. The company’s approach to stakeholder engagement will be an important topic in the induction programme for new directors.
+43
+Dialogue with stakeholders can help boards to understand significant changes in the landscape, predict future developments and trends, and develop strategy. This begins by boards identifying and prioritising those key stakeholders who are important in the context of their business. This is likely to include the workforce, customers and suppliers. It may also include other stakeholders who are specific to the company’s circumstances, such as regulators, government, bondholders, banks and other creditors, trade unions and community groups.
+44
+Boards sometimes face complex decisions which will benefit some stakeholders but disadvantage others. These difficult choices are made in the long-term interests of the company. Directors need to be able to explain their decisions, including how impacts on affected stakeholders have been considered.
+45
+As discussed in paragraph 33, the Code places emphasis on outcome-based reporting. Companies ought to consider how they have addressed different stages in the engagement cycle (Figure 4), with increased emphasis on outcomes in the context of engagement objectives and the company’s strategy.
+Figure 4
+46
+Having identified the company’s key stakeholders, the board will be in a position to develop an engagement strategy for the company based on those issues that are most important to long-term success. Established communication channels can help embed the consideration of key stakeholder interests in board discussion and decision-making and broaden directors’ understanding of stakeholder perspectives and interests. Boards also need to be aware of and use other effective stakeholder communication channels.
+Example of sources of stakeholder feedback:
+Contacts with key customers.
+Customer complaints and satisfaction data.
+Supplier feedback.
+Surveys.
+Bespoke engagement activities on specific issues, for example, with trade unions, special interest groups or the local community.
+47
+The board may wish to refer to
+The Stakeholder Voice in Board Decision Making
+, issued jointly by The Chartered Governance Institute and The Investment Association, for detailed guidance on how to build stakeholder considerations into board discussions. This guidance sets out core principles for stakeholder identification and engagement.
+48
+In considering the impact of the company’s operations on the community and the environment, boards may refer to any frameworks or guidance that they are legally required to follow or do so on a voluntary basis.
+Relations with the workforce
+49
+The board has ultimate responsibility for ensuring that workforce policies and practices align with the company’s purpose and values and support the desired culture.
+Remuneration
+50
+The remuneration committee has a role in advising the board in respect of policies on rewards, incentives, terms and conditions, and other related matters. Published pay ratios and pay gaps will also offer valuable data that can prompt reflection on workforce pay.
+51
+The board can delegate responsibility for reviewing non-pay-related workforce policies to a board committee with relevant responsibilities where one exists. Information on workforce pay and conditions, and any engagement with the workforce on this matter, can be included in reporting against provision 41.
+Questions for boards
+How well are our values and desired behaviours embedded in our human resources policies, processes and practices?
+How do we know we are treating our people as a strategic asset?
+Have we taken workforce views and priorities into account in developing our approach to investing in our people?
+Are behavioural objectives included in leadership and employee goals, and are behaviours formally assessed as part of performance review activity?
+What are we doing to address gender pay gaps?
+Are we doing enough to train and develop our people with the skills they will need in the future?
+Gathering the views of the workforce
+52
+Engagement through a range of formal and informal channels, with a focus on bolstering a two-way communication in a trusted and respected environment, helps the workforce to share ideas and concerns with senior management and the board. It provides useful feedback about business practices from those delivering them and can help empower colleagues. Communication and engagement will involve those with formal contracts of employment (permanent, fixed-term and zero-hours) and other members of the workforce who are affected by the decisions of the board.
+[3]
+53
+With the aim of strengthening the ‘employee voice’ in the boardroom, the Code asks boards to gather the views of the workforce and suggests three ways this might be achieved, as set out in Figure 5 (Provision 5).
+Figure 5 – Workforce engagement
+A director appointed from the workforce.
+A formal workforce advisory panel.
+A designated non-executive director.
+54
+Whichever method is chosen, these arrangements are not intended to displace established channels of communication and consultation arrangements where these exist. A director appointed from the workforce will bring a workforce view to the boardroom and, ideally, contribute to discussions on wider issues. Training and support will be critical to delivering good outcomes, for example in understanding company finance and business decision-making, and how to work in a collaborative, committee environment. While the director may engage with colleagues to understand the issues and challenges in particular parts of the business, they have the same duties and responsibilities as the other directors; their role is not solely to represent the views of the workforce.
+55
+Different areas of the workforce may have different interests and priorities. Boards may feel it would be most effective to adopt a combination of methods or multiple channels for engagement at different levels and may want to develop an alternative arrangement. Provided the board’s approach delivers meaningful, regular dialogue with the workforce and is explained effectively, the Code provision will be met. It would be useful to demonstrate why the board considers the chosen approach to be suitable over the other methods.
+Examples of workforce engagement activities:
+Hosting town halls and open-door days.
+Listening groups for frontline workers and supervisors.
+Focus or consultative groups.
+Meeting groups of elected workforce representatives.
+Meeting future leaders without senior management present.
+Visiting regional and overseas sites.
+Inviting colleagues from different business functions to board meetings.
+Employee AGMs.
+Involvement in training and development activities.
+Annual and pulse surveys.
+Digital sharing platforms.
+Establishing mentoring between non-executive directors and middle managers.
+56
+Encouraging individuals to raise concerns is a core part of an ethical and supportive business culture. Whistleblowing policies that offer effective protection from retaliation, as well as policies that support anti-bribery and corruption legislation, are essential components of this (Provision 6). Such policies are important, for example, when attempts to resolve things internally have not worked.
+57
+Well governed whistleblowing arrangements are in the public interest. To foster an environment of transparency, accountability and trust between the company and its stakeholders, boards are encouraged to keep a record on the number and type of incidents raised, actioned and closed, as well as any lessons learnt.
+58
+It is equally important to encourage individuals to speak up. An embedded speak-up culture, in which the workforce feels it is safe to raise concerns, supported by fit-for- purpose arrangements help build trust, act as an early warning system, and help to manage risk.
+59
+Surveys can be a powerful way to engage people and when conducted regularly they can provide valuable trend data. The results can also give investors a useful insight into the views of the workforce. While both annual and more frequent pulse surveys are a useful source of information, it is important to understand the issues that emerge and to establish a feedback loop so that there is transparency around actions taken to address those issues and their outcomes. Once a course of action has been agreed, timely implementation is critical.
+60
+Boards could consider the good practice recommendations highlighted in the report
+Workforce Engagement and the UK Corporate Governance Code: A Review of Company Reporting and Practice
+.
+Questions for boards:
+Is there a forum for the workforce to share ideas and concerns?
+How do we demonstrate that we listen to the ideas and concerns from the workforce?
+Does management provide feedback on how complaints and concerns have been dealt with?
+How comfortable do our people say they are with challenging and reporting issues of concern, and is there any evidence that they are doing this?
+Do colleagues report that leaders and managers live the company’s values?
+Do colleagues see the company’s values being displayed in the way the business is run and decisions are made, as well as in leadership behaviour?
+Are our speak-up arrangements fit for purpose and transparent, and offering a strong whistleblower protection?
+Are waiting periods for our colleagues who require reasonable adjustments at work kept to a minimum?
+Relations with suppliers
+61
+One aspect of good governance is about ensuring a healthy relationship between companies and their supply chains as well as mitigating supply chain related-risks and embracing opportunities.
+62
+Supply chains can be adversely impacted by geopolitical matters and other factors outside of the company’s control. This may extend to shareholder and stakeholder expectations and priorities and may frame engagement on such matters.
+63
+While it is a good practice to undertake due diligence and assurance checks with suppliers, it is important that companies also seek the views of their suppliers to inform and improve decision-making in line with Provision 5. Such engagement will invariably extend beyond policies and codes of conduct and be based on two-way communication.
+Some of the dialogue-driven engagement methods with suppliers:
+Meetings at the outset of the relationship to agree on performance metrics and ensure continual monitoring of performance.
+Questionnaires and satisfaction surveys.
+Board-to-board meetings with suppliers.
+Whistleblowing hotline.
+Listening groups.
+Worker voice programme, expanded to hear directly from factory workers in the supply chain.
+360° feedback programme with key suppliers, providing insight into their experience and ensuring continual improvement.
+Creation of forums to discuss health, safety and other business-relevant social and environmental issues, and to share good practice on an ongoing basis.
+64
+Payment terms are one of the metrics that companies can consider to demonstrate how they foster relationships with their suppliers. Companies can report on:
+Whether the company has any supplier payment targets.
+To what extent payment targets have been met.
+Whether the board or relevant committee(s) consider suppliers payments at its meeting, and how often.
+65
+When considering their modern slavery statement, boards may wish take into account findings of the FRC’s 2022 research:
+Modern Slavery Reporting Practices in the UK
+, among them the encouragement to provide information on the following:
+Follow-up actions the company had taken following supplier due diligence processes.
+Nature and scope of the company’s risk assessment.
+Outcomes of risk assessment, including strategic response.
+How metrics used to drive performance and shape operations influence the company’s exposure to modern slavery risk.
+Questions for boards:
+Can we describe how stakeholders are prioritised and why?
+What are the key concerns of our workforce, our suppliers and our customers and how are we addressing them?
+Does the workforce consider that customers and suppliers are treated fairly and that the company cares about its impact on the environment and community?
+Have we sought input from enough stakeholders and what impact has this had on our decisions?
+Have we communicated to stakeholders the actions that we have taken to address the issues raised?
+Have we considered how environmental and social issues, and their reporting frameworks and guidance, might impact on the business and our strategy?
+Who is responsible for driving a strategy on modern slavery and how do we conduct  due diligence of our supply chains, including any mitigating and follow-up actions?
+Footnotes
+[1]
+For a summary of areas for consideration by boards as they seek to promote an ethical business culture within their companies see The Institute of Business Ethics'
+Guidance for Board members on developing an ethical business culture.
+[2]
+The Chartered Governance Institute provides
+guidance on minute taking
+.
+[3]
+The use of ‘workforce’ is for Code purposes and not meant to align with legal definitions of workforce, employee, worker or similar.
+Section 2 - Division of responsibilities
+In this section:
+The role of the chair
+The role of the senior independent director
+Role of executive directors
+Role of non-executive directors
+Board support and the role of the company secretary
+Print this section
+The role of the chair
+66
+The chair is pivotal in creating the conditions for overall board and individual director effectiveness, setting clear expectations concerning the style and tone of board discussions, ensuring the board has effective decision-making processes and applies sufficient and constructive challenge to major proposals. It is up to the chair to make certain that all directors are aware of their responsibilities and to hold meetings with the non-executive directors without the executives present to facilitate a full and frank airing of views.
+The chair’s role includes:
+Setting a board agenda primarily focused on strategy, performance, value creation, culture, stakeholders and accountability, and ensuring that issues relevant to these areas are reserved for board decision.
+Shaping the culture and diversity in the boardroom.
+Encouraging all board members to engage in board and committee meetings by drawing on their skills, experience and knowledge.
+Fostering relationships based on trust, mutual respect and open communication – both in and outside the boardroom – between non-executive directors and the executive team.
+Developing a productive working relationship with the chief executive, providing support and advice, while respecting executive responsibility and offering constructive challenge.
+Providing guidance and mentoring to new directors as appropriate.
+Leading the annual board performance review, with support from the senior independent director and company secretary, as appropriate, and acting on the results.
+Commissioning regular external board performance reviews.
+The chair ensures that:
+Adequate time is available for discussion of all agenda items, in particular strategic issues, and that debate is not truncated.
+There is a timely flow of accurate, high-quality and clear information.
+Challenges are looked at from many perspectives and external expertise is sought for when warranted.
+All directors are aware of and able to discharge their statutory duties.
+The board listens to the views of shareholders, the workforce, customers and other key stakeholders.
+All directors receive a full, formal and tailored induction on joining the board.
+All directors continually update their skills, knowledge and familiarity with the company to fulfil their role both on the board and committees.
+For more examples of unique skills a chair ought to possess, please see the FRC’s report:
+Board Diversity and Effectiveness in FTSE350 Companies
+The role of the senior independent director
+67
+The senior independent director acts as a sounding board for the chair, providing them with support in the delivery of their objectives and leading the evaluation of the chair on behalf of the other directors. The senior independent director might also take responsibility for an orderly succession process for the chair, working closely with the nomination committee. It may be a good idea for the senior independent director to serve on committees of the board to improve their knowledge of company governance.
+68
+The senior independent director is available to shareholders if they have concerns that contact through the normal channels of chair, chief executive or other executive directors has failed to resolve, or for which such contact is inappropriate.
+69
+When the board or company is undergoing challenge the senior independent director’s role becomes critically important. They can work with the chair and other directors, and/or shareholders, to resolve significant issues. Boards need to have a clear understanding of when the senior independent director might intervene in the interest of board and company stability. Examples might include where:
+There is a dispute between the chair and chief executive.
+Shareholders or non-executive directors have expressed concerns that are not being addressed by the chair or chief executive.
+The strategy is not supported by the entire board.
+The relationship between the chair and chief executive is particularly close.
+Decisions are being made without the approval of the full board.
+Succession planning is being ignored.
+These issues also need to be considered when defining the role of the senior independent director.
+Role of executive directors
+70
+Executive directors have the same duties as other members of a unitary board. These duties extend to the whole of the business, and not just that part of it covered by their individual executive roles so they are able to bring a wider perspective when engaged in board business. Executive directors may be able to broaden their understanding of their board responsibilities if they take up a non-executive director position on another board.
+71
+As the most senior executive director, the chief executive is responsible for proposing company strategy and for delivering the strategy as agreed by the board. The chief executive’s relationship with the chair is a key influence on board effectiveness. When deciding the differing responsibilities of the chair and the chief executive, it is important to pay particular attention to areas of potential overlap.
+72
+The chief executive has primary responsibility for setting an example to the company’s workforce and for communicating to them the expectations in respect of the company’s culture. They are responsible for supporting the chair to make certain that appropriate standards of governance permeate through all parts of the organisation. They ensure the board is made aware of views gathered via engagement between management and the workforce.
+73
+It is the responsibility of the chief executive to ensure the board knows the views of the senior management on business issues in order to improve the standard of discussion in the boardroom and, prior to a final decision on an issue, explain in a balanced way any divergence of view.
+74
+The chief executive is also responsible for ensuring that management fulfils its obligation to provide board directors with:
+Accurate, timely and clear information in a form and of a quality and comprehensiveness that will enable it to discharge its duties.
+The necessary resources for developing and updating their knowledge and capabilities.
+Appropriate knowledge of the company, including access to company operations and members of the workforce.
+75
+Executive directors should welcome constructive challenge from non-executive directors as an essential aspect of good governance and a way of drawing on wider experience outside the company.
+Role of non-executive directors
+76
+When appointed, non-executive directors are expected to devote time to a comprehensive, formal and tailored induction that generally extends beyond the boardroom. Initiatives such as partnering a non-executive director with an executive board member may speed up the process of them acquiring an understanding of the main areas of business activity, especially areas involving significant risk. They may visit operational sites and talk with managers and members of the workforce. A non-executive director may use these conversations to better understand the culture of the organisation and the way things are done in practice and to gain insight.
+77
+Non-executive directors need sufficient time available to discharge their responsibilities effectively. The time commitment to engage with shareholders and other key stakeholders and get to know the business can be significant. Non-executive directors assess the demands of their portfolios and other commitments carefully before accepting new appointments, devoting time to developing and refreshing their knowledge and skills, to ensure that they continue to make a positive contribution to the board.
+78
+Non-executive directors need timely, high-quality information sufficiently in advance so that there can be thorough consideration of the issues prior to, and informed debate and challenge at, board meetings. They seek clarification or amplification from management where they consider the information provided is inadequate or lacks clarity.
+Board papers and supporting information should:
+Be accurate, clear, comprehensive and up‑to‑date.
+Contain a summary of the contents of any paper.
+Inform the director what is expected of them on that issue.
+Be delivered sufficiently in advance of the meeting.
+79
+Non-executive directors do not operate exclusively within the confines of the boardroom but have a good understanding of the business and its relationships with significant stakeholders. Accordingly, it is advisable for them to take opportunities to meet other stakeholders from all levels of the organisation.
+Board support and the role of the company secretary
+80
+The company secretary is responsible for ensuring that board procedures are complied with, advising the board on all governance matters, supporting the chair and helping the board and its committees to function efficiently.
+81
+The company secretary should report to the chair on all board governance matters. This does not preclude the company secretary also reporting to the chief executive, or other executive director, in relation to their other executive management responsibilities. The remuneration should be determined by the remuneration committee.
+82
+Under the direction of the chair, the company secretary’s responsibilities include ensuring good information flows within the board and its committees and between senior management and non-executive directors, as well as facilitating induction, arranging board training and assisting with professional development as required.
+83
+The company secretary arranges for the company to provide the necessary resources for developing and updating its directors’ knowledge and capabilities, and for responding to an issue arising from the board performance reviews.
+84
+It is the responsibility of the company secretary to ensure that directors, especially non-executive directors, have access to independent professional advice at the company’s expense where they judge it necessary to discharge their responsibilities as directors of the company. Committees need to be provided with sufficient resources to undertake their duties.
+85
+Assisting the chair in developing and implementing the policies and processes to support the effective functioning of the board is a core part of the company secretary’s role. The chair and the company secretary should periodically review whether the board and the company’s governance processes are fit for purpose and consider any improvements to enhance the governance of the company.
+86
+The company secretary’s effectiveness can be enhanced by building relationships of mutual trust with the chair, the senior independent director and the non-executive directors, while maintaining the confidence of executive director colleagues.
+Good Practice Guidance For The Successful Management of Board Committees
+In this section:
+Board committees
+Role of the nomination committee
+Role of the audit committee
+Role of the remuneration committee
+Additional organisational committees
+Role of risk committees
+Role of sustainability committees
+Print this section
+87
+Board committees are vital to achieving good governance, they support board decision making and offer additional oversight. Listed companies normally have, at least, nomination, audit, and remuneration committees, but there is increasing growth in other board level committees, such as risk and/or sustainability committees. This guidance is designed to assist company boards in making suitable arrangements for their committees, and to help directors who serve on these committees.
+The board operates as a unitary function, and board committees play an important role in giving support to this unitary function. Companies should make every effort to ensure that their separate committees do not exist and act in isolation, from the board or other committees.
+Board committees
+88
+Board level committees should only comprise of members of the board. Membership of the nomination, audit and remuneration committees should operate as outlined in the Code. For other board level committees, companies are advised to check whether other regulatory requirements apply. For example, financial services firms may encounter specific regulations regarding the makeup of risk committees.
+89
+The chair of the board will ensure board committees are properly structured with appropriate terms of reference, which should be published on the company website. The terms of each committee should set out its responsibilities and the authority delegated to it by the board. The chair should ensure that committee membership is periodically refreshed and that individual independent non-executive directors are not over-burdened when deciding the chairs and membership of committees.
+90
+In considering the composition of the board committees, the board should have regard to ensuring a range of skills, experience, knowledge, and professional qualifications to meet the requirements of the Code. Each committee, as a whole, may have competence relevant to the sector in which the company operates, and where possible the matters for which the committee is responsible.
+91
+The terms of reference for committees should identify how the activity of the board committees complement one another. Committee chairs should reach an agreement on which documents, or additional content, can be shared amongst board committees to facilitate this. Monitoring these relationships will ensure that they function effectively.
+92
+Training can be provided to members of the committees on an ongoing and timely basis and could include an understanding of the principles of, and developments in, corporate reporting and regulation. In appropriate cases training may include: understanding recommended practice; the legal and regulatory framework for the company’s business; updated standards and key director duties.
+93
+No one other than the committee chair and members is entitled to be present at a meeting, unless at the invitation of the committee.
+94
+The number of meetings held annually is determined by the committee’s role and responsibilities. It is recommended that companies adhere to at least the number of meetings indicated in their terms of reference each year. Decisions on the frequency and timing of the meetings should be agreed in consultation with the company secretary.
+95
+Where the board or company is undergoing a period of challenge, uncertainty, or an acquisition or takeover, increasing the frequency of meetings may be beneficial. The role of the chair, senior independent director and company secretary during such periods are critically important. See
+divisions of responsibilities
+for guidance on these roles.
+96
+Each board committee should report to the board on its proceedings and how it has discharged its responsibilities after each meeting. Adequate time should be provided to committees to update and transfer key information to the board for their consideration. Careful planning of meetings is important to allow members of other committees and specialists or experts to attend as guests and allow for their consideration of all items to be discussed.
+97
+The minutes of committee meetings should be circulated to all board members and the company secretary, unless, exceptionally, it would be inappropriate to do so. They may also be circulated to other interested parties, for example the head of internal audit, head of compliance, general counsel, etc., where appropriate. The remit of each committee, and the processes of interaction between these committees and the board, is to be reviewed regularly, for example, during the board performance review.
+98
+Board committees should have access to the services of the company secretariat on all committee matters including but not limited to:
+Assisting the chair in planning the committee’s work.
+Drawing up meeting agendas.
+Taking minutes.
+Drafting of material about its activities for the annual report.
+Collection and distribution of information, and
+Provision of any necessary practical support.
+99
+While the board may make use of committees to assist its consideration of appointments, succession, audit, risk remuneration and the organisation’s sustainability, it retains responsibility for, and endorses, material decisions in all of these areas. The chair is to ensure that sufficient time is allowed at the board for committees to report on the nature and content of discussion, on recommendations, and on actions to be taken.
+100
+Where there is disagreement between the relevant committee and the board, adequate time could be made available for discussion of the issue with a view to resolving the disagreement. Where any such disagreement cannot be resolved, the committee concerned should have the right to report the issue to the shareholders as part of the report on its activities in the annual report.
+101
+Board Committees roles and responsibilities can be wide-ranging, time-consuming, overlapping and sometimes intensive. Committee members should be reminded of their responsibilities and time commitments to their role.
+102
+As highlighted under section one of this guidance:
+board leadership and company purpose
+, the chairs of board level committees should be available to answer questions at the AGM. The chair should encourage them to lead discussions at the AGM and make a statement on the activities and achievements of the committee over the year. This could include details of engagement with shareholders on significant matters. See
+relations with shareholders
+on how to ensure effective engagement.
+What boards may wish to take into account:
+Is our board composition optimised for our circumstances?
+Are all directors on our board aware of their obligations and accountability to the company?
+Is the company Articles of Association up to date?
+Do our committees have sufficient firm-specific knowledge?
+Is there a clear division of responsibilities at the head of the company between the leadership of the board and the executive leadership of the company’s business?
+Are committees working together where appropriate?
+Additional guidance on how the board can receive further support can be found under
+board support and the role of the company secretary.
+Role of the nomination committee
+103
+When determining the composition of this committee the board should observe Provision 17 of the Code.
+104
+The nomination committee should evaluate the skills, experience and knowledge on the board, and the future challenges affecting the business, and, in the light of this evaluation, prepare a description of the role and capabilities required for a particular appointment. It should then agree the process to be undertaken to identify, sift and interview suitable candidates. It is important to build a proper assessment of values and expected behaviours into the recruitment process.
+105
+The nomination committee is responsible for board recruitment and will conduct a continuous and proactive process of planning and assessment, taking into account the company’s strategic priorities and the main trends and factors affecting the long-term success and future viability of the company. Additional information on how to ensure a robust recruitment process can be found under
+composition, succession and evaluation
+.
+106
+Working with human resources or people operations, the nomination committee is encouraged to take an active role in setting and meeting diversity objectives and strategies for the company as a whole, and in monitoring the impact of diversity initiatives. Examples of the type of specific actions the nomination committee could consider can be found under
+composition, succession and evaluation
+.
+107
+Nomination committee members along with the chair and company secretary should be responsible for ensuring all newly appointed directors receive a full, formal and tailored induction on joining the board. The induction could include the following, but not limited to:
+The organisation’s business model, and its purpose and values.
+The organisation’s strategy, risk management and internal controls framework, and principal risks of the company.
+Directors’ rights, duties and responsibilities, and
+The role of the organisation’s committees.
+For further details on leadership and company purpose, see
+board leadership and company purpose
+.
+108
+Whilst the company chair is ultimately responsible for organising suitable training for all appointees of the board. The committee may wish to examine the ongoing training and development of their board members to ensure they are adequately trained.
+109
+The nomination committee may wish to consider whether to set limits on the number and scale of other appointments it considers the chair and other non-executives may take on without compromising their effectiveness.
+110
+At the conclusion of a directors specified term of office the committee should examine the director’s knowledge, skills, experience performance and the director’s contributions to the board. The Committee should also note Provision 18 of the Code which states that all directors should be subject to annual re-election.
+111
+The terms and conditions of appointment of the chair and non-executive directors must be available for inspection. Letters of appointment should set out the expected time commitment and indicate the possibility of additional commitment when the company is undergoing a period of particularly increased activity, such as an acquisition or takeover, or as a result of some major difficulty with one or more of its operations.
+112
+The Committee should provide a description on the actions it has undertaken under Provision 23.
+113
+Given its oversight of the organisations governance this committee should take the lead in succession planning and take a long-term strategic view of the closely linked issues of board composition, talent management and succession planning. Further details on what companies could consider when thinking about their succession plans can be found under
+succession planning
+.
+Questions for the nomination committee
+What skillset will be required for the board and its committees in the short and medium term?
+Have we conducted a full skills assessment to identify what skill gaps we may have in our boardroom?
+Do we reassess the make-up of the board because of emerging trends?
+Do we take account of the technical skills and knowledge required by the committees when recruiting members?
+How often is a skills audit undertaken and are we keeping up with the pace of change?
+Do our recruitment consultants offer a diverse range of talent for board appointments?
+How often do we change/assess the effectiveness of recruitment consultants/headhunters?
+Role of the audit committee
+114
+The audit committee is responsible for discharging governance responsibilities in respect of audit, risk and internal control, and will report to the board as appropriate. It will assist the board in fulfilling its responsibilities regarding all matters related to external and internal financial reporting and maintain an appropriate relationship with the company’s auditors.
+115
+When determining the composition of this committee the board should observe Provision 24 of the Code.
+116
+Any additional roles of the audit committee are in many cases subject to requirements, either set out in the Listing Rules (LR) or the Disclosure Guidance and Transparency Rules (DTR).
+Appendix - Overlap with FCA Handbook
+highlights the overlaps for both this section and wider overlaps with the Code in the LR and DTR.
+117
+The audit committee should become familiar with the information contained in this
+guidance on audit, risk and internal controls
+, as well as the FRC’s
+audit committees and the external audit: minimum standard
+,
+and any relevant regulatory requirements.
+118
+In considering the composition of the committee the need for a degree of financial literacy among the other members will vary according to the nature of the company. Experience of corporate financial matters will normally be required. The availability of appropriate financial expertise will be particularly important where the company’s activities involve specialised financial activities.
+119
+Members of this committee should be given an overview of the company’s business model and strategy including information on the primary business, financial dynamics, and risks, as part of the induction programme. Inductions may also involve site visits, meeting some of the company staff and management, or participating in other appropriate activities. In addition, regular and timely training can be considered. This could cover topics like risk management, the function of internal and external auditing, the legal and regulatory framework governing the company’s operations, and understanding financial statements and applicable accounting standards and recommended practices.
+120
+It is recommended that the audit committee undertake no less than three meetings during the year, held to coincide with key dates within the financial reporting and audit cycle.
+121
+The audit committee should, at least annually, separately meet the external and internal auditors, without management, to discuss matters relating to its remit and any issues arising from the audits.
+122
+Formal meetings of the audit committee are the heart of its work. However, they will rarely be sufficient. It is expected that the audit committee chair, and to a lesser extent the other members, will wish to keep in touch on a continuing basis with the key people involved in the company’s governance, including the board chair, the chief executive, the finance director, the external audit lead partner and the head of internal audit.
+123
+Given the time constraints that audit committees may encounter, where it is not a requirement, the board may decide to explore forming a separate risk committee with responsibility for ensuring risk is effectively managed. More information about the risk committee's role can be found later in this guidance.
+124
+The board should make funds available to the audit committee to enable it to take independent legal, accounting or other advice when the audit committee reasonably believes it necessary to do so.
+125
+The committee should provide a description of the actions it has undertaken under Provision 26.
+The FRC has developed a series of ‘conversation starters’ to promote wider discussions between audit committees and investors. More details can be found on our website:
+Audit committees and assurance: conversation starters
+.
+Questions for audit committees
+Is sufficient time allocated on the board agenda to enable a full discussion of the work of the audit committee?
+How has the board assessed whether the audit committee has a balance of skills and competencies necessary to fulfil its remit?
+How is the audit committee managing and monitoring the non-audit work the company’s external or statutory auditors’ deliver across the group?
+Are there clear procedures and triggers in place to elevate risks to the board quickly?
+Role of the remuneration committee
+126
+When determining the composition of this committee the board should observe Provision 32 of the Code.
+127
+The remuneration committee will assist the board in fulfilling its responsibilities regarding all matters related to remuneration, including making recommendations in respect of policies on rewards, incentives, terms and conditions and other related matters for the executive directors and members of senior management.
+128
+The remuneration committee has delegated responsibility for designing and determining remuneration for the chair, company secretary, executive directors and the next level of senior management. It is vital that the remuneration committee recognises and manages potential conflicts of interest in this process.
+129
+The remuneration committee is also tasked with reviewing workforce remuneration and related policies. Details on what this entails is available under
+workforce remuneration
+.
+130
+The committee may consult the audit committee on suitable performance measures and the nomination committee on pay gaps and pay ratios.
+131
+In relation to the duties and responsibilities set out in the committee terms of reference, the board may delegate authority to the remuneration committee to acquire independent legal, financial, remuneration or other advice as it deems necessary. Code Provision 35 states that any external consultants engaged to provide such advice will be identified in the annual report and a statement will be made as to their connections with the company.
+132
+If it wishes, the board can delegate responsibility for reviewing non-pay-related workforce policies to a board committee with relevant responsibilities where one exists, for example, a people committee, a sustainability committee, or a corporate responsibility committee. Where the board elects to do this, an integrated approach involving dialogue between the board and the relevant committees will be needed.
+133
+The committee should ensure that all applicable regulation regarding the disclosure of remuneration is fulfilled.
+134
+The Committee should provide a description on the actions it has undertaken under Provision 41.
+Questions for remuneration committees
+How is executive remuneration aligned with wider company pay policy?
+How do workforce incentives support our culture and encourage the desired behaviours?
+What have we done to explain to the workforce how executive pay arrangements align with wider company pay policy?
+How do the company’s pay policies address pay gaps and pay ratios between the different quartiles of the workforce?
+What interaction have we had with the nomination committee regarding the structure of the workforce and the company’s plans for reducing its gender pay gap?
+Additional organisational committees
+Role of risk committees
+135
+Companies outside the financial services sector (where certain requirements apply) may find it helpful to establish a separate risk committee to assist with risk identification and management. This should be a board decision, taking into account the particular circumstances of the company. Below are some factors that boards may consider.
+136
+It is important to ensure there are no gaps between the functioning of both committees. The board should agree on the remit of the committee, including roles, responsibilities, and authorities. This ought to be tailored to the circumstances of the company.
+137
+Precise detail on the running of this committee should be clarified in the committee terms of reference. Where a company has an additional listing, it may need to amend its terms of reference in light of additional requirements in the relevant country.
+138
+It is likely that the work of the committee is closely linked with that of the audit committee. The chair of the two committees shall agree on which documents (including committee minutes) shall be received by both committees and how the risk committee could best contribute to the audit committee’s planning.
+139
+In some cases, this committee may be accompanied with an additional remit, for example, the committee may be called the risk and technology committee. Where this is the case, the overall responsibilities of this committee should be carefully identified.
+140
+Training and development needs may be considered to help members understand the committees’ objectives, business needs, priorities and risk profile. For new directors, especially those within a new industry/sector, the committee chair is expected to ensure such members are provided with the appropriate training programme suited to the profile of the organisation
+141
+The committee may wish to provide advice to other committees, for example, making clawback recommendations to the remuneration committee and/or providing advice to the remuneration committee on any risk weightings included in the incentive structure for executive remuneration.
+Questions for risk committees
+Does our committee have an appropriate structure in place to support and ensure effective risk management?
+Is the accountability for risk reflected in executive and key management performance reviews?
+Do our directors have the right level of expertise to oversee risks to the organisation?
+Do our existing controls and processes adequately mitigate identified risks?
+Role of sustainability committees
+142
+Company boards are becoming increasingly focused on oversight of this area and the related risks, opportunities, strategies, performance and disclosures. As a result, they may find it helpful to form a sustainability committee to oversee these issues.
+143
+Sustainability committees may consider having responsibility for developing, reviewing and/or monitoring sustainability reporting, including but not limited to environmental, social and governance disclosures, targets, key performance indicators and future plans.
+144
+Such a committee could include people with suitable knowledge, awareness, and literacy in issues related to the remit of the committee. Where there is a lack of experience or skills, training could be provided as needed. Companies may also invite external independent experts to attend their meetings, although boards should not be entirely reliant on outside expertise.
+145
+For clarity, the committee may wish to define what environmental, social and governance areas of responsibility may fall under this committee in the terms of reference.
+146
+This committee should, where appropriate review or make recommendations to the remuneration committee in relation to metrics for sustainability components for the short and long term-based incentives.
+147
+Where the company has identified a non-executive director responsible for the workforce, the committee could consider including them to be part of this committee’s membership. Further details on how best to engage with the workforce can be found under
+relations with workforce
+.
+148
+The committee can review the necessity for internal or external assurance of sustainability matters and, may wish to appoint external third parties to carry out assurance of the effectiveness of policies, processes and reporting on sustainability and environmental social and governance matters, either on its own behalf or in support of the audit committee.
+149
+There is no one-size-fits-all strategy to these types of committees, and organisations will take different approaches given the increasing developments in this area. Companies ought to have clear lines of responsibility for each committee. For instance, the audit committee may be responsible for the verification of data related to sustainability, or the remuneration committee may be tasked with including environmental or social-related measures in the executive directors' short and long-term incentives.
+Questions for sustainability committees
+Does our committee have a dedicated process for examining sustainability issues?
+Is the organisation’s executive remuneration aligned with the company’s sustainability objectives?
+Are we providing robust and reliable sustainability information within your external reports?
+Has the committee considered what type of assurance would improve insight into your organisation’s sustainability practices?
+150
+The Chartered Governance Institute has published some model
+terms of reference for board committees
+. Those seeking deeper insight into boardroom dynamics may find
+The Board Behavioural Dynamics
+handbook especially useful, including the nomination committee checklist on page 45.
+Section 3 - Composition, Succession and Evaluation
+In this section:
+Composition
+Succession planning
+Length of service of the chair and non-executive directors
+Board performance reviews
+Outcomes of Board Performance Reviews
+External Board Performance Reviews
+Print this section
+Composition
+151
+Directors are more likely to make good decisions and maximise the opportunities for the company’s success if the right skillsets and a breadth of perspectives are present in the boardroom. Non-executive directors possess a range of critical skills of value to the board and relevant to the challenges and opportunities facing the company. Diversity in the boardroom has a positive effect on the quality of decision-making by reducing the risk of group think. With input from shareholders, boards need to decide which aspects of diversity are important in the context of the business and its needs.
+152
+Developing a diverse executive pipeline increases diversity at senior levels of the company. Greater transparency about the make-up of the workforce also supports this. Independent frameworks have been introduced that recommend targets relating to gender and ethnicity (for example FTSE Women Leaders and The Parker Review), however, other aspects of diversity are equally important. Companies may decide to follow specific programmes related to other forms of diversity and provide an update of their progress in their annual report.
+153
+Companies and their boards should encourage equality, diversity and inclusion across their organisations. Policies to support this are part of a wider programme to develop diverse and inclusive leadership aligned to company strategy.
+154
+Examples of how companies can continually support diversity and inclusion may include but are not limited to:
+Regularly assessing the skills and attributes needed for the organisation and reviewing the quality of candidates.
+Choosing executive search firms that are known for drawing up diverse longlists and seeking talent from diverse backgrounds, and
+The chair and board members receiving appropriate training to promote open discussion and embrace differences of opinion.
+155
+Nomination committees may report on the progress of their initiatives and chosen targets. Examples of the type of actions for consideration may include:
+Making a commitment to increase the diversity of the board by setting their own targets.
+Dedicated initiatives with clear objectives and targets, for example in areas of the business that lack diversity.
+Placing a focus on middle management.
+Introducing mentoring and sponsorship schemes.
+Introducing a commitment to more diverse shortlists and interview panels, and
+Creating procedures or policies to assist board members (and other employees) by providing, for example, better accessible functions, services or assistance for individuals when requested.
+156
+There are many external initiatives that support diversity and inclusion across companies. Not all set targets; some offer guidance and suggestions for improving diversity and inclusion. Offering transparency where these initiatives have been used demonstrates commitment in this area. Companies are encouraged to reference their relationship with independent initiatives / accreditations / charter schemes.
+157
+Examples of diversity initiatives may include:
+30% Club
+Business Disability Forum
+Disability Confident
+FTSE Women Leaders Review
+LGBT Great
+Progress Together
+Race at work Charter
+The Parker Review
+Valuable500
+Women in Finance Charter
+158
+Diversity of personal attributes is equally important. The nomination committee will want to ensure the board is comprised of individuals who display a range of softer skills, such as those in Figure 6.
+Figure 6 – Some important personal attributes
+Sources of intellect, critical assessment and judgement
+Courage
+Openness
+Honesty
+Tact
+Ability to listen
+Ability to forge relationships
+Ability to develop trust
+Strength of character
+159
+The creation of a board skills matrix is one tool that is useful to examine the current skills, knowledge, experience and capabilities of the board, and any gaps in skills or competencies that can be addressed in future director appointments.
+160
+Publicly advertising board appointments and working with recruitment consultants who have made a commitment to promote diversity can provide a more diverse pool of candidates from which to appoint. Attention also needs to be paid to how the interview process is conducted so that candidates with diverse backgrounds are not disadvantaged, and that appointees have the time available to carry out their role. The role of chair, in particular, is demanding and time-consuming; multiple roles are therefore not advisable.
+Succession planning
+161
+The chair’s vision for achieving the optimal board composition will help the nomination committee review the skills required, identify the gaps, develop transparent appointment criteria and inform succession planning. The nomination committee assesses periodically whether the desired outcome has been achieved.
+162
+There are risks of becoming too reliant on the skills of one individual. Discussions on tenure at the time of appointment will help to inform and manage the long-term succession strategy. The needs of the company and the board will change over time, so it is wise to manage expectations and encourage non-executive directors to be flexible about term lengths and extensions. It is also a good idea to discuss board succession plans with shareholders.
+163
+Executive directors may be recruited externally, but companies can also develop internal talent and capability. Initiatives to encourage this could include middle management development programmes, facilitating engagement between middle management and non-executive directors, as well as partnering and mentoring schemes.
+164
+Talent management can be a strong motivational force for those who wish to develop their career within the company and achieve senior positions. It can provide the nomination committee with a variety of strong candidates. The nomination committee may find it worthwhile to take a more active interest in the progress of middle management programmes, partnering and mentoring schemes, and how talent is managed throughout the organisation – the pipeline.
+165
+Succession plans can consider the following different time horizons:
+Contingency planning
+–
+for sudden and unforeseen departures.
+Medium-term planning – the orderly replacement of current board members and senior executives (e.g. retirement), and
+Long-term planning – the relationship between the delivery of the company strategy and objectives to the skills needed on the board now and in the future.
+166
+Putting the succession plan in writing can help ensure it is followed through. Succession plans can also help to increase diversity in the boardroom and build diversity in the executive pipeline.
+Length of service of the chair and non-executive directors
+167
+It is recommended that the board take into account the circumstances set out in the Provision 10 when considering which non-executive directors are independent. Non-executive directors can provide the board with sufficient information to allow the board to evaluate their independence and can notify the board of any change in circumstances that may affect this. The chair is not subject to the Code’s independence test other than on appointment.
+168
+Independent non-executive directors provide challenge within the board and use their skills, experience and knowledge to drive productive discussions. Independence can be considered throughout their tenure to ensure they continue to demonstrate that they are holding management to account. The comply or explain nature of the Code allows companies to explain in those situations where an independent non-executive remains on the board beyond nine years.
+169
+The chair holds a unique position; they need to exercise objective judgement throughout their service and gain a detailed understanding of the business by forming effective relationships with the chief executive and other executive directors. The chair is subject to similar length of service considerations as non-executive directors and should not stay in post longer than nine years. For the chair the nine-year period is calculated from when they were first appointed to the board, years spent on the board prior to becoming chair would be included when considering their total length of service.
+Questions for consideration when extending the length of service
+Does the chair continue to demonstrate objective judgement and promote constructive challenge amongst other board members?
+How long will the length of service be extended and how does this fit with wider succession planning and company objectives?
+Does extending the length of service complement diversity planning?
+Has there been engagement with major shareholders and what impact has the feedback had on decision making?
+Board performance reviews
+170
+Boards continually monitor and improve their performance. This can be achieved through performance reviews, which provide a powerful and valuable feedback mechanism for improving effectiveness, maximising strengths and highlighting areas for further development. The evaluation process should be objective and rigorous.
+171
+Like induction and board development, performance reviews ought to be bespoke in their formulation and delivery. The chair has overall responsibility for the process, involving the senior independent director as appropriate. The senior independent director may lead the process that reviews the performance of the chair and, in certain circumstances, may lead the entire evaluation process.
+172
+Chairs are encouraged to consider ways in which to obtain feedback from the workforce and other stakeholders – for example, the auditors – on the performance of the board and individual directors. Chairs of board committees should be responsible for the review of their committees.
+173
+Board performance reviews can inform and influence succession planning. They are an opportunity for boards to review skills, assess their composition and agree plans for filling skills gaps, and increasing diversity. They can help companies identify when new board appointments may be needed and the types of skills that are required to maximise board effectiveness.
+174
+Provision 21 of the Code recommends that FTSE 350 companies have externally facilitated board performance reviews at least every three years. Chairs of smaller companies are also encouraged to adopt this approach. External facilitation can add value by introducing a fresh perspective and a critical eye to board composition, dynamics and effectiveness. It may also be useful in certain circumstances, such as when there is a new chair, if there is a known problem requiring tactful handling, or there is an external perception that the board is, or has been, ineffective.
+175
+The nature and extent of an external reviewers contact with the board and individual directors are defining factors in quality. Questionnaire-based external performance reviews are unlikely to get underneath the dynamics in the boardroom. It is beneficial for the external reviewer to also meet with the executive team to gain their views of the board.
+176
+Whether facilitated externally or internally, performance reviews need to be rigorous. They should explore how effective the board is as a unit, as well as the quality of the contributions made by individual directors. Some areas which may be considered, although they are neither prescriptive nor exhaustive, include:
+the mix of skills, experience, and knowledge on the board, in the context of developing and delivering the strategy, the challenges and opportunities, and the principal risks facing the company.
+clarity of, and leadership given to, the purpose, direction and values of the company;
+succession and development plans.
+how the board works together as a unit, and the tone set by the chair and the chief executive.
+key board relationships, particularly chair/chief executive, chair/senior independent director, chair/company secretary and executive/non-executive directors.
+effectiveness of individual directors.
+clarity of the senior independent director’s role.
+effectiveness of board committees, and how they are connected with the main board.
+quality of the general information provided on the company and its performance.
+quality and timing of papers and presentations to the board.
+quality of discussions around individual proposals and time allowed.
+process the chair uses to ensure sufficient debate for major decisions or contentious issues.
+effectiveness of the company secretary/secretariat.
+clarity of the decision-making processes and authorities, possibly drawing on key decisions made over the year.
+processes for identifying and reviewing risks, and
+how the board communicates with, and listens and responds to, shareholders and other key stakeholders.
+Companies are encouraged to consider
+the Chartered Governance Institutes Guidance note on Reporting on Board Performance Reviews.
+Outcomes of Board Performance Reviews
+177
+The outcomes from the board performance review can be shared with and discussed by the board. They may be fed back into the board’s work on composition, the design of induction and development programmes, and other relevant areas. It may be useful for a company to review how effective the evaluation process has been and how well the outcomes have been acted upon. The chair is encouraged to give a summary of the outcomes and actions of the evaluation process in their statement in the annual report.
+External Board Performance Reviews
+178
+When selecting a board reviewer, the chair needs to:
+be clear what the board performance review will offer – each provider will have a different method and experience with cost and approaches varying greatly across providers.
+be mindful of existing commercial relationships and other conflicts of interests, and select a reviewer who is able to exercise independent judgement, and
+agree with the reviewer the objectives and scope of the review, expected quality, value and longevity of service, and communicate this to the board
+179
+To ensure a more valuable review, the chair ensures full cooperation between the company and the reviewer, including full access to board and committee papers and information, to observe meetings, and meet with directors individually.
+180
+The chair is responsible for making sure the board maximises the value of an externally-facilitated board performance review. The chair is likely to find the board evaluation process more valuable if:
+its recommendations are constructive, meaningful and forward-looking.
+it includes views from beyond the boardroom, e.g. shareholders, senior executives who regularly interact with the board, auditors and other advisors, and the workforce.
+it includes peer reviews of directors and the chair plus feedback on each director.
+good practice observed in other companies is shared.
+the reviewer observes the interaction between directors and between the chief executive and chair.
+there is a robust analysis of the quality of information provided to the board.
+feedback is provided to each individual board member, and
+the board is challenged on composition, diversity, skills gaps, refreshment and succession.
+When appointing an external board reviewer, companies could consider registers of accredited board reviewers such as
+The Chartered Governance Institutes Directory of Accredited Board Performance Reviewers
+and
+The International Register of Board Reviewers
+.
+Section 4 - Audit, Risk and Internal Control
+In this section:
+Audit overview
+Roles and responsibilities
+Communication with shareholders
+Risk and internal controls overview
+Establishing the risk management and internal control framework
+Management or mitigation
+Maintaining the Effectiveness of the Risk Management and Internal Control Framework
+Reporting in the Annual Report
+Viability statements
+Cyber Security
+Print this section
+Audit overview
+181
+This guidance is to be read alongside the '
+UK Corporate Governance Code
+' and '
+Good Practice Guidance for the successful management of Board Committees
+'. The '
+Audit Committees and the External Audit: Minimum Standard
+' (the Minimum Standard), which is referenced in Provisions 25 and 26 of the Code, should also be read. All directors have a duty to act in the interests of the company. The audit committee has a particular role, acting independently from the executive, to ensure that the interests of shareholders are properly protected in relation to financial reporting and internal control. The board has overall responsibility for an organisation’s approach to risk management and internal control. Any disagreement within the board, including disagreement between the audit committee’s members and the rest of the board, will be resolved at board level.
+182
+The guidance contains recommendations about the conduct of the audit committee’s relationship with the board, with the executive management and with internal and external auditors. The essential features of these interactions are a frank, open working relationship and a high level of mutual respect. The audit committee should be prepared to take a robust stand, and all parties should be prepared to make information freely available to the committee, to listen to their views and to talk through the issues openly.
+183
+Management must ensure the audit committee is kept properly informed and supply information rather than wait to be asked. The board will make it clear to all directors and staff that they must cooperate with the audit committee and provide any information it requires. In addition, executive board members will have regard to their duty to provide all directors, including those on the audit committee, with all the information they need to discharge their responsibilities as directors of the company.
+184
+It is not the duty of audit committees to carry out functions that properly belong to others, such as the company’s management in the preparation of the financial statements or the auditors in the planning or conducting of audits. To do so could undermine the responsibility of management and auditors. The audit committee must intervene if there are signs that something may be seriously amiss with matters that fall within its remit. Other board committees may have responsibilities in some of the areas that are also relevant to the audit committee. Where this is the case, it is recommended that board committee chairs work together effectively.
+185
+For groups, it will usually be necessary for the audit committee of the parent company to review issues that relate to subsidiaries or business activities carried on by the group. Consequently, the board should ensure that there is adequate cooperation within the group (and with internal and external auditors of individual companies within the group) to enable the parent company audit committee to discharge its responsibilities effectively.
+Roles and responsibilities
+Relationship with the board
+186
+The audit committee will report to the board on how it has discharged its responsibilities, including:
+the significant issues that it considered in relation to the financial statements and how these issues were addressed.
+its assessment of the effectiveness of the external audit process and its recommendation on the appointment or reappointment of the external auditor, and
+any other issues on which the board has requested the committee’s opinion. In doing so it should identify any matters in respect of which it considers that action or improvement is needed, whether the subject of a specific request by the board or not, and make recommendations as to the steps to be taken.
+187
+Where there is disagreement between the audit committee and the board, adequate time should be made available for discussion of the issue with a view to resolving the disagreement. Where any such disagreement cannot be resolved, the audit committee has the right to report the issue to the shareholders as part of the report on its activities in the annual report.
+188
+The audit committee will consider key matters of their own initiative rather than relying solely on the work of the external or, where applicable, internal auditor. It should discuss what information and assurance it requires in order to properly carry out its roles to review, monitor and provide assurance or recommendations to the board and, where there are gaps, how these should be addressed. The audit committee should satisfy itself that these sources of assurance and information are sufficient and objective.
+Annual reports and other periodic reports
+189
+The audit committee will review, and report to the board on, significant financial reporting issues and judgements made in connection with the preparation of the company’s financial statements (having regard to matters communicated to it by the auditor)
+[1]
+, interim reports, preliminary announcements and related formal statements.
+190
+It is the responsibility of management, not the audit committee, to prepare complete and accurate financial statements and disclosures in accordance with accounting standards and other regulations. The management is expected to inform the audit committee of the methods used to account for significant or unusual transactions where the accounting treatment is open to different approaches. The audit committee will consider significant accounting policies and any changes to them.
+191
+Taking into account the external auditor’s view on the financial statements, the audit committee will consider whether the company has adopted appropriate accounting policies and, where necessary, made appropriate estimates and judgements. The audit committee should be a source of independent challenge of management in this regard. The audit committee will review the clarity and completeness of disclosures in the financial statements and consider whether the disclosures made are set properly in context.
+192
+Where, following its review, the audit committee is not satisfied with any aspect of the proposed financial reporting by the company, it shall report its views to the board.
+193
+The audit committee shall review related information presented in the annual report including the strategic report, and corporate governance statements relating to the audit and to risk management.
+194
+Where requested by the board, the audit committee will review the content of the annual report and advise the board on whether, taken as a whole, it is fair, balanced and understandable to inform the board’s statement on these matters required under the UK Corporate Governance Code.
+[2]
+195
+Where board approval is required for other statements containing financial information (for example significant financial returns to regulators and release of price sensitive information), whenever practicable the audit committee should review such statements first (without being inconsistent with any requirement for prompt reporting under the
+Listing Rules
+or
+Disclosure Guidance and Transparency Rules
+). Key requirements for disclosure of price sensitive information are set out in the
+Market Abuse Regulation
+.
+The internal audit process
+196
+The need for an internal audit function will vary depending on company specific factors. Senior management and the board may desire objective assurance and advice on risk and internal control. An adequately resourced internal audit function (or its equivalent where, for example, a third party is contracted to perform some or all of the work concerned) may provide such assurance. Given their size and complexity, FTSE 350 companies should consider having an internal audit function.
+197
+Where a company does not have an internal audit function, it is recommended that the audit committee regularly review the need for establishing such a function. When undertaking its assessment, the audit committee could consider whether there are any trends or current factors relevant to the company’s activities, markets or other aspects of its external environment that have increased, or are expected to increase, the risks faced by the company. Such an increase in risk may also arise from internal factors such as organisational restructuring or from changes in reporting processes or underlying information systems. Other matters to be taken into account may include adverse trends evident from the monitoring of internal control systems, or an increased incidence of unexpected occurrences.
+198
+Where there is an internal audit function, the audit committee will review and approve its role and mandate; approve the annual internal audit plan; and monitor and review the effectiveness of its work. The audit committee will review and annually approve the internal audit charter to ensure that it is appropriate to the current needs of the organisation.
+199
+It is important that the audit committee ensures:
+that the internal audit plan is aligned to the key risks of the business. The audit committee is expected to pay particular attention to the areas in which work of the risk, compliance, finance, internal audit and external audit functions may be aligned or overlapping. It is also expected to oversee these relationships to ensure they are coordinated and operating effectively to avoid duplication.
+that there is open communication between the different functions and that the internal audit function evaluates the effectiveness of the risk, compliance and finance functions as part of its internal audit plan, and
+that the function has unrestricted scope, the necessary resources and access to information to enable it to fulfil its mandate and is equipped to perform in accordance with appropriate professional standards for internal auditors.
+[3]
+200
+The audit committee should approve the appointment of the head of internal audit. Internal audit will have access to the audit committee and board chair where necessary, and the audit committee is tasked with ensuring internal audit has a reporting line which enables it to be independent of the executive and can exercise independent judgement. Often, the head of internal audit has a primary reporting line to the chair of the audit committee and a secondary or administrative reporting line to the chief executive officer.
+201
+In undertaking a review of effectiveness of the internal audit function the audit committee should confirm that it is satisfied that the quality, experience and expertise of the function is appropriate for the business. The audit committee should also consider the actions management has taken to implement the recommendations of the function and whether these properly support the effective working of the internal audit function.
+202
+In its annual assessment of the effectiveness and independence of the internal audit function the audit committee will:
+meet with the head of internal audit without the presence of management to discuss the effectiveness of the function.
+review and assess the annual internal audit work plan.
+receive a report on the results of the internal auditors’ work, and
+monitor and assess the role and effectiveness of the internal audit function in the overall context of the company’s risk management system.
+203
+The
+Chartered Institute of Internal Auditors’ Internal Audit Code of Practice
+recommends that the audit committee should ensure that an independent third party assessment of the internal audit function's effectiveness (also known as an external quality assessment) is carried out at least once every five years.
+204
+The external auditor should not undertake any aspects of the internal audit function.
+[4]
+The external audit process
+205
+The audit committee is the body responsible for overseeing the company’s relations with the external auditor.
+206
+The role and the responsibilities of the audit committee in relation to external audit are set out in the
+Audit Committees and the External Audit: Minimum Standard
+(the Minimum Standard). Audit committees of Public Interest Entities are reminded of their legal responsibility for pre-approving any non-audit services provided by the external auditor and for not allowing non-audit services other than those permitted in the
+Ethical Standard
+.
+Questions for the Audit Committee to consider:
+What are the sources of the assurance we receive, and can these be considered objective?
+Do we have access to the information and any resources required to challenge management effectively and in an independent way?
+Where applicable, is the internal audit plan aligned appropriately to the risks of the business?
+Have we satisfied ourselves that the external auditor is independent, including in the context of provision of non-audit services?
+Is management responsive to the recommendations from external audit, and are action points addressed in a timely manner?
+Communication with shareholders
+207
+The audit committee has a role in ensuring that shareholder interests are properly protected in relation to financial reporting and internal control. The committee should consider the clarity of its reporting and be prepared to meet investors
+208
+The annual report should include a separate section describing the work of the audit committee in discharging its responsibilities, signed by the chair.
+209
+The audit committee section will include the following matters:
+a summary of the role and work of the audit committee.
+how the audit committee composition requirements have been addressed, and the names and qualifications of all members of the audit committee during the period, if not provided elsewhere.
+the number of audit committee meetings.
+how the audit committee’s performance evaluation has been conducted.
+an explanation of how the committee has followed the
+Minimum Standard
+.
+an explanation of how the committee has assessed the effectiveness of internal audit and satisfied itself that the quality, experience and expertise of the function is appropriate for the business, and
+the significant issues that the committee considered, including:
+­the nature and extent of interaction (if any) with the FRC’s Corporate Reporting Review team, and
+­where a regulatory inspection of the quality of the company’s audit has taken place, information about the findings of that review, together with any remedial action the auditor is taking in the light of these findings.
+Requirements of the Minimum Standard previously covered in the UK Corporate Governance Code
+The annual report should describe the work of the audit committee, including:
+the significant issues that the audit committee considered relating to the financial statements, and how these issues were addressed.
+an explanation of how it has assessed the independence and effectiveness of the external audit process and the approach taken to the appointment or reappointment of the external auditor, information on the length of tenure of the current audit firm, when a tender was last conducted and advance notice of any retendering plans.
+in the case of a board not accepting the audit committee’s recommendation on the external auditor appointment, reappointment or removal, a statement from the audit committee explaining its recommendation and the reasons why the board has taken a different position. (This should also be supplied in any papers recommending appointment or reappointment.)
+an explanation of how auditor independence and objectivity are safeguarded, if the external auditor provides non-audit services.
+210
+The chair of the audit committee is expected to be present at the AGM to answer questions on the separate section of the annual report describing the audit committee’s activities and matters within the scope of the audit committee’s responsibilities.
+Questions for the audit committee to consider:
+To what extent has the audit committee been able to follow the relevant aspects of the Minimum Standard in relation to external audit, and has a high-quality explanation been provided for any departures from the Code?
+Have any questions from shareholders been addressed in a satisfactory manner?
+Risk and internal controls overview
+211
+This guidance aims to bring together elements of good practice for risk management and to prompt boards to consider how to discharge their responsibilities. It reflects sound business practice, where risk management and internal control are embedded in the business process, and by which a company pursues its objectives; and highlights related reporting responsibilities.
+212
+Effective development and delivery of a company’s strategic objectives, its ability to seize new opportunities and to ensure its longer-term survival, depend on identifying, understanding and responding to the risks it faces.
+213
+Economic and geopolitical developments and some high-profile failures of risk management in recent years have reminded boards of the need to ensure that the company’s approach to risk has been properly considered in setting the company’s strategy. Effective management of risk supports a company’s success in achieving its objectives.
+214
+Good stewardship by the board should not inhibit sensible risk-taking in pursuit of growth. However, the assessment of risks as part of the normal business planning process will support better decision making, ensure that the board and management respond promptly to risks when they arise, and ensure that shareholders and other stakeholders are well informed about the principal risks and prospects of the company
+[5]
+.
+215
+The board has ultimate responsibility for an organisation’s overall approach to risk management and internal control, including:
+establishing and maintaining an effective risk management and internal control framework.
+determining the nature and extent of the principal risks and those risks which the organisation is willing to take in achieving its strategic objectives (determining its ‘risk appetite’).
+agreeing how the principal risks should be managed or mitigated to reduce the likelihood of their incidence or their impact.
+monitoring and reviewing the risk management and internal control frameworks, and the management’s process for this, and satisfying itself that they are functioning effectively, and that corrective action is being taken where necessary.
+ensuring effective external communication on risk management and internal control.
+216
+This guidance does not set out in detail the procedures or framework by which a company designs, implements and operates its risk management and internal control framework. Attempting to define a single approach to achieving good practice would be counterproductive if it led boards to underestimate the crucial importance of high-quality risk management of the culture and behaviour they promote.
+217
+The board could use a recognised framework or standard as part of its process for designing and maintaining the effectiveness of the risk management and internal control framework (e.g. COSO, ISO, COBIT, etc.). Such framework or standard should be relevant for those areas which it relates to (e.g. financial reporting, technology, etc.) when reporting against the Principles and Provisions of the Code.
+Establishing the risk management and internal control framework
+218
+The risk management and internal control framework encompasses the policies, culture, organisation, behaviours, processes, systems and other aspects of a company that, taken together:
+support the company in achieving its strategic objectives.
+facilitate its effective and efficient operation by enabling it to assess current and emerging risks, and to safeguard its assets from inappropriate use or loss and fraud.
+help ensure the quality of internal and external reporting including maintenance of appropriate records and processes that generate a flow of timely, relevant and reliable information from within and outside the organisation, and
+help ensure compliance with applicable laws and regulations, and with internal policies with respect to the conduct of business.
+219
+The risk management and internal control framework should:
+be tailored to the company.
+be considered as part of the company’s purpose, strategy, business model and governance.
+be embedded in the operations of the company and form part of its culture.
+be capable of responding quickly to evolving risks to the business, whether they arise from factors within the company or from changes in the business environment.
+be changed and adapted in line with changes to the company’s objectives and other internal and external factors.
+not be seen as a periodic compliance exercise, but instead as an integral part of the company’s day-to-day business and governance processes.
+include procedures for reporting immediately to appropriate levels of management any significant concerns that are identified, together with details of appropriate action being undertaken.
+220
+An effective framework cannot eliminate the possibility of poor judgement in decision-making; human error; control processes being deliberately circumvented by employees and others; management overriding controls; and the occurrence of unforeseeable circumstances. The role of the framework is to manage risk appropriately rather than eliminate it.
+Risk governance
+Delegation, responsibility and accountability
+221
+The board should determine to what extent it wishes to delegate some activity to, or obtain advice from, committees or management, and the appropriate division of responsibilities and accountabilities. For further guidance on board committees, delegations and division of responsibilities, please see the
+Good Practice Guidance For The Successful Management of Board Committees
+.
+222
+The board retains ultimate responsibility for the risk management and internal control framework (even when some aspects of the role have been assigned to one or more committee) and should reach its own conclusions regarding the recommendations it receives. This includes forming its own view of the effectiveness of this framework.
+223
+When delegating a responsibility to another committee (e.g. audit, risk, sustainability etc.), this should be clearly written in the committee’s terms of reference, communicated to relevant parties and reviewed to ensure that committee has the necessary resource and expertise to deal with that responsibility.
+224
+If risk management and internal control responsibilities are delegated to different committees, the board may wish to consider the impact of splitting those responsibilities.
+225
+The audit committee should review the company’s internal financial controls, that is, the systems established to identify, assess, manage and monitor financial risks, as part of its expected roles and responsibilities in the Code.
+226
+It is the role of management to implement and take day-to-day responsibility for board policies on risk management and internal control. In fulfilling its responsibilities, management may identify and evaluate the risks faced by the company for consideration by the board, as well as design, operate and monitor a suitable risk management and internal control framework, which implements the policies adopted by the board.
+227
+Management, with board oversight, can establish appropriate structures and reporting lines and clearly define roles, responsibilities and authorities. The roles and responsibilities of all key functions and individuals in respect of risk and internal control should be made explicit.
+228
+There should be independent and objective oversight over the design and operation of the framework. The board can support management with constructive challenge, strategic guidance and specialist advice, and hold it to account. It needs to satisfy itself that management is providing the board with timely information so that it can discharge its own responsibilities.
+Questions to consider:
+Are authority, responsibility and accountability defined clearly within the organisation? So that the appropriate people make appropriate decisions and actions? How does the board determine if this is clear, appropriate and effective?
+Are these areas defined separately for risk management?
+What are the responsibilities of the board and senior management for crisis management? How effectively have the company’s crisis management planning and systems been tested?
+Skills, knowledge and experience
+229
+The board should consider whether it, and any committee or management group to which it delegates activities, has the necessary skills, knowledge, experience, authority and support to enable it to assess the risks the company faces and exercise its responsibilities effectively.
+230
+All employees have responsibility for risk management and internal control as part of their accountability for achieving objectives. They, collectively, should have the necessary knowledge, skills, information and authority to establish, operate and monitor the risk management and internal control framework.
+231
+The board may wish to review that the key individuals and risk owners have the appropriate and relevant level of skills, knowledge and understanding of the company’s business, industry, and markets in which it operates, as well as the risks it faces, to discharge effectively their individual responsibilities for risk management and internal control.
+Questions to consider:
+Do people in the company (and its providers of outsourced services) have the knowledge, skills and tools to support the achievement of the company's objectives and to manage effectively risks to their achievement?
+How has the board assessed whether employees have the knowledge, skills and tools to manage risks effectively?
+Board discussions
+232
+The board should ensure that there is adequate discussion at the board about risk management and internal control. The board should agree the frequency and scope of its discussions on strategy, business model and risk; how its assessment of risk is integrated with other matters considered by the board; and how to assess the impact on the company’s risk profile of decisions on changes in strategy, major new projects and other significant commitments. The board needs to ensure that it engages in informed debate and constructive challenge and keeps under review the effectiveness of its decision-making processes.
+Risk culture
+233
+The board should lead by example and demonstrate a commitment to integrity and the company’s values. Its responsibility for the organisation’s culture is essential to the way in which risk is considered and addressed within the organisation and with external stakeholders. The company’s culture affects the way the company identifies, assesses and manages risk. Risk culture promotes risk awareness and encourages open communication and challenge about risk-taking across the organisation.
+234
+An appropriate culture and reward system will have been embedded throughout the organisation. The board should agree on the culture it wishes to embed in the company and monitor whether this has been achieved. As with all aspects of good governance, the effectiveness of risk management and the internal control framework ultimately depends on the individuals responsible for operating the framework that is put in place.
+235
+It is not sufficient for the board to simply set the desired values, it also needs to ensure they are communicated by management, incentivise the desired behaviours and sanction inappropriate behaviour, and assess whether the desired values and behaviours are embedded at all levels. This can include consideration of whether the company’s leadership style and management structures, human resource or people policies and reward systems support or undermine the risk management and internal control framework.
+236
+Training and communication assist in embedding the desired culture and behaviours in the company. To build a company culture that recognises and deals with risk, it is important that the risk management and internal control systems consider how the expectations of the board are to be communicated to staff, and what training may be required.
+Questions to consider:
+Does senior management demonstrate, through its actions and policies, the necessary commitment to competence, integrity and fostering a climate of trust within the company?
+Do the company's culture, code of conduct, human resource or people policies, and performance reward systems support the business objectives and risk management and internal control system?
+How has the board considered whether senior management promotes and communicates the desired culture and demonstrates the necessary commitment to risk management and internal control?
+Does the company communicate what is expected of the workforce what is expected of them in relation to its risk landscape, for example, business continuity, financial and narrative reporting and compliance with applicable laws and regulation and internal policies.
+Risk assessment
+237
+The board should ensure that a sound framework is in place to identify the risks facing the company and to consider their likelihood and impact if they were to materialise.
+238
+Every company faces a variety of internal and external risks. Risk assessment involves the identification, evaluation and monitoring of relevant risks to the achievement of the company’s objectives. The process to assess current and emerging risks, determine the principal risks and consider their implications for the company should be appropriate to the complexity, size and circumstances of the company, and is a matter for the judgement of the board, with the support of management. Circumstances may vary over time with changes in the business model, performance, strategy, operational processes and the stage of development the company has reached in its own business cycles, as well as with changes in the external environment.
+Risk appetite
+239
+Procedures and processes should be in place to determine the amount of risk that a company is willing to accept in pursuit of its strategic objectives (risk appetite). The risk appetite is set in parallel with the company’s strategy and objectives, informed by the company’s individual risk profile and in line with its risk tolerance.
+240
+The board, supported by its committees and based on the recommendations from the management, should approve the company’s risk appetite and determine whether this fits within the company’s tolerance for risk.
+241
+The board should ensure that the risk appetite is:
+appropriately defined and articulated
+aligned with strategy and embedded at various levels of decision-making.
+regularly reviewed and evaluated, and
+communicated at the appropriate levels throughout the company in a timely manner, including any changes to it.
+242
+The board is responsible for determining the nature and extent of the principal risks the company is willing to take in order to achieve its long-term strategic objectives. The board should ensure that it has received adequate information from the management to be able to discharge this responsibility.
+Principal risks
+243
+When determining the principal risks, the board should focus on those risks that, given the company’s current position, could result in events or circumstances that might threaten the company’s business model, future performance, solvency or liquidity and reputation, irrespective of how they are classified or from where they arise. In deciding which risks are principal risks, companies should consider the potential impact and probability of the related events or circumstances, and the timescale over which they may occur. The number of principal risks should generally be relatively small. While risk registers may contain a comprehensive list of risks that may affect the company, the annual report should provide an overview of those risks which the board considers as the most important to the company.
+Emerging risks
+244
+Emerging risks include risks whose impact and probability are difficult to assess and quantify at present, but which could affect the company in the future.
+245
+Emerging risks constantly change, can materialise quickly, and can significantly affect the company and its operations. Procedures must be in place for continuous monitoring of these risks to allow the company to adapt or develop appropriate actions.
+Risk monitoring
+246
+A company’s objectives, its internal organisation and the environment in which it operates are continually evolving and, as a result, the risks it faces are continually changing. An effective risk management and internal control framework therefore depends on a thorough and regular evaluation of the nature and extent of the risks to which the company is exposed.
+247
+Risk assessment is a dynamic and continuous process. The nature of risk, including its impact and likelihood, evolves constantly and sometimes rapidly. Risks should be regularly assessed and evaluated. Risk registers may be a useful tool to record and monitor risks, however, they need to be regularly reviewed and updated to reflect any changes.
+Questions to consider:
+How has the board agreed the company’s risk appetite? With whom has it conferred?
+Is there a clear understanding by management and others within the company of what risks are acceptable to the board?
+How and when does the board consider risk when discussing changes in strategy or approving new transactions, projects, products, remuneration or other significant commitments?
+How does the company assign ownership for monitoring and mitigation of risks?
+How does the board distinguish between risks and unforeseen occurrences, and have these been considered when making risk assessments?
+Management or mitigation
+248
+Effective controls are an important element of the framework of risk management and internal control and can cover many aspects of a business, including strategic, reporting, financial, operational and compliance.
+249
+When considering management or mitigation, it is important to consider the following aspects:
+the nature and extent of the risks, including principal risks, facing or being taken by the company which it regards as desirable or acceptable for the company to bear.
+the likelihood of the risks concerned materialising, and the impact of related risks materialising as a result or at the same time.
+the company’s ability to reduce the likelihood of the risks materialising, and of the impact on the business of risks that do materialise;
+the exposure to risks before and after risks are managed or mitigated, as appropriate.
+the operation of the relevant controls.
+the effectiveness and relative costs and benefits of controls, and
+the impact of the values and culture of the company, and the way that teams and individuals are incentivised, on the effectiveness of the framework.
+250
+The board should establish the extent to which principal risks are to be managed or mitigated, and which controls will be put in place. In doing so, the board should consider the extent of the principal risks the company is willing to take in order to achieve its long-term strategic objectives. Controls implemented should be appropriate to maintain these risks within the defined risk appetite. In agreeing the controls, the board should determine what constitutes a significant control failing.
+251
+The board should satisfy itself that management has implemented the agreed controls for principal risks. While the management of less significant risks could be the responsibility of other units and individuals, the board should receive assurance from management that appropriate responsibilities, authorities and controls have been established to manage or mitigate other current and emerging risks.
+252
+The design and implementation of controls takes account of the inherent limitations of those controls to manage risk. While they can help with reducing the probability and impact of risks, they are not able to provide absolute assurance that risks will not occur.
+253
+Controls are to be regularly reviewed and capable of responding and adapting quickly to changes in the company’s objectives, external environment and evolving risks.
+Questions to consider:
+To what extent does the risk management and internal control framework underpin and relate to the company’s business model.
+To what extent has the company identified risks from joint ventures, third parties and from the way the company’s business is organised? How are these managed?
+How effectively is the company able to withstand risks, and risk combinations, which do materialise? How effective is the board’s approach to risks with ‘low probability’ but a very severe impact if they materialise?
+How has the board agreed the company’s risk appetite? With whom has it conferred?
+Does the board have clear strategies for dealing with the principal risks that have been identified? Is there a policy on how to manage these risks?
+How effectively does the company capture new and emerging risks and opportunities
+How are controls adjusted to reflect new or changing risks? To what extent does the board engage in horizon scanning for emerging risks?
+How and when does the board consider risk when discussing changes in strategy or approving new transactions, projects, products or other significant commitments?
+To what extent has the board considered the cost-benefit aspects of different control options?
+How does the board ensure it understands the company’s exposure to each principal risk before and after the application of mitigations and controls, what those mitigations and controls are, and whether they are operating as expected?
+Information and communication
+254
+The board should agree on and oversee the flow of information to and from the board, along with specifying the nature, source, format and frequency of the information that it requires. It should ensure that the assumptions and models underlying this information are clear so that they can be understood and if necessary challenged.
+255
+Regular reports to the board should provide a balanced assessment of the risks and the effectiveness of the risk management and internal control framework in managing those risks. The board should monitor the quality of the information it receives and ensure that it is of sufficient quality to allow effective decision-making.
+256
+In addition to the reporting from management and board committees, information may be sought, as necessary, on relevant matters from any compliance, risk management, internal audit functions within the company, the external auditor and other relevant internal and external sources of information.
+257
+Appropriate channels should allow the timely flow of information between different reporting lines, units and individuals. Employees should have available means to communicate significant information. Mechanisms for communication with external parties, including outsourced service providers, suppliers, regulators and shareholders should be in place.
+258
+Risks can emerge and crystallise rapidly. Clear procedures should be in place to elevate any significant issues or concerns to higher levels as quickly as possible when required. There should also be agreed triggers for doing so. The more serious matters should be escalated to senior management and the board.
+Questions to consider:
+How does the board satisfy itself that the information it receives is timely, of good quality, reflects an appropriate number of information sources, and is fit for purpose?
+Are information needs and related information systems reassessed as objectives and related risks change, or as reporting deficiencies are identified?
+Are periodic reporting procedures, including half-yearly and annual reporting, effective in communicating a balanced and understandable account of the company's position and prospects?
+Are there clear procedures and triggers in place to elevate risks to the board quickly?
+What are the channels of communication that enable individuals, including third parties, to report concerns, suspected breaches of law or regulations, other improprieties, or challenging perspectives?
+Maintaining the Effectiveness of the Risk Management and Internal Control Framework
+259
+The existence of a risk management and internal control framework does not, on its own, signal the effective management of risk. Effective monitoring and review are essential components of an effective risk management and internal control framework.
+260
+Monitoring and review of risk management and internal controls are intended to allow the board to conclude whether the framework is properly aligned with strategic objectives; and satisfy itself that the framework addresses the company’s risks and is being developed, applied and maintained appropriately. Monitoring and review aims to identify and evaluate areas for improvement in the design, implementation and operation of the framework.
+Monitoring
+Company level
+261
+The company should have systems in place to carry out ongoing monitoring of the design, implementation and operation of the risk management and internal control framework. The company’s objectives, the environment in which it operates and the risks it is exposed to, continuously change. Monitoring should evaluate if the company’s risk management and internal control framework remains adequate and appropriate for the company in line with these changes. An effective framework must be responsive and able to adapt to change.
+262
+Where a significant issue has been identified, this should be reported to the board, even if it has been remediated, including action(s) taken. Companies may also consider whether to increase the frequency of monitoring or whether the controls in place should be altered. Any alterations should take into consideration the effective allocation of resources.
+Board level
+263
+The board cannot rely solely on the embedded monitoring processes within the company to discharge its responsibilities. It should conduct its own monitoring, based on the regular reporting and other communication with management, internal audit, external audit and other appropriate functions and units. This includes oversight of the procedures established at company level for monitoring. The board will exercise its governance responsibilities in relation to monitoring at company level by understanding the risks to organisational objectives, the controls that management has put in place to mitigate those risks, and how management monitors to help ensure that the internal control system continues to operate effectively.
+264
+The board may wish to define how it wishes to operate its monitoring of the framework including specifying the requirements, scope and frequency for reporting from units or individuals within the company, subsidiaries and other relevant parties (e.g. external service providers). It is important that reports to the board provide a balanced assessment of the design, implementation and operation of the framework, the risks and the effectiveness of the risk management and internal control framework in managing those risks. Timely, reliable and relevant information will enable effective monitoring and allow the board to make a balanced assessment.
+265
+Reporting from senior management about the overall design and operation of the risk management framework should be received by the board. Information from specialist functions within the company, for example compliance, finance, tax, cyber, HR, etc. should be made available. If the company has a specialist risk function or a risk committee at management level, the board may consider building direct channels of communication and reporting between this function and the board and/or relevant board committees.
+266
+The board will use its professional judgement and scepticism in considering the reporting received from management in the context of the information and reporting received from other sources.
+267
+Any significant control failings or weaknesses identified may be discussed in the reports, including the impact that they have had, or may have, on the company and the actions being taken to rectify them.
+268
+The board can also review reporting from, or liaise with, directors of subsidiaries on the effectiveness of their policies, procedures and structures at subsidiary level, to manage risk.
+269
+When reviewing reports during the year, the board may consider:
+how effectively the risks have been assessed and the principal risks determined.
+what the principal risks are and how they have been managed or mitigated.
+the effectiveness of the related controls in managing the principal risks, having particular regard to any significant failings or weaknesses in internal control that may have been reported.
+how current and emerging risks are being monitored, updated and considered in decision-making.
+whether necessary actions are being taken promptly to remedy any significant failings or weaknesses, and whether the causes of the deficiency indicate poor decision-taking, a need for more extensive monitoring, or a reassessment of the effectiveness of management's ongoing processes.
+whether frameworks and procedures are in line with current market standards or practices.
+Material controls
+270
+The board should monitor and review the company’s material controls. Material controls will be company-specific and therefore different for every company depending on their features and circumstances, including for example size, business model, strategy, operations, structure and complexity.
+271
+When determining which controls are ‘material’, the board considers how a deficiency in the control could impact the interests of the company, shareholders and other stakeholders.
+272
+While the board decides which controls are material these could include, but are not limited to, controls over:
+risks that could threaten the company’s business model, future performance, solvency or liquidity and reputation (i.e. principal risks).
+external reporting that is price sensitive or that could lead investors to make investment decisions, whether in the company or otherwise.
+[6]
+fraud, including override of controls.
+information and technology risks including cybersecurity, data protection and new technologies
+(e.g. artificial intelligence).
+Internal audit
+273
+The board should consider the level of assurance it is getting on the risk management and internal control framework, and whether this is enough to help the board in satisfying itself that these frameworks are operating effectively. Please see
+internal audit in the Audit Committee Guidance
+for further guidance.
+External service providers
+274
+There is no requirement or expectation in the Code or this guidance that companies obtain external advice or assurance on the effectiveness of the material controls. It may not be necessary for a company to do so, particularly when it has an effective internal audit function that is appropriately resourced to provide assurance over the effectiveness of the framework.
+275
+The board, in conjunction with other committees and management, will decide whether any form of external assurance is necessary. The type of assurance and nature is also a decision for the board, and they may wish to discuss this with their investors.
+276
+During their monitoring activities, both management and the board may wish to review information collected from any external audit that has occurred in the course of ordinary activities.
+Review
+277
+The board should review the effectiveness of the risk management and internal control framework at least annually, however, it may consider more frequent reviews of the whole framework or parts of it depending on the circumstances of the company. The review should identify strengths, gaps, deficiencies and areas for improvement, and be followed up by a plan to take forward any actions.
+278
+There is no single way of carrying out a review. The board may wish to define the processes to be adopted, including drawing on the results of the board’s ongoing process such that it will obtain sound, appropriately documented, evidence to support its reporting in the company’s annual report and accounts. It should ensure that it has considered all material aspects of the framework.
+279
+The review should consider the risk management and internal control framework of the company as a whole, along with an evaluation of the effectiveness of the processes for ongoing monitoring of the framework. A set of criteria may be beneficial when conducting a review. These criteria could examine the effectiveness of the individual controls, the relevance of these controls to the underlying risks and the broader framework itself.
+280
+The role of board committees in the review process is for the board to determine and will depend upon factors such as the size and composition of the board; the scale, diversity and complexity of the company's operations; and the nature of the principal risks that the company faces.
+281
+The review should consider issues dealt with in reports reviewed by the board during the year, together with any additional information necessary to ensure that the board has taken account of all significant aspects of risk and internal control framework for the year under review, and up to the date of the balance sheet.
+282
+The board may wish to receive reports from management on the effectiveness of the established framework and the conclusions of any testing, assessment or other work carried out by the management, or internal or external auditors. If the management or other functions within the company have reviewed certain aspects of the framework for the purpose of complying with other regulatory requirements, including foreign regulation, the work carried out and the information produced for that purpose could be used by the board when reviewing the effectiveness of the framework.
+283
+During its review, the board may wish to look at the design and operation of the framework, establish if these are tailored to the company’s needs and circumstances, and how effectively risks are identified, assessed, monitored and managed, or mitigated.
+284
+When carrying out a review, it is important to consider:
+issues dealt with in reports reviewed by the board during the year.
+the company’s willingness to take on risk (its risk appetite), the desired culture within the company and whether this culture has been embedded.
+the operation of the risk management and internal control framework, covering the design, implementation, monitoring, review and identification of risks, and determination of those which are principal to the company.
+procedures to identify and manage emerging risks.
+the effectiveness of the underlying controls in mitigating the identified risks.
+the integration of risk management and internal controls with considerations of strategy and business model, and with business planning processes.
+the scope and quality of management's ongoing monitoring of risks and of the system of internal control, and where applicable, the work of its internal audit function and other providers of assurance.
+any changes since the last review in the nature, likelihood and impact of principal risks, and the company's ability to respond to changes in its business and the external environment.
+the ability of the framework to respond effectively to changes and external events.
+the extent, frequency and quality of the communication of the results of management’s monitoring to the board (or board committee(s)) which enables it to build up a cumulative assessment of the state of control in the company and the effectiveness with which risk is being managed or mitigated.
+processes to escalate significant issues or concerns to the board.
+the incidence of significant control failings or weaknesses that have been identified at any time during the period and the extent to which they have, or could have, resulted in unforeseen outcomes or contingencies that have had, could have had, or may in the future have, a material impact on the company's financial performance or condition.
+actions taken to improve any material controls which have not operated effectively, and
+the effectiveness of the company's public reporting processes.
+285
+The board’s role should be focused on reviewing material controls, as agreed. Risks are dynamic and will change over time, therefore the material controls will need to adapt to such changes.
+286
+When the board has determined that a control is effective, it does not mean that the risk is eliminated. There are limitations to controls, which may include internal and external events and uncertainties which sometimes may be outside the company’s control, for example, factors related to human nature (e.g. error, judgment, negligence, misconduct, etc) or unexpected geopolitical events.
+Improvement
+287
+If any significant areas for improvement were identified, the board should determine how these arose and the impact this has had on the company, and how effective measures to remedy any deficiencies have been. The board should re-evaluate the company’s processes for ongoing monitoring and examine whether the finding of the deficiency indicates a need for improvements in these processes.
+288
+The monitoring and the review may identify areas for improvement even when no significant failings or weaknesses have been identified. A company’s strategy, operations and external environment continually change, and the board may regularly evaluate whether any enhancements or strengthening of the framework is needed for more effective management of risk.
+289
+Where the internal control system only narrowly achieves the desired outcome, especially on numerous occasions during the reporting period, this should be reported to the board. ‘Near misses’, although not a clear deficiency, can highlight that the control framework is not working as envisaged and consideration should be given to improving the system.
+Questions to consider:
+Has the board considered new and ongoing issues as part of its annual review?
+Are the controls effective in mitigating risks?
+Are the controls fit for purpose?
+Are the controls functioning as they should?
+Has the board exercised its professional scepticism in reviewing the information provided to them and requested further information or clarification as necessary?
+Reporting in the Annual Report
+290
+The assessment and processes set out in this guidance can be used together to inform disclosures in the annual report and accounts. These are:
+reporting on the main features of the company’s risk management and internal control framework in relation to the financial reporting process (as required under the FCA’s
+Disclosure Guidance and Transparency Rules
+).
+reporting on how the board has monitored and reviewed the effectiveness of the risk management and internal control framework (as required by the Code).
+providing a declaration of effectiveness of the material controls as at the balance sheet date, and where the material controls are not effective, describing these material controls, the action taken, or proposed, to improve them and any action taken to address previously reported issues.
+reporting on the principal risks facing the company and how they are managed or mitigated (as required by the
+Companies Act 2006
+(the ‘Companies Act’) and the Code).
+reporting on the procedures in place to identify and manage emerging risks.
+291
+As with all parts of the annual report and accounts, the board should provide clear and concise information that is tailored to the specific circumstances material to the company, and should avoid using standardised language, which may be long on detail but short on insight. In considering how to meet the different disclosures summarised below, the board should bear in mind the need for the annual report and accounts as a whole to be fair, balanced and understandable.
+292
+Except to the extent that this is expressly dealt with by the board or risk committee, the audit committee should review and recommend to the board the disclosures included in the annual report in relation to internal control, risk management and the viability statement.
+293
+The board should describe the main features of the framework, including an overview of the relevant governance structures in place, how the company assesses risks, how it manages or mitigates them, and how information is shared throughout the organisation and how different units interact and communicate.
+294
+The board should provide a summary of how it has monitored and reviewed the effectiveness of the framework during the reporting period. This may include the type of information the board has received and reviewed; the units and individuals it has consulted with; any internal or external assurance received; and if relevant, the name of the recognised framework, standard or guideline the board has used to review the effectiveness.
+Declaration on the effectiveness of the material controls
+295
+The board should form its own view on effectiveness, based on the evidence it obtains, exercising the standard of care generally applicable to directors in the exercise of their duties.
+296
+The annual report should include a declaration on the effectiveness of the material controls at the balance sheet date. The board can only provide a reasonable conclusion regarding the effectiveness of the controls, based on the work carried out and evidence obtained.
+297
+If a material control is not operating effectively at the date of the balance sheet, the board should disclose this in the annual report together with any action taken, or proposed, to improve controls. This could form part of a declaration which is in line with Provision 29 of the Code. When establishing if a control is operating effectively, the board should also consider its effective design and implementation. The annual report should also provide a summary of how the board has addressed previously reported issues.
+298
+When the board has been unable to determine the effectiveness of a material control and/or provide a declaration on its effectiveness, the board could utilise the ‘comply or explain’ nature of the Code and explain this in the annual report.
+299
+When reporting on areas for improvement, or actions that have been or are being taken, the board is not expected to provide any disclosures which in its professional judgment contain confidential information or any other information that could inadvertently affect the company’s interests if publicly reported.
+300
+The declaration covers information collected before and on the date of the balance sheet. There may be further procedures that are necessary for the company to carry out as part of its internal controls framework, which occur after the date of the balance sheet, and may be relevant to making a declaration on the effectiveness of the material controls.
+Principal and emerging risks
+301
+The Companies Act requires companies to publish a
+Strategic Report
+that must include ‘a fair review of the company’s business, and a description of the principal risks and uncertainties facing the company’. The Code states that the board should carry out a robust assessment of the company’s emerging and principal risks. The board should confirm in the annual report that it has completed this assessment, including a description of its principal risks, and an explanation of how these are being managed or mitigated. The board should explain what procedures are in place to identify and manage emerging risks.
+302
+A risk or uncertainty may be unique to the company, a matter that is relevant to the market in which it operates or something that applies to the business environment more generally. Where the risk or uncertainty is more generic, the description should make clear how it might affect the company specifically. For further information on determining risks, see
+risk assessment in this section
+.
+303
+The descriptions of the principal risks should be sufficiently specific that a shareholder can understand why they are important to the company. The report might include a concise description of the likelihood of the risk, an indication of the circumstances under which the risk might be most relevant to the company, and its possible impacts. Significant changes in principal risks such as a change in the likelihood or possible impact, or the inclusion of new risks, should be highlighted and explained. An explanation of how the principal risks are being managed or mitigated should also be included.
+Safe Harbour Provision in relation to the Strategic Report, Directors’ Report and the Directors’ Remuneration Report
+304
+In considering where and how to report, the board is likely to find it helpful to be mindful of its legal duties and the so-called safe harbour afforded it.
+305
+Section 463
+of the Companies Act provides that directors are liable to compensate the company if the company suffers any loss as the result of any untrue or misleading statement in (or any omission from) the Strategic Report, the Directors’ Remuneration Report or the Directors’ Report. The extent of the liability is limited: directors are only liable to the company. Further, directors are only liable to the company if they knew that the statements were untrue or misleading, or if they knew that the omission was a dishonest concealment of a material fact. This protection is sometimes known as ‘safe harbour’.
+306
+Accordingly, provided directors do not issue a deliberately or recklessly untrue or misleading statement or dishonestly conceal a material fact by way of an omission, they will not be liable to compensate the company for any loss incurred by it in reliance on the report.
+Viability statements
+307
+The long-term success of a company is dependent on the sustainability of its business model and its management of risk. How risk is identified and mitigated over the short, medium and long-term is of interest to shareholders and other stakeholders. Decisions made by the board will have a direct impact on the future prospects of the company, and the more effective a company is capable of withstanding potential impacts, the better placed it is to deliver its strategy and business model. It may be useful to discuss with investors their information needs to help inform the period selected.
+308
+Companies may consider developing their viability statements in two stages: firstly, by considering and reporting on their longer-term prospects, taking into account the company’s current position and principal risks; and then by stating whether they have a reasonable expectation that the company will be able to continue in operation and meet its liabilities as they fall due over the period of their viability assessment, drawing attention to any qualifications or assumptions as necessary. A summary table has been provided below:
+Stage one: assessment of prospects
+Stage two: assessment of viability
+Taking into account:
+current position.
+robust assessment of principal risks.
+business model.
+Taking into account:
+stress and sensitivity analysis.
+linkage to principal risks.
+qualifications and assumptions.
+levels of reasonable expectation.
+The period covered and reasonable expectation
+309
+The longer the period considered by the viability statement, the lower the degree of certainty. This does not mean that the period chosen should be short. Except in rare circumstances, it should be significantly longer than 12 months from the approval of the financial statements. The period selected for the assessment of prospects may take into account a number of factors, including:
+investment and planning periods.
+strategy and business model.
+the board’s stewardship responsibilities.
+debt repayments and maturities.
+contract lengths (for example, lease contracts, supplier agreements, contracts with customers, etc).
+the nature of the business and its stage of development, and
+previous statements made, especially in raising capital.
+310
+Companies could tailor their approach to their specific circumstances and planning cycles, and the board should provide an explanation for the period of assessment chosen. Where the period of assessment for the viability statement differs from other related assessments disclosed in the annual report, boards should consider explaining why there is a timeframe discrepancy in the justification for the period.
+311
+In line with Provision 31, the board should state whether they have a reasonable expectation that the company will be able to continue in operation and meet its liabilities as they fall over the period of their assessment. Reasonable expectation does not mean certainty. It does mean that the assessment can be justified.
+Ability to continue in operation and meet liabilities as they fall due
+312
+Directors are encouraged to think broadly as to relevant matters which may threaten the company’s future performance and consequently its viability. Directors should consider risks to solvency (the company’s ability to meet its financial liabilities in full), as well as liquidity (the ability to meet such liabilities as they fall due) – which may be a timing issue and other threats to the company’s viability.
+313
+The board’s consideration of whether a risk or combination of risks could lead to the company becoming unable to continue operations should take full account of the availability and likely effectiveness of any mitigating actions the board could take to avoid or reduce the impact or occurrence of the underlying risks. In considering the likely effectiveness of such actions, the conclusions of the board’s regular monitoring and review of risk and internal control framework should be taken into account. Further details on the board’s responsibilities for establishing, monitoring and reviewing the risk management and internal control framework can be found in the
+risk and internal controls guidance
+.
+314
+Stress and sensitivity analysis may assist the directors in making their assessment and statement. These techniques may help in assessing both the company’s overall resilience and its adaptability and the significance of particular variables to the projected outcome. Clear articulation of the inputs and outcomes of any tests performed should be provided.
+315
+When considering the individual circumstances of the company and tailoring the analysis, there should be an appropriate level of prudence, i.e. weighting downside risks more heavily than upside opportunities. This may include analysis of reverse stress, starting from a presumption of failure and seeking to identify the circumstances in which this could occur.
+Qualifications or assumptions
+316
+Any qualifications or assumptions to which the directors consider it necessary to draw attention in their statement should be specific to the company’s circumstances; they should:
+be relevant to an understanding of the directors’ rationale for making the statement.
+only include matters that are significant to the company’s prospects.
+not include matters that are highly unlikely either to arise or to have a significant impact on the company, and
+cross-refer to, rather than repeat, disclosures given elsewhere.
+317
+Good practice examples clearly explain the underlying analysis that supports the statement. They should also include proper explanation of how the company has carried out its analysis.
+Better reporters include:
+Descriptions of each scenario and articulating any assumptions and judgements using both qualitative and quantitative information.
+Making scenarios clearer through better explanations, including how they tie with principal risks, different scenarios and situations considered, mitigating actions and any other additional information.
+Discussing how assumptions and judgements have affected the overall assessment of viability.
+Questions for boards:
+Does the viability statement differentiate between the directors’ assessment of long-term prospects and their statement on the company’s viability, and if so, is there clarity on why different time horizons are used?
+Have we considered previous statements that have been made, especially in raising capital, the nature of the business and its stage of development, and investment and planning periods?
+Have relevant qualifications, assumptions and judgements been considered when explaining the directors’ reasonable expectation of the viability of the company?
+Is the link between the viability statement and principal risks clear, particularly in relation to the scenario analyses?
+Are the stress and scenario analyses explained in sufficient detail (including any qualifications and assumptions) to provide shareholders with an understanding of the nature of those scenarios, and the extent of mitigating activities?
+Is the analysis underpinning the viability statement consistent with the board’s statement on going concern and other forward-looking statements?
+Are the prospects of the company set out in the viability statement consistent with any statements made on financial covenant and commitments given to pension fund trustees?
+Have we carefully considered the relevant matters which may threaten the company’s future performance and ability to continue in operation and remain viable?
+318
+More information on viability statements from the FRC:
+FRC Reporting Lab report on Reporting on risks, uncertainties, opportunities and scenarios: Closing the gap
+CRR: Thematic Review: Viability and Going Concern
+Cyber Security
+Risk Management
+Board members play a crucial role in strategically approaching cyber security, ensuring operational resilience and continuous functioning of the business. Both cyber security and cyber resilience are equally important in reducing cyber risks. While cyber security focuses on preventing malicious actors penetrating IT systems, cyber resilience involves a company’s ability to protect, detect, respond to and recover from a cyber-attack.
+To govern cyber risk effectively, companies need to implement a top-down approach, with the board ensuring that risks to delivering the strategy are identified, assessed, and mitigated in accordance with the business's risk appetite. This includes understanding the risk cyber incidents pose to the strategy and ensuring adequate cyber resilience is in place. Board members don't need technical expertise but enough knowledge for constructive discussions with key personnel, so they can be confident that cyber risk is being appropriately managed. To support boards in fulfilling this, the UK Government has introduced the
+Cyber Governance Code of Practice
+which forms the foundation of government support for cyber governance
+The Cyber Governance Code of Practice outlines the key actions for Board members to govern cyber security risks effectively, detailing their responsibilities and accountability in safeguarding the organisation. It forms part of a broader package of
+resources
+developed by the UK Government to support boards and directors. This package also includes
+Cyber Governance Training
+which tells Boards why and how to implement the actions of the code and the
+Cyber Security Toolkit for Boards
+, which provides more in-depth support. These resources offer practical guidance to strengthen cyber resilience, ensuring boards and directors have the knowledge and tools to govern cyber risk effectively.
+Footnotes
+[1]
+UK Auditing Standards have specific reporting requirements related to audit committees at
+ISA (UK) 260 Communication With Those Charged With Governance
+and
+ISA (UK) 265 Communicating Deficiencies in Internal Control to Those Charged With Governance and Management
+.
+[2]
+In addition, the auditor is required by auditing standards to report, in their report on the financial statements, if the board’s statement in the annual report is inconsistent with the knowledge acquired by the auditor in the course of performing the audit.
+[3]
+Guidance can be found in the
+Chartered Institute of Internal Auditors' Internal Audit Code of Practice
+and the
+Global Internal Audit Standards
+.
+[4]
+See
+Revised Ethical Standards 2024
+, paragraph 5.45.
+[5]
+Further information on principal risks is available in the
+Guidance on the Strategic Report
+.
+[6]
+IFRS definition of
+material financial information
+could also be applied to non-financial information: “Information is material if omitting, misstating or obscuring it could reasonably be expected to influence the decisions that the primary users of general purpose financial statements make on the basis of those financial statements, which provide financial information about a specific reporting entity.”
+Section 5 - Remuneration
+In this section:
+Workforce remuneration
+Non-executive directors’ remuneration
+Remuneration Policy
+Print this section
+Workforce remuneration
+319
+In line with Provision 33. The remuneration committee is tasked with reviewing workforce and related policies. The purpose of this review is to:
+ensure the reward, incentives and conditions available to the company’s workforce are taken into account when deciding the pay of executive directors and senior management.
+enable the remuneration committee to explain to the workforce each year how decisions on executive pay reflect wider company pay policy, and
+enable the remuneration committee to feedback to the board on workforce reward, incentives and conditions, and support the latter’s monitoring of whether company policies and practices support culture and strategy.
+320
+The remuneration committee’s review is limited to workforce remuneration and related policies in respect of persons engaged under an employment contract or a contract, or other arrangement to do work or provide services personally.
+321
+The review includes matters such as any pay principles applied across the company, base pay, benefits, and all incentives and aspects of financial and non-financial reward that drive behaviour.
+Non-executive directors’ remuneration
+322
+Many companies encourage non-executive directors to build a personal shareholding in the company. This practice is intended to foster alignment between independent non-executive directors and shareholders, reinforcing long-term commitment and engagement. This approach to shareholding expectations may vary depending on the specific nature of the role, time commitment, company size, sector, and board composition, and should be considered within the broader context of governance and wider remuneration arrangements.
+323
+Provision 34 of the Code recommends that non-executive directors' remuneration is established in line with the Articles of Association or, alternatively, by the board. Boards may choose to pay non-executive directors a portion of their fees in shares (for example, purchased at market price). In such circumstances, a description outlining the rationale and process for allowing a portion of non-executive director fees to be paid in shares, along with any associated restrictions on the sale of the shares, helps to ensure clarity for stakeholders.
+324
+In some circumstances boards may consider that alternative approaches to remuneration of independent non-executive directors are desirable. In doing so, they should take care to preserve director independence.  For this reason, performance related remuneration is not appropriate, as it may compromise the director’s ability to provide oversight and challenge when considering executive decisions. If companies consider offering independent non-executive directors options or similar rights to acquire shares, they should not be performance related (for example, they should not have a meaningful exercise price which would impair director independence). In all circumstances, care should be taken to ensure the structure does not incentivise short-term decision making, create conflicts of interest or impair independence, in line with Provision 10 under
+Section 2 - Division of responsibilities
+. Companies are encouraged to set out the approach in their annual report.
+Remuneration Policy
+325
+The design of remuneration policies is a crucial part of the remuneration committee’s role. In line with Principle P remuneration committees are expected to focus on the strategic rationale for executive pay and the links between remuneration, strategy and long-term sustainable success.
+326
+It is important that the remuneration committee takes steps to counteract the risk of incentives that are detrimental to the long-term success of the company. Packages that are structured to ensure exposure to the long-term share value, including for two to three years after leaving the company, can support alignment with shareholders and encourage executive directors to focus on the impact of their decisions over the long-term.
+327
+Remuneration committees are encouraged to be innovative and to work with shareholders to simplify the remuneration policy. Simpler remuneration policies may help reduce the reliance of the remuneration committee on consultants and also improve communication with shareholders and the workforce.
+Questions for remuneration committees
+How are we innovating and updating our executive remuneration policy, for example to strengthen the incentives for long-term thinking?
+How does executive remuneration link to our strategy and KPIs?
+Do we need to interact with any other parts of the governance structure in respect of risks arising from remuneration?
+328
+Where performance-based incentive plans are used, the choice of performance measures is important. Using a range of financial, non-financial and strategic measures can help ensure that targets are aligned with how the company will deliver value over the long-term in line with company purpose. Metrics need to be reliable and credible to satisfy shareholders and their purpose explained.
+329
+The remuneration committee exercises judgement when determining remuneration awards, considering the possible monetary outcomes and external perceptions arising from its decisions. In line with Provision 37, remuneration policies should provide for the use of discretion to override formulaic outcomes.
+Questions for remuneration committees
+How will any financial and non-financial performance measures support long-term thinking and delivery against strategy?
+Have we considered how the choice of any particular measure may encourage negative behaviour and what steps have we taken to manage such risks?
+Have we consulted the audit committee on performance measures?
+What steps have we taken to make sure that any performance measures are stretching?
+330
+A committee might assess the overall reasonableness of the total reward to be paid taking account of performance, results achieved and the overall policy intent.
+331
+The exercise of discretion may also be necessary as a result of unexpected or unforeseen circumstances, in order to ensure the remuneration outcome for individual directors is reasonable and reflects the individual’s contribution. Any exercise of discretion should be clearly disclosed and explained.
+Questions for remuneration committees
+Can we explain how we expect to exercise discretion over remuneration outcomes?
+Have we made sure that there are no impediments to the exercise of discretion, for example, in the contract terms of individual directors or in the scheme rules?
+Do we understand the amount that is potentially being awarded, under what circumstances, and do we need a monetary limit?
+332
+The remuneration committee may wish to consider setting a limit in monetary terms for what it considers is a reasonable reward for individual executives. This could be helpful in addressing the need for a degree of predictability over outcomes, both for the individual director, the company and shareholders, and for guiding the exercise of discretion in some circumstances. It should be prepared to explain the rationale behind its decision.
+333
+Schemes should also include malus and clawback provisions in certain specified circumstances. Such circumstances might include payments based on erroneous or misleading data, misconduct, misstatement of accounts, serious reputational damage and corporate failure.
+334
+Provision 39 of the Code recommends that pension commitments for executive directors, or payments in lieu, are aligned with those available to the workforce. While it may not be practical to alter existing contractual commitments in this regard, remuneration committees will need to ensure future contractual arrangements heed this.
+335
+Compensation commitments due to directors under their terms of appointment in the event of loss of office should be proportionate and variable by discretion, so that the remuneration committee can vary compensation where appropriate to the circumstances and to reflect departing directors’ conduct and performance.
+Appendix - Overlap with FCA Handbook
+In this section:
+Disclosure of Corporate Governance arrangements and overlap with the FCA Handbook
+Overlap with FCA Handbook rules related to audit and risk (Section 4 of the Code)
+Print this section
+Disclosure of Corporate Governance arrangements and overlap with the FCA Handbook
+336
+Listed companies must disclose certain information in order to comply with the Financial Conduct Authority’s (FCA) Listing Rules (LR) and Disclosure Guidance and Transparency Rules (DTR).
+337
+To ensure full compliance with these requirements companies should consider the full text contained in the relevant chapters of the FCA Handbook. However, the summary below is a snapshot of the current overlaps and requirements.
+338
+LR 9.8.6R through to and including LR 9.8.7AR contain reporting requirements relating to the Code and apply to companies with a Premium listing.
+339
+The DTR sections 7.1 and 7.2 apply to issuers whose securities are admitted to trading on a regulated market (this includes issuers with a Premium or Standard listing[
+[1]
+]).
+340
+LR 9.8.6R (for UK incorporated companies) and LR 9.8.7R (for overseas incorporated companies) states that in the case of a company that has a Premium listing, the following items must be included in its annual report and accounts:
+LR Requirements
+UK Corporate Governance Code
+A statement of how the listed company has applied the Main Principles set out in the Code, in a manner that would enable shareholders to evaluate how the principles have been applied.
+Code Introduction
+The Code reiterates in the introduction the requirement of the Listing Rules and the application of the Principles.
+A statement as to whether the listed company has:
+complied throughout the accounting period with all relevant provisions set out in the Code; or
+not complied and if this is the case set out:
+the provisions not complied with;
+for those provisions whose requirements are of a continuing nature, the period within which, if any, it did not comply with some or all of the provisions; and
+the company’s reasons for non-compliance.
+The Code has a number of Provisions which have a specific reporting requirement. Explanations to some of the Codes Provisions are required in specific circumstances.
+All the reporting provisions must be provided, or a clear explanation given to be in compliance with the Code and LR 9.8.6R and LR 9.8.7R.
+Reporting obligations are generally met by inclusion in the annual report. In some cases, alternative arrangements can be made.
+Where information should be ‘made available’ this can be met by placing the information on a website maintained by or on behalf of the company. In other cases, information should be in papers for the shareholders.
+341
+DTR 7.2 concerns corporate governance statements. Issuers are required to produce a corporate governance statement that must be either included in the directors’ report, or set out in a separate report published together with the annual report, or set out in a document on the issuer’s website to which reference is made in the directors’ report.
+DTR Requirements
+UK Corporate Governance Code
+Section 7.2
+Issuers are required to produce a corporate governance statement that must either be included in the directors’ report (DTR 7.2.1R); or set out in a separate report published together with the annual report; or set out in a document on the issuer’s website, in which case there must be a cross-reference to the directors’ report (DTR 7.2.9R)
+DTR 7.2.2R
+The corporate governance statement must contain a reference to the corporate governance code to which the company is subject.
+DTR 7.2.3R
+When a company departs from that code it must explain which parts it departs from and the reasons for doing so.
+DTR 7.2.4G
+states that compliance with LR 9.8.6R will satisfy these requirements.
+For those companies with a Premium listing, this is the UK Corporate Governance Code.
+See commentary in relation to LR 9.8.6R in previous table.
+342
+DTR 7.2.5R, DTR 7.2.6R, DTR 7.2.7R and DTR 7.2.8AR and DTR 7.2.10 set out certain information that must be disclosed in the corporate governance statement:
+DTR 7.2.5R states that it must contain a description of the main features of the company’s internal controls and risk management systems in relation to the financial reporting process.
+DTR 7.2.7R states that it must contain a description of the composition and operation of the issuer’s administrative, management and supervisory bodies and their committees;
+DTR 7.2.8AR states that it must contain a description of:
+(a) the diversity policy applied to the issuer’s administrative, management and supervisory bodies and the remuneration, audit and nomination committees of those bodies with regard to aspects such as, for instance, age, gender, ethnicity, sexual orientation, disability or educational, professional and socio-economic backgrounds;
+(b) the objectives of the diversity policy in (a);
+(c) how the diversity policy in (a) has been implemented; and
+(d) the results in the reporting period.
+If no diversity policy is applied by the issuer, the corporate governance statement must contain an explanation as to why this is the case.
+DTR Requirements
+UK Corporate Governance Code
+DTR 7.2.7R
+The corporate governance statement must contain a description of the composition and operation of the issuer’s administrative, management and supervisory bodies and their committees.
+This requirement overlaps with several Code Provisions:
+Provision 10
+– identification of independent non-executive directors.
+Provision 14
+– responsibilities of the board members and committees should be clear, set out in writing, agreed by the board and made publicly available. The annual report should set out the number of board and committee meetings and the attendance by each director.
+Provision 23
+– the annual report should describe the work of the nominations committee.
+Provision 26
+– the annual report should describe the work of the audit committee.
+Provision 41
+– there should be a description of the work of the remuneration committee in the annual report.
+DTR 7.2.8AR
+The corporate governance statement must contain a description of the diversity policy, its objectives, how it has been implemented and the results in the reporting period. If no diversity policy is applied, the statement must contain an explanation as to why this is the case.
+Provision 23
+– the annual report should describe the work of the nominations committee, including: the policy and any initiatives on diversity and inclusion, their objectives and link to company strategy, how they have been implemented and progress on achieving the objectives; and the gender balance of those in the senior management and their direct reports.
+Overlap with FCA Handbook rules related to audit and risk (Section 4 of the Code)
+LR Requirements
+UK Corporate Governance Code
+LR 9.8.6R(3)
+Requires statements by the directors on:
+(a) the appropriateness of adopting the going concern basis of accounting (containing the information set out in Provision 30 of the UK Corporate Governance Code); and
+(b) their assessment of the prospects of the company (containing the information set out in Provision 31 of the UK Corporate Governance Code);
+prepared in accordance with the ‘Guidance on Risk Management, Internal Control and Related Financial and Business Reporting’ published by the Financial Reporting Council in September 2014.
+The Guidance on Risk Management, Internal Control and Related Financial and Business Reporting has been modified to reflect updated Code Provisions; please see the
+risk and internal controls guidance
+for the most recent recommendations.
+Provisions 30 and 31
+Provision 30 deals with the appropriateness of adopting the going concern.
+Provision 31 is an assessment of the prospects of the company.
+DTR Requirements
+UK Corporate Governance Code
+DTR 7.1.1R, 7.1.1AR and 7.1.2AR
+Sets out minimum requirements on composition of the audit committee or equivalent body.
+Provision 24
+Sets out the recommended composition of the audit committee.
+DTR 7.1.3R
+Sets out minimum functions of the audit committee or equivalent body
+Provision 25
+Sets out the main roles and responsibilities of the audit committee.
+DTR 7.1.5R
+The composition and function of the audit committee or equivalent body/bodies must be disclosed to the public. This disclosure can be included in the corporate governance statement required by DTR 7.2.
+Provision 14
+States that the responsibilities of committees should be clear, set out in writing, agreed by the board and made publicly available.
+Provision 26
+States that the annual report should describe the work of the audit committee.
+DTR 7.2.5 R
+The corporate governance statement must contain a description of the main features of the issuer’s internal control and risk management systems in relation to the financial reporting process
+Principle O
+The board should establish and maintain an effective risk management and internal control framework, and determine the nature and extent of the principal risks the company is willing to take in order to achieve its long-term strategic objectives.
+Provision 28
+The board should carry out a robust assessment of the company’s emerging and principal risks and should confirm this in the annual report.
+Provision 29
+The board should monitor the company’s risk management and internal control framework and, at least annually, carry out a review of its effectiveness.
+Footnotes
+[1]
+The application of these DTR provisions is restricted to issuers which are UK incorporated. However, DTR 7.2 is extended by the LR to apply to Premium listed overseas companies and companies with a standard listing of shares.
+The FRC does not accept any liability to any party for any loss, damage or costs
+however arising, whether directly or indirectly, whether in contract, tort or otherwise
+from action or decision taken (or not taken) as a result of any person relying on or
+otherwise using this document or arising from any omission from it.
+Published:
+29 January 2024
+Last updated:
+3 June 2026
+Updates log
+03 June 2026
+Link to 'Guidance on the Strategic Report' Updated.
+01 April 2026
+Paragraph 88 - Clarification made to the composition of board committees under the Good Practice Guidance For the Successful Management of Board Committees.
+16 March 2026
+Paragraph 02 - Link to 'Improving the quality of 'comply or explain' reporting' guidance updated. This update was made outside of the usual cycle to coincide with the updated guidance.
+05 November 2025
+Updated the Remuneration section to clarify the approach to share-based remuneration for non-executive directors and subsequent paragraphs renumbered.
+06 August 2025
+Paragraph 150 updated in the Good Practice Guidance For The Successful Management of Board Committees.
+02 July 2025
+Correction to footnote 5 in Section 4 guidance.
+07 May 2025
+Paragraph 180 updated in Section 3 guidance.
+Updated the 'Cyber Security' section to reflect the introduction of the Cyber Governance Code of Practice.
+05 March 2025
+Paragraph 203 – Link to Internal Audit Code of Practice updated to reflect an updated document.
+05 February 2025
+Updated 'Relations with suppliers' in Section 1 of the guidance.
+04 December 2024
+Updated 'Culture' in Section 1 of the guidance to reflect the 2024 UK Corporate Governance Code.
+04 September 2024
+Updated introduction to reflect changes to the FCA Listing Rules.
+03 July 2024
+Updated Appendix - Overlap with FCA Handbook at DTR 7.2.5 R to include reference to Principle O of the UK Corporate Governance Code.
+06 March 2024
+We have made minor formatting edits throughout the guidance and the following updates to Section 4 Audit, Risk and Internal Control:
+Updated references of ‘risk management and internal control systems’ to ‘risk management and internal control frameworks’ throughout this section.
+Clarified the wording in paragraphs 243, 274, 297, 298 and 300.
+Updated paragraph 290 to include the Code changes as reporting requirements.
+29 January 2024
+Paragraph 64 added. All subsequent paragraphs renumbered.
+Contents
+Executive Summary
+Section 1 - Board Leadership and Company Purpose
+Section 2 - Division of responsibilities
+Good Practice Guidance For The Successful Management of Board Committees
+Section 3 - Composition, Succession and Evaluation
+Section 4 - Audit, Risk and Internal Control
+Section 5 - Remuneration
+Appendix - Overlap with FCA Handbook
+Print this page
+Back to top
+Is this page useful?
+Yes
+this page is useful
+No
+this page is not useful
+Freedom of Information
+Privacy
+Individual Rights (Data Privacy) Policy
+Modern Slavery Statement
+Disclaimer and Copyright
+Cookies
+Accessibility Statement
+Whistleblowing
+Complaints
+Regulators' Code
+The Financial Reporting Council Limited is a company limited by guarantee. Registered in England number 2486368. Registered Oﬃce: 13th Floor, 1 Harbour Exchange Square, London E14 9GE
+Stay up to date
+Subscribe to our news alerts to receive our latest updates.
+Sign up to our news alerts
+{"@context": "https://schema.org", "@type": "WebPage", "url": "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/corporate-governance-code-guidance/", "name": "Corporate Governance Code Guidance", "description": "", "inLanguage": "en-GB", "publisher": {"@type": "Organization", "name": "FRC (Financial Reporting Council)", "url": "https://www.frc.org.uk/"}, "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.frc.org.uk/"}, {"@type": "ListItem", "position": 2, "name": "Library", "item": "https://www.frc.org.uk/library/"}, {"@type": "ListItem", "position": 3, "name": "Standards, codes and policy", "item": "https://www.frc.org.uk/library/standards-codes-policy/"}, {"@type": "ListItem", "position": 4, "name": "Corporate Governance", "item": "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/"}]}}
+{"@context": "https://schema.org", "@type": "WebSite", "@id": "WebSite", "url": "https://www.frc.org.uk/", "potentialAction": {"@type": "SearchAction", "target": {"@type": "EntryPoint", "urlTemplate": "https://www.frc.org.uk/library/?query={search_term_string}", "inLanguage": "en-GB"}, "query-input": "required name=search_term_string"}, "inLanguage": "en-GB"}

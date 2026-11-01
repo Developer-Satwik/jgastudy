@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5R-S01",
+      "title": "Relevant costs",
+      "publisher": "ACCA",
+      "url": "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f5/technical-articles/relevant-costs.html",
+      "source_type": "professional_education_relevant_cost_concepts",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "No displayed substantive publication/update date established; no date inferred from crawl or site navigation.",
+      "accessed_on": "2026-10-29",
+      "population": "Illustrative short-term financial decision examples, not empirical payroll employer evidence",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Professional accountancy body educational material; not a supplier payroll outcome study",
+      "review_status": "relevant_original_html_sections_inspected",
+      "capture_path": "03-report/research-notes/r05-second-check/root/R5R-S01.html",
+      "capture_sha256": "f3477da8f20be8c69b4afa19c71f04434baff122059e5f10769732e7fe814d1d",
+      "locator": "Concepts1\u20135 and Example2 relevant cost of labour; example assumptions explicitly ignore time value",
+      "limitations": "Educational examples, not payroll staffing requirement or employer convention. No numerical examples or salary/opportunity-cost formula transferred. Article cash lens does not establish free resources, negligible nonfinancial effects or disappearance of existing funding obligations.",
+      "reuse_status": "Private verification; final-use paraphrase/rights/version review pending"
+    }
+  ]
+}

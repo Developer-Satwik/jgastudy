@@ -1,0 +1,666 @@
+{
+  "date": "2026-10-28",
+  "instrument_version": "0.2",
+  "status": "passed",
+  "test_count": 19,
+  "check_type": "Internal synthetic structural and analytical-state walkthrough only",
+  "recall_boundary": "Inclusive calendar date two years before collection; leap-day cutoff clamps to last valid February day. Approximate participant dates remain uncertain rather than assumed exact.",
+  "limitations": "Not participant answers, cognition, timing, real benefits or commercial validation. No synthetic input is added to observations or findings as human evidence.",
+  "core_wording_unchanged_from_v01": true,
+  "results": [
+    {
+      "test_id": "RT01",
+      "description": "Never raised need",
+      "synthetic_inputs": {
+        "never_raised": true
+      },
+      "expected_route": "never_raised",
+      "actual": {
+        "route_state": "never_raised",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": true,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT02",
+      "description": "Older proposal without recent milestone",
+      "synthetic_inputs": {
+        "decision_date": "2023-08-04",
+        "direct_involvement": true
+      },
+      "expected_route": "older_only",
+      "actual": {
+        "route_state": "older_only",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT03",
+      "description": "Recent case recalled after follow-up",
+      "synthetic_inputs": {
+        "decision_date": "2026-04-01",
+        "direct_involvement": true,
+        "recalled_after_probe": true
+      },
+      "expected_route": "confirmed_after_probe",
+      "actual": {
+        "route_state": "confirmed_after_probe",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT04",
+      "description": "Old programme with recent substantive decision",
+      "synthetic_inputs": {
+        "programme_start": "2021-03-01",
+        "decision_date": "2026-03-02",
+        "direct_involvement": true,
+        "old_programme": true,
+        "substantive_decision": true
+      },
+      "expected_route": "recent_substantive_milestone",
+      "actual": {
+        "route_state": "recent_substantive_milestone",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT05",
+      "description": "Old programme still operating only",
+      "synthetic_inputs": {
+        "programme_start": "2021-03-01",
+        "decision_date": "2026-03-02",
+        "direct_involvement": true,
+        "old_programme": true,
+        "substantive_decision": false
+      },
+      "expected_route": "older_only",
+      "actual": {
+        "route_state": "older_only",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT06",
+      "description": "Pending proposal",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": true,
+        "disposition": "pending"
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, has appeared to influence the assessment so far?",
+        "q011_follow_up": "What evidence, if any, is still needed before a decision can be made?",
+        "analytical_fields": {
+          "disposition": "pending"
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT07",
+      "description": "Deferred proposal",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": true,
+        "disposition": "deferred"
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": "What evidence, if any, is still needed before a decision can be made?",
+        "analytical_fields": {
+          "disposition": "deferred"
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT08",
+      "description": "No relevant need or case",
+      "synthetic_inputs": {
+        "no_improvement": true
+      },
+      "expected_route": "no_improvement",
+      "actual": {
+        "route_state": "no_improvement",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT09",
+      "description": "Uncertain involvement",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": null
+      },
+      "expected_route": "unknown_eligibility",
+      "actual": {
+        "route_state": "unknown_eligibility",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT10",
+      "description": "Approved renewal",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": true,
+        "disposition": "approved",
+        "option": "incumbent_retained",
+        "delivery": "operating",
+        "benefit_assessment": "not_measured"
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {
+          "disposition": "approved",
+          "option": "incumbent_retained",
+          "delivery": "operating",
+          "benefit_assessment": "not_measured"
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT11",
+      "description": "Approved alternative not started",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": true,
+        "disposition": "approved",
+        "option": "alternative",
+        "delivery": "not_started",
+        "benefit_assessment": "not_yet_assessed"
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {
+          "disposition": "approved",
+          "option": "alternative",
+          "delivery": "not_started",
+          "benefit_assessment": "not_yet_assessed"
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT12",
+      "description": "Live but benefits unmeasured",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": true,
+        "delivery": "live",
+        "benefit_assessment": "not_measured"
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {
+          "delivery": "live",
+          "benefit_assessment": "not_measured"
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT13",
+      "description": "Capacity released with no spending reduction",
+      "synthetic_inputs": {
+        "decision_date": "2026-07-01",
+        "direct_involvement": true,
+        "benefit_assessment": "reported_change",
+        "capacity_released": true,
+        "spending_reduced": false
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {
+          "benefit_assessment": "reported_change",
+          "capacity_released": true,
+          "spending_reduced": false
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT14",
+      "description": "Future priority only",
+      "synthetic_inputs": {
+        "future_priority_stage": "idea"
+      },
+      "expected_route": "unknown_eligibility",
+      "actual": {
+        "route_state": "unknown_eligibility",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {
+          "future_priority_stage": "idea"
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT15",
+      "description": "Exact calendar cutoff",
+      "synthetic_inputs": {
+        "decision_date": "2024-10-28",
+        "direct_involvement": true
+      },
+      "expected_route": "confirmed_initial",
+      "actual": {
+        "route_state": "confirmed_initial",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q007",
+          "Q008",
+          "Q009",
+          "Q010",
+          "Q011",
+          "Q012",
+          "Q013",
+          "Q014"
+        ],
+        "recent_case_base": true,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": "Which evidence, if any, appeared to influence the decision most?",
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT16",
+      "description": "Day before calendar cutoff",
+      "synthetic_inputs": {
+        "decision_date": "2024-10-27",
+        "direct_involvement": true
+      },
+      "expected_route": "older_only",
+      "actual": {
+        "route_state": "older_only",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT17",
+      "description": "Unknown date",
+      "synthetic_inputs": {
+        "direct_involvement": true
+      },
+      "expected_route": "unknown_eligibility",
+      "actual": {
+        "route_state": "unknown_eligibility",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT18",
+      "description": "Choice not to share a case",
+      "synthetic_inputs": {
+        "declined_to_share": true
+      },
+      "expected_route": "no_case_shared",
+      "actual": {
+        "route_state": "no_case_shared",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": false,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    },
+    {
+      "test_id": "RT19",
+      "description": "Future planned event is not a recorded past decision",
+      "synthetic_inputs": {
+        "decision_date": "2027-04-01",
+        "direct_involvement": true
+      },
+      "expected_route": "unknown_eligibility",
+      "actual": {
+        "route_state": "unknown_eligibility",
+        "asked_ids": [
+          "Q001",
+          "Q002",
+          "Q003",
+          "Q004",
+          "Q005",
+          "Q006",
+          "Q014"
+        ],
+        "recent_case_base": false,
+        "pre_proposal_need": false,
+        "no_case_follow_up_allowed": true,
+        "cutoff_date": "2024-10-28",
+        "q011_wording": null,
+        "q011_follow_up": null,
+        "analytical_fields": {}
+      },
+      "status": "passed"
+    }
+  ]
+}

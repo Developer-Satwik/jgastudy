@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R08 second challenge: task/period unit of operating acceptance, release and retained duties versus investment decision",
+  "inspected": [
+    {
+      "source_id": "SRC-0078",
+      "url": "https://www.gov.uk/paye-for-employers/choose-payroll",
+      "locator": "Paying a payroll provider"
+    },
+    {
+      "source_id": "SRC-0131",
+      "url": "https://help.cintra.co.uk/docs/in-house-vs-outsourced-payroll",
+      "locator": "SaaS/Source processing and authorise-payment sections"
+    },
+    {
+      "source_id": "SRC-0132",
+      "url": "https://help.cintra.co.uk/payroll/docs/understanding-the-payroll-cycle",
+      "locator": "Four-scenario table; stages2–4; FAQs submit/approve/authorise and roll-forward"
+    }
+  ],
+  "queries": [
+    "Direct primary reinspection of canonical HMRC choose-payroll and Cintra cycle/in-house routes"
+  ],
+  "screened_not_adopted": [
+    "HMRC setting-up-payroll page corroborates recurring tasks but adds no necessary route or claim; not added to evidence count",
+    "No new price, software test, contract acceptance, payroll-run result or legal determination"
+  ],
+  "new_routes": 0,
+  "original_practitioner_observations": 0,
+  "product_trials": 0,
+  "numeric_estimates": 0,
+  "extra_mandatory_questions": 0,
+  "external_actions": []
+}

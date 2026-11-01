@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "original_path": "02-evidence/registers/sources.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/02-evidence/registers/sources.json",
+      "sha256": "f8ad60abc64ed6b072d716139a616e01fba7c7567a07adab34cebeb2890bdb8c"
+    },
+    {
+      "original_path": "02-evidence/registers/claims.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/02-evidence/registers/claims.json",
+      "sha256": "3334bd031fbfc58432dbfdfd429835f1e67b2fae1d17da58e90f53c7eb955c57"
+    },
+    {
+      "original_path": "02-evidence/registers/searches.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/02-evidence/registers/searches.json",
+      "sha256": "eb10478e5ee560c3d01c94a9fdae699d4bbadc9ddd4ba1bbeddda9d79e59f73e"
+    },
+    {
+      "original_path": "02-evidence/registers/source-aliases.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/02-evidence/registers/source-aliases.json",
+      "sha256": "68d4a5b27dae041b80b558076d56422cc8b0d4133ced870d65825fdfdd241446"
+    },
+    {
+      "original_path": "05-analysis/findings.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "original_path": "README.md",
+      "snapshot_path": "04-table/research-notes/t04/before-review/README.md.txt",
+      "sha256": "8eafae4ddbdc03e253f9fc878f0afa5fc223e36c2f119cbdf0bcd2c7dfe32be7"
+    },
+    {
+      "original_path": "00-control/CURRENT-STATUS.md",
+      "snapshot_path": "04-table/research-notes/t04/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "11c4adb46764d7193f6504a42b1ebbc9aa5a08a26216554b3f5aa759a7f0fa43"
+    },
+    {
+      "original_path": "00-control/work-packages.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/00-control/work-packages.json",
+      "sha256": "ef8c6fcadf01d4168060b599d2113ad42977c464ece4230af14f132d01ba1dd3"
+    },
+    {
+      "original_path": "00-control/changes.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/00-control/changes.json",
+      "sha256": "946e7ea44fe65731c610890240835521d31379f2cd89dc9c5196e1a958de7bc8"
+    },
+    {
+      "original_path": "00-control/decisions.json",
+      "snapshot_path": "04-table/research-notes/t04/before-review/00-control/decisions.json",
+      "sha256": "13957231343fcad7c36aa31836d5c23f6150804dbb77deb35c23c7e2829340cd"
+    },
+    {
+      "original_path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "snapshot_path": "04-table/research-notes/t04/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "c25078af088e72b697fe1ab7fbe20cfc6b392c9214e97bbf217e8206d0c83483"
+    },
+    {
+      "original_path": "08-qa/validate_workspace.py",
+      "snapshot_path": "04-table/research-notes/t04/before-review/08-qa/validate_workspace.py",
+      "sha256": "6267b5af6e12d3773282322d09e65eb89214d952856e7edea9c0f74ed0cd8a7c"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "capture_id": "SRC-0060-g2-paycom-buyer-logic",
+      "url": "https://research-hub.g2.com/the-new-buying-logic-for-hr-and-payroll",
+      "final_url": "https://research-hub.g2.com/the-new-buying-logic-for-hr-and-payroll",
+      "retrieved_at_utc": "2026-10-28T21:03:47.880490+00:00",
+      "http_status": 200,
+      "html_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0060-g2-paycom-buyer-logic.html",
+      "html_sha256": "1e14795cc6a4465741e77ef28d4a73044245a5bef530215d1674bb1c8f08473a",
+      "text_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0060-g2-paycom-buyer-logic.txt",
+      "text_sha256": "16ce22b2dbdc09fe35b017f1fc35379516ba29a153b18529c4dc4abf1418951a",
+      "byte_length": 270871,
+      "notes": "Raw public response and numbered text extraction; no account, form or API use."
+    },
+    {
+      "capture_id": "SRC-0061-g2-methodology",
+      "url": "https://research-hub.g2.com/methodology",
+      "final_url": "https://research-hub.g2.com/methodology",
+      "retrieved_at_utc": "2026-10-28T21:03:48.654706+00:00",
+      "http_status": 200,
+      "html_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0061-g2-methodology.html",
+      "html_sha256": "165443f35a938de94c593d1a17a004d28c4bc61cf1e620cf58fedc14040e581d",
+      "text_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0061-g2-methodology.txt",
+      "text_sha256": "36608e1ac80c08370a1a36a3b77c44e96a3aab1c1a99be4bae9575717118dcec",
+      "byte_length": 79790,
+      "notes": "Raw public response and numbered text extraction; no account, form or API use."
+    },
+    {
+      "capture_id": "BUY-S01-purplebricks",
+      "url": "https://uk.adp.com/resources/what-others-say/testimonials/p/purplebricks.aspx",
+      "final_url": "https://uk.adp.com/resources/what-others-say/testimonials/p/purplebricks.aspx",
+      "retrieved_at_utc": "2026-10-28T21:03:49.189379+00:00",
+      "http_status": 403,
+      "html_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S01-purplebricks.html",
+      "html_sha256": "4de6e3ea59490e736da048fc7f4f5bdfa9b5a8e8d7e51782b16a7a68b7e64de0",
+      "text_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S01-purplebricks.txt",
+      "text_sha256": "f27d8083731530a830a24cf6c6878dbb1e10019830016d99ebc7adf049b40101",
+      "byte_length": 450,
+      "notes": "Raw public response and numbered text extraction; no account, form or API use."
+    },
+    {
+      "capture_id": "BUY-S02-cipp-post-migration",
+      "url": "https://www.cipp.org.uk/best-practice/consultancy/case-studies/case-study-payroll-operations-post-migration.html",
+      "final_url": "https://www.cipp.org.uk/best-practice/consultancy/case-studies/case-study-payroll-operations-post-migration.html",
+      "retrieved_at_utc": "2026-10-28T21:03:49.956055+00:00",
+      "http_status": 200,
+      "html_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S02-cipp-post-migration.html",
+      "html_sha256": "9f0ffc5cf7fca71b40641c97dd0eea2bc7cb7f54644a5b52b0543176225b1a87",
+      "text_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S02-cipp-post-migration.txt",
+      "text_sha256": "8480fbc6a7e1bfff2bedc15fd26b8e8c4f7d033e037f52aacad39044c8f8a068",
+      "byte_length": 42031,
+      "notes": "Raw public response and numbered text extraction; no account, form or API use."
+    },
+    {
+      "capture_id": "BUY-S03-decjuba",
+      "url": "https://www.oahi.io/case-studies/decjuba",
+      "final_url": "https://www.oahi.io/case-studies/decjuba",
+      "retrieved_at_utc": "2026-10-28T21:03:51.465281+00:00",
+      "http_status": 200,
+      "html_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S03-decjuba.html",
+      "html_sha256": "eae5652079efe38094b3d6ace63785a32a36663dbb588f72b4a4552543250c4e",
+      "text_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S03-decjuba.txt",
+      "text_sha256": "b4842a2068828950deed9e5eecd385b7419f24d4bb464301526d0a1d9820e6d0",
+      "byte_length": 44615,
+      "notes": "Raw public response and numbered text extraction; header retained because supplier placed substantive case article inside header markup; no account, form or API use."
+    },
+    {
+      "capture_id": "BUY-S01-web-reader",
+      "url": "https://uk.adp.com/resources/what-others-say/testimonials/p/purplebricks.aspx",
+      "retrieved_on": "2026-10-29",
+      "method": "web.run original-page extraction, lines 27-90; local HTTP raw fetch separately returned 403",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S01-purplebricks-web-reader.txt",
+      "sha256": "953a251f430f7f2a5a80d305d24341a039202ac3b5b68cfcd46bf7e7c37ac464",
+      "notes": "Public original page was readable through web tool. Raw 403 HTML is a failure artifact, not substantive source capture."
+    },
+    {
+      "capture_id": "SRC-0066-kpmg-ukg-landing",
+      "url": "https://kpmg.com/us/en/articles/2026/global-payroll-survey-report.html",
+      "final_url": "https://kpmg.com/us/en/articles/2026/global-payroll-survey-report.html",
+      "retrieved_at_utc": "2026-10-28T21:05:53.755024+00:00",
+      "http_status": 200,
+      "html_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0066-kpmg-ukg-landing.html",
+      "html_sha256": "f19ee303dfebcafcdd049ea9f707ad11cbf78854583755092ddd8ca41ceeabea",
+      "text_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0066-kpmg-ukg-landing.txt",
+      "text_sha256": "52e378be214ecf085035aa572c151b06e08fdf887fd7d140badc76ac91e43676",
+      "notes": "Existing canonical landing-page source rechecked only; no download form submitted; no full-report finding adopted."
+    },
+    {
+      "capture_id": "SRC-0065-existing-pdf-review",
+      "url": "https://www.irisglobal.com/wp-content/uploads/2025/05/2-26-25-HRdotcom-Future-of-Payroll-2025-Research-Report-IRIS_V3.pdf",
+      "reviewed_on": "2026-10-29",
+      "method": "Existing retained original PDF searched, pages 3, 26 and 40 text inspected; page 26 rendered and visually inspected using PDF skill.",
+      "original_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0065-hrcom-future-payroll-2025.pdf",
+      "original_sha256": "ba2e67d092d84275a7585691f9ec1ac418c4ebc769f5c3b47611f3f85d024cde",
+      "render_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0065-page-26.png",
+      "render_sha256": "ff64a2afbdbc79e125a7a2eac59054e4a034585132e095daed5c86067a8aea89",
+      "notes": "No decision-authority percentage or claim adopted. EOR-selection criteria item does not identify who decided; no hidden item base invented."
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+<!doctype html>
+<!--[if lte IE 8 ]><html lang="en" class="ie8"><![endif]-->
+<!--[if lte IE 9 ]><html lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <title>A guide to controllers and processors | ICO</title>
+    
+
+<meta name="DC.Subject" content="A guide to controllers and processors" />
+<meta name="DC.Date" content="Tuesday, October 22, 2024" />
+<meta name="DC.Creator" content="" />
+<meta name="DC.Publisher" content="ICO" />
+<meta name="DC.Title" content="A guide to controllers and processors" />
+<meta name="DC.PageID" content="5604" />
+
+<meta property="og:title" content="A guide to controllers and processors" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors-a-guide/" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="" />
+
+<meta name="twitter:title" content="A guide to controllers and processors" />
+<meta name="twitter:description" content="" />
+
+<meta name="description" content="" />
+
+
+    
+
+<meta name="robots" content="index" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/media2/lhphq55z/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/css/site.css?v=0MCHJLz1mLyP9Mf9JU-lmpw9JsNIPZLjVUwbmWztk1M" />
+    
+    
+</head>
+<body id="top" class="bg-white min-h-screen ">
+    
+
+    <a class="flex items-center justify-center px-3 py-2 bg-secondary text-white text-xl sr-only focus:relative focus:w-full focus:h-fit" href="#main-content">
+        <span class="font-serif text-serif-base pr-2">Skip to main content</span>
+        <span class="icon icon-arrow-down"></span>
+    </a>
+    <header class="sticky top-0 md:static z-10 md:z-auto print:hidden">
+        <div class="bg-primary">
+            <div class="lg:container px-4 py-3.5 md:flex">
+                <div class="md:pr-8">
+                    
+    <a href="/">
+            <img src="/media2/qkcg1rdf/logo-small.svg?width=80&amp;height=32&amp;v=1db03b868bf60c0" width="80" height="32" alt="" class="inline-block md:hidden" />
+            <img src="/media2/0usjoz4z/ico-header-logo-2026.svg?width=160&amp;height=96&amp;v=1dd4218f9e89300" width="160" height="96" alt="" class="hidden md:inline-block" />
+        <span class="sr-only">Home</span>
+    </a>
+
+                </div>
+                <div class="grow items-stretch hidden md:flex">
+                    
+    <div class="font-serif text-center md:text-left text-white text-serif-base md:flex items-end md:pl-8 border-secondary border-dotted md:border-l-2">
+        <span>The ICO exists to empower you through information.</span>
+    </div>
+
+                </div>
+                <div class="flex flex-col items-end md:pl-8">
+                    
+
+
+
+    <script type="application/json" id="language-settings">
+        {"cookieDomain":"ico.org.uk","options":[{"text":"English","href":"https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors-a-guide/","icon":"icon-lang-en","value":"English"},{"text":"Cymraeg","href":"https://cy.ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors-a-guide/","icon":"icon-lang-cy","value":"Welsh"}]}
+    </script>
+    <div id="language-toggle"></div>
+
+                    <div class="grow flex items-end">
+                        
+
+
+<button type="button" id="search-toggle" class="absolute rounded-sm p-2 top-3 right-12 md:hidden hover:bg-secondary" aria-controls="search">
+    <span id="search-icon" class="block icon icon-search text-white text-xl"></span>
+    <span class="sr-only">Search</span>
+</button>
+
+<div id="search" class="motion-safe:transition-all motion-safe:duration-200 hidden md:block w-full sm:w-fit max-h-0 md:max-h-fit overflow-hidden md:overflow-auto">
+    <form action="https://icosearch.ico.org.uk/s/search.html" method="GET" id="search-form" class="pt-3.5 md:pt-0">
+
+                <input type="hidden" name="collection" value="ico~sp-search" />
+                <input type="hidden" name="profile" value="_default" />
+
+        <div class="flex">
+            <label for="search-query" aria-hidden="false" class="sr-only">Search</label>
+            <input type="search"
+                   name="query"
+                   id="search-query"
+                   class="grow min-w-0 px-2 py-1 border-t border-b border-l border-r-0 border-white/50 focus:border-white focus:ring-0 rounded-l bg-secondary motion-safe:transition-colors hocus:bg-white text-white hocus:text-black sm:w-60 md:w-48" />
+            <button type="submit" class="text-transparent bg-secondary rounded-r p-2 border-t border-b border-r border-white/50">
+                <span class="block text-white text-xl icon icon-search"></span>
+                <span class="sr-only">Search</span>
+            </button>
+        </div>
+    </form>
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-secondary">
+            <div class="lg:container md:px-4">
+                
+
+    <button type="button" id="navbar-toggle" class="absolute rounded-sm p-2 top-3 right-3 md:hidden hover:bg-secondary" aria-controls="navbar">
+        <span class="block icon icon-menu text-white text-xl"></span>
+        <span class="sr-only">Menu</span>
+    </button>
+    <nav id="navbar" class="bg-secondary motion-safe:transition-all motion-safe:duration-200 hidden md:block max-h-0 md:max-h-fit overflow-hidden md:overflow-auto">
+        <ul class="border-primary border-dotted border-t-2 md:border-t-0 md:flex md:flex-wrap">
+                    <li class="md:flex">
+                        <a href="/"
+                           class="relative flex justify-between items-center text-white text-serif-lg md:text-base whitespace-nowrap md:whitespace-normal pl-9 md:pl-3 pr-4 md:pr-3 py-2 md:py-1 font-serif md:font-sans before:absolute before:w-2.5 before:top-2 before:bottom-2 before:left-4 md:before:hidden md:border-y-5 md:border-transparent before:bg-theme-grey md:hover:border-t-theme-grey">
+                            <span>Home</span>
+                            <span class="icon icon-arrow-right text-xl md:hidden"></span>
+                        </a>
+                    </li>
+                    <li class="md:flex">
+                        <a href="/for-the-public/"
+                           class="relative flex justify-between items-center text-white text-serif-lg md:text-base whitespace-nowrap md:whitespace-normal pl-9 md:pl-3 pr-4 md:pr-3 py-2 md:py-1 font-serif md:font-sans before:absolute before:w-2.5 before:top-2 before:bottom-2 before:left-4 md:before:hidden md:border-y-5 md:border-transparent before:bg-theme-green md:hover:border-t-theme-green">
+                            <span>For the public</span>
+                            <span class="icon icon-arrow-right text-xl md:hidden"></span>
+                        </a>
+                    </li>
+                    <li class="md:flex">
+                        <a href="/for-organisations/"
+                           class="relative flex justify-between items-center text-white text-serif-lg md:text-base whitespace-nowrap md:whitespace-normal pl-9 md:pl-3 pr-4 md:pr-3 py-2 md:py-1 font-serif md:font-sans before:absolute before:w-2.5 before:top-2 before:bottom-2 before:left-4 md:before:hidden md:border-y-5 md:border-transparent before:bg-theme-yellow md:hover:border-t-theme-yellow bg-primary md:border-t-theme-yellow">
+                            <span>For organisations</span>
+                            <span class="icon icon-arrow-right text-xl md:hidden"></span>
+                        </a>
+                    </li>
+                    <li class="md:flex">
+                        <a href="/make-a-complaint/"
+                           class="relative flex justify-between items-center text-white text-serif-lg md:text-base whitespace-nowrap md:whitespace-normal pl-9 md:pl-3 pr-4 md:pr-3 py-2 md:py-1 font-serif md:font-sans before:absolute before:w-2.5 before:top-2 before:bottom-2 before:left-4 md:before:hidden md:border-y-5 md:border-transparent before:bg-theme-orange md:hover:border-t-theme-orange">
+                            <span>Make a complaint</span>
+                            <span class="icon icon-arrow-right text-xl md:hidden"></span>
+                        </a>
+                    </li>
+                    <li class="md:flex">
+                        <a href="/action-weve-taken/"
+                           class="relative flex justify-between items-center text-white text-serif-lg md:text-base whitespace-nowrap md:whitespace-normal pl-9 md:pl-3 pr-4 md:pr-3 py-2 md:py-1 font-serif md:font-sans before:absolute before:w-2.5 before:top-2 before:bottom-2 before:left-4 md:before:hidden md:border-y-5 md:border-transparent before:bg-theme-red md:hover:border-t-theme-red">
+                            <span>Action we&#x27;ve taken</span>
+                            <span class="icon icon-arrow-right text-xl md:hidden"></span>
+                        </a>
+                    </li>
+                    <li class="md:flex">
+                        <a href="/about-the-ico/"
+                           class="relative flex justify-between items-center text-white text-serif-lg md:text-base whitespace-nowrap md:whitespace-normal pl-9 md:pl-3 pr-4 md:pr-3 py-2 md:py-1 font-serif md:font-sans before:absolute before:w-2.5 before:top-2 before:bottom-2 before:left-4 md:before:hidden md:border-y-5 md:border-transparent before:bg-theme-blue md:hover:border-t-theme-blue">
+                            <span>About the ICO</span>
+                            <span class="icon icon-arrow-right text-xl md:hidden"></span>
+                        </a>
+                    </li>
+        </ul>
+    </nav>
+
+            </div>
+        </div>
+    </header>
+    <main id="main-content" class="pt-20 md:pt-0 md:mt-7 mb-3 md:mb-4">
+            <div class="lg:container px-4 mb-4 print:hidden">
+                
+    <nav aria-label="breadcrumb">
+        <ul class="flex flex-wrap text-sm gap-1">
+                <li>
+                        <span class="after:content-['/'] after:mx-1">
+                            <a href="/for-organisations/" class="my-[-0.5em] py-[0.5em] text-link hover:underline">For organisations</a>
+                        </span>
+                </li>
+                <li>
+                        <span class="after:content-['/'] after:mx-1">
+                            <a href="/for-organisations/uk-gdpr-guidance-and-resources/" class="my-[-0.5em] py-[0.5em] text-link hover:underline">UK GDPR guidance and resources</a>
+                        </span>
+                </li>
+                <li>
+                        <span class="after:content-['/'] after:mx-1">
+                            <a href="/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/" class="my-[-0.5em] py-[0.5em] text-link hover:underline">Controllers and processors</a>
+                        </span>
+                </li>
+                <li>
+                        <span class="my-[-0.5em] py-[0.5em]">A guide to controllers and processors</span>
+                </li>
+        </ul>
+    </nav>
+
+            </div>
+        <div class="lg:container px-4">
+                <div class="border-dotted border-b-2 border-neutral-200 pb-2 sm:pb-3.5 md:pb-6 mb-2 sm:mb-3.5 md:mb-5">
+                    <div class="md:flex md:items-center md:justify-between md:gap-10">
+                        <h1 class="py-0.5 font-serif leading-none sm:border-l-10 sm:pl-3 text-serif-2xl sm:text-serif-3xl border-theme-yellow">A guide to controllers and processors</h1>
+                    </div>
+                </div>
+            
+
+<ul class="mb-2 sm:mb-3.5 md:mb-5">
+        <li class="mt-2 sm:mt-3.5 md:mt-5">
+            
+<div class="umb-block-grid"
+     data-grid-columns="12;"
+     style="--umb-block-grid--grid-columns: 12;">
+    
+
+<div class="umb-block-grid__layout-container">
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="richTextBlock"
+             data-content-element-type-key="d7ec1d8a-2a00-439e-95b4-9f3537f5ece4"
+             data-element-udi="umb://element/766e3ac5b52c4d35a555681fb1c71d93"
+             data-col-span="12"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+
+<div class="rich-text">
+    <div class="prose prose-theme-yellow">
+        <div class="rt-block rt-amber">
+<p>Due to changes made by the Data (Use and Access) Act, this guidance is under review and may be subject to change. The&nbsp;<a href="/about-the-ico/what-we-do/our-plans-for-new-and-updated-guidance/" title="Our plans for new and updated guidance">Plans for new and updated guidance page</a> will tell you about which guidance will be updated and when this will happen.</p>
+</div>
+    </div>
+</div>
+        </div>
+</div>
+
+</div>
+
+        </li>
+</ul>
+
+            
+
+<div class="umb-block-grid"
+     data-grid-columns="12;"
+     style="--umb-block-grid--grid-columns: 12;">
+    
+
+<div class="umb-block-grid__layout-container">
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="rightAsideLayout"
+             data-content-element-type-key="7ca5bc32-4d2c-4fe0-90a2-b8a3541e892f"
+             data-element-udi="umb://element/07e7c2afb6644766af7da5311a6b3901"
+             data-col-span="12"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+
+
+<div class="umb-block-grid__area-container"
+     style="--umb-block-grid--area-grid-columns: 12;">
+
+<div class="umb-block-grid__area"
+     data-area-col-span="9"
+     data-area-row-span="1"
+     data-area-alias="left"
+     style="--umb-block-grid--grid-columns: 9;--umb-block-grid--area-column-span: 9; --umb-block-grid--area-row-span: 1;">
+    
+
+<div class="umb-block-grid__layout-container">
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="detailsBlock"
+             data-content-element-type-key="86269f89-de24-4579-bb82-a384f2ebac89"
+             data-element-udi="umb://element/6f12e5cbcd2b440daf45415a8cfff9cd"
+             data-col-span="9"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 9; --umb-block-grid--item-row-span: 1; ">
+
+<span class="hidden" id="2a208e1e-c293-42ca-b2e9-ef8a1784b52c">Click to toggle details</span>
+
+<div class="prose prose-theme-yellow">
+    <details>
+        <summary aria-describedby="2a208e1e-c293-42ca-b2e9-ef8a1784b52c">Latest updates</summary>
+        <div>
+            <p><strong>19 May 2023</strong> - we have broken the Guide to the UK GDPR down into smaller guides. All the content stays the same.</p>
+        </div>
+    </details>
+</div>
+        </div>
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="richTextBlock"
+             data-content-element-type-key="d7ec1d8a-2a00-439e-95b4-9f3537f5ece4"
+             data-element-udi="umb://element/db5221dcd35b47dc973bf5b3fb84fb45"
+             data-col-span="9"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 9; --umb-block-grid--item-row-span: 1; ">
+
+<div class="rich-text">
+    <div class="prose prose-theme-yellow">
+        <h2>At a glance</h2>
+<ul>
+<li>Understanding your role in relation to the personal data you are processing is crucial in ensuring compliance with the UK GDPR and the fair treatment of individuals.</li>
+<li>Your obligations under the UK GDPR will vary depending on whether you are a controller, joint controller or processor.</li>
+<li>The ICO has the power to take action against controllers and processors under the UK GDPR.</li>
+<li>Individuals can bring claims for compensation and damages against both controllers and processors.</li>
+<li>You should take the time to assess, and document, the status of each organisation you work with in respect of all the personal data and processing activities you carry out.</li>
+<li>Whether you are a controller or processor depends on a number of issues. The key question is – who determines the purposes for which the data are processed and the means of processing?</li>
+<li>Organisations that determine the purposes and means of processing will be controllers regardless of how they are described in any contract about processing services.</li>
+</ul>
+<h2>Checklists</h2>
+<p>The following checklists set out indicators as to whether you are a controller, a processor or a joint controller. The more boxes you tick, the more likely you are to fall within the relevant category.</p>
+<h3>Are we a controller?</h3>
+<div class="rt-block rt-letter">
+<p><span>☐</span> We decided to collect or process the personal data.</p>
+<p><span>☐</span> We decided what the purpose or outcome of the processing was to be.</p>
+<p><span>☐</span> We decided what personal data should be collected.</p>
+<p><span>☐</span> We decided which individuals to collect personal data about.</p>
+<p><span>☐</span> We obtain a commercial gain or other benefit from the processing, except for any payment for services from another controller.</p>
+<p><span>☐</span> We are processing the personal data as a result of a contract between us and the data subject.</p>
+<p><span>☐</span> The data subjects are our employees.</p>
+<p><span>☐</span> We make decisions about the individuals concerned as part of or as a result of the processing.</p>
+<p><span>☐</span> We exercise professional judgement in the processing of the personal data.</p>
+<p><span>☐</span> We have a direct relationship with the data subjects.</p>
+<p><span>☐</span> We have complete autonomy as to how the personal data is processed.</p>
+<p><span>☐</span> We have appointed the processors to process the personal data on our behalf.</p>
+</div>
+<h3>Are we a joint controller?</h3>
+<div class="rt-block rt-letter">
+<p><span>☐</span> We have a common objective with others regarding the processing.</p>
+<p><span>☐</span> We are processing the personal data for the same purpose as another controller.</p>
+<p><span>☐</span> We are using the same set of personal data (eg one database) for this processing as another controller.</p>
+<p><span>☐</span> We have designed this process with another controller.</p>
+<p><span>☐</span> We have common information management rules with another controller.</p>
+</div>
+<h3>Are we a processor?</h3>
+<div class="rt-block rt-letter">
+<p><span>☐</span> We are following instructions from someone else regarding the processing of personal data.</p>
+<p><span>☐</span> We were given the personal data by a customer or similar third party, or told what data to collect.</p>
+<p><span>☐</span> We do not decide to collect personal data from individuals.</p>
+<p><span>☐</span> We do not decide what personal data should be collected from individuals.</p>
+<p><span>☐</span> We do not decide the lawful basis for the use of that data.</p>
+<p><span>☐</span> We do not decide what purpose or purposes the data will be used for.</p>
+<p><span>☐</span> We do not decide whether to disclose the data, or to whom.</p>
+<p><span>☐</span> We do not decide how long to retain the data.</p>
+<p><span>☐</span> We may make some decisions on how data is processed, but implement these decisions under a contract with someone else.</p>
+<p><span>☐</span> We are not interested in the end result of the processing.</p>
+</div>
+<h2>In brief</h2>
+<ul>
+<li><a href="#2">What are ‘controllers’ and ‘processors’?</a></li>
+<li><a href="#3">How do you determine whether you are a controller or processor?</a></li>
+<li><a href="#4">What does it mean if you are a controller?</a></li>
+<li><a href="#5">What does it mean if you are a processor?</a></li>
+<li><a href="#6">What does it mean if you are joint controllers?</a></li>
+<li><a data-id="2213c811-88a5-4ae5-bfc7-bc4b08af71d5" href="/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors/" title="Controllers and processors">In more detail</a></li>
+</ul>
+<h3>What are ‘controllers’ and ‘processors’?<a id="2"></a></h3>
+<p>Controllers are the main decision-makers – they exercise overall control over the purposes and means of the processing of personal data.</p>
+<p>If two or more controllers jointly determine the purposes and means of the processing of the same personal data, they are joint controllers. However, they are not joint controllers if they are processing the same data for different purposes.</p>
+<p>Processors act on behalf of, and only on the instructions of, the relevant controller.</p>
+<h3>How do you determine whether you are a controller or processor?<a id="3"></a></h3>
+<p>You should be able to differentiate between controllers, joint controllers and processors so you understand which UK GDPR obligations apply to which organisation.</p>
+<p>To determine whether you are a controller or processor, you will need to consider your role and responsibilities in relation to your data processing activities.</p>
+<p>If you exercise overall control of the purpose and means of the processing of personal data – ie, you decide what data to process and why – you are a controller.</p>
+<p>If you don’t have any purpose of your own for processing the data and you only act on a client’s instructions, you are likely to be a processor – even if you make some technical decisions about how you process the data.</p>
+<h3>What does it mean if you are a controller?<a id="4"></a></h3>
+<p>Controllers shoulder the highest level of compliance responsibility – you must comply with, and demonstrate compliance with, all the data protection principles as well as the other UK GDPR requirements. You are also responsible for the compliance of your processor(s).</p>
+<p>The Information Commissioner’s Office (ICO) and individuals may take action against a controller regarding a breach of its obligations.</p>
+<p>Controllers in the UK must pay the data protection fee, unless they are exempt.</p>
+<h3>What does it mean if you are a processor?<a id="5"></a></h3>
+<p>Processors do not have the same obligations as controllers under the UK GDPR and do not have to pay a data protection fee. However, if you are a processor, you do have a number of direct obligations of your own under the UK GDPR.</p>
+<p>Both the ICO and individuals may take action against a processor regarding a breach of those obligations.</p>
+<h3>What does it mean if you are joint controllers?<a id="6"></a></h3>
+<p>Joint controllers must arrange between themselves who will take primary responsibility for complying with UK GDPR obligations, and in particular transparency obligations and individuals’ rights. They should make this information available to individuals.</p>
+<p>However, all joint controllers remain responsible for compliance with the controller obligations under the UK GDPR. Both the ICO and individuals may take action against any controller regarding a breach of those obligations.</p>
+    </div>
+</div>
+        </div>
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="furtherReadingBlock"
+             data-content-element-type-key="349dc532-9e3f-4f24-9fa4-2e5b86aa0eda"
+             data-element-udi="umb://element/158386685d3a4407a00b0c751eec1afa"
+             data-col-span="9"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 9; --umb-block-grid--item-row-span: 1; ">
+
+
+
+<further-Reading x-href="https://www.legislation.gov.uk/eur/2016/679/contents"
+                 x-target="_blank"
+                 x-title="Relevant provisions in the UK GDPR - See Articles 4(7), 4(8), 5(1), 5(2), 26, 28 &#x2013; 36 and Recitals 28, 79, 81 &#x2013; 83"
+                 x-location="External link"></further-Reading>
+        </div>
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="richTextBlock"
+             data-content-element-type-key="d7ec1d8a-2a00-439e-95b4-9f3537f5ece4"
+             data-element-udi="umb://element/74290aaa8ae843e59da60af442b3a906"
+             data-col-span="9"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 9; --umb-block-grid--item-row-span: 1; ">
+
+<div class="rich-text">
+    <div class="prose prose-theme-yellow">
+        <div class="rt-block rt-green">
+<p><strong>Further reading – ICO guidance</strong></p>
+<p><a data-id="1855f296-e0d4-4e66-a777-970b7a83ff58" href="/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/contracts-and-liabilities-between-controllers-and-processors-multi/" title="Contracts and liabilities between controllers and processors">Contracts and liabilities between controllers and processors</a></p>
+</div>
+<p> </p>
+<div class="rt-block rt-green">
+<p><strong>In more detail – ICO guidance</strong></p>
+<p>We have produced <a data-id="2213c811-88a5-4ae5-bfc7-bc4b08af71d5" href="/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors/" title="Controllers and processors (1)">more detailed guidance on controllers and processors</a> </p>
+</div>
+    </div>
+</div>
+        </div>
+</div>
+
+</div>
+
+<div class="umb-block-grid__area"
+     data-area-col-span="3"
+     data-area-row-span="1"
+     data-area-alias="right"
+     style="--umb-block-grid--grid-columns: 3;--umb-block-grid--area-column-span: 3; --umb-block-grid--area-row-span: 1;">
+    
+
+<div class="umb-block-grid__layout-container">
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="actionLinkBlock"
+             data-content-element-type-key="3cbb3d60-8c37-4306-8aa9-266982d84f91"
+             data-element-udi="umb://element/7cdaf28c36f24f4ebf1a408ac8470630"
+             data-col-span="3"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 3; --umb-block-grid--item-row-span: 1; ">
+
+
+
+<action-link x-href="https://www.smartsurvey.co.uk/s/ico-web-survey"
+             x-target="_blank"
+             x-text="ICO website user feedback survey"
+             x-theme="yellow"></action-link>
+        </div>
+</div>
+
+</div>
+</div>
+
+        </div>
+</div>
+
+</div>
+
+
+        </div>
+    </main>
+    
+<a href="#top"
+   id="button-top"
+   class="transition-opacity duration-500 flex items-center justify-center fixed right-4 bottom-4 z-10 rounded-full outline outline-white w-8 h-8 bg-primary opacity-0 hidden print:hidden">
+    <span class="icon icon-arrow-up text-white"></span>
+    <span class="sr-only">Back to top</span>
+</a>
+
+    <footer class="sticky top-[100vh] print:hidden">
+        
+<div class="lg:container px-4 border-t-2 border-dotted border-neutral-200 mt-6">
+    <div class="py-3">
+        <button type="button"
+                class="flex items-center group"
+                onClick="window.print()">
+            <i class="icon icon-printer text-lg text-white rounded-full p-1 bg-neutral-400"></i>
+            <span class="ml-2 text-sm text-link group-hover:underline">Print this page</span>
+        </button>
+    </div>
+</div>
+
+        <div class="bg-neutral-100">
+            <div class="lg:container px-4">
+                <div class="py-5 flex">
+                    <div class="hidden md:block flex-auto">
+                        
+    <ul class="grid gap-4 grid-cols-4">
+            <li>
+                    <div class="mb-3">
+                        <a href="/for-the-public/"
+                           class="font-serif text-serif-base text-link py-[0.2em] inline-block hover:underline">For the public</a>
+                    </div>
+                    <ul class="text-sm text-neutral-600 -mt-1">
+                            <li>
+                                <a href="/for-the-public/official-information/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Official information</a>
+                            </li>
+                            <li>
+                                <a href="/for-the-public/nuisance-calls/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Nuisance calls</a>
+                            </li>
+                    </ul>
+            </li>
+            <li>
+                    <div class="mb-3">
+                        <a href="/for-organisations/"
+                           class="font-serif text-serif-base text-link py-[0.2em] inline-block hover:underline">For organisations</a>
+                    </div>
+                    <ul class="text-sm text-neutral-600 -mt-1">
+                            <li>
+                                <a href="/for-organisations/uk-gdpr-guidance-and-resources/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">UK GDPR guidance and resources</a>
+                            </li>
+                            <li>
+                                <a href="/for-organisations/foi/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Freedom of information</a>
+                            </li>
+                            <li>
+                                <a href="/for-organisations/eir-and-access-to-information/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">EIR and access to information</a>
+                            </li>
+                            <li>
+                                <a href="/for-organisations/direct-marketing-and-privacy-and-electronic-communications/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Direct marketing</a>
+                            </li>
+                            <li>
+                                <a href="/for-organisations/advice-and-services/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Advice and services</a>
+                            </li>
+                    </ul>
+            </li>
+            <li>
+                    <div class="mb-3">
+                        <a href="/action-weve-taken/"
+                           class="font-serif text-serif-base text-link py-[0.2em] inline-block hover:underline">Action we&#x27;ve taken</a>
+                    </div>
+                    <ul class="text-sm text-neutral-600 -mt-1">
+                            <li>
+                                <a href="/action-weve-taken/enforcement/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Enforcement action</a>
+                            </li>
+                            <li>
+                                <a href="/action-weve-taken/decision-notices/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Decision notices</a>
+                            </li>
+                            <li>
+                                <a href="/action-weve-taken/audits-and-overview-reports/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Audits and overview reports</a>
+                            </li>
+                    </ul>
+            </li>
+            <li>
+                    <div class="mb-3">
+                        <a href="/about-the-ico/"
+                           class="font-serif text-serif-base text-link py-[0.2em] inline-block hover:underline">About the ICO</a>
+                    </div>
+                    <ul class="text-sm text-neutral-600 -mt-1">
+                            <li>
+                                <a href="/about-the-ico/what-we-do/register-of-fee-payers/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Download registration certificate</a>
+                            </li>
+                            <li>
+                                <a href="/about-the-ico/who-we-are/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Who we are</a>
+                            </li>
+                            <li>
+                                <a href="/about-the-ico/what-we-do/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">What we do</a>
+                            </li>
+                            <li>
+                                <a href="/about-the-ico/media-centre/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Media centre</a>
+                            </li>
+                            <li>
+                                <a href="/about-the-ico/jobs/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Careers</a>
+                            </li>
+                            <li>
+                                <a href="/about-the-ico/modern-slavery-statement/"
+                                   class="hover:underline min-h-[22px] mb-[5px] inline-block">Modern slavery statement</a>
+                            </li>
+                    </ul>
+            </li>
+    </ul>
+
+                    </div>
+                    <div class="hidden md:block flex-auto mx-8 border-l-2 border-dotted border-neutral-400">
+                    </div>
+                    <div class="flex-auto">
+                        
+        <div class="font-serif text-serif-base text-link mb-3">Follow us</div>
+    <ul class="flex flex-col sm:flex-row md:flex-col sm:flex-wrap sm:gap-x-4 gap-y-2 text-sm text-neutral-600">
+
+                <li class="sm:flex-auto md:flex-none">
+
+                    <a class="flex items-center hover:underline"
+                       href="https://www.linkedin.com/company/information-commissions-office-ico"
+                       target="_blank">
+
+                            <img class="rounded-full mr-2" src="/media2/cgdpvn4n/linkedin.svg?width=24&amp;height=24&amp;v=1db042ab2dda7d0" width="24" height="24" alt="Icon for the LinkedIn social link" loading="lazy" />
+
+                        <span>LinkedIn</span>
+
+                    </a>
+                </li>
+                <li class="sm:flex-auto md:flex-none">
+
+                    <a class="flex items-center hover:underline"
+                       href="http://facebook.com/ICOnews"
+                       target="_blank">
+
+                            <img class="rounded-full mr-2" src="/media2/g2nhkyjv/facebook.svg?width=24&amp;height=24&amp;v=1db03b86b4b62d0" width="24" height="24" alt="Icon for the Facebook social link" loading="lazy" />
+
+                        <span>Facebook</span>
+
+                    </a>
+                </li>
+                <li class="sm:flex-auto md:flex-none">
+
+                    <a class="flex items-center hover:underline"
+                       href="https://x.com/iconews"
+                       target="_blank">
+
+                            <img class="rounded-full mr-2" src="/media2/3e3molj2/x-logo-1.svg?width=24&amp;height=24&amp;v=1db7d782a8d9170" width="24" height="24" alt="Icon for the X social link" loading="lazy" />
+
+                        <span>X</span>
+
+                    </a>
+                </li>
+                <li class="sm:flex-auto md:flex-none">
+
+                    <a class="flex items-center hover:underline"
+                       href="http://www.youtube.com/user/icocomms"
+                       target="_blank">
+
+                            <img class="rounded-full mr-2" src="/media2/z3vdkkxj/youtube.svg?width=24&amp;height=24&amp;v=1db042ab32beee0" width="24" height="24" alt="Icon for the YouTube social link" loading="lazy" />
+
+                        <span>YouTube</span>
+
+                    </a>
+                </li>
+
+    </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-secondary">
+            <div class="lg:container px-4">
+                <div class="py-3 md:hidden">
+                    
+    <div class="font-serif text-center md:text-left text-white text-serif-base md:flex items-end md:pl-8 border-secondary border-dotted md:border-l-2">
+        <span>The ICO exists to empower you through information.</span>
+    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="bg-primary">
+            <div class="lg:container px-4">
+                <div class="pt-2">
+                    
+    <ul class="-mx-3 flex flex-wrap text-white text-sm md:text-base">
+                <li class="mx-3 my-1">
+                    <a href="/global/contact-us/"
+                       class="hover:underline">Contact us</a>
+                </li>
+                <li class="mx-3 my-1">
+                    <a href="/global/privacy-notice/"
+                       class="hover:underline">Privacy notice</a>
+                </li>
+                <li class="mx-3 my-1">
+                    <a href="/global/cookies/"
+                       class="hover:underline">Cookies</a>
+                </li>
+                <li class="mx-3 my-1">
+                    <a href="/global/accessibility/"
+                       class="hover:underline">Accessibility</a>
+                </li>
+                <li class="mx-3 my-1">
+                    <a href="/about-the-ico/who-we-are/wales-office/"
+                       class="hover:underline">Cymraeg</a>
+                </li>
+                <li class="mx-3 my-1">
+                    <a href="/global/disclaimer/"
+                       class="hover:underline">Disclaimer</a>
+                </li>
+                <li class="mx-3 my-1">
+                    <a href="/global/copyright-and-re-use-of-materials/"
+                       class="hover:underline">&#xA9; Copyright</a>
+                </li>
+    </ul>
+
+                </div>
+                <div class="py-5">
+                        <div class="md:flex md:items-center">
+
+            <div class="pr-4 mb-2 md:mb-0">
+                <img class="w-10" src="/media2/r34b3hma/ogl.png?width=40&amp;height=16&amp;v=1dc6f3b2af11af0" width="40" height="16" alt="OGL logo" loading="lazy" />
+            </div>
+        
+        <div class="prose footer-rich-text">
+            <p>All text content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, except where otherwise stated.</p>
+        </div>
+    </div>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <script type="text/javascript" defer src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.11.min.js"></script>
+    <script type="application/json" id="cookie-settings">
+        {"apiKey":"dbf86e044f3ab8c4df852af5c7c6ceb2dd7678dd","necessaryCookies":[".AspNetCore.Antiforgery.*","banner.*","language"],"statement":{"description":"For more detailed information, see our","name":"Cookies page","url":"/global/cookies/","updated":"17/12/2024"},"text":{"title":"Cookies on the ICO website","intro":"We use some essential cookies to make this site work. We also set analytics cookies to understand how you use this site. We may use services from Vimeo and YouTube that may also use cookies.","acceptSettings":"Accept non-essential cookies","rejectSettings":"Reject non-essential cookies","necessaryTitle":"Essential cookies","necessaryDescription":"These cookies are necessary for core functionality, such as security and network management. They always need to be on.","closeLabel":"Save and close","cornerButton":"Cookie options","on":"On","off":"Off"},"optionalCookies":[{"name":"analytics","label":"Analytics cookies","description":"We use Silktide to measure how you use the ICO website. These cookies collect information about how you got to the site, the pages you visit and how long you spend on each page, and what you click on.","lawfulBasis":"legitimate interest"},{"name":"videoPlayer","label":"Video player cookies","description":"Some pages of the ICO website include videos hosted on Vimeo and YouTube. If you enable this setting, this may result in the video sharing platform collecting information about your viewing for analytics and advertising purposes. If you don\u2019t enable this setting, the pages will include external links instead."}]}
+    </script>
+
+    
+<script type="text/plain" id="silktide-settings">12d0c703744ea255b679f823daf1645f</script>
+    <script type="text/javascript" defer src="/js/index.js?v=UJFv7RSenKNL2I8oYG-0zOiZdwn6GqOTdlv5A102NDk"></script>
+    
+    
+
+    
+</body>
+</html>

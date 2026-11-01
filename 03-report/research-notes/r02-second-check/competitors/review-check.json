@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-28",
+  "source_candidates": 8,
+  "claim_candidates": 8,
+  "original_html_captures": 5,
+  "all_capture_hashes_verified": true,
+  "firms_covered": [
+    "JGA Recruitment",
+    "Portfolio Payroll",
+    "Frazer Jones",
+    "Oakleaf Partnership",
+    "Middlemore",
+    "Hays",
+    "Robert Half"
+  ],
+  "no_prompt_reruns": true,
+  "canonical_or_client_files_changed": false,
+  "external_actions": []
+}

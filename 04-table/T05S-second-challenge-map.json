@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-01",
+  "status": "second_challenge_reviewed_required_programme_refinements_recorded",
+  "reviewer": "same_agent_second_check",
+  "independent_agent_review": false,
+  "first_component_map_path": "04-table/T05-service-cost-map.json",
+  "first_component_workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+  "first_component_workbook_sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e",
+  "first_component_tasks_preserved": 21,
+  "first_component_units_preserved": 15,
+  "all_financial_inputs_preserved": 70,
+  "workbook_changed": false,
+  "financial_inputs_changed": false,
+  "first_component_arithmetic_error_identified": false,
+  "programme_noncompletion_and_exception_work_still_required": true,
+  "conditions": [
+    {
+      "condition_id": "SS01",
+      "name": "Count incurred work and completion separately",
+      "context": "A cancelled or deferred service, no-show, failed proposal or partial delivery can consume labour without producing a completed unit.",
+      "programme_implication": "Retain actual preparation/handling as an exception or supported allocation. A zero delivered count must not erase incurred work; no completed-unit denominator exists when none were delivered.",
+      "workload_ids": [
+        "WS03",
+        "WS04",
+        "WS05",
+        "WS06",
+        "WS13",
+        "WS14",
+        "WS15",
+        "WS16",
+        "WS18"
+      ],
+      "claim_ids": [
+        "CLM-0588",
+        "CLM-0596"
+      ]
+    },
+    {
+      "condition_id": "SS02",
+      "name": "Confirm audience fit and actual people-time",
+      "context": "Shared sessions require compatible questions, permitted participants, confidentiality and a capable available owner.",
+      "programme_implication": "Count one actual session where suitable, separate incompatible sessions where necessary, and all genuine presenter/reviewer person-time. Do not multiply the whole task by every nominal role.",
+      "workload_ids": [
+        "WS07",
+        "WS09",
+        "WS13",
+        "WS14",
+        "WS15"
+      ],
+      "claim_ids": [
+        "CLM-0594",
+        "CLM-0595",
+        "CLM-0597"
+      ]
+    },
+    {
+      "condition_id": "SS03",
+      "name": "Identify the shared asset and recipient handling",
+      "context": "Reuse depends on the exact asset/version, task and necessary new work. A run may have shared and recipient-specific work.",
+      "programme_implication": "Credit only the saved task once; retain actual routing, permissions, exception handling and genuinely distinct follow-through. Free/bundled access and effort remain separate.",
+      "workload_ids": [
+        "WS01",
+        "WS08",
+        "WS09",
+        "WS10",
+        "WS11",
+        "WS12",
+        "WS13",
+        "WS15",
+        "WS18",
+        "WS20",
+        "WS21"
+      ],
+      "claim_ids": [
+        "CLM-0589",
+        "CLM-0591",
+        "CLM-0592",
+        "CLM-0597"
+      ]
+    },
+    {
+      "condition_id": "SS04",
+      "name": "Match the commercial task and current evidence",
+      "context": "Guides, salary interpretation, search analytics and payroll investment research support different decisions. Edition labels and underlying evidence periods differ.",
+      "programme_implication": "Test whether the proposed paid use adds value to existing public/bundled alternatives. Match task/country/evidence before scoping. Public offers are not achieved demand or labour quotes.",
+      "workload_ids": [
+        "WS01",
+        "WS04",
+        "WS05",
+        "WS08",
+        "WS09",
+        "WS13"
+      ],
+      "claim_ids": [
+        "CLM-0586",
+        "CLM-0589",
+        "CLM-0590",
+        "CLM-0591",
+        "CLM-0593",
+        "CLM-0594",
+        "CLM-0598"
+      ]
+    },
+    {
+      "condition_id": "SS05",
+      "name": "Carry remaining obligations over the actual term",
+      "context": "Order, invoice, cash receipt, delivery, support and end of new sales are different states and dates.",
+      "programme_implication": "Record scoped benefit periods and work still owed, including after a campaign closes. A short period cost is not the cost of an entire promise. Renewal remains unassumed.",
+      "workload_ids": [
+        "WS02",
+        "WS07",
+        "WS10",
+        "WS11",
+        "WS12",
+        "WS15",
+        "WS17",
+        "WS18",
+        "WS19",
+        "WS20"
+      ],
+      "claim_ids": [
+        "CLM-0587",
+        "CLM-0588",
+        "CLM-0598"
+      ]
+    },
+    {
+      "condition_id": "SS06",
+      "name": "Select a capable delivery route before a resource rate",
+      "context": "Research and editorial coordination proxies do not establish commercial pay, financial/rights expertise, supplier availability or additional cash.",
+      "programme_implication": "Keep the commercial rate unknown. Reconcile quoted packages, actual tasks and retained work once; include non-labour costs separately before pricing or a full programme conclusion.",
+      "workload_ids": [
+        "WS01",
+        "WS02",
+        "WS04",
+        "WS05",
+        "WS07",
+        "WS09",
+        "WS13",
+        "WS14",
+        "WS17",
+        "WS18"
+      ],
+      "claim_ids": [
+        "CLM-0587",
+        "CLM-0593",
+        "CLM-0595",
+        "CLM-0598"
+      ]
+    }
+  ],
+  "source_ids": [
+    "SRC-0280",
+    "SRC-0281",
+    "SRC-0190",
+    "SRC-0221",
+    "SRC-0257",
+    "SRC-0116",
+    "SRC-0192",
+    "SRC-0193",
+    "SRC-0088",
+    "SRC-0277",
+    "SRC-0279"
+  ],
+  "claim_ids": [
+    "CLM-0586",
+    "CLM-0587",
+    "CLM-0588",
+    "CLM-0589",
+    "CLM-0590",
+    "CLM-0591",
+    "CLM-0592",
+    "CLM-0593",
+    "CLM-0594",
+    "CLM-0595",
+    "CLM-0596",
+    "CLM-0597",
+    "CLM-0598"
+  ],
+  "cost_applications_path": "04-table/research-notes/t05s-second-check/cost-applications.json",
+  "prior_study_bridge_path": "04-table/research-notes/t05s-second-check/prior-study/prior-study-bridge.json",
+  "fourteen_core_questions_unchanged": true,
+  "current_contract_fee_changed": false,
+  "practitioner_free_full_research_preserved": true,
+  "new_case_or_geography_quota": false,
+  "actual_quotes": [],
+  "actual_staffing": [],
+  "actual_customers": [],
+  "actual_participants": [],
+  "actual_savings": [],
+  "external_actions": [],
+  "full_financial_model_complete": false,
+  "review_checks_path": "08-qa/t05s-second-review/review-checks.json"
+}

@@ -1,0 +1,190 @@
+{
+  "records": [
+    {
+      "claim_id": "CLM-0628",
+      "source_ids": [
+        "SRC-0296"
+      ],
+      "locator": "Cash flow and profit sections",
+      "claim_text": "The British Business Bank distinguishes cash timing from profitability and describes shortfalls when outgoings precede customer payment.",
+      "evidence_class": "official_guidance",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "No specific funding buffer, debt product, JGA forecast or current economic conclusion adopted.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C01"
+    },
+    {
+      "claim_id": "CLM-0629",
+      "source_ids": [
+        "SRC-0297"
+      ],
+      "locator": "Exchange-rates introduction and qualification",
+      "claim_text": "The Bank of England publishes daily spot reference rates and qualifies their authority; a published reference is not automatically a business transaction execution rate.",
+      "evidence_class": "official_publication_context",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "No spot value retrieved or loaded. Foreign conversion direction, date, basis and actual fees must be explicit.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C02"
+    },
+    {
+      "claim_id": "CLM-0630",
+      "source_ids": [
+        "SRC-0298"
+      ],
+      "locator": "Opening balance, receipts, outgoings and closing balance",
+      "claim_text": "The Australian government guide rolls opening cash plus incoming less outgoing cash into closing cash and asks estimates to be labelled.",
+      "evidence_class": "official_method_guidance",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "General cash arithmetic only. Australian tax treatment, GST rate, business pattern or statement certification not imported.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C03"
+    },
+    {
+      "claim_id": "CLM-0631",
+      "source_ids": [
+        "SRC-0296",
+        "SRC-0298"
+      ],
+      "locator": "Researcher application to invoice, receipt and assumption state",
+      "claim_text": "An expected receipt is a scenario input until cash occurs. A signed order, invoice, payment request or conditional acceptance balance does not establish a bank receipt date.",
+      "evidence_class": "researcher_model_requirement",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "No new current-contract payment term or actual bank reconciliation. Source/assumption and timing must be supplied for selected cash legs.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C04"
+    },
+    {
+      "claim_id": "CLM-0632",
+      "source_ids": [
+        "SRC-0248"
+      ],
+      "locator": "Researcher application to deposit, credit and refund objects",
+      "claim_text": "A credited deposit and remaining balance are cash legs against the same supplier object; a future-use credit is not a cash refund.",
+      "evidence_class": "researcher_cash_and_obligation_requirement",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "Actual terms and payer/currency remain necessary. Economic expense, noncash entitlement and cash payment are not interchangeable.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C05"
+    },
+    {
+      "claim_id": "CLM-0633",
+      "source_ids": [
+        "SRC-0296"
+      ],
+      "locator": "Researcher application to daily timing",
+      "claim_text": "Monthly net cash can conceal earlier dated deficits. Date-end balances and a separately labelled same-day payments-first stress test are useful distinct views.",
+      "evidence_class": "researcher_model_design",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "The payments-first calculation is a constructed sequencing stress, not observed intraday settlement or a universal required reserve.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C06"
+    },
+    {
+      "claim_id": "CLM-0634",
+      "source_ids": [
+        "SRC-0297",
+        "SRC-0298"
+      ],
+      "locator": "Researcher application to route, window and currency",
+      "claim_text": "Missing selected-scope dates, amounts or foreign FX basis should keep affected outputs unavailable; unselected event-only rows need not block a research-only case.",
+      "evidence_class": "researcher_model_design",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "No automatic FX=1 for foreign currency, missing amount=0, future date, event frequency or funding receipt is adopted.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C07"
+    },
+    {
+      "claim_id": "CLM-0635",
+      "source_ids": [
+        "SRC-0248"
+      ],
+      "locator": "Researcher application to promised, satisfied and remaining units",
+      "claim_text": "Payment and fulfilled benefit are different states. Remaining work, customer benefits, supplier payment and future-use credits require distinct typed units and timing.",
+      "evidence_class": "researcher_model_design",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "population": null,
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Selected official sections inspected; original/reader distinction retained; researcher application separately labelled.",
+      "interpretation_limits": "Do not sum unlike units or treat positive projected cash as profit or discharge of unpaid/unfulfilled obligations. No remaining work cost is invented.",
+      "status": "T05C_cash_design_context",
+      "publication_status": "working",
+      "audit_record_origin": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "t05c_claim_candidate_id": "C-C08"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-30",
+  "status": "internal_segment_use_hypotheses_not_customer_research",
+  "contract_segment_ids": [
+    "BS01",
+    "BS02",
+    "BS03",
+    "BS04",
+    "BS05"
+  ],
+  "additional_segment_ids": [
+    "BS06"
+  ],
+  "ranked": false,
+  "records": [
+    {
+      "segment_id": "BS01",
+      "segment": "Payroll technology",
+      "possible_job": "Product, positioning or route-to-market decision about a defined payroll buyer and operating problem.",
+      "possible_output_value": "A scoped case comparison and briefing may clarify needs, objections and evidence used in decisions.",
+      "intended_use_and_rights_to_establish": "Internal product/commercial decision support; separate permission if using material in marketing.",
+      "limits": "Cannot infer adoption rate, software market share, product preference, conversion or an addressable lead list.",
+      "actual_payer_identified": false,
+      "actual_purchase_observed": false,
+      "validated": false
+    },
+    {
+      "segment_id": "BS02",
+      "segment": "Payroll outsourcing/services",
+      "possible_job": "Define service boundaries, retained employer work, transition support or evidence for a specific proposition.",
+      "possible_output_value": "Case context may help distinguish the work a buyer needs from a generic outsourcing label.",
+      "intended_use_and_rights_to_establish": "Internal service design/use; external sales collateral is a separate use.",
+      "limits": "No supplier endorsement, outsourced-service ranking, probability of switching or buyer contacts.",
+      "actual_payer_identified": false,
+      "actual_purchase_observed": false,
+      "validated": false
+    },
+    {
+      "segment_id": "BS03",
+      "segment": "HCM organisations",
+      "possible_job": "Choose a payroll integration, delivery or adjacent proposition and its actual buyer context.",
+      "possible_output_value": "A clearly scoped payroll decision lens may complement wider HCM material.",
+      "intended_use_and_rights_to_establish": "Internal strategy/product use; separately defined excerpts or client-use rights if wanted.",
+      "limits": "No generalisation from payroll-only cases to all HR technology or every geography.",
+      "actual_payer_identified": false,
+      "actual_purchase_observed": false,
+      "validated": false
+    },
+    {
+      "segment_id": "BS04",
+      "segment": "Consulting/advisory",
+      "possible_job": "Prepare a client decision brief or improve a repeatable advisory method for a defined payroll problem.",
+      "possible_output_value": "An evidence-based synthesis or framework might reduce duplicated discovery or expose missing evidence. That usefulness is untested.",
+      "intended_use_and_rights_to_establish": "Named client-facing deliverable/quotation/redistribution must be distinguished from internal reading.",
+      "limits": "Not an automatic sublicence, client-data submission, commissioned due diligence or bespoke consulting service.",
+      "actual_payer_identified": false,
+      "actual_purchase_observed": false,
+      "validated": false
+    },
+    {
+      "segment_id": "BS05",
+      "segment": "Investment organisations",
+      "possible_job": "Orient sector research or test an investment thesis about payroll operating needs and buying constraints.",
+      "possible_output_value": "Scoped qualitative context can identify questions for later diligence.",
+      "intended_use_and_rights_to_establish": "Internal research use; external portfolio/client circulation separately specified where relevant.",
+      "limits": "Not investment advice, deal due diligence, valuation, total market estimate, purchase forecast or company scoring.",
+      "actual_payer_identified": false,
+      "actual_purchase_observed": false,
+      "validated": false
+    },
+    {
+      "segment_id": "BS06",
+      "segment": "Employer decision user, additional hypothesis",
+      "possible_job": "Support an actual payroll investment, change, renewal or operating decision.",
+      "possible_output_value": "An application briefing or genuinely additional use may be useful beyond the free research received by a practitioner contributor.",
+      "intended_use_and_rights_to_establish": "First establish already granted free access and actual incremental service/use; do not manufacture restrictions.",
+      "limits": "Not a contract-prioritised primary buyer or a presumed second paid report copy.",
+      "actual_payer_identified": false,
+      "actual_purchase_observed": false,
+      "validated": false
+    }
+  ],
+  "source_basis": [
+    "Signed-project working agreement section5 target-market design input",
+    "T01/T01second primary offer comparisons are analogies only"
+  ],
+  "canonical_claim_ids": [
+    "CLM-0506",
+    "CLM-0507",
+    "CLM-0515",
+    "CLM-0516",
+    "CLM-0522"
+  ],
+  "actual_buyers": [],
+  "price_estimates": []
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1M-C01",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "T1M-S01"
+      ],
+      "claim_text": "IPASS publicly separates individual, employer/corporate, payroll-bureau and overseas membership branches, with differing qualification, billing and tax descriptions. This makes the member organisation, geography and benefit unit material when comparing support alternatives.",
+      "evidence_class": "publisher_declared_segmented_offer",
+      "locator": "T1M-S01.parsed.txt lines51–185: individual/corporate/overseas/Section56 branches",
+      "limitations": "No price benchmark, tax advice, full licence interpretation, actual buyer preference or quality outcome. These are Irish payroll-support offers, not evidence that an Irish employer would buy The Table.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1M-C02",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "T1M-S02"
+      ],
+      "claim_text": "GPA publicly offers a global/in-country payroll resource and network catalogue including training, events, country information, a forum and a helpdesk route. A global payroll audience therefore has additional visible alternatives beyond the UK support membership reviewed in the first pass.",
+      "evidence_class": "publisher_declared_resource_catalogue",
+      "locator": "T1M-S02.parsed.txt lines65–67 and128–147",
+      "limitations": "No paid-tier entitlement, price, actual usage or independent effectiveness verified. Catalogue breadth does not prove the alternative satisfies a particular investment decision.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1M-C03",
+      "canonical_source_ids": [
+        "SRC-0227",
+        "SRC-0228",
+        "SRC-0239"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Specify who pays, who can use the asset and the actual use: internal decision support, client advice, public marketing and resale can require different permissions and servicing. An adviser buying research for client work is not automatically covered by an employer/internal-use package.",
+      "evidence_class": "researcher_buyer_user_end_use_condition",
+      "locator": "Analytical application: ISG enterprise/provider service distinction; TPC clauses5.1,6 and9",
+      "limitations": "No assertion that every adviser is excluded or that exact ISG licence terms are known. No new JGA licence terms adopted. Seek the intended use selectively, not a mandatory procurement questionnaire.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1M-C04",
+      "canonical_source_ids": [
+        "SRC-0238"
+      ],
+      "source_candidate_ids": [
+        "T1M-S01",
+        "T1M-S02"
+      ],
+      "claim_text": "Assess alternatives against the decision geography, country set, employer size and operating need, rather than the city of an event or a generic global-payroll label. A country compliance-support need and a cross-country investment decision may require different evidence and value.",
+      "evidence_class": "researcher_context_and_substitution_condition",
+      "locator": "Analytical comparison of UK team support, Irish segmented membership and global/in-country resource catalogue",
+      "limitations": "No country market size, willingness-to-pay, geographic exclusion or law equivalence inferred. Context is selective and case-specific; no new mandatory report question.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1M-C05",
+      "canonical_source_ids": [
+        "SRC-0245",
+        "SRC-0246"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Define the intended research/member eligibility and how invitations are selected before assigning funder benefits. A sponsor target-list invitation route can serve commercial access objectives, while a research cohort may need a different role, country or decision-case mix. Keep any partner nominations distinguishable from independently recruited participants.",
+      "evidence_class": "researcher_recruitment_and_funder_fit_condition",
+      "locator": "Analytical application: iVentiv FAQ qualification/approval and live sponsor target-list inventory",
+      "limitations": "iVentiv is an L&D mechanism comparator, not a payroll sample design. No assertion that nominations must be prohibited or that The Table has recruited anyone. No default sponsor contacts, guaranteed eligible attendees or representative claims.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1M-C06",
+      "canonical_source_ids": [
+        "SRC-0245",
+        "SRC-0246",
+        "SRC-0248",
+        "SRC-0239"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Match each proposed commercial benefit to its actual delivery conditions and timing before modelling funding. Interest, accepted order, cleared cash, deliverable-ready research or seats, permitted publication and benefit delivered are separate states; funding received alone does not make every promised benefit deliverable.",
+      "evidence_class": "researcher_commercial_delivery_state_condition",
+      "locator": "Analytical application: iVentiv approval/meeting/package/payment conditions and TPC start/payment/benefit conditions",
+      "limitations": "No JGA cash dates, accounting recognition rule, deposit amount or legal contract advice. Generic iVentiv21/14-day conflict remains unresolved; do not import either interval. Later financial model needs its own sourced or explicitly assumed inputs.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1M-C07",
+      "canonical_source_ids": [
+        "SRC-0239"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The Payroll Centre terms describe an automatic renewal mechanism with reminder, termination and renewal-price provisions. This is a published contract mechanism for subscribed membership, not evidence of an actual retained customer base or achieved recurring revenue.",
+      "evidence_class": "publisher_declared_membership_lifecycle_terms",
+      "locator": "SRC-0239.parsed.txt lines114–119, clauses5.4.1–5.4.5",
+      "limitations": "Do not adopt an automatic subscription for JGA or equate annual availability with contracted renewals. Actual customer contracts, opt-outs, renewal behaviour, receipts and margin are not inspected.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/terms or explicit researcher application, not original participant input.",
+      "time_period": "Rechecked30October2026; no longitudinal outcome estimate.",
+      "status": "T01_second_challenge_context"
+    }
+  ]
+}

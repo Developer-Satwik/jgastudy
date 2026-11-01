@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5C-C01",
+      "source_ids": [
+        "R5C-S01",
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "claim_text": "Recruiter materials offer salary/hiring resources, interim/permanent routes and assessment or salary guidance. These can supply case-specific inputs, but the inspected declarations do not establish available expertise, employer costs or realised benefits.",
+      "locator": "Portfolio catalogue73–78/133–140; Oakleaf22–38; Middlemore retained Payroll Search body",
+      "evidence_class": "recruiter_declared_evidence_and_capacity_offer",
+      "population": "Selected public recruiter declarations/advice; no original JGA participants",
+      "time_period": "Inspected29October2026; source-specific edition/publication limits retained",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "No linked Portfolio survey read, salary figure/benchmark method inferred from its catalogue, candidate availability or benefit validated.",
+      "review_mode": "Relevant original body/retained raw sections inspected; selected reader notes for403 routes distinguished from originals",
+      "status": "R05_second_check_candidate"
+    },
+    {
+      "candidate_id": "R5C-C02",
+      "source_ids": [
+        "R5C-S03"
+      ],
+      "claim_text": "Hays separates its salary intelligence, assembled from listings, offers and candidate registrations, from its employer/employee survey. Input type, relevant role/region and data period therefore need recording before a salary benchmark is used in a case.",
+      "locator": "Hays methodology original107–109",
+      "evidence_class": "recruiter_salary_input_population_boundary",
+      "population": "Selected public recruiter declarations/advice; no original JGA participants",
+      "time_period": "Inspected29October2026; source-specific edition/publication limits retained",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "No workforce survey denominator transferred to salary observations, no whole-market or pay-cost conclusion; method disclosed by interested publisher.",
+      "review_mode": "Relevant original body/retained raw sections inspected; selected reader notes for403 routes distinguished from originals",
+      "status": "R05_second_check_candidate"
+    },
+    {
+      "candidate_id": "R5C-C03",
+      "source_ids": [
+        "R5C-S04"
+      ],
+      "claim_text": "Robert Half’s live2027 UK guide describes projected starting salaries using placement compensation, third-party posting data and recruiter input. The starting-salary FAQ excludes bonuses and annual merit increases; the non-salary survey is separately described. This does not supply an employer’s full staffing or incremental cost.",
+      "locator": "Live2027 original FAQ84–110",
+      "evidence_class": "recruiter_projected_starting_salary_boundary",
+      "population": "Selected public recruiter declarations/advice; no original JGA participants",
+      "time_period": "Inspected29October2026; source-specific edition/publication limits retained",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "The live edition differs from indexed2026 content; retain actual edition/date. No salary amount, role forecast, statutory on-cost rate, survey percentage or trend adopted.",
+      "review_mode": "Relevant original body/retained raw sections inspected; selected reader notes for403 routes distinguished from originals",
+      "status": "R05_second_check_candidate"
+    },
+    {
+      "candidate_id": "R5C-C04",
+      "source_ids": [
+        "R5C-S02"
+      ],
+      "claim_text": "Frazer Jones’s2017 payroll advice places implementation readiness within a wider new-market/acquisition timetable and recommends early cross-functional planning and checking incumbent provider coverage/direct or subcontracted delivery. The proposal boundary may therefore be a payroll component within a wider business decision.",
+      "locator": "Historical article185–200",
+      "evidence_class": "historical_recruiter_advice_and_analytical_application",
+      "population": "Selected public recruiter declarations/advice; no original JGA participants",
+      "time_period": "Inspected29October2026; source-specific edition/publication limits retained",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Not observed decision prevalence, a universal priority of commercial teams or proof payroll concerns cannot change timing. Country-specific duties not reused as current legal guidance.",
+      "review_mode": "Relevant original body/retained raw sections inspected; selected reader notes for403 routes distinguished from originals",
+      "status": "R05_second_check_candidate"
+    },
+    {
+      "candidate_id": "R5C-C05",
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148",
+        "SRC-0113",
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "claim_text": "The inspected market declarations cover defined SOW delivery, blended consulting/staffing and payroll recruitment. R05 should identify the actual commitment unit, deliverable/acceptance basis and retained work rather than compare a salary, day rate and managed output as equivalent offers. A talent response remains one option, not the predetermined report conclusion.",
+      "locator": "Hays275–294/347–376; Robert Half3–16/49–61; JGA2–9; Oakleaf22–38; Middlemore original body",
+      "evidence_class": "cross_source_analytical_cost_and_evidence_boundary",
+      "population": "Selected public recruiter declarations/advice; no original JGA participants",
+      "time_period": "Inspected29October2026; source-specific edition/publication limits retained",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Specific contract, all costs, service quality, current staffing availability and employer savings undisclosed; no product/service trial, hiring recommendation or supplier rank.",
+      "review_mode": "Relevant original body/retained raw sections inspected; selected reader notes for403 routes distinguished from originals",
+      "status": "R05_second_check_candidate"
+    }
+  ]
+}

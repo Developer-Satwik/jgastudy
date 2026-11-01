@@ -1,0 +1,596 @@
+{
+  "date": "2026-11-01",
+  "component_id": "T05E-event-operations",
+  "status": "prepared_internal_unpriced_event_component",
+  "task_count": 22,
+  "tasks": [
+    {
+      "task_id": "WE01",
+      "label": "Event remit and responsibilities",
+      "quantity_unit": "event",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Agree purpose, actual organiser/venue responsibilities and intended output.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE02",
+      "label": "Venue, privacy and access assessment",
+      "quantity_unit": "event",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Review feasible capacity, access, conversation privacy, layout and proportionate arrangements.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE03",
+      "label": "Supplier scope and terms coordination",
+      "quantity_unit": "event",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 2,
+        "high": 4
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Review actual availability, charge bases, guaranteed covers, payment and cancellation terms.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE04",
+      "label": "Participant pool and suitability map",
+      "quantity_unit": "event",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Identify a relevant pool. Public contacts are not recruited or permissioned participants.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE05",
+      "label": "Individual invitation attempt",
+      "quantity_unit": "attempt",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.1,
+        "working": 0.25,
+        "high": 0.5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "One actual individual approach or follow-up, including an unsuccessful attempt. No conversion assumed.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE06",
+      "label": "Participant suitability and permissions",
+      "quantity_unit": "confirmed person",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.25,
+        "working": 0.5,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Relevant fit, employer hospitality acceptability and participation/use choices. Not consent to unrelated marketing.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE07",
+      "label": "Confirmed-person logistics",
+      "quantity_unit": "confirmed person",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.15,
+        "working": 0.25,
+        "high": 0.5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "One ordinary scheduling and practical-information cycle, not every message.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE08",
+      "label": "Access or dietary coordination case",
+      "quantity_unit": "case",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.25,
+        "working": 0.5,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Only necessary additional handling beyond ordinary logistics. Keep sensitive detail out of this model.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE09",
+      "label": "Material attendance or date change",
+      "quantity_unit": "change case",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.1,
+        "working": 0.25,
+        "high": 0.75
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Actual extra handling, including withdrawals/replacements; do not derive from a guessed no-show rate.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE10",
+      "label": "Moderator topic and process preparation",
+      "quantity_unit": "session",
+      "role_context": "moderation",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Use existing permitted research; agree neutral process, boundaries and participation. New research belongs in its production task.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE11",
+      "label": "Moderator live delivery",
+      "quantity_unit": "person-hour",
+      "role_context": "moderation",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 1,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Actual required live person-hours, including each genuine co-moderator. Do not multiply every preparation task by every role.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE12",
+      "label": "Moderator debrief and necessary actions",
+      "quantity_unit": "session",
+      "role_context": "moderation",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Bounded agreed actions and handover, excluding separate research writing or supplier reconciliation.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE13",
+      "label": "Host preparation and guest liaison",
+      "quantity_unit": "host assignment",
+      "role_context": "hosting",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Actual host tasks not already performed in coordination or moderator preparation.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE14",
+      "label": "Host live work",
+      "quantity_unit": "person-hour",
+      "role_context": "hosting",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 1,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Actual hosting person-hours; if the same person moderates, do not count simultaneous elapsed work twice.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE15",
+      "label": "Onsite setup, liaison and close",
+      "quantity_unit": "event",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 2,
+        "high": 4
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Total additional person-hours across actual workers. Includes proportionate venue/emergency liaison, not duplicate live role hours.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE16",
+      "label": "Permitted live note-taking",
+      "quantity_unit": "person-hour",
+      "role_context": "research support",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 1,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Optional and permission-dependent. No recording or transcription service is assumed.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE17",
+      "label": "Agreed event synthesis and review",
+      "quantity_unit": "output",
+      "role_context": "research support",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 5
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Only a selected separate output. Map to existing report/cycle-note work when the same output serves both.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE18",
+      "label": "Release and participant follow-through",
+      "quantity_unit": "batch",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "One actual permitted batch and ordinary follow-through. Do not duplicate WS12 distribution or WS20 cycle-note work.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE19",
+      "label": "Supplier reconciliation and closure",
+      "quantity_unit": "event",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Check final supplier bill, credits and open actions. Distinct from customer invoice/receipt work.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE20",
+      "label": "Travel arrangements",
+      "quantity_unit": "booking case",
+      "role_context": "coordination",
+      "planning_hours_per_unit": {
+        "low": 0.25,
+        "working": 0.5,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "One actual journey/accommodation arrangement; shared booking only once, genuine extra handling separately.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE21",
+      "label": "Additional staff travel time",
+      "quantity_unit": "person-hour",
+      "role_context": "travel time",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 1,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Only time not already counted as productive work or included elsewhere. Actual paid/cash/resource treatment remains to be chosen.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    },
+    {
+      "task_id": "WE22",
+      "label": "Unallocated incurred or exception work",
+      "quantity_unit": "person-hour",
+      "role_context": "actual appropriate role",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 1,
+        "high": 1
+      },
+      "quantity": null,
+      "basis": "Untimed researcher planning allowance, not a supplier quote, staffing promise, rate or time observation.",
+      "counting_note": "Use only for identifiable necessary work not already in the rows above. Cancellation does not erase incurred work. Never add the same preparation twice.",
+      "source_claim_ids": [
+        "CLM-0608",
+        "CLM-0609"
+      ],
+      "actual_work_records": []
+    }
+  ],
+  "external_cost_rows": [
+    {
+      "cost_id": "EC01",
+      "label": "Venue and catering",
+      "scope_note": "Actual eligible consumption, minimum shortfall, hire and applicable charges, after a venue-specific reconciliation.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC02",
+      "label": "External facilitation or hosting",
+      "scope_note": "Only an actually selected package. Record prep, live work, notes, travel and tax inclusions before combining with labour costs.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC03",
+      "label": "Rail, air or other fares",
+      "scope_note": "Route/date/traveller-specific booking amount, restrictions and payer. Do not infer a fare from a promotional minimum.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC04",
+      "label": "Accommodation",
+      "scope_note": "Necessary rooms/nights, actual rate and cancellation terms. No city or overnight stay is assumed.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC05",
+      "label": "Local transfers or mileage reimbursement",
+      "scope_note": "Actual approved basis and eligible journeys; no automatic HMRC-rate reimbursement.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC06",
+      "label": "Access or support provision",
+      "scope_note": "Only actual necessary provision, after clarifying responsibilities and arrangements.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC07",
+      "label": "Participant expenses or honoraria",
+      "scope_note": "Only if actually agreed and permitted. Free attendance creates no reimbursement or incentive promise.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC08",
+      "label": "Materials or equipment",
+      "scope_note": "Necessary items not supplied by the venue or included in an existing package.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC09",
+      "label": "Platform or registration tools",
+      "scope_note": "Select only needed functionality. A free-ticket platform option does not price internal handling.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC10",
+      "label": "Insurance or specialist advice",
+      "scope_note": "Only where applicable to the actual organiser/venue arrangements. No invented compulsory premium.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC11",
+      "label": "Change or cancellation loss",
+      "scope_note": "Net nonrecoverable cost under actual terms, excluding deposits already included in the supplier final total.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    },
+    {
+      "cost_id": "EC12",
+      "label": "Other scoped direct cost",
+      "scope_note": "Identify the item, period, payer and nonoverlap basis before using.",
+      "selected": null,
+      "amount_gbp": null,
+      "basis": null
+    }
+  ],
+  "counts": {
+    "practitioners": null,
+    "additional_team": null,
+    "additional_guests": null,
+    "billed_covers": null,
+    "room_capacity": null,
+    "menu_capacity": null
+  },
+  "all_counts_and_amounts_start_blank": true,
+  "effort_case_default": "working",
+  "effort_cases_are_not_empirical_bounds": true,
+  "financial_register_extended": false,
+  "shared_financial_inputs_preserved": 70,
+  "workload_assumptions_not_adopted_programme_quantities": true,
+  "labour_not_monetised": true,
+  "all_in_budget_available": false,
+  "full_financial_model_complete": false,
+  "selected_event_date": null,
+  "selected_city": null,
+  "selected_venue": null,
+  "actual_quotes": [],
+  "actual_participants": [],
+  "actual_timesheets": [],
+  "actual_bookings": [],
+  "source_ids": [
+    "SRC-0282",
+    "SRC-0283",
+    "SRC-0284",
+    "SRC-0285",
+    "SRC-0286",
+    "SRC-0287",
+    "SRC-0288"
+  ],
+  "claim_ids": [
+    "CLM-0599",
+    "CLM-0600",
+    "CLM-0601",
+    "CLM-0602",
+    "CLM-0603",
+    "CLM-0604",
+    "CLM-0605",
+    "CLM-0606",
+    "CLM-0607",
+    "CLM-0608",
+    "CLM-0609",
+    "CLM-0610"
+  ],
+  "prior_venue_source_ids": [
+    "SRC-0258",
+    "SRC-0259",
+    "SRC-0260",
+    "SRC-0261",
+    "SRC-0262"
+  ],
+  "scope_fee_changed": false,
+  "fourteen_core_questions_unchanged": true,
+  "practitioner_free_full_research_preserved": true,
+  "collection_activated": false,
+  "external_actions": [],
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/Event planning and direct costs.xlsx",
+  "integration_requirements": [
+    "Match event to selected programme, city, date and edition; do not infer recurring cadence.",
+    "Carry incurred work and future obligations across the correct periods.",
+    "Reconcile package scope and hours to avoid double cash/resource valuation.",
+    "Keep cash payment, resource use, full supplier bill and refundable/credited deposit distinct.",
+    "Use original currencies and dated FX before combining cross-country amounts.",
+    "Use actual applicable task skill/rate; do not copy a research or sales proxy to moderation.",
+    "Show staff travel time separately from fare cash and productive work.",
+    "Preserve report-free practitioner benefits, permissions and no implied guaranteed attendance."
+  ],
+  "workbook_qa_path": "08-qa/t05e-workbook/verification.json",
+  "component_review_path": "08-qa/t05e-review/verification.json"
+}

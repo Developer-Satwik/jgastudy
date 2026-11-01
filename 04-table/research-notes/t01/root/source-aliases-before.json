@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "aliases": {
+    "SRC-0030": "SRC-0011",
+    "SRC-0032": "SRC-0012"
+  },
+  "note": "Preserve local audit IDs; use canonical IDs in master claims.",
+  "url_aliases": [
+    {
+      "url": "https://uk.adp.com/resources/adp-articles-and-insights/articles/g/global-payroll-survey.aspx",
+      "canonical_source_id": "SRC-0064",
+      "relationship": "Official summary of the same dataset",
+      "reviewed_on": "2026-10-28",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/real-time-information-programme-post-implementation-review",
+      "canonical_source_id": "SRC-0104",
+      "relationship": "Publisher landing or release route for the same report",
+      "reviewed_on": "2026-10-28",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.cipp.org.uk/resources/policy-report/systemic-issues-in-hmrc-rti-data-collection.html",
+      "canonical_source_id": "SRC-0105",
+      "relationship": "Publisher landing or release route for the same report",
+      "reviewed_on": "2026-10-28",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/9/",
+      "canonical_source_id": "SRC-0136",
+      "relationship": "Same publication section; not independent case evidence",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/11/",
+      "canonical_source_id": "SRC-0136",
+      "relationship": "Same publication section; not independent case evidence",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.uk/payroll-annual-reporting",
+      "canonical_source_id": "SRC-0141",
+      "relationship": "Same guide/publication context route; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/project-delivery-functional-standard",
+      "canonical_source_id": "SRC-0153",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://projectdelivery.gov.uk/library-product/government-functional-standard-govs-002-project-delivery/",
+      "canonical_source_id": "SRC-0153",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://projectdelivery.gov.uk/download/66847/?tmstv=1756584452",
+      "canonical_source_id": "SRC-0153",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/government-finance-standards-page",
+      "canonical_source_id": "SRC-0155",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.argyll-bute.gov.uk/moderngov/ieDecisionDetails.aspx?AIId=181705",
+      "canonical_source_id": "SRC-0161",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/7/",
+      "canonical_source_id": "SRC-0136",
+      "relationship": "Section of the same closure report; not a new programme",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities",
+      "canonical_source_id": "SRC-0172",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.nao.org.uk/reports/government-shared-services/",
+      "canonical_source_id": "SRC-0185",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://warwickshire.moderngov.co.uk/ieListDocuments.aspx?CId=146&MID=4287",
+      "canonical_source_id": "SRC-0195",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+      "canonical_source_id": "SRC-0202",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll",
+      "canonical_source_id": "SRC-0202",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    },
+    {
+      "url": "https://www.london.gov.uk/dmfd282-replacement-hr-and-payroll-system-itrent",
+      "canonical_source_id": "SRC-0206",
+      "relationship": "Same publication or decision context; not an independent study",
+      "reviewed_on": "2026-10-29",
+      "new_independent_dataset": false
+    }
+  ],
+  "updated_on": "2026-10-29"
+}

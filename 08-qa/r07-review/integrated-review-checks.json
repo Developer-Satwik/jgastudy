@@ -1,0 +1,1055 @@
+{
+  "date": "2026-10-29",
+  "reviewer": "R07 integrated independent review",
+  "status": "passed_for_internal_R07_desktop_synthesis",
+  "checks": [
+    {
+      "check": "baseline preservation: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "baseline preservation: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Core question map remains14 version0.2 unapproved/unparticipanttested",
+      "passed": true
+    },
+    {
+      "check": "New branding12chartvs13prose numeric hold explicitly retained",
+      "passed": true
+    },
+    {
+      "check": "Four new source routes",
+      "passed": true
+    },
+    {
+      "check": "Twentyfour new bounded records",
+      "passed": true
+    },
+    {
+      "check": "Canonical source total184",
+      "passed": true
+    },
+    {
+      "check": "Canonical claim total319",
+      "passed": true
+    },
+    {
+      "check": "Original participant observations blank",
+      "passed": true
+    },
+    {
+      "check": "Priority map arrays empty",
+      "passed": true
+    },
+    {
+      "check": "Blank unpopulated blank_priority_template",
+      "passed": true
+    },
+    {
+      "check": "Blank unpopulated blank_context_template",
+      "passed": true
+    },
+    {
+      "check": "Blank unpopulated blank_comparison_template",
+      "passed": true
+    },
+    {
+      "check": "Six selective priority dimensions",
+      "passed": true
+    },
+    {
+      "check": "Six optional context dimensions",
+      "passed": true
+    },
+    {
+      "check": "Four nonordinal comparison purposes",
+      "passed": true
+    },
+    {
+      "check": "No sequence score or extra mandatoryquestions",
+      "passed": true
+    },
+    {
+      "check": "Q005 up2 unaided priorities horizon12to24",
+      "passed": true
+    },
+    {
+      "check": "No confidential documents/exact amounts demand",
+      "passed": true
+    },
+    {
+      "check": "Planning signals organisationstate unpopulated",
+      "passed": true
+    },
+    {
+      "check": "Current SSP and future interim BiK states distinct",
+      "passed": true
+    },
+    {
+      "check": "Numeric conflict held and notclientreused",
+      "passed": true
+    },
+    {
+      "check": "Prior hold CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Prior hold CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Prior hold CLM-0167",
+      "passed": true
+    },
+    {
+      "check": "Prior hold CLM-0168",
+      "passed": true
+    },
+    {
+      "check": "Prior hold CLM-0218",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0386",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0386",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0387",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0387",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0388",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0388",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0389",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0389",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0390",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0390",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0391",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0391",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0393",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0393",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0394",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0394",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0395",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0395",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0396",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0396",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0397",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0397",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0398",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0398",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0399",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0399",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0400",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0400",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0401",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0401",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0402",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0402",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0403",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0403",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0404",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0404",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0405",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0405",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0406",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0406",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0407",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0407",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0408",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0408",
+      "passed": true
+    },
+    {
+      "check": "Claimtext mapping CLM-0409",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate CLM-0409",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0386",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0387",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0388",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0389",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0390",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0391",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0393",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0394",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0395",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0396",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0397",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0398",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0399",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0400",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0401",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0402",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0403",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0404",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0405",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0406",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0407",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0408",
+      "passed": true
+    },
+    {
+      "check": "Priority supportedclaim CLM-0409",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0070.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0070.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0011.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0011.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/MP-feature.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0202-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-report.pdf",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0033-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-payroll.pdf",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0034-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0034-p11.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0202-p32.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0033-p33.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0034-p2.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0202-p12.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0202-p11.png",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/priorities/captures/SRC-0040-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/context/captures/CTX7-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/context/captures/CTX7-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/context/captures/CTX7-S02.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/context/captures/CTX7-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/context/captures/SRC-0107.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/context/captures/SRC-0107.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r06/stalls/captures/STL6-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r06/stalls/captures/STL6-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SIG7-S02.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SIG7-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0090.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0090.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0072.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0072.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0091.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0091.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0092.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SRC-0092.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SIG7-ACAS.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/signals/captures/SIG7-ACAS.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r05/delivery/captures/SRC-0075.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r05/delivery/captures/SRC-0075.txt",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/root/captures/SRC-0003.html",
+      "passed": true
+    },
+    {
+      "check": "Capture hash 03-report/research-notes/r07/root/captures/SRC-0003.txt",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->research-notes/r07/priorities/PRIORITY-EVIDENCE.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->research-notes/r07/context/CONTEXT-EVIDENCE.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->research-notes/r07/signals/PLANNING-SIGNALS.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->research-notes/r07/root/PRIORITY-AND-COMPARISON-METHOD.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->../08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-DESKTOP-READOUT.md ->../08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0388",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0399",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0405",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0389",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0390",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0408",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0391",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0398",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0393",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0406",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0386",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0404",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0394",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-DESKTOP-READOUT.md CLM-0402",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/R07-CONTEXTUAL-PRIORITIES.md ->R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0401",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0395",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0405",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0399",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0408",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0397",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0398",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0403",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0393",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0409",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0406",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0386",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0404",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0396",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0400",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0394",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/R07-CONTEXTUAL-PRIORITIES.md CLM-0402",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/modules/R07-priorities-and-contextual-differences.md ->../R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/modules/R07-priorities-and-contextual-differences.md ->../R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/modules/R07-priorities-and-contextual-differences.md ->../R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local link 03-report/modules/R07-priorities-and-contextual-differences.md ->../../08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/modules/R07-priorities-and-contextual-differences.md CLM-0399",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/modules/R07-priorities-and-contextual-differences.md CLM-0408",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/modules/R07-priorities-and-contextual-differences.md CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/modules/R07-priorities-and-contextual-differences.md CLM-0406",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/modules/R07-priorities-and-contextual-differences.md CLM-0386",
+      "passed": true
+    },
+    {
+      "check": "Cited canonical 03-report/modules/R07-priorities-and-contextual-differences.md CLM-0394",
+      "passed": true
+    },
+    {
+      "check": "Newsource captured original SRC-0213",
+      "passed": true
+    },
+    {
+      "check": "Newsource captured original SRC-0214",
+      "passed": true
+    },
+    {
+      "check": "Newsource captured original SRC-0215",
+      "passed": true
+    },
+    {
+      "check": "Newsource captured original SRC-0216",
+      "passed": true
+    },
+    {
+      "check": "Publisheroriginalchart distinguished from local PDF render",
+      "passed": true
+    }
+  ],
+  "visual_sample": [
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0202-p11.png",
+      "sha256": "aed351cd5b60e46323ece7b7330902b9f774920a8f7d66610794dd2ea348f0a3",
+      "mode": "Reviewer viewed retained rendered original page/chart, not independently re-rendered."
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0033-p33.png",
+      "sha256": "9845ef435d20631e7b22d8c2d8d41f67321c75b3eecd685c4f52bd8bcd03d996",
+      "mode": "Reviewer viewed retained rendered original page/chart, not independently re-rendered."
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/MP-feature.png",
+      "sha256": "3240e6b8ed6627bc15f9ab72aa554ffe4897002f3f500e4ddb59f1e9b5b1e973",
+      "mode": "Reviewer viewed retained rendered original page/chart, not independently re-rendered."
+    }
+  ],
+  "boundaries": [
+    "AzetsB1 composite strategic/review/invested response is not separately verified project funding.",
+    "SDWorxTable7 separate HR-AI marginal statements are not a linked payroll investment funnel.",
+    "Moorepay desire item is not purchase, spend or willingness to pay; branding value conflict held.",
+    "Current SSP guidance is operative context, not full enacted-law/individual calculation assurance.",
+    "BiK future services and interim phase wording kept distinct from launched capability or employer action.",
+    "Context mechanisms do not establish group rank; original practitioner cases remain absent."
+  ],
+  "external_actions": [],
+  "check_count": 250,
+  "passed_count": 250,
+  "failed_checks": [],
+  "integrated_files_reviewed": [
+    "03-report/R07-DESKTOP-READOUT.md",
+    "03-report/R07-CONTEXTUAL-PRIORITIES.md",
+    "03-report/R07-priority-map.json",
+    "03-report/modules/R07-priorities-and-contextual-differences.md",
+    "08-qa/R07-record-map.json",
+    "08-qa/R07-captures.json"
+  ],
+  "corrections_resolved": [
+    {
+      "issue": "MP-feature.png was typed rendered_page despite being original publisher chart asset.",
+      "resolution": "Parent corrected merge classifier and regenerated capture mapping; reviewed kind published_chart_asset. No substantive claim/count change."
+    }
+  ],
+  "review_scope_limits": [
+    "A targeted independent desktop synthesis check, not an external audit or all-source legal/financial verification.",
+    "Reviewed retained originals/extracts and selected page/chart images; source retrieval historical as documented, no new browser exercise required.",
+    "Does not approve finalpublication, clientcohort, factualrights clearance, fieldwork completion or nationalgeneralisation."
+  ]
+}

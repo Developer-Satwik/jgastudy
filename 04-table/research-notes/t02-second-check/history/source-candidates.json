@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "TH2-S01",
+      "title": "The Office for National Statistics Revisions Policy and Correction of Errors Policy",
+      "publisher": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
+      "source_type": "official_statistical_revision_correction_policy",
+      "review_status": "selected_primary_original_policy_sections_inspected",
+      "accessed_on": "2026-10-30",
+      "published_date": null,
+      "updated_date": "2024-08-09",
+      "date_note": "Displayed update date, not a JGA standard, fieldwork date or new payroll dataset.",
+      "population": "ONS statistics, analysis and data; analogy for publication change classification, not a commercial research contract.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Official publisher policy about its own outputs.",
+      "capture_path": "04-table/research-notes/t02-second-check/history/captures/TH2-S01.html",
+      "capture_sha256": "868a0ebd8d971293b110550f90bcb06b576677498d1ffe0839ea60d4bad9440d",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t02-second-check/history/captures/TH2-S01.parsed.txt",
+          "sha256": "f2b6d78effc275920f15ebef93dff0578abb047da86176368410a4e9ee478f10",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Use the distinction between correcting a mistake and revising with previously unavailable data or methods. ONS process, timetable, exception rules and statistical obligations do not bind JGA. No external policy is substituted for the signed agreement or participant/source rights.",
+      "reuse_status": "Private verification and brief paraphrase only; actual reuse conditions checked separately where needed."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0227",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+      "locator": "Service access/inquiry section, parsed lines113–131",
+      "capture_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0227.html",
+      "capture_sha256": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+      "parsed_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0227.parsed.txt",
+      "parsed_sha256": "fcbd864b51a6a46bed5d387b0e303abb33db4f699a24a5a881a95644709c6f89",
+      "review_status": "fresh_relevant_original_sections_reinspected",
+      "new_independent_dataset": false,
+      "limitations": "Provider-declared service or dated assessment only. No JGA service period, refresh promise, price, sales, actual user benefit or current provider performance inferred."
+    },
+    {
+      "source_id": "SRC-0229",
+      "url": "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025",
+      "locator": "Dated guide heading/assessment and Products Evaluated dates, parsed lines113–114,199–237",
+      "capture_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0229.html",
+      "capture_sha256": "544bf5d7d07f7e6f7ad3972c7edb84d634ca67724acb23eeefea508b40c32ad8",
+      "parsed_path": "04-table/research-notes/t02-second-check/history/captures/SRC-0229.parsed.txt",
+      "parsed_sha256": "aef6c7e54093a938faed256dca66425800e4026aa4f1648067aa6019c595d290",
+      "review_status": "fresh_relevant_original_sections_reinspected",
+      "new_independent_dataset": false,
+      "limitations": "Provider-declared service or dated assessment only. No JGA service period, refresh promise, price, sales, actual user benefit or current provider performance inferred."
+    }
+  ]
+}

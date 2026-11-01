@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "source_candidate_or_canonical_id": "SRC-0193",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "retrieved_at_utc": "2026-10-30T04:12:44.322492+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "0d217ed682a1f823466b70017cba24581e6103b5c29d639bbd02cc3d394d2961",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.txt",
+      "text_sha256": "ed88f7286b7711fbda1ba28dc82faf287252d903a96969868179c3e8106de0ab",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "source_candidate_or_canonical_id": "SRC-0222",
+      "url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "retrieved_at_utc": "2026-10-30T04:12:44.323069+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.html",
+      "capture_sha256": "607404c401d15243345300ff5af8d48744a57da44a2c653f8673c43de16c4b17",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+      "text_sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "source_candidate_or_canonical_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "retrieved_at_utc": "2026-10-30T04:12:44.323162+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "95bb25095982f9873cb3b20f3e123af4e8010edd7b318754fcf58401b6407eba",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "source_candidate_or_canonical_id": "TC2-S01",
+      "url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "retrieved_at_utc": "2026-10-30T04:12:44.323233+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/TC2-S01.html",
+      "capture_sha256": "97a15b91b6a0f21a0ec955f3592ccd95a8a4ec9694b8828e226b2f15c515b32f",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/TC2-S01.txt",
+      "text_sha256": "827d5dfe05e7d0e214926b795ca27b2aef95a33faaca0760021d063562b05c2d",
+      "capture_kind": "retained_original_html"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "original_path": "03-report/R08-framework-map.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-status/R08-framework-map.json.txt",
+      "sha256": "a7c8ebb6a5efd57a0daadaccd95b1fb201d1b0657924cf9c1bcc58890bdddb9d"
+    },
+    {
+      "original_path": "03-report/R08-constructed-walkthroughs.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-status/R08-constructed-walkthroughs.json.txt",
+      "sha256": "1fa67dac6270f9c364523b25f743cd6ccb5229e87ef8a6b7f66b994f5f32bac0"
+    }
+  ],
+  "purpose": "Exact version0.2 structured draft and constructed applications reviewed before status-only completion edits."
+}

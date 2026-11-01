@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "review_id": "WPD-S01",
+      "url": "https://ico.org.uk/consent",
+      "retrieved_at_utc": "2026-10-29T04:49:48.378283+00:00",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/consent",
+      "content_type": "text/html; charset=utf-8",
+      "path": "01-method/research-notes/wp03/data/captures/WPD-S01.html",
+      "sha256": "22d95d848e74a34af9412ed87dbad8af5ac81b00b746172583ec7e41638176b4",
+      "text_path": "01-method/research-notes/wp03/data/captures/WPD-S01.txt",
+      "text_sha256": "430cbc320535d1ef2194909f51d79e2f6a37862e3f3fef244a6653ae9797b35f",
+      "kind": "retained_original_html"
+    },
+    {
+      "review_id": "WPD-S02",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors-a-guide/",
+      "retrieved_at_utc": "2026-10-29T04:49:49.486335+00:00",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors-a-guide/",
+      "content_type": "text/html; charset=utf-8",
+      "path": "01-method/research-notes/wp03/data/captures/WPD-S02.html",
+      "sha256": "a96d0d9650f16581f24e6fa6d1bb5e5e96c3bc9eff46fa716271dc7a5d7c3bed",
+      "text_path": "01-method/research-notes/wp03/data/captures/WPD-S02.txt",
+      "text_sha256": "56d9ea61d51057fe71ab8a27382f0a884e77bb1457ced87a13e72f20d1c41489",
+      "kind": "retained_original_html"
+    },
+    {
+      "review_id": "WPD-S03",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/the-right-to-be-informed/what-privacy-information-should-we-provide/",
+      "retrieved_at_utc": "2026-10-29T04:49:50.737055+00:00",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/the-right-to-be-informed/what-privacy-information-should-we-provide/",
+      "content_type": "text/html; charset=utf-8",
+      "path": "01-method/research-notes/wp03/data/captures/WPD-S03.html",
+      "sha256": "ea6191008c3e607a4e7cb0fba0f651c9667df9c0c2ca9a8fd9ec864ca9361237",
+      "text_path": "01-method/research-notes/wp03/data/captures/WPD-S03.txt",
+      "text_sha256": "963caad44be898888a7948a5f75d7a80480cd021b5df48c8e89672af1c0f58c6",
+      "kind": "retained_original_html"
+    },
+    {
+      "review_id": "WPD-S04",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/a-guide-to-international-transfers/are-we-making-a-restricted-transfer/",
+      "retrieved_at_utc": "2026-10-29T04:49:52.215930+00:00",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/a-guide-to-international-transfers/are-we-making-a-restricted-transfer/",
+      "content_type": "text/html; charset=utf-8",
+      "path": "01-method/research-notes/wp03/data/captures/WPD-S04.html",
+      "sha256": "5a941925f9ee43e73a92de55aaade1aee3eb98d3f1b5b60fa8ef2f2cea5d9de3",
+      "text_path": "01-method/research-notes/wp03/data/captures/WPD-S04.txt",
+      "text_sha256": "d4c82366783662d4525ba708c01c1bd184628b5bef6c0a2ace969f12c993560b",
+      "kind": "retained_original_html"
+    },
+    {
+      "review_id": "WPD-S05",
+      "url": "https://www.mrs.org.uk/standards/mrs-guidelines-for-businesstobusiness-research-insight-and-other-data-processing-activities",
+      "retrieved_at_utc": "2026-10-29T04:49:52.811803+00:00",
+      "http_status": 200,
+      "final_url": "https://www.mrs.org.uk/standards/mrs-guidelines-for-businesstobusiness-research-insight-and-other-data-processing-activities",
+      "content_type": "text/html; charset=utf-8",
+      "path": "01-method/research-notes/wp03/data/captures/WPD-S05.html",
+      "sha256": "5ac7f6fe6190165756beccbeebf1324f5d360fd97f334855c06ac8d0b0d08f03",
+      "text_path": "01-method/research-notes/wp03/data/captures/WPD-S05.txt",
+      "text_sha256": "b73dc3e272822ea8ed1084684fc957b21ef1fb088a1ea30889d7ed216a153a2c",
+      "kind": "retained_original_html"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R05_second_challenge",
+  "supersedes_for_current_synthesis": "08-qa/R05-completion-check.json",
+  "new_source_routes": 12,
+  "new_claim_or_guardrail_records": 21,
+  "source_records": 162,
+  "claim_records": 253,
+  "source_records_with_primary_retained_original": 100,
+  "internal_findings": 54,
+  "evidence_domains": 9,
+  "financial_views": 3,
+  "selective_conditions": 5,
+  "prior_bridge_checks_passed": 327,
+  "selected_prior_questions": 4,
+  "selected_saved_answer_texts": 32,
+  "capture_files_hash_checked": 44,
+  "preserved_baseline_records": 35,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    }
+  ],
+  "first_pass_R05_snapshots": [
+    {
+      "original_path": "03-report/R05-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/01-R05-DESKTOP-READOUT.md.txt",
+      "sha256": "32409c4f7b8bb8c93c830ae23033a56c33829d2cf4c195f62394c2e6b783e842"
+    },
+    {
+      "original_path": "03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/02-R05-BUSINESS-CASE-CHECKLIST.md.txt",
+      "sha256": "e89f5d72d82fce6ff63a011af69f783e587a93f18dd954b8bdbfcd8eb6b84609"
+    },
+    {
+      "original_path": "03-report/R05-evidence-map.json",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/03-R05-evidence-map.json.txt",
+      "sha256": "241b545fc05ae2bf88e5141d0e9b39fa9c75d5058b420ac6a26915f54ff13339"
+    },
+    {
+      "original_path": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/04-R05-business-case-evidence-and-risks.md.txt",
+      "sha256": "4ad9bebd3ede93f18485494e4624a0290b821f84c27da417b8f52452d1cb6455"
+    },
+    {
+      "original_path": "08-qa/R05-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/05-R05-independent-review.md.txt",
+      "sha256": "160758000bba5d925ac44ae08f76db48be52dc6ac7ed6ea5edd5c650a6446789"
+    },
+    {
+      "original_path": "08-qa/R05-record-map.json",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/06-R05-record-map.json.txt",
+      "sha256": "1f9b29eb8d3984ba7d893771f76aea97cb730715100864f4e12d86ab073578df"
+    },
+    {
+      "original_path": "08-qa/R05-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/07-R05-completion-check.json.txt",
+      "sha256": "a1d3facec6c9f3bfddfa995ede9e6ad998b3fbe3d0678011cd7b051d902591a2"
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "employer_forecasts": 0,
+  "numerical_estimates": 0,
+  "product_or_API_tests": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R05-SECOND-CHECK-READOUT.md",
+      "sha256": "a752410078c958f576db1d8c04d5259d52be94d338671d121eba6db9a260eb8b"
+    },
+    {
+      "path": "03-report/R05-DESKTOP-READOUT.md",
+      "sha256": "5627f8c220752678c4a8482dd109b0084bd192cdfa6d185e5ba99441569c01aa"
+    },
+    {
+      "path": "03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "sha256": "e49a437bde52ca70c366085e609b4fd91c74dd792ce7aabefe0fac3ba47bdb7c"
+    },
+    {
+      "path": "03-report/R05-evidence-map.json",
+      "sha256": "3acfae91802fd4e2da3851b13909529e4680437d64f7476ad8279a9114e3339c"
+    },
+    {
+      "path": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "sha256": "b3a91ed2194e6325a1a35564bc0fda0591208828fbd5b77d0a43b053883c7285"
+    },
+    {
+      "path": "08-qa/R05-second-check-independent-review.md",
+      "sha256": "59e68c61d164587da51a974129ccb05fced1d42ded276628f89bcf4fada3e0ad"
+    },
+    {
+      "path": "08-qa/R05-second-check-record-map.json",
+      "sha256": "aae260f54057bdcea085305a4b9636af1b64dc0a44896e4c1557a46d01e9d53a"
+    },
+    {
+      "path": "08-qa/R05-prior-study-bridge-check.json",
+      "sha256": "70c0a58c08a2672f0fceccfbe8fccd59da24063c497bf580d9246113a779f55e"
+    }
+  ],
+  "next": "R06 staying switching deferral rejection and abandonment; no external sending.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 1209,
+    "json_files": 221,
+    "source_records": 162,
+    "claim_records": 253,
+    "question_records": 14,
+    "internal_design_findings": 54,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 137,
+    "scope": "Record linkage, retained-capture hashes, exact previous artifact/client/core preservation, first-pass snapshots and R05 second-challenge analytical boundaries. No final publication, practitioner testing, financial assurance, product trial or commercial validation."
+  }
+}

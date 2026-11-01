@@ -1,0 +1,214 @@
+0001: Research Methodology | G2 Research
+0002: G2 Research Hub
+0003: Our Research Methodology
+0004: How G2 AI-Custom Research (AICR) works: the end-to-end methodology G2 uses to design, conduct, synthesize, and publish primary research built from real practitioner interviews.
+0005: How AICR works
+0006: Four stages connect research design, qualified participants, AI-led interviews, and analyst-reviewed publication.
+0007: 01
+0008: Design the study
+0009: Define the research question, target audience, sample needs, and neutral interview guide.
+0010: 02
+0011: Recruit participants
+0012: Source and screen real market participants independently through G2 and vetted panel partners.
+0013: 03
+0014: Conduct interviews
+0015: Run structured, conversational AI voice interviews that probe for depth and capture verbatim responses.
+0016: 04
+0017: Synthesize and publish
+0018: Code transcripts, quantify themes, validate findings with analysts, and publish the report on Research Hub.
+0019: On this page
+0020: What is AICR?
+0021: Research Design
+0022: Participant Recruitment
+0023: Interview Execution
+0024: Data Processing & Synthesis
+0025: Human Review
+0026: Quality Assurance
+0027: FAQ
+0028: §
+0029: 01
+0030: ·
+0031: What is AI-Custom Research?
+0032: AICR is primary research conducted at scale through AI voice interviews.
+0033: G2 AI-Custom Research (AICR) is a primary research methodology that uses G2's AI voice platform to conduct structured, conversational interviews with real market participants at scale. Unlike AI-generated content or synthetic reports built from existing data, AICR involves live, original interviews. The AI acts as the interviewer, not the author.
+0034: Each study begins with a defined research question and ends with a published report grounded in verbatim respondent data. The research is conducted independently by G2. Clients define their research objectives and review the interview guide for scope alignment, but do not control the interview process or the findings.
+0035: Primary research
+0036: —
+0037: new data collected for each study, not recycled from existing sources.
+0038: Voice-to-voice format
+0039: —
+0040: an AI agent conducts live audio interviews, not click-through surveys.
+0041: Scale
+0042: —
+0043: typically 100 to 300+ interviews per study, conducted overnight or within days.
+0044: Independence
+0045: —
+0046: G2 owns the interview guide and findings; clients receive the results, not control over them.
+0047: Blinded methodology
+0048: —
+0049: respondents do not know which company commissioned the research.
+0050: §
+0051: 02
+0052: ·
+0053: Research Design
+0054: Every study starts with a structured intake and neutral guide design.
+0055: Every AICR study begins with a structured intake process to define the research question, target audience, and interview approach. This phase establishes the foundation of the study and is critical to producing findings that are both meaningful and defensible.
+0056: 2.1 Defining the research objective
+0057: At intake, G2 works with the client to define the central research question, target respondent profile, narrative to test or explore, desired sample size, and segmentation requirements. The client provides research objectives and context; G2 translates those objectives into a rigorous study design. The client does not write interview questions.
+0058: 2.2 Interview guide development
+0059: G2 drafts the interview guide based on the agreed research objective. The guide is designed to surface genuine respondent perspectives, including findings that may not favor the commissioning client.
+0060: Neutral framing
+0061: —
+0062: questions are reviewed to avoid leading language or implied desired answers.
+0063: Conversational structure
+0064: —
+0065: the guide is not a rigid script; the AI probes dynamically based on responses.
+0066: Blinded vendor references
+0067: —
+0068: multiple vendor names are included to prevent the study from feeling like a commissioned endorsement.
+0069: Open-ended probing
+0070: —
+0071: questions are designed to elicit substantive responses, not confirmatory ones.
+0072: Once drafted, the interview guide goes through one to two rounds of client review for scope alignment. The client may request changes to topics or framing within the bounds of research neutrality. G2 retains final editorial control over the questions.
+0073: §
+0074: 03
+0075: ·
+0076: Participant Recruitment
+0077: G2 sources, screens, and qualifies all research participants.
+0078: G2 sources and qualifies all research participants. Clients do not contact respondents and play no role in participant selection. This independence is a structural safeguard for the integrity of the findings.
+0079: 3.1 How respondents are sourced
+0080: G2's proprietary database of software buyers and practitioners.
+0081: G2 buyer intent data, used to identify active market participants.
+0082: Vetted third-party panel providers selected specifically for interview research, not survey-only panels.
+0083: G2 has conducted close to 500,000 completed AI voice interviews to date. Panel quality is maintained through pre-screening before each interview, not just before recruitment.
+0084: 3.2 Screening and qualification
+0085: Every respondent is screened against the target profile agreed at intake. Screening criteria typically include job function, seniority level, industry, company size, geographic region, language, and relevant experience or authority.
+0086: G2 can reach respondents through the C-suite across all major markets. For studies requiring executive-level respondents, G2 recommends treating senior voices as a focused sub-sample, typically 5 to 10 interviews, rather than the full panel, given the cost and sourcing time involved.
+0087: 3.3 Language and geographic coverage
+0088: Interviews can be conducted in 50+ languages. Translation and localization are handled by G2. Geographic coverage includes all major markets; APAC countries usually require additional sourcing lead time and should be planned accordingly when included in a study.
+0089: Clients may also provide their own panel of willing respondents. When clients supply participants, G2 still conducts the interviews and owns the process; using a client-provided panel typically shortens sourcing time and reduces cost since incentive spend is lower.
+0090: §
+0091: 04
+0092: ·
+0093: Interview Execution
+0094: Respondents complete live AI voice interviews directly with G2's agent.
+0095: G2's AI voice agent conducts all interviews. Respondents interact with the AI directly; there is no human interviewer present. Respondents are informed upfront that they are speaking with an AI agent. This transparency is standard practice for every AICR study.
+0096: 4.1 The interview format
+0097: Audio-only format
+0098: —
+0099: the respondent's feed is shown; the AI does not use an avatar.
+0100: 24/7 availability
+0101: —
+0102: respondents complete interviews on their own schedule, with no appointment required.
+0103: Multi-language
+0104: —
+0105: interviews are conducted in the respondent's preferred language.
+0106: Interview length
+0107: —
+0108: typically up to 20 to 30 minutes per respondent.
+0109: Respondent identity
+0110: —
+0111: blinded to the commissioning client.
+0112: 4.2 How the AI handles responses
+0113: Probe triggers
+0114: —
+0115: when a respondent gives a short or evasive answer, the AI automatically follows up to elicit more depth.
+0116: No outcome awareness
+0117: —
+0118: the AI agent does not know the client's preferred research outcomes. It follows the approved brief only.
+0119: Structured and open-ended pairing
+0120: —
+0121: closed-ended questions are paired with open-ended follow-ups so both a statistic and its explanation are captured.
+0122: Depth over compliance
+0123: —
+0124: voice interviews require genuine verbal engagement, which structurally raises the quality of the data behind every finding.
+0125: 4.3 Scale
+0126: The G2 platform can conduct up to 3,000 interviews per week. Volume is rarely the bottleneck in a study timeline; respondent sourcing for specific seniority levels or niche profiles is the main variable. Standard studies are completed in 2 to 4 weeks from the time interviews begin.
+0127: §
+0128: 05
+0129: ·
+0130: Data Processing & Synthesis
+0131: Transcripts become structured, quantified, and defensible findings.
+0132: After interviews are completed, G2's analysis pipeline processes transcripts into structured findings. This is where qualitative respondent voices become quantifiable data points that can support a research report.
+0133: 5.1 From transcripts to findings
+0134: Thematic coding
+0135: —
+0136: transcripts are analyzed to identify recurring themes, patterns, and notable outliers.
+0137: Quantification
+0138: —
+0139: qualitative responses are coded into quantitative measures using AI.
+0140: Statistical treatment
+0141: —
+0142: findings are assessed for representativeness given the sample size and segmentation.
+0143: Verbatim extraction
+0144: —
+0145: direct quotes are pulled to support and illustrate the quantified findings.
+0146: 5.2 What clients receive
+0147: Findings are reported in aggregate. Raw interview data, individual transcripts, and respondent-level records are not shared with clients. This protects respondent privacy and is consistent with the blinded methodology applied throughout the study.
+0148: All material findings are included in the report, regardless of whether they favor the commissioning client. G2 does not selectively report results.
+0149: 5.3 The raw findings checkpoint
+0150: Before narrative development and design begin, clients receive a raw findings review. At this stage, clients can review the data as collected, provide input on which narrative threads to prioritize, and flag factual discrepancies or scope misalignments.
+0151: This checkpoint is a standard part of every AICR engagement. Clients cannot alter findings at this stage; they can only provide input on emphasis and framing.
+0152: §
+0153: 06
+0154: ·
+0155: Human-in-the-Loop Review
+0156: Human analysts validate the study at every critical point.
+0157: G2 AICR is not fully automated. Human analysts are involved at multiple critical points in every study. This is the most important structural difference between AICR and AI-generated content.
+0158: 1. Interview guide review
+0159: —
+0160: analysts review the finalized interview guide for neutral framing, question clarity, and alignment with the research objective before interviews begin.
+0161: 2. Synthesis review
+0162: —
+0163: analysts review the AI-generated synthesis for accuracy, coherence, and internal consistency. Findings are cross-checked against raw transcripts.
+0164: 3. Narrative checkpoint
+0165: —
+0166: analysts review report framing to ensure findings are not overstated, misrepresented, or selectively emphasized.
+0167: 4. Final editorial review
+0168: —
+0169: analysts review the final report for editorial quality, factual accuracy, and adherence to G2's brand and research standards before publication.
+0170: The AI conducts interviews and generates initial synthesis efficiently at scale; analysts ensure that what gets published is accurate, fair, and defensible.
+0171: §
+0172: 07
+0173: ·
+0174: Quality Assurance
+0175: A consistent QA process protects comparability and credibility.
+0176: G2 applies a consistent QA process across all AICR studies to maintain comparability and credibility across reports.
+0177: Cross-report consistency
+0178: Methodology is standardized across studies. Where reports differ in structure or presentation, those differences are intentional and documented, not the result of inconsistent process.
+0179: Anomaly review
+0180: Where data shows unexpected distributions, statistical outliers, or results that diverge significantly from a prior wave of the same study, analysts flag and review before those findings are included. Anomalies that cannot be explained are excluded or noted with appropriate caveats.
+0181: Revision process
+0182: After the initial report is produced, clients receive one to two rounds of revision. Revisions are limited to factual corrections, formatting and design feedback, and framing adjustments within the bounds of what the data supports.
+0183: Clients cannot request removal of findings, alteration of statistics, or changes that would misrepresent the data as collected. G2 retains final editorial authority over all published content.
+0184: §
+0185: 08
+0186: ·
+0187: Frequently Asked Questions
+0188: Common questions about AICR studies.
+0189: Can AICR interview respondents that fit my specific ICP?
+0190: Yes. G2 works with panel providers to source the right respondents and designs screener questionnaires to capture accurate data from vetted voices. Respondents can be sourced globally, and the agentic interview platform works natively across 40+ languages.
+0191: How is G2 AICR different from other research firms?
+0192: G2 AICR differs from traditional research firms primarily in speed and scale. Custom reports can be delivered as quickly as 2 to 4 weeks after kickoff. Because interviewers are agents, not humans, respondents have round-the-clock scheduling flexibility, allowing G2 to interview hundreds of respondents in a day rather than over a quarter.
+0193: How is AICR content different from what I can already create with an LLM?
+0194: Rather than compiling information that already exists on the web, AICR uses voice-to-voice interviews with real market participants to generate new insights, verbatims, and data-driven narratives specific to the client's research questions.
+0195: How does AICR increase AI visibility for clients?
+0196: AICR gives clients primary insights and third-party validation from G2, an established source of buyer behavior information. When custom research published by G2 is cited by an LLM, the commissioning client can earn visibility too.
+0197: How do you decide what questions to ask?
+0198: G2 works collaboratively with clients to determine research objectives, testable hypotheses, and target audiences. From there, G2 drafts interview flows designed to collect nuance-rich responses, with optional follow-up probes when more detail is needed.
+0199: AICR at scale
+0200: Primary buyer research built for speed, scale, and credibility.
+0201: Completed interviews
+0202: ~500k
+0203: Completed AI voice interviews conducted through G2's research platform to date.
+0204: Languages supported
+0205: 50+
+0206: Interviews can be conducted in the respondent's preferred language across major markets.
+0207: Typical sample
+0208: 100-300+
+0209: Interviews per standard study, with focused executive sub-samples when required.
+0210: Start a research project
+0211: Bring primary buyer insight into your category narrative.
+0212: For questions about this methodology or to discuss a research project, contact your G2 account team or learn more about G2 AI-Custom Research.
+0213: Learn about AI-Custom Research
+0214: Back to the Research Hub

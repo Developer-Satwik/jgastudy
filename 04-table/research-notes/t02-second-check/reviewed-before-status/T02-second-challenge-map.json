@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-30",
+  "status": "integrated_second_challenge_draft_for_review",
+  "original_proposition_ids": [
+    "TP01",
+    "TP02",
+    "TP03"
+  ],
+  "original_hypothesis_ids": [
+    "T02-H01",
+    "T02-H02",
+    "T02-H03",
+    "T02-H04"
+  ],
+  "original_propositions_preserved": true,
+  "conditions": [
+    {
+      "condition_id": "OC01",
+      "name": "Evidence actually available for the use",
+      "application": "Match the proposed task and claim to actual releasable material, preserving role, country/remit, period, evidence object and limits. A reading path cannot create an absent case or make one setting apply to another.",
+      "boundary": "Keep a narrowly useful interpretation or an honest gap where appropriate. No extra case quotas, named-case requirement, mandatory countries or removal of eligible aggregate contributions.",
+      "claim_ids": [
+        "CLM-0526",
+        "CLM-0531"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "OC02",
+      "name": "Edition, evidence, service and change reason",
+      "application": "Separate the edition/publication date, evidence period and later briefing date. Distinguish correction of a mistake/scope defect, later-data/method refresh and a new task.",
+      "boundary": "The existing contract’s correction/defect remedies remain included; no automatic extra fee, expiry, refresh cadence or future support promise. ONS is a method analogy only.",
+      "claim_ids": [
+        "CLM-0523",
+        "CLM-0524",
+        "CLM-0525"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "OC03",
+      "name": "Briefing work boundary",
+      "application": "Define whether the briefing interprets the existing edition or needs new evidence, analysis or client-specific research. Tailoring explanation remains possible, but a request is not a formatting change merely because it is short.",
+      "boundary": "Narrow the answer, retain the unknown or agree genuine new work through the actual scope process. No unilateral charge or current-project expansion.",
+      "claim_ids": [
+        "CLM-0527",
+        "CLM-0525"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "OC04",
+      "name": "Incremental benefit and fulfilment basis",
+      "application": "Specify what acknowledgement, briefing, excerpt/use asset or optional follow-through is delivered and what extra job it helps. Existing expert/event follow-through formats mean format alone is not a unique benefit.",
+      "boundary": "A delivered placement/service is different from reach, interest, commercial response or useful impact. No need to be unique; actual relevance/value must be explored without invented outcomes.",
+      "claim_ids": [
+        "CLM-0528",
+        "CLM-0529",
+        "CLM-0530"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "OC05",
+      "name": "Exact concept, asset stage and feedback",
+      "application": "Use wording that fits the actual edition/funding purpose and record the relevant version shown. Separate an unaided need, feature reaction, conditional proposal request and actual agreement.",
+      "boundary": "An unshown variant is unknown, not refused or validated. These are contextual distinctions, not an ordered funnel, conversion forecast or added participant form.",
+      "claim_ids": [
+        "CLM-0532",
+        "CLM-0533"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    }
+  ],
+  "proposition_refinements": [
+    {
+      "proposition_id": "TP01",
+      "refinement": "Use the actual edition/releasable evidence for the stated task; a briefing can interpret but cannot invent missing geography, case detail or findings. Show evidence/service dates and distinguish included corrections from later/new work.",
+      "condition_ids": [
+        "OC01",
+        "OC02",
+        "OC03",
+        "OC05"
+      ],
+      "claim_ids": [
+        "CLM-0526",
+        "CLM-0527",
+        "CLM-0523",
+        "CLM-0525",
+        "CLM-0531",
+        "CLM-0533"
+      ]
+    },
+    {
+      "proposition_id": "TP02",
+      "refinement": "Name the actual edition and supported work, including existing commissioned/completed research. Define fulfilment of briefing/recognition/use separately from reach or sales. Use the stage-appropriate concept rather than implying a new study.",
+      "condition_ids": [
+        "OC02",
+        "OC03",
+        "OC04",
+        "OC05"
+      ],
+      "claim_ids": [
+        "CLM-0525",
+        "CLM-0528",
+        "CLM-0530",
+        "CLM-0532",
+        "CLM-0533"
+      ]
+    },
+    {
+      "proposition_id": "TP03",
+      "refinement": "Preserve free full research and optional follow-through. Any note/peer output must use permitted evidence with its actual dates; usefulness comes from relevant substance, not the note format or hospitality alone.",
+      "condition_ids": [
+        "OC01",
+        "OC02",
+        "OC04",
+        "OC05"
+      ],
+      "claim_ids": [
+        "CLM-0526",
+        "CLM-0523",
+        "CLM-0529",
+        "CLM-0530",
+        "CLM-0533"
+      ]
+    }
+  ],
+  "contract_segments_unchanged": 5,
+  "employer_additional_hypothesis_unchanged": true,
+  "free_full_practitioner_research_preserved": true,
+  "commissioned_JGA_IP_unchanged": true,
+  "report_question_count": 14,
+  "Table_question_IDs_unchanged": true,
+  "active_collection_guide_changed": false,
+  "new_mandatory_questions": 0,
+  "new_case_quota": false,
+  "requires_named_publishable_case": false,
+  "scored": false,
+  "validated": false,
+  "actual_offer_exposures": [],
+  "actual_buyer_member_input": [],
+  "actual_rights_grants": [],
+  "actual_commitments": [],
+  "financial_inputs": [],
+  "prices": [],
+  "external_actions": [],
+  "prior_model_reruns": false,
+  "prior_recommendation_counts_reused": false
+}

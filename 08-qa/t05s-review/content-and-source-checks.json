@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "scope": "Independent content and source review of current T05S component, retained primary source text, T02 propositions/delivery, original T05 map and latest T05R refinements; no new web research or external contacts.",
+  "checks": [
+    {
+      "check_id": "T02-boundaries",
+      "passed": true,
+      "detail": "The 21 tasks map to DW02/DW03/DW04/DW06/DW08 while preserving edition creation, research evidence, full report, free practitioner research and the existing agreement."
+    },
+    {
+      "check_id": "15-driver-denominators",
+      "passed": true,
+      "detail": "Contact, discussion, initial proposal, extra round, won order, reading path, use asset, partner administration, run, session, support case, invoice, renewal, cycle note and campaign units remain distinct. No grand total of unlike per-unit values."
+    },
+    {
+      "check_id": "lost-sales-work",
+      "passed": true,
+      "detail": "WS03\u2013WS06 retain unsuccessful contact, discussion, proposal and negotiation effort independently of WS07 won-order setup; no conversion factor or forecast."
+    },
+    {
+      "check_id": "bundle-and-free-distribution",
+      "passed": true,
+      "detail": "WS10/WS11 cover partner administration only. Included licences are not another sale; shared actual sessions and distribution runs count once; full free practitioner research is preserved."
+    },
+    {
+      "check_id": "reusable-asset-overlap",
+      "passed": true,
+      "detail": "Workload note reviews all WR01\u2013WR16 and JG01\u2013JG05 boundaries. Reading paths, designs, rights checks, preview and initial use/pricing preparation remain reused, with actual additional work and explicit saved preparation credits."
+    },
+    {
+      "check_id": "session-person-hours",
+      "passed": true,
+      "detail": "WS13\u2013WS15 explicitly comprise preparation/scheduling, live person-hours and bounded follow-through, rather than merely duration. Shared attendee entitlements do not multiply session counts."
+    },
+    {
+      "check_id": "correction-duty",
+      "passed": true,
+      "detail": "WS16/WS18 contain incremental triage/routing/close and redistribution only. Substantive correction remains WR10/WR13/WR14 and ordinary within-scope remedies do not create extra invoices."
+    },
+    {
+      "check_id": "no-automatic-renewal",
+      "passed": true,
+      "detail": "WS19 applies only to a genuinely initiated expiry/renewal action; it assumes no renewal, revenue, future edition, recurring programme or changed current contract."
+    },
+    {
+      "check_id": "proxy-rates",
+      "passed": true,
+      "detail": "Research GBP372/day divided by the explicit 7.5-hour assumption gives GBP49.60/hour. CIEP GBP46.19/hour is only an adjacent coordination comparison. Neither supplies actual payroll-specialist, sales, finance, employee or JGA rates."
+    },
+    {
+      "check_id": "unknown-commercial-and-quantities",
+      "passed": true,
+      "detail": "FI-S01 and all 15 quantities are null; the workbook inputs remain blank. Zero is deliberate exclusion/zero incremental work only; applicable unknowns block totals."
+    },
+    {
+      "check_id": "resource-versus-cash",
+      "passed": true,
+      "detail": "Readout and inputs distinguish resource allocation from extra payroll cash, quote, authorised expense, price, tax/fees/expenses and programme budget. No actual orders, quotes, staffing, timesheets or external actions populated."
+    },
+    {
+      "check_id": "primary-bid-context",
+      "passed": true,
+      "detail": "CLM-0575 follows the retained nibusinessinfo guidance on unsuccessful tender preparation and staffing cost; limitations do not infer direct-sales hours or success rates."
+    },
+    {
+      "check_id": "primary-service-context",
+      "passed": true,
+      "detail": "CLM-0576\u2013CLM-0580 follow retained ABI/Forrester text on entitlements, metering, preparation, bounded sessions, custom work and provider-error correction. Scope ceilings and service windows are not interpreted as observed labour or JGA terms."
+    },
+    {
+      "check_id": "primary-rights-context",
+      "passed": true,
+      "detail": "CLM-0581 preserves exact external-use/replay/reprint distinctions as a Forrester example, not a new JGA ownership restriction or price."
+    },
+    {
+      "check_id": "method-analogy",
+      "passed": true,
+      "detail": "CLM-0583\u2013CLM-0585 follow retained government guidance sections on boundaries, activity drivers, assumptions, assurance and unit denominators. Public charging rules, overheads and example values are not adopted."
+    },
+    {
+      "check_id": "bounded-researcher-application",
+      "passed": true,
+      "detail": "CLM-0582 is labelled researcher_cost_application, distinguishes reference proxies from unavailable actual rates, and grants no new pricing, capability, demand or savings claim."
+    }
+  ],
+  "open_substantive_issues": []
+}

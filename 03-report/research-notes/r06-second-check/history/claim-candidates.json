@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H6S-C01",
+      "source_ids": [
+        "H6S-S01"
+      ],
+      "claim_text": "The 2021 LFB authorisation describes past continuation/workarounds, then discounts unchanged/upgraded/shared-service options in its stated context and approves commitment for replacement. Receiving-service capacity and timing are part of that option set.",
+      "evidence_class": "official_employer_historical_options_and_authorisation",
+      "locator": "Decision; executive summary; paras 1.3,1.5,1.7,2.3",
+      "limitations": "Historical stated rationale, not independent option appraisal, proof previous retention was irrational or a universal replacement necessity.",
+      "population": "Selected single public employer programme; source and analyst inference distinct",
+      "review_mode": "Relevant original 2021 HTML reader sections inspected; raw retrieval unavailable, selected paraphrased notes retained.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "2021 initial authorisation and 2025 reset; no measured market trend or completed 2026 outcome"
+    },
+    {
+      "candidate_id": "H6S-C02",
+      "source_ids": [
+        "H6S-S02"
+      ],
+      "claim_text": "The signed 2025 LFB report records postponed rollout and a project reset with additional oversight, delivery/resourcing support and legacy maintenance continuation, while retaining iTrent as the intended solution.",
+      "evidence_class": "official_employer_reset_and_spending_decision",
+      "locator": "PDF 1 cover; PDF 2 summary/recommendation; PDF 3 paras 1.4–2.3; PDF 4 paras 2.4–2.7",
+      "limitations": "Reset/authorisation and prospective plans are not completed remediation, supplier contract execution, actual 2026 go-live or achieved benefit. No parallel-run minimum or published financial amount adopted.",
+      "population": "Selected single public employer programme; source and analyst inference distinct",
+      "review_mode": "Relevant retained 2025 original PDF pages 1–4 rendered and visually checked; companion public authorisation inspected through reader. No product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "2021 initial authorisation and 2025 reset; no measured market trend or completed 2026 outcome"
+    },
+    {
+      "candidate_id": "H6S-C03",
+      "source_ids": [
+        "H6S-S02"
+      ],
+      "claim_text": "LFB reports that the remaining support horizon and alternative-procurement/transition effort constrain the available routes; it expects the same legacy-data transfer issues to affect another new system.",
+      "evidence_class": "official_employer_stated_feasibility_and_portable_dependency",
+      "locator": "PDF 4 para 2.8, read with PDF 2 para 1.1 and PDF 3 paras 1.5/2.3",
+      "limitations": "Single employer diagnosis and contingent scenario, not verified impossibility, universal lock-in or proof another provider would fail. Actual next outcome remains unestablished.",
+      "population": "Selected single public employer programme; source and analyst inference distinct",
+      "review_mode": "Relevant retained 2025 original PDF pages 1–4 rendered and visually checked; companion public authorisation inspected through reader. No product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "2021 initial authorisation and 2025 reset; no measured market trend or completed 2026 outcome"
+    },
+    {
+      "candidate_id": "H6S-C04",
+      "source_ids": [
+        "H6S-S01",
+        "H6S-S02"
+      ],
+      "claim_text": "R06 should record the feasible alternatives and conditions at each substantive event, including which obstacles persist across alternatives and what maintaining the current service requires during change.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Comparison of 2021 options and 2025 reset, each retained in its dated original scope",
+      "limitations": "Optional analysis, not a validated dynamic model, mandatory governance sequence or hindsight claim that prior decisions were unreasonable. No new required interview question.",
+      "population": "Selected single public employer programme; source and analyst inference distinct",
+      "review_mode": "Relevant 2021 HTML reader sections and retained 2025 PDF pages 1–4 inspected; PDF pages rendered and visually checked. No product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "2021 initial authorisation and 2025 reset; no measured market trend or completed 2026 outcome"
+    },
+    {
+      "candidate_id": "H6S-C05",
+      "source_ids": [
+        "H6S-S02"
+      ],
+      "claim_text": "A forecast milestone remains unobserved without later evidence even when its target date has passed. Record the last evidenced event/date and current observation boundary instead of coding completion, continued delay or abandonment from elapsed time alone.",
+      "evidence_class": "researcher_evidence_timing_guardrail",
+      "locator": "2025 report planned February / contingency April 2026; latest substantively inspected event is 18 December 2025 authorisation",
+      "limitations": "Observation-boundary rule, not statistical survival analysis or proof there was no later event. Targeted search did not establish a subsequent result; silence cannot establish failure or success.",
+      "population": "Selected single public employer programme; source and analyst inference distinct",
+      "review_mode": "Relevant retained 2025 original PDF pages 1–4 rendered and visually checked; companion public authorisation inspected through reader. No product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "2021 initial authorisation and 2025 reset; no measured market trend or completed 2026 outcome"
+    }
+  ]
+}

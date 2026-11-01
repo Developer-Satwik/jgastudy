@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Distinguish contextual mechanism and option eligibility from demonstrated between-group priorities",
+  "queries": [
+    "site.gov.uk holiday pay irregular hours part-year guidance",
+    "site.gov.uk PAYE employees working abroad territory duration",
+    "Original source review Basic PAYE Tools own-employer eligibility and task limits",
+    "Re-read West Sussex10March2026 rollout rationale"
+  ],
+  "inspected_routes": [
+    "https://www.gov.uk/government/publications/simplifying-holiday-entitlement-and-holiday-pay-calculations/holiday-pay-and-entitlement-reforms-from-1-january-2024",
+    "https://www.gov.uk/guidance/paying-employees-working-abroad",
+    "https://www.gov.uk/basic-paye-tools",
+    "https://schools.westsussex.gov.uk/Article/184856"
+  ],
+  "selection_rationale": "Two conditional official mechanisms and two bounded canonical scope/employer examples are sufficient for this strand. No country/sector ranking or additional survey is manufactured.",
+  "excluded": [
+    "Secondary news/adviser tax advice and forum anecdotes",
+    "Specific rates, example hours, country lists and duration thresholds",
+    "Statistical SME/large or country-group difference without comparable item bases and method",
+    "Treating a public-authority example as a representative sector, or separate documents as new employers"
+  ],
+  "external_actions": []
+}

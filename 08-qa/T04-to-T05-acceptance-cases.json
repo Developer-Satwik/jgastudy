@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-31",
+  "status": "acceptance_test_design_for_T05_not_workbook_results",
+  "numeric_units": "Purely constructed abstract units. These are not GBP/USD price assumptions, quotes, forecasts or financial-register values.",
+  "cases": [
+    {
+      "test_id": "BE01",
+      "purpose": "Gap already covered, even with nonpositive incremental margin",
+      "constructed_inputs": {
+        "gap": -1,
+        "unit_contribution": 0
+      },
+      "expected_behaviour": "0 additional licences; no divide by zero",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "BE02",
+      "purpose": "Positive gap and positive margin require whole units",
+      "constructed_inputs": {
+        "gap": 101,
+        "unit_contribution": 20
+      },
+      "expected_behaviour": "6 additional licences",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "BE03",
+      "purpose": "Positive gap and zero margin",
+      "constructed_inputs": {
+        "gap": 100,
+        "unit_contribution": 0
+      },
+      "expected_behaviour": "No finite break-even with this product",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "BE04",
+      "purpose": "Positive gap and negative margin",
+      "constructed_inputs": {
+        "gap": 100,
+        "unit_contribution": -5
+      },
+      "expected_behaviour": "No finite break-even with this product",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "EV01",
+      "purpose": "Minimum spend explicitly offsets eligible consumption",
+      "constructed_inputs": {
+        "eligible_consumption": 80,
+        "minimum_spend": 100,
+        "separate_hire": 10
+      },
+      "expected_behaviour": "110 before any separately defined noneligible items/tax/service, not190; applies only if actual terms confirm offset",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "CS01",
+      "purpose": "Deposit is credited against the total invoice",
+      "constructed_inputs": {
+        "total_invoice": 100,
+        "credited_deposit_paid": 30
+      },
+      "expected_behaviour": "Total cost100; remaining payment70; cash timing records30 then70",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "UN01",
+      "purpose": "One person hosts and moderates",
+      "constructed_inputs": {
+        "practitioners": 15,
+        "additional_distinct_host_moderator_people": 1
+      },
+      "expected_behaviour": "16 total seats, not17",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "UN02",
+      "purpose": "One common edition is used across four city events",
+      "constructed_inputs": {
+        "common_edition_count": 1,
+        "gatherings": 4
+      },
+      "expected_behaviour": "One common production cost plus four actual city increments; no automatic four edition charges",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "RV01",
+      "purpose": "Partner bundle includes one research-use licence",
+      "constructed_inputs": {
+        "partner_order": 1,
+        "included_licence": 1,
+        "additional_standalone_order": 0
+      },
+      "expected_behaviour": "Count partner fee once and zero additional licence revenue",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "CA01",
+      "purpose": "Customer receipt moves after supplier deposit",
+      "constructed_inputs": {
+        "receipt_delayed": true,
+        "cost_and_fulfilment_scope_unchanged": true
+      },
+      "expected_behaviour": "Operating contribution can remain unchanged while peak funding may worsen; dates and starting cash determine the actual result",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "NA01",
+      "purpose": "Research-only case selected; venue rate missing",
+      "constructed_inputs": {
+        "selected_route": "A-PILOT",
+        "venue_rate": null
+      },
+      "expected_behaviour": "Missing unselected event input does not block otherwise complete research-only case",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "NA02",
+      "purpose": "Selected international cost lacks currency conversion",
+      "constructed_inputs": {
+        "selected_cost_currency": "EUR",
+        "GBP_per_EUR_rate": null
+      },
+      "expected_behaviour": "Affected GBP result unresolved; do not assume1or0",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "BE05",
+      "purpose": "Exactly covered gap with negative incremental margin",
+      "constructed_inputs": {
+        "gap": 0,
+        "unit_contribution": -5
+      },
+      "expected_behaviour": "0 additional licences; positive-gap no-finite branch does not apply",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "EV02",
+      "purpose": "Eligible consumption exceeds an offsetting minimum",
+      "constructed_inputs": {
+        "eligible_consumption": 120,
+        "minimum_spend": 100,
+        "separate_hire": 10
+      },
+      "expected_behaviour": "130 before separately defined items/tax/service, not230; offset only if actual terms confirm",
+      "workbook_test_executed": false
+    },
+    {
+      "test_id": "NA03",
+      "purpose": "Selected event cost is missing",
+      "constructed_inputs": {
+        "selected_route": "B-PILOT",
+        "applicable_room_minimum": null
+      },
+      "expected_behaviour": "Affected event result remains unresolved, not silently zero; show which required cost is missing",
+      "workbook_test_executed": false
+    }
+  ],
+  "actual_workbook_results": []
+}

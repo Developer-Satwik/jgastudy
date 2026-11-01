@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-28",
+  "files": [
+    {
+      "path": "03-report/research-notes/r02-second-check/history/hmrc-rti-2017.pdf",
+      "sha256": "61ad0997641db5449265920d505317aae9854d3c8c8cd8056ca062f508e72073"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/history/cipp-rti-2025.html",
+      "sha256": "ac86c9945d0c33bc63c6e810a0ed493c485aba8d8ae70760ad2e2932130533a7"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/history/ons-rti-qa-2025.html",
+      "sha256": "6db38a5476e2ae84ba839a44a160120b47bc4834e1c85315741e0a426b9dd7c8"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/history/cipp-rti-cases-2025.pdf",
+      "sha256": "2e379c73c079651391cde9d3ca373280611fe6955444d916532286727098622c"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/market/hmrc-basic-tools.html",
+      "sha256": "66a446fb6cb928409e395f45e2de6891d791b96fad20773c4484c4b56517038c"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/market/hmrc-recognised-software.html",
+      "sha256": "d6d40bdce0da4a5d73e1e06b6633396b56c86df62d5d98641df82dc4dccf3d2f"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/market/xero-uk-pricing.html",
+      "sha256": "768d87ffcb9f56f94653abef157cff4e5f743784663a252d34cd70b35ddb7f1e"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/market/xero-uk-payroll.html",
+      "sha256": "b633e47cae6010f59d6f5b428a22b7e80835fca638df0fad2f9db8721ad3eb9d"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S04.html",
+      "sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S05.html",
+      "sha256": "9b2f4a099d49809b1f1bc0489f38dd31080504382ea24e5ea6c5c56a3c15155e"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S06.html",
+      "sha256": "6c5fca5506a5eeb7171820d5281c8f86f607bc690e6b6de656b2207bfd641105"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S07.html",
+      "sha256": "f01a5b3f2c7022cfb050231d6bf4163df9c89a72e04677c99af607e0dba8feb9"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S09.html",
+      "sha256": "72a3900c7d50ade25f25b691651a3e705f2a88bb04290cf35b3e772b7d4c5897"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/root/SC-ROOT-S01.html",
+      "sha256": "f989b48fcf5ff1df5b6222d5fe1adc8b03a0b7f34a362187dba8b60803d5017f"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/root/SC-ROOT-S02.html",
+      "sha256": "2d1582493ccec906888cbff007718a6024c5d3aed08dd3ab0c91cdc3bb797559"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/root/SC-ROOT-S03.pdf",
+      "sha256": "2d8ed8ce0b0be4611bb0a60e2a36de8ac2bfe40f6dd4b881b9316fb66d1f035a"
+    }
+  ]
+}

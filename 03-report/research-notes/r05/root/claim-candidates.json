@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5ROOT-C01",
+      "source_ids": [
+        "R5ROOT-S01"
+      ],
+      "claim_text": "Magenta Book connects early, proportionate evaluation planning and resourcing with the business case so that appraised costs/benefits can later be assessed.",
+      "evidence_class": "official_evaluation_design_guidance",
+      "locator": "Sections1.2,1.6–1.7.1,3.4–3.5",
+      "population": "Central-government evaluation design; transferable analytical principles, not observed employer payroll outcomes",
+      "limitations": "Proportionate source-scoped guidance; no compulsory employer RCT, causal attribution from before/after alone, payroll ROI or prescribed corporate threshold.",
+      "review_mode": "Relevant original HTML sections read and actual original retained; not a product experiment or employer impact evaluation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance inspected29October2026; no observed benefit time series"
+    },
+    {
+      "candidate_id": "R5ROOT-C02",
+      "source_ids": [
+        "R5ROOT-S01"
+      ],
+      "claim_text": "The guidance distinguishes monitoring/benefit realisation from evaluating additional effect, contribution or attribution; comparison and method must fit the question and available evidence.",
+      "evidence_class": "official_evaluation_concept_boundary",
+      "locator": "Sections1.2,1.6–1.7.1,3.4–3.5",
+      "population": "Central-government evaluation design; transferable analytical principles, not observed employer payroll outcomes",
+      "limitations": "Proportionate source-scoped guidance; no compulsory employer RCT, causal attribution from before/after alone, payroll ROI or prescribed corporate threshold.",
+      "review_mode": "Relevant original HTML sections read and actual original retained; not a product experiment or employer impact evaluation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance inspected29October2026; no observed benefit time series"
+    },
+    {
+      "candidate_id": "R5ROOT-C03",
+      "source_ids": [
+        "R5ROOT-S02"
+      ],
+      "claim_text": "NIST recommends context-relevant AI evaluation, documenting limits to generalisation and checking performance before and after deployment. This does not establish a payroll product result or financial benefit.",
+      "evidence_class": "voluntary_ai_evidence_guidance",
+      "locator": "Measure1.1–1.2,2.3,2.5 and relevant4.2; live update notice",
+      "population": "AI task/context evaluation; not a payroll sample or product certification",
+      "limitations": "Framework/playbook update is explicitly in progress. Voluntary guidance; no payroll accuracy threshold, independent product verification, legal mandate or cash-saving result.",
+      "review_mode": "Relevant original HTML sections read and actual original retained; not a product experiment or employer impact evaluation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance inspected29October2026; no observed benefit time series"
+    },
+    {
+      "candidate_id": "R5ROOT-C04",
+      "source_ids": [
+        "R5ROOT-S02"
+      ],
+      "claim_text": "For an AI-related payroll benefit claim, case analysis should separate task time, review/correction work, quality, permitted action and deployment conditions rather than infer cash savings from a demonstration.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Measure1.1–1.2,2.3,2.5 and relevant4.2; live update notice",
+      "population": "AI task/context evaluation; not a payroll sample or product certification",
+      "limitations": "Framework/playbook update is explicitly in progress. Voluntary guidance; no payroll accuracy threshold, independent product verification, legal mandate or cash-saving result.",
+      "review_mode": "Relevant original HTML sections read and actual original retained; not a product experiment or employer impact evaluation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance inspected29October2026; no observed benefit time series"
+    }
+  ]
+}

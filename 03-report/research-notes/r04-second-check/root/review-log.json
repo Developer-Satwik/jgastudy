@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "original_body_reviews": [
+    {
+      "url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities/consulting-about-employment-contract-changes",
+      "locators": "Who you should consult; How you should consult; displayed update27October2026",
+      "result": "Terms-change context, not universal software-purchase approval"
+    },
+    {
+      "url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities",
+      "locators": "Agreement routes; What to consider first",
+      "result": "Check whether employment-term change is needed; no employer-specific legal conclusion"
+    },
+    {
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/monitoring-workers/data-protection-and-monitoring-workers/",
+      "locators": "Consent; DPIA; worker discussion; live under-review warning",
+      "result": "Worker input, advice, conditional external consultation and processing basis separated"
+    },
+    {
+      "source_id": "SRC-0169",
+      "url": "https://chazeypartners.com/project/global-payroll-transformation-journey-with-chazey-overcoming-challenges-to-achieve-success/",
+      "reader_reference": "turn528view0",
+      "locators": "Original live body67–82",
+      "result": "Root independently read adviser diagnosis of practical implementation calls and revised governance; no formal-delegation or causal inference"
+    },
+    {
+      "source_id": "SRC-0166",
+      "url": "https://www.gov.uk/government/publications/digital-assurance-playbook/digital-assurance-playbook",
+      "reader_reference": "turn528view1",
+      "locators": "Original live sections1–2 and7.4–7.6",
+      "result": "Formal2026 approval/assurance change, not measured implementation or private-market trend"
+    }
+  ],
+  "new_source_routes_in_this_root_strand": 2,
+  "original_practitioners": 0,
+  "external_actions": [],
+  "source_captures": "Three raw HTML files including same-guide context; actual capture hashes in capture-log.json"
+}

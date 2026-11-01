@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "INT-C01",
+      "source_candidate_ids": [
+        "INT-S01"
+      ],
+      "claim_text": "The stated integration uses HR as the master and can overwrite payroll fields with blanks; tax-code handling is separate.",
+      "locator": "HR is the data source; How syncing works; What to do if data is missing or wrong",
+      "evidence_class": "documented_product_behaviour",
+      "population": "One stated HR-to-payroll integration; declared behaviour, not observed customer outcomes",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "Master/source and overwrite rules are product-specific. No incident frequency, accuracy benefit, all-product exception rule or causal outcome inferred.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C02",
+      "source_candidate_ids": [
+        "INT-S02"
+      ],
+      "claim_text": "The help describes payroll locks and manual catch-up for some variable elements, so automatic connection does not establish inclusion in the intended run.",
+      "locator": "Integration Log; Cost Centres/Departments; Payroll Lock; Sync Variable Payments and deductions",
+      "evidence_class": "documented_product_behaviour",
+      "population": "One stated HR-to-payroll integration; configuration and operating options",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "The existence of locks/logs/manual catch-up does not prove a customer has enabled controls or achieves accurate/timely pay. Do not generalise current setup to all integrations.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C03",
+      "source_candidate_ids": [
+        "INT-S02"
+      ],
+      "claim_text": "Mapping and ownership of cost-centre/department data affect updates; integration logs expose failed syncs and their reasons.",
+      "locator": "Integration Log; Cost Centres/Departments; Payroll Lock; Sync Variable Payments and deductions",
+      "evidence_class": "documented_product_behaviour",
+      "population": "One stated HR-to-payroll integration; configuration and operating options",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "The existence of locks/logs/manual catch-up does not prove a customer has enabled controls or achieves accurate/timely pay. Do not generalise current setup to all integrations.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C04",
+      "source_candidate_ids": [
+        "INT-S03"
+      ],
+      "claim_text": "The async guide separates returned job reference from completion and error/result retrieval; it explicitly limits the described access to beta-enabled users.",
+      "locator": "Async Jobs; Retrieving Files; Notes",
+      "evidence_class": "documented_api_state_boundary",
+      "population": "Documented async import/report mechanism; guide labels availability beta",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "Immediate job response is not completed processing. Preserve explicit beta-access limitation; no general availability, runtime, capacity or success-rate claim.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C05",
+      "source_candidate_ids": [
+        "INT-S04"
+      ],
+      "claim_text": "The import schema distinguishes completed processing from failure or completion with errors and includes row-level errors and summary totals.",
+      "locator": "ImportResultDetails schema: status, summary, errors; returned by beta operation",
+      "evidence_class": "documented_api_state_boundary",
+      "population": "Documented import-result schema, not a customer incident dataset",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "Schema states and example values are definitions, not observed frequencies or measured results. Related result endpoint is marked beta.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C06",
+      "source_candidate_ids": [
+        "INT-S05"
+      ],
+      "claim_text": "The webhook guide lists payroll change/job/run events and payload/response inspection; those are notification states, not bank receipt or external-record correction.",
+      "locator": "Our Implementation; supported events; response-code/payload inspection",
+      "evidence_class": "documented_event_scope_with_analytical_limit",
+      "population": "Documented payroll event notification mechanism",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "Published event coverage and debugging options only. No replay, delivery-time or bank/authority outcome guarantee. Do not infer a missing capability from omitted list items.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C07",
+      "source_candidate_ids": [
+        "INT-S06"
+      ],
+      "claim_text": "Xero says payroll API authorisation needs a Payroll Admin and recommends testing before a live connection; access is a prerequisite separate from feature availability.",
+      "locator": "Permissions: building/testing integration; authorising app; payroll access",
+      "evidence_class": "documented_permission_boundary",
+      "population": "Generic Xero API permission guidance, not a UK endpoint fit assessment",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "No unseen UK endpoint behaviour, customer entitlement, least-privilege certification or tested live access inferred.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "INT-C08",
+      "source_candidate_ids": [
+        "INT-S07"
+      ],
+      "claim_text": "HMRC links payroll-ID changes during software/provider transitions to duplicate-record risk and distinguishes certain existing discrepancies requiring external correction.",
+      "locator": "Duplication of employee records; Payroll ID; Purpose and scope",
+      "evidence_class": "official_operational_mechanism",
+      "population": "UK RTI reporting and discrepancy mechanisms, not a market survey",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live documentation inspected 29 October 2026; not an outcome time series.",
+      "limitations": "Guidance is classified as promotional material on GOV.UK but gives official operating explanations. No national error rate, legal advice, uniform correction procedure or complete migration checklist inferred.",
+      "review_mode": "Relevant original sections read through web and retained live HTML; no endpoint exercise or customer validation.",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+Help to prevent payroll errors and PAYE RTI disputed charges — GfC22 - GOV.UK
+Cookies on GOV.UK
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+Accept additional cookies
+Reject additional cookies
+View cookies
+Hide cookie message
+Skip to main content
+GOV.UK
+Navigation menu
+Menu
+Menu
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+Departments, agencies and public bodies
+News
+News stories, speeches, letters and notices
+Guidance and regulation
+Detailed guidance, regulations and rules
+Research and statistics
+Reports, analysis and official statistics
+Policy papers and consultations
+Consultations and strategy
+Transparency
+Data, Freedom of Information releases and corporate reports
+Search GOV.UK
+×
+Search GOV.UK
+Search
+Search GOV.UK
+Search
+Home
+Money
+Personal tax
+Income Tax
+Overpayments and underpayments
+Help to prevent payroll errors and PAYE RTI disputed charges — GfC22
+HM Revenue & Customs
+Promotional material
+Help to prevent payroll errors and PAYE RTI disputed charges — GfC22
+Published 22 October 2026
+Contents
+Purpose and scope
+Background
+Duplication of employee records
+PAYE mergers and successions
+Submissions made to the wrong PAYE scheme
+Payments made to the wrong reference
+Using the wrong National Insurance category letters
+Further information
+Print this page
+© Crown copyright 2026
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk .
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22
+Purpose and scope
+These guidelines explain the most common Real Time Information ( RTI ) reporting errors that can lead to disputed charges. They are for employers and anyone who submits payroll information on their behalf. They may also be useful for tax agents and professional bodies that provide advice on these matters.
+RTI reporting errors can cause differences between your payroll records and HMRC’s records. This can lead to disputed charges and delays while the records are corrected. Following these guidelines will help you submit accurate RTI returns and reduce the risk of disputed charges.
+These guidelines:
+provide background information on RTI disputed charges
+highlight the most common errors
+advise how to avoid making these errors
+explain what to do if you make a mistake
+Use these guidelines alongside existing HMRC guidance. We’ll link to relevant information when you need it.
+Background
+An RTI disputed charge arises when the amount of PAYE due according to your payroll records does not match the amount shown in HMRC’s records. This can happen when missing, duplicate or incorrect RTI submissions create discrepancies in HMRC’s records.
+Discrepancies can lead to you overpaying PAYE as well as underpaying it. Employers should tell HMRC about any discrepancy they identify whether it results in a debit or a credit.
+If you dispute an amount you owe, HMRC will usually pause debt recovery while it investigates the issue. Continue to pay any PAYE that you do not dispute. This will reduce the risk of interest and penalties.
+During an investigation, HMRC will check that:
+all Full Payment Submissions ( FPS ) were filed correctly
+the data submitted matches our records
+Further information is available at Fix problems with running payroll and Get help to correct an employer PAYE bill .
+The remainder of these guidelines explain the most common errors and how to avoid them.
+Duplication of employee records
+Creating duplicate employment records is one of the most common RTI reporting errors. A duplicate employment record is an additional record created for the same employee. The records may have different year-to-date totals or payroll IDs.
+Duplicate employee records can cause:
+you to pay too much or too little PAYE, leading to unneeded debt collection activity
+your employee to pay the wrong amount of tax, National Insurance contributions and student loan repayments
+your employee to get the wrong amount of Universal Credit and tax credits
+The following sections explain the most common causes of duplicate employee records, why they may lead to disputed charges and how to avoid them.
+Adding an employee when they start a new employment
+An employee starting a new employment is one of the most common causes of duplicate employee records. To reduce the risk of creating a duplicate record, make sure all employee details are recorded accurately. The following information will help ensure employee details are recorded correctly.
+When entering an employee’s name on your payroll system, make sure you:
+enter first names and surname or family name in separate fields
+check that first names are in the correct order
+enter double-barrelled names or multiple surnames (for example, under some non-UK naming customs) into one field
+always check the spelling of names using an official document, such as a driving licence or passport
+only use initials if the employee’s full first names are not known — if initials are used, they must be entered in the appropriate field on the submission
+When entering an employee’s date of birth on your payroll system, make sure you:
+enter the full date of birth in the format DD/MM/YYYY (for example, 13/02/1994)
+do not enter a default or false date of birth
+You can usually find this information on the employee’s form P45. If a new employee does not have a form P45, tell them to complete a starter checklist and return it to you.
+You will need to ask HMRC to correct your PAYE records if either:
+duplicate employment records have been created
+information is linked to the wrong person
+You cannot fix these issues by submitting a new FPS . Use HMRC’s online form Get help to correct an employer PAYE bill .
+Completing the starter checklist
+The starter checklist collects information you need to set up the payroll records correctly.
+Use the starter declaration details to set up the employee on your payroll and use the correct PAYE tax code. Using the wrong details can result in incorrect payroll information and disputed charges.
+A duplicate employee record may be created if:
+you report a starter checklist through RTI for an employee who is not a new starter and is already included in your RTI records
+you treat a returning seasonal worker as a new starter instead of correctly reporting the irregular payment pattern through RTI
+You must keep the completed checklist for the current tax year and the following 3 tax years.
+You can read more about new employees and starter checklists on GOV.UK at:
+Tell HMRC about a new employee
+How to support your new employees — understanding the starter declaration form
+If an employee is coming to work in the UK from abroad, there is a separate starter checklist. Find the correct checklist in the starter checklist guidance. Further information is available at New employee coming to work from abroad .
+Incorrect start date
+You must enter the date the employee actually started work on the FPS . Do not use the start date from a previous employment when setting up a returning employee as a new starter.
+Using the wrong date can cause HMRC to create or link the wrong employment record. This can lead to incorrect tax codes and disputed PAYE charges.
+If this happens, you may need to ask us to correct the record.
+National Insurance numbers
+If you do not record your employee’s National Insurance number, or you record it incorrectly, you may create a duplicate employee record on HMRC’s systems.
+You must request your new employee’s National Insurance number as soon as they start working for you. This will help you report the correct information to HMRC.
+If you do not have your employee’s National Insurance number in time for the first payment date, leave the National Insurance number field on the RTI submission blank.
+You must not use a temporary or default reference number for the employee.
+Instead, you should record their:
+full name
+date of birth
+Using the wrong National Insurance number can add information to another employee’s record. This can result in missing or duplicate employment records and may affect your employees’ tax code or benefit claims.
+You must make sure your employee’s National Insurance number is correct. If you’re unsure, you can verify their National Insurance number by checking official documents from HMRC or the Department for Work and Pensions (DWP).
+Payroll ID
+A payroll ID, sometimes known as a works number, is the reference number you use to identify employees on your payroll records.
+Including a payroll ID in your FPS helps HMRC match pay and tax information to the correct employment record. You can reduce the risk of duplicate records being created by using the same payroll ID for the employee’s whole period of employment.
+If you change an employee’s payroll ID and we cannot link it to the previous one, we may treat the employee as having started a new employment. This can result in duplicate employment records and may lead to disputed charges.
+A change of payroll ID most commonly happens when:
+you change payroll software
+you change payroll provider
+your business restructures
+your business merges with another business
+If you need to change a payroll ID, you should:
+select the ‘payroll ID changed’ indicator in your FPS
+enter the previous payroll ID in the ‘old payroll ID’ field
+make sure the previous payroll ID matches exactly the payroll ID used on earlier submissions
+This information helps HMRC link the new payroll ID to the existing employment record.
+You should try to obtain the previous payroll ID wherever possible. You may be able to get it from:
+previous payroll records
+a previous payroll provider
+the employee
+an earlier payslip
+If you cannot obtain the previous payroll ID, leave the ‘old payroll ID’ field blank. HMRC will use the information available to try to match the new payroll ID to the correct employment record.
+Payments after an employee leaves
+You must submit a final FPS when an employee stops working for you. This FPS must include:
+the employment end date
+the details of the final payment made to the individual
+Submitting this information correctly ensures the employment record can be closed without generating mismatches or duplicate records.
+In some cases, you may need to make a further payment after you have already submitted the final FPS . This is known as a payment after leaving ( PAL ).
+HMRC systems treat each PAL as a one-off, standalone payment. If more than one PAL is submitted, HMRC may initially treat them as separate payments, which can increase the risk of duplicate records.
+To ensure PALs are processed and matched correctly, you should:
+select the late reporting code ‘H’ for any additional PAL beyond the first, confirming that the payment is a correction to a previous PAL
+record ‘Pay in Period’ as ‘0.00’ to indicate that no further regular payments have been made
+adjust ‘Pay to Date’ and ‘Tax to Date’ values where required
+If you follow this process, HMRC systems should be able to match additional PALs to the original PAL correctly, reducing the risk of duplicate employment records being created.
+Pay frequency
+You must select the correct pay frequency indicator on the FPS , particularly where a payment does not fall within standard weekly or monthly pay patterns.
+Using the ‘one-off payment’ indicator incorrectly can cause problems. This indicator should only be used where an individual is paid for a single, one-off piece of work and will receive no further payments. For example, this could apply to a one-week or one-month engagement, or where a pensioner receives a single payment that fully exhausts their pension fund.
+If the one-off payment indicator is included on the FPS , the system will automatically treat the employment or pension as having ended. To reverse this, you need to ask HMRC to reopen the record.
+Further guidance on reporting one-off payments can be found in HMRC’s guidance at CWG2: Employer further guide to PAYE and National Insurance contributions . The relevant information is in section 1.7.
+PAYE mergers and successions
+Changes in business ownership or structure can affect how payroll information is reported to HMRC. Depending on the circumstances, the change may be treated as either a PAYE scheme merger or a succession. Different reporting requirements apply to each.
+Using the wrong process can cause RTI mismatches, duplicate employment records and disputed charges. These issues can be time-consuming to resolve and may require HMRC to correct payroll records.
+Before making payroll changes, make sure you understand whether the change is a PAYE scheme merger or a succession. It may not always be straightforward to determine which treatment applies.
+Before making payroll changes, contact HMRC’s Employer Helpline if you are unsure whether the change should be treated as a merger or a succession. They can confirm:
+whether the change is a merger or a succession
+which PAYE reference should be used
+whether a new employer reference is required
+You can find more information about mergers and successions and the actions you should take at:
+PAYE30000: Employer records - movement of an employer record
+What to do if your business merges or changes ownership
+Submissions made to the wrong PAYE scheme
+If you run more than one PAYE scheme, you may accidentally report an employee under the wrong scheme.
+When this happens, HMRC may treat the employee as having another job. This can create incorrect records and cause differences between your records and HMRC’s.
+If you later correct the RTI submission, it can also affect payments that have already been made. For example:
+if you reduce a liability that has already been paid, a credit may appear on the account
+if you increase a liability that has already been paid, the account may show an amount due until the extra payment is made
+To help avoid these issues, make sure employees are reported under the correct PAYE scheme and check PAYE references before sending or correcting RTI submissions.
+Payments made to the wrong reference
+Using the wrong Accounts Office reference can result in a payment being allocated to the wrong scheme or tax period. When this happens, one scheme may show a credit while another shows a debt. This often leads employers to contact HMRC to query or dispute their account.
+To help HMRC allocate your payments correctly, always use the correct 17-character reference when making a payment. This consists of your 13-character Accounts Office reference (without spaces), followed by 4 digits. These 4 digits identify the tax year and tax month of the payment.
+Example
+If a company is making a payment for March 2025, the Accounts Office reference would be shown as 123PA123456782512. In the example:
+the first 13 characters (123PA12345678) are the Accounts Office reference
+the next 2 digits (25) represent the tax year ending in 2025
+the last 2 digits (12) represent month 12 of the tax year, which is March
+In this example, 2512 means the payment relates to March 2025.
+Using the full reference helps ensure your payment is allocated correctly and reduces the risk of unnecessary discrepancies or disputes.
+If you discover that you have made a payment using the wrong Accounts Office reference, you will need to contact HMRC’s Employer Helpline and ask for the payment to be traced and reallocated. You will need to provide:
+the correct Employer PAYE reference
+the 13-character Accounts Office reference
+the exact amount paid
+the date the payment was made
+the bank account details you used to make the payment
+details of the incorrect reference used
+For more information, read HMRC’s guidance on Reference numbers for early and late PAYE payments .
+Using the wrong National Insurance category letters
+Using the wrong National Insurance category can result in incorrect contributions and PAYE charges.
+Check the employee’s circumstances against the National Insurance category letters before you submit the FPS . In particular, HMRC sees employers using category B and M incorrectly.
+Category B is the married women and widows reduced rate National Insurance category. Only use category B where the employee has provided you with a valid election certificate issued by HMRC. You should have checks in place to confirm that the employee holds a valid certificate before applying this category. You can read more about this at NIM30000 - Special Cases: Married Women .
+Category M is for employees under the age of 21. You should have checks in place to move an employee from category M to the appropriate National Insurance category from the first payday on or after their 21st birthday.
+Always check that the National Insurance category applied reflects the employee’s circumstances. If you are unsure which category to use, refer to your payroll software guidance or GOV.UK’s guidance on National Insurance rates and categories: Category letters . This guidance explains the purpose of each category letter and when it should be used.
+Further information
+Correcting an error
+If you find an error in an RTI return, correct your payroll records and submit the correction to HMRC.
+Find out how to correct an error in an RTI return by reading Fix problems with running payroll .
+If you cannot correct the problem yourself, use the online form Get help to correct an employer PAYE bill .
+Further questions
+If you have any further questions after reading these Guidelines for Compliance, you can contact us by email: ccgguidelinesforcompliance@hmrc.gov.uk . Put GfC22 in the subject line.
+Sending information by email carries certain risks . HMRC will assume that by sending information by email you understand and accept these risks.
+Back to top
+Is this page useful?
+Maybe
+Yes this page is useful
+No this page is not useful
+Thank you for your feedback
+Report a problem with this page
+Help us improve GOV.UK
+Do not include personal or financial information like your National Insurance number or credit card details.
+This field is for robots only. Please leave blank
+What were you doing?
+What went wrong?
+Send
+Cancel
+Help us improve GOV.UK
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab and requires JavaScript ) .
+Cancel
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+News
+Guidance and regulation
+Research and statistics
+Policy papers and consultations
+Transparency
+How government works
+Get involved
+Support links
+Help
+Privacy
+Cookies
+Accessibility statement
+Contact
+Terms and conditions
+Rhestr o Wasanaethau Cymraeg
+Government Digital Service
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+© Crown copyright

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "module": "R04",
+  "strand": "actual_decision_pathway_cases",
+  "created_on": "2026-10-29",
+  "records": [
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Official employer decision or management record",
+      "reuse_status": "Private verification; parent review and final wording/rights check required",
+      "status": "candidate_for_parent_review",
+      "local_capture_status": "unavailable; original body read with web tool",
+      "candidate_id": "R4CASE-S03",
+      "title": "HR & Payroll System Contract: officer executive decision",
+      "publisher": "Rotherham Metropolitan Borough Council",
+      "url": "https://moderngov.rotherham.gov.uk/mgDecisionDetails.aspx?IId=96251&Opt=1",
+      "source_type": "official_employer_decision_record",
+      "decision_date": "2024-03-22",
+      "published_date": "2024-03-26",
+      "document_date": null,
+      "date_note": "Body Date of Decision states 22 March 2024; signature-date line states 22 March 2023. Heading26 March 2024 corresponds to publication entry. Do not silently correct signature line.",
+      "locator": "Date of Decision/Decision Maker/Delegation/Decision/Reasons/Alternatives/Reports considered; original page lines29–85; signature-line discrepancy at92",
+      "review_status": "original_page_body_read",
+      "population": "One council incumbent iTrent support/maintenance procurement",
+      "limitations": "Council case, not private-market prevalence; award is not later execution or measured outcome; reviewed stakeholders are not individually established veto holders; date discrepancy retained",
+      "capture_path": null,
+      "capture_sha256": null,
+      "web_review_reference": "turn491view0"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Official employer decision or management record",
+      "reuse_status": "Private verification; parent review and final wording/rights check required",
+      "status": "candidate_for_parent_review",
+      "local_capture_status": "unavailable; original body read with web tool",
+      "candidate_id": "R4CASE-S04",
+      "title": "Policy and Resources Committee minutes8 May 2025, item 10: iTrent HR and payroll project",
+      "publisher": "Argyll and Bute Council",
+      "url": "https://www.argyll-bute.gov.uk/moderngov/ieListDocuments.aspx?MId=16285",
+      "alias_urls": [
+        "https://www.argyll-bute.gov.uk/moderngov/ieDecisionDetails.aspx?AIId=181705"
+      ],
+      "source_type": "official_employer_committee_minutes",
+      "decision_date": "2025-05-08",
+      "published_date": null,
+      "document_date": "2025-05-08",
+      "date_note": "Meeting date and referenced report 3 April 2025 inspected; exact minutes upload date not established.",
+      "locator": "Item 10, iTrent HR and Payroll Systems Replacement Project Update; decision points1–2; original page lines230–252",
+      "review_status": "original_minutes_body_read",
+      "population": "One council Phase2 continuation/additional-budget decision",
+      "limitations": "Resolution approves continuation and additional funding; does not establish later spend, contract execution, completion or measured benefit",
+      "capture_path": null,
+      "capture_sha256": null,
+      "web_review_reference": "turn491view1"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Official employer decision or management record",
+      "reuse_status": "Private verification; parent review and final wording/rights check required",
+      "status": "candidate_for_parent_review",
+      "local_capture_status": "unavailable; original body read with web tool",
+      "candidate_id": "R4CASE-S05",
+      "title": "iTrent HR and Payroll Systems Replacement Project Update: joint committee report",
+      "publisher": "Argyll and Bute Council",
+      "url": "https://www.argyll-bute.gov.uk/moderngov/documents/s219288/ITRENT%20HR%20AND%20PAYROLL%20SYSTEMS%20REPLACEMENT%20PROJECT%20UPDATE.pdf",
+      "source_type": "employer_management_committee_report",
+      "decision_date": null,
+      "published_date": null,
+      "document_date": "2025-04-03",
+      "date_note": "Minutes identify report dated3 April 2025; report cover is for 8 May 2025 committee. Exact upload date not established.",
+      "locator": "PDF pp2–4, sections2.1,3.1,4.2.1–4.2.3; web original report lines33–67,99–123",
+      "review_status": "relevant_original_report_sections_read_visual_check_unavailable",
+      "population": "Same Argyll programme and decision as R4CASE-S04; management account, not separate employer",
+      "limitations": "Management retrospective; report recommendation is not the decision. Go-live approver not named. Do not resolve differing go-live descriptions or infer final chronology; no economics or failure-prevalence inference. LocalPDF retrieval404 and screenshot fetch timed out.",
+      "capture_path": null,
+      "capture_sha256": null,
+      "web_review_reference": "turn493view0"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0134",
+      "additional_locator": "Printed/PDF pp41,43,46; paras117–119,125,138–141",
+      "review_status": "retained_original_pdf_read_and_three_relevant_pages_visually_checked"
+    },
+    {
+      "source_id": "SRC-0136",
+      "additional_alias_url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/7/",
+      "additional_locator": "Section 6.0 Governance and audit timeline; assurance milestones and benefits-strategy response",
+      "capture_path": "03-report/research-notes/r04/cases/R4CASE-SG-ALIAS.html",
+      "capture_sha256": "4a2175dad7e9fb4b7a08131a926bd84a6bef417599712ac9076a20c48d47ff68",
+      "review_status": "original_body_read_and_html_retained"
+    }
+  ],
+  "counting_note": "Three new source-route candidates, two new employer cases. Reused Scottish sources and Argyll decision alias are not additional studies or employers."
+}

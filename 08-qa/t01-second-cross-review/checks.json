@@ -1,0 +1,703 @@
+{
+  "status": "passed_other_author_packs_integration_pending",
+  "date": "2026-10-30",
+  "scope": "History, market and root packs only; competitor pack is reviewer-authored and excluded from this independent claim.",
+  "checks": [
+    {
+      "name": "new candidate unique T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "raw retained T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "raw hash T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "separate extract hash T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "new candidate unique T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "raw retained T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "raw hash T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "separate extract hash T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves history SRC-0240",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves history SRC-0241",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves history SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves history SRC-0224",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves history SRC-0225",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves history SRC-0226",
+      "passed": true
+    },
+    {
+      "name": "new candidate unique T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "raw retained T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "raw hash T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "separate extract hash T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "new candidate unique T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "raw retained T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "raw hash T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "separate extract hash T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0238",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0238",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0238",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0245",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0245",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0245",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves market SRC-0248",
+      "passed": true
+    },
+    {
+      "name": "reinspected raw hash SRC-0248",
+      "passed": true
+    },
+    {
+      "name": "reinspected parsed hash SRC-0248",
+      "passed": true
+    },
+    {
+      "name": "new candidate unique T1R2-S01",
+      "passed": true
+    },
+    {
+      "name": "extract-only provenance T1R2-S01",
+      "passed": true
+    },
+    {
+      "name": "separate extract hash T1R2-S01",
+      "passed": true
+    },
+    {
+      "name": "new candidate unique T1R2-S02",
+      "passed": true
+    },
+    {
+      "name": "raw retained T1R2-S02",
+      "passed": true
+    },
+    {
+      "name": "raw hash T1R2-S02",
+      "passed": true
+    },
+    {
+      "name": "root separate parsed hash T1R2-S02",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves root SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves root SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "six new primary routes across other-author packs",
+      "passed": true
+    },
+    {
+      "name": "other-author claim IDs unique",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "claim canonical sources T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "claim new sources T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "claim scoped locator and limits T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "no numerical outcome/forecast T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "Chatham notes not promoted to raw export",
+      "passed": true
+    },
+    {
+      "name": "named-Rule meeting-mode scope retained",
+      "passed": true
+    },
+    {
+      "name": "named Rule not every interview or universal law",
+      "passed": true
+    },
+    {
+      "name": "hospitality example bounded to employer",
+      "passed": true
+    },
+    {
+      "name": "hospitality policy not generalised",
+      "passed": true
+    },
+    {
+      "name": "Nick public role not formal partnership/access",
+      "passed": true
+    },
+    {
+      "name": "format history not causal conversion",
+      "passed": true
+    },
+    {
+      "name": "same-person participation/retention not inferred",
+      "passed": true
+    },
+    {
+      "name": "duplicate history renewal claim withdrawn",
+      "passed": true
+    },
+    {
+      "name": "Summit retained original segment October 9, 2026",
+      "passed": true
+    },
+    {
+      "name": "Summit retained original segment in May",
+      "passed": true
+    },
+    {
+      "name": "Summit retained original segment sponsored by Strada",
+      "passed": true
+    },
+    {
+      "name": "Summit retained original segment Nick Day",
+      "passed": true
+    },
+    {
+      "name": "Summit retained original segment moderated a panel",
+      "passed": true
+    },
+    {
+      "name": "CPO archive listed output October 2026",
+      "passed": true
+    },
+    {
+      "name": "CPO archive listed output July 2025",
+      "passed": true
+    },
+    {
+      "name": "CPO archive listed output Recent Issues",
+      "passed": true
+    },
+    {
+      "name": "TPC renewal and access lifecycle automatically renew",
+      "passed": true
+    },
+    {
+      "name": "TPC renewal and access lifecycle reminder approximately",
+      "passed": true
+    },
+    {
+      "name": "TPC renewal and access lifecycle 9.3.3",
+      "passed": true
+    },
+    {
+      "name": "TPC renewal and access lifecycle 9.5.1",
+      "passed": true
+    },
+    {
+      "name": "IPASS segmented offer Individual membership",
+      "passed": true
+    },
+    {
+      "name": "IPASS segmented offer Corporate membership",
+      "passed": true
+    },
+    {
+      "name": "IPASS segmented offer Corporate Overseas (EU)",
+      "passed": true
+    },
+    {
+      "name": "IPASS segmented offer Corporate Overseas (Non-EU)",
+      "passed": true
+    },
+    {
+      "name": "IPASS segmented offer billed annually",
+      "passed": true
+    },
+    {
+      "name": "IPASS no unlike price anchor",
+      "passed": true
+    },
+    {
+      "name": "GPA alternative catalogue global and in-country",
+      "passed": true
+    },
+    {
+      "name": "GPA alternative catalogue Forum",
+      "passed": true
+    },
+    {
+      "name": "GPA alternative catalogue Help Desk (annual service)",
+      "passed": true
+    },
+    {
+      "name": "four selective market conditions no new questions",
+      "passed": true
+    },
+    {
+      "name": "market condition not fieldwork MKT01",
+      "passed": true
+    },
+    {
+      "name": "market condition not fieldwork MKT02",
+      "passed": true
+    },
+    {
+      "name": "market condition not fieldwork MKT03",
+      "passed": true
+    },
+    {
+      "name": "market condition not fieldwork MKT04",
+      "passed": true
+    },
+    {
+      "name": "actual array remains empty 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "actual array remains empty 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "actual array remains empty 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "name": "other-author memo link history source-candidates.json",
+      "passed": true
+    },
+    {
+      "name": "other-author memo link history claim-candidates.json",
+      "passed": true
+    },
+    {
+      "name": "other-author memo link history capture-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "other-author memo link history screened-leads.json",
+      "passed": true
+    },
+    {
+      "name": "other-author memo link history search-log.json",
+      "passed": true
+    },
+    {
+      "name": "other-author memo link market selective-conditions.json",
+      "passed": true
+    }
+  ],
+  "check_count": 170,
+  "manual_primary_support_review": [
+    "CPO origin/archive/forum and Summit retrospective paragraphs",
+    "TPC renewal, benefit, member organisation and materials clauses",
+    "IPASS segment and country/VAT branch descriptions; no values adopted",
+    "GPA resource catalogue",
+    "ISG enterprise/provider public offer purpose distinction",
+    "iVentiv FAQ/package/payment scope",
+    "Chatham House originator definition and current FAQ freshly reopened independently",
+    "Planning Inspectorate specific hospitality policy freshly reopened independently"
+  ],
+  "open_substantive_source_issues": [],
+  "integration_design_item": "Preserve original free-practitioner research benefit; do not model equivalent employer access as an automatic additional paid licence. Test incremental service/use/entitlement; no new restriction is adopted.",
+  "raw_and_reader_distinction_preserved": true,
+  "fieldwork": false,
+  "commercial_validation": false
+}

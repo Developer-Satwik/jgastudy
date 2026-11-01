@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R06_desktop_synthesis",
+  "new_source_routes": 10,
+  "new_claim_or_guardrail_records": 23,
+  "source_records": 172,
+  "claim_records": 276,
+  "source_records_with_primary_retained_original": 107,
+  "internal_findings": 60,
+  "optional_matrix_rows": 9,
+  "selected_public_employer_contexts": 6,
+  "narrow_notice_status_contexts": 1,
+  "checked_capture_files": 41,
+  "prior_topic_core_and_client_hashes_preserved": 44,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "numerical_outcome_estimates": 0,
+  "employer_forecasts": 0,
+  "product_or_API_tests": 0,
+  "causal_remedies_tested": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R06-DESKTOP-READOUT.md",
+      "sha256": "fce9fa91bc3d551da54340a834fb41ff0617675b3f09e1d19a7005c92573d132"
+    },
+    {
+      "path": "03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "sha256": "3656471a73892cc8a101200dea28e07750dba6819e8f11de1a28474ee0925d9a"
+    },
+    {
+      "path": "03-report/R06-outcome-map.json",
+      "sha256": "09cf79993124f5290dc5bbc1bc41007ea67fbe55282a944cee4ecb20df6fd38a"
+    },
+    {
+      "path": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "sha256": "e2abfffce21c48d5d13f2fb694477232906b03341b28966120a9aa0b9e760337"
+    },
+    {
+      "path": "08-qa/R06-record-map.json",
+      "sha256": "0690080f0883294bbc511fea7f1d75198af46016492b8f9077d133d7b5eebdad"
+    },
+    {
+      "path": "08-qa/R06-independent-review.md",
+      "sha256": "c1f964afd090a178ee889ace02432030156b9b45900e9c31c17bf1743f209e71"
+    }
+  ],
+  "next": "R07 priorities and defensible contextual differences; no external sending.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 1426,
+    "json_files": 248,
+    "source_records": 172,
+    "claim_records": 276,
+    "question_records": 14,
+    "internal_design_findings": 60,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 165,
+    "scope": "R01–R06 record linkage and captures; synthesis references, R03 options, R04 authority/pathways and R05 cost/benefit/funding/readiness and second-challenge scope/distribution/market/capacity/evidence boundaries; R06 option/disposition/delivery/benefit and buyer-method boundaries; WP02 question mapping and project consistency. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  }
+}

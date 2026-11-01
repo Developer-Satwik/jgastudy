@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-29",
+  "version": "0.1",
+  "status": "prepared_for_user_client_review_not_activated",
+  "working_contract": {
+    "source_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-agreement-2026-10-27/agreement-text.txt",
+    "source_sha256": "9857c3f68c6655462a0eb47c03348751924d02235492facad511c9f108f418c0",
+    "executed_copy_retrieved": false,
+    "working_role": "JGA controller and Riseklix processor for participant information processed on JGA’s behalf; each separately responsible for own business-contact/invoicing/legal records.",
+    "role_change_rule": "Document a materially different research role before collection.",
+    "provider_location": "India",
+    "tools_rule": "No sub-processor or external recording/transcription/AI service receives identifiable or confidential research data without JGA prior written authorisation and appropriate contractual safeguards.",
+    "access_rule": "Record approved tools, recipients, hosting and access locations before collection; establish any required international-transfer safeguards and assessment before JGA-controlled personal data is made accessible outside the UK. The agreement is not itself an IDTA.",
+    "fallback_rule": "JGA may retain identifiable contacts/responses and supply genuinely anonymised material while required safeguards are not in place. Do not treat remote access or pseudonymous records as anonymisation.",
+    "return_or_delete_days": 30,
+    "backup_deletion_days": 90,
+    "closure_trigger": "Completion or termination; at JGA choice, with technically necessary backups and protected legally required-record exceptions as stated in section12.",
+    "participant_notice_rule": "JGA supplies appropriate notices and lawful collection instructions; actual permissions and attribution/quotation/sharing limits recorded.",
+    "sensitive_data_rule": "Do not request employee payroll records, special-category data or unnecessary personal information.",
+    "legal_compliance_certified": false
+  },
+  "release_decisions": [
+    {
+      "decision_id": "READY01",
+      "title": "Focus, guide and introduction route",
+      "needed_before_use": "Client confirmation of the proposed population/focus, current core guide and practical introduction route; actual working dates/burden agreed.",
+      "responsible_party": "Nick/JGA with Satwik",
+      "status": "not_confirmed",
+      "resolution": null,
+      "confirmation_reference": null,
+      "basis": "DEC-002, DEC-004, DEC-006 and existing WP02 review remain open."
+    },
+    {
+      "decision_id": "READY02",
+      "title": "Actual data flow and authorised access",
+      "needed_before_use": "Document the tools/storage, authorised people/recipients, hosting/access locations, security/retention implementation and any required transfer route/assessment.",
+      "responsible_party": "JGA and Riseklix designated contacts",
+      "status": "not_confirmed",
+      "resolution": null,
+      "confirmation_reference": null,
+      "basis": "Contract section12 is the baseline; no account or tool has been approved through this pack."
+    },
+    {
+      "decision_id": "READY03",
+      "title": "Participant information and collection instructions",
+      "needed_before_use": "JGA-approved privacy information, lawful collection instructions, actual contact/rights and incident-escalation route, purpose/recipient/retention details and correction/withdrawal handling.",
+      "responsible_party": "JGA, supported by Riseklix",
+      "status": "not_confirmed",
+      "resolution": null,
+      "confirmation_reference": null,
+      "basis": "Voluntary research agreement is separate from selecting a data-protection lawful basis; no basis automatically chosen."
+    },
+    {
+      "decision_id": "READY04",
+      "title": "Publication and optional uses",
+      "needed_before_use": "Define this edition/report/licensing scope, de-identification checks, quote/name/employer clearance and any future-use/recontact/Table choices separately.",
+      "responsible_party": "JGA and participant through approved route",
+      "status": "not_confirmed",
+      "resolution": null,
+      "confirmation_reference": null,
+      "basis": "No assumed future-edition reuse, personal-data sale or sponsor access; contract rights remain subject to participant restrictions."
+    },
+    {
+      "decision_id": "READY05",
+      "title": "Release and first collection",
+      "needed_before_use": "User permission for the exact external message/route, client/data arrangements confirmed, actual participant information/choices provided and recorded before collecting substantive input.",
+      "responsible_party": "Satwik/user; JGA for its instructions",
+      "status": "not_confirmed",
+      "resolution": null,
+      "confirmation_reference": null,
+      "basis": "No sending or collection is authorised by an empty template or a synthetic check."
+    }
+  ],
+  "additional_document_control": {
+    "executed_agreement_reconciliation": "pending",
+    "not_a_reason_to_stop_public_research": true,
+    "does_not_silently_override_working_contract": true
+  },
+  "actual_tool_selection": null,
+  "actual_restricted_storage": null,
+  "actual_authorised_access_list": [],
+  "actual_notice_version": null,
+  "actual_lawful_instructions_reference": null,
+  "actual_transfer_arrangement_reference": null,
+  "user_send_permission_reference": null,
+  "collection_ready": false,
+  "legal_compliance_certified": false,
+  "external_actions": []
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "screened_lead_id": "T1MC-L01",
+      "name": "Fosway Corporate Research Network",
+      "url": "https://www.fosway.com/hrd/",
+      "status": "screened_lead_only_excluded_from_source_register",
+      "access_result": "HTTP403 original fetch; public reader result used only for lead screening",
+      "limitation": "No original bytes, verified fee/admission/entitlement schedule or substantive claim candidates. Not a selected comparable."
+    }
+  ]
+}

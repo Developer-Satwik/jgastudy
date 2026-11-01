@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-31",
+  "skill": "PDF read-only render/inspect",
+  "records": [
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-3.png",
+      "sha256": "1ce551d2928d411ead02ce78e8532ea88de3654e7bf97eb0b7ceb02c948f3623",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png",
+      "sha256": "f47435b423234672d8fe4033a91b03899804e54a83c2772c429c2925ea2348f7",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-2.png",
+      "sha256": "d3deecc84952537402a3acbe424866b5aa20ec516c83e5bd56c4e41657a59247",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-4.png",
+      "sha256": "4cf94828a0465db0f331ac7e1918164c3dfff3e1d0c7130db5d5f8ad710f6793",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png",
+      "sha256": "248ec6aed9b6f2b9ae1f9c0ea2afea114493c1cb3c2b3c08b2444daf9518d1c3",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-7.png",
+      "sha256": "71ff5ebd636812efdc88426c9d224b76a37a39d8fa538f3d5e9aaea2d58e977a",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png",
+      "sha256": "0b6c3df984d30e50387e70357964b3b1169e783e78c4d74a77ebccdefbd450a6",
+      "review": "Rendered page visually inspected; relevant headings, paired columns, capacities, dates and footnotes read.",
+      "date": "2026-10-31"
+    }
+  ],
+  "no_pdf_authored_or_modified": true
+}

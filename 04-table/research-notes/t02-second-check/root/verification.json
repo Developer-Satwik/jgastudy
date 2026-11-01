@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_local_root_design_checks",
+  "claim_records": 2,
+  "canonical_reuses": 1,
+  "new_sources": 0,
+  "blank_aid_unpopulated": true,
+  "actual_exposures": 0,
+  "actual_feedback": 0,
+  "financial_inputs": 0,
+  "external_contact": false,
+  "checks": [
+    {
+      "name": "Existing market raw capture hash matches reused provenance",
+      "passed": true
+    },
+    {
+      "name": "Two traceability applications distinguished from primary market findings",
+      "passed": true
+    },
+    {
+      "name": "Concept state and unknowns do not create scores or actual records",
+      "passed": true
+    }
+  ]
+}

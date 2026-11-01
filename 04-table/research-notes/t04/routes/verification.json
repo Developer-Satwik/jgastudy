@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_local_design_checks_not_independent_review",
+  "check_count": 10,
+  "checks": [
+    {
+      "name": "fourmatchedroutes",
+      "passed": true
+    },
+    {
+      "name": "eventcountsareexplicitdesign",
+      "passed": true
+    },
+    {
+      "name": "unselectededitionandhorizonsnotinvented",
+      "passed": true
+    },
+    {
+      "name": "nopriceordemandassumption",
+      "passed": true
+    },
+    {
+      "name": "noactualfinancialoroutsideaction",
+      "passed": true
+    },
+    {
+      "name": "distinctunitsandproposedcalculationlogic",
+      "passed": true
+    },
+    {
+      "name": "initialinvestmentallocationretained",
+      "passed": true
+    },
+    {
+      "name": "noallpaidorsunkorworkbookclaim",
+      "passed": true
+    },
+    {
+      "name": "openassumptionsnotpopulated",
+      "passed": true
+    },
+    {
+      "name": "canonicalfinancialinputsremainempty",
+      "passed": true
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "04-table/research-notes/t04/routes/ROUTES-AND-UNITS.md",
+      "sha256": "9a71ad3703497fa3a524641377c8cff39b9a84a273441dafe278a20766ef6d7f"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/route-candidates.json",
+      "sha256": "2fc65dd09a6ddf38786a7bc9739ac73a0a9dba61519989fce7fd4b68ff46de67"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/model-unit-spec.json",
+      "sha256": "45823637c589cb597e4afd511fbe038001bdf0b6a6c9386d04c1e8bd7f1f9d7e"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/assumptions-and-validation.json",
+      "sha256": "959391afa879f12816d1b77a184f2c4d732fb6259e6ccf4d555aa64a1ed00d13"
+    }
+  ],
+  "new_sources": 0,
+  "new_claims": 0,
+  "financial_inputs": 0,
+  "external_actions": []
+}

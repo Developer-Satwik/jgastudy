@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "08-qa/R02-second-check-completion.json",
+      "sha256": "63f54f799c95be8a62de993f350e6bf5385f749243427b2811b0fb72cbd579e8"
+    },
+    {
+      "path": "08-qa/R03-second-check-completion.json",
+      "sha256": "b52dfdd8702d4a25c49075cde582f44c6d5acd21136bd24416acd41277f3fab9"
+    },
+    {
+      "path": "08-qa/R04-second-check-completion.json",
+      "sha256": "0a5d074012464442d3f922186a1a00c641250e09f2ea01fd0dbdba27bb4bda9d"
+    },
+    {
+      "path": "01-method/question-map.json",
+      "sha256": "bad8effb5898e40af9cefbb68d104de7730a5fd118eb92c6b1083254bd4036f6"
+    },
+    {
+      "path": "00-control/scope-baseline.json",
+      "sha256": "d50be13e18d3c76c27dde64eca46c114a4ea90cb8f3f0ac9018a8617f7dab013"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041"
+    },
+    {
+      "path": "03-report/R02-SECOND-CHECK-READOUT.md",
+      "sha256": "e283ef8bce39e68a62b3fd32e06dbe6b4526db7384f1d5d860b45f04dfee53d8"
+    },
+    {
+      "path": "03-report/R02-DESKTOP-READOUT.md",
+      "sha256": "9a530515772ed2098811a2afb5b47e044f3835a27cf2e16cc524a8761b2962ce"
+    },
+    {
+      "path": "03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "sha256": "d35ee937b483976b14590ce81f40f588a4a17939369ed153a0d80c3a1106cdd1"
+    },
+    {
+      "path": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "sha256": "ec074db8553311a6bc23aa67f4cf55f887694fe7815293c1995f224bc008c284"
+    },
+    {
+      "path": "08-qa/R02-second-check-independent-review.md",
+      "sha256": "e44a57d5618d5502a7a67de047fa34497dca63f3799d7d5b4da5abbf95f08eca"
+    },
+    {
+      "path": "08-qa/R02-prior-study-bridge-check.json",
+      "sha256": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab"
+    },
+    {
+      "path": "03-report/R03-SECOND-CHECK-READOUT.md",
+      "sha256": "6a3f82ba480ed90d93d1df94f2ed519cd824a76159c84dd9c257a94cab8c8e1f"
+    },
+    {
+      "path": "03-report/R03-DESKTOP-READOUT.md",
+      "sha256": "876e372d16c4e1d1bf3c88767f3c075d8f61e2c03105b89370463ef60618e934"
+    },
+    {
+      "path": "03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "sha256": "a1d703549e36e0bc2bbf4b478b341c4523202892f2907a9e600140a9fcd73f5c"
+    },
+    {
+      "path": "03-report/R03-option-map.json",
+      "sha256": "3cbeeb525cf4f6e07c902bb1304b7ac29c1c2eff7afc7684b463bfbdd4ba823a"
+    },
+    {
+      "path": "03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "sha256": "7994bca53020043d1e39b6ce50b2900b6a73b5a7928bf41c76b24a5b46738136"
+    },
+    {
+      "path": "08-qa/R03-second-check-independent-review.md",
+      "sha256": "50b86dfb23da8f80cc69841f0a13521c3029290294269be9507a92f88f2cc21b"
+    },
+    {
+      "path": "08-qa/R03-prior-study-bridge-check.json",
+      "sha256": "fb9ec2849bc660fae2a627e91aa48076bc3ad20cdf35dec7d8f398f86880669f"
+    },
+    {
+      "path": "08-qa/R03-second-check-record-map.json",
+      "sha256": "00dc5e604318e58328558dd174b8b7a71c76c14b37d1779e3422f639593244ea"
+    },
+    {
+      "path": "03-report/R04-SECOND-CHECK-READOUT.md",
+      "sha256": "6c08a21ff403c62c41601519d62ebdcb2bf48fcc520398220f5fcf355119d7b3"
+    },
+    {
+      "path": "03-report/R04-DESKTOP-READOUT.md",
+      "sha256": "ac9e0a6a3946b8023b30be04fcce823f2134eaef24cf45aec923af2cf8a1a972"
+    },
+    {
+      "path": "03-report/R04-DECISION-PATHWAY.md",
+      "sha256": "fc02f630e3353ebacfc49b352c09f03725400ff28087e4a6246cd73a96e58fd5"
+    },
+    {
+      "path": "03-report/R04-decision-map.json",
+      "sha256": "fb2b21afcd725c26b97995fd7f9577536decc1c4169061820411a8eefc43d483"
+    },
+    {
+      "path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "sha256": "535166df272b4c95dbd9110c728f3c5e697404ac4550e926b261224330dd2fa3"
+    },
+    {
+      "path": "08-qa/R04-second-check-record-map.json",
+      "sha256": "cb7d5163870fbf3370d8ab4824f1d845dc2f61e7e957a2b4f1b98d726b21781c"
+    },
+    {
+      "path": "08-qa/R04-second-check-independent-review.md",
+      "sha256": "6e37652e2f377e6789eda88be0c20f177e44225fc08c64052cf94eeeb4d813ed"
+    },
+    {
+      "path": "08-qa/R04-prior-study-bridge-check.json",
+      "sha256": "acd73cf1c9d745919c61e91decd2f4f4dd4cca0c26af184feb0733f57ecd5c56"
+    },
+    {
+      "path": "03-report/R05-SECOND-CHECK-READOUT.md",
+      "sha256": "a752410078c958f576db1d8c04d5259d52be94d338671d121eba6db9a260eb8b"
+    },
+    {
+      "path": "03-report/R05-DESKTOP-READOUT.md",
+      "sha256": "5627f8c220752678c4a8482dd109b0084bd192cdfa6d185e5ba99441569c01aa"
+    },
+    {
+      "path": "03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "sha256": "e49a437bde52ca70c366085e609b4fd91c74dd792ce7aabefe0fac3ba47bdb7c"
+    },
+    {
+      "path": "03-report/R05-evidence-map.json",
+      "sha256": "3acfae91802fd4e2da3851b13909529e4680437d64f7476ad8279a9114e3339c"
+    },
+    {
+      "path": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "sha256": "b3a91ed2194e6325a1a35564bc0fda0591208828fbd5b77d0a43b053883c7285"
+    },
+    {
+      "path": "08-qa/R05-second-check-independent-review.md",
+      "sha256": "59e68c61d164587da51a974129ccb05fced1d42ded276628f89bcf4fada3e0ad"
+    },
+    {
+      "path": "08-qa/R05-second-check-record-map.json",
+      "sha256": "aae260f54057bdcea085305a4b9636af1b64dc0a44896e4c1557a46d01e9d53a"
+    },
+    {
+      "path": "08-qa/R05-prior-study-bridge-check.json",
+      "sha256": "70c0a58c08a2672f0fceccfbe8fccd59da24063c497bf580d9246113a779f55e"
+    },
+    {
+      "path": "08-qa/R05-second-check-completion.json",
+      "sha256": "26946b573effab4526e2d291ed6f45dc2acc1baf09bba6419efcdd76d496ab28"
+    }
+  ]
+}

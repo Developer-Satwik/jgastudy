@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "source_map": {
+    "H6S-S01": "SRC-0205",
+    "H6S-S02": "SRC-0206",
+    "M6S-S01": "SRC-0207",
+    "M6S-S02": "SRC-0208",
+    "M6S-S03": "SRC-0209",
+    "C6S-S01": "SRC-0210",
+    "C6S-S02": "SRC-0211",
+    "R6R-S01": "SRC-0212"
+  },
+  "claim_map": {
+    "H6S-C01": "CLM-0367",
+    "H6S-C02": "CLM-0368",
+    "H6S-C03": "CLM-0369",
+    "H6S-C04": "CLM-0370",
+    "H6S-C05": "CLM-0371",
+    "M6S-C01": "CLM-0372",
+    "M6S-C02": "CLM-0373",
+    "M6S-C03": "CLM-0374",
+    "M6S-C04": "CLM-0375",
+    "M6S-C05": "CLM-0376",
+    "M6S-C06": "CLM-0377",
+    "M6S-C07": "CLM-0378",
+    "C6S-C01": "CLM-0379",
+    "C6S-C02": "CLM-0380",
+    "C6S-C03": "CLM-0381",
+    "C6S-C04": "CLM-0382",
+    "R6R-C01": "CLM-0383",
+    "R6R-C02": "CLM-0384",
+    "R6R-C03": "CLM-0385"
+  },
+  "new_source_routes": 8,
+  "new_claim_records": 19,
+  "new_source_candidates": 8,
+  "reused_candidate_routes": 0,
+  "original_JGA_participants": 0,
+  "employer_forecasts": 0,
+  "product_tests": 0
+}

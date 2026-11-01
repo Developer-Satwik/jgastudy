@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5DEL-C01",
+      "source_ids": [
+        "R5DEL-S01"
+      ],
+      "claim_text": "Microsoft readiness guidance distinguishes scope, acceptance, representative migrated-data tests, integration and external dependencies.",
+      "locator": "Go-live readiness; solution scope/acceptance; UAT; Data migration readiness/validation; external dependencies",
+      "evidence_class": "supplier_implementation_design",
+      "population": "Dynamics365 guidance, not payroll outcome data",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "A proposed or ticked checklist is not an executed test or universal payroll threshold.",
+      "review_mode": "Relevant original HTML sections read; retained rawHTML and numbered extract.",
+      "status": "internal_R05_candidate",
+      "time_period": "Guidance ms.date metadata2024-01-30, live original inspected29October2026; not outcome fieldwork"
+    },
+    {
+      "candidate_id": "R5DEL-C02",
+      "source_ids": [
+        "R5DEL-S01"
+      ],
+      "claim_text": "The guidance separately addresses transition to operational support, trained support teams, access, tools and incident arrangements.",
+      "locator": "Operational support readiness",
+      "evidence_class": "supplier_support_transition_design",
+      "population": "Dynamics365 implementation/support design",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Not a tested support capability, achieved resolution or a guarantee for other suppliers.",
+      "review_mode": "Relevant original HTML support section read; retained rawHTML and numbered extract.",
+      "status": "internal_R05_candidate",
+      "time_period": "Guidance ms.date metadata2024-01-30, live original inspected29October2026; not outcome fieldwork"
+    },
+    {
+      "candidate_id": "R5DEL-C03",
+      "source_ids": [
+        "R5DEL-S02"
+      ],
+      "claim_text": "The service manual treats sustainable live operation, improvement, performance evidence and user support as continuing work, without presuming a full delivery team permanently assigned.",
+      "locator": "Running your service during live; joined-up channels; other things before live",
+      "evidence_class": "official_service_lifecycle_guidance",
+      "population": "Government digital-service design",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Not evidence of private payroll staffing, a fixed team size or a need to hire.",
+      "review_mode": "Relevant live original HTML sections inspected; source dates preserved.",
+      "status": "internal_R05_candidate",
+      "time_period": "Guide published4August2016, updated8May2019, live inspected29October2026"
+    },
+    {
+      "candidate_id": "R5DEL-C04",
+      "source_ids": [
+        "SRC-0075"
+      ],
+      "claim_text": "Synergy plans capability transfer, dependency sequencing and client/supplier contingencies, with delivery capacity and timing as stated risks.",
+      "locator": "Management case5.1–5.4, especially253–269",
+      "evidence_class": "prospective_programme_management_case",
+      "population": "One large combined corporate-function programme",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Plan/assumption, not executed readiness or realised payroll-only outcome; no costs or economic return adopted.",
+      "review_mode": "Relevant live original HTML management-case sections reread; new raw capture retained.",
+      "status": "internal_R05_candidate",
+      "time_period": "Prospective management case published8April2026"
+    },
+    {
+      "candidate_id": "R5DEL-C05",
+      "source_ids": [
+        "SRC-0076"
+      ],
+      "claim_text": "NAO identifies limits in risk information that does not show tolerance, interacting risks, mitigations or the responsible owners.",
+      "locator": "Printed19/PDF21 paras1.15–1.19",
+      "evidence_class": "independent_audit_observation",
+      "population": "Source-scoped central-government shared-services strategy",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "No universal private-employer risk score, market frequency or failure causality.",
+      "review_mode": "Original PDF text and PDF21/printed19 rendered and visually inspected.",
+      "status": "internal_R05_candidate",
+      "time_period": "NAO fieldworkJune–December2025; publication6March2026"
+    },
+    {
+      "candidate_id": "R5DEL-C06",
+      "source_ids": [
+        "SRC-0076"
+      ],
+      "claim_text": "NAO states that its analysis of published business-case figures is descriptive and that it did not replicate or assure those figures.",
+      "locator": "AppendixOne printed39/PDF41 paragraph4; scope printed38/PDF40",
+      "evidence_class": "audit_method_boundary",
+      "population": "NAO review using programme business cases",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Do not describe projected programme figures as independently assured economic returns or outcomes.",
+      "review_mode": "Original PDF method text read; PDF41/printed39 rendered and visually inspected.",
+      "status": "internal_R05_candidate",
+      "time_period": "NAO fieldworkJune–December2025; publication6March2026"
+    },
+    {
+      "candidate_id": "R5DEL-C07",
+      "source_ids": [
+        "SRC-0134"
+      ],
+      "claim_text": "The auditor reports a well-managed cutover and sampled-pay positives alongside a need for more time and practical training before go-live.",
+      "locator": "Printed/PDF47–48 paras142–149",
+      "evidence_class": "independent_audit_case_observation",
+      "population": "One Scottish Government shared-platform implementation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Sampled pay testing is not universal accuracy assurance; training observations do not quantify a universal required lead time.",
+      "review_mode": "Retained original PDF reread; pages47/48 rendered and visually inspected.",
+      "status": "internal_R05_candidate",
+      "time_period": "Implementation2024 and financial year2024/25; auditor publicationOctober2025"
+    },
+    {
+      "candidate_id": "R5DEL-C08",
+      "source_ids": [
+        "SRC-0134"
+      ],
+      "claim_text": "At the audited stage, benefits were largely undelivered or not demonstrable and user-body feedback described additional adaptation resources.",
+      "locator": "Printed/PDF55 paras171–172; p50 para153",
+      "evidence_class": "independent_audit_case_observation",
+      "population": "Same Scottish Government implementation, dated2024/25–2025 audit account",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Not current October2026 status, proof all benefits failed, recurring staffing cost, achieved savings or a separate employer.",
+      "review_mode": "Retained original PDF reread; page55 rendered and visually inspected; page50 text read.",
+      "status": "internal_R05_candidate",
+      "time_period": "Dated2024/25–2025 audit account; not currentOctober2026 status"
+    },
+    {
+      "candidate_id": "R5DEL-C09",
+      "source_ids": [
+        "SRC-0135"
+      ],
+      "claim_text": "SPCB reports planning/design/testing and no significant issues in its June2025 internal audit of the new HR/payroll system.",
+      "locator": "PDF38/printed37, HR/payroll implementation and internal-audit paragraphs",
+      "evidence_class": "employer_reported_internal_assurance",
+      "population": "One separate Scottish Parliamentary Corporate Body implementation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Underlying audit test programme not inspected. Not zero errors, comparative product quality or quantified benefit.",
+      "review_mode": "Retained original PDF page38/printed37 rendered, read and visually inspected.",
+      "status": "internal_R05_candidate",
+      "time_period": "June2025 internal audit reported in2024–25 annual report signed25September2025"
+    },
+    {
+      "candidate_id": "R5DEL-C10",
+      "source_ids": [
+        "R5DEL-S01",
+        "R5DEL-S02",
+        "SRC-0075",
+        "SRC-0076",
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "claim_text": "The proposed R05 checklist links scope, executed evidence, exceptions, owner and decision conditions to delivery and sustainable operation, keeping plans, acceptance and observed benefits separate.",
+      "locator": "Researcher application; individual locators in R5DEL-C01–C09",
+      "evidence_class": "researcher_analytical_checklist",
+      "population": "Proposed qualitative case analysis",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Selective analytical checks, not validated gates, extra mandatory questions, an authority score or a payroll transformation prescription.",
+      "review_mode": "Cross-source analytical design based on the specified original reviews; not an additional empirical finding.",
+      "status": "internal_R05_candidate",
+      "time_period": "Analytical checklist designed29October2026; not a time series"
+    }
+  ]
+}

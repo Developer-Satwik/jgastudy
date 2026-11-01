@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Preserve exact structured draft/application evaluated by routing and independent review before status-only completion edits.",
+  "records": [
+    {
+      "original_path": "03-report/R08-framework-map.json",
+      "snapshot_path": "03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "sha256": "5866a000a16b802609260d1acf2921790d1c0392fff4919d61befcf3d3877b7b"
+    },
+    {
+      "original_path": "03-report/R08-constructed-walkthroughs.json",
+      "snapshot_path": "03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "sha256": "d06ca49611b643c7ecf2eecde27f2249d166531104f328d8bfa5524ec833e911"
+    }
+  ]
+}

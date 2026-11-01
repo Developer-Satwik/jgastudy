@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R4ROOT-S01",
+      "title": "Data protection officers",
+      "publisher": "Information Commissioner’s Office",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/data-protection-officers/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/data-protection-officers/",
+      "capture_path": "03-report/research-notes/r04/root/R4ROOT-S01.html",
+      "capture_sha256": "d110c40ed44cabef92bd491e93c8928ff769dfee18853e685c54e87b3a634d94",
+      "capture_status": "retained_original_html",
+      "source_type": "official_accountability_role_guidance",
+      "updated_date": "2023-09-18",
+      "date_note": "Latest substantive visible update; page explicitly under review following the Data (Use and Access) Act. Original publication date not established.",
+      "locator": "Tasks; support/access to senior managers; responsibility for compliance",
+      "population": "Organisational data protection officer functions; not a payroll procurement sample",
+      "limitations": "Advisory/monitoring duties and retained organisational responsibility do not identify payroll approvers or establish universal presence/absence of veto. Exact legal use needs a final check of the page currently under review.",
+      "published_date": null,
+      "review_status": "relevant_live_original_sections_inspected",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Official guidance; not an outcome survey",
+      "reuse_status": "Private reference and verification; final-use wording and rights review pending"
+    },
+    {
+      "candidate_id": "R4ROOT-S02",
+      "title": "Guidance: Contract Award Notices and Standstill (HTML)",
+      "publisher": "Cabinet Office",
+      "url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-contract-award-notices-and-standstill-html",
+      "capture_path": "03-report/research-notes/r04/root/R4ROOT-S02.html",
+      "capture_sha256": "6024c667fb6697d3d31d5c8603916051a0142c9db1fd3d6601fd9621480e0dd5",
+      "capture_status": "retained_original_html",
+      "source_type": "official_procurement_record_interpretation_guidance",
+      "updated_date": "2026-08-17",
+      "date_note": "Displayed update date; not the date of a payroll decision. Original publication date not established.",
+      "locator": "Paragraphs 1–7 and 52",
+      "population": "Procurement Act notice regime; not ordinary private payroll buying practice",
+      "limitations": "Interpret the applicable date/regime and actual notice. No transplant into earlier or differently governed cases, no universal private workflow or statutory timetable extracted.",
+      "published_date": null,
+      "review_status": "relevant_live_original_sections_inspected",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Official guidance; not an outcome survey",
+      "reuse_status": "Private reference and verification; final-use wording and rights review pending"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-29",
+  "queries": [
+    "site.sdworx.co.uk payroll2026 priorities investment",
+    "site.cipp.org.uk futurepayroll2026 priority investment research",
+    "site.brightsg.com payroll ai report2026 study priorities"
+  ],
+  "selected_canonical_routes": [
+    "SRC-0202",
+    "SRC-0033",
+    "SRC-0034",
+    "SRC-0011",
+    "SRC-0070"
+  ],
+  "new_routes_required": false,
+  "screened_not_adopted": [
+    {
+      "source_id": "SRC-0040",
+      "reason": "Operational mega-enterprise benchmark not selected as future-priority/funded-spend evidence in this strand; existing numeric holds unchanged."
+    },
+    {
+      "source_id": "SRC-0041",
+      "reason": "Landing advertises AI interest/use/trust; full report/method not obtained. No gated form submitted or AI interest converted into funded priorities."
+    },
+    "Secondary AI-payroll priority article and compensation/HR studies outside the specific selected population were not used to add a link quota."
+  ],
+  "pdf_skill_read": true,
+  "visually_inspected_pdf_pages": {
+    "SRC-0202": [
+      11,
+      12,
+      32
+    ],
+    "SRC-0033": [
+      33
+    ],
+    "SRC-0034": [
+      2,
+      11
+    ]
+  },
+  "published_chart_visually_inspected": "MoorepayV2-01",
+  "no_item_percentages_adopted": true,
+  "external_actions": []
+}

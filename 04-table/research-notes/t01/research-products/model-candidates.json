@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-29",
+  "status": "candidate models for T01 synthesis; not adopted business model",
+  "method": "Read-only public primary routes, six new original HTML captures plus one canonical original PDF reused; limited focused comparison, not an exhaustive market census.",
+  "models": [
+    {
+      "candidate_model_id": "RP-M01",
+      "model_type": "sponsored_research",
+      "name": "HR.com Custom Research, with Future of Payroll 2025 as a separately observed sponsored output",
+      "selected_reason": "Closest HR/payroll-facing example of a research product publicly paired with sponsor recognition and a survey/report commercial offer. Clearly separates the commercial FAQ from the observed report; their contract relationship is not assumed.",
+      "source_candidate_ids": [
+        "T1RP-S01",
+        "T1RP-S02",
+        "T1RP-S03"
+      ],
+      "canonical_source_ids": [
+        "SRC-0065"
+      ],
+      "claim_candidate_ids": [
+        "T1RP-C01",
+        "T1RP-C02",
+        "T1RP-C03",
+        "T1RP-C04",
+        "T1RP-C05",
+        "T1RP-C06"
+      ],
+      "current_offer_status": "Custom Research help article publicly accessible on review date, last updated 2021; current main advertising offer unavailable (403), so current package details unverified. Concrete payroll output is February 2025.",
+      "paying_customer": "Prospective commercial organisation commissioning branded research; IRIS is an observed sponsor in the separate output. Exact payer and payment structure unknown.",
+      "buyer_decision": "Whether to commission topic-specific research and branded thought-leadership rather than rely only on existing free reports.",
+      "audience_and_participant_value": "Reports serve HR professionals; survey recruitment described through interest-based subscribed HR.com membership. Publisher separately offers research-panel rewards. No exclusive senior payroll council or participant entitlement is established.",
+      "commercial_unit": "Custom survey plus branded report, potentially a separately scoped research sponsorship; not an annual dining seat.",
+      "funding": "Sponsor recognition observed; exact cash/in-kind arrangements, total funding and sponsor sales unverified.",
+      "public_price": {
+        "amount": null,
+        "currency": null,
+        "unit": "custom survey / branded-report package",
+        "status": "Not published in reviewed accessible material; no quote requested."
+      },
+      "public_rights": "Branded report promised at broad level. Licence scope, sponsor exclusivity, ownership, redistribution and reuse terms unknown. Free reader access is not a commercial redistribution licence.",
+      "participant_recruitment": "Generic FAQ: interest-based member emails. Concrete 2025 report: 206 responses, mixed worldwide HR sample mainly North America. No probability-sample, response-rate or UK senior payroll inference.",
+      "outputs": "Custom survey and branded report described; concrete payroll output includes executive summary, method note, themed findings, takeaways, sponsor profile and visible sponsor branding. Infographics are a generic research output in recruitment FAQ.",
+      "editorial_independence": "No public contractual publication, negative-findings or sponsor-veto rule established in these routes. Advisory-board involvement is described; cannot substitute for independence terms.",
+      "contact_and_raw_data_access": "Not stated. No automatic entitlement to respondent identities, contact list, introductions or individual raw answers.",
+      "operating_work_inference": [
+        "Questionnaire and agreed audience design",
+        "Recruitment permission and response QA",
+        "Analysis and bounded claims",
+        "Report/design and sponsor acknowledgement",
+        "Separate editorial approval, participant privacy, reuse licence and distribution terms"
+      ],
+      "free_alternatives": "HR.com makes existing research available free after account sign-in; the IRIS-hosted payroll example itself is publicly reachable. A new product therefore needs a decision-specific gap, not simply another generic payroll report.",
+      "conditional_lesson_for_jga": "If a buyer funds a new Table research cycle, specify research outputs and permitted uses as the purchased unit. Keep sponsor recognition distinct from editorial control, participant contacts and individual records. Validate willingness to pay and delivery cost before any model adoption.",
+      "unknowns": [
+        "Current package availability/details",
+        "Price and cash/in-kind funding",
+        "Sponsor contribution and review powers",
+        "Ownership and reuse licence",
+        "Recruitment/response quality beyond report note",
+        "Contact or raw-data entitlement",
+        "Sales and renewal economics"
+      ],
+      "financial_model_status": "No external price or revenue assumption supplied. Design analogy only, subject to T03 permissioned buyer conversations and rights/cost work."
+    },
+    {
+      "candidate_model_id": "RP-M02",
+      "model_type": "licensed_analyst_intelligence",
+      "name": "ISG Buyers Guide research access and licensed provider reports/graphics, illustrated by Global Payroll 2025",
+      "selected_reason": "Primary public service pages distinguish enterprise annual access from provider marketing licences and give a payroll-specific method example; clearer monetisation/rights categories than the screened NelsonHall vendor reprint routes.",
+      "source_candidate_ids": [
+        "T1RP-S04",
+        "T1RP-S05",
+        "T1RP-S06"
+      ],
+      "canonical_source_ids": [],
+      "claim_candidate_ids": [
+        "T1RP-C07",
+        "T1RP-C08",
+        "T1RP-C09",
+        "T1RP-C10",
+        "T1RP-C11",
+        "T1RP-C12",
+        "T1RP-C13",
+        "T1RP-C14"
+      ],
+      "current_offer_status": "Subscription/licensing pages publicly accessible at review; concrete guide explicitly dated December 2025. Not represented as a new 2026 release.",
+      "paying_customer": "Enterprise/service-provider research subscribers; separately software-provider marketing and sales teams licensing research assets. These are distinct customer/use cases.",
+      "buyer_decision": "Enterprise: assess current/new software suppliers and build RFI/shortlist. Provider: use research-derived positioning and authorised report/graphic assets in marketing and sales.",
+      "audience_and_participant_value": "Payroll software decision-makers get structured comparisons and analyst context. Eligible evaluated vendors are invited at no charge. No member dinner or practitioner community entitlement is stated.",
+      "commercial_unit": "Annual access to published guide research with included inquiry; separately negotiated provider report/graphic licence package. Never add these as assumed simultaneous revenues from the same buyer.",
+      "funding": "Publisher sells access and licences; no actual revenue, licence sales volume, funding mix or recurring contracted cash verified.",
+      "public_price": {
+        "amount": null,
+        "currency": null,
+        "unit": "annual research subscription or provider-specific licensed package, separately",
+        "status": "Not published in reviewed service pages; no quote requested."
+      },
+      "public_rights": "Provider page expressly offers licensed use of reports and graphics for funnel/sales purposes. Exact duration, channels, territory, exclusivity, seats, copying and sublicensing unknown. Enterprise access should not be treated as external marketing permission.",
+      "participant_recruitment": "Guide defines eligible software suppliers and invites evaluation participation at no cost; incomplete participants can be assessed from public data. Not a representative practitioner survey.",
+      "outputs": "Enterprise executive summary / full market report and included inquiry; provider-specific report, snapshot and insight formats. Public Global Payroll example provides scoped comparisons and method caveats.",
+      "editorial_independence": "ISG declares independent analysis and no-cost evaluation eligibility; paid licences are separately offered. Actual contractual governance, reviewer disputes and protection against commercial influence not independently verified.",
+      "contact_and_raw_data_access": "A 30-minute research-director inquiry is declared per guide. This is analyst context, not access to surveyed buyers or evaluated-vendor contacts. Individual raw data/contact rights not stated.",
+      "operating_work_inference": [
+        "Category and inclusion criteria with change control",
+        "Evidence collection and review across vendors",
+        "Consistent assessment and documented caveats",
+        "Research/report production and versioning",
+        "Licence enforcement and reuse permissions",
+        "Bounded analyst inquiry capacity and servicing cost"
+      ],
+      "free_alternatives": "Public Global Payroll executive summary already provides headline findings and method. Buyers can also conduct their own supplier RFI. Paid value must be deeper, current, decision-specific interpretation and authorised use, not merely locked headlines.",
+      "conditional_lesson_for_jga": "If Table research becomes licensable, create a clear internal-use edition versus a separately priced external-use permission, with limited analyst briefing. Do not imitate analyst ratings or claim a valid benchmark from a small invited council. Product quality, rights, buyer demand and servicing cost still need proof.",
+      "unknowns": [
+        "Subscription/asset prices",
+        "Seats and sharing",
+        "Licence duration/channels/exclusivity/sublicensing",
+        "Actual sales/renewals",
+        "Exact cash funding mix",
+        "Full contractual editorial protections",
+        "Analyst servicing cost and availability"
+      ],
+      "financial_model_status": "No competitor price used as JGA price. Annual offering is not proof of annual contracted JGA revenue."
+    }
+  ]
+}

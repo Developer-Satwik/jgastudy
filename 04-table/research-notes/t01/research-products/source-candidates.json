@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-29",
+  "scope": "T01 public desktop commercial-model comparison; not T03 buyer validation",
+  "records": [
+    {
+      "candidate_id": "T1RP-S01",
+      "title": "What's included in HR.com's Custom Research?",
+      "publisher": "HR.com Help Center",
+      "url": "https://hrcom.kb.help/whats-included-in-hrcoms-custom-research/",
+      "source_type": "publisher_commercial_offer",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": "2021-04-30",
+      "date_note": "Access date is not publication or fieldwork; help-article dates are the displayed last updates. The Global Payroll guide is a 2025 edition, not a new 2026 study.",
+      "population": "Prospective custom-research advertisers; no buyer sample.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Publisher markets its own research or related services. Page declarations are not independently audited sales, effectiveness or contractual rights.",
+      "capture_path": "04-table/research-notes/t01/research-products/captures/T1RP-S01.html",
+      "capture_sha256": "8967268ee7110d0dbf4d8fb2c6c3d3fd2feba5e73ed96651c5101a8bf99f05bf",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/research-products/parsed/T1RP-S01.txt",
+          "sha256": "d749d85019762bba42d43d39b2d4c6c6419dee335fa87e90c8a22715ae412f7f",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Public help article remains accessible, but last update is 2021. Linked main advertising page returned 403. Current package availability, scope and price require confirmation; no quote requested.",
+      "reuse_status": "Internal commercial-model review. No redistribution or sublicensing permission obtained.",
+      "external_actions": "Read-only public requests; no submitted form/account/payment/contact."
+    },
+    {
+      "candidate_id": "T1RP-S02",
+      "title": "How does HR.com collect data for their research?",
+      "publisher": "HR.com Help Center",
+      "url": "https://hrcom.kb.help/how-does-hrcom-collect-data-for-their-research/",
+      "source_type": "publisher_method_or_access_description",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": "2024-05-20",
+      "date_note": "Access date is not publication or fieldwork; help-article dates are the displayed last updates. The Global Payroll guide is a 2025 edition, not a new 2026 study.",
+      "population": "Interest-based email-subscribed HR.com members; generic method description, not a specific response sample.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Publisher markets its own research or related services. Page declarations are not independently audited sales, effectiveness or contractual rights.",
+      "capture_path": "04-table/research-notes/t01/research-products/captures/T1RP-S02.html",
+      "capture_sha256": "785560e3db8f2dffbbe77c1c06e0e08fb6ed1aa38d0c88d5beb465655430adb3",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/research-products/parsed/T1RP-S02.txt",
+          "sha256": "d0c2aaa75e08dd88ffa0dadfced7c82008bf631e33a5ace1fbd44e81bc913fb0",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Describes recruitment channel, not response rate, weighting, representativeness, sample validation, confidentiality terms or sponsor rights.",
+      "reuse_status": "Internal commercial-model review. No redistribution or sublicensing permission obtained.",
+      "external_actions": "Read-only public requests; no submitted form/account/payment/contact."
+    },
+    {
+      "candidate_id": "T1RP-S03",
+      "title": "Does it cost money to download HR.com research?",
+      "publisher": "HR.com Help Center",
+      "url": "https://hrcom.kb.help/does-it-cost-money-to-download-hrcom-research/",
+      "source_type": "publisher_method_or_access_description",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": "2023-09-18",
+      "date_note": "Access date is not publication or fieldwork; help-article dates are the displayed last updates. The Global Payroll guide is a 2025 edition, not a new 2026 study.",
+      "population": "HR.com account holders seeking its research.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Publisher markets its own research or related services. Page declarations are not independently audited sales, effectiveness or contractual rights.",
+      "capture_path": "04-table/research-notes/t01/research-products/captures/T1RP-S03.html",
+      "capture_sha256": "3bb955c6f81a2aea8ce027fa32e0f0bdaa746606e86dfd2b099a3a6e7a5f38d2",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/research-products/parsed/T1RP-S03.txt",
+          "sha256": "8950628d41e58c65bf4a504970dec7e267b98fd44ee129a1faa7bba4f1224dae",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Free access with account sign-in is not a redistribution, publication or commercial reuse licence. No account was created.",
+      "reuse_status": "Internal commercial-model review. No redistribution or sublicensing permission obtained.",
+      "external_actions": "Read-only public requests; no submitted form/account/payment/contact."
+    },
+    {
+      "candidate_id": "T1RP-S04",
+      "title": "Buyers Guide Services: Enterprise and Service Providers",
+      "publisher": "ISG Software Research",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+      "source_type": "publisher_commercial_offer",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Access date is not publication or fieldwork; help-article dates are the displayed last updates. The Global Payroll guide is a 2025 edition, not a new 2026 study.",
+      "population": "Enterprise and service-provider subscribers making software evaluation decisions; no respondent sample.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Publisher markets its own research or related services. Page declarations are not independently audited sales, effectiveness or contractual rights.",
+      "capture_path": "04-table/research-notes/t01/research-products/captures/T1RP-S04.html",
+      "capture_sha256": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/research-products/parsed/T1RP-S04.txt",
+          "sha256": "bc22cdd4832dda559535b142ea2d2f40a6b70968d6f7abe61ea0f72bf6e20d38",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Annual subscription and inquiry are publisher-declared offer features, not evidence of contracted demand. Exact price, seats, term mechanics and permitted sharing are not stated in reviewed text.",
+      "reuse_status": "Internal commercial-model review. No redistribution or sublicensing permission obtained.",
+      "external_actions": "Read-only public requests; no submitted form/account/payment/contact."
+    },
+    {
+      "candidate_id": "T1RP-S05",
+      "title": "Buyers Guide Services - Software Providers",
+      "publisher": "ISG Software Research",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/software-providers",
+      "source_type": "publisher_commercial_offer",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Access date is not publication or fieldwork; help-article dates are the displayed last updates. The Global Payroll guide is a 2025 edition, not a new 2026 study.",
+      "population": "Software-provider marketing and sales teams; not an enterprise buyer sample.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Publisher markets its own research or related services. Page declarations are not independently audited sales, effectiveness or contractual rights.",
+      "capture_path": "04-table/research-notes/t01/research-products/captures/T1RP-S05.html",
+      "capture_sha256": "726107f8af0b3577d3a4cd863d37a45ec5040b0dff6299fd611f0e4983d6467b",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/research-products/parsed/T1RP-S05.txt",
+          "sha256": "2984b860c533fdf80cac4190c9eea4eb80900886369c47138569c73da94fd458",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Licensed reports and graphics are offered, but legal licence wording, duration, channels, territory, exclusivity and pricing are not public in reviewed text. No blanket resale, raw-data or contact right follows.",
+      "reuse_status": "Internal commercial-model review. No redistribution or sublicensing permission obtained.",
+      "external_actions": "Read-only public requests; no submitted form/account/payment/contact."
+    },
+    {
+      "candidate_id": "T1RP-S06",
+      "title": "Global Payroll Buyers Guide 2025 Executive Summary",
+      "publisher": "ISG Software Research",
+      "url": "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025",
+      "source_type": "publisher_method_or_access_description",
+      "review_status": "relevant_original_html_sections_inspected",
+      "accessed_on": "2026-10-29",
+      "published_date": "2025-12-17",
+      "updated_date": null,
+      "date_note": "Access date is not publication or fieldwork; help-article dates are the displayed last updates. The Global Payroll guide is a 2025 edition, not a new 2026 study.",
+      "population": "Selected eligible global payroll software providers, not payroll directors or a representative workforce sample.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Publisher markets its own research or related services. Page declarations are not independently audited sales, effectiveness or contractual rights.",
+      "capture_path": "04-table/research-notes/t01/research-products/captures/T1RP-S06.html",
+      "capture_sha256": "4aa22e71111a439a9de1e6c00038821b39f47bb520bfe55c1ef9680c661519e0",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/research-products/parsed/T1RP-S06.txt",
+          "sha256": "026eb5d3fc28fbe629e49c521bd97e641641ca9f94e33c2c4854fc1e1804a018",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Public executive summary, 2025 edition. Source distinguishes incomplete provider participation and public-information assessment. Parsed HTML contains duplicated page sections and a continuation form marker; review uses the public article and appendix, not a claimed gated/full report. No contact or form submitted.",
+      "reuse_status": "Internal commercial-model review. No redistribution or sublicensing permission obtained.",
+      "external_actions": "Read-only public requests; no submitted form/account/payment/contact."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0065",
+      "operation": "reuse_existing_source_and_capture",
+      "title": "HR.com Future of Payroll 2025",
+      "url": "https://www.irisglobal.com/wp-content/uploads/2025/05/2-26-25-HRdotcom-Future-of-Payroll-2025-Research-Report-IRIS_V3.pdf",
+      "accessed_on": "2026-10-29",
+      "capture_path": "02-evidence/captures/root-r01/SRC-0065-hrcom-future-payroll-2025.pdf",
+      "capture_sha256": "ba2e67d092d84275a7585691f9ec1ac418c4ebc769f5c3b47611f3f85d024cde",
+      "capture_kind": "existing_retained_original_pdf",
+      "locator": "PDF/printed page 1 sponsor; page 3 About the Survey; page 59 publisher/panel and sponsor profiles",
+      "additional_review": "Read PDF skill; visually inspected rendered complete pages 1, 3 and 59; parsed text retained separately. No other prior survey findings newly reviewed for this model.",
+      "parsed_path": "04-table/research-notes/t01/research-products/parsed/SRC-0065-reused-report.txt",
+      "parsed_sha256": "f99b53264298b50739442d2bc47f71cc5e2d8ec8222d0dbe6a7bbad3007196a4",
+      "funding_or_commercial_interest": "IRIS sponsor explicitly recognised; exact cash/in-kind arrangement and amount unknown.",
+      "limitations": "This concrete sponsored output is not proof that it was commissioned under the separately described Custom Research package. Generic recruitment FAQ does not establish the recruitment details of this particular study.",
+      "reuse_status": "Canonical record retained; no redistribution permission established."
+    }
+  ]
+}

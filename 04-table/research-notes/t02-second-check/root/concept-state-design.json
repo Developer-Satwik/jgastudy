@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "status": "optional_analyst_aid_not_participant_form",
+  "scope": "T02 second design check only; existing approved recording/permission structures remain in force.",
+  "blank_optional_note": {
+    "concept_reference": null,
+    "actual_wording_or_amendment_reference": null,
+    "edition_or_work_reference": null,
+    "purpose_and_asset_stage": null,
+    "actual_use_context": null,
+    "feedback_source_kind": null,
+    "feedback_and_conditions": null,
+    "unshown_or_unknown_variant": null,
+    "permitted_next_step_reference": null
+  },
+  "not_a_score": true,
+  "not_an_ordered_funnel": true,
+  "actual_concept_exposures": [],
+  "actual_feedback": [],
+  "actual_commitments": [],
+  "actual_collection_activated": false,
+  "new_mandatory_questions": 0
+}

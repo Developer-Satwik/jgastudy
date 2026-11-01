@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S01.html",
+      "sha256": "568ec5fdb538e46782f394cf6b8682055770c3f078a8c8a7ca763865ca7c5b71",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S01.txt",
+      "sha256": "1ce1ecb1d4f148e32c05dd62c6bb0b0c2bc4aa2ebe8c7539c37142f43a435819",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S02.html",
+      "sha256": "318310b0474f699f1ca14c38e0ef55258ce2eeda24ba816c2c942c3c8cedb461",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S02.txt",
+      "sha256": "f014309ac5749a1ff81641eaf8df757c0e9f7d973e702ba718cfc92b8e0cc9cf",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S03.pdf",
+      "sha256": "e0c771457ee7a7e1ca6db6314097b202a8b946a33233543bb5f9ab9cc3cf0276",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S03.txt",
+      "sha256": "289be2d8b9ada65a014e5a7d22fb9e64df29bf09f049cb02cd0bd2bfcee3e45b",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S03-method-41.png",
+      "sha256": "f34e47e629bde325954581a2f0c6cb7e735935aacee08fa6e25ae566cb0976c9",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S03-method-42.png",
+      "sha256": "e4a481a1254087f7330ff6d523c42c7b3ea23783a77ad87c3c0e6d324a473146",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/history/captures/R5H-S03-p29.png",
+      "sha256": "ddc3ff79a6ba7dc1c7f028d1ff1c6fb8e4e4b14bd489f36689c4850d481cb536",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0075.html",
+      "sha256": "6fc07b7c779faadfeaedce2de0eeec233e181b558885488794ba95fbd3cc6c1f",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0075.txt",
+      "sha256": "e7a9630e8ea0de829213d5b38ba45eac30349301da4fb06a1372457eba699de9",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S01.html",
+      "sha256": "6f8ef9bcd0d5256de5c4badf0900e61a77deff2cf347f4f388592994d6cdb9d7",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S01.txt",
+      "sha256": "4268c1b3889e9b94614332c8b020e1d2ad5cb5608ee2c02d2e743d8a19939ace",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S02.html",
+      "sha256": "837f1873add7ee4e1658f66014577506b19445de1a4fc2a4e5075488f13e2eef",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S02.txt",
+      "sha256": "6ac4acb2dbfed2f8396629b0310ff4f83c3cb806fd38841bb5a3df3b64a207a3",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S03.html",
+      "sha256": "636e1a4e4ed3eb3edf35526e066010d39dbc9db0f6125f842d8ceea77645b33a",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S03.txt",
+      "sha256": "ec400a915197a4368b1a91d5ba82d05a2911deabe0362197604f08e65c413153",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S04.html",
+      "sha256": "a726a81b3de266febe9cb9cc35b4c8aa7935200ba919b852f83fe145c32d00b4",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/R5M-S04.txt",
+      "sha256": "b7e6fe4b73f70d00588c2565e8e463acd4e61850698d6a6862a431c5ca14c60b",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/SRC-0107.html",
+      "sha256": "d92f5a3f83887ff4194650874a7fdb606b43cd03108b69af3fe8ece41b42926d",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/market/captures/SRC-0107.txt",
+      "sha256": "2adcb7402a2bc39157a34c3ae3caa55a7372f96e32270382168b1605e5664330",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/prior-study-bridge.json",
+      "sha256": "9f2eac801677e8fa9465d7cc2e5f3098adfbf786e6b23f743829e18473656127",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+      "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S02-selected-reader-notes.txt",
+      "sha256": "3d4e1fa3a8c93043268e3cf5f00bfe23cb67c21c3b092f3a72cb39e7fa9325cd",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S03.html",
+      "sha256": "0b7500b949de54c87916ce90414da63e20ec9af0d8c1598fb73a8004fc3a7e83",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S03.txt",
+      "sha256": "16d11e8b6b301ae1a4e7d1a37d3d2994576ac25ad8aeab4e696e2e158f583bdd",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S04.html",
+      "sha256": "78f5e29fe272946a04c0b61e929df93faeb6e00d0d5cb13c7d390d2ace0d781b",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S04.txt",
+      "sha256": "8e9d08e1acb912dab32d6fec63e5022bf824373c3bfd84b6c646e5aaf092b925",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0115.html",
+      "sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0115.txt",
+      "sha256": "2c0252b23bdbca9e022f583e19229fd8efef4950d46298b94e9c5792a9a2b7cf",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0116.html",
+      "sha256": "29109ee5aafdbd89c5605450a468b1dabea15a2110a2559e52004d5f3e783011",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0116.txt",
+      "sha256": "bc3d642157e157c4a1c2c2839b72339b275f0ea80bcffe50754ad83d515c11bf",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0147.html",
+      "sha256": "b4609a1fa145253871b183fa445c230ecd137c49287ee891d4f1a60579aba0d7",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0147.txt",
+      "sha256": "5b8a0201c154481db6b05c5b56347e7b2477bcfc709395f0dc80c34d36c33644",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0148.html",
+      "sha256": "d041d6d41e9dbb6e5e871d484ab470b5391c291ed401321b0a3adb2ef177a936",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0148.txt",
+      "sha256": "4443f04e80f5ce8a4596203ffae9e9666a6c0797b65af2687fbdc0be768e26df",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+      "sha256": "ebdc81e6d0a68176353692614e8f21ca2c2300ac77aacb500116ea0cb805f392",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/COMPETITOR-CHALLENGE.md",
+      "sha256": "54702f41be805b5f0a586c269cab753c2a2c43d804e924f59c92b2f6cc4b2118",
+      "kind": "internal_research_note"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures.json",
+      "sha256": "fccda1910dd4394dcf283761aa03da72edf7201980c3b7266db0d255c117dc1c",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/claim-candidates.json",
+      "sha256": "1364554a0bda90537abc72dfec25f36a0a5e97c63d0f655776f003cd70a72826",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/prior-study-bridge.json",
+      "sha256": "b07362c1c5ed92a8fe5c1586d720a75b6eed2b1db184d6035f22cefb0082bc14",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/search-and-review-log.json",
+      "sha256": "fe71d61d1fccb9f9d1f685efecd5842eaa0733c3020f9ab28b2d34066e17a624",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/source-candidates.json",
+      "sha256": "f85aa39a50953ed866c34895d5e655a7b1655d90e62612539dc07fc52667e8c1",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/root/R5R-S01.html",
+      "sha256": "f3477da8f20be8c69b4afa19c71f04434baff122059e5f10769732e7fe814d1d",
+      "kind": "retained_original"
+    }
+  ]
+}

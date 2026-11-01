@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Preserve first-pass R06 before user-requested second challenge",
+  "records": [
+    {
+      "original_path": "03-report/R06-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/01-R06-DESKTOP-READOUT.md.txt",
+      "sha256": "fce9fa91bc3d551da54340a834fb41ff0617675b3f09e1d19a7005c92573d132"
+    },
+    {
+      "original_path": "03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/02-R06-BARRIER-RESPONSE-MATRIX.md.txt",
+      "sha256": "3656471a73892cc8a101200dea28e07750dba6819e8f11de1a28474ee0925d9a"
+    },
+    {
+      "original_path": "03-report/R06-outcome-map.json",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/03-R06-outcome-map.json.txt",
+      "sha256": "09cf79993124f5290dc5bbc1bc41007ea67fbe55282a944cee4ecb20df6fd38a"
+    },
+    {
+      "original_path": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/04-R06-staying-switching-delay-and-abandonment.md.txt",
+      "sha256": "e2abfffce21c48d5d13f2fb694477232906b03341b28966120a9aa0b9e760337"
+    },
+    {
+      "original_path": "08-qa/R06-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/05-R06-independent-review.md.txt",
+      "sha256": "c1f964afd090a178ee889ace02432030156b9b45900e9c31c17bf1743f209e71"
+    },
+    {
+      "original_path": "08-qa/R06-record-map.json",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/06-R06-record-map.json.txt",
+      "sha256": "0690080f0883294bbc511fea7f1d75198af46016492b8f9077d133d7b5eebdad"
+    },
+    {
+      "original_path": "08-qa/R06-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/07-R06-completion-check.json.txt",
+      "sha256": "115239b584401d437c0c250d6795d03891c49e2e955520a897ea0d4b629d2026"
+    }
+  ]
+}

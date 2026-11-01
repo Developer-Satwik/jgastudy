@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-28",
+  "records": [
+    {
+      "file": "fourth-definition-2026.pdf",
+      "url": "https://uk.fourth.com/wp-content/uploads/sites/2/2026/02/Payroll-Bureau-Service-Definition-February-2026.pdf",
+      "bytes": 429370,
+      "sha256": "1303d84fc8ae65afd91927e336d5e3ac4bb94a62606ad6d3f8963e2a1a7ccb6a",
+      "status": "retained_original"
+    },
+    {
+      "file": "phase3-definition-2021-22.pdf",
+      "url": "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/716409/345467489272831-service-definition-document-2022-04-20-0947.pdf",
+      "bytes": 1088174,
+      "sha256": "e76118bec938e7b01bc5de6699f66cbd025d18cffbb517d0ca7103205756c2dd",
+      "status": "retained_original"
+    },
+    {
+      "file": "fourth-agreement.html",
+      "url": "https://uk.fourth.com/legal/payroll-bureau-service-agreement",
+      "status": "not_retained",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "file": "phase3-gcloud14.html",
+      "url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/345467489272831",
+      "bytes": 66016,
+      "sha256": "c5cf1881741877b6934c3a3362cc9562b868938d3a018b58496953087ae9845b",
+      "status": "retained_original"
+    },
+    {
+      "file": "cipp-outsourced-p8.html",
+      "url": "https://online.flippingbook.com/view/472391297/8/",
+      "bytes": 86028,
+      "sha256": "243a4f747b92f40a3814048c1aee18ed6c764ba3e502bdfec7a03dabb2fd8b60",
+      "status": "retained_original"
+    },
+    {
+      "file": "cipp-outsourced-p9.html",
+      "url": "https://online.flippingbook.com/view/472391297/9/",
+      "bytes": 85716,
+      "sha256": "277b8b546dc389972d5b377ab60f7a1b9dcaf7649784682eb38eaa12e881afea",
+      "status": "retained_original"
+    },
+    {
+      "file": "cipp-professionals-p7.html",
+      "url": "https://online.flippingbook.com/view/471897251/7/",
+      "bytes": 85916,
+      "sha256": "5d95fc86426cbca438a4cbb34cfa15a8daafb1d2bc25ea539c8a3d7f12322423",
+      "status": "retained_original"
+    }
+  ]
+}

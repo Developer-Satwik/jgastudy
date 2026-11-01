@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SIG7-C01",
+      "source_ids": [
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0072"
+      ],
+      "claim_text": "HMRC’s inspected manual remains draft/interim and describes phased mandatory payrolling for specified benefits from April 2027, then most other benefits from April 2028, with loans and accommodation remaining voluntary.",
+      "evidence_class": "official_interim_future_signal",
+      "locator": "Manualsummary/status; phasedintroduction opening, phase1list andphase2paragraph",
+      "limitations": "Dated published intended scope, not current operation of those future phases, all benefits at once or full enacted-law assurance. No statutory rate or employer cost used.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    },
+    {
+      "candidate_id": "SIG7-C02",
+      "source_ids": [
+        "SRC-0092"
+      ],
+      "claim_text": "HMRC’s preparation chapter identifies benefit-data flows across functions/providers, payroll software or changes, team training, employee communication and potential transition cash timing as relevant preparation.",
+      "evidence_class": "official_preparation_dependencies",
+      "locator": "Registration; Communicatingtoemployees; Preparingfortransition1–3/things toconsider",
+      "limitations": "Guidance does not establish an employer has adopted/funded any work, lacks capability or needs a new platform/provider/hire. It is not an observed benefit or universal cost burden.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    },
+    {
+      "candidate_id": "SIG7-C03",
+      "source_ids": [
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0092"
+      ],
+      "claim_text": "As of29 October 2026, the inspected manual describes November 2026 registration/exclusion services and an April 2027 Basic PAYE Tools update as future availability; the live text also retains earlier update/voluntary-period wording.",
+      "evidence_class": "official_declared_future_availability_and_version_boundary",
+      "locator": "Manualsummary globallymobileparagraph; phasechapter technicalupdateparagraphs; Gettingreadyregistration/voluntaryservice/Basic PAYE Tools headings",
+      "limitations": "No service launch or actual software capability was tested. Passed future-update wording is not delivery evidence, and older preparation instructions are not automatically valid current instructions. No wider false-guidance accusation or independent policy chronology inferred.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    },
+    {
+      "candidate_id": "SIG7-C04",
+      "source_ids": [
+        "SIG7-S01",
+        "SIG7-S02"
+      ],
+      "claim_text": "HMRC transition guidance and Acas current SSP guidance describe changes effective6 April 2026, including removal of earnings-limit and waiting-period conditions while other eligibility and transitional rules remain.",
+      "evidence_class": "official_current_guidance_context",
+      "locator": "HMRCopening/transitionheadings; Acaseligibility andabsencesbefore6 April 2026",
+      "limitations": "Current-guidance context, not a full primary-statute audit or individual eligibility/rate advice. Not everyworker is automatically eligible. No numerical rates, threshold examples, employer readiness or aggregate cost estimate adopted.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    },
+    {
+      "candidate_id": "SIG7-C05",
+      "source_ids": [
+        "SIG7-S01",
+        "SIG7-S02"
+      ],
+      "claim_text": "The SSP guidance’s preparation/eligibility instructions establish what the publisher asks employers to consider, not whether a specific employer has allocated resources, implemented changes or delivered accurate outcomes.",
+      "evidence_class": "researcher_evidence_status_application",
+      "locator": "HMRCWhatyouneedtodo; Acaseligibility/transitionalcontext; explicitanalystapplication",
+      "limitations": "A current requirement or published preparation step is not observed employer commitment, spend or compliance. No assumption of noncompliance, blanket regional rule or compulsory technology response.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    },
+    {
+      "candidate_id": "SIG7-C06",
+      "source_ids": [
+        "SRC-0075"
+      ],
+      "claim_text": "The Synergy summary distinguishes reported investment approval/contract execution, a ring-fenced funding envelope and departmental funding responsibilities from prospective shortfalls and future expected benefits.",
+      "evidence_class": "official_programme_account_with_mixed_commitment_states",
+      "locator": "Programmecontext1.2 para101; Finance4.1–4.3, retainedtext279–281,319–325",
+      "limitations": "One published combined-function public programme. No spending arithmetic, audited financial assurance, actual later benefit, private funding rule or payroll-only cost. Existing numeric/assurance limits unchanged.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    },
+    {
+      "candidate_id": "SIG7-C07",
+      "source_ids": [
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0092",
+        "SIG7-S01",
+        "SIG7-S02",
+        "SRC-0075"
+      ],
+      "claim_text": "For R07, record each external signal’s source/date, applicability, operative or interim/future status and dependencies separately from the organisation’s own idea, evaluation, plan, approval, funding and delivery evidence.",
+      "evidence_class": "researcher_conditional_planning_design",
+      "locator": "Cross-sourceanalyticalapplication; existingQ005separates prioritystage andfunding",
+      "limitations": "No forecast, universal priority ranking, scoring ladder or extra question. External relevance does not establish internal commitment, mandate a supplier/hire or make every employer/country comparable. Actual task, benefit mix and cohort remain case-specific.",
+      "review_mode": "Relevant original HTML inspected and retained, or explicitly named prior retained original re-read. No statutory calculation, employer outcome test or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance/programme account or explicit researcher application, not a representative payroll employer sample",
+      "time_period": "Dated current/interim/future states as of29 October 2026; no statistical trend"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "candidate_id": "T5S-S01",
+      "url": "https://www.nibusinessinfo.co.uk/content/should-you-bid-tender",
+      "final_url": "https://www.nibusinessinfo.co.uk/content/should-you-bid-tender",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.805873+00:00",
+      "checks": {
+        "Preparing tenders": true,
+        "cost": true,
+        "valuable resources": true
+      },
+      "parsed_characters": 12786,
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S01.html",
+      "capture_sha256": "193f2645aeb95f095ba383866f3432206cf9d58d9c989cad4bca238b966bbcf3",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S01.txt",
+      "parsed_sha256": "4a907963c087682765720acd3019161851b24dbb6c6621bc79dada2ae7bb45a5",
+      "title": "Should you bid for a tender? | nibusinessinfo.co.uk"
+    },
+    {
+      "candidate_id": "T5S-S02",
+      "url": "https://www.abiresearch.com/analyst-inquiry-faq/",
+      "final_url": "https://www.abiresearch.com/analyst-inquiry-faq/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.826757+00:00",
+      "checks": {
+        "30-minute": true,
+        "custom": true,
+        "Client Success": true
+      },
+      "parsed_characters": 13096,
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S02.html",
+      "capture_sha256": "bc62d7a0cfba8c2c9ebe82e9cece01908ee352fe7a60e03d807c01f4c15de423",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S02.txt",
+      "parsed_sha256": "6dc4e98e503a1433484bb78bdcb64832d6a28853f477a812282d868e3f014953",
+      "title": "Analyst Inquiry Faq"
+    },
+    {
+      "candidate_id": "T5S-S03",
+      "url": "https://www.forrester.com/policies/analyst-access/",
+      "final_url": "https://www.forrester.com/policies/analyst-access/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.745565+00:00",
+      "checks": {
+        "Guidance sessions": true,
+        "prep": true,
+        "license": true
+      },
+      "parsed_characters": 19619,
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S03.html",
+      "capture_sha256": "7e91e1bad9a035a1e02bb3a84b32fe0b144d2bdf1b5e9b3e3f4d8cdf66fbc2b5",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S03.txt",
+      "parsed_sha256": "f22ca0edf2ebae78f92a3a06ef7d022dbc502d0049bcf873064ce27f724fe344",
+      "title": "Analyst Access Policy - Forrester"
+    },
+    {
+      "candidate_id": "T5S-S04",
+      "url": "https://www.forrester.com/policies/citations-policy/",
+      "final_url": "https://www.forrester.com/policies/citations-policy/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.782845+00:00",
+      "checks": {
+        "Reprints": true,
+        "approval": true,
+        "replay": true
+      },
+      "parsed_characters": 35119,
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S04.html",
+      "capture_sha256": "8e13fd7ee77729b4e836da0381e6ae614672c2c4baf148ff4dd0d66f17e4bd35",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S04.txt",
+      "parsed_sha256": "199c9924599d8280cfed2fb2d30d5ae1e570cc2f9ed6f0abc72a3b07f2c076c6",
+      "title": "Citation Policy - Forrester"
+    }
+  ]
+}

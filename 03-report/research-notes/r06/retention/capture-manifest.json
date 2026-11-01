@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "path": "03-report/research-notes/r06/retention/captures/RET6-S01-selected-reader-notes.txt",
+      "sha256": "db1a8e66ccfc2cd76aa9109cca698e4403ca9f3058aee01d665ed6cb3eaacac8",
+      "kind": "paraphrased_selected_reader_notes",
+      "source_url": "https://warwickshire.moderngov.co.uk/ieDecisionDetails.aspx?ID=1236"
+    },
+    {
+      "path": "03-report/research-notes/r06/retention/captures/RET6-S02-selected-reader-notes.txt",
+      "sha256": "ab6760b1d1701dd55f2e06ea3d73b2d5acf2d46fb72a451ff62c597e93372599",
+      "kind": "paraphrased_selected_reader_notes",
+      "source_url": "https://sandwell.moderngov.co.uk/ieIssueDetails.aspx?IId=19236&Opt=3&PlanId=0"
+    },
+    {
+      "path": "03-report/research-notes/r06/retention/captures/RET6-S03-selected-reader-notes.txt",
+      "sha256": "c2623518516f592f28f915a363a874dddebb260d644a4a347f8a4f3b60c5309f",
+      "kind": "paraphrased_selected_reader_notes",
+      "source_url": "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501"
+    }
+  ],
+  "raw_retrieval_attempts": [
+    {
+      "url": "https://warwickshire.moderngov.co.uk/ieDecisionDetails.aspx?ID=1236",
+      "retrieval_failure": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null
+    },
+    {
+      "url": "https://modgov.sefton.gov.uk/ieIssueDetails.aspx?IId=76416&Opt=3",
+      "retrieval_failure": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null
+    },
+    {
+      "url": "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501",
+      "retrieval_failure": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null
+    },
+    {
+      "url": "https://sandwell.moderngov.co.uk/ieIssueDetails.aspx?IId=19236&Opt=3&PlanId=0",
+      "retrieval_failure": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null
+    }
+  ],
+  "raw_originals_retained": 0,
+  "reader_note_files": 3
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-30",
+  "status": "integrated_internal_draft_for_review",
+  "version": "0.1",
+  "propositions": [
+    {
+      "status": "internal_concept_draft_not_offer",
+      "adopted": false,
+      "validated": false,
+      "price": null,
+      "currency": null,
+      "actual_customers": [],
+      "actual_commitments": [],
+      "actual_participants": [],
+      "new_mandatory_report_questions": 0,
+      "proposition_id": "TP01",
+      "name": "Payroll Decision Evidence Pack",
+      "hypothesis_ids": [
+        "T02-H01"
+      ],
+      "intended_exchange": "A defined research edition for an actual decision/use, with additional services or customer-use permissions only where wanted and agreed.",
+      "minimum_payload": [
+        "Specified dated finished edition and executive summary with actual evidence/method context.",
+        "A short route through relevant sections, supported case contrasts and existing practical tools.",
+        "Clear statement of evidence scope, missing information and permitted-use questions."
+      ],
+      "optional_payload": [
+        "One scoped reader briefing, only after audience/task/preparation/owner/time/follow-up/capacity/cost are defined.",
+        "Defined client/public-use material or excerpt/graphic from the same edition if actually needed and authorised."
+      ],
+      "not_in_core": [
+        "New bespoke research or employer analysis",
+        "Representative market rates, supplier ratings or guaranteed outcomes",
+        "Event/sponsor access or private answers",
+        "Unlimited advice, future updates or annual subscription"
+      ],
+      "free_paid_rule": "Participating practitioners retain the research free as proposed. Establish actual existing access and intended use first. Do not sell an equivalent second copy to the same beneficiary by default, remove promised access, or assume all team circulation requires another fee. Any paid component must be genuinely additional, wanted, feasible and agreed.",
+      "concept_after_discovery": "We are shaping a practical research pack around payroll investment and change decisions. It would bring together the dated findings, relevant case comparisons and tools for thinking through the evidence and next steps. A short, separately scoped briefing could help your team apply the material to a decision you have described. Which part, if any, would add something to what you already use?",
+      "canonical_claim_ids": [
+        "CLM-0496",
+        "CLM-0506",
+        "CLM-0515",
+        "CLM-0516",
+        "CLM-0522"
+      ],
+      "raw_candidate_path": "04-table/research-notes/t02/buyer/buyer-candidates.json",
+      "raw_candidate_id": "TB-B01"
+    },
+    {
+      "status": "internal_concept_draft_not_offer",
+      "adopted": false,
+      "validated": false,
+      "price": null,
+      "currency": null,
+      "actual_customers": [],
+      "actual_commitments": [],
+      "actual_participants": [],
+      "new_mandatory_report_questions": 0,
+      "proposition_id": "TP02",
+      "name": "Founding Research Partnership",
+      "hypothesis_ids": [
+        "T02-H02"
+      ],
+      "intended_exchange": "Support a defined independent research edition and receive explicitly scoped findings/briefing, disclosed recognition and agreed uses.",
+      "minimum_payload": [
+        "Defined edition and specific funding purpose/intended use.",
+        "One bounded findings briefing, with actual servicing scope and owner to be settled.",
+        "Accurate disclosed funding acknowledgement and specifically agreed research-use permissions."
+      ],
+      "optional_payload": [
+        "A separately defined event-support or transparent commercial-access component if wanted, permitted and deliverable."
+      ],
+      "not_in_core": [
+        "Participant identities, individual answers or default contact lists",
+        "Guaranteed meetings, audience or sales returns",
+        "Favourable conclusions, suppression or partner method/results veto",
+        "Unagreed exclusivity, resale, annual renewal or unlimited analysis"
+      ],
+      "free_paid_rule": "Funding benefits need a genuine use; equivalent free or bundled access is not a second licence sale. JGA publication responsibility and underlying rights remain distinct from partner fact checking.",
+      "concept_after_discovery": "One option we are assessing is a founding research partnership for a defined edition on how payroll leaders turn operational needs into investment decisions. The proposed package would fund the research and give your team a focused findings briefing, agreed recognition as a funding partner, and clearly defined rights to use the finished work. Funding would not give a partner control over the findings. Private answers and participant contacts would not be included by default. Any event involvement or commercial introductions would need a separate, transparent scope. We are testing whether that would serve a real decision or communication need for your team.",
+      "canonical_claim_ids": [
+        "CLM-0497",
+        "CLM-0508",
+        "CLM-0509",
+        "CLM-0515",
+        "CLM-0516",
+        "CLM-0522"
+      ],
+      "raw_candidate_path": "04-table/research-notes/t02/partner-member/partner-member-candidates.json",
+      "raw_candidate_id": "T02-PARTNER-01",
+      "funding_purpose_boundary": "Name the actual edition and funding purpose. If research is already commissioned or complete, describe that accurately and distinguish any additional release, briefing or distribution work; do not present it as a newly commissioned study. Keep production costs and partner/licence revenues separately defined, counting each cost and bundled entitlement once."
+    },
+    {
+      "status": "internal_concept_draft_not_offer",
+      "adopted": false,
+      "validated": false,
+      "price": null,
+      "currency": null,
+      "actual_customers": [],
+      "actual_commitments": [],
+      "actual_participants": [],
+      "new_mandatory_report_questions": 0,
+      "proposition_id": "TP03",
+      "name": "Founding Practitioner Research and Peer Cycle",
+      "hypothesis_ids": [
+        "T02-H03",
+        "T02-H04"
+      ],
+      "intended_exchange": "Relevant practitioners contribute an industry question and appropriate experience, receive research free, and may join a useful peer exchange if the chosen format proceeds.",
+      "minimum_payload": [
+        "Original free attendance and free research benefit preserved; no booked event or membership is promised.",
+        "One suggested industry question and appropriate optional research input, with existing permission/routing rules.",
+        "Relevant moderated peer exchange if feasible, with clear roles, format and output choices.",
+        "Optional council recognition, separate from attendance disclosure and contribution attribution."
+      ],
+      "optional_payload": [
+        "One short cycle follow-through note distinguishing takeaways, evidence limits and open questions; a new benefit idea to test and cost, not a monthly service."
+      ],
+      "not_in_core": [
+        "An obligation to attend four cities or a continuing council appointment",
+        "A guarantee every proposed question is answered or added to the14core",
+        "Expert payroll helpdesk, confidential bespoke advice or ongoing support",
+        "Automatic named quotations, employer identification or sponsor contact rights"
+      ],
+      "free_paid_rule": "Keep full research free as proposed. No teaser downgrade or new individual/employer restrictions are imposed. Interest, council recognition, actual attendance and usable report contribution remain different.",
+      "concept_after_discovery": "We are exploring a small senior payroll peer group built around practical research and useful discussion. The working concept includes free attendance and free research, one industry question from each participant, and an exchange with relevant payroll leaders. One possible extra is a short follow-up separating useful takeaways from questions that still need evidence. Council recognition would be optional and separate from permission to publish a contribution. We are assessing the format and its value before arranging any event or asking anyone to commit.",
+      "canonical_claim_ids": [
+        "CLM-0501",
+        "CLM-0503",
+        "CLM-0507",
+        "CLM-0518",
+        "CLM-0519",
+        "CLM-0520",
+        "CLM-0521",
+        "CLM-0522"
+      ],
+      "raw_candidate_path": "04-table/research-notes/t02/partner-member/partner-member-candidates.json",
+      "raw_candidate_id": "T02-MEMBER-01"
+    }
+  ],
+  "original_hypotheses": [
+    "T02-H01",
+    "T02-H02",
+    "T02-H03",
+    "T02-H04"
+  ],
+  "selected_T01_models": 6,
+  "secondary_model_assumptions_not_adopted": true,
+  "contract_segment_ids": [
+    "BS01",
+    "BS02",
+    "BS03",
+    "BS04",
+    "BS05"
+  ],
+  "employer_segment_is_additional_hypothesis": true,
+  "report_free_to_practitioner_preserved": true,
+  "JGA_commissioned_IP_not_restricted_by_drafts": true,
+  "original_report_questions": 14,
+  "extra_mandatory_questions": 0,
+  "actual_buyer_validation": [],
+  "actual_member_validation": [],
+  "actual_offer_exposures": [],
+  "actual_rights_grants": [],
+  "financial_inputs": [],
+  "external_actions": [],
+  "prices": [],
+  "fieldwork_activated": false,
+  "signed_project_scope_changed": false,
+  "rights_options_reference": "04-table/T02-use-and-entitlement-options.json",
+  "segment_map_reference": "04-table/T02-buyer-segments.json",
+  "draft_guide_reference": "01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+  "active_WP03_guide_changed": false,
+  "original_guide_preserved": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md"
+}

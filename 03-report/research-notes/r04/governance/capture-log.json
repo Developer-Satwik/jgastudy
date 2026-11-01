@@ -1,0 +1,113 @@
+{
+  "captured_on": "2026-10-29",
+  "scope": "R04 governance own-folder originals only",
+  "records": [
+    {
+      "source_candidate_id": "GOV4-S01",
+      "url": "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+      "captured_at_utc": "2026-10-28T21:04:06.459786+00:00",
+      "status": "capture_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source_candidate_id": "GOV4-S02",
+      "url": "https://www.gov.uk/government/publications/government-functional-standard-govs-008-commercial-and-commercial-continuous-improvement-assessment-framework/government-functional-standard-govs-008-commercial-html",
+      "final_url": "https://www.gov.uk/government/publications/government-functional-standard-govs-008-commercial-and-commercial-continuous-improvement-assessment-framework/government-functional-standard-govs-008-commercial-html",
+      "captured_at_utc": "2026-10-28T21:04:06.460203+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 292875,
+      "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/governance/govs-008-commercial.html",
+      "capture_sha256": "c37216644c0115ed63367e4f30154b68810aa61fd244e07294187d89d98666b9",
+      "status": "retained_original"
+    },
+    {
+      "source_candidate_id": "GOV4-S03",
+      "url": "https://assets.publishing.service.gov.uk/media/66d5c8c4701781e1b341db29/Government_Functional_Standard_006.pdf",
+      "captured_at_utc": "2026-10-28T21:04:06.460297+00:00",
+      "status": "capture_failed",
+      "error": "The read operation timed out"
+    },
+    {
+      "source_candidate_id": "GOV4-S04",
+      "url": "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/corporate-governance-code-guidance/",
+      "final_url": "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/corporate-governance-code-guidance/",
+      "captured_at_utc": "2026-10-28T21:04:06.460355+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 440358,
+      "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/governance/frc-corporate-governance-guidance.html",
+      "capture_sha256": "21266a2b8158df4ad17ba474f3623374b948fafc81a3cacf663db9349d1a59ef",
+      "status": "retained_original"
+    },
+    {
+      "source_candidate_id": "GOV4-S03-meta",
+      "url": "https://www.gov.uk/government/publications/government-finance-standards-page",
+      "final_url": "https://www.gov.uk/government/publications/government-finance-standards-page",
+      "captured_at_utc": "2026-10-28T21:04:07.339922+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 75106,
+      "capture_path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/governance/govs-006-finance-landing.html",
+      "capture_sha256": "3b452e7a5d4199b1db6892f6d5945545743599eaea68d21214d993fca12df365",
+      "status": "retained_original"
+    },
+    {
+      "source_candidate_id": "GOV4-S01-meta",
+      "url": "https://projectdelivery.gov.uk/library-product/government-functional-standard-govs-002-project-delivery/",
+      "captured_at_utc": "2026-10-28T21:04:08.145595+00:00",
+      "status": "capture_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source_candidate_id": "GOV4-S03",
+      "url": "https://assets.publishing.service.gov.uk/media/66d5c8c4701781e1b341db29/Government_Functional_Standard_006.pdf",
+      "captured_at_utc": "2026-10-28T21:05:05.774314+00:00",
+      "http_status": null,
+      "capture_kind": "retained_original_pdf",
+      "status": "retained",
+      "capture_path": "03-report/research-notes/r04/governance/govs-006-finance.pdf",
+      "capture_sha256": "4725670dcf38a957dd3911a66395ab328cccddcdde4404a96ca65925875b7ee0",
+      "bytes": 689887
+    },
+    {
+      "source_candidate_id": "GOV4-S01",
+      "url": "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+      "captured_at_utc": "2026-10-28T21:05:51.040696+00:00",
+      "http_status": null,
+      "capture_kind": "browser_tool_parsed_extract_not_original",
+      "status": "retained",
+      "capture_path": "03-report/research-notes/r04/governance/govs-002-browser-text-extract.txt",
+      "capture_sha256": "c48eebdeb7e75fae0de25de2157dc71b5e1b67f068474a7b53c19eb742955858",
+      "bytes": 20098
+    },
+    {
+      "source_candidate_id": "GOV4-S01",
+      "url": "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+      "captured_at_utc": "2026-10-28T21:06:23.869174+00:00",
+      "http_status": null,
+      "capture_kind": "browser_tool_parsed_extract_not_original",
+      "status": "retained",
+      "capture_path": "03-report/research-notes/r04/governance/govs-002-browser-lifecycle-extract.txt",
+      "capture_sha256": "371a346e9c4118551a5952a69fa8a5b666308c353f004dd7187cbc1ebda641d9",
+      "bytes": 18616
+    },
+    {
+      "source_candidate_id": "GOV4-S01",
+      "status": "direct_curl_returned_cloudflare_interstitial_not_original",
+      "urls": [
+        "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+        "https://projectdelivery.gov.uk/download/66847/?tmstv=1756584452"
+      ],
+      "note": "Shell exits were zero but payload signatures were HTML Just a moment challenge pages. These are not retained or counted as originals. No challenge bypass attempted."
+    }
+  ],
+  "summary": {
+    "new_sources_reviewed": 4,
+    "new_sources_with_retained_originals": 3,
+    "new_sources_browser_parsed_only": 1,
+    "new_metadata_originals_retained": 1,
+    "existing_originals_rechecked": 1,
+    "mislabelled_originals": 0
+  }
+}

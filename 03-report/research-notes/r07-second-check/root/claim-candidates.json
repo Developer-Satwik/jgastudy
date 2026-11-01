@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R7R-C01",
+      "canonical_source_ids": [
+        "SRC-0153"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "GovS002 portfolio guidance considers existing work, dependencies, capacity and periodic review; its resource guidance includes development, retention and reassignment as possible responses.",
+      "evidence_class": "government_normative_portfolio_context",
+      "locator": "3.3;5.3.3–5.3.7;7.4",
+      "limitations": "Government guidance, not observed payroll prioritisation, private-employer mandate or proof that later sequencing means lower importance or no funding.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific normative context or explicit analyst application; no original payroll respondents",
+      "time_period": "Inspected29October2026; no employer time series",
+      "review_mode": "Original relevant sections inspected; raw GovS005 retained and GovS002 live reader notes explicitly separated."
+    },
+    {
+      "candidate_id": "R7R-C02",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "R7R-S01"
+      ],
+      "claim_text": "GovS005 uses performance/user evidence and connected service responsibilities to guide ongoing improvement, with digital and non-digital parts considered together.",
+      "evidence_class": "government_normative_user_and_service_context",
+      "locator": "4.6.7–4.6.8;5.4–5.6;8.3;8.11",
+      "limitations": "A management standard does not establish actual user satisfaction, an employer priority, a compulsory method/review cadence for private payroll or a tested AI benefit.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific normative context or explicit analyst application; no original payroll respondents",
+      "time_period": "Inspected29October2026; no employer time series",
+      "review_mode": "Original relevant sections inspected; raw GovS005 retained and GovS002 live reader notes explicitly separated."
+    },
+    {
+      "candidate_id": "R7R-C03",
+      "canonical_source_ids": [
+        "SRC-0153"
+      ],
+      "source_candidate_ids": [
+        "R7R-S01"
+      ],
+      "claim_text": "Where relevant to the stated priority, R07 should retain its actual place beside ongoing work, dependencies and next review, rather than interpret a later start as rejection, absent resources or low importance.",
+      "evidence_class": "researcher_selective_prioritisation_condition",
+      "locator": "Explicit application of portfolio/workload principles to existingQ005/Q007–Q013",
+      "limitations": "No extra mandatory questions, forced full portfolio map, comparative rank or invented tradeoff. Actual reason, authority and resource evidence remain case-specific.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific normative context or explicit analyst application; no original payroll respondents",
+      "time_period": "Inspected29October2026; no employer time series",
+      "review_mode": "Original relevant sections inspected; raw GovS005 retained and GovS002 live reader notes explicitly separated."
+    },
+    {
+      "candidate_id": "R7R-C04",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "R7R-S01"
+      ],
+      "claim_text": "Where the described priority affects other users or service owners, distinguish the contributor’s stated value from evidence about the affected task/user and the condition those parties actually control.",
+      "evidence_class": "researcher_selective_affected_party_condition",
+      "locator": "Explicit application of user/service principles under existingQ002/Q003/Q005 and case probes",
+      "limitations": "No assumption of conflict, satisfaction or permission; no expanded employee interviews/cohort or compulsory stakeholder census. Contributor knowledge and confidentiality limits remain.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific normative context or explicit analyst application; no original payroll respondents",
+      "time_period": "Inspected29October2026; no employer time series",
+      "review_mode": "Original relevant sections inspected; raw GovS005 retained and GovS002 live reader notes explicitly separated."
+    }
+  ]
+}

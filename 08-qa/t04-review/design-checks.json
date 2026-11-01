@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-31",
+  "status": "design_semantics_review_passed_integration_pending",
+  "scope": "Independent schema and semantic checks, supported by human reading of inputs/routes/units/formulas; not spreadsheet execution or commercial validation.",
+  "checks": [
+    {
+      "id": "D01",
+      "passed": true,
+      "review_meaning": "Four cases preserve research-only/event alternatives for matched pilot and annual horizons, with proposedeventcounts distinctfrom actuals."
+    },
+    {
+      "id": "D02",
+      "passed": true,
+      "review_meaning": "No editioncadence or timing invented; matched actualhorizon remains explicit dependency."
+    },
+    {
+      "id": "D03",
+      "passed": true,
+      "review_meaning": "Comparison links are symmetric A/Bpairs, preventing pilot/annualmismatch."
+    },
+    {
+      "id": "D04",
+      "passed": true,
+      "review_meaning": "Four possiblebillableunits contain no inventedprices/customerquantities."
+    },
+    {
+      "id": "D05",
+      "passed": true,
+      "review_meaning": "Sevenworkcostobjects have no fabricated budgetvalues."
+    },
+    {
+      "id": "D06",
+      "passed": true,
+      "review_meaning": "No actualorders,events,receipts,rights or pricingrecommendations inferred."
+    },
+    {
+      "id": "D07",
+      "passed": true,
+      "review_meaning": "Ten requiredinputgroups have notbeen populatedas actualdata."
+    },
+    {
+      "id": "D08",
+      "passed": true,
+      "review_meaning": "Selectedunknowncriticalinputcannotbecomezero;irrelevantBinputdoesnotblockvalidA."
+    },
+    {
+      "id": "D09",
+      "passed": true,
+      "review_meaning": "Unitregister distinguishes fifteenunitsand twelvefuturecalculations, includingparticipant/event/seat/edition boundaries."
+    },
+    {
+      "id": "D10",
+      "passed": true,
+      "review_meaning": "Existingfee andsplit retained once; nofullpayment orrecurringunitcost inferred."
+    },
+    {
+      "id": "D11",
+      "passed": true,
+      "review_meaning": "Tenopenassumptions donotbecome validatedsalesor modelinputvalues."
+    },
+    {
+      "id": "D12",
+      "passed": true,
+      "review_meaning": "FM04 revisedoperatingmeasure isdistinguishedfrom bankcash FM08."
+    },
+    {
+      "id": "D13",
+      "passed": true,
+      "review_meaning": "FM07 revisedbranchfirstallowsalreadycoveredgap;positivegapwithnonpositivemarginhasnofinite breakeven."
+    },
+    {
+      "id": "D14",
+      "passed": true,
+      "review_meaning": "Noalgebraicspecification presentedas recalculatedworkbook/results."
+    },
+    {
+      "id": "D15",
+      "passed": true,
+      "review_meaning": "Sharedfinancialregister remainsunpopulated atthisreview."
+    }
+  ],
+  "reviewed_artifacts": [
+    {
+      "path": "04-table/T04-input-requirements.json",
+      "sha256": "e0935cb825431eb062822d799dfbfcb3b7e5364ed75f265d9533603f76522981"
+    },
+    {
+      "path": "04-table/T04-formula-design.json",
+      "sha256": "7a7f460ddec531faa31dca1a041cff9e50e2ad9b63889b64f0111e006d81ed5f"
+    },
+    {
+      "path": "04-table/T04-INPUT-AND-MODEL-RULES.md",
+      "sha256": "fc2bb875c941c96fb630cd7c85b35977829b241ddb94720c19f45bca5205c8a1"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/route-candidates.json",
+      "sha256": "2fc65dd09a6ddf38786a7bc9739ac73a0a9dba61519989fce7fd4b68ff46de67"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/model-unit-spec.json",
+      "sha256": "45823637c589cb597e4afd511fbe038001bdf0b6a6c9386d04c1e8bd7f1f9d7e"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/assumptions-and-validation.json",
+      "sha256": "959391afa879f12816d1b77a184f2c4d732fb6259e6ccf4d555aa64a1ed00d13"
+    }
+  ],
+  "material_corrections": [
+    "FM04 operatingmeasurelabel and bankcashdistinction corrected byroot.",
+    "FM07 alreadycoveredgap branch corrected byroot."
+  ],
+  "remaining_blockers_to_budget": [
+    "Actual inputs and datedcase definitions",
+    "Current date/party-specific supplier terms",
+    "Labour/cash/FX/taxscoping",
+    "Buyer/member evidence andselectedroute",
+    "T05workbookbuildandcalculation/edgechecks"
+  ],
+  "commercial_validation": false,
+  "actual_workbook_inspected": false,
+  "external_actions": [],
+  "structured_branch_recheck": "Root added explicit three-way decision branches after initial review; reread31October. Zeroalreadycoveredgap branch precedespositivegap/positivemargin andpositivegap/nonpositivemargin branches."
+}

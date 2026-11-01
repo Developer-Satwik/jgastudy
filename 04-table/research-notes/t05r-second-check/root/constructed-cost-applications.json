@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_constructed_readonly_cost_applications",
+  "evidence_status": "Constructed analyst arithmetic, not observed workload, supplier terms, price recommendation or workbook reforecast.",
+  "source_financial_inputs_sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509",
+  "source_workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "role_hours": {
+    "Research": 96.0,
+    "Writing": 36,
+    "Editing": 10,
+    "Design": 16,
+    "Coordination": 16.0
+  },
+  "role_hourly_reference": {
+    "Research": 49.6,
+    "Writing": 58.666666666666664,
+    "Editing": 37.11,
+    "Design": 46.4,
+    "Coordination": 46.19
+  },
+  "cases": [
+    {
+      "test_id": "SC01",
+      "lens": "Role/hour reference reconciliation",
+      "constructed_assumptions": {},
+      "result": {
+        "provider_hours": 174.0,
+        "provider_reference_value_GBP": 8726.14,
+        "JGA_hours": 23,
+        "combined_value": null
+      },
+      "meaning": "Rebuild from the33preservedinputs; no workbook mutation."
+    },
+    {
+      "test_id": "SC02",
+      "lens": "Day normalisation",
+      "constructed_assumptions": {
+        "hours_per_day": 7
+      },
+      "result": {
+        "provider_reference_value_GBP": 9270.14
+      },
+      "meaning": "Only day-denominated references change. This is not a supplier day-length observation."
+    },
+    {
+      "test_id": "SC03",
+      "lens": "Day normalisation",
+      "constructed_assumptions": {
+        "hours_per_day": 8
+      },
+      "result": {
+        "provider_reference_value_GBP": 8250.14
+      },
+      "meaning": "A lower normalised value does not reduce174workhours or prove purchasable delivery."
+    },
+    {
+      "test_id": "SC04",
+      "lens": "Booking granularity",
+      "constructed_assumptions": {
+        "day_denominated_roles_booked_in_whole_days": true,
+        "one_pool_per_role": true
+      },
+      "result": {
+        "illustrative_value_GBP": 9190.14,
+        "difference_from_hour_normalisation_GBP": 464.0
+      },
+      "meaning": "Whole-day booking by role is constructed. Actual supplier policy/rolepooling unknown. Do not round eachtask independently or add this result tobase."
+    },
+    {
+      "test_id": "SC05",
+      "lens": "Work beyond usable contributors",
+      "constructed_assumptions": {
+        "additional_unsuccessful_contact_events": 5,
+        "additional_coordination_hours_each": 0.5
+      },
+      "result": {
+        "extra_hours": 2.5,
+        "extra_reference_value_GBP": 115.475,
+        "illustrative_provider_total_GBP": 8841.615
+      },
+      "meaning": "Five is constructed work volume, not recruitment successrate or actual contacts. No person-count change or duplicate work alreadyincluded."
+    },
+    {
+      "test_id": "SC06",
+      "lens": "Reuse and receiving review",
+      "constructed_assumptions": {
+        "writing_hours_removed_after_verified_reuse": 4,
+        "additional_research_review_hours": 3
+      },
+      "result": {
+        "net_reference_value_change_GBP": -85.86666666666665,
+        "illustrative_provider_total_GBP": 8640.273333333333
+      },
+      "meaning": "Constructed exchange only. No adopted reuse credit until exactasset/currentness/rights/handoffwork isverified."
+    },
+    {
+      "test_id": "SC07",
+      "lens": "Internal or hybrid delivery",
+      "constructed_assumptions": {
+        "existing_salary_staff_assigned": false,
+        "JGA_hourly_rates_available": false
+      },
+      "result": {
+        "JGA_hours": 23,
+        "JGA_value": null,
+        "combined_value": null
+      },
+      "meaning": "Employee salary is not freelancerrate. No extra cash doesnotmeanzeroresourcecost; unknownratespreserved."
+    },
+    {
+      "test_id": "SC08",
+      "lens": "New geography",
+      "constructed_assumptions": {
+        "worldwide_USD_marketplace_band_seen": true,
+        "Indian_supplier_quote_received": false,
+        "dated_FX_rate_available": false
+      },
+      "result": {
+        "adopted_Indian_hourly_rate": null,
+        "GBP_replacement_cost": null
+      },
+      "meaning": "No conversion or India cost inference from global marketplace range. Required rate/skills/scope/terms unconfirmed."
+    },
+    {
+      "test_id": "SC09",
+      "lens": "Assisted research",
+      "constructed_assumptions": {
+        "external_project_plans_AI_assistance": true,
+        "JGA_measured_task_savings_available": false
+      },
+      "result": {
+        "adopted_automation_saving_percent": null,
+        "hours_removed": 0
+      },
+      "meaning": "Zero means no unverified saving applied, not that assistance neverhelps. Existingpermissions/toolarrangements unchanged; humanreview retained."
+    },
+    {
+      "test_id": "SC10",
+      "lens": "Current fixed fee boundary",
+      "constructed_assumptions": {
+        "current_report_fee_USD": 1000,
+        "future_provider_reference_GBP": 8726.14
+      },
+      "result": {
+        "converted_fee_GBP": null,
+        "added_to_future_labour_value": false
+      },
+      "meaning": "Differentcurrency/decisionboundary. No implicit exchange or additionalchargeforordinarycurrentwork."
+    }
+  ],
+  "actual_workbook_edits": 0,
+  "new_financial_inputs": 0,
+  "actual_quote_or_hire": 0
+}

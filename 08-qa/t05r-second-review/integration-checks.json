@@ -1,0 +1,401 @@
+{
+  "date": "2026-11-01",
+  "source_collection_date": "2026-10-31",
+  "status": "passed_for_internal_T05R_second_challenge",
+  "review_scope": "Independent review of the frozen second desktop challenge to the first T05 research/staffing component. Not completion of T05 or actual supplier, workload, participant, customer or market validation.",
+  "checks": [
+    {
+      "check_id": "IR01",
+      "name": "Protected first-component artifacts",
+      "passed": true,
+      "detail": "All 265 protected artifact hashes match the pre-second-check baseline, including the original workbook and its supporting files."
+    },
+    {
+      "check_id": "IR02",
+      "name": "Pre-change snapshots",
+      "passed": true,
+      "detail": "All thirteen retained pre-change snapshots match their original manifest hashes. Mutable live controls are not final-hash dependencies."
+    },
+    {
+      "check_id": "IR03",
+      "name": "Canonical evidence lineage",
+      "passed": true,
+      "detail": "The 235 prior source bases and 466 prior claims are preserved. Reused-route context was appended separately; totals are 242 sources and 484 claims."
+    },
+    {
+      "check_id": "IR04",
+      "name": "Seven routes and eighteen bounded records",
+      "passed": true,
+      "detail": "The candidate-to-canonical map reconciles exactly. All eighteen claim texts and interpretation limits match the inspected candidate records; they are not eighteen new empirical datasets."
+    },
+    {
+      "check_id": "IR05",
+      "name": "Financial inputs and findings",
+      "passed": true,
+      "detail": "All 33 first-component financial inputs and all 81 findings are unchanged. No new price, workload input or saving was adopted."
+    },
+    {
+      "check_id": "IR06",
+      "name": "Capture integrity and access classifications",
+      "passed": true,
+      "detail": "All 22 indexed hashes match. Four new-route originals, three fresh originals on reused routes and three new browser reader extracts remain distinct. Failed HTTP bodies are not originals. Hays is expressly prior context for this review."
+    },
+    {
+      "check_id": "IR07",
+      "name": "Historical source interpretation",
+      "passed": true,
+      "detail": "Independently reread the retained CIEP archive rows, ProCopywriters retrospective extract and YunoJuno release sections. The readout preserves minimum/mean/median and role/discipline distinctions; it infers neither a like-for-like decline nor automatic 2027 inflation."
+    },
+    {
+      "check_id": "IR08",
+      "name": "Other-market and fee interpretation",
+      "passed": true,
+      "detail": "Independently reread the two retained Upwork extracts. The worldwide USD range is not an Indian quote or GBP budget. Conditional client fees are not adopted as universal charges or actual account terms."
+    },
+    {
+      "check_id": "IR09",
+      "name": "Method and assisted-process interpretation",
+      "passed": true,
+      "detail": "Independently reread the retained Camden and QUADRA-AI primary sections. Public-health planning is a scoped analogy; the planned July 2026 to March 2027 project is not measured JGA productivity, available tooling or a permitted data-processing instruction."
+    },
+    {
+      "check_id": "IR10",
+      "name": "Role totals and day normalisation",
+      "passed": true,
+      "detail": "Independent reconstruction from the preserved inputs gives 174 provider hours, 23 JGA hours and GBP 8,726.14. Seven- and eight-hour day normalisations give GBP 9,270.14 and GBP 8,250.14; they change valuation, not required work or observed supplier terms."
+    },
+    {
+      "check_id": "IR11",
+      "name": "Whole-role booking illustration",
+      "passed": true,
+      "detail": "The role-pooled whole-day illustration correctly gives GBP 9,190.14, GBP 464 above the normalised reference. It is explicitly hypothetical, is not task-by-task rounding, and is not an adopted supplier policy."
+    },
+    {
+      "check_id": "IR12",
+      "name": "Additional-work and reuse illustrations",
+      "passed": true,
+      "detail": "The two constructed incremental examples recalculate correctly. Extra unsuccessful contacts are work events, not a conversion rate. Reuse exchanges writing for receiving review; no verified saving or contributor-count change is claimed."
+    },
+    {
+      "check_id": "IR13",
+      "name": "Remaining constructed-case boundaries",
+      "passed": true,
+      "detail": "Cases SC07 to SC10 preserve unknown JGA resource costs, no geographic price substitution, no unverified AI saving and no implicit conversion or addition of the current report fee to future labour. All ten cases remain read-only analyst applications."
+    },
+    {
+      "check_id": "IR14",
+      "name": "Recruiter and JGA comparisons",
+      "passed": true,
+      "detail": "All six specified recruiters and JGA have source-specific formats and access boundaries. Their public assets do not establish equivalent study costs, capacity, permissioned new contributions or automatic production savings."
+    },
+    {
+      "check_id": "IR15",
+      "name": "Earlier-study exact lineage",
+      "passed": true,
+      "detail": "The two original provenance hashes and all 24 linked prompt/full-answer texts reconcile for the three authored questions. These are saved model answers, with no rerun or transfer of recommendation counts into demand evidence."
+    },
+    {
+      "check_id": "IR16",
+      "name": "Selected semantic rereads",
+      "passed": true,
+      "detail": "The three ChatGPT first-run texts were independently reread during this review sequence. S04 generated scorecard weights are not observed buyer criteria; S07 public specialism is not delivery proof; S11 London was added by the answer rather than the prompt. The integrated readout preserves these distinctions."
+    },
+    {
+      "check_id": "IR17",
+      "name": "Five conditions and canonical task map",
+      "passed": true,
+      "detail": "The final map has valid canonical source, claim and preserved task references. Its five conditions are selective costing refinements, not new mandatory participant questions, case/geography quotas, contract terms or a completed programme budget."
+    },
+    {
+      "check_id": "IR18",
+      "name": "Integrated readout and implementation note",
+      "passed": true,
+      "detail": "Both final texts were read in full and their local links resolve. They lead with useful findings, distinguish source facts from applications and constructed arithmetic, preserve the first component, and identify the next incomplete cost work without claiming field validation."
+    },
+    {
+      "check_id": "IR19",
+      "name": "Contract and collection boundaries",
+      "passed": true,
+      "detail": "The integrated materials preserve the 14-question guide, six-to-ten usable practitioner target, distinct-person versus up-to-four Table contribution-event counting, free practitioner full research and existing ordinary delivery/correction duties. No external message, quote, hire, booking, participant data processing or client-file change is reported or performed by this review."
+    }
+  ],
+  "reviewed_artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+      "sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/all-answers.json",
+      "sha256": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/sites/jgafinalcode/dist/data/answer-index.json",
+      "sha256": "940541ab4520d6a00cfae7d038491dcbc72516d999325aada8276027c54c7da2"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+      "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+      "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a"
+    },
+    {
+      "path": "04-table/T05-research-cost-map.json",
+      "sha256": "3e5eedcc809be33ecd5647a972e862b2035d5236de5740a21451adfd75627d02"
+    },
+    {
+      "path": "04-table/T05R-COST-AND-DELIVERY-REFINEMENTS.md",
+      "sha256": "c4667da1de7c7689cb90ea64fd9334682c02977dc641d4d94766d1840005cb95"
+    },
+    {
+      "path": "04-table/T05R-SECOND-CHECK-READOUT.md",
+      "sha256": "b18d29d1709b405dde3ac4b2646c48480f4bb10d131858b709d8b2aad48b308c"
+    },
+    {
+      "path": "04-table/T05R-second-challenge-map.json",
+      "sha256": "59c3ac0408151ae4990c312edbc9a5535667933bf4fd5d48244e9ee23c58cbf7"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509"
+    },
+    {
+      "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt",
+      "sha256": "68703795ba527d4bf660b40d6d2c49a141fe52b2da29c826b032219b80dda46e"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+      "sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/manifest.json",
+      "sha256": "ef3069afe7e39bf3e3f5dcb1326f836e478c8d31a7858987fa2a7915e16c25b9"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/COMPETITOR-AND-TASK-CHECK.md",
+      "sha256": "099d79791c1a08836ff0ae93a024e449116362d89d2746bb88582d67169191a7"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/capture-manifest.json",
+      "sha256": "6572d2326d6c4acb7f2464124a8ae60d9510e9da48ab5e43341dc16cb18d16c0"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/S04-C-chatgpt-r1-reader-note.txt",
+      "sha256": "b07fca9f2510f618588e3fc6f8df458b6d88d2a419e9d68e7574d4d099117e32"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/S07-C-chatgpt-r1-reader-note.txt",
+      "sha256": "09c4644a161fae7c5d2fc2e2a28217e9947864ba923a2faf3fe1c3be0c281b92"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/S11-C-chatgpt-r1-reader-note.txt",
+      "sha256": "b679b2d51ed044b44d6cc23605cb0a848c96d22e64dbcc8f62739a52638af65f"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+      "sha256": "5fedfb3f3c07b14e4cd811f22c8c301f6b3a445fc8807c2c2342dceab675d205"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.html",
+      "sha256": "fb9939def6a4c8dd281cfa82f77402febb4df4471089585fd1262719e3c9cfe9"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.txt",
+      "sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.html",
+      "sha256": "4bb3304e2054981e280934ef5b4238ffa8671f112f786dfc45c8d12ed5e5c2ed"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.txt",
+      "sha256": "63823e74e04a6daaadefda53fb3368219b7be61362ac58e277a67cbfff70d538"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.html",
+      "sha256": "09fe3f9ea5fcad516d691be5182f7cdae525c4faad7035523243643c61d02da5"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.txt",
+      "sha256": "1271453ecdacc3c512185d17182e67538517aba44344a9a8a185473c523fd270"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/claim-candidates.json",
+      "sha256": "5f30744f31fd9ec082c39e31718bac1fcded02ff95c0be8b36ebd83affc6db9b"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/comparator-map.json",
+      "sha256": "1d2af45135d154b2704df95d5a9de32c77238da42c8d02d712e126fa122ea6d7"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/prior-study-bridge-check.json",
+      "sha256": "c05d78de2b79fbe515458011857954cf46224a8d3dcdb88a57cf5c3b3eecb04d"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/prior-study-bridge.json",
+      "sha256": "537fb6a5e06cc0a3bfc9bf117b7451a79aca9da7011f2638ec870701d8f45eca"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/source-candidates.json",
+      "sha256": "4ac950aa76c868f878ae4bbccb80579dd53c98b48b0ab2fd4421e8064ce38f94"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/verification.json",
+      "sha256": "ab2c952608fa0fa996718c5b8ddf660d79b9f2a131655572e5731f5f1e573f30"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/HISTORY-AND-SOURCING-CHECK.md",
+      "sha256": "c7d1f6c312dcc7211c3fc1fc8f9eaaa4ecd730c2ee3c666e1a23604fc0b6f163"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/application-conditions.json",
+      "sha256": "55c8afc8e5db8497b7f19fd8016ff0d2b7dda5a3101abd590ea866631489f473"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/capture-manifest.json",
+      "sha256": "1e0f0a06f3793db34d962df7cde403ec9edd099b341fcbf7e1be515e3363839d"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S01.html",
+      "sha256": "a780a6132116a12082d8df31dadd2731289bca668bf64b0cd769da74d670993e"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S02-reader.txt",
+      "sha256": "5ea27ffa312c1dc55d038a41fa155d172e19b45aaaf3b8d495056f28908560cc"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S03.html",
+      "sha256": "ac0a5180fff83c8afd28d3c100f4e730037019c140df8617cff8fd6781257d17"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S04-reader.txt",
+      "sha256": "50e113e21ee042f7700bdeb58feeeb1bc3d7807ce0c27952e616125567484e39"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S05-reader.txt",
+      "sha256": "aaf1832160ce44c0557bc35324caa64a9c5efb9646a319b44f3fa9207343d8ad"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/claim-candidates.json",
+      "sha256": "5a28ebc500d5266bf31e9109c91705cdbd41167364d979037651b56284cdb91e"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S01.txt",
+      "sha256": "8a1ac9be7d416124c14d722271af049d09faaa9bbce5ed3970de2ebaf4d0c12f"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S03.txt",
+      "sha256": "9a2179c36a5ddd9e41a011ceff36f15b534c5c7e4ecaec8cd678cf12928c3082"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/source-candidates.json",
+      "sha256": "db09d5bfdd7ae4c198e4e69f8e8e1dce47dbb4c8e107a045ffa54861cb579a55"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/verification.json",
+      "sha256": "1c07d4113ac8d399d4e0dc8b2c27375bf097b34dd6701bd27b3e942c03e64d18"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/METHOD-AND-DELIVERY-CHECK.md",
+      "sha256": "2a56ae1ac9bc097da13646236b74ba448df49eabf66ac5bf734453180696c5a7"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S01.html",
+      "sha256": "38ca45ab2a0da84059391670cf94ce9940f071f1425f7031513497f92cbbc474"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S02.html",
+      "sha256": "6f42c9b7815a8284c099b07861e50c9c4fc372528bc84c386bdbb809c364bc58"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/claim-candidates.json",
+      "sha256": "73a05ae6f17dcc0fac51961ad1f16c326074910abf5f68d8244614628212d558"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/constructed-cost-applications.json",
+      "sha256": "8d25790e6079e4bda4eea69bebd3282213ad796ce22803501275bf18e529a012"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/live-recheck-note.json",
+      "sha256": "ab09a04cc1c8264546a9f43e1694a38a45130c5d5b8864a723c8f5516861d357"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S01.txt",
+      "sha256": "13180dbfebbfcc26dc613a352bcd03c1a6b5fb71d85a69df8705595c0355a240"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S02.txt",
+      "sha256": "c301bc1004c964dfc25e8d17d19e5449a60d1f8aa6fea94ea056913c048e8fa9"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/source-candidates.json",
+      "sha256": "3a0ae9b15c0216648b5fe526c45064de4186b8dd0dce446655703d061f461839"
+    },
+    {
+      "path": "05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "08-qa/T05R-second-check-baseline.json",
+      "sha256": "970500f0ad6b75bc7e64ec33a52e375166ad2692d23470fe8e6a9a576c81ea91"
+    },
+    {
+      "path": "08-qa/T05R-second-check-captures.json",
+      "sha256": "e9f3bc22b3578902304449e1d91bb74100e9064249fc02d730004147f41610fb"
+    },
+    {
+      "path": "08-qa/T05R-second-check-record-map.json",
+      "sha256": "fa3934b4972d8ba13b50c32cadbed43972828fe976184208e243ca2b18d0b40e"
+    },
+    {
+      "path": "08-qa/t05r-second-review/INTEGRATED-REVIEW.md",
+      "sha256": "f254e925ef81e649f1cb56ecf621e991bdd425316763db04532b7cccb6052508"
+    },
+    {
+      "path": "08-qa/t05r-second-review/final_integration_audit.py",
+      "sha256": "9f0eb881fcb35a2a45b5535cba3909a90b4a43af5440d292bd36950a1d8f95d7"
+    },
+    {
+      "path": "08-qa/t05r-second-review/nov01-independent-checks.json",
+      "sha256": "4d34cc4d9d8aaddbafe1ee6cc804e25019b03b3ca54a8e8c7ef730b8403667a5"
+    },
+    {
+      "path": "08-qa/t05r-second-review/preliminary-source-and-model-review.json",
+      "sha256": "1d6d0f6a9fed3d5bd8db5dc18c1c872d29a4e93764f9591790cda042d5290cb3"
+    },
+    {
+      "path": "08-qa/t05r-second-review/prior-bridge-lineage-checks.json",
+      "sha256": "436a5f6d2cb83ca56b02fda029152c02e4c887b2a8bb2df055d848c5719697b4"
+    }
+  ],
+  "open_substantive_issues": [],
+  "original_workbook_edit_needed": false,
+  "original_workbook_preserved": true,
+  "financial_inputs_unchanged": true,
+  "findings_preserved": true,
+  "canonical_source_records": 242,
+  "canonical_claim_records": 484,
+  "new_source_routes": 7,
+  "new_bounded_claim_records": 18,
+  "findings": 81,
+  "financial_inputs": 33,
+  "protected_files_checked": 265,
+  "pre_change_snapshots_checked": 13,
+  "constructed_cases_checked": 10,
+  "saved_answer_lineage_checked": 24,
+  "selected_semantic_rereads": [
+    "S04-C-chatgpt-r1",
+    "S07-C-chatgpt-r1",
+    "S11-C-chatgpt-r1"
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "current_contract_fee_changed": false,
+  "practitioner_free_full_research_preserved": true,
+  "actual_validation": false,
+  "actual_fieldwork": false,
+  "full_financial_model_complete": false,
+  "external_actions": [],
+  "mutable_live_controls_and_validator_excluded_from_hashes": true,
+  "conclusion": "The original named UK-contractor reference remains intact. Five bounded refinements improve the next cost step. No new rate, cost input, geographic discount, automation saving or procurement decision is adopted."
+}

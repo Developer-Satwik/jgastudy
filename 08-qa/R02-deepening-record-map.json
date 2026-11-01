@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-28",
+  "source_map": {
+    "SB-S01": "SRC-0094",
+    "SB-S02": "SRC-0095",
+    "SB-S03": "SRC-0096",
+    "SB-S04": "SRC-0097",
+    "CON-S01": "SRC-0098",
+    "CON-S02": "SRC-0099",
+    "CON-S03": "SRC-0100",
+    "R02-ROOT-01": "SRC-0101",
+    "R02-ROOT-02": "SRC-0102",
+    "R02-ROOT-03": "SRC-0103",
+    "R02-ROOT-04": "SRC-0083"
+  },
+  "claim_map": {
+    "CAP-C01": "CLM-0160",
+    "CAP-C02": "CLM-0161",
+    "CAP-C03": "CLM-0162",
+    "CAP-C04": "CLM-0163",
+    "CAP-C05": "CLM-0164",
+    "CAP-C06": "CLM-0165",
+    "CAP-C07": "CLM-0166",
+    "CAP-H01": "CLM-0167",
+    "CAP-H02": "CLM-0168",
+    "SB-C01": "CLM-0169",
+    "SB-C02": "CLM-0170",
+    "SB-C03": "CLM-0171",
+    "SB-C04": "CLM-0172",
+    "SB-C05": "CLM-0173",
+    "CON-C01": "CLM-0174",
+    "CON-C02": "CLM-0175",
+    "CON-C03": "CLM-0176",
+    "CON-C04": "CLM-0177",
+    "CON-C05": "CLM-0178",
+    "CON-C06": "CLM-0179",
+    "R02-ROOT-01": "CLM-0180",
+    "R02-ROOT-02": "CLM-0181",
+    "R02-ROOT-03": "CLM-0182",
+    "R02-ROOT-04": "CLM-0183"
+  }
+}

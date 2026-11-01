@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "M6S-C01",
+      "source_ids": [
+        "M6S-S01"
+      ],
+      "claim_text": "BrightPay’s current UK migration page declares Desktop retirement for 2026/27 and offers separate in-house and bureau Cloud routes. Retaining the supplier can still involve a new product, subscription and migration.",
+      "evidence_class": "supplier_lifecycle_declaration",
+      "locator": "Main 2026/27 statement; migration paths and end-of-life FAQ",
+      "limitations": "A supplier offer does not select the best alternative, prove legal necessity to buy its Cloud product, complete feature parity or actual employer migration.",
+      "review_mode": "Relevant current BrightPay migration hub original HTML inspected and retained. No product trial, actual customer migration or customer contract inspection.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    },
+    {
+      "candidate_id": "M6S-C02",
+      "source_ids": [
+        "M6S-S01"
+      ],
+      "claim_text": "The same migration page distinguishes own-employer payroll from a bureau’s multiple client payrolls and says migration assistance presupposes an organisation already set up in Cloud. The work boundary can differ by operating context.",
+      "evidence_class": "supplier_scope_and_precondition",
+      "locator": "In-house/bureau path descriptions; migration-slot FAQ",
+      "limitations": "Public segmentation is not an empirical employer-size rule, proof of staffing/workload or actual availability or success of support. No consultation booked or account created.",
+      "review_mode": "Relevant current BrightPay migration-path and assistance-precondition original HTML inspected and retained. No support appointment, account setup or staffing test.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    },
+    {
+      "candidate_id": "M6S-C03",
+      "source_ids": [
+        "M6S-S02"
+      ],
+      "claim_text": "IRIS’s January 2026 guide distinguishes the end of supported payroll processing from declared read-only and report-export access. It also warns that security monitoring will cease and recommends secure external preservation of required information.",
+      "evidence_class": "supplier_lifecycle_and_preservation_declaration",
+      "locator": "PDF 1 cover; PDF 3 processing/read-only; PDF 4 risk disclaimer and export recommendations",
+      "limitations": "Specific product/version declaration, not tested behaviour, a guarantee of permanent secure archives, actual security failure or full receiving-system compatibility. Legal disclaimer not independently interpreted.",
+      "review_mode": "IRIS original PDF cover and pages 3–4 rendered and visually checked; original PDF retained. No software execution, security test or customer-specific applicability verified.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    },
+    {
+      "candidate_id": "M6S-C04",
+      "source_ids": [
+        "M6S-S03"
+      ],
+      "claim_text": "Sage’s UK cancellation page distinguishes the applicable subscription’s remaining active period and loss of data access through the solution on expiry, with different support routes for other products.",
+      "evidence_class": "supplier_cancellation_access_boundary",
+      "locator": "Cancellation FAQ, especially what happens after cancel and different-product route",
+      "limitations": "Named public context, not all Sage products, regions or contracts, tested UI, actual customer expiry or completed export/handback. No numerical notice period adopted.",
+      "review_mode": "Relevant original Sage UK page inspected through the web reader; selected paraphrased notes retained. Raw request returned HTTP 403, so no original HTML capture or executed UI is claimed.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    },
+    {
+      "candidate_id": "M6S-C05",
+      "source_ids": [
+        "SRC-0187"
+      ],
+      "claim_text": "The retained Payfit terms separately describe service and access cessation, retrieval conditions and client retention with no archiving service. Filing-agent access revocation is also a retained termination task.",
+      "evidence_class": "supplier_existing_terms_reinspection",
+      "locator": "Clauses 4.2 and 5.4",
+      "limitations": "Earlier retained 27 October 2026 version and reader-label discrepancy preserved. Actual executed terms and contract scope unknown; no legal opinion, automatic data return, retrieval period or successful handover inferred.",
+      "review_mode": "Relevant clauses of the previously retained Payfit original HTML re-inspected, with retained version/reader discrepancy. No new raw retrieval, actual executed contract or legal assurance.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    },
+    {
+      "candidate_id": "M6S-C06",
+      "source_ids": [
+        "M6S-S01",
+        "M6S-S02",
+        "M6S-S03",
+        "SRC-0187"
+      ],
+      "claim_text": "R06 should distinguish continuing live payroll operation, maintaining historical evidence access, and a receiving arrangement’s usable setup or handback. A declared export or continuing supplier relationship does not establish all three.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-source comparison of explicit lifecycle/access/migration boundaries in C01–C05",
+      "limitations": "An optional investigation condition, not a validated portability test, mandatory full archive ingestion, supplier ranking or evidence that any employer is locked in. Actual rights, requirements, accessible format and permissions need case evidence.",
+      "review_mode": "Explicit cross-source analytical application of relevant BrightPay HTML, IRIS PDF pages 3–4 visually checked, Sage selected reader notes and retained Payfit terms. No actual handback or portability test.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    },
+    {
+      "candidate_id": "M6S-C07",
+      "source_ids": [
+        "M6S-S01",
+        "M6S-S02",
+        "M6S-S03",
+        "SRC-0187"
+      ],
+      "claim_text": "Where material, record the separate dates and owners for processing or support eligibility, notice and commitment, access or export, receiving-service readiness and first live run. A supplier lifecycle constraint can change the feasible option set without establishing the employer’s actual reason or a preferred replacement.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-source application of product retirement, access and contractual states",
+      "limitations": "No universal deadline, tax-year migration rule, forced supplier choice, actual buyer reason, causal remedy or new compulsory question. Do not infer that delay removes ongoing obligations or that deadlines must all coincide.",
+      "review_mode": "Explicit cross-source analytical application of relevant BrightPay HTML, IRIS PDF pages 3–4 visually checked, Sage selected reader notes and retained Payfit terms. No actual buyer decision or successful remedy established.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific supplier declaration or explicit analyst application, not observed employer behaviour",
+      "time_period": "Source-specific lifecycle or retained version; accessed 29 October 2026, no trend series"
+    }
+  ]
+}

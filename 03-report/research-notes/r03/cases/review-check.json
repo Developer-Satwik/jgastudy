@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_parent_candidate_review",
+  "employer_cases": 2,
+  "source_candidates": 3,
+  "claim_candidates": 6,
+  "retained_original_files": 5,
+  "source_renders_visually_inspected": [
+    {
+      "path": "03-report/research-notes/r03/cases/qa/parliament-page38.png",
+      "sha256": "659ad1cbd2d11d49cd912d535e1255b8074af848dc751417be77acb8edbfc8b5",
+      "visually_inspected_by": "r03_implementation_cases",
+      "result": "Legible relevant page, heading, scope and wording checked."
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/qa/sg-audit-page47.png",
+      "sha256": "cf5a706d40beae14e636e2cb1009f676b0d5590c483123a3d5879e363e405f90",
+      "visually_inspected_by": "r03_implementation_cases",
+      "result": "Legible relevant page, heading, scope and wording checked."
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/qa/sg-audit-page50.png",
+      "sha256": "ceb6c9e4be05d174e8e9f3094c021dcdb9d0f3f82b398ddbc8c69299a7578555",
+      "visually_inspected_by": "r03_implementation_cases",
+      "result": "Legible relevant page, heading, scope and wording checked."
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/qa/sg-audit-page55.png",
+      "sha256": "ad10e088bb21837d73275d7a09dadb3acbfe12fdb88cdd76a95fd01fcc4b4847",
+      "visually_inspected_by": "r03_implementation_cases",
+      "result": "Legible relevant page, heading, scope and wording checked."
+    }
+  ],
+  "canonical_files_changed": false,
+  "client_files_changed": false,
+  "external_actions": [],
+  "temporal_refinement": {
+    "date": "2026-10-29",
+    "trigger": "Root independent reading of complete closure section4 and8",
+    "result": "Distinguishes retrospective initial events, management assessments/progress by March2026 publication and future plans; no independent October2026-status or quantified-performance claim added.",
+    "changed_files": [
+      "CASE-EVIDENCE.md",
+      "source-candidates.json",
+      "claim-candidates.json"
+    ],
+    "source_capture_bytes_changed": false
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-31",
+  "status": "reviewed_research_staffing_component_full_model_pending",
+  "component_id": "T05R-research-staffing",
+  "financial_input_ids": [
+    "FI-R01",
+    "FI-R02",
+    "FI-R03",
+    "FI-R04",
+    "FI-R05",
+    "FI-R06",
+    "FI-R07",
+    "FI-R08",
+    "FI-R09",
+    "FI-R10",
+    "FI-R11",
+    "FI-R12",
+    "FI-R13",
+    "FI-R14",
+    "FI-R15",
+    "FI-R16",
+    "FI-R17",
+    "FI-R18",
+    "FI-R19",
+    "FI-R20",
+    "FI-R21",
+    "FI-R22",
+    "FI-R23",
+    "FI-R24",
+    "FI-R25",
+    "FI-R26",
+    "FI-R27",
+    "FI-R28",
+    "FI-R29",
+    "FI-R30",
+    "FI-R31",
+    "FI-R32",
+    "FI-R33"
+  ],
+  "tasks": [
+    {
+      "workload_id": "WR01",
+      "hours_input_id": "FI-R08",
+      "task": "Scope, reader and method update",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01"
+      ]
+    },
+    {
+      "workload_id": "WR02",
+      "hours_input_id": "FI-R09",
+      "task": "Desktop evidence collection and screening",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01"
+      ]
+    },
+    {
+      "workload_id": "WR03",
+      "hours_input_id": "FI-R10",
+      "task": "Guide and record preparation",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ]
+    },
+    {
+      "workload_id": "WR04",
+      "hours_input_id": "FI-R11",
+      "task": "Research recruitment setup and coordination",
+      "unit_basis": "per_edition",
+      "role_group": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW05"
+      ]
+    },
+    {
+      "workload_id": "WR05",
+      "hours_input_id": "FI-R12",
+      "task": "Individual scheduling, permission administration and clearance routing",
+      "unit_basis": "per_usable_contributor",
+      "role_group": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW05"
+      ]
+    },
+    {
+      "workload_id": "WR06",
+      "hours_input_id": "FI-R13",
+      "task": "Contribution collection and structured note",
+      "unit_basis": "per_usable_contributor",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ]
+    },
+    {
+      "workload_id": "WR07",
+      "hours_input_id": "FI-R14",
+      "task": "Contribution coding and comparison preparation",
+      "unit_basis": "per_usable_contributor",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ]
+    },
+    {
+      "workload_id": "WR08",
+      "hours_input_id": "FI-R15",
+      "task": "Cross-case synthesis and Decision Framework",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01"
+      ]
+    },
+    {
+      "workload_id": "WR09",
+      "hours_input_id": "FI-R16",
+      "task": "Full narrative, executive summary and commercial preview",
+      "unit_basis": "per_edition",
+      "role_group": "Writing",
+      "rate_input_id": "FI-R02",
+      "T02_work_ids": [
+        "DW01",
+        "DW02"
+      ]
+    },
+    {
+      "workload_id": "WR10",
+      "hours_input_id": "FI-R17",
+      "task": "Substantive fact, source, quotation and rights check",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01",
+        "DW04"
+      ]
+    },
+    {
+      "workload_id": "WR11",
+      "hours_input_id": "FI-R18",
+      "task": "Copyediting and proofreading",
+      "unit_basis": "per_edition",
+      "role_group": "Editing",
+      "rate_input_id": "FI-R03",
+      "T02_work_ids": [
+        "DW01"
+      ]
+    },
+    {
+      "workload_id": "WR12",
+      "hours_input_id": "FI-R19",
+      "task": "JGA design and editable report assets",
+      "unit_basis": "per_edition",
+      "role_group": "Design",
+      "rate_input_id": "FI-R04",
+      "T02_work_ids": [
+        "DW01",
+        "DW04"
+      ]
+    },
+    {
+      "workload_id": "WR13",
+      "hours_input_id": "FI-R20",
+      "task": "One consolidated editorial revision allowance",
+      "unit_basis": "per_edition",
+      "role_group": "Writing",
+      "rate_input_id": "FI-R02",
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ]
+    },
+    {
+      "workload_id": "WR14",
+      "hours_input_id": "FI-R21",
+      "task": "Final format/data QA and portable handover",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ]
+    },
+    {
+      "workload_id": "WR15",
+      "hours_input_id": "FI-R22",
+      "task": "Provider project coordination",
+      "unit_basis": "per_edition",
+      "role_group": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ]
+    },
+    {
+      "workload_id": "WR16",
+      "hours_input_id": "FI-R23",
+      "task": "First-edition research pricing and use-option preparation",
+      "unit_basis": "per_edition",
+      "role_group": "Research",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW01",
+        "DW04",
+        "DW08"
+      ]
+    },
+    {
+      "workload_id": "JG01",
+      "hours_input_id": "FI-R24",
+      "task": "Reader scope, context and priorities",
+      "unit_basis": "per_edition",
+      "role_group": "JGA",
+      "rate_input_id": "FI-R29",
+      "T02_work_ids": [
+        "DW01"
+      ]
+    },
+    {
+      "workload_id": "JG02",
+      "hours_input_id": "FI-R25",
+      "task": "Introductions, eligibility context and follow-through",
+      "unit_basis": "per_edition",
+      "role_group": "JGA",
+      "rate_input_id": "FI-R30",
+      "T02_work_ids": [
+        "DW05"
+      ]
+    },
+    {
+      "workload_id": "JG03",
+      "hours_input_id": "FI-R26",
+      "task": "Subject-matter and factual review",
+      "unit_basis": "per_edition",
+      "role_group": "JGA",
+      "rate_input_id": "FI-R31",
+      "T02_work_ids": [
+        "DW01",
+        "DW04"
+      ]
+    },
+    {
+      "workload_id": "JG04",
+      "hours_input_id": "FI-R27",
+      "task": "Consolidated feedback and decisions",
+      "unit_basis": "per_edition",
+      "role_group": "JGA",
+      "rate_input_id": "FI-R32",
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ]
+    },
+    {
+      "workload_id": "JG05",
+      "hours_input_id": "FI-R28",
+      "task": "Publication approval and handover decisions",
+      "unit_basis": "per_edition",
+      "role_group": "JGA",
+      "rate_input_id": "FI-R33",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ]
+    }
+  ],
+  "role_rate_input_ids": {
+    "Research": "FI-R01",
+    "Writing": "FI-R02",
+    "Editing": "FI-R03",
+    "Design": "FI-R04",
+    "Coordination": "FI-R05"
+  },
+  "day_normalisation_input_id": "FI-R06",
+  "contributor_scenarios_input_id": "FI-R07",
+  "source_ids": [
+    "SRC-0263",
+    "SRC-0264",
+    "SRC-0265",
+    "SRC-0266",
+    "SRC-0267"
+  ],
+  "claim_ids": [
+    "CLM-0550",
+    "CLM-0551",
+    "CLM-0552",
+    "CLM-0553",
+    "CLM-0554",
+    "CLM-0555",
+    "CLM-0556"
+  ],
+  "workload_source_path": "04-table/research-notes/t05-research-costs/workload/workload-candidates.json",
+  "workbook_absolute_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+  "workbook_qa_path": "08-qa/t05r-workbook/verification.json",
+  "workbook_created": true,
+  "component_review_complete": true,
+  "full_financial_model_complete": false,
+  "actual_supplier_quotes": [],
+  "actual_staffing": [],
+  "actual_timesheets": [],
+  "actual_practitioner_contributions": [],
+  "external_actions": [],
+  "current_commission_added_to_future_task_valuation": false,
+  "current_contract_fee_changed": false,
+  "practitioner_free_full_research_preserved": true,
+  "unpriced_JGA_rates_must_keep_combined_labour_value_unavailable": true,
+  "additional_unpriced_costs": [
+    "Supplier minimum bookings and scope-specific rates",
+    "Applicable tax, platform fees and expenses",
+    "Any chosen paid data, tools, incentives, translation or specialist review",
+    "Sales, customer servicing and partner fulfilment",
+    "Table feasibility/validation and event operations",
+    "Venue, travel and cash/funding schedule"
+  ],
+  "note": "Published references are preserved. Chosen mapping and 7.5-hour normalisation are analyst assumptions; no automatic annual cadence or currency conversion.",
+  "workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "workbook_cell_map_path": "08-qa/t05r-workbook/cell-map.json",
+  "independent_review_path": "08-qa/t05r-review/integration-checks.json"
+}

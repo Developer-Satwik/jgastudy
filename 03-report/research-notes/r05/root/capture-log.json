@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5ROOT-S01",
+      "title": "Magenta Book: Central Government guidance on evaluation (HTML)",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:50:27.600021+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "capture_path": "03-report/research-notes/r05/root/R5ROOT-S01.html",
+      "capture_sha256": "1642a6d1a4ab69fb4ce06943f4c8da8794e715ad62e1ef03b8c3a75f6c333adb",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "R5ROOT-S02",
+      "title": "NIST AI RMF Playbook: Measure",
+      "url": "https://airc.nist.gov/airmf-resources/playbook/measure/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:50:27.601654+00:00",
+      "http_status": 200,
+      "final_url": "https://airc.nist.gov/airmf-resources/playbook/measure/",
+      "capture_path": "03-report/research-notes/r05/root/R5ROOT-S02.html",
+      "capture_sha256": "4868c4abbf8ae782a531acfd8225fbd7fcc0944dec4af11b8524a3b5ad2babf7",
+      "capture_status": "retained_original_html"
+    }
+  ]
+}

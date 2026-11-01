@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R08 second challenge: credibility, provenance, divergent appraisals and proportionate use",
+  "queries": [
+    "Reinspect QQE framework1,5,9,11\u201312,14,16,18; section2.8 and4.6\u20134.8"
+  ],
+  "canonical_reuse": "SRC-0003",
+  "no_new_routes_needed": true,
+  "external_actions": []
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "LEGISLATION-screen",
+      "url": "https://www.legislation.gov.uk/uksi/2026/373/made",
+      "http_status": 202,
+      "final_url": "https://www.legislation.gov.uk/uksi/2026/373/made",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-10-28T23:10:27.898171+00:00",
+      "path": null,
+      "sha256": null,
+      "text_path": null,
+      "text_sha256": null,
+      "evidence_status": "excluded_empty_HTTP202_no_legal_text_inspected"
+    },
+    {
+      "candidate_id": "SIG7-S01",
+      "url": "https://www.gov.uk/guidance/sickness-absences-that-start-before-and-end-on-or-after-6-april-2026",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/sickness-absences-that-start-before-and-end-on-or-after-6-april-2026",
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-28T23:10:29.001322+00:00",
+      "path": "03-report/research-notes/r07/signals/captures/SIG7-S02.html",
+      "sha256": "73531c9409f997a0eb8f0ec685dfbc2c7f8fec8a49fe7f5e374959ebe70b60c9",
+      "text_path": "03-report/research-notes/r07/signals/captures/SIG7-S02.txt",
+      "text_sha256": "5f94aac9b4464a18e7186298586abce7a777d4a99e8463d20c31cd51872d3444"
+    },
+    {
+      "candidate_id": "SRC-0090",
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time",
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-28T23:10:28.113444+00:00",
+      "path": "03-report/research-notes/r07/signals/captures/SRC-0090.html",
+      "sha256": "c797de1a755db176b51a55a5c57c1eddbaad506a0c98e1c8c494075d4c8fc524",
+      "text_path": "03-report/research-notes/r07/signals/captures/SRC-0090.txt",
+      "text_sha256": "05f2ff61375bfb8a251e3a9d58b1530d9d757887d774d42155006b9961eb005f"
+    },
+    {
+      "candidate_id": "SRC-0072",
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-default-operation-of-mandatory-payrolling",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-default-operation-of-mandatory-payrolling",
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-28T23:10:28.956559+00:00",
+      "path": "03-report/research-notes/r07/signals/captures/SRC-0072.html",
+      "sha256": "94f2f04b3215ce7f780292cab5350c717f19c5da4e07a737dbca11f9655ba7ef",
+      "text_path": "03-report/research-notes/r07/signals/captures/SRC-0072.txt",
+      "text_sha256": "b52dc09613859d74d7f33632dcac67954a92cd9ea4096da0e4179163c7b0a53a"
+    },
+    {
+      "candidate_id": "SRC-0091",
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-phased-introduction-of-mandatory-payrolling-for-benefits-in-kind",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-phased-introduction-of-mandatory-payrolling-for-benefits-in-kind",
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-28T23:10:28.985897+00:00",
+      "path": "03-report/research-notes/r07/signals/captures/SRC-0091.html",
+      "sha256": "2382b3d3b1b6105df6520d50c27bf1b2f140c81e0bbcfcb66fe6a868a8a89483",
+      "text_path": "03-report/research-notes/r07/signals/captures/SRC-0091.txt",
+      "text_sha256": "1de60534c614442e033fc549cd1db24a144110635bb3c3e121b1d1a5aa0a04eb"
+    },
+    {
+      "candidate_id": "SRC-0092",
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/getting-ready-for-mandatory-payrolling-of-benefits-in-kind",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/getting-ready-for-mandatory-payrolling-of-benefits-in-kind",
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-28T23:10:28.988497+00:00",
+      "path": "03-report/research-notes/r07/signals/captures/SRC-0092.html",
+      "sha256": "ad99845fc5bb2376d33b00faba16161a2d05137f709d180c10508756b1d2a62c",
+      "text_path": "03-report/research-notes/r07/signals/captures/SRC-0092.txt",
+      "text_sha256": "b703caf738771c5a4365eac73046c4093c75619259c506613a88889c16d1b849"
+    },
+    {
+      "candidate_id": "POWYS-screen",
+      "url": "https://powys.moderngov.co.uk/documents/g9862/Public%20reports%20pack%2019th-May-2026%2011.00%20Cabinet.pdf?T=10",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null,
+      "evidence_status": "excluded_access_failure_no_original_inspected"
+    },
+    {
+      "candidate_id": "SIG7-S02",
+      "url": "https://www.acas.org.uk/checking-sick-pay/statutory-sick-pay-ssp",
+      "http_status": 200,
+      "final_url": "https://www.acas.org.uk/checking-sick-pay/statutory-sick-pay-ssp",
+      "retrieved_at_utc": "2026-10-28T23:11:41.297651+00:00",
+      "path": "03-report/research-notes/r07/signals/captures/SIG7-ACAS.html",
+      "sha256": "2f99fa4b9c55719263bf8e4593a193dd6a6a51913dbbb0b95bdd4e9a6b1ffef1",
+      "text_path": "03-report/research-notes/r07/signals/captures/SIG7-ACAS.txt",
+      "text_sha256": "e53acea75358d11b0956647fc968d9c51c6ee0da0b1747e9bd7bff0553d2d141"
+    }
+  ]
+}

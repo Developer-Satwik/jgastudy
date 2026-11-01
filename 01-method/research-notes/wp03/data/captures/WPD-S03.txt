@@ -1,0 +1,235 @@
+What privacy information should we provide? | ICO
+Skip to main content
+Home
+The ICO exists to empower you through information.
+Search
+Search
+Search
+Menu
+Home
+For the public
+For organisations
+Make a complaint
+Action we've taken
+About the ICO
+For organisations
+UK GDPR guidance and resources
+Individual rights - guidance and resources
+The right to be informed
+What privacy information should we provide?
+What privacy information should we provide?
+Download options
+(Opens download panel)
+Pages
+All pages
+This page
+Format
+PDF
+Download
+Due to changes made by the Data (Use and Access) Act, this guidance is under review and may be subject to change. The Plans for new and updated guidance page will tell you about which guidance will be updated and when this will happen.
+Contents
+Search this document
+The right to be informed
+About this detailed guidance
+What is the right to be informed and why is it important?
+What privacy information should we provide?
+When should we provide privacy information?
+Are there any exceptions?
+How should we draft our privacy information?
+What methods can we use to provide privacy information?
+Should we test, review and update our privacy information?
+What common issues might come up in practice?
+Checklists
+In detail
+What information must we provide when we collect personal data from individuals?
+What information must we provide when we obtain personal data from another source?
+What information must we provide when we collect personal data from individuals?
+The UK GDPR specifies what you need to tell individuals when you collect personal data from them. There are some types of information that you must always provide, while the provision of other types of information depends on the particular circumstances of your organisation, and how and why you use people’s personal data. The table below explains what information you need to provide, what to tell people, and when it is required.
+What information do we need to provide?
+What should we tell people?
+When is this required?
+The name and contact details of your organisation
+Say who you are and how individuals can contact you.
+Always
+The name and contact details of your representative
+Say who your representative is and how to contact them.
+A representative is an organisation that represents you if you are based outside the UK, but you monitor or offer services to people in the UK.
+If applicable
+The contact details of your data protection officer
+Say how to contact your data protection officer (DPO).
+Certain organisations are required to appoint a DPO. This is a person designated to assist with UK GDPR compliance.
+If applicable
+The purposes of the processing
+Explain why you use people’s personal data. Be clear about each different purpose.
+There are many different reasons for using personal data, you will know best the particular reasons why you use data. Typical purposes could include marketing, order processing and staff administration.
+Always
+The lawful basis for the processing
+Explain which lawful basis you are relying on in order to collect and use people’s personal data and/or special category data.
+This is one or more of the bases laid out under Article 6(1) of the UK GDPR.
+Always
+The legitimate interests for the processing
+Explain what the legitimate interests for the processing are.
+These are the interests pursued by your organisation, or a third party, if you are relying on the lawful basis for processing under Article 6(1)(f) of the UK GDPR.
+If applicable
+The recipients, or categories of recipients of the personal data
+Say who you share people’s personal data with.
+This includes anyone that processes the personal data on your behalf, as well all other organisations.
+You can tell people the names of the organisations or the categories that they fall within.
+Be as specific as possible if you only tell people the categories of organisations.
+If applicable
+The details of transfers of the personal data to any third countries or international organisations
+Tell people if you transfer their personal data to any countries or organisations outside the EU.
+Say whether the transfer is made on the basis of an adequacy decision by the European Commission under Article 45 of the UK GDPR.
+If the transfer is not made on the basis of an adequacy decision, give people brief information on the safeguards put in place in accordance with Article 46, 47 or 49 of the UK GDPR. You must also tell people how to get a copy of the safeguards.
+If applicable
+The retention periods for the personal data
+Say how long you will keep the personal data for.
+If you don’t have a specific retention period then you need to tell people the criteria you use to decide how long you will keep their information.
+Always
+The rights available to individuals in respect of the processing
+Tell people which rights they have in relation to your use of their personal data, e.g. access, rectification, erasure, restriction, objection, and data portability.
+The rights will differ depending on the lawful basis for processing – make sure what you tell people accurately reflects this.
+The right to object must be explicitly brought to people’s attention clearly and separately from any other information.
+Always
+The right to withdraw consent
+Let people know that they can withdraw their consent for your processing of their personal data at any time.
+Consent must be as easy to withdraw as it is to give. Tell people how they can do this.
+If applicable
+The right to lodge a complaint with a supervisory authority
+Tell people that they can complain to a supervisory authority.
+Each EU Member State has a designated data protection supervisory authority.
+Individuals have the right to raise a complaint with the supervisory authority in the Member State where they live, where they work, or where the infringement took place.
+It is good practice to provide the name and contact details of the supervisory authority that individuals are most likely to complain to if they have a problem. In practice, if you are based in the UK, or you regularly collect the personal data of people that live in the UK, you should inform people that they can complain to the ICO and provide our contact details.
+Always
+The details of whether individuals are under a statutory or contractual obligation to provide the personal data
+Tell people if they are required by law, or under contract, to provide personal data to you, and what will happen if they don’t provide that data.
+Often, this will only apply to some, and not all, of the information being collected. You should be clear with individuals about the specific types of personal data that are required under a statutory or contractual obligation.
+If applicable
+The details of the existence of automated decision-making, including profiling
+Say whether you make decisions based solely on automated processing, including profiling, that have legal or similarly significant effects on individuals. Give people meaningful information about the logic involved in the process and explain the significance and envisaged consequences.
+Whilst this type of processing may be complex, you should use simple, understandable terms to explain the rationale behind your decisions and how they might affect individuals. Tell people what information you use, why it is relevant and what the likely impact is going to be.
+If applicable
+Further reading – ICO guidance
+Key definitions
+Data protection officers
+Lawful basis for processing
+International transfers
+Principles
+Individual rights
+Further reading – European Data Protection Board
+The European Data Protection Board (EDPB), which has replaced the Article 29 Working Party (WP29), includes representatives from the data protection authorities of each EU member state. It adopts guidelines for complying with the requirements of the GDPR. EDPB guidelines are no longer directly relevant to the UK regime and are not binding under the UK regime. However, they may still provide helpful guidance on certain issues.
+WP29 published the following guidelines which have been endorsed by the EDPB:
+Guidelines on Transparency
+Guidelines on Data Protection Officers
+Guidelines on Consent
+Guidelines on the right to data portability
+Guidelines on automated individual decision-making and profiling
+What information must we provide when we obtain personal data from another source?
+The information you need to provide is slightly different when you have obtained the personal data from a source other than the individual themselves.
+You do not need to tell people about any statutory obligations to provide the personal data, but you do need to give people additional information on the categories of personal data you obtained and the source of that information. The table below details all the information you need to provide, what to tell people, and when it is required.
+What information do we need to provide?
+What should we tell people?
+When is this required?
+The name and contact details of your organisation
+Say who you are and how individuals can contact you.
+The name and contact details of your representative
+Say who your representative is and how to contact them.
+A representative is an organisation that represents you if you are based outside the EU, but you monitor or offer services to people in the EU.
+The contact details of your data protection officer
+Say how to contact your data protection officer (DPO).
+Certain organisations are required to appoint a DPO. This is a person designated to assist with UK GDPR compliance.
+The purposes of the processing
+Explain why you use people’s personal data. Be clear about each different purpose.
+There are many different reasons for using personal data, you will know best the particular reasons why you use data. Typical purposes could include marketing, order processing and staff administration.
+The lawful basis for the processing
+Explain which lawful basis you are relying on in order to collect and use people’s personal data and/or special category data.
+This is one or more of the bases laid out under Article 6(1) of the UK GDPR.
+The legitimate interests for the processing
+Explain what the legitimate interests for the processing are.
+These are the interests pursued by your organisation, or a third party, if you are relying on the lawful basis for processing under Article 6(1)(f) of the GDPR.
+The categories of personal data obtained
+Tell people what types of information you collect about them.
+The recipients, or categories of recipients of the personal data
+Say who you share people’s personal data with.
+This includes anyone that processes the personal data on your behalf, as well all other organisations.
+You can tell people the names of the organisations or the categories that they fall within.
+Be as specific as possible if you only tell people the categories of organisations.
+The details of transfers of the personal data to any third countries or international organisations
+Tell people if you transfer their personal data to any countries or organisations outside the EU.
+Say whether the transfer is made on the basis of an adequacy decision by the European Commission under Article 45 of the UK GDPR.
+If the transfer is not made on the basis of an adequacy decision, give people brief information on the safeguards put in place in accordance with Article 46, 47 or 49 of the UK GDPR. You must also tell people how to get a copy of the safeguards.
+The retention periods for the personal data
+Say how long you will keep the personal data for.
+If you don’t have a specific retention period then you need to tell people the criteria you use to decide how long you will keep their information.
+The rights available to individuals in respect of the processing
+Tell people which rights they have in relation to your use of their personal data, e.g. access, rectification, erasure, restriction, objection, and data portability.
+The rights will differ depending on the lawful basis for processing – make sure what you tell people accurately reflects this.
+The right to object must be explicitly brought to people’s attention clearly and separately from any other information.
+The right to withdraw consent
+Let people know that they can withdraw their consent for your processing of their personal data at any time.
+Consent must be as easy to withdraw as it is to give. Tell people how they can do this.
+The right to lodge a complaint with a supervisory authority
+Tell people that they can complain to a supervisory authority.
+Each EU Member State has a designated data protection supervisory authority.
+Individuals have the right to raise a complaint with the supervisory authority in the Member State where they live, where they work, or where the infringement took place.
+It is good practice to provide the name and contact details of the supervisory authority that individuals are most likely to complain to if they have a problem. In practice, if you are based in the UK, or you regularly collect the personal data of people that live in the UK, you should inform people that they can complain to the ICO and provide our contact details.
+The source of the personal data
+Tell people where you obtained their information from. If it was from a publicly accessible source you must say this.
+Be as specific as possible and name the individual source(s) the personal data was obtained from. If you can’t do this because you don’t know the specific source, you should provide more general information.
+The details of the existence of automated decision-making, including profiling
+Say whether you make decisions based solely on automated processing, including profiling, that have legal or similarly significant effects on individuals. Give people meaningful information about the logic involved in the process and explain the significance and envisaged consequences.
+Whilst this type of processing may be complex, you should use simple, understandable terms to explain the rationale behind your decisions and how they might affect individuals. Tell people what information you use, why it is relevant and what the likely impact is going to be.
+Further reading – ICO guidance
+Key definitions
+Data protection officers
+Lawful basis for processing
+International transfers
+Principles
+Individual rights
+Further reading – European Data Protection Board
+The European Data Protection Board (EDPB), which has replaced the Article 29 Working Party (WP29), includes representatives from the data protection authorities of each EU member state. It adopts guidelines for complying with the requirements of the GDPR. EDPB guidelines are no longer directly relevant to the UK regime and are not binding under the UK regime. However, they may still provide helpful guidance on certain issues.
+WP29 published the following guidelines which have been endorsed by the EDPB:
+Guidelines on Transparency
+Guidelines on Data Protection Officers
+Guidelines on Consent
+Guidelines on automated individual decision-making and profiling
+Previous
+What is the right to be informed and why is it important?
+Next
+When should we provide privacy information?
+Back to top
+Print this page
+For the public
+Official information
+Nuisance calls
+For organisations
+UK GDPR guidance and resources
+Freedom of information
+EIR and access to information
+Direct marketing
+Advice and services
+Action we've taken
+Enforcement action
+Decision notices
+Audits and overview reports
+About the ICO
+Download registration certificate
+Who we are
+What we do
+Media centre
+Careers
+Modern slavery statement
+Follow us
+LinkedIn
+Facebook
+X
+YouTube
+The ICO exists to empower you through information.
+Contact us
+Privacy notice
+Cookies
+Accessibility
+Cymraeg
+Disclaimer
+© Copyright
+All text content is available under the Open Government Licence v3.0, except where otherwise stated.

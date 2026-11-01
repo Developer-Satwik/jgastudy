@@ -1,0 +1,48 @@
+from pathlib import Path
+import json,hashlib
+
+ROOT=Path(__file__).resolve().parents[4]
+BASE=Path(__file__).resolve().parent
+DATE='2026-10-29'
+def read(p):return json.loads(p.read_text())
+def write(p,d):p.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n')
+def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
+captures=read(BASE/'capture-manifest.json')['records']
+by={x['source_id']:x for x in captures}
+reuse=[]
+rows=[
+ ('SRC-0078','Paying a payroll provider','relevant_original_official_guidance_rechecked',None,'HMRC guidance distinguishes bought support, retained records/input and employer PAYE responsibility. It is not observed compliance, a private contract or proof every task is performed internally. No individual legal determination or transfer of responsibilities outside its PAYE scope is made.'),
+ ('SRC-0131','SaaS/Source processing and authorise-payment sections','relevant_original_supplier_declaration_rechecked','2026-09-24','Product/service-specific declaration. It distinguishes processing and payment routes, not an executed customer contract, tested workflow or universal market rule. Its status-visibility language still differs from the cycle article; existing CLM-0218 hold is not resolved.'),
+ ('SRC-0132','Four-scenario table; stages2–4; FAQs submit/approve/authorise and roll-forward','relevant_original_supplier_declaration_rechecked','2026-10-22','Fresh original displays22October2026 update, not the earlier June label retained in the canonical record. These are source versions, not demonstrated customer changes. Status visibility/payment-stage wording remains inconsistent across inspected Cintra text; no UI rule is adopted and existing CLM-0218 hold remains. Repeated-run description is a supplier declaration, not observed paid outcome, customer readiness or a payroll investment decision.')]
+for sid,loc,status,updated,limits in rows:
+ cap=by[sid]
+ reuse.append(dict(source_id=sid,url=cap['url'],locator=loc,review_status=status,review_result={'SRC-0078':'Rechecked provider support versus retained employer duties.','SRC-0131':'Rechecked service-specific processing and payment rights; do not merge visibility statements.','SRC-0132':'Rechecked period-specific report review/payment authority and declared next-period roll-forward; current source-label difference explicitly recorded.'}[sid],capture_path=cap['path'],capture_sha256=cap['sha256'],text_path=cap['text_path'],text_sha256=cap['text_sha256'],accessed_on=DATE,updated_date=updated,date_note='Actual displayed source label if established. Fresh access date does not establish a new operating event or customer outcome.',limitations=limits))
+write(BASE/'source-candidates.json',dict(date=DATE,records=[],reused_canonical_sources=reuse,new_independent_datasets=0))
+claims=[
+ dict(candidate_id='M8S-C01',canonical_source_ids=['SRC-0131','SRC-0132'],claim_text='Cintra documentation distinguishes payroll submission/report approval/payment authorisation according to the declared processing/payment route, and describes a payroll cycle that recurs by period rather than a one-off investment approval.',evidence_class='supplier_declared_recurring_operating_action_boundary',locator='In-house: SaaS/Source Authorise payments; Cycle: four-scenario table, FAQs submit/approve/authorise and roll-forward',limitations='Use only the common distinction between action objects and period context. Status-visibility/payment-stage descriptions still differ, so no exact UI rule, automatic progression, successful run, actual payment or account readiness is asserted. Supplier documentation is not observed employer implementation or the investment-decision disposition.'),
+ dict(candidate_id='M8S-C02',canonical_source_ids=['SRC-0078'],claim_text='HMRC guidance describes different levels of purchased payroll support while retaining employer record/input and PAYE responsibilities; paying a provider does not by itself establish that every task or accountability has moved to that provider.',evidence_class='official_guidance_on_delegation_and_retained_work',locator='Choose how to run payroll: Paying a payroll provider',limitations='Source-scoped official PAYE guidance, not a full legal audit, individual liability/enforceability advice, executed service contract, current compliance finding or evidence of how any specific employer allocates or performs work. No mandate for a provider or hire.'),
+ dict(candidate_id='M8S-C03',canonical_source_ids=['SRC-0131','SRC-0132'],claim_text='The freshly retained cycle page displays an October2026 update label, while its status-visibility and payment-stage wording still differs from the in-house article. The prior Cintra universal-UI hold remains unresolved rather than being silently replaced with one current universal behaviour.',evidence_class='source_version_and_conflict_boundary',locator='Cycle metadata/status paragraph/scenario table/payment-stage paragraph versus In-house SaaS calculation/status paragraph',limitations='No software was run, customer configuration tested or policy-change chronology established. A later displayed document date does not identify actual account behaviour or reconcile inconsistent descriptions. This preserves CLM-0218; it is not an additional numerical estimate or a product-defect claim.',status='context_existing_UI_hold_preserved'),
+ dict(candidate_id='M8S-C04',canonical_source_ids=['SRC-0078','SRC-0131','SRC-0132'],claim_text='For the R08 canvas, distinguish a change/investment decision from a recurring operating approval, authorisation or accepted handoff. Where material, attach the latter to its actual task/run/period and scope, then keep remaining operation, payment, continuing responsibility and future-period evidence separate.',evidence_class='researcher_selective_action_unit_and_continuing_operation_design',locator='Explicit analytical application to R08 V03/V04/V05/V06 and existing Q002/Q007/Q009/Q013',limitations='Selective interpretation aid, not extra mandatory questions, a prescribed payroll workflow, perpetual monitoring obligation or a required new investment. One report approval or provider handoff does not prove employees were paid, all services worked, next-period readiness or transferred accountability. Unknown and non-disclosure remain usable.')]
+for c in claims:
+ c.update(source_candidate_ids=[],value=None,unit=None,denominator=None,population='Source-specific official guidance or supplier operational declaration; explicit analyst application. Not original JGA practitioners or a representative market population.',time_period='Dated source versions inspected29October2026; no employer time series.',review_mode='Fresh original HTML sections inspected with parsed text retained separately. No UI trial, account access, private contract, payment execution or independent compliance assurance.')
+write(BASE/'claim-candidates.json',dict(date=DATE,records=claims))
+write(BASE/'search-review-log.json',dict(date=DATE,purpose='R08 second challenge: task/period unit of operating acceptance, release and retained duties versus investment decision',inspected=[dict(source_id=x['source_id'],url=x['url'],locator=x['locator']) for x in reuse],queries=['Direct primary reinspection of canonical HMRC choose-payroll and Cintra cycle/in-house routes'],screened_not_adopted=['HMRC setting-up-payroll page corroborates recurring tasks but adds no necessary route or claim; not added to evidence count','No new price, software test, contract acceptance, payroll-run result or legal determination'],new_routes=0,original_practitioner_observations=0,product_trials=0,numeric_estimates=0,extra_mandatory_questions=0,external_actions=[]))
+checks=[]
+def check(v,t):
+ checks.append(dict(check=t,passed=bool(v)))
+ if not v:raise AssertionError(t)
+for cap in captures:
+ check(cap['http_status']==200,'Original retrieved successfully: '+cap['source_id'])
+ check(sha(ROOT/cap['path'])==cap['sha256'],'Original hash: '+cap['source_id'])
+ check(sha(ROOT/cap['text_path'])==cap['text_sha256'],'Parsed-text hash: '+cap['source_id'])
+check(all(c['value'] is None and c['unit'] is None and c['denominator'] is None for c in claims),'No numerical metric adopted')
+check(len(reuse)==3 and len(claims)==4,'Three canonical reuses and four bounded records')
+check('Oct 22, 2026' in (ROOT/by['SRC-0132']['text_path']).read_text(),'Fresh cycle update label retained without rewriting prior capture')
+check('No status symbols' in (ROOT/by['SRC-0132']['text_path']).read_text() and 'view the current status' in (ROOT/by['SRC-0131']['text_path']).read_text(),'Differing status text is retained and existing hold preserved')
+check('rolled forward' in (ROOT/by['SRC-0132']['text_path']).read_text(),'Declared recurring-period operation inspected')
+check('legally responsible' in (ROOT/by['SRC-0078']['text_path']).read_text(),'Official retained-responsibility guidance inspected')
+canonical=read(ROOT/'02-evidence/registers/sources.json')['records']
+for x in reuse:check(any(s['source_id']==x['source_id'] and s['url'].rstrip('/')==x['url'].rstrip('/') for s in canonical),'Canonical route resolves: '+x['source_id'])
+check(next(x for x in read(ROOT/'02-evidence/registers/claims.json')['records'] if x['claim_id']=='CLM-0218')['status']=='hold_universal_ui_behaviour','Existing UI hold remains canonical and unchanged')
+write(BASE/'verification.json',dict(date=DATE,status='passed',check_count=len(checks),checks=checks,scope='Targeted source/capture/claim-boundary checks only, not product, legal, market or practitioner validation.',external_actions=[]))
+print(json.dumps(dict(status='market_strand_ready',new_routes=0,canonical_reuses=3,claims=4,retained_files=6,checks=len(checks)),indent=2))

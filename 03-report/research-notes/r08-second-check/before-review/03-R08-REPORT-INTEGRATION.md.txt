@@ -1,0 +1,48 @@
+# R08 report integration and evidence gaps
+
+29October2026. Preparatory synthesis, not a new approved outline or finished publication. The proposed structure is taken from the existing version0.2 client plan. Its two parts, eight chapters and concluding “From Ambition to Investment” chapter remain unchanged and unapproved.
+
+## Narrative flow
+
+The existing labels are Part One: “What leaders want”; Part Two: “How investment decisions happen”; and conclusion: “From Ambition to Investment.” The table uses readable working headings for the same proposed chapters; no client outline is replaced or silently approved.
+
+Begin with the payroll work and consequences readers recognise, including what functions well. Explain capabilities and service boundaries before discussing priorities. The second part examines action-specific authority, evidence/resources and actual decisions/results. The conclusion uses the six-view canvas to make the next supported decision easier to explain, without treating every case as a purchase opportunity.
+
+| Part / chapter | Reader purpose | Prepare now | Evidence still needed |
+| --- | --- | --- | --- |
+| part one / 1. Operating reality | Begin with the work that functions and the specific friction, consequence or unmet outcome that matters. | Explain need, consequence and intended outcome; distinguish handoffs, payment, reporting, records and employee explanation. Use a short dated history of recurring themes and changed conditions without an adoption/progress trend. | Actual permissioned operating accounts, variation/contrary cases, which consequences mattered in the contributors’ contexts and any cleared case text. |
+| part one / 2. Technology and service needs | Locate the gap and compare feasible people, process, configuration, data, platform and service responses. | Explain capability, fit, scope/retained work, access/configuration and continuing readiness. Present combinable response paths including retention/no immediate purchase, with conditions rather than a vendor ranking. | Permissioned account of actual shortfalls, what was evaluated/used, feasible alternatives and assessed task-level benefits. |
+| part one / 3. Priorities and commitment | Distinguish desired improvements from known organisational work, resources and delivery over the stated horizon. | Explain whose priority, concrete task, horizon, provenance and distinct evaluation/plan/approval/resources/delivery facts. Describe applicable dated planning signals as conditional context, with currentness checks before final use. | Up to two actual priorities per contributor under Q005, their direct-knowledge/resource/sequence context and achieved/missing coverage. |
+| part two / 4. The decision pathway | Reconstruct the relevant action, object, date, decision rights, influence and conditions. | Explain sponsor, funding, signature, assurance, functional signoff and operational release as potentially different functions. Offer a selective event/rights record rather than a universal hierarchy or fixed committee. | Actual eligible recent cases establishing effective remit, practical authority, involvement, knowledge basis and relevant conditions. |
+| part two / 5. The business case | Connect intended value and its evidence to resources, affordability, feasibility and benefit ownership. | Explain whole-life resources, future incremental cash and funding affordability as different views. Distinguish capacity, cash, quality/control/continuity and other benefits, with baseline, owner and assessment basis. | Actual case evidence requested and apparently influential, resource/funding conditions, credible alternatives and intended/observed benefits. |
+| part two / 6. Progress and constraints | Explain the actual conditions that affected whether and when a specified proposal or service change moved. | Separate approval/disposition, commitment, delivery state, affected task/user and benefit assessment. Explain distinctions among project delay, decision deferral, component stop and last evidenced state; retain possible versus adopted response. | Permissioned successful and adverse cases, stated enablers/constraints, current dated state, contrary cases and actual response/effect evidence. |
+| part two / 7. Staying or switching | Describe why the actual retained/changed service, product or operating route was selected among feasible options. | Keep rational retention, smaller change, changed route with same provider, switching and legitimate stopping visible. Explain feasibility and lifecycle/receiving conditions without prescribing replacement. | Actual alternatives, choice/reason, what was retained, and which constraints were reported rather than inferred. |
+| conclusion / 8. From Ambition to Investment: the practical framework | Bring need, feasible responses, decision rights, support, actual states and the next action together in a reusable analytical aid. | Prepare plain-English linked views, evidence labels, blank output and clearly constructed route demonstrations. Make the same aid usable from a need, a pending case, a renewal or a delivery review without a forced purchase path. | Integration of eligible coded practitioner cases, contrary cases, source-rights/currentness/factual checks, client structure review and final framework wording. |
+
+## What can be drafted from the desktop work
+
+Definitions, source-scoped context, selected published cases with their dates/limits, an explanation of the distinctions and the blank analytical structures can be prepared. Reuse one source/programme identity across modules rather than count repeated documents as independent corroboration. Historical expectations and current measures do not become a matched trend; unlike populations do not create a market average. Numerical/UI holds remain excluded from positive support.
+
+The report can offer questions worth considering, but cannot yet say which barriers/priorities were strongest among this commission's practitioners, what they most often bought, what changed approvals or how widely a contextual pattern occurs. No source or supplier advice can stand in for those original accounts.
+
+## Practitioner integration before final synthesis
+
+Before collection, reconcile client focus, proposed population, timing and collection/permission arrangements through the existing review process. User permission is required before anything is sent. Use the unchanged guide with proportionate routes; do not add a framework questionnaire or a new cohort.
+
+For the agreed6–10distinct verified permissioned contributors, retain stable participant IDs, guide version, case/remit/event context, source of knowledge, missingness and permissions. Keep identifying/restricted material outside the public/source repository in the approved arrangement. Eligible overlap with Table membership input is counted once; commercial buyers are not automatically practitioners.
+
+Code actual observations to the existing modules/views, including adequate service, useful retention, enabling conditions and contrary cases. Distinguish participant quotation/paraphrase, published material and researcher interpretation. Review the claims, alternative explanations, permissions and achieved/missing coverage before final synthesis. This is planned integration, not a record of interviews conducted or a requirement for extra tests beyond scope.
+
+## Graphics and contracted formats
+
+Four provisional structures are useful: need/consequence/outcome matrix, option trade-off map, component-level decision/delivery/benefit illustration and the linked-view canvas. Only analytical/blank structures are prepared now. Quantitative graphics need comparable values, units, bases and rights before any data are populated. Colour/hover must not carry the sole meaning; use readable text/source tables and editable assets.
+
+D01 remains a finished JGA-branded PDF/editable Word publication. D02 remains the executive summary. D06 remains a framework included in the report and editable Word/PowerPoint or equivalent final source. D08 still needs reviewed editable graphics and underlying Excel data where charts use data. These Markdown/JSON preparations do not complete or substitute for those handover formats.
+
+## Public report versus The Table
+
+The public report can contain cleared research findings, bounded source context, method and the final framework. The Table's buyer/member conversations, pricing, licences, willingness to fund, sponsor terms, costs, cash flows and commercial recommendation belong in the confidential feasibility work. Participant identity/permission details remain restricted. Neither a useful framework nor payroll need establishes demand for paid research, membership or events.
+
+T01–T07 and WP11 remain open. R08 can be prepared independently, but final WP15 depends on coded original practitioner contributions. No numerical Confidence Index, commercial launch verdict, approved venue/spend or original observation is created here.
+
+The [structured report map](R08-report-integration-map.json) retains chapter-level evidence and source-plan provenance. See the [reader-flow analysis](research-notes/r08/reader-flow/READER-FLOW.md) and [framework](R08-DECISION-FRAMEWORK.md). Nothing sent.

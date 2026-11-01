@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-31",
+  "status": "algebraic_specification_not_calculated_workbook",
+  "records": [
+    {
+      "formula_id": "FM01",
+      "name": "Unbundledlicencerevenue",
+      "logic": "sum(modelled unbundled licence units by type × their scenario price)",
+      "interpretation": "Counts exclude copies/entitlements already included in partner or free access. Customer counts and prices remain assumptions."
+    },
+    {
+      "formula_id": "FM02",
+      "name": "Partnershiprevenue",
+      "logic": "sum(modelled partner bundles × their scenario price)",
+      "interpretation": "Define actual edition/work/use and includedbenefits. Do not separately resell/count bundled entitlement by assumption."
+    },
+    {
+      "formula_id": "FM03",
+      "name": "Incremental event cash",
+      "logic": "sum(additional event-related cash costs not in common research-only case)",
+      "interpretation": "Includes actual selected room/minimum/menu mechanics and timing. Do not add an entire menu total plus the same minimum spend when one offsets the other."
+    },
+    {
+      "formula_id": "FM04",
+      "name": "Operating contribution on cash-cost basis",
+      "logic": "modelled revenue less defined attributable external cash costs",
+      "interpretation": "Managerial operating measure, not bank cash or formal accounting recognition. Fulfilment and invoicing are separate from actual receipts/payments in FM08."
+    },
+    {
+      "formula_id": "FM05",
+      "name": "Full resource result",
+      "logic": "modelled revenue less complete external cost and JGA/internal resource allocation, without duplicates",
+      "interpretation": "Separate a stafftime allocation from extra cash. Explicit sharedresearch allocation and initialinvestment recovery view."
+    },
+    {
+      "formula_id": "FM06",
+      "name": "Remaining funding gap",
+      "logic": "relevant fixed cost less net contribution of partner/other streams already included",
+      "interpretation": "Do not add partner revenue or included licence contribution a second time. Positive gap/negativeunitcontribution handled explicitly."
+    },
+    {
+      "formula_id": "FM07",
+      "name": "Break-even additional licences",
+      "logic": "if remaining funding gap <= 0: 0 additional licences; otherwise if unit contribution > 0: ceiling(gap / unit contribution); otherwise: no finite break-even",
+      "interpretation": "First test whether the remaining gap is already covered. For a positive gap, a zero/negative unit contribution has no finite break-even. Use the selected licence type/mix and servicing cost; capacity can still make a numerical result infeasible.",
+      "decision_branches": [
+        {
+          "condition": "gap_lte_zero",
+          "result": "zero_additional_units"
+        },
+        {
+          "condition": "gap_positive_and_margin_positive",
+          "result": "ceiling_gap_over_margin"
+        },
+        {
+          "condition": "gap_positive_and_margin_nonpositive",
+          "result": "no_finite_break_even"
+        }
+      ]
+    },
+    {
+      "formula_id": "FM08",
+      "name": "Closing cash by month",
+      "logic": "opening cash + actual-modelled receipts − cash payments",
+      "interpretation": "Invoicevalue and revenuefulfilment are not cash receipts. Carry deposits/refunds/remaining obligations correctly, no doubleexpense."
+    },
+    {
+      "formula_id": "FM09",
+      "name": "Peak extra funding",
+      "logic": "maximum positive cumulative cash deficit under the chosen startingcash/timing definition",
+      "interpretation": "Initialinvestment already paid, remaining balance and future event exposures need separate views; no assumed sponsorreceipt."
+    },
+    {
+      "formula_id": "FM10",
+      "name": "Event increment versus research-only",
+      "logic": "B result minus comparable A result over same horizon/common research basis",
+      "interpretation": "Revenue uplift is a separate explicit scenario hypothesis. Do not ascribe all research sales to the dinner or force A to pay B-only feasibility/hospitality costs."
+    }
+  ],
+  "actual_calculated_results": [],
+  "no_taxes_or_accounting_certification": true,
+  "workbook_created": false
+}

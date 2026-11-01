@@ -1,0 +1,1347 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "reviewer": "r03_second_history independent follow-up",
+  "bridge_path": "03-report/research-notes/r03-second-check/competitors/prior-study-bridge.json",
+  "bridge_sha256": "ab90a996b8adf635cd6f0f9081a3364ea175d6486599bf8daa6d920628ff6522",
+  "method": "Exact local provenance hashes and stored prompt/answer text checks. Recomputed selected coverage and source-status counts; no semantic recommendation recoding or validation of generated external claims.",
+  "additional_check_input": {
+    "path": "01-method/question-map.json",
+    "sha256": "bad8effb5898e40af9cefbb68d104de7730a5fd118eb92c6b1083254bd4036f6"
+  },
+  "checks": [
+    {
+      "check": "provenance hash all_answers",
+      "actual": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719",
+      "expected": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719",
+      "passed": true
+    },
+    {
+      "check": "provenance hash summary",
+      "actual": "9ad39abd44ec81ffd7ffd92fb9209858fc4344433b3edb2da6142c50f95bbefc",
+      "expected": "9ad39abd44ec81ffd7ffd92fb9209858fc4344433b3edb2da6142c50f95bbefc",
+      "passed": true
+    },
+    {
+      "check": "provenance hash source_events",
+      "actual": "e621bf5cb7abfaa201b57c5210cc5b4905d79f9d25601f7b334af4ca9549cd83",
+      "expected": "e621bf5cb7abfaa201b57c5210cc5b4905d79f9d25601f7b334af4ca9549cd83",
+      "passed": true
+    },
+    {
+      "check": "provenance hash answer_index",
+      "actual": "940541ab4520d6a00cfae7d038491dcbc72516d999325aada8276027c54c7da2",
+      "expected": "940541ab4520d6a00cfae7d038491dcbc72516d999325aada8276027c54c7da2",
+      "passed": true
+    },
+    {
+      "check": "provenance hash previous_bridge",
+      "actual": "1bf0ab7ce77a049fe8a51cb5c2823a190673877d69c628a36b3808bf35e59316",
+      "expected": "1bf0ab7ce77a049fe8a51cb5c2823a190673877d69c628a36b3808bf35e59316",
+      "passed": true
+    },
+    {
+      "check": "provenance hash previous_independent_check",
+      "actual": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab",
+      "expected": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab",
+      "passed": true
+    },
+    {
+      "check": "previous independent status",
+      "actual": "passed",
+      "expected": "passed",
+      "passed": true
+    },
+    {
+      "check": "previous independent checks remain passed",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "bridge previous hashes claim",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "bridge previous status claim",
+      "actual": "passed",
+      "expected": "passed",
+      "passed": true
+    },
+    {
+      "check": "saved answer count",
+      "actual": 352,
+      "expected": 352,
+      "passed": true
+    },
+    {
+      "check": "unique answer IDs",
+      "actual": 352,
+      "expected": 352,
+      "passed": true
+    },
+    {
+      "check": "unique question count",
+      "actual": 44,
+      "expected": 44,
+      "passed": true
+    },
+    {
+      "check": "situation count",
+      "actual": 11,
+      "expected": 11,
+      "passed": true
+    },
+    {
+      "check": "tools",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "recorded date range",
+      "actual": [
+        "2026-10-18T17:30:52.134Z",
+        "2026-10-22T14:24:16.490Z"
+      ],
+      "expected": [
+        "2026-10-18T17:30:52.134Z",
+        "2026-10-22T14:24:16.490Z"
+      ],
+      "passed": true
+    },
+    {
+      "check": "comparators",
+      "actual": [
+        "Portfolio Payroll",
+        "Frazer Jones",
+        "Oakleaf Partnership",
+        "Middlemore",
+        "Hays",
+        "Robert Half"
+      ],
+      "expected": [
+        "Portfolio Payroll",
+        "Frazer Jones",
+        "Oakleaf Partnership",
+        "Middlemore",
+        "Hays",
+        "Robert Half"
+      ],
+      "passed": true
+    },
+    {
+      "check": "raw/index exact record IDs",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "source capture status limits",
+      "actual": {
+        "complete": 339,
+        "partial": 6,
+        "pending": 1,
+        "none_present": 6
+      },
+      "expected": {
+        "complete": 339,
+        "partial": 6,
+        "pending": 1,
+        "none_present": 6
+      },
+      "passed": true
+    },
+    {
+      "check": "six partial and one pending retained",
+      "actual": 7,
+      "expected": 7,
+      "passed": true
+    },
+    {
+      "check": "selected situation IDs",
+      "actual": [
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "expected": [
+        "S04",
+        "S05",
+        "S09"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04 answer count",
+      "actual": 32,
+      "expected": 32,
+      "passed": true
+    },
+    {
+      "check": "S04 four questions",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "check": "S04 source status limits",
+      "actual": {
+        "complete": 32
+      },
+      "expected": {
+        "complete": 32
+      },
+      "passed": true
+    },
+    {
+      "check": "S04 constructed question labels",
+      "actual": [
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D"
+      ],
+      "expected": [
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04 unit excludes employer cases",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "S04-A saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S04-A exact constructed text",
+      "actual": [
+        "We are a UK employer replacing fragmented payroll systems across the UK and Europe. We need a UK-based Payroll Transformation Director who can lead the programme and work with HR, finance and technology teams. Which recruitment firms specialise in this kind of hire?"
+      ],
+      "expected": [
+        "We are a UK employer replacing fragmented payroll systems across the UK and Europe. We need a UK-based Payroll Transformation Director who can lead the programme and work with HR, finance and technology teams. Which recruitment firms specialise in this kind of hire?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-A prompt text digest",
+      "actual": "23e0784002b96fe0c1dd799834e4175e84720fa37f0e8058de2067641bc14e39",
+      "expected": "23e0784002b96fe0c1dd799834e4175e84720fa37f0e8058de2067641bc14e39",
+      "passed": true
+    },
+    {
+      "check": "S04-A raw stored prompt hashes",
+      "actual": [
+        "23e0784002b96fe0c1dd799834e4175e84720fa37f0e8058de2067641bc14e39"
+      ],
+      "expected": [
+        "23e0784002b96fe0c1dd799834e4175e84720fa37f0e8058de2067641bc14e39"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-A products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-A two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S04-B saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S04-B exact constructed text",
+      "actual": [
+        "Who recruits senior payroll change leaders in the UK? We need someone to lead a multi-country payroll system implementation, not just run monthly payroll."
+      ],
+      "expected": [
+        "Who recruits senior payroll change leaders in the UK? We need someone to lead a multi-country payroll system implementation, not just run monthly payroll."
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-B prompt text digest",
+      "actual": "cec991f4b9aaeefe8d475bf326685cbdf05ee28601bb544569d00dc9b3377021",
+      "expected": "cec991f4b9aaeefe8d475bf326685cbdf05ee28601bb544569d00dc9b3377021",
+      "passed": true
+    },
+    {
+      "check": "S04-B raw stored prompt hashes",
+      "actual": [
+        "cec991f4b9aaeefe8d475bf326685cbdf05ee28601bb544569d00dc9b3377021"
+      ],
+      "expected": [
+        "cec991f4b9aaeefe8d475bf326685cbdf05ee28601bb544569d00dc9b3377021"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-B products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-B two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S04-C saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S04-C exact constructed text",
+      "actual": [
+        "Which UK recruitment firms should we consider for a Payroll Transformation Director leading a UK and European systems programme? What evidence should we request of their experience recruiting leaders across payroll operations, HR systems integration and change management?"
+      ],
+      "expected": [
+        "Which UK recruitment firms should we consider for a Payroll Transformation Director leading a UK and European systems programme? What evidence should we request of their experience recruiting leaders across payroll operations, HR systems integration and change management?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-C prompt text digest",
+      "actual": "d01d4f20b74a3096d97bb7a00a08288d3fafbfbd85aab12ee931842262c02dfb",
+      "expected": "d01d4f20b74a3096d97bb7a00a08288d3fafbfbd85aab12ee931842262c02dfb",
+      "passed": true
+    },
+    {
+      "check": "S04-C raw stored prompt hashes",
+      "actual": [
+        "d01d4f20b74a3096d97bb7a00a08288d3fafbfbd85aab12ee931842262c02dfb"
+      ],
+      "expected": [
+        "d01d4f20b74a3096d97bb7a00a08288d3fafbfbd85aab12ee931842262c02dfb"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-C products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-C two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S04-D saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S04-D exact constructed text",
+      "actual": [
+        "Which recruitment firms can help us hire a UK-based Payroll Transformation Director with experience keeping payroll running while moving UK and European operations onto new systems? We need a senior programme owner who can work across HR, finance and IT."
+      ],
+      "expected": [
+        "Which recruitment firms can help us hire a UK-based Payroll Transformation Director with experience keeping payroll running while moving UK and European operations onto new systems? We need a senior programme owner who can work across HR, finance and IT."
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-D prompt text digest",
+      "actual": "cd3ed6484ee10324e43808a75780fb7aa9f56ee898f73dce23bb77506a9654fb",
+      "expected": "cd3ed6484ee10324e43808a75780fb7aa9f56ee898f73dce23bb77506a9654fb",
+      "passed": true
+    },
+    {
+      "check": "S04-D raw stored prompt hashes",
+      "actual": [
+        "cd3ed6484ee10324e43808a75780fb7aa9f56ee898f73dce23bb77506a9654fb"
+      ],
+      "expected": [
+        "cd3ed6484ee10324e43808a75780fb7aa9f56ee898f73dce23bb77506a9654fb"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-D products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S04-D two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S05 answer count",
+      "actual": 32,
+      "expected": 32,
+      "passed": true
+    },
+    {
+      "check": "S05 four questions",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "check": "S05 source status limits",
+      "actual": {
+        "complete": 30,
+        "none_present": 2
+      },
+      "expected": {
+        "complete": 30,
+        "none_present": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S05 constructed question labels",
+      "actual": [
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S05-D"
+      ],
+      "expected": [
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S05-D"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05 unit excludes employer cases",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "S05-A saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S05-A exact constructed text",
+      "actual": [
+        "We are a UK-based, private-equity-backed group that has acquired businesses across the UK and Europe. We need a UK-based Group Payroll Director to integrate payroll teams, providers and controls. Which recruitment firms should we shortlist?"
+      ],
+      "expected": [
+        "We are a UK-based, private-equity-backed group that has acquired businesses across the UK and Europe. We need a UK-based Group Payroll Director to integrate payroll teams, providers and controls. Which recruitment firms should we shortlist?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-A prompt text digest",
+      "actual": "15a99c4e078efc023e33a342b00e8568e65ddcc0310976dc6279ea622cb86c36",
+      "expected": "15a99c4e078efc023e33a342b00e8568e65ddcc0310976dc6279ea622cb86c36",
+      "passed": true
+    },
+    {
+      "check": "S05-A raw stored prompt hashes",
+      "actual": [
+        "15a99c4e078efc023e33a342b00e8568e65ddcc0310976dc6279ea622cb86c36"
+      ],
+      "expected": [
+        "15a99c4e078efc023e33a342b00e8568e65ddcc0310976dc6279ea622cb86c36"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-A products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-A two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S05-B saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S05-B exact constructed text",
+      "actual": [
+        "Which recruiters can find a Group Payroll Director for a UK buy-and-build business? We need someone who has integrated payroll after acquisitions in the UK and Europe."
+      ],
+      "expected": [
+        "Which recruiters can find a Group Payroll Director for a UK buy-and-build business? We need someone who has integrated payroll after acquisitions in the UK and Europe."
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-B prompt text digest",
+      "actual": "6515e2465197825286b19caf36bd9c3844080fb31fdbb7ef54c26bdb71c29d28",
+      "expected": "6515e2465197825286b19caf36bd9c3844080fb31fdbb7ef54c26bdb71c29d28",
+      "passed": true
+    },
+    {
+      "check": "S05-B raw stored prompt hashes",
+      "actual": [
+        "6515e2465197825286b19caf36bd9c3844080fb31fdbb7ef54c26bdb71c29d28"
+      ],
+      "expected": [
+        "6515e2465197825286b19caf36bd9c3844080fb31fdbb7ef54c26bdb71c29d28"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-B products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-B two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S05-C saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S05-C exact constructed text",
+      "actual": [
+        "For a UK-based Group Payroll Director appointment after several UK and European acquisitions, which specialist recruiters would you approach, and what would demonstrate that they understand payroll integration rather than general finance hiring?"
+      ],
+      "expected": [
+        "For a UK-based Group Payroll Director appointment after several UK and European acquisitions, which specialist recruiters would you approach, and what would demonstrate that they understand payroll integration rather than general finance hiring?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-C prompt text digest",
+      "actual": "e57d4feee40b61b114d24a57efc13a968b9b97a3b99f942cc30b9222f7a9fe80",
+      "expected": "e57d4feee40b61b114d24a57efc13a968b9b97a3b99f942cc30b9222f7a9fe80",
+      "passed": true
+    },
+    {
+      "check": "S05-C raw stored prompt hashes",
+      "actual": [
+        "e57d4feee40b61b114d24a57efc13a968b9b97a3b99f942cc30b9222f7a9fe80"
+      ],
+      "expected": [
+        "e57d4feee40b61b114d24a57efc13a968b9b97a3b99f942cc30b9222f7a9fe80"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-C products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-C two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S05-D saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S05-D exact constructed text",
+      "actual": [
+        "Following several UK and European acquisitions, our UK group CFO wants one permanent Group Payroll Director to own the integration. Which recruitment agencies have a relevant senior payroll specialism, and which would you contact first?"
+      ],
+      "expected": [
+        "Following several UK and European acquisitions, our UK group CFO wants one permanent Group Payroll Director to own the integration. Which recruitment agencies have a relevant senior payroll specialism, and which would you contact first?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-D prompt text digest",
+      "actual": "a034f26ec8e2d681f1b839bac647044210130068864827b28bf21406f8e2e04a",
+      "expected": "a034f26ec8e2d681f1b839bac647044210130068864827b28bf21406f8e2e04a",
+      "passed": true
+    },
+    {
+      "check": "S05-D raw stored prompt hashes",
+      "actual": [
+        "a034f26ec8e2d681f1b839bac647044210130068864827b28bf21406f8e2e04a"
+      ],
+      "expected": [
+        "a034f26ec8e2d681f1b839bac647044210130068864827b28bf21406f8e2e04a"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-D products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S05-D two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S09 answer count",
+      "actual": 32,
+      "expected": 32,
+      "passed": true
+    },
+    {
+      "check": "S09 four questions",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "check": "S09 source status limits",
+      "actual": {
+        "complete": 32
+      },
+      "expected": {
+        "complete": 32
+      },
+      "passed": true
+    },
+    {
+      "check": "S09 constructed question labels",
+      "actual": [
+        "S09-A",
+        "S09-B",
+        "S09-C",
+        "S09-D"
+      ],
+      "expected": [
+        "S09-A",
+        "S09-B",
+        "S09-C",
+        "S09-D"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09 unit excludes employer cases",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "S09-A saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S09-A exact constructed text",
+      "actual": [
+        "We are a Manchester-based employer changing payroll providers across the UK and Europe. We need a permanent Head of Payroll, hybrid in Manchester, to own supplier governance and the transition. Which recruitment firms should we approach for this senior hire?"
+      ],
+      "expected": [
+        "We are a Manchester-based employer changing payroll providers across the UK and Europe. We need a permanent Head of Payroll, hybrid in Manchester, to own supplier governance and the transition. Which recruitment firms should we approach for this senior hire?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-A prompt text digest",
+      "actual": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+      "expected": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+      "passed": true
+    },
+    {
+      "check": "S09-A raw stored prompt hashes",
+      "actual": [
+        "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6"
+      ],
+      "expected": [
+        "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-A products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-A two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S09-B saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S09-B exact constructed text",
+      "actual": [
+        "Which recruiters can find a Head of Payroll for a hybrid role in Manchester overseeing UK and European payroll suppliers? We are changing providers and need an experienced permanent leader."
+      ],
+      "expected": [
+        "Which recruiters can find a Head of Payroll for a hybrid role in Manchester overseeing UK and European payroll suppliers? We are changing providers and need an experienced permanent leader."
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-B prompt text digest",
+      "actual": "de98c37de650d13e1adcfdf7323f2314bb933e55a67f9fb44ab12ec308c4d69d",
+      "expected": "de98c37de650d13e1adcfdf7323f2314bb933e55a67f9fb44ab12ec308c4d69d",
+      "passed": true
+    },
+    {
+      "check": "S09-B raw stored prompt hashes",
+      "actual": [
+        "de98c37de650d13e1adcfdf7323f2314bb933e55a67f9fb44ab12ec308c4d69d"
+      ],
+      "expected": [
+        "de98c37de650d13e1adcfdf7323f2314bb933e55a67f9fb44ab12ec308c4d69d"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-B products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-B two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S09-C saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S09-C exact constructed text",
+      "actual": [
+        "For a Manchester-based Head of Payroll responsible for a UK and European provider transition, which recruitment firms would you shortlist, and what evidence supports their ability to find leaders with vendor-governance experience?"
+      ],
+      "expected": [
+        "For a Manchester-based Head of Payroll responsible for a UK and European provider transition, which recruitment firms would you shortlist, and what evidence supports their ability to find leaders with vendor-governance experience?"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-C prompt text digest",
+      "actual": "00992bb48912dbe31c5df808c78d09e910e0a5bd6ed069767752f2ab0362a378",
+      "expected": "00992bb48912dbe31c5df808c78d09e910e0a5bd6ed069767752f2ab0362a378",
+      "passed": true
+    },
+    {
+      "check": "S09-C raw stored prompt hashes",
+      "actual": [
+        "00992bb48912dbe31c5df808c78d09e910e0a5bd6ed069767752f2ab0362a378"
+      ],
+      "expected": [
+        "00992bb48912dbe31c5df808c78d09e910e0a5bd6ed069767752f2ab0362a378"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-C products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-C two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "S09-D saved answers",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "S09-D exact constructed text",
+      "actual": [
+        "Which specialist recruitment firms could help our Manchester finance team hire a permanent Head of Payroll to manage UK and European payroll providers? The role is hybrid in Manchester and needs supplier oversight and service-transition experience."
+      ],
+      "expected": [
+        "Which specialist recruitment firms could help our Manchester finance team hire a permanent Head of Payroll to manage UK and European payroll providers? The role is hybrid in Manchester and needs supplier oversight and service-transition experience."
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-D prompt text digest",
+      "actual": "8c03ecdf797e63e20f2995a7ddc8b47a420874a109fe25ef838a6f5aee097f78",
+      "expected": "8c03ecdf797e63e20f2995a7ddc8b47a420874a109fe25ef838a6f5aee097f78",
+      "passed": true
+    },
+    {
+      "check": "S09-D raw stored prompt hashes",
+      "actual": [
+        "8c03ecdf797e63e20f2995a7ddc8b47a420874a109fe25ef838a6f5aee097f78"
+      ],
+      "expected": [
+        "8c03ecdf797e63e20f2995a7ddc8b47a420874a109fe25ef838a6f5aee097f78"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-D products",
+      "actual": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "expected": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "passed": true
+    },
+    {
+      "check": "S09-D two observations each",
+      "actual": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "expected": {
+        "ChatGPT": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "Perplexity": 2
+      },
+      "passed": true
+    },
+    {
+      "check": "selected total answers",
+      "actual": 96,
+      "expected": 96,
+      "passed": true
+    },
+    {
+      "check": "selected unique questions",
+      "actual": 12,
+      "expected": 12,
+      "passed": true
+    },
+    {
+      "check": "selected raw unique answer IDs",
+      "actual": 96,
+      "expected": 96,
+      "passed": true
+    },
+    {
+      "check": "three raw examples",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 computed full-answer hash",
+      "actual": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "expected": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 stored answer hash",
+      "actual": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "expected": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 computed/stored hash agreement",
+      "actual": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "expected": "992c8166383af647ee8dd5da6817800892c8dd0680cccdb59e1bc85cf1496b0d",
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 question",
+      "actual": "S04-A",
+      "expected": "S04-A",
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 product",
+      "actual": "Claude",
+      "expected": "Claude",
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 observation date",
+      "actual": "2026-10-19T12:22:56.999Z",
+      "expected": "2026-10-19T12:22:56.999Z",
+      "passed": true
+    },
+    {
+      "check": "S04-A-claude-r1 generated-fact restriction",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 computed full-answer hash",
+      "actual": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "expected": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 stored answer hash",
+      "actual": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "expected": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 computed/stored hash agreement",
+      "actual": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "expected": "6a525dd3531c752af29f947cd85622933659b55df41d2596649c1312725b601c",
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 question",
+      "actual": "S05-A",
+      "expected": "S05-A",
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 product",
+      "actual": "ChatGPT",
+      "expected": "ChatGPT",
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 observation date",
+      "actual": "2026-10-19T17:35:51.637Z",
+      "expected": "2026-10-19T17:35:51.637Z",
+      "passed": true
+    },
+    {
+      "check": "S05-A-chatgpt-r1 generated-fact restriction",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 computed full-answer hash",
+      "actual": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "expected": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 stored answer hash",
+      "actual": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "expected": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 computed/stored hash agreement",
+      "actual": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "expected": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 question",
+      "actual": "S09-A",
+      "expected": "S09-A",
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 product",
+      "actual": "ChatGPT",
+      "expected": "ChatGPT",
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 observation date",
+      "actual": "2026-10-19T22:03:12.492Z",
+      "expected": "2026-10-19T22:03:12.492Z",
+      "passed": true
+    },
+    {
+      "check": "S09-A-chatgpt-r1 generated-fact restriction",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "no recommendation counts reused",
+      "actual": false,
+      "expected": false,
+      "passed": true
+    },
+    {
+      "check": "prior-study files unchanged claim",
+      "actual": [],
+      "expected": [],
+      "passed": true
+    },
+    {
+      "check": "researcher-constructed scenarios acknowledged",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "not real buyer questions acknowledged",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "unaided priorities protected",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "selective use protected",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "does not establish priorities or engagement terms",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "capture incompleteness preserved",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "ranks not market demand/quality",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "generated old capability not external facts",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "no new prompt rerun",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "bridge stable during check",
+      "actual": "ab90a996b8adf635cd6f0f9081a3364ea175d6486599bf8daa6d920628ff6522",
+      "expected": "ab90a996b8adf635cd6f0f9081a3364ea175d6486599bf8daa6d920628ff6522",
+      "passed": true
+    },
+    {
+      "check": "fourteen unchanged core map records",
+      "actual": 14,
+      "expected": 14,
+      "passed": true
+    },
+    {
+      "check": "current map matches v0.2 snapshot",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "unaided improvement priority before unmet service follow-up",
+      "actual": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005"
+      ],
+      "expected": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005"
+      ],
+      "passed": true
+    }
+  ],
+  "check_count": 148,
+  "failed_checks": [],
+  "scope_limit": "Verifies faithfully constructed bridge and anti-anchoring limits, not historical external facts, market demand, recruitment performance or a new fieldwork result.",
+  "external_actions": [],
+  "prior_study_or_client_files_changed": false
+}

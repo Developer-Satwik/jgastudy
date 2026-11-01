@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5M-C01",
+      "source_ids": [
+        "R5M-S01"
+      ],
+      "claim_text": "Moneysoft\u2019s named annual licence permits multiple payrolls but applies an employee/subcontractor limit separately to each, including leavers in the tax year. Updates and support belong to that described licence.",
+      "locator": "Product title and description; retained text lines 47\u201349",
+      "evidence_class": "supplier_licence_unit_boundary",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Not a universal bureau tariff or unlimited staff licence. No financial amount, invoice or tested feature adopted.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C02",
+      "source_ids": [
+        "R5M-S02"
+      ],
+      "claim_text": "Payfit\u2019s retained terms distinguish optional task allocation and supplier support from client cooperation, data checks and approval. Included support does not establish that all payroll work or adjustments are included.",
+      "locator": "Clauses 1.2, 2.3\u20132.4 and 4.2",
+      "evidence_class": "supplier_service_and_retained_work_boundary",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Actual agreed plan controls; no performance test, universal liability rule, enforceability analysis or quantified retained effort.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C03",
+      "source_ids": [
+        "R5M-S02"
+      ],
+      "claim_text": "Payfit\u2019s terms describe onboarding, delayed-start and notice-period charging, plus end-of-service access and data-return conditions. Postponing or ceasing live processing does not necessarily end the contractual payment obligation.",
+      "locator": "Clauses 1.2, 3.1\u20133.3, 5, 5.3\u20135.4",
+      "evidence_class": "supplier_commercial_lifecycle_conditions",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Specific subscription can vary; exact amounts, notice periods, deadlines and negotiated rights not adopted as cross-market rules. No historic spent fee treated as recoverable.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C04",
+      "source_ids": [
+        "R5M-S02"
+      ],
+      "claim_text": "Payfit\u2019s retained AI clause requires human verification before output use; it also states that administrators cannot disable AI features, while staff conversational access can be disabled.",
+      "locator": "Clause 2.5, Payfit AI",
+      "evidence_class": "supplier_AI_review_and_configuration_declaration",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Specific version only, not independently tested behaviour, general AI functionality, efficiency saving or retrospective proof of a policy change. No account setting changed. Cintra CLM-0218 hold remains unchanged; this source does not validate or generalise another supplier's UI controls.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C05",
+      "source_ids": [
+        "R5M-S03"
+      ],
+      "claim_text": "Modulr separates payroll payment and bundled products and describes included payments, extra-payment charges and route/product-specific conditions. Employee headcount alone is not the declared charging basis.",
+      "locator": "Payroll Payments plans and comparison footnotes; separate bundled product sections",
+      "evidence_class": "supplier_payment_charge_unit_boundary",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Repeated bundle quantity differences unresolved; no exact price, quote, configuration, VAT conclusion, full payroll service scope or market average adopted.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C06",
+      "source_ids": [
+        "R5M-S04"
+      ],
+      "claim_text": "Modulr describes account funding from an external bank, setup-dependent Open Banking and first-funding verification. Its scheduled disbursement description requires both approval and transferred funds.",
+      "locator": "Add Funds feature; first-time funding; concluding paragraph",
+      "evidence_class": "supplier_payment_funding_dependency",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "No product trial, guaranteed funding/release speed, borrower credit facility, universal prefunding period or available employer cash inferred.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C07",
+      "source_ids": [
+        "SRC-0107"
+      ],
+      "claim_text": "HMRC\u2019s Basic PAYE Tools remains a free, bounded employer software option with registration, login, installation and update requirements; HMRC says it is not designed for agents or bookkeepers.",
+      "locator": "What it does; Before you start; Updating the software",
+      "evidence_class": "official_bounded_free_software_scope",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Does not prove free payroll operation, suitability for every small employer or complete payroll duties; no tool installed or hardware tested.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    },
+    {
+      "candidate_id": "R5M-C08",
+      "source_ids": [
+        "R5M-S01",
+        "R5M-S02",
+        "R5M-S03",
+        "R5M-S04",
+        "SRC-0107"
+      ],
+      "claim_text": "R05 should distinguish the relevant licence/payroll/payslip/payment quantity, retained work, actual contract version, commitment timing and exit handback. Keep supplier fees separate from ordinary payroll principal and any change in funding timing; compare only relevant incremental effects without double counting.",
+      "locator": "Cross-source analytical application; source-specific locators above",
+      "evidence_class": "researcher_segmented_cost_and_liquidity_design",
+      "population": "Source-specific public declaration or explicitly researcher-designed analysis; no original employer contribution",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Retained originals inspected 29 October 2026; no longitudinal market measurement",
+      "limitations": "Not an accounting rule, interest/float calculation, full-service recommendation, populated forecast or extra mandatory question. An ordinary wage obligation is not automatically a new transformation cost; actual changed amounts/timing remain case-specific.",
+      "review_mode": "Relevant original HTML body captured and inspected; parsed local text retained for navigation, not substituted for raw original",
+      "status": "R05_second_context_candidate"
+    }
+  ]
+}

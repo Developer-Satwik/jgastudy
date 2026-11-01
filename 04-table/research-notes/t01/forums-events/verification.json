@@ -1,0 +1,147 @@
+{
+  "checked_at": "2026-10-29T14:09:06.304738+00:00",
+  "result": "pass",
+  "scope": "Candidate pack technical consistency and source-locator review; not source truth audit or demand validation.",
+  "models": 2,
+  "sources": 10,
+  "claims": 17,
+  "captures": 10,
+  "hash_checks": [
+    {
+      "source_id": "T1FE-S01",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S01",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S02",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S02",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S03",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S03",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S04",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S04",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S05",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S05",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S06",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S06",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S07",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S07",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S08",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S08",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S09",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S09",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S10",
+      "kind": "original_bytes_path",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "source_id": "T1FE-S10",
+      "kind": "parsed_text_path",
+      "exists": true,
+      "sha256_matches": true
+    }
+  ],
+  "json_syntax": "pass",
+  "model_count_exactly_two": true,
+  "claim_source_references": "pass",
+  "raw_and_parsed_separate": true,
+  "pdf_sources_used": false,
+  "source_screening_limit": "Alternative candidates received bounded public route screening; full claims confined to retained primary routes.",
+  "manual_checks": [
+    "All source bodies contain expected substantive organizer text, not a block/login page except deliberately retained public CPO shell.",
+    "Current live sponsor package checked against cached reader discrepancy.",
+    "Future November 2026 event explicitly labelled announced.",
+    "Published offers distinguished from realised results.",
+    "CPO subscription cost not attributed to forum access.",
+    "No sponsor price/VAT, achieved financial return, retention, participant research completion or demand inferred.",
+    "Confidential research rights not inferred from attendance or general community posting.",
+    "No shared/canonical files changed."
+  ]
+}

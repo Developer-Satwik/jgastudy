@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-29",
+  "source_map": {
+    "CTX7-S01": "SRC-0213",
+    "CTX7-S02": "SRC-0214",
+    "SIG7-S01": "SRC-0215",
+    "SIG7-S02": "SRC-0216"
+  },
+  "claim_map": {
+    "PRI7-C01": "CLM-0386",
+    "PRI7-C02": "CLM-0387",
+    "PRI7-C03": "CLM-0388",
+    "PRI7-C04": "CLM-0389",
+    "PRI7-C05": "CLM-0390",
+    "PRI7-C06": "CLM-0391",
+    "PRI7-C07": "CLM-0392",
+    "PRI7-C08": "CLM-0393",
+    "CTX7-C01": "CLM-0394",
+    "CTX7-C02": "CLM-0395",
+    "CTX7-C03": "CLM-0396",
+    "CTX7-C04": "CLM-0397",
+    "CTX7-C05": "CLM-0398",
+    "SIG7-C01": "CLM-0399",
+    "SIG7-C02": "CLM-0400",
+    "SIG7-C03": "CLM-0401",
+    "SIG7-C04": "CLM-0402",
+    "SIG7-C05": "CLM-0403",
+    "SIG7-C06": "CLM-0404",
+    "SIG7-C07": "CLM-0405",
+    "METH7-C01": "CLM-0406",
+    "METH7-C02": "CLM-0407",
+    "METH7-C03": "CLM-0408",
+    "METH7-C04": "CLM-0409"
+  },
+  "new_source_routes": 4,
+  "new_claim_records": 24,
+  "new_source_candidates": 4,
+  "reused_candidate_routes": 0,
+  "original_JGA_participants": 0,
+  "employer_forecasts": 0,
+  "product_tests": 0
+}

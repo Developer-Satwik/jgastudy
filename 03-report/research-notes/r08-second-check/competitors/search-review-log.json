@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R08 evidence object and decision-specific match across all six recruitment comparators and JGA",
+  "original_routes_rechecked": [
+    "SRC-0210",
+    "SRC-0119",
+    "SRC-0115",
+    "SRC-0116",
+    "SRC-0147",
+    "SRC-0192",
+    "SRC-0193",
+    "SRC-0113"
+  ],
+  "queries": [
+    "site:frazerjones.com/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change aosphere interim permanent payroll"
+  ],
+  "fresh_indexed_alias_not_independent_source": "https://www.frazerjones.com/de/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change/",
+  "no_new_route_needed": true,
+  "no_figures_adopted": true,
+  "no_forms_submitted": true,
+  "external_actions": []
+}

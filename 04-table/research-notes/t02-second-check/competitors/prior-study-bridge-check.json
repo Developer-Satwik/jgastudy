@@ -1,0 +1,518 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_narrow_saved_data_integrity_not_fact_validation",
+  "check_count": 126,
+  "checks": [
+    {
+      "name": "S03-C fourproducts two repeats",
+      "passed": true
+    },
+    {
+      "name": "S03-C four products",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-chatgpt-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-claude-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-gemini-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S03-C-perplexity-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C fourproducts two repeats",
+      "passed": true
+    },
+    {
+      "name": "S08-C four products",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-chatgpt-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-claude-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-gemini-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S08-C-perplexity-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C fourproducts two repeats",
+      "passed": true
+    },
+    {
+      "name": "S09-C four products",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r1 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r1 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r1 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r1 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r1 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-chatgpt-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-claude-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-gemini-r2 source status preserved",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r2 exact prompt/hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r2 original full answer hash",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r2 finalindex exact text",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r2 original routing/time metadata",
+      "passed": true
+    },
+    {
+      "name": "S09-C-perplexity-r2 source status preserved",
+      "passed": true
+    }
+  ],
+  "selected_questions": 3,
+  "selected_saved_records": 24,
+  "semantic_rereads": 3,
+  "no_model_reruns": true,
+  "prior_recommendation_counts_reused": false,
+  "bridge_path": "04-table/research-notes/t02-second-check/competitors/prior-study-bridge.json",
+  "bridge_sha256": "122404457bc9fb1a2dbac478272c18416c4d07c7fa8726916c2aefb85190d76e"
+}

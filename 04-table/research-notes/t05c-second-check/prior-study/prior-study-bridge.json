@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-01",
+  "purpose": "Use the earlier constructed AI discovery study to challenge service, geography, engagement and timing premises, without treating generated advice as real demand or cash evidence.",
+  "provenance": [
+    {
+      "role": "all_answers",
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/all-answers.json",
+      "sha256": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719"
+    },
+    {
+      "role": "final_answer_index",
+      "path": "sites/jgafinalcode/dist/data/answer-index.json",
+      "sha256": "940541ab4520d6a00cfae7d038491dcbc72516d999325aada8276027c54c7da2"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "S02-D",
+      "prompt": "We are selecting a retained search partner for a confidential replacement of a UK-based Global Payroll Director. Which firms should we compare, and what would you ask them before allowing approaches to candidates?",
+      "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+      "semantic_reread_answer_id": "S02-D-claude-r1",
+      "semantic_note": "Our prompt already specifies retained confidential search. The selected generated answer suggests stages, expenses and guarantees, including an unverified guarantee range. Treat these as possible questions about an engagement, never evidence of contracted fees, cash dates, a guarantee or permission to approach people.",
+      "answer_links": [
+        {
+          "answer_id": "S02-D-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T11:24:48.122Z",
+          "full_answer_sha256": "bbd5ed80c6906ba7fc61643ea55a2f16a3be370d97fb672a4a0226aa9f26707f",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T11:24:48.094Z",
+          "full_answer_sha256": "4816ff9c81cce4e72ec909c7ff7e69d71b74c70f9d3a44d8606a098f62fb6e2f",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": true,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T11:24:48.127Z",
+          "full_answer_sha256": "437500dd6e422ce0ab66b5b632ab3da34acb930ba3aa676a2ca62c72fe4650c8",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T11:24:48.131Z",
+          "full_answer_sha256": "ccc765476c61ef1a2b287705f61fcc8220ffbbb007778829b470375dd54c0b26",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T19:45:54.169Z",
+          "full_answer_sha256": "0d734501996ed09103b3fa82a0534fd15cac13832b773bbe4383b0a477784748",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T19:45:32.464Z",
+          "full_answer_sha256": "5751f198e7e9e237cda973a5dff0f265d8f79cd70b5a4b262b2dfbddf7a13c0d",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T19:44:55.910Z",
+          "full_answer_sha256": "d2065a55c1fed7378928c1ae4af5ed3003d40ead871076de6051abf0a9f54a65",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S02-D-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T19:46:59.058Z",
+          "full_answer_sha256": "290cac46e23aca5329586949e2e96110959cad84996e472652c5cd1470cee9fa",
+          "prompt_sha256": "906c5e6191b1eee3d2ea23c085a34d8fc63b84e533c2787d6052651c3dbe70b2",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        }
+      ]
+    },
+    {
+      "question_id": "S03-C",
+      "prompt": "Which recruiting firms would you shortlist for a US-based Payroll Director responsible for our US payroll, and what public evidence supports their experience with this kind of hire?",
+      "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+      "semantic_reread_answer_id": "S03-C-perplexity-r1",
+      "semantic_note": "Our question concerns a US domestic payroll director. The answer distinguishes public vacancy evidence from completed placements. Preserve country, actual contracting entity and service scope; neither a UK service page nor a generated US recommendation establishes payment terms, currency, tax treatment, a sale or payroll performance.",
+      "answer_links": [
+        {
+          "answer_id": "S03-C-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "country": "US",
+          "observed_at_utc": "2026-10-19T11:49:25.174Z",
+          "full_answer_sha256": "d376ed362f99e148b05d1a6400bc09c1a15877b25952a21e17a94772f2613754",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "country": "US",
+          "observed_at_utc": "2026-10-19T11:49:25.143Z",
+          "full_answer_sha256": "5c3d57c3fc143187efdf9b4ac80794508bf1d99de2bb5f1f12fe7db74211b86f",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "country": "US",
+          "observed_at_utc": "2026-10-19T11:49:25.164Z",
+          "full_answer_sha256": "80f3290a15fc86486fec3bb1f7dc90c05a0f94a750eace5b386f1561f20db745",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "country": "US",
+          "observed_at_utc": "2026-10-19T11:53:00.818Z",
+          "full_answer_sha256": "d34c93204979467533f5dc7dc6fca754c6538ce1f5e2993afd33618f0dc9a5da",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": true,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "country": "US",
+          "observed_at_utc": "2026-10-20T20:16:26.715Z",
+          "full_answer_sha256": "efc903d601bd937ab65c24a84095c547e1ce758a84ce450f01a1310f29809ba8",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "country": "US",
+          "observed_at_utc": "2026-10-20T20:16:26.740Z",
+          "full_answer_sha256": "c9ffb4d1b99a6e1874d401f05b39a81e2f3936eaef10d89c87deec0a89911745",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "country": "US",
+          "observed_at_utc": "2026-10-20T20:16:08.793Z",
+          "full_answer_sha256": "6eed9819785194dad28db989746971ab07b496e3fc5e5c739cae62d5c3e8201b",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S03-C-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "country": "US",
+          "observed_at_utc": "2026-10-20T20:16:46.707Z",
+          "full_answer_sha256": "ce21ee346d661a7c6db094bba74448e96cba5701e4788362156c53f3451e128a",
+          "prompt_sha256": "0689bf763fb717ecb6bccc064b0c3e360cabad60fe0eebbc7769ea76da163984",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        }
+      ]
+    },
+    {
+      "question_id": "S07-A",
+      "prompt": "Our Payroll Manager has resigned. We are a medium-sized UK employer and need a permanent replacement to run our UK payroll. Which recruitment agencies should we speak to?",
+      "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+      "semantic_reread_answer_id": "S07-A-chatgpt-r2",
+      "semantic_note": "The ordinary UK replacement prompt generates suggestions to brief recruiters and verify payment schedules, fees and guarantees. This supports retaining ordinary buying contexts beside complex searches. It does not observe an employer, prove that JGA won a fee or establish a Table membership/sponsorship sale.",
+      "answer_links": [
+        {
+          "answer_id": "S07-A-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T21:08:14.873Z",
+          "full_answer_sha256": "0623496200b4e643ca40c9226ec0b149d78d05b446d025194f2624c6ee1d0765",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T21:08:14.873Z",
+          "full_answer_sha256": "b79518b122f61096118350f215b99fb7e5156c8270f4a95c22a53aba78b3880e",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T21:08:14.874Z",
+          "full_answer_sha256": "895ee27f6656a70ce2cd807219b8ffd85b6e1eed248b250079f40bbe2ab4f618",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-19T21:08:30.418Z",
+          "full_answer_sha256": "0fa28d77a3081f9810020a154326211de502dbd5ff2d46dabd31c91155879b1f",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T12:14:25.772Z",
+          "full_answer_sha256": "96c3581e9c3da186279e542c7abba46227c658ce21662cf14ffe4c98d55ca807",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": true,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T12:15:05.472Z",
+          "full_answer_sha256": "debc0a2aeb6b000c4d717f6050a6d1f8e4ba58994e8cf2eae9fbd5776b528021",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T12:14:25.891Z",
+          "full_answer_sha256": "2e24e19937e28c2d55f56c10c998597f359c12ec32469cd86022e33b191ee72e",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S07-A-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T12:14:42.691Z",
+          "full_answer_sha256": "d02352c220aec4cb02f8f0f5bf1ce2be0c7e4013735c7dd922853dd4df736ea3",
+          "prompt_sha256": "bd55ef5d3331cb3160f1815881c647ce31100446a8075799e2388e1c4c730b10",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        }
+      ]
+    },
+    {
+      "question_id": "S10-C",
+      "prompt": "Which recruitment firms should we consider for six-month interim Global Payroll Director cover in the UK alongside a permanent leadership search? What should we verify about director-level availability, relevant multi-country experience and the handover between the two hires?",
+      "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+      "semantic_reread_answer_id": "S10-C-claude-r2",
+      "semantic_note": "The answer explicitly cannot verify a current director bench and raises separate interim/permanent scope and handover. Its day-rate, conversion, extension and overlap suggestions remain unverified generated advice. Carry actual concurrent work and separate agreements, not generic rates, overlap weeks or assumed six-month billing.",
+      "answer_links": [
+        {
+          "answer_id": "S10-C-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T01:51:54.667Z",
+          "full_answer_sha256": "1919e41cea125967edbcfd6fa86d55d494f4f81d5b49f70b9e4e304899ae617a",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T01:51:54.664Z",
+          "full_answer_sha256": "97e7e1d349d5c48db8f9f9a734b663b45e64d8ab475c28ddf879421604944652",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T01:51:54.668Z",
+          "full_answer_sha256": "bd291f838f9d19d52a1793c1673b67ce852c24120eee5362aa2dc6de860b4036",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "country": "UK",
+          "observed_at_utc": "2026-10-20T01:53:01.271Z",
+          "full_answer_sha256": "f8d0f4f3e07eae23b2f7de128eb36770cbaefb86f4f84f15720715c59b61a689",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T19:43:44.153Z",
+          "full_answer_sha256": "3261b234ebd97aa7790548faacda2a1a27429f9bafab1da167720f74d00729c8",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T19:43:23.352Z",
+          "full_answer_sha256": "d688c9ee4cde5211ac53c54ac08dd71e7f1fb3bb12c69dac9b46d282ac29006c",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": true,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T19:43:44.255Z",
+          "full_answer_sha256": "e7921100a0ee53ccf61a628cb52b1373db6e46ecba51f6fa3c3f249da17f4f9c",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        },
+        {
+          "answer_id": "S10-C-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "country": "UK",
+          "observed_at_utc": "2026-10-21T19:44:04.800Z",
+          "full_answer_sha256": "0c840d8341f5424749f4d90681f213c63eb48eb0a00b946bec01486136c069de",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "semantic_reread_for_this_review": false,
+          "adopted_as_observed_buyer_or_financial_evidence": false
+        }
+      ]
+    }
+  ],
+  "linked_saved_answers": 32,
+  "semantic_rereads": 4,
+  "model_reruns": 0,
+  "new_demand_or_cost_estimates": false
+}

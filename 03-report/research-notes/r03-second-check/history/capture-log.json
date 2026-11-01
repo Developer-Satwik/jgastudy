@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H3-ALIAS01",
+      "url": "https://www.gov.uk/payroll-annual-reporting",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/payroll-annual-reporting",
+      "capture_path": "03-report/research-notes/r03-second-check/history/H3-S01.html",
+      "sha256": "892dd2cb4b6033dc0b6103b3a1dc710f38fc09ce4ce6ac86a1f455d0ec4a3df6",
+      "bytes": 83920,
+      "status": "retained_original_html"
+    },
+    {
+      "candidate_id": "H3-S02",
+      "url": "https://learning.sap.com/courses/cloud-onboarding-for-sap-successfactors-hcm/understanding-sap-successfactors-hcm-product-release-cycles",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://learning.sap.com/courses/cloud-onboarding-for-sap-successfactors-hcm/understanding-sap-successfactors-hcm-product-release-cycles",
+      "capture_path": "03-report/research-notes/r03-second-check/history/H3-S02.html",
+      "sha256": "0baa196f57eaf8d1006acfc80693a6489b2d97b1ddf4f03393055da4056c9778",
+      "bytes": 136478,
+      "status": "retained_original_html"
+    },
+    {
+      "candidate_id": "REUSE-CIPP2020",
+      "url": "https://online.flippingbook.com/view/903316/13/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://online.flippingbook.com/view/903316/13/",
+      "capture_path": "03-report/research-notes/r03-second-check/history/REUSE-CIPP2020.html",
+      "sha256": "1357838bdf4fda8995ce3c0880e454b181b48bc225944d8b0ad5e2ed2b12c761",
+      "bytes": 86395,
+      "status": "retained_original_html"
+    },
+    {
+      "candidate_id": "REUSE-CIPP2022",
+      "url": "https://online.flippingbook.com/view/1017671823/9/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://online.flippingbook.com/view/1017671823/9/",
+      "capture_path": "03-report/research-notes/r03-second-check/history/REUSE-CIPP2022.html",
+      "sha256": "eef0dbd3d155d42bbdec5e770570cf33bbeca71ce61f9534de60e05625f6ba2e",
+      "bytes": 86685,
+      "status": "retained_original_html"
+    },
+    {
+      "candidate_id": "REUSE-CIPP2024",
+      "url": "https://online.flippingbook.com/view/706203142/7/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://online.flippingbook.com/view/706203142/7/",
+      "capture_path": "03-report/research-notes/r03-second-check/history/REUSE-CIPP2024.html",
+      "sha256": "d563f78062f3175fcb78f325ac4097cdee2bfc396b1c19a44557610ab0ce005a",
+      "bytes": 84490,
+      "status": "retained_original_html"
+    },
+    {
+      "candidate_id": "H3-S01",
+      "url": "https://www.gov.uk/payroll-annual-reporting/update-software",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/payroll-annual-reporting/update-software",
+      "capture_path": "03-report/research-notes/r03-second-check/history/H3-S01-update.html",
+      "sha256": "3095add8d7b49c47b51ec473316f75359c59afde40adce1ce2b2b80908162616",
+      "bytes": 71490,
+      "status": "retained_original_html"
+    }
+  ]
+}

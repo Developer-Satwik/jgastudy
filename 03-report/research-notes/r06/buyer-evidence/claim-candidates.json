@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "BUY6-C01",
+      "source_ids": [
+        "SRC-0070"
+      ],
+      "claim_text": "CIPP2024 preserves a response combining no current software change with satisfaction with the existing software. This counters an assumption that every retained arrangement reflects a blocked or dissatisfied buyer.",
+      "evidence_class": "published_self_report_context",
+      "locator": "Printed7 software functionality; fresh hosted-text lines44–57",
+      "population": "Mixed UK payroll professionals across in-house/provider teams; item base and exact fieldwork not established",
+      "limitations": "No percentage adopted. A combined response label is not proof of an actual renewal, verified fit, no unmet need or UK employer prevalence.",
+      "review_mode": "Relevant fresh original HTML text inspected; Moorepay chart assetsV2-02/03/05 visually inspected where relevant",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": null
+    },
+    {
+      "candidate_id": "BUY6-C02",
+      "source_ids": [
+        "SRC-0070"
+      ],
+      "claim_text": "The same CIPP software item distinguishes reported recent implementation, current tendering, future exploration and no change. These are different states; tendering or exploration is not evidence of funded approval or subsequent delivery.",
+      "evidence_class": "published_question_design_boundary",
+      "locator": "Printed7 software functionality; question and response categories",
+      "population": "Mixed UK payroll professionals; exact respondent role and item bases unavailable",
+      "limitations": "No count/percentage or transition probability adopted. Item mixes time frames and does not reconstruct one employer decision chronology.",
+      "review_mode": "Relevant fresh original HTML text inspected; Moorepay chart assetsV2-02/03/05 visually inspected where relevant",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": null
+    },
+    {
+      "candidate_id": "BUY6-C03",
+      "source_ids": [
+        "SRC-0011",
+        "SRC-0031"
+      ],
+      "claim_text": "Moorepay asks experienced switchers about ease while separately reporting reasons from respondents who considered but did not change. Experienced ease and anticipated effort should not be treated as the same measure or evidence that non-switchers acted irrationally.",
+      "evidence_class": "published_self_report_and_analytical_boundary",
+      "locator": "Annual findings6–7, methodology and V2-02/03/05; guideChapter1",
+      "population": "445 mixed payroll/HR/finance roles in-house, outsourced and bureau contexts; item routing/base unavailable",
+      "limitations": "Convenience/contact/ad recruitment, not senior-buyer prevalence or a longitudinal cohort. Retain existing direction/barrier conflictsCLM0051/0052; no causal technology/competition explanation or clean prevalence headline adopted.",
+      "review_mode": "Relevant fresh original HTML text inspected; Moorepay chart assetsV2-02/03/05 visually inspected where relevant",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": null
+    },
+    {
+      "candidate_id": "BUY6-C04",
+      "source_ids": [
+        "SRC-0011",
+        "SRC-0031"
+      ],
+      "claim_text": "The Moorepay material lists effort, convenience, incentive, funding, risk and an unspecified other category among non-change explanations. These are possible case prompts, not a reason ranking to impose on participants or evidence that funding is generally unimportant.",
+      "evidence_class": "published_source_context_with_conflict_guardrail",
+      "locator": "Annual finding7, chartV2-02 and changing-provider guideChapter1",
+      "population": "Mixed survey respondents; exact reason-item base/routing unestablished",
+      "limitations": "Conflicting annual prose, chart and guide values remain held. No amounts, percentages, trend, averaged correction or assurance that a suggested vendor remedy works.",
+      "review_mode": "Relevant fresh original HTML text inspected; Moorepay chart assetsV2-02/03/05 visually inspected where relevant",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": null
+    },
+    {
+      "candidate_id": "BUY6-C05",
+      "source_ids": [
+        "BUY6-S01"
+      ],
+      "claim_text": "Azets E2 asks which conditions would most likely trigger a change of provider or setup. Opportunity, growth, wider transformation, failure, unmet needs and dissatisfaction are candidate conditions, not verified reasons behind completed switches. Its separate recent-review statement does not establish what decision followed.",
+      "evidence_class": "published_question_tense_and_event_boundary",
+      "locator": "PDF/printed13 E2; methodPDF/printed2/32",
+      "population": "205 senior/C-suite/payroll decision-makers across6markets, May2026; overall country counts known, item-valid bases/routing unavailable and pooled sample skewed to large organisations",
+      "limitations": "No percentages or ordering transferred. Later article wording must not convert hypothetical triggers into actual switch histories, UK prevalence or causal drivers. Review, consideration, approval and implementation remain separate.",
+      "review_mode": "Original AzetsPDF relevant pages2/13/29/30/32 rendered and visually inspected; no statistical/fieldwork validation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": "What would most likely trigger your organisation to change its payroll provider or setup?"
+    },
+    {
+      "candidate_id": "BUY6-C06",
+      "source_ids": [
+        "BUY6-S01"
+      ],
+      "claim_text": "Azets L1 records provider-factor importance and L2 asks what extra value could justify a premium. These can inform relevant evidence and service questions but do not establish a budgeted purchase, actual price paid, willingness at a specified price or supplier-caused outcome.",
+      "evidence_class": "published_attitudinal_and_conditional_preference_boundary",
+      "locator": "PDF/printed29 L1 and30 L2; methodPDF/printed2/32",
+      "population": "Senior/C-suite/payroll decision-maker survey; full item population/routing unavailable",
+      "limitations": "No premium amount, price elasticity, comparator ranking or actual purchase inferred. Underlying microdata/statistics not audited; expert commentary remains distinct from survey answers.",
+      "review_mode": "Original AzetsPDF relevant pages2/13/29/30/32 rendered and visually inspected; no statistical/fieldwork validation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": null
+    },
+    {
+      "candidate_id": "BUY6-C07",
+      "source_ids": [
+        "SRC-0012"
+      ],
+      "claim_text": "SD Worx2026 UK publication distinguishes current payroll delivery arrangements from preferred models over the following three years. Future preference is not completed outsourcing, approved spend or evidence that the same employer will change.",
+      "evidence_class": "published_current_state_versus_future_preference_boundary",
+      "locator": "Release opening/current-and-future model paragraphs; methods",
+      "population": "305 UK HR decision-makers;27January–20February2026; wider16-country HR/employee study context",
+      "limitations": "No published percentages, market forecast, preference-to-action conversion or within-employer transitions adopted. Provider-funded self-report and source-defined model terminology retained.",
+      "review_mode": "Relevant fresh original HTML text inspected; Moorepay chart assetsV2-02/03/05 visually inspected where relevant",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Source-specific dates as recorded; fresh review29October2026",
+      "question_wording": null
+    }
+  ],
+  "new_numerical_estimates": 0
+}

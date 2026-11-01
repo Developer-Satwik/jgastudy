@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R7R-S01",
+      "title": "Government Functional Standard GovS 005: Digital (HTML)",
+      "publisher": "Government Digital Service",
+      "url": "https://www.gov.uk/government/publications/government-functional-standard-govs-005-digital/government-functional-standard-govs-005-digital-html",
+      "source_type": "government_digital_service_lifecycle_standard",
+      "published_date": null,
+      "updated_date": "2026-10-01",
+      "date_note": "Displayed HTML update date; not observed employer implementation.",
+      "population": "Government digital/data activity and internal/public service lifecycle within its stated scope",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Normative public management standard, not payroll provider demand research",
+      "review_status": "relevant_original_html_sections_inspected",
+      "capture_path": "03-report/research-notes/r07-second-check/root/captures/R7R-S01.html",
+      "capture_sha256": "54dbc951ce0cfc51f941202169be10aace1a9afa635e918d11ff03087f7a6058",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/root/captures/R7R-S01.txt",
+          "sha256": "e07b2a024ef426e59ce77a7dc8f667645a337b94677f1df64170b586f5dbb8f9",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Use principles of evidence, user outcomes, iterative improvement and cross-service dependencies. Not observed payroll practice, legal mandate for private firms, fixed review cadence for this project, independent software validation or an actual priority ranking."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0153",
+      "url": "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+      "locator": "Sections3.3,5.3.3–5.3.7,7.4",
+      "review_status": "fresh_browser_parsed_original_sections_and_selected_notes",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/root/captures/SRC-0153-selected-reader-notes.txt",
+          "sha256": "ff91481ab84a8a34437229a7fd008de5c2d193876ba43f2f64eb4cd83c9f3180",
+          "kind": "selected_reader_notes"
+        }
+      ],
+      "review_result": "Rechecked ongoing work, existing components, dependencies, capacity, monitoring and periodic review as scoped normative context.",
+      "limitations": "Direct raw retrieval403; selected live-reader note remains distinct from original. Government framework does not prove employer behaviour, investment priority, numerical cost or a need to recruit."
+    }
+  ]
+}

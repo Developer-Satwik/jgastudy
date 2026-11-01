@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "ROOT6-S01",
+      "url": "https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works",
+      "retrieved_at_utc": "2026-10-28T22:41:58.717346+00:00",
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S01.html",
+      "sha256": "ef5958935c136cd852b5b38ae5e06db73b2365a3c8c5888dcb860bd42746df30",
+      "text_path": "03-report/research-notes/r06/root/captures/ROOT6-S01.txt",
+      "text_sha256": "7d3c41ecb5caab14c77a5d8f22fd2d90d17e204501c570bd4b9ef25d6c72565e"
+    },
+    {
+      "candidate_id": "SRC-0130",
+      "url": "https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22",
+      "retrieved_at_utc": "2026-10-28T22:41:59.702757+00:00",
+      "path": "03-report/research-notes/r06/root/captures/SRC-0130.html",
+      "sha256": "73736c1d16aa64b7e18c1d3f1171815d7ccc30d645ae40324678d7dfcee1010d",
+      "text_path": "03-report/research-notes/r06/root/captures/SRC-0130.txt",
+      "text_sha256": "07ac71b1ed953c1ad7fec1e00127120719c4c973c97939a175c2b673b4109d23"
+    },
+    {
+      "candidate_id": "ROOT6-S02",
+      "url": "https://www.theoep.org.uk/sites/default/files/reports-files/OEP%20Board%2029%20January%20-%20CEO%20Report.pdf",
+      "http_status": 200,
+      "final_url": "https://www.theoep.org.uk/sites/default/files/reports-files/OEP%20Board%2029%20January%20-%20CEO%20Report.pdf",
+      "retrieved_at_utc": "2026-10-28T22:43:43.273982+00:00",
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02.pdf",
+      "sha256": "e6b99f5672202487ce54bcff55b06b4e833c319097991887a16ed15d187be66e",
+      "text_path": "03-report/research-notes/r06/root/captures/ROOT6-S02.txt",
+      "text_sha256": "a2951953a9618c008b8e84fd8f5f4a8004318624b7120e68b5744ad7a3543947",
+      "page_count": 10,
+      "reviewed_pages": [
+        1,
+        8
+      ],
+      "rendered_pages": [
+        {
+          "page_one_based": 1,
+          "path": "03-report/research-notes/r06/root/captures/ROOT6-S02-cover.png",
+          "sha256": "80a071c298e1490c07d70ae516cfaeb2abfa6c50b37fcd9e5ad1b0e9371dc82c",
+          "visually_reviewed": true
+        },
+        {
+          "page_one_based": 8,
+          "path": "03-report/research-notes/r06/root/captures/ROOT6-S02-p8.png",
+          "sha256": "0ba8822a734100b903cf8ac0fb894ab29b5e9bf6bb8794ce982b8a1bbfa54226",
+          "visually_reviewed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-30",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0190",
+      "url": "https://www.theportfoliogroup.com/added-value/",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487035+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable_not_source_evidence",
+      "locator": "Prior29October catalogue note73–78/133–140: salary/hiring resources and lead-capture route; current full reader timed out.",
+      "review_result": "Salary/hiring-resource catalogue shows an alternative to broad trend content, not current report methods, a licence tariff or reader demand.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+          "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+          "kind": "prior_selected_original_reader_notes_not_raw_original"
+        }
+      ],
+      "review_status": "prior_reader_note_rechecked_fresh_access_failed"
+    },
+    {
+      "source_id": "SRC-0221",
+      "url": "https://www.frazerjones.com/market-insight/payroll/how-to-build-and-retain-a-high-performing-payroll-team-leadership-insights-from-andrea-wraight-head-of-pay-benefits/",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487422+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable_not_source_evidence",
+      "locator": "Prior29October original-reader180–225:10April2025 written summary of AndreaWraight leadership interview; fresh full access403.",
+      "review_result": "A named practitioner interview summary is an existing learning format; it does not create permission to reuse quotations or qualify as original Table input.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+          "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+          "kind": "prior_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "review_status": "prior_reader_note_rechecked_fresh_access_failed"
+    },
+    {
+      "source_id": "SRC-0222",
+      "url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487517+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "capture_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.html",
+      "capture_sha256": "607404c401d15243345300ff5af8d48744a57da44a2c653f8673c43de16c4b17",
+      "text_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.txt",
+      "text_sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+      "capture_kind": "retained_original_html",
+      "locator": "Original body:17March2026 MarketOverview and recent payroll-event account; parsed lines13–21",
+      "review_result": "Provider describes a recent payroll event and public market commentary; this challenges novelty of convening, not the distinct value or quality of The Table.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_status": "fresh_original_html_and_separate_text_inspected"
+    },
+    {
+      "source_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487575+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "850cc5e4da735e5139d2fb07359103ec627f3d39c79822e913b190878c1ba0d8",
+      "text_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+      "capture_kind": "retained_original_html",
+      "locator": "Original PayrollSearch team/support and PostProjectReport; parsed lines15–27",
+      "review_result": "Post-search recruitment analytics and tailored client advice demonstrate another interpretation/output unit; not a syndicated payroll operating benchmark.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_status": "fresh_original_html_and_separate_text_inspected"
+    },
+    {
+      "source_id": "SRC-0192",
+      "url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487628+00:00",
+      "http_status": 200,
+      "final_url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "capture_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.html",
+      "capture_sha256": "b23c9bbe42c30e6edbcc2a2826ef98683b653b7f0190947a7e51ea40d2bafae0",
+      "text_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.txt",
+      "text_sha256": "7c3c3be633a81ac92899cb625a7a5bc59c693333301ea79f53b06792ed4ff66f",
+      "capture_kind": "retained_original_html",
+      "locator": "Guide access/current2026label and method:2025 salary inputs and survey periods; originalreader35–38/107–109",
+      "review_result": "Salary/recruiting guide access serves a specific pay/hiring task; edition and fieldwork periods differ. No numeric inputs or tariff adopted.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred. Raw HTML is a Ceros shell; derived text only title. Rendered body review is represented only by the separately labelled reader note, not a complete raw-method capture.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_status": "fresh_primary_reader_body_inspected_raw_shell_retained",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt",
+          "sha256": "68703795ba527d4bf660b40d6d2c49a141fe52b2da29c826b032219b80dda46e",
+          "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0193",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487679+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "ae0f24618070e4007f6d29e943449b67d6e122bf37ba8ccff77291eea6228410",
+      "text_path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.txt",
+      "text_sha256": "ed88f7286b7711fbda1ba28dc82faf287252d903a96969868179c3e8106de0ab",
+      "capture_kind": "retained_original_html",
+      "locator": "Public projected2027guide, customised salary consultation and distinctmethod; originalreader69–76/84–110",
+      "review_result": "Public guide is paired with customised interpretation/contact routes; that architecture is not proof of a standalone intelligence purchase or conversion.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_status": "fresh_original_html_and_separate_text_inspected"
+    },
+    {
+      "source_id": "SRC-0088",
+      "url": "https://jgarecruitment.com/the-payroll-podcast/",
+      "retrieved_at_utc": "2026-10-30T01:56:19.487726+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable_not_source_evidence",
+      "locator": "Fresh primary reader2–23: podcast proposition and subscription/archive routes; raw403.",
+      "review_result": "JGA already distributes expert payroll conversations publicly. The Table can examine deeper decision-case exchange rather than assume expert access/publishing itself is unique.",
+      "limitations": "Publisher-declared offer/content or explicitly retained prior note. No original Table/report contributor, market-demand rate, commercial return, fee or publication licence inferred.",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+          "sha256": "eb59848d05695483b5a3a44b306a2c7343264ce02a52a036dd6af8c1c8e9bcbb",
+          "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "review_status": "fresh_primary_reader_sections_inspected_raw_unavailable"
+    }
+  ],
+  "new_source_routes": 0,
+  "new_independent_datasets": 0
+}

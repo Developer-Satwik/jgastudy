@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Dated planning context and actual organisational commitment kept separate",
+  "queries": [
+    "CurrentHMRCpayrollingBiKmanual/default/phased/getready",
+    "site.gov.uk statutorysickpaychanges6April2026 employers lowerearningslimit waitingdays",
+    "site.powys.moderngov.co.uk capital2026 implementationlead",
+    "site.rotherham.gov.uk procurementnewHRsystem2025"
+  ],
+  "inspected": [
+    "FourfreshHMRCBiKmanualoriginals",
+    "HMRCSSPtransitionguidance",
+    "AcascurrentSSPguidance",
+    "RetainedSynergyprogrammeandfinanceoriginalsections"
+  ],
+  "exclusions": [
+    {
+      "url": "https://www.legislation.gov.uk/uksi/2026/373/made",
+      "reason": "RawHTTP202empty payload; readerunsupportedXHTML. OfficialXMLrepresentation alsoHTTP202empty. Searchindex lead not counted as inspected legal original."
+    },
+    {
+      "url": "https://powys.moderngov.co.uk/documents/g9862/Public%20reports%20pack%2019th-May-2026%2011.00%20Cabinet.pdf?T=10",
+      "reason": "Raw403, no full original inspected; searchlead not claimbasis. StandaloneQ2PDF also403."
+    },
+    "No commercialnews/forum interpretations or numericalrates/costestimates adopted",
+    "No later service availability, employercompliance or spending inferred from publisheddates"
+  ],
+  "pdf_skill_read": true,
+  "pdf_claims_relied_on": false,
+  "external_actions": []
+}

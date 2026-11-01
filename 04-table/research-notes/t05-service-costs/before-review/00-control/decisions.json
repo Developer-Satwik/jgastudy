@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "decision_id": "DEC-001",
+      "date": "2026-10-28",
+      "status": "working_method",
+      "decision": "Use current agreement and latest acceptance as scope baseline; earlier notes are historical",
+      "basis": "User reports signature/payment; latest agreement and email reviewed",
+      "requires_client_approval": false
+    },
+    {
+      "decision_id": "DEC-002",
+      "date": "2026-10-28",
+      "status": "proposed_for_client_review",
+      "decision": "UK-relevant senior employer-side payroll population with international responsibilities as context",
+      "basis": "Working alignment with proposed readership and access, not yet agreed",
+      "requires_client_approval": true
+    },
+    {
+      "decision_id": "DEC-003",
+      "date": "2026-10-28",
+      "status": "working_method",
+      "decision": "Keep one source/evidence system for both workstreams and use topic-specific memos",
+      "basis": "Traceability and efficiency requested by user",
+      "requires_client_approval": false
+    },
+    {
+      "decision_id": "DEC-004",
+      "date": "2026-10-28",
+      "status": "dependency_open",
+      "decision": "Confirm formal kickoff, checkpoint and completion dates with Nick",
+      "basis": "No date confirmation in reviewed material",
+      "requires_client_approval": true
+    },
+    {
+      "decision_id": "DEC-005",
+      "date": "2026-10-28",
+      "status": "working_design_recommendation",
+      "decision": "Use existing evidence as context and test a recent-case need-to-investment contribution; do not claim the buying topic is unexplored.",
+      "basis": "R01 source audits and FND-001 to FND-006",
+      "requires_client_approval": true
+    },
+    {
+      "decision_id": "DEC-006",
+      "date": "2026-10-28",
+      "status": "proposed_for_client_review",
+      "decision": "Propose an eight-chapter report and fourteen core practitioner questions, including a no-case route and separate decision, option and delivery fields.",
+      "basis": "R01 design findings, question review and eight internal synthetic routing checks; no participant validation yet.",
+      "requires_client_approval": true
+    },
+    {
+      "decision_id": "DEC-007",
+      "date": "2026-10-28",
+      "status": "working_design_recommendation",
+      "decision": "Preserve the14core and8chapters; add pre-proposal and benefit-realisation probes, careful gap classification and a bounded historical/conditional outlook before external sharing.",
+      "basis": "Second challenge readout and FND-007 to FND-011; no participant evidence or client approval implied.",
+      "requires_client_approval": true
+    },
+    {
+      "decision_id": "DEC-008",
+      "date": "2026-10-29",
+      "status": "internal_design_method",
+      "decision": "For Table feasibility, distinguish the research-use licence, funding-partner benefits and practitioner participation; assess event value incrementally and permit a separately defined transparent research/access combination without default private-data or meeting rights.",
+      "basis": "T01 six public mechanisms and independent desktop review; four T02 hypotheses remain untested. No launch, price, partner or rights terms adopted.",
+      "requires_client_approval": false
+    },
+    {
+      "decision_id": "DEC-009",
+      "date": "2026-11-01",
+      "status": "internal_cost_planning_method",
+      "decision": "Retain the first T05 research/staffing workbook as a named comparison and apply the five reviewed cost/delivery conditions to remaining work. Do not convert incompatible rate histories, worldwide ranges, public asset availability or planned AI support into actual supplier pricing or assumed savings.",
+      "basis": "T05R second challenge, source-scoped primary context, ten constructed applications and independently checked prior-answer lineage. No delivery route, new charge, procurement or fieldwork adopted.",
+      "requires_client_approval": false
+    }
+  ]
+}

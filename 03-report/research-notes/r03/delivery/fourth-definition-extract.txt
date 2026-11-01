@@ -1,0 +1,1381 @@
+
+PAGE 1
+Payroll Bureau Service Definition 
+ 
+Purpose 
+ 
+Fourth’s Payroll Bureau Services provide various payroll  and pension services and solutions, including processing 
+employees' wages and offering expert support and knowledge on payroll and pension legislation.  
+ 
+Fourth and the Customer will work jointly: - 
+ 
+• To maintain seamless service operations. 
+• To ensure accuracy, high quality and a timely production. 
+• To support the Customer to fully comply with all payroll and pension -related regulatory and statutory 
+obligations. 
+• To keep lines of communication open between the parties. 
+• To measure, review and maintain service quality. 
+ 
+ 
+ 
+  
+
+PAGE 2
+Contents 
+ 
+Contents 
+Documentation 
+Scope of the document 
+Changes to the document 
+Payroll Packages  
+Payroll 
+ Service summary 
+Knowledge Service 
+Payroll Timetable, Data Format and Annual Events Calendar 
+Self-managed payroll  
+Payroll Bureau processing services 
+Communication 
+Payroll Amendments 
+Fourth Responsibilities 
+Customer Responsibilities 
+Overpayment Process  
+BACS Processing Services  
+Customer responsibility 
+Fourth Responsibility  
+BACS  
+Change of Bank Details 
+Non-Bacs Customer 
+BACS Customer 
+Withdrawing a BACS File 
+HMRC Payments  
+Fourth responsibilities  
+Customer responsibilities  
+Pension Auto Enrolment Managed Service (AEMS) 
+Service Summary 
+Communication 
+Delegate Access 
+Customer Contacts 
+ Pension Timetable and Bank Holiday 
+Opt-In and Opt-Out Notices 
+Pension Refund 
+
+PAGE 3
+Pension Letters 
+3 Year Re-enrolment  
+Customer responsibilities  
+Fourth responsibilities  
+Error Management  
+Customer correction  
+Fourth correction  
+Pension Provider correction  
+Additional AEMS Information 
+Pension – Non-Auto Enrolment Managed Service (AEMS) 
+Fourth Responsibilities 
+Customer Responsibilities 
+ Processing Pension Data – Fourth’s Pension Module 
+Additional Services 
+Additional BACS file  
+Year end services (P60/P11D) 
+P11D Service  
+P60s 
+Manual Calculations for customer error  
+Statement of Earnings (SOE) 
+Adhoc work requests  
+Payroll and employee rollback  
+Charges 
+Payroll and Pension Implementation 
+ 
+  
+
+PAGE 4
+Documentation 
+ 
+Scope of this document  
+ 
+This document outlines Fourth’s Payroll Bureau Services, detailing the tra nsition process and ongoing service 
+delivery during the contract period.  This document also outlines the different package variations and spe cifies the 
+services to be provided within each package. 
+ 
+By signing the Agreement of which this is an annex,
+ the Customer accepts this document as the current definition 
+of the service which is subject to change based on best practices and procedures.  
+ 
+The operational processes and procedures relating to your live Payroll Bureau solution will be documented in the 
+Payroll Procedures Manual (PPM), which is prepared during the  project stage but any conflict shall be resolved in 
+favour of 1. the Payroll Bureau Service Agreement 2. the Payroll Bureau Service Definition (this Document). 
+ 
+ 
+Changes to this document  
+ 
+This document is produced by Fourth and any amendments to the document will be made by Fourth.  This document 
+has been written based on current best practices.  Fourth constantly assesses best practices and therefore reserves 
+the right to make amendments to this document which may change the way that the service is delivered. By entering 
+into the Agreement with Fourth the Customer accepts that the Payroll Bureau Services being delivered are subject 
+to change including the service and module summaries contained within this service definition or otherwise. 
+  
+
+PAGE 5
+Payroll Service Packages 
+ 
+Fourth provides four Payroll Service s p ackages. This document sets out the Payroll Bureau S ervices available  
+pursuant to those packages . This includes both managed (Payroll Bureau) and self-managed payroll services and 
+solutions.  
+ 
+The table below details the contents of each package. Customer’s payroll package shall be indicated on its Order 
+Form.  
+ 
+Where Customer’s Agreement is not based on a Payroll Service Package its Agreement shall comprise the individual 
+modules or services specified on its Order Form only. 
+ 
+  
+  Payroll Bureau   Self-Managed Payroll 
+  Foundation Professional  Essentials Essentials+ 
+Integrated Payroll Module  ✓ ✓  ✓ ✓ 
+Integrated Pension Module  ✓ ✓  ✓ ✓ 
+Knowledge Service  ✓ ✓  ✓ ✓ 
+Payroll Processing  ✓ ✓    
+Basic Payroll processing checks  ✓ ✓    
+Advanced Payroll processing 
+checks   ✓    
+Dedicated payroll Specialist   ✓    
+Biannual Service reviews   ✓    
+HMRC Payments   ✓   ✓ 
+Auto-Enrolment Managed 
+Service   ✓   ✓ 
+Year end Services (P60 and/or 
+P11D)   £ £  £ £ 
+Payrolling Benefits in Kind 
+Service  £ £  £ £ 
+On Demand pay  ✓ ✓  ✓ ✓ 
+ 
+
+PAGE 6
+ 
+ 
+ 
+   
+Description 
+Knowledge Service • Dedicated Q&A service for Fourth Payroll customers. The Bureau team will 
+support with payroll, system and appropriate legislation questions 
+Integrated Payroll Module 
+• Payroll processing functionality 
+• Electronic access to pay slips for employees 
+• Fully integrated with Fourth workforce management solutions 
+• Real-time syncs with HR, scheduling and tronc. Remove the complexity of 
+manually calculating deductions, holiday pay etc. across staff working 
+variable shift patterns. 
+Integrated Pension Module 
+• The Fourth Pension Module automatically evaluates and enrolls workforce 
+requirements. 
+• Deliver statutory pension documentation promptly and efficiently using our 
+comprehensive document management functionality. 
+• The Pension Module offers a variety of reports and exports, facilitating 
+efficient and precise reporting. 
+• A dedicated API is available with NEST Pensions, designed to automatically 
+and securely upload employee contribution data. 
+ 
+Payroll Processing service 
+• CIPP award-winning technology and payroll specialists have been providing 
+exceptional service for over 20 years specifically to the hospitality industry 
+• A robust approval and closure process is followed to ensure all payments 
+are approved by customers before the completion of the payroll 
+• A customer satisfaction survey is provided after each payroll is completed to 
+gain your feedback.  
+• No requirement for a customer to have an in-house personnel/ team 
+• Generate pay slips automatically with easy and secure access for employees 
+via employee self service mobile app 
+Basic Payroll processing 
+checks 
+• A standard, hospitality-specific, checking process is completed for payrolls 
+processed  
+Advanced Payroll processing 
+checks 
+• A comprehensive 37-point checking process completed for every payroll 
+processed including new starts, leavers, tax changes, rota checks. 
+Dedicated Payroll Specialist 
+• Dedicated Specialist assigned to your account who is available to support 
+you in all aspects of payroll processing  
+• Support from the wider bureau team to ensure year-round service and the 
+ability to scale up as your grow your business. 
+
+PAGE 7
+Biannual Service reviews • Bi-annual Payroll Service Review*** 
+HMRC Payments 
+• HMRC BACS Payments - Guaranteed all RTI information will be 
+sent accurately and on-time to HMRC. 
+• Management of PAYE liabilities, guaranteed payments for the amounts due 
+to HMRC each month 
+Payrolling Benefits in Kind 
+Service 
+• Enables employers to tax employee benefits in real time through payroll 
+rather than relying on annual P11D submissions. 
+• Configuration and benefit data input, group and employee setup 
+ 
+***Fourth conducts service reviews for customers biannually as required. 
+ 
+
+PAGE 8
+Payroll  
+All Payroll Service Packages include access to the payroll module. 
+ 
+Payroll Bureau Processing Services are included where indicated within a package or order form (marked as Payroll 
+on an Order).  
+ 
+Benefits in kind are excluded from scope of all Payroll Bureau Services unless Customer has an active subscription 
+for (i) PBIK Processing Services for relevant employees (and then subject to the provisions of this document setting 
+out the scope of such services) or (ii) the PBIK Module (which will include access to self-managed functionality as 
+an add-on to the Payroll Module only). The stand-alone PBIK Module will be made available from 2027 and an 
+update to this document will be issued ahead of this date. 
+ 
+  
+
+PAGE 9
+Service Summary 
+ 
+ 
+ 
+* Creation and submission of BACS files for Essentials and Essentials+ is an opt-in service 
+
+PAGE 10
+** Benefits in kind are excluded from scope of all Payroll Bureau Services unless Customer has an active 
+subscription for (i) PBIK Processing Services for relevant employees (and then subject to the provisions of this 
+document setting out the scope of such services) or (ii) the PBIK Module (which will include access to self-
+managed functionality as an add-on to the Payroll Module only). The stand-alone PBIK Module will be made 
+available from 2027 and an update to this document will be issued ahead of this date. 
+ 
+ 
+Knowledge Service 
+ 
+Fourth provides a knowledge service to all customers, irrespective of their package. Customers can reach out to the 
+Payroll Bureau for guidance.  
+ 
+The Payroll Specialist will guide customers on system tasks or direct them to t he Customer Success Portal, which 
+contains various helpful articles.  
+ 
+Fourth does not offer legal advice or advice on necessary legislative actions within your business. Where applicable 
+the team may be able to guide you to the appropriate legislation to complete your own due diligence.  
+ 
+The Fourth Payroll Bureau is available for guidance only and cannot pe rform any tasks within your portal for 
+Essentials and Essentials+ customers. 
+ 
+If payroll errors occur, Fourth will charge a correction fee and corrections wil l be made based on availability for 
+Essentials and Essentials+ customers.   
+ 
+For system errors, the Customer must submit a ticket in the Customer Success Portal. 
+ 
+  
+
+PAGE 11
+Payroll Timetable, Data Format and Annual Events Calendar 
+ 
+Annual Events: 
+ 
+Date  Event   
+Q1 Revised annual timetable will be sent to the Customer for approval 
+Q1 Year End communication will be sent to the Customer 
+Q1 P60 and P11D Communication will be sent to the Customer 
+Q1 
+Where applicable Fourth will contact the Customer regarding the timetable for Easter Bank 
+Holiday 
+Q2 Portal roll forwards 
+Q2 Year End checks 
+Q2 P60s will be produced and distributed 
+Q3/4 P11D’s will be distributed 
+Q3/4 Fourth will contact the Customer requesting December pay dates 
+ 
+ 
+Government Agencies    
+ 
+Fourth will assist the Customer, wherever practical, in the communication of payroll-related information to and from 
+Government Agencies (providing that such enquiries relate to items from the date which the Payroll Bureau Services 
+commenced). This will normally encompass start and leav ing dates, periods of employment and amounts 
+paid/deducted via the payrolls processed by Fourth.  This documentation will be  passed back to the Customer to 
+complete, sign and send to the relevant Government Agencies.   
+ 
+Timetables 
+ 
+Before the start of each tax year, Fourth will provide a revised annual timetable to the primary payroll contact. The 
+Customer is expected to review all dates and issue written confirmation to Fourth. In th e absence of written 
+confirmation or amendments from the Customer, Fourth will assume the dates in the timetable, including pay dates, 
+are correct and will use these dates to schedule payroll data.    
+ 
+ 
+Timetable Title  Description   
+Paperwork Deadline All paperwork must be submitted to Fourth by this date and time. Paperwork  includes 
+Statutory Parental Documentation, AEO’s and P45’s only. 
+Rota/Upload Deadline 
+All payroll data including timesheet submission and payroll uploads must be submitted to  
+Fourth by this date and time. All Rota/Tronc Funds must be closed by this date and tim e to 
+ensure the payroll is processed in accordance with the Customer’s pay date.    
+Preview Date The time and date the preview will be available for the Customer to view and carry out the 
+relevant validation checks.  
+
+PAGE 12
+Net Pay Deadline 
+Prior to the net pay deadline Fourth must receive any critical amendments to the payroll.    
+Changes that will be accepted are:  
+- Any Fourth errors; or  
+- Amendments to avoid leavers being overpaid  
+ 
+The net pay must be sent by this deadline ready for payroll closure. 
+Payroll Approval The date and time the payroll must be approved to enable Fourth to guarantee employe es 
+being paid and the FPS to be submitted on time.   
+ 
+Timetables for Self-Managed Packages will only be provided if we provide BACS Processing Services for you. The 
+only deadline given will be for Payroll Approval. 
+ 
+  
+
+PAGE 13
+Self-Managed Payroll 
+ 
+Customers that do not receive Payroll Bureau Processing Services are responsible for managing all aspects of their 
+own payroll operations. This includes, the accurate calculation of wages and deductions, timely distribution of 
+payments, compliance with applicable tax laws, and submission of required filings to relevant authorities.  
+ 
+Such Customers may elect to receive BACS Processing Services (as described below). 
+  
+
+PAGE 14
+Payroll Bureau Processing Services: 
+ 
+The following provisions apply to Payroll Service Packages that include Payroll Bureau Processing Services. 
+ 
+Communication: 
+ 
+Customer Contacts 
+ 
+The Customer must provide fourth with the following: 
+- A primary contact point for all payroll-related queries. 
+- A secondary contact who has access to the payroll system that can support in the primary contact’s absence. 
+- Maintain at least one out-of-hours contact telephone number for use in emergencies only. 
+ 
+The Customer must provide the following for the primary and secondary contact: 
+- Full Name 
+- Job Title 
+- Email Address 
+- Contact number 
+ 
+Contact information will be obtained within Payroll im plementation. Should the Primary or Secondary contact 
+change, the Customer must inform Fourth by emailing Payroll@fourth.com. 
+ 
+Authorised Contacts 
+ 
+Fourth will communicate with designated payroll contacts only. If written authorisation has not been sent to Fourth 
+to authorise a new contact, then any emails or calls will not be accep ted as they will remain unauthorised. The 
+Customer must not provide Fourth contact information to any unauthorised contacts including employees. 
+ 
+If the Customer requires additional contacts to have authorisation to discuss payroll queries with Fourth, the primary 
+or secondary contact must send an email to 
+payroll@fourth.com stating the employee’s full name and email address. 
+Fourth will review the request and approve the authorised contact.  
+ 
+Access Levels 
+ 
+The Superuser has the authority to modify access levels within the Workforce Management system . Should the 
+Superuser leave the organisation, the Customer must reassign this access before their departure. Articles to support 
+customers on the process are linked 
+here.  
+ 
+Communication Path  
+ 
+A communication path will be provided to the Customer. Contact information for  these roles will be included and 
+will be specific to each Customer based on their Payroll Package.  
+ 
+The contact structure is as follows: 
+ 
+
+PAGE 15
+ 
+ 
+Telephone/Written Communication 
+ 
+Fourth, strives to consistently adhere to the response times outlined in the service level agreement. 
+ 
+Category Action 
+Non-Urgent 
+Payroll related queries submitted by the Customer to Fourth via payroll@fourth.com should be 
+responded to within a 48 -hour turnaround.  Should this not be achievable due to levels of 
+investigation then within this timescale Fourth will provide an update  on progress and set 
+expectations for full resolution. 
+Examples of non-urgent queries are: 
+- Day to day queries relating to employees’ payments or deductions 
+- Queries regarding historical payment periods 
+- Enquiries about managing different payment types 
+Urgent 
+Payroll-related queries submitted by the Customer to Fourth via payroll@fourth.com should be 
+responded to within a 24 -hour turnaround.  Should this not be achievable due to the level of 
+investigation then within this timescale Fourth will provide an update  on progress and set 
+expectation for full resolution. 
+Examples of urgent queries are: 
+- Queries relating to any employee paid incorrectly 
+- Queries for information that is time critical 
+- Queries relating to Fourth post payroll/pension errors 
+- Any payroll/pension queries that will impact the timetable deadlines 
+Please ensure that ‘Urgent’ is the first word in the subject line of the email. If ‘Urgent’ is not in the 
+subject line, then Fourth may not treat the email as urgent. It is the Customer ’s responsibility to 
+ensure emails are marked correctly. 
+1 • Payroll Specialist
+2 • Payroll Supervisor
+3 • Manager, Payroll Operations
+4 • Operations/Services Manager, Payroll Operations
+5 • Director, Payroll Operations
+
+PAGE 16
+Critical 
+Queries requiring an immediate resp onse should be made via telephone call or emailed to 
+payroll@fourth.com and followed up with a telephone call to highlight the urgency. 
+Examples of Critical Payroll Related Queries that need attention immediately are: 
+- Queries that relate to the payroll being processed within 4 hours of the BACS Sign off 
+deadline 
+- Queries that relate to high -risk problems with making payments to employees on time or 
+may impact the submission of BACS on time. 
+- Queries that require the team to investigate immediately due to the query/issue being time 
+critical i.e. would result in the situation being made worse if it had a waitin g time of 24 
+hours. 
+Please ensure that ‘Critical’ is the first word in the subject line of the email. If ‘Critical’ is not in the 
+subject, then Fourth may not treat the email as critical. It is the Customer’s responsibility to ensu re 
+emails are marked correctly. 
+ 
+Fourth's Payroll Bureau phone number – 01625 750100.  
+ 
+Every customer is provided with contact numbers for either the payroll team or the Payroll Specialist as part of their 
+communication process. 
+ 
+Fourth Payroll Bureau operates from 9 am to 5.30 pm Monday to Friday.  The departme nt is closed on public 
+holidays. 
+ 
+Payroll Amendments 
+ 
+Any additional payments or deductions that fall outside the rotas and paperwork des cription must be sent on an 
+upload template. The upload template can be found in the following pathway within your portal:  
+Payment Uploads 
+ 
+Payroll Module > Payroll Homepage > Quick Links (To the left of the module home page) > Upload Payments  
+Deduction Uploads 
+ 
+Payroll Module > Payroll Homepage > Quick Links (To the left of the module home page) > Uplo ad Employee 
+Deductions  
+ 
+Payment and deduction uploads will only be accepted if they are provided in the correct format. The process on how 
+to complete the templates can be found 
+here .  
+ 
+Fourth reserves the right to decline any payroll amendments submitted outside  of the timetable deadlines to 
+maintain payroll quality and accuracy. 
+ 
+Fourth Responsibilities 
+ 
+Data Input & Processing 
+ 
+- Obtain and maintain the Customer’s sign-off for the Payroll Procedure Manual (PPM). 
+
+PAGE 17
+- Review and process the upload received in the agreed format, ensuring it meets the agreed timetable . 
+Fourth will refuse the payroll upload if not provided within the agreed format or by the deadline.  
+- Input of NVR requests, Student Loans, Tax Code notices and GNS via EDI (Electronic Data Interchange).  
+- Workforce Management system calculates parental and statutory payments in accordance with  current 
+legislation.  
+- Statutory payments (excluding SSP) will be entered, calculated, and validated upon receipt of the 
+appropriate documentation from the Customer, such as a MATB1 for SMP. 
+- All employees on parental and statutory payments will be paid according to the schedule.  
+- Fourth will review salary changes and apply alabaster rules as needed. 
+- A document with the parental schedule will be available for the Customer, detailing the values paid per pay 
+period. 
+- Fourth will calculate Occupational Sick Pay based on company rules in the configuration. Unique sick pay 
+rules may not be calculable by the system.  
+- Fourth will calculate Occupational Parental Pay in accordance with the company rules detailed in the Payroll 
+Procedure Manual. 
+- Each payroll's current period gross pay should not differ from the previous period by a defined percentage. 
+Unless due to bonuses or pay increases. 
+- Fourth will automatically calculate final holiday pay upon system configuration. 
+- Fourth will automatically make pro rata salary payments for starters/leavers upon system configuration. 
+- Fourth will automatically backdate previous pay period salary changes upon system configuration.  
+- All emails that have been received by the agreed deadline will be processed.  
+- All submitted Rota’s/TRONC that have been transmitted will be processed in the current payroll run.  
+- Validate employees that have transferred between pay basis.  
+- Attachments of Earnings will be input in accordance with government guidelines.  
+- Attachments of Earnings will be calculated and deducted correctly. 
+- Auto hold generated where required.  
+- The net pay needs to be emailed to the Payroll Bureau to verify it with the system before finalising the 
+payroll.  
+- The payroll requires Customer approval to generate the BACS file submission. 
+- The BACS will be sent correctly and will be confirmed by BACS. 
+The inclusion of benefits in kind are subject to an active subscription for PBIK Processing Services for relevant 
+employees. 
+Output 
+- Distribution of Payslips via ESS or email. 
+- Workforce Management system will automatically submit FPS files on or before each payment date.  
+- Production and Distribution of electronic P45’s. 
+- Completing and emailing statutory payment exclusion forms to the primary payroll contact.   
+- Earlier Year Updates (EYU) and Full Payment Submission correction for Fourth’s errors. 
+ 
+Customer Responsibilities 
+ 
+- The Customer shall ensure that all changes are provided to Fourth by the agreed data submission date as 
+detailed in the timetable and will adhere to all other specifie d deadlines. Fourth cannot guarantee the 
+processing of inputs received after the deadline. 
+- The Customer must apply all rota/tronc submissions to payroll by the agreed date on the timetable. 
+- The Customer must ensure that the provided data/information is:  
+
+PAGE 18
+- Accurate and complete 
+- Includes employee number(s) 
+- Includes the correct payment codes 
+- Legible and duly authorised 
+- Submitted according to the agreed timetable 
+- The Customer must ensure that all employees are created in the WFM solution accurately (including bank 
+account numbers) and comply with the payroll deadline.  
+- The Customer shall train all site/area Managers to submit accurately and on time. 
+- When establishing or closing a location, the Customer must notify Fourth to ensure that all administrative 
+records are updated accordingly. This includes adding or removing authorised contacts.   
+- Manage intercompany transfers between different PAYE references.   
+- Customers must authorise their P32 to send the EPS file to HMRC each tax period. 
+-  The Customer will sign and distribute statutory payment exclusion forms.  
+- The Customer will enter absence records to include start and end dates into the WFM Solution.  
+- Absence V1 functionality - The Customer should provide CSP payment values for each employee and should 
+monitor entitlements. 
+- The Customer will either: 
+- Key directly into the WFM Solution. 
+- Enter details on a Timesheet, or 
+- Provide information via an upload template with employee numbers. 
+- Absence V2 functionality - The Customer will enter the start and end dates of the absence period directly 
+into the Workforce Management system. 
+- The Customer must tick the 'evidence seen' flag to ensure accurate SSP or CSP payments. 
+- The system will calculate the CSP for employees based on Workforce Management configuration.   
+- The Customer will send an electronic copy of the parental forms to Fourth. 
+- The Customer must provide Fourth with the enhanced Parental Pay policy for payroll calculation s. These 
+details will be held with in the Payroll Procedure Manual. Any changes to these policies must be provided 
+to update the manual.   
+- The Customer will ensure the right to work compliance for all employees. 
+- For final holiday pay using a non -automated process, the Customer must monitor employee entitlement 
+and:  
+- Provide Fourth with the payment value in an upload spreadsheet (including employee number); or 
+- Enter directly on a timesheet; or 
+- Enter directly into the Workforce Management system. 
+- The Customer must enter all timesheet payments by the payroll deadline. 
+- The Customer must update any salary changes in the Workforce Management system  for matern ity to 
+ensure Fourth applies to any Alabaster rules.  
+- The Customer must approve the payroll to release the BACs file according to the timetable. If delayed, they 
+must inform Fourth. Continuous delays may result in fines and further consequences. 
+- The Customer should verify the accuracy of the pay date and confirm the pay date with each net figure 
+confirmation. 
+- The Customer must verify the BACS file's successful transmission by checking the automated B ACS email 
+sent to the payroll approver(s).   
+-       The Customer must verify all payments and deductions are correct on the payroll preview.  
+- The correct rota/tronc has been submitted to payroll for processing in accordance with the agreed 
+timetable. 
+- If Fourth advise of any gross pay variants, the Customer must investigate and advise if correct. 
+- The Customer must check a ll employees are being paid in accordance with National Minimum Wage / 
+National Living Wage. Please refer to the government websites for more information www.gov.uk   
+-       Verify e mployees with Childcare Vouchers are being deducted in accordance with the basic earnings 
+assessment.   
+- Verify the overall gross and net pay values from the previous live payrol l and validate any percentage 
+increase or decrease. 
+
+PAGE 19
+- Approve payroll once it has been closed to send the BACS file on time for the scheduled payday. Approvals 
+made after 17:00 will not be processed by the payroll bureau, risking delayed employee payments. 
+- In the event  of delays, Fourth will strive to ensure timely employee payments. You must notify Fourth 
+immediately if you foresee any delay in submitting or approving payroll data to discuss contingency actions 
+or reschedule as needed.      
+- Customers should verify that the BACS file has been accepted by checking the auto mated BACS approval 
+email sent to the payroll approver(s). 
+- Run and reconcile the P30 summary and P32 screens and send payment to HMRC  depending on your 
+package. 
+- Ensure that all calculations in relation to the Apprenticeship Levy are co rrect and included in the amount 
+to be paid over each month. 
+- Run payroll deduction report and send payments to third parties (Courts/CSA/CAPS).  
+- Provide Courts/CSA/CAPS with details of what has been deducted for each employee.  
+- If no deduction was made (e.g., due to maternity leave), explain the reasons to the court.   
+ 
+Customers are requested to inform Fourth of any responsibilities that are not mentioned in this section. Fourth will 
+then determine the appropriate party responsible for those duties. 
+ 
+ 
+Overpayment Process   
+ 
+An overpayment is a payment to an employee in excess of contractual entitlement without explicit app roval from 
+their employer.   
+Possible causes of an overpayment include the following, this is not an exhaustive list and there can be other reasons:  
+- Leavers after payroll cut off   
+- Late or no notification of sickness or unauthorised absence  
+- An error  
+- An outstanding balance that there are not enough funds to deduct a late change notification.  
+- Incorrect salary details  
+It is important to note that most overpayments can be caught and prevented by ensuring that the payroll previews 
+are checked by the Customer and signed off thoroughly and data deadlines are met.   
+Managing Overpayments 
+In general terms, you can recover an overpayment from an employee’s next/future wage, however, each situ ation 
+must be viewed on its individual circumstances.  
+If an overpayment is for a significant amount the employee could come to an ar rangement with their employer to 
+repay the money over a number of pay periods rather than treat the overpayment as an advance.  
+The status of an employee will change the way in which the overpayment will/can be recovered.  
+- Current Employees - This type of overpayment should be recovered in the employee’s next or subsequent 
+pay periods  
+- Leavers - If an employee has left the company and there are insufficient or no funds av ailable to deduct 
+from their final wage, the employer must contact the former employee to req uest repayment of the 
+overpaid amount. 
+Overpayments discovered after payroll has been closed but before pay run has been approved and B ACS has been 
+released can be rectified by a rollback. 
+ 
+Overpayments discovered after payroll has been closed, after BACS has been released but prior to Pay Date can be 
+rectified by contacting the Customer’s bank to stop the BACS from being processed for the employee. The deadline 
+
+PAGE 20
+to stop a BACS can vary by bank. Fourth can rollback the employee and recalculate t he pay. The Customer can 
+arrange a payment for the employee internally or Fourth can send an additional BACS file for the employee. An off-
+cycle BACS is subject to additional charges.  
+ 
+Overpayment discovered after payday i.e. the employee has received the overpaid money, can be rectif ied by the 
+Customer contacting the employee to recover the overpayment. Once the monies have be en recovered the 
+Customer should inform Fourth so all YTD payroll information can be corrected. 
+ 
+Fourths Responsibility 
+ 
+Fourth will carry out a Root Cause Analysis (RCA) on overpayments and make necess ary recommendations on 
+preventative/corrective action.    
+If it is established that Fourth is wholly responsible for the overpayment t hen Fourth will assist the Customer with 
+the administration of recovering the overpayment.    
+If it is established that Fourth is wholly responsible for the overpayment then it is not automatically assumed that a 
+full or part reimbursement will be made to the Customer.   There are several factors that will be considered.  The list 
+below are examples but is by no means exhaustive.  
+- Level of service being delivered (e.g. accuracy levels for the last three months) 
+- Was due diligence in place from the customer’s side? 
+- Were timetables adhered to? 
+- Was data sent in the correct format? 
+- All departments within Fourth are in agreement on the reimbursement. 
+If the decision is made to reimburse the Customer prior to recovering the overpayment, this should be in the form 
+of an agreement to allow a balance to be outstanding on an invoice until the overpayment is recovered from the 
+employee(s).   
+ 
+All repayments of monies are made directly to the Customer.  
+ 
+No negotiation will take place with the Customer for reimbursement of the overpayment until the Customer has 
+made every effort to recover the overpayment from the employee. A minimum of three formal communications to 
+the employee and evidence is provided by the Customer to Fourth to 
+payroll@fourth.com. 
+ 
+Quality Assurance 
+ 
+The Payroll Bureau's Quality Team manages departmental processes, education, and technology to ensure accurate 
+service delivery. They conduct independent investigations when needed to find the root cause of issues, inv olving 
+all relevant parties to understand the situation, suggest corrective actions, and reduce risks. 
+ 
+To maintain stability, regular audits are conducted by the Quality Team are essential for identifying any weaknesses 
+or areas for improvement within the department. These audits confirm that all procedures align with best practices 
+and regulatory requirements. Collaborating closely with developers,  the team ensures that so ftware and systems 
+are continually updated to reflect the latest legislative changes. This proact ive stance not only ensures compliance 
+but also empowers employees through targeted training sessions, equippin g them with the knowledge needed to 
+navigate new systems or regulatory environments confidently. 
+ 
+
+PAGE 21
+The Quality Team plays a crucial role in maintaining the integrity and effi ciency of the department. Their 
+management of processes involves ensuring that every stage of the payroll a nd pension cycle is cond ucted 
+seamlessly, adhering to both internal and external standards. By leverag ing modern technology, they enhance the 
+accuracy and productivity of the department. 
+When problems arise, the team initiates thorough investigations, gathering insights from stakeholders to pinpoint 
+exactly where things went wrong. This comprehensive approach allows them to propose effective corrective 
+measures, enhancing the overall reliability of payroll and pension services. By mitigating potential risks, they help 
+safeguard against future discrepancies or compliance issues.  
+ 
+Current Relevant Legal Extractions  
+  
+The Employment Rights Act 1996 currently provide clear rules about making deductions fr om wages. In general, 
+deductions may only be made from wages if the law permits it, or if the contract of employment specifically permits 
+it, or if the employee and employer have made a written agreement that permits it (Section 13 Employment Rights 
+Act 1996).  
+ 
+However, the important point to understand is that the protection offered by the Ac t does not extend to an 
+overpayment of wages or expenses. An overpayment is specifically excluded from protection (Section 14 (1) (a) and 
+(b) of the Employment Rights Act 19 96). An employer, however, needs to consider, before recovering an 
+overpayment by deducting it from their wages, that it is reasonable in all the circumstances to make the recovery.  
+If an employee is still in employment when the overpayment is discovered (Current Employee). 
+ 
+As soon as the overpayment has been discovered the Customer should contact the employee informing them of the 
+Gross and Net overpayment value (which will be calculated by Fourth) that w ill be recovered in the following pay 
+period (s).  
+ 
+If the Customer chooses not to recover the outstanding money from the employee, Fourth will not take any liability 
+for any monies outstanding.   
+ 
+ 
+
+PAGE 22
+BACS Processing Services 
+BACS Processing Services are available to Customers that do not utilise Payroll Bureau Processing Services. This 
+involves the submission of a BACS file once Customer has closed and approved payroll and has generated and 
+approved a payroll preview report. This is an opt-in service and will only be provided where a Customer has 
+specifically opted in to receive this service and Fourth has confirmed with Customer all information necessary for 
+Fourth to provide the service. 
+Customer Responsibilities: 
+Customers should close their payroll after all payments and deductions are finalised, approve the BACS submission 
+within the payroll module, and then confirm the final approval to submit the BACS payment.  
+Fourth Responsibilities: 
+Fourth will submit BACS on behalf of Customer once Customer has closed their payroll, approved BACS submission 
+within the payroll module and confirmed final approval to submit the BACS payment. 
+  
+
+PAGE 23
+BACS 
+  
+Change of Customer Bank Details  
+ 
+Customers are responsible for managing and notifying Fourth of any required changes to bank details. There are 
+different responsibilities for a BACS customer and a NON-BACS Customer.  
+ 
+NON-BACS Customer 
+ 
+If Fourth does not complete the BACS on behalf of the Customer, then the Customer is responsible for updating their 
+company details section within the Workforce Management system.  
+ 
+If the Customer is NON-BACS, then Fourth do not have access to withdraw any BACS files. The Customer must contact 
+their bank directly. 
+ 
+Non-BACS customers moving to BACS must follow the BACS Customer section below.  
+ 
+BACS Customer 
+ 
+To enable Fourth to transfer payments to employee bank accounts on payday, a BACS User Number must be set up 
+and linked to Fourth’s Payroll Bureau Number. Customers need to contact their bank to obtain a BACS User Number 
+and ensure it is linked to Fourth’s Bureau Number. 
+ 
+Information that may be Required: 
+ 
+Fourth’s Payroll Bureau Details: 
+ 
+Bureau Number: B80078 
+Name: Fourth Limited 
+Bureau Address: Fourth, Greenway House, Larkwood Way, Tytherington Business Park, SK10 2XR 
+Email: payroll@fourth.com 
+ 
+Additional Information: 
+ 
+Application type: Payments (Direct Credits) 
+Submission Channel: Indirect Submission Only 
+Primary Security Contacts: Must be individuals within the Customer’s organisation 
+ 
+Some forms may ask ‘Do you want the payroll bureau to collect reports on your behalf?’, please state ‘No’. 
+ 
+Completed application forms should be handed to Relationship Managers or A ccount Managers at the Bank. They 
+will forward the information to their BACS Department. 
+ 
+Banks typically send customers notification of BACS User Numbers by ema il. Once this has been received, please 
+forward the BACS User Number to your Payroll Specialist at Fourth to  
+payroll@fourth.com along with the company 
+bank details (Name, Address, Sort Code and Account Number).  
+ 
+Fourth will conduct a BACS test following receipt of information requested from  the Customer. Fourth will transfer 
+£1 to and from the Customer’s account to verify the BACS link. The Customer must conf irm in writing to 
+
+PAGE 24
+payroll@fourth.com when they see the £1 transaction on their bank stateme nt. Fourth will not send Payroll BACS 
+until this confirmation is received. 
+ 
+Depending on which bank is used, the time taken to receive BACS User Numbers can v ary between 2 weeks and 2 
+months. 
+ 
+Fourth require a minimum of two weeks to complete a BACS test.  
+ 
+Withdrawing a BACS file 
+ 
+Fourth can only withdraw a BACS file 3 working days from the agreed pay date, and the whole file only. In any 
+other circumstance, the Customer must contact their bank and arrange themselves. 
+ 
+Fourth will only withdraw a BACS file in the following scenarios: 
+- The company has insufficient funds, and the BACs will fail if sent  
+- An error has been identified and there is a need to prevent significant under or overpayment to 
+multiple employees  
+- The file is a duplicate file and needs to be withdrawn  
+ 
+In all scenarios where the Customer confirms they will withdraw the file themselves:  
+ 
+- The Customer must confirm in writing, forwarding the confirmation from their b ank that the file has been 
+withdrawn. This needs to be sent to 
+payroll@fourth.com.  
+- The Customer must confirm in writing to payroll@fourth.com whether they require Fourth to re-send the BACS 
+file.  
+ 
+If the Customer has insufficient funds, an email must be sent to payroll@fourth.com to confirm they cannot pay the 
+full value of the BACS file and need it stopped. 
+ 
+Customers should not register employees of Fourth Limited (the company) as  Primary Security Contacts (PSCs) or 
+Additional Contacts (ACs) on a Service User Number (SUN) belong ing to the Customer. Employees of the company 
+should only be registered as contacts on the B80078 Bureau number or on any SUN which is o wned and operated 
+by the company itself.  
+ 
+In the event of a Customer choosing to terminate the use of Fourth’s payroll bureau services, the Customer will be 
+responsible for arranging with its nominated bank for its SUN to be unlinked from the B80078 Bureau number, and 
+for obtaining confirmation that this has been successfully actioned. Four th will not be held responsible should the 
+Customer fail to ensure this process has been actioned.  
+ 
+The Customer will be responsible for monitoring its own bank account limits , to ensure that the value contained 
+within payment files, submitted to the BACS clearing, will not be in excess of this limit.  
+ 
+The input report should be collected by the Customer as soon as possible on processing day.  
+Updates from AWACS (Advice of Wrong account for Automated Credits Service) r eports should be applied by the 
+Customer no later than 3 working days after they are available.  
+ 
+ARUCS (Automated Return of Unapplied Credits Service) reports should be collected by the Customer no later than 
+4 days after the payment/collection date. 
+ 
+ 
+ 
+
+PAGE 25
+HMRC Payments 
+ 
+We offer a HMRC BACS payment service where we reconcile and submit your HMRC liabilities each month, which 
+includes the Tax, National Insurance, Statutory Payment (re-claimable amounts) and Apprenticeship Levy.  
+ 
+Fourth Responsibilities  
+ 
+• An email confirmation is sent to your authorised contact(s) of the amount or amounts due to be paid to 
+HMRC 
+• A detailed reconciliation of your liabilities each month, including apprenticeship levy and re-claimable 
+amounts (statutory payments). 
+• Submit the BACS payment to HMRC for the payment date of 22nd (or working day before) 
+Customer Responsibilities 
+ 
+• Submit the P32 to the HMRC by the 19th of the month which allows correct calculations the PAYE 
+liabilities.  
+• Approve the monthly HMRC payment  
+Benefits in kind are excluded from scope unless Customer has an active subscription for (i) PBIK Processing Services 
+for relevant employees (and then subject to the provisions of this document setting out the scope of such services) 
+or (ii) the PBIK Module (which will include access to self-managed functionality as an add-on to the Payroll Module 
+only). The stand-alone PBIK Module will be made available from 2027 and an update to this document will be 
+issued ahead of this date. 
+ 
+If we do not receive your confirmation by the 10th of the month, we will assume that your consent to the values 
+being paid on your behalf. Please note that it remains your responsibility to submit the EPS for the specified tax 
+period by the 19th of the month. 
+ 
+ 
+ 
+  
+
+PAGE 26
+Payrolling Benefits in Kind Service (PBIK Processing Service) 
+ 
+Fourth’s Payrolling Benefits in Kind Service enables reporting and processing of benefits in kind via payroll  for 
+Customer employees.  
+ 
+This is an optional add-on service for selected Customer employees  and is included where indicated on an Order 
+Form or where otherwise specified as included within a Payroll Services Package. 
+ 
+Service inclusions: 
+ 
+• Integration of Customer provided data on eligible benefits into benefits in kind module; 
+• Addition of taxable benefit values to selected employees' taxable pay for each pay period; 
+• Real-time reporting of payrolled benefits to HMRC; 
+• Annual reporting to HMRC for the following non-mandatory benefits (living accommodation and interest 
+free or low interest loans); 
+• Calculation of Class 1A National Insurance Contributions for payrolled benefits: 
+o for submission as P11D(b) for 2026/2027 tax year 
+o reporting through RTI (from April 2027 onwards) 
+• Ongoing administration and annual reconciliation for payrolled benefits; 
+• Support for enquiries relating to payrolling benefits‑in‑kind service] 
+ 
+Customer responsibilities: 
+ 
+• Registration with HMRC (where required) 
+• Provide the annual cash equivalent value of all benefits in kind in accordance with HMRC valuation rules 
+• Provide accurate and timely information regarding employee benefits including: 
+o Type and value of each benefit 
+o Effective dates for benefit provision 
+o Changes to benefit entitlements or employee circumstances 
+• Review monthly payroll reports and approve benefit calculations; 
+• Co-ordination with relevant third-parties e.g. benefits providers  
+ 
+Exclusions/service limitations: 
+ 
+• Inclusive of eligible benefits (those subject to mandatory real-time reporting under HMRC's payrolling 
+requirements from April 2027, being benefits that are currently reportable on form P11D (but with annual 
+reporting available for living accommodation and interest-free/low-interest loans).  
+• Benefits outside of scope: 
+o Benefits covered by PAYE Settlement Agreements (PSAs); 
+o Benefits already subject to Class 1 NIC and processed through PAYE (readily convertible assets 
+such as shares/securities, cash vouchers) 
+o Exempt or trivial benefits not subject to tax or NIC 
+• The service is subject to HMRC rules and may be adapted in line with legislative updates. 
+• Fourth is not responsible for the accuracy of benefit valuations provided by Customer and its 
+responsibility is limited to the accurate processing of data provided by Customer in accordance with 
+HMRC requirements 
+
+PAGE 27
+ 
+ 
+  
+
+PAGE 28
+Pension Auto Enrolment Managed Service 
+ 
+Fourth offers an Auto Enrolment Managed Service designed to simplify and streamli ne the process of complying 
+with auto-enrolment legislation. This service ensures that Fourth can manage your pension responsibilities to reduce 
+administrative work. 
+ 
+Fourth’s service ensures precision and efficiency through automated systems that m anage employee enrolments, 
+contributions, and communications.  
+ 
+Fourth’s Auto Enrolment Managed Service ensures a seamless and hassle -free experience, allowing customers to 
+focus on their core operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PAGE 29
+Service Summary 
+ 
+
+PAGE 30
+ 
+ 
+ 
+Communication 
+ 
+Delegate Access 
+ 
+In order to manage the reconciliation and upload of pension contributions effic iently, Fourth requires delegate 
+access to your pension schemes.  
+ 
+For the following pension providers, access must be granted to a shared departmental login. 
+ 
+ 
+NEST 
+The Peoples Pension 
+Smart Pensions 
+NOW Pensions 
+Royal London 
+Creative 
+Salvus Master Trust 
+ 
+For the following Pension Providers, individual delegate access is required. It is recommended that four nominated 
+persons from Fourth have delegate access for these pension providers. This arrangement ensures continuity of 
+service when the primary Payroll Specialist is unavailable. 
+ 
+AVIVA 
+Legal and General 
+Scottish Widows 
+Aegon 
+Standard Life 
+Cushion 
+ 
+Assigning Fourth delegate access is the responsibility of the Customer. However, Fourth will collaborate with you 
+and your pension provider to ensure this is accepted and linked as efficiently and seamlessly as possible.  
+ 
+You must obtain delegate access before your first live payroll. If access is not granted within this timeframe, Fourth 
+will not be responsible for any fines or penalties due to late file submissions.  
+ 
+The Customer must ensure employees have the correct personal email address and that ‘Deliver Pension Info To 
+My Personal Email’ is selected in their personal details. If not, Fourth will notify you to amend it. 
+ 
+We provide support for the AEMS service with the approved and listed providers. If a Customer chooses to use an 
+alternative provider that is not on our approved list, the process to establish the service with that provider can 
+take up to 10 weeks. This extended timeframe accounts for the necessary technical setup, integration testing, and 
+verification processes required to ensure the AEMS service operates correctly with the new provider. Customers 
+are therefore advised to plan accordingly and allow sufficient lead time if they wish to engage with a provider 
+outside of our standard supported list.  
+ 
+Customer acknowledges that Fourth will be unable to provide the Auto Enrolment Managed Service until such time 
+as delegate access is established and completed and Fourth shall not be responsible for any failure to provide the 
+service pending completion of that process. 
+
+PAGE 31
+ 
+Customer Contacts 
+ 
+The Customer must provide Fourth with the following: 
+- A primary contact point for all pension-related queries. 
+- Maintain at least one out-of-hours contact telephone number for use in emergencies only. 
+ 
+The Customer must provide the following for the primary contact: 
+- Full Name 
+- Job Title 
+- Email Address 
+- Contact number 
+ 
+Pension Timetable and Bank Holidays 
+ 
+As an Auto Enrolment Managed Service customer, Fourth will create an internal pension timetable based on your 
+pension provider’s contribution payment due date. Fourth will aim to provide you with a detailed pension 
+reconciliation file, upload any new scheme joiners and upload all contributions due for that period, 5 days before 
+your payment with your provider is due. This will provide sufficient time to review the reconciliation totals and 
+submit the schedule and payment to the pension provider before the payment deadline.  
+ 
+If bank holidays impact your pension submissions, Fourth will adjust the timetable to ensure you always have at 
+least 5 days to review and make payments before the due date.  
+ 
+If these timings are inconvenient, please reach out to your Payroll Specialist via 
+payroll@fourth.com to discuss 
+possible changes. 
+ 
+Opt-In and Opt-Out Notices 
+ 
+Opt-In Notifications / Process Opt-In Notifications   
+ 
+Fourth will process any opt -in notifications that are sent over from the Customer on the Fourth system and enroll 
+the employee into the scheme on the next available payroll period.   
+ 
+Scheme Leavers Notice Notifications / Process Scheme Leavers Notifications  
+ 
+Fourth will process any scheme leaver notifications that are sent over from the Customer on the Fourth system and 
+stop any further pension contributions being taken going forward.  
+ 
+Pension Provider Opt-Out Notifications 
+ 
+When processing each payroll period , Fourth will log in and acknowledge any new employee opt-out requests on 
+your pension provider’s platform. Fourth will then transfer the opt-out date and information into the Fourth system.   
+ 
+Pension Refund 
+ 
+Fourth will also refund the relevant employee and employer pension contributions if the employee has opted out in 
+their opt-out window or ceased contributions. 
+
+PAGE 32
+ 
+Pension Letters 
+ 
+Pension Letter Template 
+ 
+It is the Customer's responsibility to prepare and provide the pension templates. These templat es should include 
+the correct legislation specific to the pension setup, the company logo, and the employee's signature. 
+ 
+Updating Templates 
+ 
+If any details change once the templates are uploaded, it is essenti al the Customer updates them accordingly and 
+resends them to Fourth. Ensuring accuracy and compliance helps maintain the integrity of the pension process. 
+ 
+Template Provision 
+ 
+Fourth can provide a template letter to amend to suit your specific needs. Alternatively, it can be downloaded from 
+The Pension Regulator's website. 
+ 
+Uploading Pension Letters 
+ 
+Once the pension letters have been updated and are ready to be sent to the employees, Fourth will upload the 
+agreed template to the portal. 
+ 
+Sending Pension Letters 
+ 
+It is the Customer's responsibility to ensure all employee data is correct, which includes updating t heir personal 
+email addresses for these letters to be issued. Additionally, it is crucial to ensure that their employment records are 
+set up correctly and that the option 'Deliver Pension Info To My Personal Email' is ticked within their personal details 
+screen. 
+ 
+3-Year Re-enrolment  
+ 
+The 3-year pension re-enrolment legislation is a crucial aspect of workplace pension schemes in the UK. Introduced 
+as part of the broader auto -enrolment initiative, this legislation mandates that every three years, em ployers must 
+re-enrol eligible employees who have previously opted out or ceased membership in the pe nsion scheme. This 
+process ensures that employees have regular opportunities to r econsider their pension participation, thereby 
+promoting long-term financial security. 
+ 
+The re-enrolment process involves several key steps, including identifying eligible employees, re-enrolling them into 
+the pension scheme, and completing a re -declaration of compliance with The Pensions Regulator. Customers must 
+also communicate the re-enrolment process to their employees, providing them with necessary i nformation about 
+their rights and options. 
+ 
+Customer Responsibilities 
+ 
+• The pension regulator sends out the reminder and deadlines for the re-enrolment directly to the Customer. 
+It is the Customer’s responsibility to forward this letter to Fourth via 
+payroll@fourth.com once received. 
+
+PAGE 33
+• It is the Customer’s responsibility to choose a re-enrolment date within the window communicated by the 
+pension regulator and inform Fourth via payroll@fourth.com of the chosen date. 
+• The Customer must let Fourth know if they have any Directors that they do not want included and i f they 
+want employees who have opted out in the last 12 months included in the assessment. 
+• Upon the completion of the re-enrolment process by Fourth, it is the Customer's responsibility to complete 
+and submit the re-declaration of compliance to The Pension Regulator. 
+• Pensions are set up using information provided by customers. Fourth is not  responsible for any errors in 
+the setup. 
+ 
+Fourth cannot complete the re-enrolment duties for the Customer without this information.  
+ 
+Fourth Responsibilities 
+ 
+• Fourth will complete the re-enrolment assessment once they have received notification that the Customer’s 
+re-enrolment is due, and the Customer has communicated all relevant information required. 
+• This assessment is run on the relevant live payroll and automatically re-enrols the relevant employees into 
+the pension scheme. Pension letters are also generated as per legislation. 
+• Fourth will then provide the Customer with all the required information for the re-declaration of compliance 
+to be completed by the Customer. 
+• Fourth will review any employee pay basis changes and assign the correct pension scheme accordingly. 
+• Fourth will review any anomalies identified with automatic enrolment and employee contributions. Fourth 
+will then apply any corrections to the record so contributions are in line with legislation for the current and 
+future periods. 
+ 
+Error Management  
+ 
+Fourth will calculate and apply adjustments for any discrepancies found in employee/employer contribut ions. The 
+necessary steps will be taken to resolve the individual circumstance, wheth er this be a correction to payroll or an 
+adjustment to pass on to the provider. 
+ 
+Customer Correction: 
+ 
+Fourth will help correct any input errors made by the Customer to ensure that pension practices stay compliant.  
+ 
+Fourth Correction: 
+ 
+Fourth will correct any input errors made by Fourth to ensure that pension practices stay compliant. Any changes to 
+the Pension Scheme configuration will need to be sent to Fourth via 
+payroll@fourth.com 
+ 
+Pension Provider Correction: 
+ 
+Fourth will collate any corrections and communicate these to the pension prov ider. Provider dependent, an 
+adjustment form will be sent, or direct communication will be made with the provider to advise of any corrections. 
+ 
+Adjustments To Pensionable Payments: 
+ 
+Upon request from the Customer, Fourth will update payment types set up in the system to ensure any payment 
+lines are treated correctly in the pension calculation. 
+ 
+
+PAGE 34
+Additional AEMS Information 
+ 
+Pension Legislation 
+ 
+- Fourth will update the customer portal with any new legislation or changes to existing legislation.  
+- Fourth will help to answer legislative queries from the Customer  
+- Fourth cannot give legal advice or take responsibility for decisions on customer pension schemes. 
+ 
+Pension Bandings 
+ 
+Fourth will review annually any changes made to pension bandings and ensure that the correct guidelines are applied 
+when calculating employee contributions  each pay period . Once any changes are effective, Fourth will secondary 
+check the relevant schemes ensuring the correct banding is applied based on payroll frequency. 
+ 
+Pension Provider Enquiries  
+ 
+Fourth collaborates with the Customer's pension provider regarding queries about an employee's enrolment status, 
+contribution rate, or contribution amount.  
+ 
+Pension Reconciliation Approval 
+ 
+Fourth will reconcile pension contributions  after each pay period and report to the Customer’s chosen pension 
+provider. Fourth will send the Customer a reconciliation total that shows the balance to be paid to the provider and 
+a comparison of the amounts that have been deducted through the payroll. If the Customer has any queries with 
+the payment amount, this should be raised to the payroll bureau immediately. 
+ 
+Some pension providers may require further approval before Fourth can upload contributions. 
+ 
+  
+
+PAGE 35
+Pension – Non-Auto Enrolment Managed Service (Non-AEMS) 
+ 
+Fourth Responsibilities  
+ 
+- Fourth will support the Customer set up the Pension module and provide usage documentation.  
+- The Payroll Implementation Team will support the Customer with their pension staging project. 
+-  
+Customer Responsibilities   
+ 
+- Dealing with any pension deduction enquiries from the employee. This includes queries relating to the 
+calculation of the pension deduction including those which cover qualifying earnings or pensionable pay.  
+- Liaising directly with the pension provider on any enquiries.  
+- Send pension letters to employees in line with current legislation.  
+- Entering pension data input into the pension module and ensuring its accuracy: -  
+- Opt-in notice dates from job holders  
+- Right to join notice dates from entitled workers  
+- Opt-out notice dates, and validating the opt-out notice  
+- Dates where employees want to cease contributions.  
+- Uploading letter templates to the document trigger points 
+- Maintaining employee information; ensuring any data entered into the employee record is accurate.  
+- Where starter files have been submitted to the pension provider without a v alid national insurance 
+number (NINO) ensure it is added to the pension provider and Workforce Management system once 
+received.   
+- The Customer should set up an alert process to help manage any changes made to National Insurance 
+numbers to ensure they satisfy the requirements of the pension provider.  
+- Managing the activity for any employees who transfer between pension s chemes including between 
+pay basis and PAYE companies.  
+- Ensuring the correct documentation is sent and received by the employee within the stat utory 
+deadlines. The system populates the dates the documents are due and provides t he Customer with 
+alerts/custom reports to manage the distribution of this documentation. The Customer is responsible 
+for managing the process relating to the non-receipt of this documentation.  
+- If employees do not have personalised email addresses, the Customer must provide an alternative 
+distribution method for this documentation e.g. via the post . The documents are sent from Fourth's 
+email address pensions@fourth.com or the Customer’s postal address, and the Customer is responsible 
+for re-submitting or re-posting documents where the original delivery method has failed.  
+- Where the distribution meth od for the documentation is email, the Customer should be aware that 
+the pensions@fourth.com mailbox is not a monitored mailbox and Fourth cannot provide details of 
+any undeliverable items. The Customer should take every reasonable action to ensure the per sonal 
+email address held in Workforce Management system is correct upon input.  
+- Ensuring all pension adjustments including any pension refunds or underpayments are m anaged 
+correctly.  
+- The ongoing maintenance of the system once the Pension Module has been made active.  
+- Check the pension files and sending to their pension provider in accordance with the correct timescales. 
+- For automation of pension files direct to the pension provider (providing the pension provider has this 
+facility) the Customer is responsible for entering the payment schedule into the pension diary.  
+- For non-automation of pension files, it is the Customer’s responsibility to send these directly to the 
+pension provider. 
+
+PAGE 36
+- Ensuring the correct payment balances with the contribution files and is  submitted to the pension 
+provider on time.  
+- Overall people administration and access levels within the Pension Module.  
+ 
+Customers are requested to inform Fourth of any responsibilities that are not mentioned in this section. Fourth will 
+then determine the appropriate party responsible for those duties. 
+ 
+Processing Pension Data – Fourth’s Pension Module  
+ 
+The Pension Module calculates the statutory dates required for the pensi on process based on the date of birth 
+entered on the employee record.  
+ 
+The Pension Module perf orms the following functions based on the information held within the Workforce 
+Management system each pension processing period: 
+ 
+- Calculate the status of an employee (eligible Job-holder, non-eligible Job-holder, entitled worker) 
+- Calculate the date documentation is due to be sent to the Employee. 
+- Enrol employees who qualify for automatic enrolment into the pension scheme 
+- Calculate pension deductions for the pay period based on the rules set up at the pension scheme 
+level. 
+- Calculate starters & leavers pro-rata calculations based on the rules set up at the pension scheme 
+level. 
+ 
+Customers are requested to inform Fourth of any responsibilities that are not mentioned in this section. Fourth will 
+then determine the appropriate party responsible for those duties. 
+  
+
+PAGE 37
+Additional Services 
+  
+Additional Chargeable Services   
+Additional BACS files  
+Year end services (P60/ P11D)  
+Manual calculation for customer error 
+Statement of earnings (SOE) 
+Adhoc work requests   
+Payroll and employee rollback   
+  
+All additional service requests should be sent to 
+payroll@fourth.com. 
+ 
+Additional BACS files 
+ 
+Additional BACS files may be sent mid cycle. If calculations are required for the additional payment, refer to the 
+Manual Calculation Service. Additional BACS files will require 3 working days for payment processing. 
+ 
+Year End Services (P60/P11D) 
+ 
+Management of P60’s and P11D’s can be processed by Fourth for additional costs.  
+ 
+P11D Service 
+ 
+Fourth will input benefit data within the system, produce the P11D document and submit to the HMRC. Customers 
+who require the P11D service must formally opt-in. For more information including costs, please 
+click here. If you 
+wish to opt-in please let us know by email to payroll@fourth.com  
+ 
+P60s 
+ 
+All Payroll Bureau Service Customers will be automatically enrolled into the P60 service and will be sent a further  
+confirmation within the Year End Services communication. For more information including costs, please 
+click here. 
+If you wish to opt-out please let us know by 31 March of the then current tax year by email to payroll@fourth.com.  
+ 
+Manual Calculations 
+ 
+A manual calculation can be performed for any pay period and tax year required to  recalculate an error. If a 
+calculation is for a previous tax year, an FPS correction may be required.  
+ 
+Statement of Earnings (SOE) 
+ 
+HMRC do not accept Statement of Earnings documents. These forms are only necessary if employees misplace their 
+P45, payslips, or P60.  
+ 
+Ad Hoc Work Requests 
+
+PAGE 38
+ 
+Fourth provides ad hoc work requests, which require a meeting to evaluate and understand specific needs and 
+parameters involved. Both parties can discuss various aspects, including expected outcomes, timelines, and any 
+particular requirements that might impact the cost. This allows Fourth to deliver tailored solutions that meet client 
+expectations effectively. 
+ 
+Payroll and Employee Rollback 
+ 
+Whole payroll and individual employee roll backs are available as an additional service when required. Typically, 
+rollbacks are used to correct errors or made any amendments within the payroll and submit to HMRC via FPS.  
+ 
+Charges 
+ 
+All additional Services are scoped based on the activities to be completed, complexity, volume and scale. These are 
+quoted upon request at the applicable day rate. Please contact Fourth’s Customer Success team with any requests 
+for additional services.   
+ 
+All of the above charges will be subject to VAT and will be added to the rates applied. 
+ 
+Any additional work commissioned by the Customer falling outside of the payroll bureau service or not listed in the 
+additional services above will incur additional charges. 
+ 
+ 
+ 
+ 
+ 
+  
+
+PAGE 39
+Payroll and Pension Implementation 
+ 
+Fourth’s Payroll Implementation resources are  responsible for onboarding both new and existing customers to 
+Payroll and Pension services.  
+ 
+Payroll Implementation will resource additional services and assign new PAYEs,  pay basis, and pension schemes  
+along with new customers. 
+ 
+This includes handling various ad hoc requests as outlined below: 
+ 
+- New PAYE set up 
+- New Pay Basis set up 
+- New Pension Scheme set up 
+- Conversion of Inhouse Payroll and Pension to Bureau Payroll and Pension 
+- TUPE transfers (Employees to move from an existing PAYE to a new PAYE) 
+- Company transfers (Employees to move from an existing pay basis to a new or existing pay basis) 
+- Portal split (To split from an existing portal and move to a standalone portal) 
+- Data migration (To move from an existing portal to another existing portal) 
+- Historic parallel pay run (Data is replicated from a current payroll provider to Fourth as the payroll provider) 
+ 
+For these requests, please contact Fourth’s Customer Success team. 
+ 
+The details of any payroll implementation activity and Charges will be documented in the applicable Order and 
+Statement of Work.  
+ 
+ 
+ 

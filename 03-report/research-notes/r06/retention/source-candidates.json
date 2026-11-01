@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "RET6-S01",
+      "title": "HR and Payroll System Contract: Warwickshire15October2026",
+      "publisher": "Warwickshire County Council",
+      "url": "https://warwickshire.moderngov.co.uk/ieDecisionDetails.aspx?ID=1236",
+      "source_type": "official_employer_decision_record",
+      "accessed_on": "2026-10-29",
+      "published_date": "2026-10-16",
+      "updated_date": null,
+      "date_note": "Decision/meeting date distinct from publication; no exact upload date inferred where absent.",
+      "review_status": "relevant_original_public_body_read_via_reader",
+      "locator": "Decision Purpose/date fields reader18\u201338; public15October2026 meeting item9 reader84\u201388",
+      "population": "One named council decision context, not a representative payroll buyer sample",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Employer public governance record; declared rationale not independent impact evaluation",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "http_status": 403,
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06/retention/captures/RET6-S01-selected-reader-notes.txt",
+          "sha256": "db1a8e66ccfc2cd76aa9109cca698e4403ca9f3058aee01d665ed6cb3eaacac8",
+          "kind": "paraphrased_selected_original_reader_notes_not_raw_capture"
+        }
+      ],
+      "limitations": "Restricted report uninspected; public meeting agrees recommendations. Direct commercial route and continued platform not completed supplier/system switch. Call-in labels conflict; no signed contract, independent cost comparison or realised result.",
+      "reuse_status": "Private verification; final-use wording/rights review pending",
+      "publication_eligibility": "R06_context_final_use_pending",
+      "alias_urls": [
+        "https://warwickshire.moderngov.co.uk/ieListDocuments.aspx?CId=146&MID=4287"
+      ]
+    },
+    {
+      "candidate_id": "RET6-S02",
+      "title": "Oracle Contract Renewal: Sandwell14October2026",
+      "publisher": "Sandwell Council",
+      "url": "https://sandwell.moderngov.co.uk/ieIssueDetails.aspx?IId=19236&Opt=3&PlanId=0",
+      "source_type": "official_employer_decision_record",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Decision/meeting date distinct from publication; no exact upload date inferred where absent.",
+      "review_status": "relevant_original_public_body_read_via_reader",
+      "locator": "14October2026 item93; minutes29\u201331, reasons35\u201339, alternatives42\u201346 and resolutionpoint1 at49\u201357",
+      "population": "One named council decision context, not a representative payroll buyer sample",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Employer public governance record; declared rationale not independent impact evaluation",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "http_status": 403,
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06/retention/captures/RET6-S02-selected-reader-notes.txt",
+          "sha256": "ab6760b1d1701dd55f2e06ea3d73b2d5acf2d46fb72a451ff62c597e93372599",
+          "kind": "paraphrased_selected_original_reader_notes_not_raw_capture"
+        }
+      ],
+      "limitations": "CombinedERP public employer account. Only resolutionpoint1 used; remaining decision truncated on issue page. No actual execution, later outcome, replacement duration, cost-saving or private-market prevalence inferred.",
+      "reuse_status": "Private verification; final-use wording/rights review pending",
+      "publication_eligibility": "R06_context_final_use_pending"
+    },
+    {
+      "candidate_id": "RET6-S03",
+      "title": "Permission to Procure and Award: HR and Payroll System",
+      "publisher": "Cumberland Council",
+      "url": "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501",
+      "source_type": "official_employer_decision_record",
+      "accessed_on": "2026-10-29",
+      "published_date": "2025-03-14",
+      "updated_date": null,
+      "date_note": "Decision/meeting date distinct from publication; no exact upload date inferred where absent.",
+      "review_status": "relevant_original_public_body_read_via_reader",
+      "locator": "Decision29\u201343, Reasons44\u201350, Alternatives51\u201355, dates56\u201358",
+      "population": "One named council decision context, not a representative payroll buyer sample",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Employer public governance record; declared rationale not independent impact evaluation",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "http_status": 403,
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06/retention/captures/RET6-S03-selected-reader-notes.txt",
+          "sha256": "c2623518516f592f28f915a363a874dddebb260d644a4a347f8a4f3b60c5309f",
+          "kind": "paraphrased_selected_original_reader_notes_not_raw_capture"
+        }
+      ],
+      "limitations": "Decision-status Implemented is not proof of operational system implementation. Provider/product not named; no supplier switch, signed contract, delivery result or benefit established. Public local-government context.",
+      "reuse_status": "Private verification; final-use wording/rights review pending",
+      "publication_eligibility": "R06_context_final_use_pending"
+    }
+  ],
+  "reused_canonical_sources": []
+}

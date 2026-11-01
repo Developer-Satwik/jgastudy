@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-30",
+  "status": "preliminary_review_integration_pending",
+  "criterion_count": 16,
+  "source_basis": [
+    "Working agreement sections4\u20137 and scope-baseline",
+    "Table design brief",
+    "Financial model specification",
+    "T02 proposition and second-challenge evidence"
+  ],
+  "actual_workbook_inspected": false,
+  "budget_validated": false,
+  "commercial_validation": false,
+  "external_actions": false,
+  "memo": "08-qa/t04-review/PRELIMINARY-REVIEW.md"
+}

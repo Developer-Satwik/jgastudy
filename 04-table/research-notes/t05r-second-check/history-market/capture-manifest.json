@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5H-S01",
+      "url": "https://www.ciep.uk/resource/suggested-minimum-rates-archive.html",
+      "final_url": "https://www.ciep.uk/resource/suggested-minimum-rates-archive.html",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-31T17:59:05.037882+00:00",
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S01.html",
+      "capture_sha256": "a780a6132116a12082d8df31dadd2731289bca668bf64b0cd769da74d670993e",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S01.txt",
+      "parsed_sha256": "8a1ac9be7d416124c14d722271af049d09faaa9bbce5ed3970de2ebaf4d0c12f"
+    },
+    {
+      "candidate_id": "T5H-S02",
+      "url": "https://www.procopywriters.co.uk/survey/2025/",
+      "final_url": "https://www.procopywriters.co.uk/survey/2025/",
+      "http_status": null,
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S02-reader.txt",
+      "capture_sha256": "5ea27ffa312c1dc55d038a41fa155d172e19b45aaaf3b8d495056f28908560cc",
+      "capture_kind": "browser_reader_extract",
+      "raw_http_retrieval_status": 403,
+      "reader_inspected_on": "2026-10-31"
+    },
+    {
+      "candidate_id": "T5H-S03",
+      "url": "https://www.yunojuno.com/press-release/yunojuno-releases-2025-freelancer-rates-report-ai-skills-drive-shift-in-contingent-workforce-market-as-average-day-rates-rise",
+      "final_url": "https://www.yunojuno.com/press-release/yunojuno-releases-2025-freelancer-rates-report-ai-skills-drive-shift-in-contingent-workforce-market-as-average-day-rates-rise",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-31T17:59:05.062082+00:00",
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S03.html",
+      "capture_sha256": "ac0a5180fff83c8afd28d3c100f4e730037019c140df8617cff8fd6781257d17",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S03.txt",
+      "parsed_sha256": "9a2179c36a5ddd9e41a011ceff36f15b534c5c7e4ecaec8cd678cf12928c3082"
+    },
+    {
+      "candidate_id": "T5H-S04",
+      "url": "https://www.upwork.com/hire/market-researchers/cost/",
+      "final_url": "https://www.upwork.com/hire/market-researchers/cost/",
+      "http_status": null,
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S04-reader.txt",
+      "capture_sha256": "50e113e21ee042f7700bdeb58feeeb1bc3d7807ce0c27952e616125567484e39",
+      "capture_kind": "browser_reader_extract",
+      "raw_http_retrieval_status": 403,
+      "reader_inspected_on": "2026-10-31"
+    },
+    {
+      "candidate_id": "T5H-S05",
+      "url": "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee",
+      "final_url": "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee",
+      "http_status": null,
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S05-reader.txt",
+      "capture_sha256": "aaf1832160ce44c0557bc35324caa64a9c5efb9646a319b44f3fa9207343d8ad",
+      "capture_kind": "browser_reader_extract",
+      "raw_http_retrieval_status": 403,
+      "reader_inspected_on": "2026-10-31"
+    }
+  ],
+  "raw_original_count": 2,
+  "substantive_primary_reader_extracts": 3,
+  "raw_failures": [
+    {
+      "candidate_id": "T5H-S02",
+      "status": 403
+    },
+    {
+      "candidate_id": "T5H-S04",
+      "status": 403
+    },
+    {
+      "candidate_id": "T5H-S05",
+      "status": 403
+    }
+  ],
+  "reader_failures": [
+    {
+      "candidate_id": "T5H-S02",
+      "status": "open_timeout"
+    },
+    {
+      "candidate_id": "T5H-S04",
+      "status": "open403"
+    }
+  ],
+  "failed_originals_not_created": true,
+  "no_bypass": true
+}

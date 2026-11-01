@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S01.html",
+      "sha256": "193f2645aeb95f095ba383866f3432206cf9d58d9c989cad4bca238b966bbcf3",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0275"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S01.txt",
+      "sha256": "4a907963c087682765720acd3019161851b24dbb6c6621bc79dada2ae7bb45a5",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0275"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S02.html",
+      "sha256": "bc62d7a0cfba8c2c9ebe82e9cece01908ee352fe7a60e03d807c01f4c15de423",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0276"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S02.txt",
+      "sha256": "6dc4e98e503a1433484bb78bdcb64832d6a28853f477a812282d868e3f014953",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0276"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S03.html",
+      "sha256": "7e91e1bad9a035a1e02bb3a84b32fe0b144d2bdf1b5e9b3e3f4d8cdf66fbc2b5",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0277"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S03.txt",
+      "sha256": "f22ca0edf2ebae78f92a3a06ef7d022dbc502d0049bcf873064ce27f724fe344",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0277"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S04.html",
+      "sha256": "8e13fd7ee77729b4e836da0381e6ae614672c2c4baf148ff4dd0d66f17e4bd35",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0278"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S04.txt",
+      "sha256": "199c9924599d8280cfed2fb2d30d5ae1e570cc2f9ed6f0abc72a3b07f2c076c6",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0278"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/root/captures/T5M-S01.html",
+      "sha256": "0c0b060f253bef46f30815fd5a20a48c328470782b78d9525e8ef4310609880c",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0279"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/root/parsed/T5M-S01.txt",
+      "sha256": "35e19ba30cd5f7a7d5fda672f648955ae982cf41bbbd337d17cec0442f62f94d",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0279"
+    }
+  ],
+  "primary_originals": 5,
+  "parsed_extracts": 5,
+  "failed_bodies_or_shells_promoted": false,
+  "new_empirical_JGA_datasets": 0
+}

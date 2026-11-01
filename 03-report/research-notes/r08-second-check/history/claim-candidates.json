@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H8S-C01",
+      "canonical_source_ids": [
+        "SRC-0205",
+        "SRC-0206"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "LFB’s earlier authorisation/options account and2025reset report describe different dated events and option constraints within one continuing programme. The later report narrates sponsor/plan changes and a release decision; it does not replace the earlier event with a later outcome.",
+      "evidence_class": "dated_employer_history_and_record_boundary",
+      "locator": "SRC0205retainedlocators; SRC0206PDF2–4,1.1–1.5,2.1–2.8",
+      "limitations": "Earlier source is retained selected reader notes and fresh route403. Later account is not raw complete decisionminutes. No hindsight-optimality judgment, new employer, current/later delivery, programme success/failure or monetary trend.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Selected dated public programme record/audit and explicit researcher application, not an original practitioner or market sample",
+      "time_period": "2021 and2025LFB records; Scottish2024/25audit of2024events. No observed2026series.",
+      "review_mode": "Retained original PDFs and selected reader notes, source-specific limits retained; relevant PDF3–4/46rendered and visually inspected."
+    },
+    {
+      "candidate_id": "H8S-C02",
+      "canonical_source_ids": [
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The Scottish Government audit describes migration signoff, conditional backing and a later final go-live approval that recorded known issues and assurances. Its subsequent audit appraisal is a different claim from the managers’ reported judgement at that decision.",
+      "evidence_class": "retrospective_external_audit_of_staged_decision_context",
+      "locator": "PDF/printed43para125;46paras137–141",
+      "limitations": "One shared HR/finance programme. No imported readiness threshold, universal minimum runs, current2026outcome, all-payroll accuracy, causal benefit or claim that acceptance proved every underlying assertion true.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Selected dated public programme record/audit and explicit researcher application, not an original practitioner or market sample",
+      "time_period": "2021 and2025LFB records; Scottish2024/25audit of2024events. No observed2026series.",
+      "review_mode": "Retained original PDFs and selected reader notes, source-specific limits retained; relevant PDF3–4/46rendered and visually inspected."
+    },
+    {
+      "candidate_id": "H8S-C03",
+      "canonical_source_ids": [
+        "SRC-0205",
+        "SRC-0206",
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "When explaining an earlier decision in R08, distinguish the event and evidence/knowledge available then from the date, perspective and basis of a later retrospective explanation. Present-day alternatives or a later outcome must not silently backfill the earlier option or authority record.",
+      "evidence_class": "researcher_selective_event_time_knowledge_condition",
+      "locator": "Cross-source analytical application to existingV02–V05 and Q006–Q013",
+      "limitations": "A selective clarification of already time/scoped fields, not another view or compulsory question. Actual contemporaneous knowledge is not presumed; unknown stays unknown. No inference about what an individual ought to have known, negligence or decision optimality.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Selected dated public programme record/audit and explicit researcher application, not an original practitioner or market sample",
+      "time_period": "2021 and2025LFB records; Scottish2024/25audit of2024events. No observed2026series.",
+      "review_mode": "Retained original PDFs and selected reader notes, source-specific limits retained; relevant PDF3–4/46rendered and visually inspected."
+    },
+    {
+      "candidate_id": "H8S-C04",
+      "canonical_source_ids": [
+        "SRC-0206",
+        "SRC-0134"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "The selected accounts record different release decisions with outstanding issues. R08 should preserve each account’s specific judgement and conditions without treating a decision to proceed or postpone as a reusable risk threshold or a proven-quality score.",
+      "evidence_class": "researcher_no_hindsight_or_universal_release_rule",
+      "locator": "SRC0206PDF3–4,2.1–2.8; SRC0134PDF46paras137–141; explicit analytical application",
+      "limitations": "These are not matched or equivalent risks or comparable severity measures. No claim that either decision was right/wrong, a guaranteed remedy, private-employer rule or causal link from a framework view to outcome.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Selected dated public programme record/audit and explicit researcher application, not an original practitioner or market sample",
+      "time_period": "2021 and2025LFB records; Scottish2024/25audit of2024events. No observed2026series.",
+      "review_mode": "Retained original PDFs and selected reader notes, source-specific limits retained; relevant PDF3–4/46rendered and visually inspected."
+    }
+  ]
+}

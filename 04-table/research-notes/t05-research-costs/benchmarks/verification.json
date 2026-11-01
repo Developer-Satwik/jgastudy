@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_bounded_record_and_capture_checks",
+  "checks": [
+    {
+      "check": "hash_T5R-S01_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S01_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S02_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S02_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S03_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S03_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S04_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S04_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S05_capture_path",
+      "passed": true
+    },
+    {
+      "check": "hash_T5R-S05_parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T5R-C01_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5R-C02_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5R-C03_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5R-C04_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5R-C05_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5R-C06_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "T5R-C07_source_resolution",
+      "passed": true
+    },
+    {
+      "check": "LB01_nonadoption",
+      "passed": true
+    },
+    {
+      "check": "LB02_nonadoption",
+      "passed": true
+    },
+    {
+      "check": "LB03_nonadoption",
+      "passed": true
+    },
+    {
+      "check": "LB04_nonadoption",
+      "passed": true
+    },
+    {
+      "check": "LB05_nonadoption",
+      "passed": true
+    },
+    {
+      "check": "LB06_nonadoption",
+      "passed": true
+    },
+    {
+      "check": "LB07_nonadoption",
+      "passed": true
+    }
+  ],
+  "source_routes": 5,
+  "claim_candidates": 7,
+  "benchmark_options": 7,
+  "canonical_changes": 0,
+  "financial_inputs_added": 0,
+  "scope": "Hashes/source links and nonadoption state, with rate facts manually checked against primary pages. Not supplier verification or rate validation for JGA."
+}

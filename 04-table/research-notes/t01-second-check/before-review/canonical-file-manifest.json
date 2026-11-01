@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "original_path": "02-evidence/registers/sources.json",
+      "snapshot_path": "04-table/research-notes/t01-second-check/before-review/sources.json",
+      "sha256": "60c978614d1694f33721c64bf4eb929728f44db98130aba88d54a1ac4f0fefd2"
+    },
+    {
+      "original_path": "02-evidence/registers/claims.json",
+      "snapshot_path": "04-table/research-notes/t01-second-check/before-review/claims.json",
+      "sha256": "69d64f0cfea17225c848e6714fab0fc91efba450c047e970c0bfa56081e86c4e"
+    },
+    {
+      "original_path": "02-evidence/registers/searches.json",
+      "snapshot_path": "04-table/research-notes/t01-second-check/before-review/searches.json",
+      "sha256": "c534095efe5eff26b89a8f17a43f36c0a614efe72037da8ff2ea113400cffbce"
+    },
+    {
+      "original_path": "02-evidence/registers/source-aliases.json",
+      "snapshot_path": "04-table/research-notes/t01-second-check/before-review/source-aliases.json",
+      "sha256": "cfadee80ab6a47157a6464db7595c31d4c0e9b6e0e50c404083cea16b04fcced"
+    },
+    {
+      "original_path": "05-analysis/findings.json",
+      "snapshot_path": "04-table/research-notes/t01-second-check/before-review/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    }
+  ]
+}

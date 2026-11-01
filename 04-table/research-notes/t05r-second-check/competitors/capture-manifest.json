@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "source_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "attempted_at_utc": "2026-10-31T17:59:03.620840+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "fb9939def6a4c8dd281cfa82f77402febb4df4471089585fd1262719e3c9cfe9",
+      "capture_kind": "retained_original_html",
+      "text_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6"
+    },
+    {
+      "source_id": "SRC-0193",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "attempted_at_utc": "2026-10-31T17:59:03.621385+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "4bb3304e2054981e280934ef5b4238ffa8671f112f786dfc45c8d12ed5e5c2ed",
+      "capture_kind": "retained_original_html",
+      "text_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.txt",
+      "text_sha256": "63823e74e04a6daaadefda53fb3368219b7be61362ac58e277a67cbfff70d538"
+    },
+    {
+      "source_id": "SRC-0257",
+      "url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "attempted_at_utc": "2026-10-31T17:59:03.621479+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "capture_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.html",
+      "capture_sha256": "09fe3f9ea5fcad516d691be5182f7cdae525c4faad7035523243643c61d02da5",
+      "capture_kind": "retained_original_html",
+      "text_path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.txt",
+      "text_sha256": "1271453ecdacc3c512185d17182e67538517aba44344a9a8a185473c523fd270"
+    }
+  ],
+  "new_source_routes": 0
+}

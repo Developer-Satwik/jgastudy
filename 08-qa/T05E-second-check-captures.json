@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "source_id": "SRC-0289",
+      "candidate_id": "E2-S01",
+      "path": "04-table/research-notes/t05e-second-check/evidence/reader-notes/E2-S01-selected-reader-paraphrase.txt",
+      "sha256": "981a5d930e781f5a306c84382041455802bc39d7ee95b7ca8671c7e66d6673fc",
+      "kind": "browser_reader_paraphrase_not_original",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0290",
+      "candidate_id": "E2-S02",
+      "path": "04-table/research-notes/t05e-second-check/evidence/reader-notes/E2-S02-selected-reader-paraphrase.txt",
+      "sha256": "9883adba1d9b1bf819eadbcdc8c33422a2fcbceac203ef63ea4cfb1403103752",
+      "kind": "browser_reader_paraphrase_not_original",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0291",
+      "candidate_id": "E2-S03",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S03.html",
+      "sha256": "6f7f60787a95a7815fa6d90c2a782e58dfe849faccec03361cb5ee1f5c04bf60",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0291",
+      "candidate_id": "E2-S03",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S03.txt",
+      "sha256": "e8e7dbec74ccc4a8c69e4143de1eea7b8fa632cab65c1d677c4669ea93d8af4e",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0292",
+      "candidate_id": "E2-S04",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S04.html",
+      "sha256": "1c63cd2d661e82414e72678cdf7a0b1e6280b0702c7d2541b66ed24f0124a4cd",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0292",
+      "candidate_id": "E2-S04",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S04.txt",
+      "sha256": "346314fb37b6af1aeefee200226cb91ef4151de6b9a485c46656d1097dbec245",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0293",
+      "candidate_id": "E2-S05",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S05.html",
+      "sha256": "1d9e17927eb4a6e5b50cfbbdd1b77fd9196e5f569718dcfc51ca77211b40b736",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0293",
+      "candidate_id": "E2-S05",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S05.txt",
+      "sha256": "8000232b551d8ba90849d9899282672c3051cad79b0a57056db445b131a4d333",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0294",
+      "candidate_id": "E2-S06",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S06.html",
+      "sha256": "a06e21bbb6a1dc855deab3d14daa80a62de65e3d41354116ab881215a75eac32",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0294",
+      "candidate_id": "E2-S06",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S06.txt",
+      "sha256": "d9e31815169c6f24d9e7d2943434bd1bd4dafd7336a824072a2707f6c8b4f5fa",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0295",
+      "candidate_id": "E2-S07",
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.pdf",
+      "sha256": "366d9d28932a76b071d1d9d79c66069abe38c26c78dd22253a7cbdd31e5f0efb",
+      "kind": "prior_primary_original_reused",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0295",
+      "candidate_id": "E2-S07",
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.txt",
+      "sha256": "4a456275862f888428356195d31d765811782a77435f97e7a29f60725797f890",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0261",
+      "candidate_id": "E2-S08",
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4",
+      "kind": "prior_primary_original_reused",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0261",
+      "candidate_id": "E2-S08",
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt",
+      "sha256": "65be34ac70fc76bde2dc221ef5ebf89f6603ca5fb6aa6671fe524659aef26fb2",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0116",
+      "candidate_id": "E2-S09",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S09.html",
+      "sha256": "7ea4d67caa42760d1dacecca77219c7ced4cf8ad01a3f882c73915a666bcc377",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0116",
+      "candidate_id": "E2-S09",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S09.txt",
+      "sha256": "4e5a609f3446524bf8436b4710f8fb93947829c8e48cdea4fbe5130ebaf9919f",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0088",
+      "candidate_id": "E2-S10",
+      "path": "04-table/research-notes/t05e-second-check/evidence/reader-notes/E2-S10-selected-reader-paraphrase.txt",
+      "sha256": "809b9a762c0dcbafe1488b421aebfcbc120d1de6e79c1262890ae9264ee11bc3",
+      "kind": "browser_reader_paraphrase_not_original",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0245",
+      "candidate_id": "E2-S11",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S11.html",
+      "sha256": "e7ca34e6c66fb7f1789acd4503e524fd9f05570bbf2b2e35fbb64c0d077e92c1",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0245",
+      "candidate_id": "E2-S11",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S11.txt",
+      "sha256": "a1d523f2e8abe2c6a80bea71972d14ab78ac02c5eba1467db667dc85004f270c",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0248",
+      "candidate_id": "E2-S12",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S12.html",
+      "sha256": "27f9ac308deba5a668cc0c4b345c10e30f9f220fa783484e79506c7892a94f57",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0248",
+      "candidate_id": "E2-S12",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S12.txt",
+      "sha256": "41c837d0d023e6b73a5134b72edcdea14e82f59b7e7d5c8cf417961e5e7d6420",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0254",
+      "candidate_id": "E2-S13",
+      "path": "04-table/research-notes/t05e-second-check/evidence/reader-notes/E2-S13-selected-reader-paraphrase.txt",
+      "sha256": "5f475ee0853605d3441e97f7fecd862de8a99111c8f2101b7710280b8fc17643",
+      "kind": "browser_reader_paraphrase_not_original",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0241",
+      "candidate_id": "E2-S14",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S14.html",
+      "sha256": "bc16a1c0d76a207660cc6182108dba5137c2c2b9ade0800297cad470f36c88da",
+      "kind": "retained_original_html",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0241",
+      "candidate_id": "E2-S14",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S14.txt",
+      "sha256": "c77ff15b6e0a60aae07061f30396023f8e492d37a03a1f1d2245fe41e9b5c71f",
+      "kind": "parsed_original_text",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0295",
+      "candidate_id": "E2-S07",
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-6.png",
+      "sha256": "becf1449697c69c176ede3555a55462be96dc7930ecba7422d08d95b309c9434",
+      "kind": "prior_pdf_page_render_reviewed",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0261",
+      "candidate_id": "E2-S08",
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png",
+      "sha256": "248ec6aed9b6f2b9ae1f9c0ea2afea114493c1cb3c2b3c08b2444daf9518d1c3",
+      "kind": "prior_pdf_page_render_reviewed",
+      "adopted": true
+    },
+    {
+      "source_id": "SRC-0261",
+      "candidate_id": "E2-S08",
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png",
+      "sha256": "0b6c3df984d30e50387e70357964b3b1169e783e78c4d74a77ebccdefbd450a6",
+      "kind": "prior_pdf_page_render_reviewed",
+      "adopted": true
+    },
+    {
+      "source_id": null,
+      "candidate_id": "E2-S15",
+      "path": "04-table/research-notes/t05e-second-check/evidence/captures/E2-S15.html",
+      "sha256": "c22fa8e7aed91eea20e7ba74a0b2255086abe4fa698220103321275056098f1e",
+      "kind": "discovery_shell_not_substantive_evidence",
+      "adopted": false
+    },
+    {
+      "source_id": null,
+      "candidate_id": "E2-S15",
+      "path": "04-table/research-notes/t05e-second-check/evidence/parsed/E2-S15.txt",
+      "sha256": "bfe647e1ee104d4ea25f211d69ceb72a8d2ae139cb619181ceece5d2d69f41b6",
+      "kind": "discovery_shell_not_substantive_evidence",
+      "adopted": false
+    }
+  ],
+  "counts_by_kind": {
+    "browser_reader_paraphrase_not_original": 4,
+    "retained_original_html": 8,
+    "parsed_original_text": 10,
+    "prior_primary_original_reused": 2,
+    "prior_pdf_page_render_reviewed": 3,
+    "discovery_shell_not_substantive_evidence": 2
+  }
+}

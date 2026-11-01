@@ -1,0 +1,212 @@
+{
+  "version": "0.2",
+  "date": "2026-10-30",
+  "status": "draft_for_user_client_review_not_activated",
+  "supersedes_for_review_only": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+  "active_collection_guide_changed": false,
+  "report_guide_unchanged": "01-method/PRACTITIONER-GUIDE-v0.2.md",
+  "report_core_questions": 14,
+  "additional_mandatory_report_questions": 0,
+  "buyer_question_count": 6,
+  "member_question_count": 6,
+  "records": [
+    {
+      "question_id": "B01",
+      "wording": "What recent decision needed a better understanding of payroll needs or how payroll decisions are made? What was your involvement?",
+      "optional_probes": "For supplier/HCM/consulting/investment roles, establish the product, commercial, client or strategy decision. For an employer-side use, ask about the actual payroll decision. Do not assume either route or a missing solution.",
+      "hypothesis_ids": [
+        "T02-H01",
+        "T02-H02"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC02",
+        "TC04"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "B02",
+      "wording": "How did you obtain the information or insight you used, and what was useful or missing?",
+      "optional_probes": "Actual internal work, public sources and past research/service purchases where relevant. No need for confidential plans, exact budgets, personal staff names or client data.",
+      "hypothesis_ids": [
+        "T02-H01",
+        "T02-H02"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC04"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "B03",
+      "wording": "Looking at this proposed research offer, which parts, if any, would help that decision? What duplicates something you already have?",
+      "optional_probes": "Show only the relevant research-only concept after B01/B02. Record the version shown, use and overlap. Show an event alternative later to distinguish its incremental value.",
+      "hypothesis_ids": [
+        "T02-H01",
+        "T02-H02",
+        "T02-H04"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC04",
+        "TC06"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "B04",
+      "wording": "What evidence and context would you need to trust and use those outputs?",
+      "optional_probes": "Case relevance, role, geography, period, method, gaps and small qualitative sample limits. Intended output may be unachievable; retain that signal. Do not present an index, benchmark or proven causal mechanism.",
+      "hypothesis_ids": [
+        "T02-H01",
+        "T02-H02"
+      ],
+      "condition_ids": [
+        "TC03",
+        "TC04",
+        "TC05",
+        "TC06"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "B05",
+      "wording": "How would an organisation like yours assess paying for a defined version of this?",
+      "optional_probes": "Actual user/payer/beneficiary, approval route, intended internal/public/client use and already granted free access. Ask only relevant probes; no price anchor, full procurement map, presumed licence or promise of contacts.",
+      "hypothesis_ids": [
+        "T02-H01",
+        "T02-H02"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC02",
+        "TC03",
+        "TC06"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "B06",
+      "wording": "What would have to be true before a specific proposal was worth reviewing?",
+      "optional_probes": "Next actual decision, evidence, capacity, rights, timing, objections and a permitted next step, if any. Research funding and separately defined commercial access can be combined only if actually appropriate and agreed.",
+      "hypothesis_ids": [
+        "T02-H01",
+        "T02-H02",
+        "T02-H04"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC02",
+        "TC05",
+        "TC06"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "M01",
+      "wording": "Which recent payroll decisions or challenges, if any, would make peer research useful to you?",
+      "optional_probes": "Ask before the benefits card. Establish actual context and alternatives without requiring a recent investment case or disclosure.",
+      "hypothesis_ids": [
+        "T02-H03",
+        "T02-H04"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC04"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "M02",
+      "wording": "Which parts of this proposed programme would be worthwhile to you, and which would add little value?",
+      "optional_probes": "Show member concept after M01. Explore free research, relevant peer discussion, practical follow-through and optional recognition separately. Do not imply a booked event or confirmed council place.",
+      "hypothesis_ids": [
+        "T02-H03"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC03"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "M03",
+      "wording": "Would contributing one industry question and appropriate research input be practical? If so, what question and mode would suit you?",
+      "optional_probes": "Optional contribution; no guarantee every question becomes a study question or every topic is answered. Interest is not permission, enrolment or actual report input.",
+      "hypothesis_ids": [
+        "T02-H03",
+        "T02-H04"
+      ],
+      "condition_ids": [
+        "TC03",
+        "TC04",
+        "TC05"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "M04",
+      "wording": "What conditions would make the peer group useful and comfortable?",
+      "optional_probes": "Relevant roles, actual peer mix, provider/funder involvement, meeting mode, confidentiality, recognition and use of contributions. No names or employer-sensitive details required.",
+      "hypothesis_ids": [
+        "T02-H03"
+      ],
+      "condition_ids": [
+        "TC02",
+        "TC03",
+        "TC05"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "M05",
+      "wording": "What would make participation practical or impractical?",
+      "optional_probes": "Time/travel, employer permission, hospitality, accessibility and preferred format only where relevant. Do not collect unnecessary personal details or promise travel/accommodation.",
+      "hypothesis_ids": [
+        "T02-H03",
+        "T02-H04"
+      ],
+      "condition_ids": [
+        "TC03",
+        "TC04",
+        "TC05",
+        "TC06"
+      ],
+      "all_probes_mandatory": false
+    },
+    {
+      "question_id": "M06",
+      "wording": "If no in-person event took place, would contributing to and receiving the research still be worthwhile? What would a live discussion add?",
+      "optional_probes": "Compare remote, written and in-person value without implying exact equivalence, capacity or annual membership. No event attendance is counted from a preference.",
+      "hypothesis_ids": [
+        "T02-H03",
+        "T02-H04"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC03",
+        "TC04",
+        "TC06"
+      ],
+      "all_probes_mandatory": false
+    }
+  ],
+  "presentation_flow": [
+    "Explain commercial feasibility purpose and unbooked concept without listing benefits.",
+    "B01/B02 before buyer concept; M01 before member benefits.",
+    "Show the relevant research-only concept first; identify wording/version and relevant use.",
+    "Ask about actual use, duplication and evidence; do not pitch every variant to every person.",
+    "Only then compare an event-supported format; record actual presentation order and what was shown.",
+    "Record objections, unknowns, conditions and permitted next step; interest is not a sale, enrolment or permission."
+  ],
+  "counting_reference": "01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+  "release_decisions_reference": "01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+  "actual_concept_exposures": [],
+  "actual_responses": [],
+  "actual_Table_events": 0,
+  "actual_report_contributors": 0,
+  "price_anchors": [],
+  "fieldwork_activated": false
+}

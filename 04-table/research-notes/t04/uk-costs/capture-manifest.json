@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T4E-S01",
+      "url": "https://thehawksmoor.com/locations/manchester/private-dining/",
+      "final_url": "https://thehawksmoor.com/locations/manchester/private-dining/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T11:44:30.558511+00:00",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S01.html",
+      "capture_sha256": "27fd181c84891bc3086d5e8b5ef7e6557dc316c03f6f36f02cb4c555446c8237",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S01.txt",
+      "parsed_sha256": "b06da4021065f81294fa97593a1ce32c564b449229d6373f0a44eadf83fc886f"
+    },
+    {
+      "candidate_id": "T4E-S02",
+      "url": "https://thehawksmoor.com/wp-content/uploads/2026/09/MCR_SHARING-MENUS-PACKAGES_140826AK.pdf",
+      "final_url": "https://thehawksmoor.com/wp-content/uploads/2026/09/MCR_SHARING-MENUS-PACKAGES_140826AK.pdf",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T11:44:32.169065+00:00",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf",
+      "capture_sha256": "6a48e6e9547b4cff4bed25bf8075db9608c89a992d56528561eafbbac7568255",
+      "capture_kind": "retained_original_pdf",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S02.txt",
+      "parsed_sha256": "18de76580ee206ce502c8779909e51dcaac518a355cb98e76b508f8200c1ef73",
+      "pdf_pages": 9
+    },
+    {
+      "candidate_id": "T4E-S03",
+      "url": "https://benaresrestaurant.com/private-dining-events/",
+      "final_url": "https://benaresrestaurant.com/private-dining-events/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T11:44:34.447513+00:00",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S03.html",
+      "capture_sha256": "678c6f131db1dfc53af4c48cef355a77635ff83d0eb149a5832e4f6c18de1eb8",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S03.txt",
+      "parsed_sha256": "8d5e67842299dd6bd721701fe47add963c735e02fb1ecd2302f6e43a1d749dc5"
+    },
+    {
+      "candidate_id": "T4E-S04",
+      "url": "https://benaresrestaurant.com/wp-content/uploads/2026/09/Benares-Events-Guide-2026-WEB-3-SEP-Onwards.pdf",
+      "final_url": "https://benaresrestaurant.com/wp-content/uploads/2026/09/Benares-Events-Guide-2026-WEB-3-SEP-Onwards.pdf",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T11:49:25.725532+00:00",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "capture_sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4",
+      "capture_kind": "retained_original_pdf",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt",
+      "parsed_sha256": "65be34ac70fc76bde2dc221ef5ebf89f6603ca5fb6aa6671fe524659aef26fb2",
+      "pdf_pages": 9
+    },
+    {
+      "candidate_id": "T4E-S05",
+      "url": "https://www.corrigansmayfair.co.uk/private-dining/private-dining-rooms/lindsay-room",
+      "final_url": "https://www.corrigansmayfair.co.uk/private-dining/private-dining-rooms/lindsay-room",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-30T11:44:41.794185+00:00",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S05.html",
+      "capture_sha256": "f439e0c9210433f2b5dd0af65873346f4d4042dfa1ebce573002389567a82e27",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S05.txt",
+      "parsed_sha256": "99e28dd22279cba8e72fda3d0ec21d107f2549c8841a0ebfff9c51c9617fb8a8"
+    }
+  ]
+}

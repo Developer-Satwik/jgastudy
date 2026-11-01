@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-29",
+  "status": "targeted_source_sample_checked_integration_pending",
+  "independence": "Reviewer did not draft R07 strands, records or integration. No external audit/accreditation claimed.",
+  "pdf_skill_read": true,
+  "visual_source_sample": [
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0202-p11.png",
+      "sha256": "aed351cd5b60e46323ece7b7330902b9f774920a8f7d66610794dd2ea348f0a3",
+      "mode": "Retained source-page/chart image visually inspected by reviewer; not newly rendered in this review"
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0202-p12.png",
+      "sha256": "8917c2aa3fb5284fbd3573f10882c8b953aa33183cf624fb192b60ae0921797c",
+      "mode": "Retained source-page/chart image visually inspected by reviewer; not newly rendered in this review"
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0202-p32.png",
+      "sha256": "bd1ac0a4db2f913465b98e01983605b36093863dbaa0cc0f0213ebfe248338cc",
+      "mode": "Retained source-page/chart image visually inspected by reviewer; not newly rendered in this review"
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0033-p33.png",
+      "sha256": "9845ef435d20631e7b22d8c2d8d41f67321c75b3eecd685c4f52bd8bcd03d996",
+      "mode": "Retained source-page/chart image visually inspected by reviewer; not newly rendered in this review"
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/SRC-0034-p11.png",
+      "sha256": "f5978f6a09905ff0acc0b766ec9118e892595a19b8127ef9603514b4685698be",
+      "mode": "Retained source-page/chart image visually inspected by reviewer; not newly rendered in this review"
+    },
+    {
+      "path": "03-report/research-notes/r07/priorities/captures/MP-feature.png",
+      "sha256": "3240e6b8ed6627bc15f9ab72aa554ffe4897002f3f500e4ddb59f1e9b5b1e973",
+      "mode": "Retained source-page/chart image visually inspected by reviewer; not newly rendered in this review"
+    }
+  ],
+  "other_originals_inspected": [
+    {
+      "url": "https://www.gov.uk/government/publications/simplifying-holiday-entitlement-and-holiday-pay-calculations/holiday-pay-and-entitlement-reforms-from-1-january-2024",
+      "mode": "Fresh original web-reader",
+      "locator": "Opening disclaimer, definitions and applicability",
+      "assessment": "Supports precise working-arrangement/leave-year mechanism; no individual calculation or sector priority inference."
+    },
+    {
+      "url": "https://www.gov.uk/guidance/paying-employees-working-abroad",
+      "mode": "Fresh original web-reader",
+      "locator": "Opening;PAYE;NI;separate payroll headings",
+      "assessment": "Supports work territory/duration/coverage context and distinction between tax,NI and administration; no country-count ranking."
+    },
+    {
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-phased-introduction-of-mandatory-payrolling-for-benefits-in-kind",
+      "mode": "Fresh original web-reader",
+      "locator": "Phase dates/groups/exclusions and retained future-update text",
+      "assessment": "Specified2027/2028phases are interim future guidance, not current operational capability or actual employer commitment."
+    },
+    {
+      "url": "https://www.gov.uk/guidance/sickness-absences-that-start-before-and-end-on-or-after-6-april-2026",
+      "mode": "Fresh original web-reader",
+      "locator": "Opening;preparation;transition headings",
+      "assessment": "Guidance describes6April2026changes with conditions. Preparation instructions do not establish an employer acted."
+    },
+    {
+      "url": "https://www.acas.org.uk/checking-sick-pay/statutory-sick-pay-ssp",
+      "mode": "Fresh original web-reader",
+      "locator": "Eligibility;current effect date;transition context",
+      "assessment": "Confirms described6April2026changes and remaining eligibility/transition; no full consolidated-law assurance or individual advice."
+    }
+  ],
+  "holds": [
+    {
+      "candidate_id": "PRI7-C07",
+      "source": "SRC-0011",
+      "review_result": "Visible published chart12 versus retained annual prose13 branding/customisation value; exact figure excluded pending reconciliation. No choice of favourable version.",
+      "value_adopted": false
+    }
+  ],
+  "substantive_corrections_raised": [],
+  "no_external_contact": true,
+  "remaining_review": [
+    "Integratedreadout/contextualtable/map and canonicalclaim mapping when rootready",
+    "Original instrument/baseline/emptydata check at final review"
+  ]
+}

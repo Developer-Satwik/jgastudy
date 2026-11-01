@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://assets.publishing.service.gov.uk/media/5a821899e5274a2e8ab5778f/Real_Time_Information_programme_-_post_implementation_review_report.pdf",
+    "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/history/hmrc-rti-2017.pdf",
+    "bytes": 295626,
+    "sha256": "61ad0997641db5449265920d505317aae9854d3c8c8cd8056ca062f508e72073",
+    "status": "retained"
+  },
+  {
+    "url": "https://www.cipp.org.uk/resources/policy-report/systemic-issues-in-hmrc-rti-data-collection.html",
+    "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/history/cipp-rti-2025.html",
+    "bytes": 44669,
+    "sha256": "ac86c9945d0c33bc63c6e810a0ed493c485aba8d8ae70760ad2e2932130533a7",
+    "status": "retained"
+  },
+  {
+    "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti",
+    "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/history/ons-rti-qa-2025.html",
+    "bytes": 72591,
+    "sha256": "6db38a5476e2ae84ba839a44a160120b47bc4834e1c85315741e0a426b9dd7c8",
+    "status": "retained"
+  },
+  {
+    "url": "https://www.cipp.org.uk/asset/BD7F9AF1-A3BB-4699-8B40DC22737A089E/",
+    "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r02-second-check/history/cipp-rti-cases-2025.pdf",
+    "bytes": 513389,
+    "sha256": "2e379c73c079651391cde9d3ca373280611fe6955444d916532286727098622c",
+    "status": "retained"
+  }
+]

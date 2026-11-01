@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "C7S-C01",
+      "source_candidate_ids": [
+        "C7S-S01"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Portfolio’s inspected advice includes mentoring, communication and workflow changes that need not require new technology; its author context is Canadian payroll recruitment.",
+      "evidence_class": "recruiter_practitioner_advice_context",
+      "locator": "Peoplemanagement/processimprovement/communication and authorprofile",
+      "limitations": "Advice and recruiter observation, not a UK funded-priority survey, observed employer implementation or proven shortage/effect. Indexedbody and raw-access limit retained.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Targeted primary indexed/reader/original HTML sections inspected; route-specific limits retained. No outcome or commercial validation."
+    },
+    {
+      "candidate_id": "C7S-C02",
+      "source_candidate_ids": [
+        "C7S-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Frazer Jones’s written summary of a named payroll leader’s interview describes task rotation, collaborative learning, communication and continual process review alongside recruitment and technology exploration.",
+      "evidence_class": "secondary_named_practitioner_account",
+      "locator": "Originalreader194–217; writteninterview summary",
+      "limitations": "One supplier-hosted account, not an original JGA contribution, independently audited retention/performance, causal intervention or universal team model. Audio uninspected; no numbers adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Targeted primary indexed/reader/original HTML sections inspected; route-specific limits retained. No outcome or commercial validation."
+    },
+    {
+      "candidate_id": "C7S-C03",
+      "source_candidate_ids": [
+        "C7S-S03"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Oakleaf’s March2026 payroll commentary describes blended roles across payroll, benefits, reward and HR; these are potentially different task/remit boundaries rather than one common payroll investment category.",
+      "evidence_class": "recruiter_commentary_and_researcher_scope_application",
+      "locator": "MarketOverview payrolltechnology/blendedroles and rewardparagraphs",
+      "limitations": "No inspected prevalence method or approval/funding evidence. Commentary about market growth, adoption or event consensus is not adopted as empirical fact. Workforce salary/reward decisions are not automatically payroll-function investment.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Targeted primary indexed/reader/original HTML sections inspected; route-specific limits retained. No outcome or commercial validation."
+    },
+    {
+      "candidate_id": "C7S-C04",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0192",
+        "SRC-0193"
+      ],
+      "claim_text": "Hays separates mixed salary-input data from its employer/employee survey; Robert Half separates projected starting salaries from its non-salary survey. These frames do not establish a specific employer’s approved payroll priority.",
+      "evidence_class": "recruiter_method_and_researcher_evidence_fit_application",
+      "locator": "Haysmethodology107–109; RobertHalfFAQ84–110/method",
+      "limitations": "Current source edition and underlying period differ. No source figure, payroll subgroup estimate, budget, quote, causal priority or numeric forecast adopted; underlying microdata not audited.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Targeted primary indexed/reader/original HTML sections inspected; route-specific limits retained. No outcome or commercial validation."
+    },
+    {
+      "candidate_id": "C7S-C05",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0116",
+        "SRC-0113"
+      ],
+      "claim_text": "Middlemore describes assessing actual work, technical capability, leadership judgement and stakeholder influence rather than title alone; JGA describes tailored UK/global talent acquisition. These are service propositions, not evidence that hiring is the necessary priority.",
+      "evidence_class": "recruiter_service_declaration_and_researcher_scope_application",
+      "locator": "MiddlemorePayrollSearch25–39; JGAPayrollRecruitment2–13",
+      "limitations": "No availablecandidate, completedsearch, approvedemployerresource, supplierranking or verifiedpayrollbenefit. Recruitmentanalytics are not payrolloutcome evaluation. Preserve learning, process, retention and adequateexistingteam responses.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Targeted primary indexed/reader/original HTML sections inspected; route-specific limits retained. No outcome or commercial validation."
+    },
+    {
+      "candidate_id": "C7S-C06",
+      "source_candidate_ids": [
+        "C7S-S01",
+        "C7S-S02",
+        "C7S-S03"
+      ],
+      "canonical_source_ids": [
+        "SRC-0116"
+      ],
+      "claim_text": "For R07, distinguish the capability or work needed from a chosen hiring/training/tool route; separately establish actual organisational remit, who performs the work and the evidence of resources/action.",
+      "evidence_class": "researcher_selective_context_design",
+      "locator": "Cross-sourceanalyticalapplication under existingQ002/Q005/recentcase; exact saved-study premises in local bridge",
+      "limitations": "Selectiveanalystcondition, not an extra corequestion or validatedsolution. A smallteam is not necessarily a small employer; headquarters, workerlocation and payrolljurisdiction are separate. Constructed recruitmentprompts cannot establish actual buyer priorities or demand.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Targeted primary indexed/reader/original HTML sections inspected; route-specific limits retained. No outcome or commercial validation."
+    }
+  ]
+}

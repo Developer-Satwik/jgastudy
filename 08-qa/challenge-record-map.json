@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "HIS-S01",
+      "source_id": "SRC-0068",
+      "claim_id": "CLM-0130",
+      "origin": "03-report/research-notes/challenge-history/source-candidates.json"
+    },
+    {
+      "candidate_id": "HIS-S02",
+      "source_id": "SRC-0069",
+      "claim_id": "CLM-0131",
+      "origin": "03-report/research-notes/challenge-history/source-candidates.json"
+    },
+    {
+      "candidate_id": "HIS-S03",
+      "source_id": "SRC-0070",
+      "claim_id": "CLM-0132",
+      "origin": "03-report/research-notes/challenge-history/source-candidates.json"
+    },
+    {
+      "candidate_id": "HIS-S04",
+      "source_id": "SRC-0071",
+      "claim_id": "CLM-0133",
+      "origin": "03-report/research-notes/challenge-history/source-candidates.json"
+    },
+    {
+      "candidate_id": "HIS-S05",
+      "source_id": "SRC-0072",
+      "claim_id": "CLM-0134",
+      "origin": "03-report/research-notes/challenge-history/source-candidates.json"
+    },
+    {
+      "candidate_id": "HIS-S06",
+      "source_id": "SRC-0073",
+      "claim_id": "CLM-0135",
+      "origin": "03-report/research-notes/challenge-history/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC01",
+      "source_id": "SRC-0074",
+      "claim_id": "CLM-0136",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC02",
+      "source_id": "SRC-0005",
+      "claim_id": "CLM-0137",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC03",
+      "source_id": "SRC-0075",
+      "claim_id": "CLM-0138",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC04",
+      "source_id": "SRC-0076",
+      "claim_id": "CLM-0139",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC05",
+      "source_id": "SRC-0077",
+      "claim_id": "CLM-0140",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC06",
+      "source_id": "SRC-0078",
+      "claim_id": "CLM-0141",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC07",
+      "source_id": "SRC-0079",
+      "claim_id": "CLM-0142",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "EC08",
+      "source_id": "SRC-0080",
+      "claim_id": "CLM-0143",
+      "origin": "03-report/research-notes/challenge-economics/source-candidates.json"
+    },
+    {
+      "candidate_id": "METHOD-C01",
+      "source_id": "SRC-0081",
+      "claim_id": "CLM-0144",
+      "origin": "03-report/research-notes/challenge-method/source-candidates.json"
+    },
+    {
+      "candidate_id": "METHOD-C02",
+      "source_id": "SRC-0082",
+      "claim_id": "CLM-0145",
+      "origin": "03-report/research-notes/challenge-method/source-candidates.json"
+    },
+    {
+      "candidate_id": "METHOD-C03",
+      "source_id": "SRC-0083",
+      "claim_id": "CLM-0146",
+      "origin": "03-report/research-notes/challenge-method/source-candidates.json"
+    },
+    {
+      "candidate_id": "METHOD-C04",
+      "source_id": "SRC-0084",
+      "claim_id": "CLM-0147",
+      "origin": "03-report/research-notes/challenge-method/source-candidates.json"
+    },
+    {
+      "candidate_id": "METHOD-C05",
+      "source_id": "SRC-0085",
+      "claim_id": "CLM-0148",
+      "origin": "03-report/research-notes/challenge-method/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C01",
+      "source_id": "SRC-0086",
+      "claim_id": "CLM-0149",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C02",
+      "source_id": "SRC-0087",
+      "claim_id": "CLM-0150",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C03",
+      "source_id": "SRC-0088",
+      "claim_id": "CLM-0151",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C04",
+      "source_id": "SRC-0089",
+      "claim_id": "CLM-0152",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C05",
+      "source_id": "SRC-0090",
+      "claim_id": "CLM-0153",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C06",
+      "source_id": "SRC-0091",
+      "claim_id": "CLM-0154",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C07",
+      "source_id": "SRC-0092",
+      "claim_id": "CLM-0155",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    },
+    {
+      "candidate_id": "ROOT-C08",
+      "source_id": "SRC-0093",
+      "claim_id": "CLM-0156",
+      "origin": "03-report/research-notes/challenge-root/source-candidates.json"
+    }
+  ]
+}

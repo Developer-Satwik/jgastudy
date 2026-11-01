@@ -1,0 +1,911 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_internal_constructed_T01_second_challenge_walkthrough",
+  "route_count": 9,
+  "check_count": 173,
+  "checks": [
+    {
+      "name": "condition IDs resolve TR01",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR01",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR01",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR01",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR02",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR02",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR02",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR02",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR03",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR03",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR03",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR03",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR04",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR04",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR04",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR04",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR05",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR05",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR05",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR05",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR06",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR06",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR06",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR06",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR07",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR07",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR07",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR07",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR08",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR08",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR08",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR08",
+      "passed": true
+    },
+    {
+      "name": "condition IDs resolve TR09",
+      "passed": true
+    },
+    {
+      "name": "claim IDs resolve TR09",
+      "passed": true
+    },
+    {
+      "name": "bounded assessment recorded TR09",
+      "passed": true
+    },
+    {
+      "name": "selective nonvalidated conditions TR09",
+      "passed": true
+    },
+    {
+      "name": "131preservation 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/collection-pack-v0.1/START-HERE.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/FINANCIAL-MODEL-SPEC.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/T01-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/T01-model-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/T02-proposition-hypotheses.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 04-table/TABLE-DESIGN-BRIEF.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "131preservation 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/T01-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/T01-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/T01-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/T01-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/WP03-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/WP03-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/WP03-routing-permission-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/t01-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131preservation 08-qa/wp03-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "firstsixmodels/fourhypotheses unchanged",
+      "passed": true
+    },
+    {
+      "name": "no expanded core/actual/financial claims",
+      "passed": true
+    },
+    {
+      "name": "actual data empty 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "actual data empty 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "actual data empty 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "name": "collection not activated",
+      "passed": true
+    }
+  ],
+  "routes": [
+    {
+      "route_id": "TR01",
+      "title": "Equivalent free research copy",
+      "constructed_input": "A hypothetical contributor already receives the promised research free. The same employer is pencilled in for a licence with equivalent access.",
+      "condition_ids": [
+        "TC01",
+        "TC06"
+      ],
+      "root_analyst_assessment": "Do not forecast an automatic second sale. Preserve the free benefit, establish incremental use/service/rights and count the actual bundle once.",
+      "limits": [
+        "No new restriction on free benefit",
+        "No assumed paid buyer or revenue"
+      ],
+      "claim_ids": [
+        "CLM-0522",
+        "CLM-0506"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR02",
+      "title": "Adviser client-facing reuse",
+      "constructed_input": "A hypothetical adviser likes a report for a client deliverable, without an external-use agreement.",
+      "condition_ids": [
+        "TC01",
+        "TC02"
+      ],
+      "root_analyst_assessment": "Identify actual intended client use and applicable permissions; neither internal access nor the adviser label establishes resale/client publication rights.",
+      "limits": [
+        "No external rights presumed",
+        "No licence or price adopted"
+      ],
+      "claim_ids": [
+        "CLM-0506",
+        "CLM-0515"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR03",
+      "title": "Funder-targeted recruitment",
+      "constructed_input": "A hypothetical funder wants invited sales targets and private meeting access while the council promises a relevant confidential practitioner group.",
+      "condition_ids": [
+        "TC02",
+        "TC04",
+        "TC06"
+      ],
+      "root_analyst_assessment": "Separate research/member eligibility from optional commercial access; test fit and transparent deliverable rights. Funding does not create a participant list or guarantee access.",
+      "limits": [
+        "No sponsor list prepopulated",
+        "No private identities or answers granted"
+      ],
+      "claim_ids": [
+        "CLM-0508",
+        "CLM-0509"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR04",
+      "title": "Public moderator role",
+      "constructed_input": "A retained public summit retrospective names Nick as moderator.",
+      "condition_ids": [
+        "TC02",
+        "TC03"
+      ],
+      "root_analyst_assessment": "Record that public dated role; do not infer a current formal partnership, available audience, permission or Table endorsement.",
+      "limits": [
+        "Public involvement retained",
+        "Broader shell-only collaboration lead unconfirmed"
+      ],
+      "claim_ids": [
+        "CLM-0500"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR05",
+      "title": "Programme and member change",
+      "constructed_input": "A hypothetical four-city programme uses different people; one professional changes employer between contributions.",
+      "condition_ids": [
+        "TC03"
+      ],
+      "root_analyst_assessment": "Keep programme, cohort, person, role and entitlement period distinct. Do not infer a longitudinal panel, achieved retention, blanket permission expiry or automatic transfer.",
+      "limits": [
+        "No participant record invented",
+        "Actual eligible report person counts once under WP03"
+      ],
+      "claim_ids": [
+        "CLM-0498",
+        "CLM-0501",
+        "CLM-0503",
+        "CLM-0510"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR06",
+      "title": "Rule meeting and recording checkbox",
+      "constructed_input": "A hypothetical session is designated under the Chatham House Rule but an old generic permission form offers recording.",
+      "condition_ids": [
+        "TC05"
+      ],
+      "root_analyst_assessment": "The chosen mode governs this meeting; a checkbox does not silently override it. Do not record or attribute under that mode. Separately approved research interviews may use different terms.",
+      "limits": [
+        "No actual meeting mode adopted",
+        "No universal ban imposed on all research"
+      ],
+      "claim_ids": [
+        "CLM-0518",
+        "CLM-0519"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR07",
+      "title": "Hospitality constraint and remote input",
+      "constructed_input": "A hypothetical eligible practitioner cannot accept hospitality under their employer rules but might give permitted written input.",
+      "condition_ids": [
+        "TC04",
+        "TC05"
+      ],
+      "root_analyst_assessment": "Evaluate permitted research contribution separately from attendance. A relevant remote account may count only if actual, verified, eligible, usable and permissioned; it is not an attended event.",
+      "limits": [
+        "Employer-specific example not universalised",
+        "No attendance or contribution counted in advance"
+      ],
+      "claim_ids": [
+        "CLM-0520",
+        "CLM-0521"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR08",
+      "title": "Funds before deliverable readiness",
+      "constructed_input": "A hypothetical partner payment arrives before evidence rights, eligible audience and a promised briefing are ready.",
+      "condition_ids": [
+        "TC03",
+        "TC06"
+      ],
+      "root_analyst_assessment": "Separate received funds, deliverable obligations, staffing/rights readiness and actual fulfilled benefit. Cash receipt does not prove viability, retention or that the programme can be delivered.",
+      "limits": [
+        "No competitor invoice interval copied",
+        "No paid receipt or forecast entered"
+      ],
+      "claim_ids": [
+        "CLM-0509",
+        "CLM-0510",
+        "CLM-0516"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    },
+    {
+      "route_id": "TR09",
+      "title": "Dublin location versus research decision",
+      "constructed_input": "A hypothetical participant is interested in a Dublin event but needs an Irish payroll compliance answer already available through local support.",
+      "condition_ids": [
+        "TC01",
+        "TC04"
+      ],
+      "root_analyst_assessment": "Compare alternatives for the actual decision/country scope. Event interest does not establish demand for global investment research or a research licence.",
+      "limits": [
+        "No Irish/global demand rate inferred",
+        "IPASS and GPA remain substitutes, not seventh/eighth selected models"
+      ],
+      "claim_ids": [
+        "CLM-0504",
+        "CLM-0505",
+        "CLM-0507"
+      ],
+      "assessment_completed": true,
+      "actual_participant_case": false,
+      "empirical_validation": false,
+      "financial_input_created": false
+    }
+  ],
+  "scope": "Root analyst applications to hypothetical cases and one dated public-role example; integrity checks are not evidence of buyer behaviour, practitioner usefulness or commercial viability.",
+  "actual_participant_cases": 0,
+  "practitioner_validation": false,
+  "commercial_validation": false,
+  "new_mandatory_questions": 0,
+  "financial_inputs_added": 0,
+  "external_contact": false,
+  "model_path": "04-table/T01-second-challenge-map.json",
+  "model_sha256_at_walkthrough": "2440ca1d47bc986818728b1975f19c0467833d344876a5f48607dd35bd74adf0"
+}

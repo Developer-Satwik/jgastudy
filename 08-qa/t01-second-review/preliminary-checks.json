@@ -1,0 +1,1947 @@
+{
+  "status": "passed_preliminary_T01_second_challenge_source_review_integration_pending",
+  "date": "2026-10-30",
+  "check_count": 471,
+  "checks": [
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S01.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S01.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S02.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S01.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S01.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S02.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S03.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/history/captures/T1H-S03.txt",
+      "passed": true
+    },
+    {
+      "name": "new source candidate unique T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "new source candidate unique T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0240",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0241",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0224",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0225",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0226",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S01.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S01.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S02.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0227.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0227.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0228.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0228.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0238.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0238.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0239.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0239.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0245.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0245.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0246.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0246.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0248.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0248.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0227.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0227.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0228.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0228.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0238.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0238.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0239.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0239.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0245.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0245.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0246.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0246.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0248.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0248.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S01.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S01.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S02.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "new source candidate unique T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "new source candidate unique T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0238",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0245",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0248",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "retained hash 03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.txt",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/root/captures/T1R2-S01-selected-reader.md",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/root/captures/T1R2-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/root/captures/T1R2-S02.txt",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/root/captures/T1R2-S01-selected-reader.md",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/root/captures/T1R2-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/root/captures/T1R2-S02.txt",
+      "passed": true
+    },
+    {
+      "name": "new source candidate unique T1R2-S01",
+      "passed": true
+    },
+    {
+      "name": "new source candidate unique T1R2-S02",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "explicit canonical reuse SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "claim candidate unique T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "six new route candidates and25 bounded claim/condition candidates",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "candidate sources resolve T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical sources resolve T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "limits retained T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/collection-pack-v0.1/START-HERE.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/FINANCIAL-MODEL-SPEC.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/T01-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/T01-model-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/T02-proposition-hypotheses.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 04-table/TABLE-DESIGN-BRIEF.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/T01-captures.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/T01-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/T01-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/T01-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/WP03-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/WP03-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/WP03-routing-permission-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/t01-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "131 baseline file preserved 08-qa/wp03-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "prior provenance exact all_answers",
+      "passed": true
+    },
+    {
+      "name": "prior provenance exact final_answer_index",
+      "passed": true
+    },
+    {
+      "name": "prior provenance exact previous_R08_exact_bridge",
+      "passed": true
+    },
+    {
+      "name": "three constructed prompts24 saved records3semantic rereads scope explicit",
+      "passed": true
+    },
+    {
+      "name": "four tools two repeats S01-C",
+      "passed": true
+    },
+    {
+      "name": "question hash exact S01-C",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "four tools two repeats S02-D",
+      "passed": true
+    },
+    {
+      "name": "question hash exact S02-D",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "four tools two repeats S11-C",
+      "passed": true
+    },
+    {
+      "name": "question hash exact S11-C",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "saved prompt exact S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "saved full answer hash S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "final index exact S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "earlier bridge exact S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "capture limitation retained S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "prior bridge is not fresh model evidence or demand",
+      "passed": true
+    },
+    {
+      "name": "six recruitment firms plusJGA distinct from six business models",
+      "passed": true
+    },
+    {
+      "name": "comparator names not converted into qualified contacts",
+      "passed": true
+    },
+    {
+      "name": "Chatham reader note not raw original",
+      "passed": true
+    },
+    {
+      "name": "Nick public moderator role supported not formal partnership",
+      "passed": true
+    },
+    {
+      "name": "broader partnership lead retained as screened not claimed",
+      "passed": true
+    },
+    {
+      "name": "actual array remains empty 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "actual array remains empty 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "actual array remains empty 04-table/financial-inputs.json",
+      "passed": true
+    }
+  ],
+  "retained_hashes": {
+    "04-table/research-notes/t01-second-check/history/captures/T1H-S01.html": "2c22058a432242c9c683adc95fd8739ab5dfc483c1e25bebe2c75f5bd71f3927",
+    "04-table/research-notes/t01-second-check/history/captures/T1H-S01.txt": "325787c739cbcb029974d91047bf0fdef1af75518c5e489625f572dca4175c26",
+    "04-table/research-notes/t01-second-check/history/captures/T1H-S02.html": "afd8fb97e43ede11ac17bf4948453c688e3002961fdf68b8de98e8c206901fa2",
+    "04-table/research-notes/t01-second-check/history/captures/T1H-S02.txt": "deda805896ab9cb87655da84166221ad46dec6d4d3d8cd0758980331cfd82237",
+    "04-table/research-notes/t01-second-check/history/captures/T1H-S03.html": "e6a8310b6f3086f89af31e450f19da374977c6640b3382f2d27a2c8f7b3621c1",
+    "04-table/research-notes/t01-second-check/history/captures/T1H-S03.txt": "dc512e08108b971924de158736e1392cb6ce58261d8a557b63677f637093e427",
+    "04-table/research-notes/t01-second-check/market/captures/T1M-S01.html": "7785413de7b23b97d6ba10e7af02d5c904be555dd62ade3e099146715ee2bf29",
+    "04-table/research-notes/t01-second-check/market/captures/T1M-S01.parsed.txt": "19b79e9784921d0fafd9342617da43dc5eea7372288ceae010c28dc6b045df54",
+    "04-table/research-notes/t01-second-check/market/captures/T1M-S02.html": "e207aa3eb062203c67e46b180b38c9d2da166470b55c23e547f84d280fd0eda5",
+    "04-table/research-notes/t01-second-check/market/captures/T1M-S02.parsed.txt": "ad1fbe73416cc6241af878cc22ec3a47804bdc596b4f8dd61da97567f5b9cc38",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0227.html": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0227.parsed.txt": "fcbd864b51a6a46bed5d387b0e303abb33db4f699a24a5a881a95644709c6f89",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0228.html": "726107f8af0b3577d3a4cd863d37a45ec5040b0dff6299fd611f0e4983d6467b",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0228.parsed.txt": "53324a28e6d6db37b9fc47e23ca25c64b3ebc73225e6a661819799813f894e3e",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0238.html": "ffef9c09147c8562e6e848b01c03e081d83abc4038291a1bc306ae41438c511f",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0238.parsed.txt": "d4a80d8aaa14ad2b7adb33b32cdc5cc11100e1a7c59a1ac1261dd6e75bc9e64d",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0239.html": "085593637bf5e4a8f0963530f6714eb1094662b7ed56937d98b683d9ba089b03",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0239.parsed.txt": "46485f28b9fb7dc8a39a2111f4c03395b4ea0ba54c3d75f295938cbf75c88ae3",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0245.html": "a904d0367c3e515b392669c40cc430957669ab97557fdfdd3b69dad51bf15956",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0245.parsed.txt": "8db095f5be395f531f5ce9fb7cfc1c0d67f5364d3654eeeceb91ec5141e72aaf",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0246.html": "6a98cdcd08a14b7a9d52f561cdec126fd74b5e63e4f76391634a48096d0e5762",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0246.parsed.txt": "7a4451a5186a2a2daf3c415e3642a9e81fed3ff7a1647d909d9d7d1db83e6089",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0248.html": "8927609b24f843f1344b6a89b1817ebad9cc2443c17a7c1f020d0bd24a549af7",
+    "04-table/research-notes/t01-second-check/market/captures/SRC-0248.parsed.txt": "f9e83b726f93de31494f863bb459b83004d1e0861a54a4d90b1199f57d2e792d",
+    "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+    "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.html": "607404c401d15243345300ff5af8d48744a57da44a2c653f8673c43de16c4b17",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0222.txt": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.html": "850cc5e4da735e5139d2fb07359103ec627f3d39c79822e913b190878c1ba0d8",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0116.txt": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.html": "b23c9bbe42c30e6edbcc2a2826ef98683b653b7f0190947a7e51ea40d2bafae0",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192.txt": "7c3c3be633a81ac92899cb625a7a5bc59c693333301ea79f53b06792ed4ff66f",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt": "68703795ba527d4bf660b40d6d2c49a141fe52b2da29c826b032219b80dda46e",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.html": "ae0f24618070e4007f6d29e943449b67d6e122bf37ba8ccff77291eea6228410",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0193.txt": "ed88f7286b7711fbda1ba28dc82faf287252d903a96969868179c3e8106de0ab",
+    "04-table/research-notes/t01-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt": "eb59848d05695483b5a3a44b306a2c7343264ce02a52a036dd6af8c1c8e9bcbb",
+    "04-table/research-notes/t01-second-check/root/captures/T1R2-S01-selected-reader.md": "15d1a0190e6569376c7952ae936d75b0af5a1077a17ff2c7c032c75bab40f54a",
+    "04-table/research-notes/t01-second-check/root/captures/T1R2-S02.html": "8083790b1cf0ef49f4a55d95538df02aed754e63efc0bef4c4cccd953a95d289",
+    "04-table/research-notes/t01-second-check/root/captures/T1R2-S02.txt": "1f81e130efe2a19ea356cbac03a55655af9d851fda259ae93d68bd551d518086"
+  },
+  "new_routes": 6,
+  "claim_candidates": 25,
+  "open_substantive_issues": [],
+  "manual_review": [
+    "Current Chatham primary FAQ reopened: Rule-specific no recording/AI/in-room imagery, not universal interview ban.",
+    "Nick moderator role verified in retrospective; no formal partnership inference.",
+    "Planning Inspectorate policy scoped to one employer.",
+    "Three original ChatGPT answers reread; other21records integrity only.",
+    "First-pass price/rights distinctions retained; no new price input."
+  ],
+  "capture_classification_followup": "Hays fresh raw is shell; substantive method only selected reader note. History Accomplishments shell excluded. Verify integrated inventory preserves this.",
+  "integration_complete": false,
+  "fieldwork": false,
+  "commercial_validation": false,
+  "external_contact": false
+}

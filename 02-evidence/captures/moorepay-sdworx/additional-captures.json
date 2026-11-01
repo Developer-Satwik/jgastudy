@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-03.png",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-switching-graph.png",
+    "sha256": "9fe89b2a62646d7107a2d1f85b2160217cb1ec4e96078b216bf053218dc6f1b6",
+    "bytes": 17322
+  },
+  {
+    "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-05.png",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-switch-ease-graph.png",
+    "sha256": "612f6acb022eb921bf5812ef859ae353a4502cde7a6f75fd465a8330f3a34820",
+    "bytes": 29648
+  },
+  {
+    "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-02.png",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-switch-barriers-graph.png",
+    "sha256": "3b920677a66b635f401a2099d919dde37bbd18495dd05fab31a0e45b7483e8dc",
+    "bytes": 38322
+  },
+  {
+    "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-01.png",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-feature-needs-graph.png",
+    "sha256": "3240e6b8ed6627bc15f9ab72aa554ffe4897002f3f500e4ddb59f1e9b5b1e973",
+    "bytes": 27788
+  },
+  {
+    "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-report.pdf",
+    "sha256": "fec552785e3fae9bda8925bff47784c59957b2949ac401ce2b5ed812e7e73c38",
+    "bytes": 11009161
+  },
+  {
+    "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Payroll.pdf",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-payroll.pdf",
+    "sha256": "5921f07de8e81ffdc09a7097b1144c9e5c83f3da59dab64c9b7cf1bd64fc9f96",
+    "bytes": 5211781
+  },
+  {
+    "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-04.png",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-switch-filter-graph.png",
+    "sha256": "dbbbc840489845fd9fae46ae44c41d15afc3f1673fab8dca88ebb2e852c7ab15",
+    "bytes": 22570
+  }
+]

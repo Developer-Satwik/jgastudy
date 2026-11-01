@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R06 published buyer evidence: actual state versus prospective preference, satisfaction, perceived barriers and experienced change",
+  "queries": [
+    "payroll survey2026 switching provider stayed reasons methodology",
+    "CIPP2024 current software happy/tendering/implemented",
+    "Moorepay2025 switching ease/non-switch barriers original charts",
+    "Azets2026 fresh payroll survey full report and exact question tense",
+    "SDWorx2026 current versus preferred payroll delivery model"
+  ],
+  "new_route_count": 1,
+  "reused_canonical_routes": [
+    "SRC-0011",
+    "SRC-0031",
+    "SRC-0012",
+    "SRC-0070"
+  ],
+  "inspected_pdf_pages": [
+    2,
+    13,
+    29,
+    30,
+    32
+  ],
+  "published_chart_assets_visually_inspected": [
+    "V2-02",
+    "V2-03",
+    "V2-05"
+  ],
+  "excluded_discovery": [
+    "Paylocity2026 state-of-payroll survey: outcome/system-association narrative, no switching decision question found; no claims retained",
+    "Aggregator statistics and anonymous Reddit switching stories not used",
+    "No form submitted for gated Azets landing; full original report separately publicly indexed/distributed onNTB"
+  ],
+  "tool_note": "Initial browser PDF follow-up timed out after successful first access; retained downloaded original used with Poppler extraction and visual inspection. No new answer rerun or access workaround.",
+  "review_correction": "Independent reviewer identified methodpage32 after initial extraction. Overall country samplecounts, researcher, large-employer profile and4 qualitative interviews now retained; item-valid bases/routing remain unestablished. No source merge occurred before correction.",
+  "existing_holds_preserved": [
+    "CLM-0051",
+    "CLM-0052",
+    "CLM-0167",
+    "CLM-0168"
+  ],
+  "external_actions": []
+}

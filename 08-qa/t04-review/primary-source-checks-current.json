@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-31",
+  "status": "selected_primary_facts_independently_reviewed_current_source_version",
+  "scope": "Read-only public evidence review; no calculated workbook, quoted budget or commercial validation.",
+  "supersedes_for_current_facts": "08-qa/t04-review/primary-source-checks.json",
+  "superseded_record_note": "Previous review retained without alteration as audit history. Its Benares JanuaryURL/Septemberhash pairing is inconsistent after capture replacement; use this corrected current manifest mapping. Januarycontent remains historical only.",
+  "sources": [
+    {
+      "candidate_id": "T4E-S01",
+      "url": "https://thehawksmoor.com/locations/manchester/private-dining/",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S01.html",
+      "capture_sha256": "27fd181c84891bc3086d5e8b5ef7e6557dc316c03f6f36f02cb4c555446c8237",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S01.txt",
+      "parsed_sha256": "b06da4021065f81294fa97593a1ce32c564b449229d6373f0a44eadf83fc886f"
+    },
+    {
+      "candidate_id": "T4E-S02",
+      "url": "https://thehawksmoor.com/wp-content/uploads/2026/09/MCR_SHARING-MENUS-PACKAGES_140826AK.pdf",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf",
+      "capture_sha256": "6a48e6e9547b4cff4bed25bf8075db9608c89a992d56528561eafbbac7568255",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S02.txt",
+      "parsed_sha256": "18de76580ee206ce502c8779909e51dcaac518a355cb98e76b508f8200c1ef73"
+    },
+    {
+      "candidate_id": "T4E-S03",
+      "url": "https://benaresrestaurant.com/private-dining-events/",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S03.html",
+      "capture_sha256": "678c6f131db1dfc53af4c48cef355a77635ff83d0eb149a5832e4f6c18de1eb8",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S03.txt",
+      "parsed_sha256": "8d5e67842299dd6bd721701fe47add963c735e02fb1ecd2302f6e43a1d749dc5"
+    },
+    {
+      "candidate_id": "T4E-S04",
+      "url": "https://benaresrestaurant.com/wp-content/uploads/2026/09/Benares-Events-Guide-2026-WEB-3-SEP-Onwards.pdf",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "capture_sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt",
+      "parsed_sha256": "65be34ac70fc76bde2dc221ef5ebf89f6603ca5fb6aa6671fe524659aef26fb2"
+    },
+    {
+      "candidate_id": "T4E-S05",
+      "url": "https://www.corrigansmayfair.co.uk/private-dining/private-dining-rooms/lindsay-room",
+      "capture_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S05.html",
+      "capture_sha256": "f439e0c9210433f2b5dd0af65873346f4d4042dfa1ebce573002389567a82e27",
+      "parsed_path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S05.txt",
+      "parsed_sha256": "99e28dd22279cba8e72fda3d0ec21d107f2549c8841a0ebfff9c51c9617fb8a8"
+    }
+  ],
+  "checks": [
+    {
+      "id": "PC01",
+      "basis": [
+        "T4E-S01",
+        "T4E-S02"
+      ],
+      "finding": "Temperance private room seats10–14; generic up-to20 individual-menu service is a different boundary.",
+      "application": "Total distinct attendees must fit. Fifteen practitioners alone exceed14; smaller cases remain subject to actual host/moderator/other roles, privacy and terms."
+    },
+    {
+      "id": "PC02",
+      "basis": [
+        "T4E-S02"
+      ],
+      "finding": "Lunch£40/45, sharing£65/70,£77/82,£98/103 are published perperson two/three-course prices, not a private-room quote.",
+      "application": "No private-room minimum, current date availability, all-in event bill or VAT/service treatment supplied by these menu pages."
+    },
+    {
+      "id": "PC03",
+      "basis": [
+        "T4E-S02"
+      ],
+      "finding": "Drinks PackageA£23, B£30, C£34 are perperson packages with halfabottle; arrival variants give whole-package totals.",
+      "application": "Do not add a whole-package arrival total on top of the base wine package. Drinks/dietary choices and actual billing/terms need their own row."
+    },
+    {
+      "id": "PC04",
+      "basis": [
+        "T4E-S03",
+        "T4E-S04"
+      ],
+      "finding": "Benares Berkeley11–16 and Dover17–36 are separate room capacities; tasting max16 is a separate menu constraint.",
+      "application": "Illustrative17total cannot use Berkeley or tastingmenu. This does not establish actual attendance, layout suitability or permission to reduce the planned cohort."
+    },
+    {
+      "id": "PC05",
+      "basis": [
+        "T4E-S04"
+      ],
+      "finding": "Current live-linked September-onwards PDF publishes menus valid1September–15November2026: tasting£139, Bayleaf£78, Fennel£89, Deluxe£129 or£147 withchampagne, perperson.",
+      "application": "Current at capture/review, no2027pilot price guarantee. Future date needs current menu/quote; do not use expiredJanuary rates as current."
+    },
+    {
+      "id": "PC06",
+      "basis": [
+        "T4E-S04"
+      ],
+      "finding": "The same current menu pages state VATinclusive,2%cover and13%discretionary service.",
+      "application": "No duplicateVAT or invented compounding/base; discretionary wording does not establish waived/paid treatment. All-in amount still unquoted."
+    },
+    {
+      "id": "PC07",
+      "basis": [
+        "T4E-S04"
+      ],
+      "finding": "Current guide says menus/prices subjecttochange, party menus9+, wholeparty selectsone menu, tastingup-to16, menu choice14days before, finalnumbers72hours before, and depositapplicable15Nov–30Dec.",
+      "application": "Preserve exact applicability, unknown depositamount/refund/cancellationterms; do not assume no deposit outside that period or free room."
+    },
+    {
+      "id": "PC08",
+      "basis": [
+        "T4E-S03",
+        "T4E-S04"
+      ],
+      "finding": "Public full-hire capacity differs across website and PDF; it is outside the selected private-room screen.",
+      "application": "Retain conflict and exclude whole-venue capacity from feasibility conclusions. Do not choose the higher figure."
+    },
+    {
+      "id": "PC09",
+      "basis": [
+        "T4E-S05"
+      ],
+      "finding": "Retained original HTML contains24BOARDROOM and40RECEPTION. It states no roomhire fee but food/drinkminimum applies, amount via team.",
+      "application": "Boardroom and reception are different; zero hire does not mean zero room/hospitality cost. No unquoted amount or suitability assumed."
+    },
+    {
+      "id": "PC10",
+      "basis": [
+        "T4E-S01",
+        "T4E-S02",
+        "T4E-S03",
+        "T4E-S04",
+        "T4E-S05"
+      ],
+      "finding": "Public pages are vendor declarations, not independent operating outcomes, date holds or actual supplier offers.",
+      "application": "No venue selected, contacted, quoted, held or booked. No cash input populated by this review."
+    }
+  ],
+  "visual_pdf_checks": [
+    {
+      "source": "T4E-S04",
+      "page": 4,
+      "path": "08-qa/t04-review/renders/current-september/benares-p04.png",
+      "sha256": "1923e831de5d134469e1105683930968341adc95ee56f0a18c6d810331ce3f92",
+      "inspection": "Visually inspected full page, including prices/validity/footnotes or room conditions."
+    },
+    {
+      "source": "T4E-S04",
+      "page": 6,
+      "path": "08-qa/t04-review/renders/current-september/benares-p06.png",
+      "sha256": "9af4f8c770cfa264e42360a8a0cde50404b6d9cddb630a2aaf90bc8d601d8fe1",
+      "inspection": "Visually inspected full page, including prices/validity/footnotes or room conditions."
+    },
+    {
+      "source": "T4E-S04",
+      "page": 7,
+      "path": "08-qa/t04-review/renders/current-september/benares-p07.png",
+      "sha256": "aaccb7c52eac6757139b625ab0686d3d6c7bc8c24a4add35624a2fc197b78a5f",
+      "inspection": "Visually inspected full page, including prices/validity/footnotes or room conditions."
+    },
+    {
+      "source": "T4E-S04",
+      "page": 8,
+      "path": "08-qa/t04-review/renders/current-september/benares-p08.png",
+      "sha256": "7164951ea313e6ab6b8a704f6be8714cf15c6ef9a55912ab5745c1da837aad61",
+      "inspection": "Visually inspected full page, including prices/validity/footnotes or room conditions."
+    },
+    {
+      "source": "T4E-S02",
+      "page": 3,
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-3.png",
+      "sha256": "1ce551d2928d411ead02ce78e8532ea88de3654e7bf97eb0b7ceb02c948f3623",
+      "inspection": "Independentlyvisuallyinspectedfullpage, headings, price units, coursepairs or whole-packagewording."
+    },
+    {
+      "source": "T4E-S02",
+      "page": 9,
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png",
+      "sha256": "f47435b423234672d8fe4033a91b03899804e54a83c2772c429c2925ea2348f7",
+      "inspection": "Independentlyvisuallyinspectedfullpage, headings, price units, coursepairs or whole-packagewording."
+    }
+  ],
+  "web_rechecks": [
+    {
+      "url": "https://thehawksmoor.com/locations/manchester/private-dining/",
+      "date": "2026-10-31",
+      "result": "Private10–14 and separate semiprivate areas reconfirmed."
+    },
+    {
+      "url": "https://benaresrestaurant.com/private-dining-events/",
+      "date": "2026-10-31",
+      "result": "Berkeley16/Dover36 and brochurelink reconfirmed."
+    },
+    {
+      "url": "https://www.corrigansmayfair.co.uk/private-dining/private-dining-rooms/lindsay-room",
+      "date": "2026-10-31",
+      "result": "Nohirefee/minimummechanism reconfirmed. OriginalHTMLinspected for24boardroom/40reception omittedbywebextract."
+    }
+  ],
+  "external_actions": [],
+  "quotes": [],
+  "bookings": []
+}

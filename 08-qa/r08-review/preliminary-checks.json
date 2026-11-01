@@ -1,0 +1,623 @@
+{
+  "date": "2026-10-29",
+  "status": "preliminary_source_design_checks_passed_integrated_draft_pending",
+  "check_count": 154,
+  "checks": [
+    {
+      "check": "76 preserved baseline paths recorded",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "check": "Baseline hash 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "check": "76 previous internal findings exactly preserved",
+      "passed": true
+    },
+    {
+      "check": "Fourteen core Q v0.2 unchanged",
+      "passed": true
+    },
+    {
+      "check": "Unperformed data blank 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "Unperformed data blank 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "Unperformed data blank 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "check": "Prior source/claim counts remain191/338",
+      "passed": true
+    },
+    {
+      "check": "Hold preserved CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Hold preserved CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Hold preserved CLM-0167",
+      "passed": true
+    },
+    {
+      "check": "Hold preserved CLM-0168",
+      "passed": true
+    },
+    {
+      "check": "Hold preserved CLM-0218",
+      "passed": true
+    },
+    {
+      "check": "Hold preserved CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Six evidence-linked proposed views",
+      "passed": true
+    },
+    {
+      "check": "Evidence view claim refs SYN8-L01",
+      "passed": true
+    },
+    {
+      "check": "Evidence view finding refs SYN8-L01",
+      "passed": true
+    },
+    {
+      "check": "Evidence view source refs SYN8-L01",
+      "passed": true
+    },
+    {
+      "check": "Evidence view bounded SYN8-L01",
+      "passed": true
+    },
+    {
+      "check": "Evidence view claim refs SYN8-L02",
+      "passed": true
+    },
+    {
+      "check": "Evidence view finding refs SYN8-L02",
+      "passed": true
+    },
+    {
+      "check": "Evidence view source refs SYN8-L02",
+      "passed": true
+    },
+    {
+      "check": "Evidence view bounded SYN8-L02",
+      "passed": true
+    },
+    {
+      "check": "Evidence view claim refs SYN8-L03",
+      "passed": true
+    },
+    {
+      "check": "Evidence view finding refs SYN8-L03",
+      "passed": true
+    },
+    {
+      "check": "Evidence view source refs SYN8-L03",
+      "passed": true
+    },
+    {
+      "check": "Evidence view bounded SYN8-L03",
+      "passed": true
+    },
+    {
+      "check": "Evidence view claim refs SYN8-L04",
+      "passed": true
+    },
+    {
+      "check": "Evidence view finding refs SYN8-L04",
+      "passed": true
+    },
+    {
+      "check": "Evidence view source refs SYN8-L04",
+      "passed": true
+    },
+    {
+      "check": "Evidence view bounded SYN8-L04",
+      "passed": true
+    },
+    {
+      "check": "Evidence view claim refs SYN8-L05",
+      "passed": true
+    },
+    {
+      "check": "Evidence view finding refs SYN8-L05",
+      "passed": true
+    },
+    {
+      "check": "Evidence view source refs SYN8-L05",
+      "passed": true
+    },
+    {
+      "check": "Evidence view bounded SYN8-L05",
+      "passed": true
+    },
+    {
+      "check": "Evidence view claim refs SYN8-L06",
+      "passed": true
+    },
+    {
+      "check": "Evidence view finding refs SYN8-L06",
+      "passed": true
+    },
+    {
+      "check": "Evidence view source refs SYN8-L06",
+      "passed": true
+    },
+    {
+      "check": "Evidence view bounded SYN8-L06",
+      "passed": true
+    },
+    {
+      "check": "Eight-chapter/two-part outline preserved as unapproved",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 1",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 2",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 3",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 4",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 5",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 6",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 7",
+      "passed": true
+    },
+    {
+      "check": "Chapter evidence refs 8",
+      "passed": true
+    },
+    {
+      "check": "Ten constructed route designs",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Constructed not observed R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Design not falsely passed/validated R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Constructed route refs R08-T10",
+      "passed": true
+    }
+  ]
+}

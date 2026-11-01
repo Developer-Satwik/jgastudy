@@ -1,0 +1,234 @@
+0001 Use the go-live checklist to make sure your solution is ready - Dynamics 365 | Microsoft Learn
+0002 Skip to main content
+0003 Skip to Ask Learn chat experience
+0004 This browser is no longer supported.
+0005 Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+0006 Download Microsoft Edge
+0007 More info about Internet Explorer and Microsoft Edge
+0008 Table of contents
+0009 Exit editor mode
+0010 Ask Learn
+0011 Ask Learn
+0012 Reading mode
+0013 Table of contents
+0014 Read in English
+0015 Add
+0016 Add to Plans
+0017 Edit
+0018 Copy Markdown
+0019 Print
+0020 Note
+0021 Access to this page requires authorization. You can try signing in or changing directories.
+0022 Access to this page requires authorization. You can try changing directories.
+0023 Use the go-live checklist to make sure your solution is ready for go-live
+0024 Feedback
+0025 Summarize this article for me
+0026 In this article
+0027 Before you launch your Microsoft Dynamics 365 solution, you need to make sure that it meets your business needs and works as expected. The go-live checklist helps you assess the readiness, completeness, and quality of your solution and make informed decisions about going live.
+0028 The checklist covers the following areas:
+0029 Go-live readiness
+0030 Cutover
+0031 Solution scope review
+0032 Solution acceptance review
+0033 User acceptance test completion
+0034 Performance testing completion
+0035 System integration testing completion
+0036 Data migration readiness and validation
+0037 Confirmation of external dependencies
+0038 Change management for initial operations readiness
+0039 Operational support readiness
+0040 Go-live readiness
+0041 Done?
+0042 Task
+0043 ✓
+0044 Align the solution scope with the solution that's going live, share it with stakeholders, and get their agreement.
+0045 ✓
+0046 Complete all test cycles with exit criteria met and signed off by the business stakeholders. The recommended test cycles include system integration, performance, user acceptance, and other tests.
+0047 ✓
+0048 Test and sign off on all scripts and processes that are planned for the cutover migration.
+0049 ✓
+0050 Align external dependencies, such as partner systems and services, with the timelines and scope for go-live.
+0051 ✓
+0052 Plan and implement all change management activities from the Initiate through the Prepare phases, such as training, user support, user engagement, and communication.
+0053 ✓
+0054 Have a plan for monitoring and maintenance for production and for transitioning to support teams.
+0055 ✓
+0056 Prepare the production environment and train administrators and IT on monitoring, troubleshooting procedures, and support options.
+0057 ✓
+0058 Create a cutover plan that considers all dependencies, the timing of activities, roles and responsibilities, instructions, verification steps, and any other documentation that's associated with each activity.
+0059 Cutover
+0060 Done?
+0061 Task
+0062 ✓
+0063 Complete all activities in sequence.
+0064 ✓
+0065 Meet the exit criteria.
+0066 ✓
+0067 Get sign-off from stakeholders at the cutover go/no-go checkpoint.
+0068 Solution scope review
+0069 Done?
+0070 Task
+0071 ✓
+0072 Explain the scope of the project to business stakeholders in terms of the business processes that the solution supports.
+0073 ✓
+0074 Consider the following items:
+0075 The business processes that the solution supports
+0076 The applications and solutions that are used in the solution
+0077 Whether the solution contains customizations and external solutions
+0078 The type and volume of integrations
+0079 The number of go-lives or rollouts
+0080 The number of users at go-live and in future rollouts
+0081 ✓
+0082 Get sign-off from business stakeholders on the solution scope.
+0083 The solution scope review helps you confirm that the solution you're going to launch meets your business needs and expectations. The expected outcome is that the solution scope matches the solution that's going live, you've shared it with stakeholders, and they agree that it covers their expectations. The risks of not reaching this outcome are delays, dissatisfaction, and project failure.
+0084 Solution acceptance review
+0085 Done?
+0086 Task
+0087 ✓
+0088 Test all aspects of your complete solution.
+0089 ✓
+0090 Complete end-to-end unit testing successfully.
+0091 ✓
+0092 Get sign-off from business stakeholders on the solution acceptance.
+0093 The solution acceptance review helps you confirm that the solution you're going to launch works as expected and meets your business needs. The expected outcome is that you've completed end-to-end unit testing successfully and business stakeholders have signed off on the results. The risks of not reaching this outcome are operational difficulties, technical issues, and project failure. To avoid problems with solution acceptance, follow the testing strategy best practices and perform several types of tests before going live, especially user acceptance testing (UAT), performance testing, and system integration testing (SIT).
+0094 User acceptance test completion
+0095 Done?
+0096 Task
+0097 ✓
+0098 Test all requirements in scope, both "happy path" and edge scenarios.
+0099 ✓
+0100 Test with migrated data to validate how data behaves in real life.
+0101 ✓
+0102 Assign correct security roles to users. Don't use a general security role or assign the System Admin role to all users.
+0103 ✓
+0104 Comply with regulatory requirements specific to your company, industry, or country/region. Document all features and testing results.
+0105 ✓
+0106 Run UAT in an environment in a Microsoft apps subscription so that it approximates your production environment as much as possible.
+0107 ✓
+0108 Get sign-off from business stakeholders on UAT.
+0109 UAT helps you validate that the solution you're going to launch supports all the expected business processes and meets user needs. The expected outcome is that you've tested all requirements in scope, used migrated data, assigned correct security roles, complied with regulatory requirements, and conducted UAT in an environment that approximates production. The risks of not reaching this outcome are delays, difficulties, and project failure. Address any items identified during UAT with an owner and a completion date for each.
+0110 Performance testing completion
+0111 Done?
+0112 Task
+0113 ✓
+0114 Test load times with peak volumes of transactions.
+0115 ✓
+0116 Test data search performance.
+0117 ✓
+0118 Test end-to-end processes and specific business processes.
+0119 ✓
+0120 Test performance on different devices, browsers, and virtualized environments.
+0121 ✓
+0122 Test integrations.
+0123 ✓
+0124 Test in representative environments, data, and test cases that can reliably predict performance in production.
+0125 ✓
+0126 Get sign-off from stakeholders on performance testing.
+0127 Performance testing helps you ensure that the solution you're going to launch can handle the expected load and speed of your business processes. The expected outcome is that the solution performs as expected and meets the business performance criteria. The risks of not reaching this outcome are issues with the system's performance after go-live that can be difficult or expensive to fix. Do performance testing in parallel with UAT in a test environment before going live and address any issues with an owner and a completion date.
+0128 System integration testing completion
+0129 Done?
+0130 Task
+0131 ✓
+0132 Test with expected peak volumes.
+0133 ✓
+0134 Simulate external systems that are down and how those scenarios are communicated and affect the user experience.
+0135 ✓
+0136 Get sign-off from stakeholders on SIT.
+0137 SIT helps you validate that the solution you're going to launch works well with other applications and external systems. The expected outcome is that the solution and its integrations work as expected and you have a plan for handling unexpected situations. The risks of not reaching this outcome are issues with the integrations after go-live. Do SIT before UAT in a test environment before going live and choose the right integration pattern for your solution.
+0138 Data migration readiness and validation
+0139 Done?
+0140 Task
+0141 ✓
+0142 Test data migration several times before cutover.
+0143 ✓
+0144 Validate your strategy and processes, identify and address issues of data corruption or duplication, and make sure performance fits in the cutover time window.
+0145 ✓
+0146 Test and sign off on all scripts and processes planned for cutover migration by the business.
+0147 ✓
+0148 Log any migration issues and risks and make a mitigation plan.
+0149 Data migration readiness helps you ensure that the data you're going to use in your solution is accurate, complete, and available. The expected outcome is that you've tested data migration several times before cutover, validated your strategy and processes, addressed any issues or risks with the data migration, and got sign-off from the business. The risks of not reaching this outcome are delays or difficulties in go-live migration, inaccurate or corrupted data in your solution, and reduced user and customer confidence. Prepare a migration plan and execute multiple dry runs, prepare configuration data, master data, security configurations, open transactions, and balances in advance, and follow recommended practices for data management.
+0150 Confirmation of external dependencies
+0151 Done?
+0152 Task
+0153 ✓
+0154 Align any external dependencies, such as partner solutions and partner systems and services, with your timelines and scope for go-live.
+0155 ✓
+0156 Coordinate with providers to make sure expectations are aligned, their solutions match the roadmap timelines, and all requirements are met.
+0157 Checking external dependencies helps you ensure that the solutions, systems, or services you need for your project are compatible and reliable. The expected outcome is that the dependencies and their interactions work as planned and you have a strategy for dealing with potential problems. The risks of not reaching this outcome are delays or failures in your project due to dependency issues. To avoid problems with external dependencies, coordinate with the providers of the dependencies, align your expectations, timelines, and requirements with them, and have regular meetings to review their status and resolve any conflicts.
+0158 Change management for initial operations readiness
+0159 Done?
+0160 Task
+0161 ✓
+0162 Assess change readiness early in the project and reassess throughout.
+0163 ✓
+0164 Deliver effective training to users on how to use the new solution.
+0165 ✓
+0166 Engage users with the solution and get their input and feedback.
+0167 ✓
+0168 Communicate the value of the new solution with business sponsorship.
+0169 ✓
+0170 Create a community of super-users and provide resources for user support.
+0171 Change management readiness helps you ensure that your organization adopts and engages with the new business solution you're launching. The expected outcome is that you assess and address the needs and concerns of the users throughout the project, and provide them with training, communication, sponsorship, and support. The following key elements help drive change management close to go-live:
+0172 Training: Teach users how to use the new solution effectively and efficiently before they start working with it.
+0173 User engagement strategy: Involve users in the design, testing, and feedback of the solution, and keep them informed and excited about the benefits.
+0174 Business sponsorship: Get a trusted and influential leader to champion the solution and communicate its value to the organization.
+0175 User support: Create a community of super-users and provide resources and service notifications to help users after go-live.
+0176 The risks of not reaching this outcome are poor execution, low confidence, and resistance to the new solution. To avoid problems with change readiness, reassess the change management plan throughout the implementation project.
+0177 Operational support readiness
+0178 Done?
+0179 Task
+0180 ✓
+0181 Have a system monitoring and maintenance plan for the production environment.
+0182 ✓
+0183 Have a plan for transitioning operational support from the implementation team to a support team.
+0184 ✓
+0185 Train support teams on the solution and give them the resources, tools, and access they need.
+0186 ✓
+0187 Have a help desk and ticket management process in place.
+0188 ✓
+0189 Notify stakeholders and users when the system is ready to go into production and provide them with a support contact.
+0190 Support readiness helps you ensure that your solution works well and meets the needs of the users after it's live. The expected outcome is that you have a plan to transition support from the implementation team to the support team, and that the support team has the resources, tools, access, and training they need to provide help. The following items should be included in the operational support and maintenance plan:
+0191 Continuous deployment plan: Stay updated on the latest version of the system and incorporate new features and fixes as soon as possible.
+0192 Monitoring: Track performance issues, errors, feature usage, and adoption to manage and report on the post-go-live process.
+0193 Hypercare: Provide an elevated level of support right after go-live to ensure smooth adoption.
+0194 The risks of not reaching this outcome are poor communication, delayed resolution, and unexpected updates that might affect system operations. Plan to transition support before go-live and share the plan with all parties involved.
+0195 Next steps
+0196 Learn about the activities that happen before go-live in the Prepare phase
+0197 Get your production environment ready for go-live
+0198 Plan your cutover to the new solution
+0199 Read the case study for an example of a successful go-live project
+0200 Feedback
+0201 Was this page helpful?
+0202 Yes
+0203 No
+0204 No
+0205 Need help with this topic?
+0206 Want to try using Ask Learn to clarify or guide you through this topic?
+0207 Ask Learn
+0208 Ask Learn
+0209 Suggest a fix?
+0210 Additional resources
+0211 Last updated on
+0212 2024-02-01
+0213 In this article
+0214 Was this page helpful?
+0215 Need help with this topic?
+0216 Want to try using Ask Learn to clarify or guide you through this topic?
+0217 Ask Learn
+0218 Ask Learn
+0219 Suggest a fix?
+0220 en-gb
+0221 Your Privacy Choices
+0222 Theme
+0223 Light
+0224 Dark
+0225 High contrast
+0226 AI Disclaimer
+0227 Previous Versions
+0228 Blog
+0229 Contribute
+0230 Privacy
+0231 Consumer Health Privacy
+0232 Terms of Use
+0233 Trademarks
+0234 © Microsoft 2026

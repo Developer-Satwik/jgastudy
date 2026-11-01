@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R06 talent response and actual counterparty/knowledge distinction; all six plus JGA",
+  "queries": [
+    "site.theportfoliogroup.com counter offer payroll",
+    "site.frazerjones.com delivering payroll and HR operations talent during organisational change",
+    "site.roberthalf.com/gb/en/insights how to retain vital legacy knowledge",
+    "site.hays.co.uk recruitment-services project-services"
+  ],
+  "inspected": [
+    "Portfolio original-reader process 180–255",
+    "Robert Half current original article and JSON-LD dates",
+    "Oakleaf original capabilities 22–38",
+    "Middlemore original remit 25–39",
+    "Hays original SOW/onboarding-offboarding",
+    "JGA original body 2–13",
+    "Frazer Jones retained prior case and fresh indexed German-locale same-case body; live original read failed"
+  ],
+  "excluded": [
+    "Generic counteroffer retention percentages not independently traced",
+    "Hays Canada supplier claim that contractors bypass hiring freezes, not UK authority",
+    "Career decisions not used as organisation/provider-retention evidence",
+    "Advertisements not treated as live available talent",
+    "No model reruns; repeated publications not independent studies"
+  ],
+  "external_actions": []
+}

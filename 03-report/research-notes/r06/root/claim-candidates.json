@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "ROOT6-C01",
+      "source_ids": [
+        "ROOT6-S01"
+      ],
+      "claim_text": "GDS discovery guidance evaluates the problem, constraints and alternatives before committing to build; stopping can be an appropriate conclusion of that investigation.",
+      "evidence_class": "official_guidance_not_observed_choice",
+      "locator": "Define the problem; Understanding constraints; alternatives; How you know discovery is finished",
+      "limitations": "Guidance, not an empirical frequency or a private-employer process. No universal rationale for every stop.",
+      "review_mode": "Relevant original HTML inspected; OEP cover and page8 rendered/visually checked only for its specific case; no product test or employer impact study",
+      "value": null,
+      "unit": null,
+      "time_period": "Dated source-specific context; no longitudinal estimate",
+      "population": "Primary guidance or named single-employer management account; analyst design clearly distinguished"
+    },
+    {
+      "candidate_id": "ROOT6-C02",
+      "source_ids": [
+        "SRC-0130"
+      ],
+      "claim_text": "HMRC identifies payroll-software/provider changes as contexts where payroll IDs can change; missing linkage can create duplicate employment records and disputed charges. The guidance describes relevant linkage controls.",
+      "evidence_class": "official_specific_transition_mechanism",
+      "locator": "Payroll ID subsection under duplication of employee records",
+      "limitations": "Specific UK RTI mechanism, not a measured probability, compulsory postponement, universal payroll barrier or proof a particular employer used a control successfully.",
+      "review_mode": "Relevant original HTML inspected; OEP cover and page8 rendered/visually checked only for its specific case; no product test or employer impact study",
+      "value": null,
+      "unit": null,
+      "time_period": "Dated source-specific context; no longitudinal estimate",
+      "population": "Primary guidance or named single-employer management account; analyst design clearly distinguished"
+    },
+    {
+      "candidate_id": "ROOT6-C03",
+      "source_ids": [
+        "ROOT6-S02"
+      ],
+      "claim_text": "OEP management reports completion of its staff-record transition from iTrent to Staffology at the end of December2024 and successful December payroll processing by the new provider, with further refinement planned.",
+      "evidence_class": "employer_self_reported_operational_event",
+      "locator": "PDF8 printed8 paragraph37; PDF1 printed1 reportdate22January2025",
+      "limitations": "One employer management account. Prior reasons, approval, provider identity beyond exact text, independent tests, complete benefit/accuracy and later outcomes are not established.",
+      "review_mode": "Relevant original HTML inspected; OEP cover and page8 rendered/visually checked only for its specific case; no product test or employer impact study",
+      "value": null,
+      "unit": null,
+      "time_period": "Dated source-specific context; no longitudinal estimate",
+      "population": "Primary guidance or named single-employer management account; analyst design clearly distinguished"
+    },
+    {
+      "candidate_id": "ROOT6-C04",
+      "source_ids": [
+        "ROOT6-S01",
+        "ROOT6-S02"
+      ],
+      "claim_text": "R06 should analyse actual option, dated decision disposition, implementation and benefit separately at the relevant object/component, allowing a retained platform, changed contract route or partial continuation to coexist.",
+      "evidence_class": "researcher_analytical_design",
+      "locator": "Analyst application of observed/specified boundaries; instrument Q006/Q007/Q012/Q013 provides exact internal design basis",
+      "limitations": "Not a validated behavioural taxonomy, mandatory employer workflow, ordered maturity model or mutually exclusive whole-project label. No status inferred solely from silence.",
+      "review_mode": "Relevant original HTML inspected; OEP cover and page8 rendered/visually checked only for its specific case; no product test or employer impact study",
+      "value": null,
+      "unit": null,
+      "time_period": "Dated source-specific context; no longitudinal estimate",
+      "population": "Primary guidance or named single-employer management account; analyst design clearly distinguished"
+    },
+    {
+      "candidate_id": "ROOT6-C05",
+      "source_ids": [
+        "ROOT6-S01",
+        "SRC-0130"
+      ],
+      "claim_text": "A possible response to a condition should be recorded separately from a response actually adopted and its observed result. A justified stop, staged change or retained arrangement may remain appropriate; no conversion or successful mitigation is guaranteed.",
+      "evidence_class": "researcher_method_guardrail",
+      "locator": "Analyst application of discovery/alternative and transition-control scope; internal Q013 probes",
+      "limitations": "No causal remedy validated, no hidden-rationale assumption or claimed fieldwork. Supplier action is conditional and may not resolve authority, budget or competing priorities.",
+      "review_mode": "Relevant original HTML inspected; OEP cover and page8 rendered/visually checked only for its specific case; no product test or employer impact study",
+      "value": null,
+      "unit": null,
+      "time_period": "Dated source-specific context; no longitudinal estimate",
+      "population": "Primary guidance or named single-employer management account; analyst design clearly distinguished"
+    }
+  ]
+}

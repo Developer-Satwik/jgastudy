@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H7S-C01",
+      "canonical_source_ids": [
+        "SRC-0068",
+        "SRC-0070"
+      ],
+      "claim_text": "CIPP2020 discusses expected development of transactional automation and related skills; CIPP2024 discusses current AI/RPA use and revisits the earlier expectation. These different measures do not show the same employers progressing or failing to progress through a funded-priority pipeline.",
+      "evidence_class": "historical_cross_publication_measure_boundary",
+      "locator": "CIPP2020 foreword/automation discussion and printed13; CIPP2024 printed4",
+      "limitations": "No matched panel, common task definition, approved budget, common denominator or causal trend established. Publisher progress commentary is not an independently measured conversion or delivery shortfall. No percentage or calculated gap adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific dated professional publication or one public combined HR/payroll programme; explicit researcher application",
+      "time_period": "2020/2024 report context and2025 LFB declared plan; no statistical time series",
+      "review_mode": "Fresh original hosted HTML plus retained original PDF re-read; PDF5–6 rendered and visually inspected; no final-publication or fieldwork assurance"
+    },
+    {
+      "candidate_id": "H7S-C02",
+      "canonical_source_ids": [
+        "SRC-0070"
+      ],
+      "claim_text": "CIPP2024 asks about perceived pressure to implement changes in shorter timeframes and reported issues for the payroll team. These are distinct from an observed reassessment of an employer’s funded investment priorities.",
+      "evidence_class": "historical_reported_pressure_measure_boundary",
+      "locator": "CIPP2024 printed8–9, reaction-timeframe and resulting-team-issue questions",
+      "limitations": "Respondent attribution/perception is not a causal estimate, measured budget displacement, project approval or all-employer condition. The short-timeframe wording does not establish which organisational priority changed or what resources were moved. No figures adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific dated professional publication or one public combined HR/payroll programme; explicit researcher application",
+      "time_period": "2020/2024 report context and2025 LFB declared plan; no statistical time series",
+      "review_mode": "Fresh original hosted HTML plus retained original PDF re-read; PDF5–6 rendered and visually inspected; no final-publication or fieldwork assurance"
+    },
+    {
+      "candidate_id": "H7S-C03",
+      "canonical_source_ids": [
+        "SRC-0206"
+      ],
+      "claim_text": "LFB’s2025 combined HR/payroll report makes phase2 dependent on phase1 and schedules phase2 after go-live to manage workload alongside business-as-usual activity.",
+      "evidence_class": "single_employer_declared_dependency_and_sequencing",
+      "locator": "PDF5 section3.2; PDF6 sections4.5–4.7",
+      "limitations": "One previously registered programme, not a new employer or payroll-only phase2. This is the report’s planned sequencing, not evidence phase2 was unimportant/unfunded, the optimal plan, actual later delivery or realised benefit. No monetary value or timing benchmark adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific dated professional publication or one public combined HR/payroll programme; explicit researcher application",
+      "time_period": "2020/2024 report context and2025 LFB declared plan; no statistical time series",
+      "review_mode": "Fresh original hosted HTML plus retained original PDF re-read; PDF5–6 rendered and visually inspected; no final-publication or fieldwork assurance"
+    },
+    {
+      "candidate_id": "H7S-C04",
+      "canonical_source_ids": [
+        "SRC-0068",
+        "SRC-0070",
+        "SRC-0206"
+      ],
+      "claim_text": "Where material to R07, distinguish a newly selected priority from continuing, re-scoped or re-timed work; record the actual reason for its next milestone and any dependency alongside ongoing payroll work. Later sequencing alone does not rank importance or identify lack of funding.",
+      "evidence_class": "researcher_selective_priority_origin_and_sequence_design",
+      "locator": "Cross-source analytical application to existing Q005 and recent-case/status fields",
+      "limitations": "Selective interpretation aid, not extra compulsory questions, a validated taxonomy, maturity score or assumption that unplanned work displaced investment. Original contributor knowledge and contrary cases must establish the actual priority history; no outcome inferred from a passed target date.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific dated professional publication or one public combined HR/payroll programme; explicit researcher application",
+      "time_period": "2020/2024 report context and2025 LFB declared plan; no statistical time series",
+      "review_mode": "Fresh original hosted HTML plus retained original PDF re-read; PDF5–6 rendered and visually inspected; no final-publication or fieldwork assurance"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_targeted_history_review",
+  "check_count": 12,
+  "checks": [
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r07-second-check/history/captures/SRC-0068.html",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r07-second-check/history/captures/SRC-0068.txt",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r07-second-check/history/captures/SRC-0070.html",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r07-second-check/history/captures/SRC-0070.txt",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r07-second-check/history/captures/SRC-0206-05.png",
+      "passed": true
+    },
+    {
+      "check": "Fresh/reused file hash 03-report/research-notes/r07-second-check/history/captures/SRC-0206-06.png",
+      "passed": true
+    },
+    {
+      "check": "No new routes or independent datasets",
+      "passed": true
+    },
+    {
+      "check": "Four bounded candidate claims resolve to existing source IDs",
+      "passed": true
+    },
+    {
+      "check": "No numeric estimate, fieldwork or extra question introduced",
+      "passed": true
+    },
+    {
+      "check": "Retained PDF pages5 and6 visually inspected",
+      "passed": true
+    }
+  ]
+}

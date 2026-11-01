@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-30",
+  "conditions": [
+    {
+      "condition_id": "MKT01",
+      "name": "Payer, user and intended use",
+      "apply_when": "A licence, partner deliverable or adviser/client use is being considered.",
+      "check": "What asset will be used, by whom, for which internal/client/public purpose, with what permission and briefing/servicing?",
+      "counterexample": "A consultant needs a client-facing slide pack but the available package only supports internal reading.",
+      "claim_ids": [
+        "T1M-C03"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "actual_application": null
+    },
+    {
+      "condition_id": "MKT02",
+      "name": "Decision-fit of substitutes",
+      "apply_when": "A geography or audience is being compared.",
+      "check": "Which free/paid/internal alternatives actually match the country set, role, employer context and immediate decision?",
+      "counterexample": "Dublin dinner interest is treated as demand for research, while the person primarily needs Irish compliance support already available elsewhere.",
+      "claim_ids": [
+        "T1M-C01",
+        "T1M-C02",
+        "T1M-C04"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "actual_application": null
+    },
+    {
+      "condition_id": "MKT03",
+      "name": "Recruitment and funder fit",
+      "apply_when": "Partners nominate people or expect commercial access.",
+      "check": "Does that invitation route fit the defined member/research purpose, and are recruitment origin and any optional access benefits clear?",
+      "counterexample": "A sponsor wants accounts from a target list, while the research requires decision cases across a different employer/country mix.",
+      "claim_ids": [
+        "T1M-C05"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "actual_application": null
+    },
+    {
+      "condition_id": "MKT04",
+      "name": "Deliverability alongside funding",
+      "apply_when": "A commercial bundle or cash model is being defined.",
+      "check": "Which commitments, rights, approvals, research assets, attendees and servicing resources are actually ready, at which dates?",
+      "counterexample": "A partner pays, but permissioned findings or approved attendees are not ready to supply the contracted benefit.",
+      "claim_ids": [
+        "T1M-C06",
+        "T1M-C07"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "actual_application": null
+    }
+  ],
+  "original_fourteen_questions_unchanged": true,
+  "extra_mandatory_questions": 0,
+  "commercial_validation": false,
+  "actual_contributions": [],
+  "financial_inputs": []
+}

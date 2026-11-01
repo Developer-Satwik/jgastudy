@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-30",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "HTTP200 original SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0227.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0227.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0228.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0228.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original SRC-0238",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0238.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0238.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0239.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0239.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original SRC-0245",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0245.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0245.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0246.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0246.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original SRC-0248",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0248.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/SRC-0248.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S01.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S01.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "HTTP200 original T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S02.html",
+      "passed": true
+    },
+    {
+      "name": "retained hash 04-table/research-notes/t01-second-check/market/captures/T1M-S02.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "Only two new primary routes",
+      "passed": true
+    },
+    {
+      "name": "Seven canonical reuses not independent datasets",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "Claim text locator limits T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "Selective condition not applied/validated MKT01",
+      "passed": true
+    },
+    {
+      "name": "Selective condition not applied/validated MKT02",
+      "passed": true
+    },
+    {
+      "name": "Selective condition not applied/validated MKT03",
+      "passed": true
+    },
+    {
+      "name": "Selective condition not applied/validated MKT04",
+      "passed": true
+    },
+    {
+      "name": "Seven bounded records",
+      "passed": true
+    }
+  ],
+  "check_count": 41,
+  "new_primary_routes": 2,
+  "canonical_reuses": 7,
+  "claim_candidates": 7,
+  "conditions": 4,
+  "actual_participants": 0,
+  "actual_Table_conversations": 0,
+  "financial_inputs_added": 0,
+  "external_sends": 0,
+  "commercial_validation": false
+}

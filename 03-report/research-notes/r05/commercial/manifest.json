@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r05/commercial/COMMERCIAL-COST-EVIDENCE.md",
+      "sha256": "bd0d65e96d318b15a777f5b6e955537cc42e07e99929374f0ce21810cdabe81d",
+      "bytes": 8630
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/capture-log.json",
+      "sha256": "abf18046034ca0f219625d153cd946fd35b64308d6fbca3983f2278e355c7caf",
+      "bytes": 5149
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/BRIGHT-LEGACY-FAQ.html",
+      "sha256": "bf5d4bc24553be5a3b6224ea8b9bc77cdb38e9431fd2be168d58c6e542b87476",
+      "bytes": 106276
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/BRIGHT-LEGACY-FAQ.txt",
+      "sha256": "27bfbcbfe9473b22348e4c56de89fba6f564ce0b33c946bbf363be3f4b644208",
+      "bytes": 17707
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S01-selected-reader-extract.txt",
+      "sha256": "0c72b4281dc8941e23bea305db9fe202464ebb2e6a2a128718e9bf444de1a914",
+      "bytes": 738
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S02.html",
+      "sha256": "c4af381f950d20367f77e50a3fb112c961a766fb27df67ad6552e366b476da81",
+      "bytes": 524209
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S02.txt",
+      "sha256": "25323d776f9eedfc531e76f39d619086b7dbdfd15990856c36e9b37f2d46f944",
+      "bytes": 14253
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S03.html",
+      "sha256": "18cd9dcc8a4ad328ddb8e63f43df5fd6254d6683b213c4b7cc591748fccd0ff7",
+      "bytes": 60116
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S03.txt",
+      "sha256": "5eec71da2b81da64d7b2acc3c579aa95cb92e1ec94fb75de7e23876856031cda",
+      "bytes": 788
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0077.html",
+      "sha256": "c31e8cdcb1db4d5f2d81c5ac561ff27f68551a9e8c1ee274644549128e65f7a4",
+      "bytes": 411471
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0077.txt",
+      "sha256": "d9b230d9f6d4a93d9b3856a322b268ffb03c8c7a22e88c2459f21510a5e51a7a",
+      "bytes": 140751
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0109.html",
+      "sha256": "768d87ffcb9f56f94653abef157cff4e5f743784663a252d34cd70b35ddb7f1e",
+      "bytes": 781220
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0109.txt",
+      "sha256": "0a31de72af3fa4752ce8397de986c8ffe27ef546b96f429e4cddef56986f312e",
+      "bytes": 24580
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/claim-candidates.json",
+      "sha256": "47da4e91d53b14ff1e45dde43b94d80c189879dade3ba8ef796486330e7f4b61",
+      "bytes": 6154
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/review-log.json",
+      "sha256": "cc0f605b9f24445925e7bf419c07074aae8abcff67c71cb78e1e9d1310402cab",
+      "bytes": 1586
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/source-candidates.json",
+      "sha256": "61a3925e840c14d1260b56ddabf6ce03694744e9c765a3ff55d674d1222cf59b",
+      "bytes": 7151
+    }
+  ],
+  "all_hashes_verified": true
+}

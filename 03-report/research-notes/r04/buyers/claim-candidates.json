@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "BUY-C01",
+      "source_ids": [
+        "SRC-0060",
+        "SRC-0061"
+      ],
+      "operation": "method_boundary_refinement",
+      "claim": "The G2/Paycom study provides reported HR/payroll evaluation practices and perceptions, not an independently reconstructable map of purchase approvals. Generic authority screening criteria do not establish individual decision rights in this study.",
+      "evidence_class": "published_mixed_role_interview_study_and_publisher_method",
+      "locator": "Study Methodology/Respondent Roles; general methods 3.2 and5.2",
+      "base": "211 study interviews; mixed roles; geography/fieldwork unestablished; generic method has no separate sample",
+      "value": null,
+      "limits": [
+        "Do not present as UK senior-payroll prevalence",
+        "Do not count SRC-0061 as independent corroboration",
+        "No raw participant authority traces published"
+      ],
+      "disposition": "Use for method boundary, not new market numerical claim"
+    },
+    {
+      "candidate_id": "BUY-C02",
+      "source_candidate_ids": [
+        "BUY-S01"
+      ],
+      "claim": "ADP reports that a Purplebricks finance-transformation team built a payroll-change case and presented it to the CFO, who agreed change was needed.",
+      "evidence_class": "supplier_published_named_testimony_of_actual_decision_stage",
+      "locator": "Change of ownership leads to payroll rethink; web-reader L59-63",
+      "base": "One UK employer case, retrospective selected testimony",
+      "value": null,
+      "observed_or_reported_actions": [
+        "Team business-case preparation",
+        "CFO agreement on need for change"
+      ],
+      "unknowns": [
+        "Formal final supplier approval",
+        "Budget ownership/release",
+        "Signature",
+        "IT/security/procurement rights"
+      ],
+      "limits": [
+        "CFO agreement is not proof of contract or funding approval",
+        "No prevalence or universal finance authority inference"
+      ],
+      "disposition": "Accept bounded attributed case candidate"
+    },
+    {
+      "candidate_id": "BUY-C03",
+      "source_candidate_ids": [
+        "BUY-S02"
+      ],
+      "claim": "CIPP reports that a UK construction employer payroll manager was excluded from original provider selection, later participated in remediation review, and the CEO approved additional payroll resources after the findings.",
+      "evidence_class": "adviser_reported_anonymous_actual_case",
+      "locator": "Scene Setting/The Action/The Results; retained text L8-20",
+      "base": "One anonymous UK construction case; date/ownership not disclosed",
+      "value": null,
+      "observed_or_reported_actions": [
+        "Explicit non-involvement in original selection",
+        "Payroll Manager review participation",
+        "CEO later resource approval"
+      ],
+      "unknowns": [
+        "Original selector",
+        "Original budget owner",
+        "Procurement/security authority",
+        "Contract signatory"
+      ],
+      "limits": [
+        "Do not infer exclusion caused errors",
+        "Do not identify as verified private-sector case",
+        "CEO corrective-resource approval does not identify original purchase authority"
+      ],
+      "disposition": "Accept bounded attributed case candidate"
+    },
+    {
+      "candidate_id": "BUY-C04",
+      "source_candidate_ids": [
+        "BUY-S03"
+      ],
+      "claim": "OAHI reports that Decjuba Payroll Manager Claire Nagle led a time-and-attendance transition and her team specified requirements; a tender and her prior platform experience featured in the selection account.",
+      "evidence_class": "supplier_published_named_actual_case",
+      "locator": "Background/The Solution; retained text L8-25",
+      "base": "One Australia-context retailer; publication 2025-12-22; event date undisclosed",
+      "value": null,
+      "observed_or_reported_actions": [
+        "Operational transition leadership",
+        "Requirements input",
+        "Prior-experience contribution"
+      ],
+      "unknowns": [
+        "Final individual supplier approver",
+        "Budget owner",
+        "Signature",
+        "Procurement/security authority"
+      ],
+      "limits": [
+        "No UK generalisation",
+        "No core-payroll-engine replacement inference",
+        "Tender is not evidence of procurement ownership"
+      ],
+      "disposition": "Optional contrast case candidate"
+    },
+    {
+      "candidate_id": "BUY-C05",
+      "source_ids": [
+        "SRC-0065"
+      ],
+      "operation": "boundary_only_no_new_statistic",
+      "claim": "The HR.com p26 EOR item asks about organisational selection criteria and does not identify who held decision authority.",
+      "evidence_class": "survey_item_scope_boundary",
+      "locator": "Original PDF printed p26, rendered/visually checked; method p3",
+      "base": "Full survey 206 HR professionals, mainly North America; EOR-use subgroup/item n not displayed",
+      "value": null,
+      "limits": [
+        "Do not reuse criteria proportions as role-power measures",
+        "Not direct evidence of domestic payroll platform approvals"
+      ],
+      "disposition": "Exclude from R04 authority findings; retain source-boundary note"
+    },
+    {
+      "candidate_id": "BUY-C06",
+      "source_ids": [
+        "SRC-0066"
+      ],
+      "operation": "landing_page_boundary_only",
+      "claim": "The inspected KPMG/UKG public page proposes stronger executive payroll ownership; this is a recommendation and not a documented employer approval case.",
+      "evidence_class": "publisher_normative_interpretation_landing_page",
+      "locator": "The case for elevating payroll leadership",
+      "base": "Landing page describes 319 senior-leader survey; full method/report unread",
+      "value": null,
+      "limits": [
+        "No unseen full report findings",
+        "No inference that a Chief Payroll Officer is prevalent or holds universal authority"
+      ],
+      "disposition": "Context only; no new current-authority finding"
+    }
+  ],
+  "researcher_model_note": "Pathway fields in the memo are proposed collection structure, not empirical buyer findings; do not convert them into population claims."
+}

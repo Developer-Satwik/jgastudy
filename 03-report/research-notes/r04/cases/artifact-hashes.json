@@ -1,0 +1,71 @@
+{
+  "generated_on": "2026-10-29",
+  "note": "Hashes of retained local artifacts; review notes and selected reader transcripts are not source-original captures. Failed reader responses are labelled separately. This manifest excludes itself.",
+  "files": [
+    {
+      "path": "03-report/research-notes/r04/cases/DECISION-CASES.md",
+      "sha256": "8ae4aeb3865291ba9480bdb027a6cd500ac83294aaac263f84b3301e1599d125",
+      "bytes": 11156
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/R4CASE-SG-ALIAS.html",
+      "sha256": "4a2175dad7e9fb4b7a08131a926bd84a6bef417599712ac9076a20c48d47ff68",
+      "bytes": 45686
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/capture-log.json",
+      "sha256": "c5bd2ff2c036e9a8c6d81395469244d694ee6515b0f86f5bdef6008ca8e7cebc",
+      "bytes": 4627
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/claim-candidates.json",
+      "sha256": "16e49e7a243544491e17cce411643c41b3f026d974205b796028983e65f8f4f0",
+      "bytes": 8483
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/failed-web-reader-response.txt",
+      "sha256": "5c2fdc321b8cb41b2ab22e90a60cb12ec0a3db37acf3b75206bfc4862d57b7ca",
+      "bytes": 1146
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/original-page-review.json",
+      "sha256": "e778c59076b4be9b36ef587a66bd7eca3c39124be88eaba157727b7144c83b44",
+      "bytes": 2885
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/qa/SRC-0134-page-41.png",
+      "sha256": "e89af5a00023dcaa3b905908f071936f5d5ed691a2fcd2492048dc68cd0206ae",
+      "bytes": 300207
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/qa/SRC-0134-page-43.png",
+      "sha256": "018cf99b98c3f6216fe59c5f534904839e9b581f01578bc44dba3d15e641956b",
+      "bytes": 302559
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/qa/SRC-0134-page-46.png",
+      "sha256": "979440912f98809d41442337f5960caa4e7ca724f4daea551989179caab3cb51",
+      "bytes": 303920
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/review-check.json",
+      "sha256": "ba37efefb4651f0d08442e9690ea06f5db64974344d8a4b3d882f8063e0c9b01",
+      "bytes": 2137
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/screened-discovery.json",
+      "sha256": "f06a928146d0e1103df093ac4aaa4200d40889cb5319019c5e8299476ac32cae",
+      "bytes": 1233
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/source-candidates.json",
+      "sha256": "95d23a54e5e47e8131918edbbfdd64c29f4e10c54a4a6e96a3c9401fe38da329",
+      "bytes": 6195
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/web-reader-selected-extracts.md",
+      "sha256": "9af565404726be1751ddf3aecfbe022c9cb8b88b62ed103984b2daa3248f2c82",
+      "bytes": 1323
+    }
+  ]
+}

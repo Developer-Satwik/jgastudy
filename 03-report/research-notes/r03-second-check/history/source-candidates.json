@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H3-S01",
+      "title": "Payroll: annual reporting and tasks \u2014 Update payroll software",
+      "publisher": "HM Revenue and Customs",
+      "url": "https://www.gov.uk/payroll-annual-reporting/update-software",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Publication/update date not established; relevant live original inspected29October2026.",
+      "source_type": "official_operational_guidance",
+      "review_status": "relevant_live_original_sections_inspected_and_retained",
+      "locator": "Update payroll software; Basic PAYE Tools; same-guide Overview annual-task table",
+      "population": "UK employer annual payroll preparation guidance; not survey or implementation evaluation",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Official guidance",
+      "limitations": "Operational update requirement/context only. No employer-specific legal advice, incidence, universal software architecture, need to replace, or automatic correctness from installing an update. Do not use the legacy BPT version number as a current-version recommendation.",
+      "capture_path": "03-report/research-notes/r03-second-check/history/H3-S01-update.html",
+      "capture_sha256": "3095add8d7b49c47b51ec473316f75359c59afde40adce1ce2b2b80908162616",
+      "alias_urls": [
+        "https://www.gov.uk/payroll-annual-reporting"
+      ],
+      "accessed_on": "2026-10-29",
+      "reuse_status": "Private verification; final-use wording and reproduction review pending"
+    },
+    {
+      "candidate_id": "H3-S02",
+      "title": "Understanding SAP SuccessFactors HCM Product Release Cycles",
+      "publisher": "SAP",
+      "url": "https://learning.sap.com/courses/cloud-onboarding-for-sap-successfactors-hcm/understanding-sap-successfactors-hcm-product-release-cycles",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Publication/update date not established; relevant live original inspected29October2026.",
+      "source_type": "supplier_release_process_learning",
+      "review_status": "relevant_live_original_sections_inspected_and_retained",
+      "locator": "HCM Release Cycle Overview; How to Prepare; What Tasks Do I Need to Perform",
+      "population": "One supplier HCM release model, not all payroll engines or cloud products",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Supplier describes its release model",
+      "limitations": "Supplier-described HCM lifecycle, not independent payroll outcomes. Preview/freeze, release frequency and mandatory-task filtering are product-specific; no claim every payroll environment follows that cadence. Promotional ROI and efficiency claims not adopted.",
+      "capture_path": "03-report/research-notes/r03-second-check/history/H3-S02.html",
+      "capture_sha256": "0baa196f57eaf8d1006acfc80693a6489b2d97b1ddf4f03393055da4056c9778",
+      "alias_urls": [],
+      "accessed_on": "2026-10-29",
+      "reuse_status": "Private verification; final-use wording and reproduction review pending"
+    }
+  ],
+  "reused_canonical_source_ids": [
+    "SRC-0068",
+    "SRC-0069",
+    "SRC-0070",
+    "SRC-0104",
+    "SRC-0105",
+    "SRC-0130",
+    "SRC-0136",
+    "SRC-0137"
+  ]
+}

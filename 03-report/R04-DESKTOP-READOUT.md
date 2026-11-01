@@ -1,0 +1,85 @@
+# R04: who can authorise which payroll decision?
+
+29 October 2026. Internal desktop synthesis. Original practitioner integration and final publication review remain open. No material has been sent to Nick.
+
+## Main conclusion
+
+Reconstruct a specific decision, its date and the authority exercised. A senior payroll role, a finance title, supplier familiarity, attendance at a meeting and the ability to delay work do not establish the same rights. Need identification, evaluation, sponsorship, funding, selection, signature, implementation, release and continuing service ownership may be combined, distributed or unknown.
+
+The useful contribution is a case-level pathway: what was being decided, who could do what, which evidence or condition mattered, what was actually authorised and what happened next. It is not a universal payroll buying committee, a mandatory approval ladder or a ranking of functions by power. The [decision pathway](R04-DECISION-PATHWAY.md) and [structured map](R04-decision-map.json) provide the analytical design.
+
+## What the evidence establishes
+
+### Second-check refinements
+
+The [second challenge](R04-SECOND-CHECK-READOUT.md) strengthens the case record with five selective conditions: effective remit/change; organisation and contract level; intended/described/exercised authority; the acceptance object; and relevant affected-party/external conditions. Twelve functions and the fourteen-question core remain unchanged.
+
+Historical public records show why the event's applicable mandate matters, without establishing a private-market trend. Market and recruitment originals distinguish operational permissions, role briefs and practical choices from delegated purchasing authority. The prior prompts already specified CFO/leadership arrangements, so repetition in their saved answers cannot validate that hierarchy. CLM-0279–0294.
+
+These refinements supplement the first-pass evidence below. They do not turn selected cases into a prevalence sample, hiring mandate or compulsory approval chain.
+
+### Involvement and authority can diverge
+
+The inspected G2/Paycom study reports evaluation practices and perceptions from a mixed-role interview population. It does not publish individual approval chains. Its general methodology's screening for relevant experience or authority does not establish that every respondent controlled a purchase. HR.com selection criteria are not decision-right measures; the KPMG/UKG landing-page recommendation to elevate executive ownership is not evidence of current approval practice. CLM-0263, CLM-0267–0268. No new authority percentage is adopted.
+
+Two UK accounts make the practical distinction concrete:
+
+- ADP publishes a named Purplebricks finance-transformation account: a team built a change case and presented it to the CFO, who agreed change was needed. Final funding release, formal supplier approval and contract signature are not disclosed. Familiarity with the group incumbent and prior experience appear in the account; this is not a complete competitive evaluation or proof those factors caused the decision. CLM-0264.
+- CIPP describes a UK construction employer whose Payroll Manager was excluded from provider selection during a wider finance upgrade, then participated in a later review. The CEO approved additional payroll resources after the findings. Later corrective-resource approval does not identify the original selector, budget holder or signatory, and the sequence does not prove that exclusion caused the errors. The employer is anonymous and the adviser reports its own intervention. CLM-0265.
+
+A non-UK Decjuba supplier case describes payroll-manager leadership, requirements and a tender for time-and-attendance, without identifying the final individual approver or signatory. It is an optional contrast, not evidence of UK practice or core-engine replacement. CLM-0266.
+
+These accounts justify asking about access to particular decisions and actual actions, rather than assuming either universal payroll exclusion or universal finance control. They are selected published cases, not new JGA practitioner contributions.
+
+### One project can contain different decisions
+
+| Published case | Decision evidenced | Why it matters for the analysis | What remains unestablished |
+| --- | --- | --- | --- |
+| Scottish Government shared-services implementation | HR migration-process signoff on 14 August 2024; Programme Management Board recommendation on 19 September; conditional Steering Committee backing on 20 September; formal approval on 30 September for 1 October go-live. | A narrower functional signoff, recommendation, conditional backing and final release are different acts. Assigned cutover execution was also distinct. | Original funding and signature rights are not reconstructed from these locators. Go-live approval does not mean every issue was resolved or benefits achieved. |
+| Rotherham incumbent iTrent support/maintenance | Assistant Chief Executive exercised the stated HR delegation to award support after framework further competition, with a reviewed business case. | Retaining the platform can be a positive, deliberate choice. Consultation and review do not automatically create individual vetoes. | Award does not prove later signature, delivery or benefits. The decision body says 22 March 2024 but the signature-date line says 2023; retain the discrepancy. |
+| Argyll and Bute phased implementation | Committee approved continuing Phase 2 and additional 2025/26 resources on 8 May 2025. Management separately describes earlier selection/funding and later delivery prioritisation. | Additional resource approval, delivery choices and original supplier selection have different objects and owners. | Approved budget is not expenditure, a new contract or completed remediation. Final go-live approver is not named in the selected account. |
+
+Scottish evidence: CLM-0269–0273, SRC-0134/0136. Rotherham: CLM-0274, SRC-0160. Argyll: CLM-0275–0276, SRC-0161/0162. Two Scottish publications concern one programme; Argyll minutes and the supporting report concern one employer/decision. No independent-case inflation.
+
+The Scottish auditor's positive governance assessment is retained alongside outstanding issues. Rotherham's continuity rationale is a recorded employer rationale, not an independent service-quality test. The cases do not establish a universal private-employer hierarchy or a market failure rate.
+
+### Advice, delegated authority and accountability need separate labels
+
+Government standards distinguish sponsoring authority, accountable change ownership, project management, delegated budgets, commercial roles and signature. Assurance can inform a gate without owning that decision; finance business partners can support or challenge a budget holder. These are source-scoped normative definitions, not observed private payroll prevalence. CLM-0253–0258.
+
+FRC guidance distinguishes delegation and management activity from retained board responsibility for the control framework. It supports Code-governed listed-company context, not board approval of every payroll purchase or a rule for every private employer. ICO describes DPO advice/monitoring and retained organisational responsibility; it does not identify a payroll approver or universal veto. ICO's page is currently under review and exact legal use requires a fresh check. CLM-0259, CLM-0277.
+
+R03's supplier operational documentation also separates payroll approval/submission and payment authorisation. Neither identifies who can buy the service. Preserve the earlier hold on universal UI behaviour. CLM-0260 and existing CLM-0218.
+
+### Records and dates change what an approval means
+
+Current Cabinet Office guidance explains that a Procurement Act award notice expresses intention to contract, while the later contract-details notice serves the entered-contract function; the same award-notice label meant something different under earlier legislation. Therefore identify the applicable regime, date and actual wording before interpreting a notice. This is a reading rule, not a procurement timetable or a sequence imposed on private employers or the selected older/differently governed council cases. CLM-0278.
+
+## What the pathway now records
+
+The analytical map separates twelve optional functions from specific actions and authority domains. It records the decision object, relevant date, scope, knowledge basis, condition, actual disposition and subsequent implementation state. A role may combine functions; functions may be shared, absent or not required. A complete committee map is not a contribution eligibility test.
+
+Conditions are especially useful: a concern raised, advice given, a required prerequisite, a binding condition and a formal stop are not interchangeable. Establish who could set or clear the condition and what actually followed. Do not resolve conflicting accounts by seniority or infer causal influence merely because an action came first. CLM-0261–0262.
+
+This fits existing Q001 and Q006–Q013. The fourteen-question core, sample target and client files remain unchanged. The worksheet is an analysis aid, not twelve additional mandatory interview questions. Initial unaided needs still come before constructed examples or role lists.
+
+## Implications
+
+**For practitioners:** identify the next specific decision, the relevant authority and unresolved conditions before preparing another generic proposal. A supported renewal, delegated improvement or decision needing no separate formal approval remains legitimate. No bypass of required controls is suggested.
+
+**For suppliers:** tailor evidence to the actual decision and function. Operational detail, implementation assurance, commercial terms and funding justification may serve different purposes. Do not confuse a sympathetic user with a signatory or a risk reviewer with a budget owner. The required evidence and financial treatment belong in R05.
+
+**For JGA:** the publication can explain how operational responsibility connects, or fails to connect, to decision access in each case. It cannot yet claim a widespread leadership deficit or infer a need to hire. Recruitment, enduring expertise and project delivery remain possible responses to a demonstrated need, not a prescribed conclusion.
+
+## What remains to establish
+
+- Permissioned, directly experienced cases: actual roles, delegation as understood, advice versus conditions, sequence changes, evidence and unresolved disagreement.
+- Variation across routine renewals, small changes, larger investments and further implementation phases, without requiring all forms within 6–10 contributions.
+- R05: what evidence, resources, costs, benefits and delivery-risk conditions make the case investable.
+- R06: why a case was retained, switched, deferred, declined or abandoned; approval and delivery outcomes remain separate.
+
+No original fieldwork, numerical market-authority conclusion, product test or commercial validation occurred. These desktop materials are internal, not the finished publication.
+
+## Evidence trail
+
+Detailed memos: [governance](research-notes/r04/governance/GOVERNANCE-ROLES.md), [buyer/employer accounts](research-notes/r04/buyers/BUYER-AUTHORITY-EVIDENCE.md), [actual public decisions](research-notes/r04/cases/DECISION-CASES.md), [evidence boundaries](research-notes/r04/root/EVIDENCE-AND-AUTHORITY-BOUNDARIES.md). Canonical references: `08-qa/R04-record-map.json`; each candidate retains its original locators, date qualifications and source-interest limits. Local raw originals, parsed extracts, rendered pages and failed responses are labelled separately. Final-use freshness, attribution and rights checks remain open.

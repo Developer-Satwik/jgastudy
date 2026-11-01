@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-30",
+  "files": [
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.txt",
+      "sha256": "ed88f7286b7711fbda1ba28dc82faf287252d903a96969868179c3e8106de0ab",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+      "sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/TC2-S01.html",
+      "sha256": "97a15b91b6a0f21a0ec955f3592ccd95a8a4ec9694b8828e226b2f15c515b32f",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.html",
+      "sha256": "607404c401d15243345300ff5af8d48744a57da44a2c653f8673c43de16c4b17",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.txt",
+      "sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.html",
+      "sha256": "0d217ed682a1f823466b70017cba24581e6103b5c29d639bbd02cc3d394d2961",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.html",
+      "sha256": "95bb25095982f9873cb3b20f3e123af4e8010edd7b318754fcf58401b6407eba",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/TC2-S01.txt",
+      "sha256": "827d5dfe05e7d0e214926b795ca27b2aef95a33faaca0760021d063562b05c2d",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0227.html",
+      "sha256": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0003.parsed.txt",
+      "sha256": "6ca71c99629e885783ecc7656322efc54473c5e5fe21da8f66935c79ca32d1c8",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0246.html",
+      "sha256": "be1cf00a8c6dfea585ab856ffd695d1944ee5113172d6d8c28fb4664fbfb6d1c",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0229.parsed.txt",
+      "sha256": "aef6c7e54093a938faed256dca66425800e4026aa4f1648067aa6019c595d290",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0246.parsed.txt",
+      "sha256": "7a4451a5186a2a2daf3c415e3642a9e81fed3ff7a1647d909d9d7d1db83e6089",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0003.html",
+      "sha256": "ed2f235e4251f2651f4ea7726eb5a8ae633fe18a358e419c511eff6ecf9fabc2",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0227.parsed.txt",
+      "sha256": "fcbd864b51a6a46bed5d387b0e303abb33db4f699a24a5a881a95644709c6f89",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/market/captures/SRC-0229.html",
+      "sha256": "544bf5d7d07f7e6f7ad3972c7edb84d634ca67724acb23eeefea508b40c32ad8",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/captures/SRC-0227.html",
+      "sha256": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/captures/SRC-0229.parsed.txt",
+      "sha256": "aef6c7e54093a938faed256dca66425800e4026aa4f1648067aa6019c595d290",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/captures/TH2-S01.parsed.txt",
+      "sha256": "f2b6d78effc275920f15ebef93dff0578abb047da86176368410a4e9ee478f10",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/captures/TH2-S01.html",
+      "sha256": "868a0ebd8d971293b110550f90bcb06b576677498d1ffe0839ea60d4bad9440d",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/captures/SRC-0227.parsed.txt",
+      "sha256": "fcbd864b51a6a46bed5d387b0e303abb33db4f699a24a5a881a95644709c6f89",
+      "kind": "parsed_original_text"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/captures/SRC-0229.html",
+      "sha256": "544bf5d7d07f7e6f7ad3972c7edb84d634ca67724acb23eeefea508b40c32ad8",
+      "kind": "retained_original_html"
+    }
+  ],
+  "note": "Retained raw HTML, derived parsed text, reader notes and any renders remain separate. Canonical reuses are not new independent datasets."
+}

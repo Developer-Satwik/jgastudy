@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 19,
+  "checks": [
+    {
+      "check": "Original retrieved successfully: SRC-0078",
+      "passed": true
+    },
+    {
+      "check": "Original hash: SRC-0078",
+      "passed": true
+    },
+    {
+      "check": "Parsed-text hash: SRC-0078",
+      "passed": true
+    },
+    {
+      "check": "Original retrieved successfully: SRC-0132",
+      "passed": true
+    },
+    {
+      "check": "Original hash: SRC-0132",
+      "passed": true
+    },
+    {
+      "check": "Parsed-text hash: SRC-0132",
+      "passed": true
+    },
+    {
+      "check": "Original retrieved successfully: SRC-0131",
+      "passed": true
+    },
+    {
+      "check": "Original hash: SRC-0131",
+      "passed": true
+    },
+    {
+      "check": "Parsed-text hash: SRC-0131",
+      "passed": true
+    },
+    {
+      "check": "No numerical metric adopted",
+      "passed": true
+    },
+    {
+      "check": "Three canonical reuses and four bounded records",
+      "passed": true
+    },
+    {
+      "check": "Fresh cycle update label retained without rewriting prior capture",
+      "passed": true
+    },
+    {
+      "check": "Differing status text is retained and existing hold preserved",
+      "passed": true
+    },
+    {
+      "check": "Declared recurring-period operation inspected",
+      "passed": true
+    },
+    {
+      "check": "Official retained-responsibility guidance inspected",
+      "passed": true
+    },
+    {
+      "check": "Canonical route resolves: SRC-0078",
+      "passed": true
+    },
+    {
+      "check": "Canonical route resolves: SRC-0131",
+      "passed": true
+    },
+    {
+      "check": "Canonical route resolves: SRC-0132",
+      "passed": true
+    },
+    {
+      "check": "Existing UI hold remains canonical and unchanged",
+      "passed": true
+    }
+  ],
+  "scope": "Targeted source/capture/claim-boundary checks only, not product, legal, market or practitioner validation.",
+  "external_actions": []
+}

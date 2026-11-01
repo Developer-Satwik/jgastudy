@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5H-C01",
+      "source_ids": [
+        "R5H-S01"
+      ],
+      "claim_text": "The 2012 NAO account reports uneven results, including one break-even instance, alongside excess tailoring/system complexity and a need for retained customer capability.",
+      "evidence_class": "historical_primary_audit_summary",
+      "locator": "HTML summary retained text 78–82",
+      "population": "Selected combined-function public-sector cases; analytical application explicitly labelled",
+      "limitations": "Not every shared-services case failed; the summary does not establish a general savings rate or specific optimal team.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical2012/2016/2022 and prospective approvedcaseDecember 2025/publishedApril 2026; inspected29October 2026",
+      "review_mode": "Relevant original HTML inspected; 2022 PDF 29/41/42 rendered and visually inspected. No2012/2016full PDF audit or forecast recalculation.",
+      "status": "R05_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "R5H-C02",
+      "source_ids": [
+        "R5H-S02"
+      ],
+      "claim_text": "The 2016 NAO account distinguishes transferred functions from delayed platform transformation; delays added legacy-maintenance costs and the programme lacked an integrated customer/centre business case.",
+      "evidence_class": "historical_primary_audit_summary",
+      "locator": "HTML summary retained text 83–87",
+      "population": "Selected combined-function public-sector cases; analytical application explicitly labelled",
+      "limitations": "Combined back-office programme, not payroll-only causality or evidence every delayed transition fails.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical2012/2016/2022 and prospective approvedcaseDecember 2025/publishedApril 2026; inspected29October 2026",
+      "review_mode": "Relevant original HTML inspected; 2022 PDF 29/41/42 rendered and visually inspected. No2012/2016full PDF audit or forecast recalculation.",
+      "status": "R05_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "R5H-C03",
+      "source_ids": [
+        "R5H-S03"
+      ],
+      "claim_text": "NAO 2022 found the claimed avoided standalone replacement cost omitted cluster-delivery costs and induced replacement of some already-cloud systems; cluster benefit calculations also differed in basis.",
+      "evidence_class": "historical_primary_audit",
+      "locator": "PDF 29 printed 28 paras2.8–2.11; methodPDF 41–42 printed 40–41",
+      "population": "Selected combined-function public-sector cases; analytical application explicitly labelled",
+      "limitations": "Not a net-saving estimate. Separate planned and actual evidence; no corporate appraisal rule or quantitative trend.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical2012/2016/2022 and prospective approvedcaseDecember 2025/publishedApril 2026; inspected29October 2026",
+      "review_mode": "Relevant original HTML inspected; 2022 PDF 29/41/42 rendered and visually inspected. No2012/2016full PDF audit or forecast recalculation.",
+      "status": "R05_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "R5H-C04",
+      "source_ids": [
+        "SRC-0075"
+      ],
+      "claim_text": "Synergy’s approved FBC2 summary revises inputs after sequential procurement and separately describes lead-department funding, departmental costs/savings and prospective shortfalls.",
+      "evidence_class": "published_prospective_programme_case",
+      "locator": "Economic 2.3; Finance 4.1–4.5",
+      "population": "Selected combined-function public-sector cases; analytical application explicitly labelled",
+      "limitations": "An approved case can retain funding conditions; no achieved payback, payroll-only return or independent forecast assurance follows. Numeric totals not reused/reconciled.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical2012/2016/2022 and prospective approvedcaseDecember 2025/publishedApril 2026; inspected29October 2026",
+      "review_mode": "Relevant original HTML inspected; 2022 PDF 29/41/42 rendered and visually inspected. No2012/2016full PDF audit or forecast recalculation.",
+      "status": "R05_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "R5H-C05",
+      "source_ids": [
+        "R5H-S02",
+        "R5H-S03",
+        "SRC-0075"
+      ],
+      "claim_text": "For R05 record the appraisal date/version, option and boundary, material changes and next reconsideration point; assess present evidence rather than treating an old approval as current or an updated estimate as an achieved result.",
+      "evidence_class": "researcher_analytical_recommendation",
+      "locator": "Cross-source analytical application of R5H-C02–C04",
+      "population": "Selected combined-function public-sector cases; analytical application explicitly labelled",
+      "limitations": "A dated estimate can remain relevant; no automatic expiry, compulsory full reapproval or extra mandatory question.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical2012/2016/2022 and prospective approvedcaseDecember 2025/publishedApril 2026; inspected29October 2026",
+      "review_mode": "Relevant original HTML inspected; 2022 PDF 29/41/42 rendered and visually inspected. No2012/2016full PDF audit or forecast recalculation.",
+      "status": "R05_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "R5H-C06",
+      "source_ids": [
+        "R5H-S02",
+        "SRC-0075"
+      ],
+      "claim_text": "For material multi-party choices identify who bears costs/work/risks, who receives benefits and when, and who can fund or authorise a transfer or shortfall; aggregate value alone does not settle each party’s affordability.",
+      "evidence_class": "researcher_analytical_recommendation",
+      "locator": "Cross-source analytical application; Synergy Finance 4.1–4.3",
+      "population": "Selected combined-function public-sector cases; analytical application explicitly labelled",
+      "limitations": "Do not prescribe equal sharing, a subsidy, extra governance or payer/beneficiary conflict in every employer case.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical2012/2016/2022 and prospective approvedcaseDecember 2025/publishedApril 2026; inspected29October 2026",
+      "review_mode": "Relevant original HTML inspected; 2022 PDF 29/41/42 rendered and visually inspected. No2012/2016full PDF audit or forecast recalculation.",
+      "status": "R05_second_challenge_candidate"
+    }
+  ]
+}

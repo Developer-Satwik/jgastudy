@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-30",
+  "purpose": "T02 offer-specific market/evidence-fit challenge after T01 comparisons, not another competitor census",
+  "queries": [
+    "Existing ISG enterprise published-study inquiry versus separately purchased service",
+    "Global Payroll2025 guide scope/inclusion/suitability rather than generic market label",
+    "QQE achieved coverage and wider inference with confidentiality/output context",
+    "iVentiv sponsor deliverable inventory versus sponsor result claims"
+  ],
+  "primary_routes_reopened": [
+    "https://www.gov.uk/government/publications/the-magenta-book/quality-in-qualitative-evaluation-qqe-html",
+    "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+    "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025",
+    "https://www.iventiv.com/sponsors"
+  ],
+  "new_routes_needed": false,
+  "reason_no_expansion": "Existing primary routes directly support the required contrast; new offers would repeat rather than change it.",
+  "not_reused": [
+    "ISG scores, provider counts, ranks and supplier results",
+    "iVentiv promotional satisfaction, claimed audience size, lead or return outcomes",
+    "Any public prices as a JGA price/cost input"
+  ],
+  "external_actions": false
+}

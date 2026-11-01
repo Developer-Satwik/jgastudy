@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-30",
+  "source_map": {
+    "T1H-S01": "SRC-0250",
+    "T1H-S02": "SRC-0251",
+    "T1M-S01": "SRC-0252",
+    "T1M-S02": "SRC-0253",
+    "T1R2-S01": "SRC-0254",
+    "T1R2-S02": "SRC-0255"
+  },
+  "claim_map": {
+    "T1H-C01": "CLM-0498",
+    "T1H-C02": "CLM-0499",
+    "T1H-C03": "CLM-0500",
+    "T1H-C05": "CLM-0501",
+    "T1H-C06": "CLM-0502",
+    "T1H-C07": "CLM-0503",
+    "T1M-C01": "CLM-0504",
+    "T1M-C02": "CLM-0505",
+    "T1M-C03": "CLM-0506",
+    "T1M-C04": "CLM-0507",
+    "T1M-C05": "CLM-0508",
+    "T1M-C06": "CLM-0509",
+    "T1M-C07": "CLM-0510",
+    "T1C-C01": "CLM-0511",
+    "T1C-C02": "CLM-0512",
+    "T1C-C03": "CLM-0513",
+    "T1C-C04": "CLM-0514",
+    "T1C-C05": "CLM-0515",
+    "T1C-C06": "CLM-0516",
+    "T1C-C07": "CLM-0517",
+    "T1R2-C01": "CLM-0518",
+    "T1R2-C02": "CLM-0519",
+    "T1R2-C03": "CLM-0520",
+    "T1R2-C04": "CLM-0521",
+    "T1R2-C05": "CLM-0522"
+  },
+  "new_source_routes": 6,
+  "new_claim_records": 25,
+  "canonical_sources": 223,
+  "canonical_claims": 432,
+  "folders": [
+    "history",
+    "market",
+    "competitors",
+    "root"
+  ],
+  "commercial_validation": false,
+  "participant_observations": 0,
+  "financial_inputs_added": 0
+}

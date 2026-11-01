@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-30",
+  "status": "internal_T02_design_candidates_for_root_review",
+  "purpose": "Make the research-use hypothesis reviewable before authorised exploratory conversations; not a commercial offer or addition to the signed project.",
+  "source_hypothesis": "T02-H01",
+  "primary_candidate": {
+    "candidate_id": "TB-B01",
+    "name": "Payroll Decision Evidence Pack",
+    "hypothesis_id": "T02-H01",
+    "status": "internal_concept_draft_not_offer_or_agreed_scope",
+    "commercial_unit": "One specified research edition with a defined reader-use purpose; any briefing separately scoped and costed before inclusion.",
+    "job": "Use grounded payroll decision evidence to decide which investment/change barrier to address and what evidence the next discussion requires.",
+    "possible_users": [
+      {
+        "profile": "Payroll technology organisations Product, strategy or commercial lead",
+        "actual_task_example": "Decide which payroll buyer problem or investment barrier deserves further product/proposition work.",
+        "caution": "Bounded decision cases and evidence requirements; not market prevalence, product-market fit or a feature roadmap validated by the whole market."
+      },
+      {
+        "profile": "Payroll outsourcing organisations Service strategy, proposition or commercial lead",
+        "actual_task_example": "Understand how employers assess a service transition, retained work and implementation readiness when considering outsourcing.",
+        "caution": "Actual scoped buyer accounts, alternatives and constraints, without treating general cases as proof of a particular provider’s delivery."
+      },
+      {
+        "profile": "HCM organisations Payroll/HCM product, ecosystem or commercial strategy lead",
+        "actual_task_example": "Understand the organisational and evidence barriers around payroll/HCM change for a defined country and employer context.",
+        "caution": "Decision context and handoff/authority constraints; not product compatibility testing or a system recommendation."
+      },
+      {
+        "profile": "Consulting organisations Payroll transformation, operating-model or workforce advisory lead",
+        "actual_task_example": "Support discovery and framing for a defined client decision, or build a reusable internal advisory evidence base.",
+        "caution": "Traceable decision evidence with explicit limits; client-specific recommendations require the consultant’s own work."
+      },
+      {
+        "profile": "Investment organisations Research, sector or diligence professional",
+        "actual_task_example": "Identify decision frictions or questions worth examining further in a payroll/HCM business assessment.",
+        "caution": "Exploratory qualitative context only; not valuation, market size, financial forecasts, investment advice or a diligence conclusion."
+      }
+    ],
+    "minimum_useful_output": [
+      {
+        "item": "Dated finished edition",
+        "purpose": "The report, summary and actual evidence/method context for the identified decision.",
+        "boundary": "Uses the research asset JGA is commissioning; no separate bespoke study or new fieldwork promised."
+      },
+      {
+        "item": "Decision reading path",
+        "purpose": "A short guide to the edition’s relevant sections, actually supported case contrasts and practical templates for the reader’s stated task.",
+        "boundary": "Interpretation of the same edition only. Show absent/partial evidence explicitly; no invented examples presented as fieldwork or causal recipe."
+      },
+      {
+        "item": "Source and evidence boundaries",
+        "purpose": "Traceable public sources and appropriately cleared aggregate practitioner evidence, with actual dates, scope and limitations.",
+        "boundary": "No raw identifiable contributions, private documents or unrestricted participant quotations."
+      },
+      {
+        "item": "Defined use record",
+        "purpose": "State which edition and intended uses are covered, and identify any circulation or external-use questions needing agreement.",
+        "boundary": "A planning specification, not an executed licence, a rights grant or a presumption that existing free/public rights are restricted."
+      }
+    ],
+    "optional_components": [
+      {
+        "item": "Scoped reader briefing",
+        "value_hypothesis": "Discuss implications for one stated task and distinguish what the edition can and cannot support.",
+        "not_included_until": "JGA agrees content, audience, preparation, delivery owner, time allowance, follow-up limit, availability and cost.",
+        "exclusions": [
+          "No new confidential employer analysis",
+          "No technical payroll helpdesk",
+          "No implementation advice or guaranteed approval",
+          "No unlimited follow-up or automatic future edition"
+        ]
+      }
+    ],
+    "plain_language_concept_after_unaided_discovery": "We are shaping a practical research pack around payroll investment and change decisions. It would bring together the dated findings, relevant case comparisons and tools for thinking through the evidence and next steps. A short, separately scoped briefing could help your team apply the material to a decision you have described. Which part, if any, would add something to what you already use?",
+    "free_and_paid_overlap_rule": "Participating practitioners retain the research free as proposed. Establish actual existing access and intended use first. Do not sell an equivalent second copy to the same beneficiary by default, remove promised access, or assume all team circulation requires another fee. Any paid component must be genuinely additional, wanted, feasible and agreed.",
+    "rights_choices_for_agreement": [
+      "Which edition/version and available materials are supplied",
+      "Who is the actual reader/user and whether internal circulation is already covered",
+      "Any specifically requested client-facing use, quotation, external publication or commercial reuse",
+      "Whether additional interpretation/service is included, and its bounded delivery",
+      "How corrections are handled; future editions, updates and renewals are separate decisions"
+    ],
+    "does_not_include": [
+      "New bespoke interviews or client-specific research",
+      "Representative market percentages, validated rankings, a Confidence Index or causal ROI forecast",
+      "Technical payroll, tax, legal or implementation advice",
+      "Event admission, sponsor access, sales introductions or participant identity/raw answers",
+      "Automatic annual access, future updates or unlimited analyst service"
+    ],
+    "delivery_work": [
+      {
+        "work": "Edition evidence and permission readiness",
+        "owner": "JGA/Riseklix roles and actual authorised process to be agreed",
+        "cost_driver": "Research/coding/checking, writing/design, rights and confidentiality checks; do not treat the current USD1,500 commission as future repeat cost."
+      },
+      {
+        "work": "Reading path and briefing preparation",
+        "owner": "Named capable editorial/research owner required",
+        "cost_driver": "Review actual task fit, select supported evidence, prepare reader guide; briefing work only if chosen."
+      },
+      {
+        "work": "Delivery and servicing",
+        "owner": "Named delivery/contact owner required",
+        "cost_driver": "Version manifest, access/usage clarification, delivery, bounded questions/corrections and archive administration."
+      }
+    ],
+    "version_and_update_boundary": "Identify an edition, actual evidence period and delivery version. Correct factual errors through an agreed route; later data, new research, recurring briefings or annual renewal are not silently included. A contract mechanism is not evidence of actual renewal or useful continued use.",
+    "reason_to_continue": [
+      "Buyer identifies a concrete decision and a missing input after actual alternatives are discussed",
+      "Evidence scope and cohort limitations are acceptable for that decision",
+      "The additional output/service or use permission is clear and deliverable",
+      "A relevant decision owner is willing to review a defined scope, without treating that as a sale"
+    ],
+    "disqualifiers": [
+      "Need is already met by equivalent free/public/internal material or existing contributor access",
+      "Only broad interest, no identifiable use or owner",
+      "Buyer needs reliable market prevalence, supplier rankings or a guaranteed business result the evidence cannot support",
+      "Value depends on private identities, raw answers, favourable findings or unapproved rights",
+      "Required country/role/decision evidence is absent and would need unagreed bespoke collection"
+    ],
+    "validation_route": {
+      "guide": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "sequence": "B01/B02 unaided actual-decision and alternative discussion first; concept only then B03/B04/B05/B06 selectively.",
+      "capture": "Actual use, what is additional, buyer/evidence/rights requirements, constraints, approval route and permitted next step. Hypothetical interest and previous purchasing remain distinct.",
+      "price": null,
+      "market_validation_complete": false
+    },
+    "claim_ids": [
+      "CLM-0496",
+      "CLM-0497",
+      "CLM-0503",
+      "CLM-0506",
+      "CLM-0507",
+      "CLM-0509",
+      "CLM-0515",
+      "CLM-0516",
+      "CLM-0517",
+      "CLM-0522"
+    ],
+    "assumption_ids": [
+      "TB-A01",
+      "TB-A02",
+      "TB-A03",
+      "TB-A04",
+      "TB-A05"
+    ],
+    "actual_buyers": [],
+    "actual_commitments": [],
+    "price": null,
+    "financial_input": false,
+    "contract_named_buyer_segment_hypotheses": [
+      {
+        "segment": "Payroll technology organisations",
+        "possible_user": "Product, strategy or commercial lead",
+        "actual_task_example": "Decide which payroll buyer problem or investment barrier deserves further product/proposition work.",
+        "evidence_fit": "Bounded decision cases and evidence requirements; not market prevalence, product-market fit or a feature roadmap validated by the whole market.",
+        "intended_use_to_establish": "Internal product/commercial decisions versus external marketing claims; they are different uses.",
+        "counter_signal": "The requested evidence is a statistically reliable market-size/demand estimate, or no concrete next decision exists."
+      },
+      {
+        "segment": "Payroll outsourcing organisations",
+        "possible_user": "Service strategy, proposition or commercial lead",
+        "actual_task_example": "Understand how employers assess a service transition, retained work and implementation readiness when considering outsourcing.",
+        "evidence_fit": "Actual scoped buyer accounts, alternatives and constraints, without treating general cases as proof of a particular provider’s delivery.",
+        "intended_use_to_establish": "Internal service/proposition work versus sales collateral, customer advice or public comparison.",
+        "counter_signal": "Value depends on a favourable vendor ranking, access to respondents or a claim of lower costs the study cannot establish."
+      },
+      {
+        "segment": "HCM organisations",
+        "possible_user": "Payroll/HCM product, ecosystem or commercial strategy lead",
+        "actual_task_example": "Understand the organisational and evidence barriers around payroll/HCM change for a defined country and employer context.",
+        "evidence_fit": "Decision context and handoff/authority constraints; not product compatibility testing or a system recommendation.",
+        "intended_use_to_establish": "Internal ecosystem/proposition learning versus external product promotion or partner materials.",
+        "counter_signal": "The real need is technical integration validation or unrelated broad HR demand that the research does not cover."
+      },
+      {
+        "segment": "Consulting organisations",
+        "possible_user": "Payroll transformation, operating-model or workforce advisory lead",
+        "actual_task_example": "Support discovery and framing for a defined client decision, or build a reusable internal advisory evidence base.",
+        "evidence_fit": "Traceable decision evidence with explicit limits; client-specific recommendations require the consultant’s own work.",
+        "intended_use_to_establish": "Internal preparation versus client-facing extracts, deliverables, redistribution or resale.",
+        "counter_signal": "Equivalent internal material already meets the need or use needs rights JGA cannot authorise."
+      },
+      {
+        "segment": "Investment organisations",
+        "possible_user": "Research, sector or diligence professional",
+        "actual_task_example": "Identify decision frictions or questions worth examining further in a payroll/HCM business assessment.",
+        "evidence_fit": "Exploratory qualitative context only; not valuation, market size, financial forecasts, investment advice or a diligence conclusion.",
+        "intended_use_to_establish": "Internal research context versus material for portfolio companies, investor publications or external diligence outputs.",
+        "counter_signal": "The buyer requires reliable prevalence, valuation support or investment recommendations this small qualitative study cannot provide."
+      }
+    ],
+    "additional_employer_use_hypothesis": {
+      "profile": "Employer-side payroll/finance/change lead",
+      "role_in_concept": "Primarily a practitioner/research beneficiary in the current concept; an additional buyer only if a genuine incremental use/service is wanted.",
+      "actual_task_example": "Frame a live investment/change decision and identify evidence still missing.",
+      "boundary": "Retain the promised free practitioner research. Do not assume the employer buys equivalent access, or that an internal-use restriction exists. Not a replacement for local technical/legal advice."
+    }
+  },
+  "optional_variant": {
+    "candidate_id": "TB-B02",
+    "name": "Defined Client or External Use",
+    "hypothesis_id": "T02-H01",
+    "status": "optional_rights_variant_not_new_research_service",
+    "relationship_to_primary": "The same specified edition/material, with a separately agreed external/client-use purpose where wanted and rights-cleared. Do not count the base research twice.",
+    "commercial_unit": "A specified permitted use of defined cleared material, with any necessary preparation separately scoped. Exact beneficiary, output/channel, extent, period and terms remain open.",
+    "possible_user": "Adviser, payroll supplier or other organisation with a real client-facing or public communication task.",
+    "job": "Use relevant research responsibly in a named client deliverable, public article, presentation or commercial communication.",
+    "minimum_useful_output": [
+      {
+        "item": "Defined material and use schedule",
+        "purpose": "Identify the selected source-backed content, source edition/date, proposed excerpt/chart/template and actual output/context.",
+        "boundary": "Only material JGA can authorise and participant permissions support; public accessibility alone creates no third-party reuse right."
+      },
+      {
+        "item": "Attribution/context instructions",
+        "purpose": "Keep sample, method, geography, recency and evidence limitations attached to the intended use.",
+        "boundary": "No removal of context to imply endorsement, representative statistics, proven results or an analyst rating."
+      },
+      {
+        "item": "Prepared reusable asset if chosen",
+        "purpose": "Supply an agreed excerpt or chart ready for the defined context.",
+        "boundary": "Additional production/clearing work must be wanted, costed and scoped; not a blanket promise of co-branding or custom content."
+      }
+    ],
+    "plain_language_concept_after_unaided_discovery": "If you want to use parts of the research in client work or public material, we could define that use separately: which findings or graphics, where they would appear and what context needs to stay with them. That would use the same research edition, with only the additional permissions or preparation you actually need. What would you want to use, and for whom?",
+    "free_and_paid_overlap_rule": "Participating practitioners retain the research free as proposed. Establish actual existing access and intended use first. Do not sell an equivalent second copy to the same beneficiary by default, remove promised access, or assume all team circulation requires another fee. Any paid component must be genuinely additional, wanted, feasible and agreed.",
+    "rights_choices_for_agreement": [
+      "Actual end user/client/output and intended channel",
+      "Exact cleared material, extent, adaptation and attribution/context",
+      "Whether redistribution, co-branding, onward licensing or resale is requested; none assumed granted",
+      "Applicable version/period and actual clearance rights",
+      "Required asset-preparation/review work and delivery owner"
+    ],
+    "does_not_include": [
+      "Ownership of third-party research or private participant contributions",
+      "Blanket sublicensing, commercial resale or unrestricted raw data",
+      "Automatic exclusivity, endorsement or favourable research conclusions",
+      "New client-specific research, ghostwritten articles, ongoing advisory or implementation work",
+      "A second assumed sale where equivalent use is already covered"
+    ],
+    "delivery_work": [
+      {
+        "work": "Rights/context check for the specific use",
+        "cost_driver": "Verify JGA/third-party/participant rights, appropriate anonymisation and whether source context survives the proposed use."
+      },
+      {
+        "work": "Defined asset preparation if selected",
+        "cost_driver": "Editorial/design work, attribution, version and final factual/context review."
+      },
+      {
+        "work": "Bounded delivery/administration",
+        "cost_driver": "Usage schedule, prepared assets where agreed, correction contact and archive of version/permission references."
+      }
+    ],
+    "version_and_update_boundary": "Identify an edition, actual evidence period and delivery version. Correct factual errors through an agreed route; later data, new research, recurring briefings or annual renewal are not silently included. A contract mechanism is not evidence of actual renewal or useful continued use.",
+    "reason_to_continue": [
+      "Actual intended external/client use is concrete",
+      "Use is additional to existing granted entitlements",
+      "Clearance and preparation are feasible without compromising the evidence or confidential input",
+      "Decision owner will consider a specifically defined permission/service scope"
+    ],
+    "disqualifiers": [
+      "Buyer seeks unrestricted or unowned reuse rights",
+      "Intended use strips context or creates misleading claims",
+      "Needed participant/third-party clearance is absent and cannot be obtained through authorised routes",
+      "Equivalent use is already covered or the buyer only needs a link to public findings",
+      "Buyer actually needs new bespoke research or content beyond the agreed edition"
+    ],
+    "validation_route": {
+      "guide": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "sequence": "B01/B02 unaided actual-decision and alternative discussion first; concept only then B03/B04/B05/B06 selectively.",
+      "capture": "Actual use, what is additional, buyer/evidence/rights requirements, constraints, approval route and permitted next step. Hypothetical interest and previous purchasing remain distinct.",
+      "price": null,
+      "market_validation_complete": false
+    },
+    "claim_ids": [
+      "CLM-0497",
+      "CLM-0506",
+      "CLM-0509",
+      "CLM-0515",
+      "CLM-0516",
+      "CLM-0522"
+    ],
+    "actual_buyers": [],
+    "actual_commitments": [],
+    "price": null,
+    "financial_input": false
+  },
+  "assumptions": [
+    {
+      "assumption_id": "TB-A01",
+      "statement": "A dated finished research edition can be useful for a specific decision when its permitted evidence supports that use.",
+      "status": "untested_design_assumption",
+      "decision_needed": "Actual buyer use, missing evidence and acceptable limits; not general enthusiasm."
+    },
+    {
+      "assumption_id": "TB-A02",
+      "statement": "An interpretation/briefing or a genuinely additional use permission may add value beyond an equivalent copy of the research.",
+      "status": "untested_design_assumption",
+      "decision_needed": "What the buyer already receives, what is additional, who uses it and whether JGA can deliver and clear it."
+    },
+    {
+      "assumption_id": "TB-A03",
+      "statement": "A bounded briefing is a possible future service component rather than technical payroll or open-ended advisory support.",
+      "status": "proposed_component_not_committed",
+      "decision_needed": "Buyer usefulness, named delivery owner, preparation/briefing limits and servicing cost before inclusion."
+    },
+    {
+      "assumption_id": "TB-A04",
+      "statement": "The five buyer categories named in agreement section5 are hypotheses to assess by actual task and intended use; the buyer guide’s product/commercial/strategy focus can be adapted selectively to the person’s role.",
+      "status": "contract_named_categories_not_demand_or_segment_ranking",
+      "decision_needed": "Actual use, evidence gap, owner, existing alternatives and needed permissions. No category or named firm is a qualified buyer by label."
+    },
+    {
+      "assumption_id": "TB-A05",
+      "statement": "The free practitioner research benefit remains the research promised in Nick’s concept, not a downgraded summary or teaser.",
+      "status": "preserved_concept_premise",
+      "decision_needed": "Clarify actual additional rights/services without presuming the practitioner’s employer has or lacks any particular right."
+    }
+  ],
+  "original_practitioner_free_research_preserved": true,
+  "original_four_hypotheses_preserved": true,
+  "new_core_questions": 0,
+  "new_web_research": false,
+  "new_canonical_claims": false,
+  "actual_fieldwork": false,
+  "external_sends": 0,
+  "prices": [],
+  "financial_inputs": [],
+  "buyer_validation_complete": false,
+  "signed_project_vs_future_product": "The signed project delivers the complete contracted report, feasibility work and materials to JGA. These buyer concepts assess JGA’s possible future products; they do not replace the contracted report with a smaller pack, grant customer rights or add bespoke/service work to Riseklix’s current scope.",
+  "contract_basis": "Generated working agreement section5 names payroll technology, outsourcing, HCM, consulting and investment organisations as likely-buyer categories to assess. These are feasibility hypotheses, not qualified prospects or an approved launch segment."
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-28",
+  "status": "passed_for_internal_candidate_review",
+  "source_candidates": 3,
+  "claim_candidates": 5,
+  "retained_originals": 4,
+  "rendered_pages_visually_inspected_by_agent": 2,
+  "external_actions": [],
+  "canonical_files_modified": false,
+  "client_files_modified": false
+}

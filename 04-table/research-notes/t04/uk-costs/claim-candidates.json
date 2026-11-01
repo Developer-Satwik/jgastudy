@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T4E-C01",
+      "source_candidate_ids": [
+        "T4E-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained HTML extract lines69–82, Temperance Room/private dining",
+      "claim_text": "Hawksmoor Manchester publishes a seated group range of 10–14 for the Temperance Room.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "min": 10,
+        "max": 14
+      },
+      "unit": "distinct seated people",
+      "denominator": null,
+      "limitations": "Room capacity is not an event-date reservation or suitability assessment. Additional distinct hosts and moderators consume seats.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C02",
+      "source_candidate_ids": [
+        "T4E-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained HTML extract lines78–80, semi-private areas",
+      "claim_text": "The same Hawksmoor page describes separate semi-private spaces for up to 30 or 50 guests.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": [
+        30,
+        50
+      ],
+      "unit": "guests in separate semi-private areas",
+      "denominator": null,
+      "limitations": "Larger semi-private spaces are not equivalent to the 14-person private room; confidentiality, acoustics and actual layout remain unverified.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C03",
+      "source_candidate_ids": [
+        "T4E-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF page3, Sharing Menus; live page group-sharing-menu link",
+      "claim_text": "The live-linked Manchester sharing menu lists two/three-course per-person pairs: Moonlighter £65/£70, Silvertail £77/£82 and Hawkabelle £98/£103.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "Moonlighter_2": 65,
+        "Moonlighter_3": 70,
+        "Silvertail_2": 77,
+        "Silvertail_3": 82,
+        "Hawkabelle_2": 98,
+        "Hawkabelle_3": 103
+      },
+      "unit": "GBP per person for specified course count",
+      "denominator": null,
+      "limitations": "Published menu context only; minimum guest numbers may apply. No private-room total, future-date price, VAT/service basis or minimum-spend amount established by this page.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C04",
+      "source_candidate_ids": [
+        "T4E-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF page9, Drinks Packages A; visual headings and price-per-person/whole-package wording",
+      "claim_text": "Hawksmoor package A lists half a bottle of wine per person at £23, or a whole package including an arrival beer at £30, Prosecco at £35.50 or Champagne at £45.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "base": 23,
+        "with_beer_whole_package": 30,
+        "with_prosecco_whole_package": 35.5,
+        "with_champagne_whole_package": 45
+      },
+      "unit": "GBP per person for specified whole drinks package",
+      "denominator": null,
+      "limitations": "The arrival-drink whole-package prices must not be added again to the base £23. Alcohol choice, non-alcohol alternatives, date, charge basis and employer acceptability remain open.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C05",
+      "source_candidate_ids": [
+        "T4E-S02",
+        "T4E-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF pages2,4 versus room page lines69–82",
+      "claim_text": "Hawksmoor’s individual-menu service limit of up to 20 guests describes the menu format, while the Temperance Room page gives 14 seated places.",
+      "evidence_class": "researcher_unit_reconciliation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Do not substitute a generic menu-service limit for the capacity of the actual room. This does not establish availability of another fully private space.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C06",
+      "source_candidate_ids": [
+        "T4E-S03",
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "HTML lines68–78; PDF pages2,4",
+      "claim_text": "Benares publishes private-dining capacities of 11–16 for Berkeley and 17–36 for Dover; its smaller Chef’s and Sommelier’s tables have upper bounds of 8 and 10.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "Berkeley": [
+          11,
+          16
+        ],
+        "Dover": [
+          17,
+          36
+        ],
+        "Chefs_max": 8,
+        "Sommeliers_max": 10
+      },
+      "unit": "private-dining guests",
+      "denominator": null,
+      "limitations": "These are published room ranges, not a reservation, promised layout, minimum billable number or verified suitability. Exact booking configuration remains unconfirmed.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C07",
+      "source_candidate_ids": [
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF pages6–7, dated menu headings",
+      "claim_text": "Benares lists Bayleaf at £78, Fennel at £89 and Deluxe at £129 per person, or £147 with a glass of Champagne, for 1 September–15 November 2026.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "Bayleaf": 78,
+        "Fennel": 89,
+        "Deluxe": 129,
+        "Deluxe_with_champagne": 147
+      },
+      "unit": "GBP per person, specified menu and period",
+      "denominator": null,
+      "limitations": "Rates are within their printed period at capture. They do not establish a 2027 pilot price; all menus/prices are subject to change. Do not reuse the expired January menu as the current selection.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C08",
+      "source_candidate_ids": [
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF pages6,8, tasting menu heading and maximum",
+      "claim_text": "Benares’s dated tasting menu is £139 per person, paired wines £129 per person, and is offered for the entire table up to 16 guests.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "food_pp": 139,
+        "paired_wine_pp": 129,
+        "max_guests": 16
+      },
+      "unit": "GBP per person and distinct guests",
+      "denominator": null,
+      "limitations": "Wine pairing is additional to food; neither is an all-in private-event price. The 16-person menu ceiling is separate from the Dover room’s published 17–36 range.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C09",
+      "source_candidate_ids": [
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF pages6–8, price footnotes and Additional Information",
+      "claim_text": "Benares says the listed prices include VAT and adds a 2% cover charge and a discretionary 13% service charge.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "cover_percent": 2,
+        "discretionary_service_percent": 13
+      },
+      "unit": "published percentage; calculation base not established",
+      "denominator": null,
+      "limitations": "Retain the discretionary description. Do not add VAT again, infer tax recovery, assume charge compounding/base, or treat a future quotation as known.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C10",
+      "source_candidate_ids": [
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF page8, Additional Information, minimum-spend/hire sentence and starred note",
+      "claim_text": "Benares’s guide states that minimum spend and hire charge apply for bookings described as over 9 and above, with further details referred to the Events Team.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "The wording is awkward and does not supply Berkeley/Dover amounts or eligible-spend offset mechanics. Do not import the smaller-room published minima or assume hire is zero. No clarification was requested.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C11",
+      "source_candidate_ids": [
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "PDF page8, Additional Information, timing and deposit",
+      "claim_text": "Benares asks for final numbers 72 hours before booking and menu selection at least 14 days before the event; it says a deposit applies from 15 November to 30 December.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "final_numbers_hours_before": 72,
+        "menu_days_before": 14
+      },
+      "unit": "specified lead times",
+      "denominator": null,
+      "limitations": "Deposit amount, refundability, cancellation exposure and balance date are not given. This seasonal statement does not prove that other dates have no deposit.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C12",
+      "source_candidate_ids": [
+        "T4E-S05"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained original HTML heading, parsed lines15–16",
+      "claim_text": "Corrigan’s Lindsay Room retained HTML lists 24 boardroom and 40 reception capacity.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": {
+        "boardroom": 24,
+        "reception": 40
+      },
+      "unit": "people in distinct configurations",
+      "denominator": null,
+      "limitations": "The web-reader text omits that heading; the original retained HTML and parsed extract support it. Reception capacity is not seated research-dinner capacity. Layout/privacy/date availability unverified.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C13",
+      "source_candidate_ids": [
+        "T4E-S05"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained HTML lines22–24, The Finer Details",
+      "claim_text": "Corrigan’s says it charges no room hire fee for Lindsay Room and instead applies a minimum food-and-drink spend, with the amount obtainable from its team.",
+      "evidence_class": "publisher_public_offer_or_terms",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "No-room-hire does not mean no minimum cost. The actual minimum, menu, charges, deposit and date-specific total remain unknown. No enquiry was made.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C14",
+      "source_candidate_ids": [
+        "T4E-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Analytical application of room upper bound14 to agreed practitioner range12–15 plus distinct attendees",
+      "claim_text": "The Temperance Room cannot seat the upper-end 15-practitioner concept even before any additional host; a smaller selected group fits only if every distinct seated person remains within 14.",
+      "evidence_class": "researcher_capacity_application",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "An analyst capacity test, not a proposed reduction to the agreed target, staffing decision, room recommendation or actual attendance record.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C15",
+      "source_candidate_ids": [
+        "T4E-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Analytical comparison of PDF pages2,4,6,8",
+      "claim_text": "For a constructed total of 17 distinct attendees, Berkeley’s published 16-place limit and the 16-person tasting-menu limit both fail the screen; Dover’s 17–36 range passes only that numerical range check.",
+      "evidence_class": "researcher_capacity_and_menu_application",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Seventeen is an illustrative total, not an agreed two-host requirement. Menu applicability, room terms, actual layout, employer acceptability and full total remain open.",
+      "status": "T04_desktop_context"
+    },
+    {
+      "candidate_id": "T4E-C16",
+      "source_candidate_ids": [
+        "T4E-S01",
+        "T4E-S02",
+        "T4E-S03",
+        "T4E-S04",
+        "T4E-S05"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Cross-source cost-screen synthesis",
+      "claim_text": "The selected public routes do not supply a complete date-specific private-event cost or the cancellation and cash schedule needed for an operating budget.",
+      "evidence_class": "researcher_cost_evidence_boundary",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "This is bounded to inspected routes. Unobserved values remain unknown, not zero. No price negotiation, quotation, reservation, participant collection or financial-register population occurred.",
+      "status": "T04_desktop_context"
+    }
+  ]
+}

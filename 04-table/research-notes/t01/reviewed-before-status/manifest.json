@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "original_path": "04-table/T01-model-map.json",
+      "snapshot_path": "04-table/research-notes/t01/reviewed-before-status/T01-model-map.json",
+      "sha256": "cc78ba702a83f171bc57deaeac1cdfa86e7b1dbd5e46d261ffd26f955b04fe27"
+    },
+    {
+      "original_path": "04-table/T02-proposition-hypotheses.json",
+      "snapshot_path": "04-table/research-notes/t01/reviewed-before-status/T02-proposition-hypotheses.json",
+      "sha256": "7a7d1a89c4cdfd5c17874eba789d627def89f0d16e92842e52fd49e2a7398955"
+    }
+  ]
+}

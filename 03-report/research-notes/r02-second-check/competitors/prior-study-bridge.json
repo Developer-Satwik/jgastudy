@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-28",
+  "purpose": "Discovery bridge from the earlier AI recommendation study into R02 case contrasts. No prompt reruns.",
+  "provenance": [
+    {
+      "role": "summary",
+      "path": "sites/jgafinalcode/dist/data/summary.json",
+      "sha256": "9ad39abd44ec81ffd7ffd92fb9209858fc4344433b3edb2da6142c50f95bbefc"
+    },
+    {
+      "role": "jga_pages",
+      "path": "sites/jgafinalcode/dist/data/jga-pages.json",
+      "sha256": "ee5cc2be39ec8ec767865da8acd13d5c584f82d4fc406842787369ff8d83f7ba"
+    },
+    {
+      "role": "all_answers",
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/all-answers.json",
+      "sha256": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719"
+    },
+    {
+      "role": "source_events",
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/source-events.csv",
+      "sha256": "e621bf5cb7abfaa201b57c5210cc5b4905d79f9d25601f7b334af4ca9549cd83"
+    }
+  ],
+  "study_description": {
+    "saved_answers": 352,
+    "unique_questions": 44,
+    "situations": 11,
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "date_range_utc": [
+      "2026-10-18T17:30:52.134Z",
+      "2026-10-22T14:24:16.490Z"
+    ],
+    "comparators": [
+      "Portfolio Payroll",
+      "Frazer Jones",
+      "Oakleaf Partnership",
+      "Middlemore",
+      "Hays",
+      "Robert Half"
+    ],
+    "unit": "Recorded consumer-tool answers to selected employer recruitment questions; not employers or hiring transactions."
+  },
+  "selected_observations": [
+    {
+      "situation_id": "S07",
+      "label": "UK Payroll Manager replacement",
+      "answers": 32,
+      "recorded_recommendations": {
+        "JGA": 25,
+        "Portfolio Payroll": 32,
+        "Frazer Jones": 14,
+        "Oakleaf Partnership": 8,
+        "Middlemore": 0,
+        "Hays": 25,
+        "Robert Half": 11
+      },
+      "purpose": "Illustrates study-specific discovery variation only; no hypothesis is confirmed by this count."
+    },
+    {
+      "situation_id": "S10",
+      "label": "Interim cover and permanent succession",
+      "answers": 32,
+      "recorded_recommendations": {
+        "JGA": 14,
+        "Portfolio Payroll": 20,
+        "Frazer Jones": 28,
+        "Oakleaf Partnership": 18,
+        "Middlemore": 10,
+        "Hays": 9,
+        "Robert Half": 8
+      },
+      "purpose": "Illustrates study-specific discovery variation only; no hypothesis is confirmed by this count."
+    },
+    {
+      "situation_id": "S11",
+      "label": "Small UK team adds a Senior Payroll Specialist",
+      "answers": 32,
+      "recorded_recommendations": {
+        "JGA": 27,
+        "Portfolio Payroll": 32,
+        "Frazer Jones": 13,
+        "Oakleaf Partnership": 21,
+        "Middlemore": 0,
+        "Hays": 16,
+        "Robert Half": 9
+      },
+      "purpose": "Illustrates study-specific discovery variation only; no hypothesis is confirmed by this count."
+    }
+  ],
+  "jga_source_page_leads": [
+    {
+      "url": "https://jgarecruitment.com/",
+      "distinct_answer_count": 37,
+      "citation_events": 54,
+      "role_counts": {
+        "provider_link": {
+          "distinctAnswerCount": 36,
+          "eventCount": 37,
+          "answerIds": [
+            "S01-A-chatgpt-pilot2",
+            "S01-D-chatgpt-r1",
+            "S02-A-chatgpt-r1",
+            "S02-A-chatgpt-r2",
+            "S02-B-chatgpt-r1",
+            "S02-B-chatgpt-r2",
+            "S02-C-chatgpt-r1",
+            "S02-C-chatgpt-r2",
+            "S02-D-chatgpt-r1",
+            "S04-A-chatgpt-r1",
+            "S04-A-chatgpt-r2",
+            "S04-C-chatgpt-r1",
+            "S04-C-chatgpt-r2",
+            "S04-D-chatgpt-r1",
+            "S05-A-chatgpt-r2",
+            "S05-B-chatgpt-r1",
+            "S05-B-chatgpt-r2",
+            "S05-C-chatgpt-r1",
+            "S06-A-chatgpt-r1",
+            "S06-B-chatgpt-r1",
+            "S06-B-chatgpt-r2",
+            "S06-C-chatgpt-r1",
+            "S06-C-chatgpt-r2",
+            "S06-D-chatgpt-r2",
+            "S08-A-chatgpt-r2",
+            "S08-B-chatgpt-r2",
+            "S08-C-chatgpt-r2",
+            "S10-A-chatgpt-r1",
+            "S10-A-chatgpt-r2",
+            "S10-C-chatgpt-r2",
+            "S10-D-chatgpt-r1",
+            "S11-A-chatgpt-r1",
+            "S11-A-chatgpt-r2",
+            "S11-B-chatgpt-r1",
+            "S11-B-chatgpt-r2",
+            "S11-C-chatgpt-r1"
+          ]
+        },
+        "retrieved_result": {
+          "distinctAnswerCount": 11,
+          "eventCount": 11,
+          "answerIds": [
+            "S01-B-perplexity-r1",
+            "S02-D-perplexity-r2",
+            "S04-C-perplexity-r2",
+            "S05-B-perplexity-r2",
+            "S05-D-perplexity-r1",
+            "S07-A-perplexity-r1",
+            "S08-A-perplexity-r1",
+            "S08-C-perplexity-r2",
+            "S09-B-perplexity-r1",
+            "S10-D-perplexity-r1",
+            "S11-A-perplexity-r1"
+          ]
+        },
+        "supporting_citation": {
+          "distinctAnswerCount": 37,
+          "eventCount": 54,
+          "answerIds": [
+            "S01-A-gemini-pilot2",
+            "S01-A-gemini-r2",
+            "S01-B-perplexity-r1",
+            "S01-C-gemini-r2",
+            "S01-D-gemini-r1",
+            "S02-B-gemini-r2",
+            "S02-D-perplexity-r2",
+            "S04-C-gemini-r1",
+            "S04-C-gemini-r2",
+            "S04-C-perplexity-r2",
+            "S05-B-gemini-r1",
+            "S05-B-perplexity-r2",
+            "S05-D-perplexity-r1",
+            "S07-A-gemini-r2",
+            "S07-A-perplexity-r1",
+            "S07-B-gemini-r1",
+            "S07-C-gemini-r1",
+            "S07-D-gemini-r1",
+            "S08-A-gemini-r1",
+            "S08-A-perplexity-r1",
+            "S08-B-gemini-r2",
+            "S08-C-gemini-r2",
+            "S08-D-gemini-r1",
+            "S08-D-gemini-r2",
+            "S09-A-gemini-r2",
+            "S09-B-perplexity-r1",
+            "S09-C-gemini-r1",
+            "S10-B-gemini-r1",
+            "S10-B-gemini-r2",
+            "S10-D-gemini-r2",
+            "S11-A-gemini-r1",
+            "S11-A-perplexity-r1",
+            "S11-B-claude-r1",
+            "S11-B-gemini-r1",
+            "S11-C-gemini-r1",
+            "S11-C-gemini-r2",
+            "S11-D-gemini-r1"
+          ]
+        }
+      }
+    },
+    {
+      "url": "https://jgarecruitment.com/meet-the-team/",
+      "distinct_answer_count": 28,
+      "citation_events": 29,
+      "role_counts": {
+        "provider_link": {
+          "distinctAnswerCount": 5,
+          "eventCount": 5,
+          "answerIds": [
+            "S01-A-chatgpt-r2",
+            "S01-B-chatgpt-r1",
+            "S01-C-chatgpt-r2",
+            "S06-B-chatgpt-r1",
+            "S08-B-chatgpt-r1"
+          ]
+        },
+        "retrieved_result": {
+          "distinctAnswerCount": 5,
+          "eventCount": 5,
+          "answerIds": [
+            "S01-B-perplexity-r1",
+            "S01-D-perplexity-r1",
+            "S04-C-perplexity-r2",
+            "S06-C-perplexity-r2",
+            "S09-A-perplexity-r1"
+          ]
+        },
+        "supporting_citation": {
+          "distinctAnswerCount": 28,
+          "eventCount": 29,
+          "answerIds": [
+            "S01-A-chatgpt-r2",
+            "S01-B-chatgpt-r1",
+            "S01-B-perplexity-r1",
+            "S01-C-chatgpt-r2",
+            "S01-D-perplexity-r1",
+            "S02-A-chatgpt-r2",
+            "S02-C-chatgpt-r1",
+            "S02-C-chatgpt-r2",
+            "S02-D-chatgpt-r1",
+            "S04-A-chatgpt-r1",
+            "S04-A-chatgpt-r2",
+            "S04-B-claude-r1",
+            "S04-B-claude-r2",
+            "S04-C-chatgpt-r1",
+            "S04-C-claude-r2",
+            "S04-C-perplexity-r2",
+            "S04-D-chatgpt-r1",
+            "S05-C-chatgpt-r2",
+            "S06-B-chatgpt-r1",
+            "S06-B-chatgpt-r2",
+            "S06-C-chatgpt-r1",
+            "S06-C-chatgpt-r2",
+            "S06-C-perplexity-r2",
+            "S06-D-chatgpt-r2",
+            "S08-B-chatgpt-r1",
+            "S08-B-chatgpt-r2",
+            "S08-D-chatgpt-r2",
+            "S09-A-perplexity-r1"
+          ]
+        }
+      }
+    },
+    {
+      "url": "https://jgarecruitment.com/payroll-jobs-london/",
+      "distinct_answer_count": 28,
+      "citation_events": 37,
+      "role_counts": {
+        "provider_link": {
+          "distinctAnswerCount": 16,
+          "eventCount": 16,
+          "answerIds": [
+            "S05-C-chatgpt-r2",
+            "S05-D-chatgpt-r1",
+            "S05-D-chatgpt-r2",
+            "S07-A-chatgpt-r1",
+            "S07-A-chatgpt-r2",
+            "S07-B-chatgpt-r1",
+            "S07-B-chatgpt-r2",
+            "S07-C-chatgpt-r1",
+            "S07-C-chatgpt-r2",
+            "S07-D-chatgpt-r1",
+            "S07-D-chatgpt-r2",
+            "S08-C-chatgpt-r1",
+            "S08-D-chatgpt-r1",
+            "S11-C-chatgpt-r2",
+            "S11-D-chatgpt-r1",
+            "S11-D-chatgpt-r2"
+          ]
+        },
+        "supporting_citation": {
+          "distinctAnswerCount": 28,
+          "eventCount": 37,
+          "answerIds": [
+            "S04-A-chatgpt-r1",
+            "S04-A-chatgpt-r2",
+            "S04-B-gemini-r2",
+            "S04-D-chatgpt-r1",
+            "S05-C-chatgpt-r2",
+            "S05-D-chatgpt-r1",
+            "S05-D-chatgpt-r2",
+            "S07-A-chatgpt-r1",
+            "S07-A-chatgpt-r2",
+            "S07-B-chatgpt-r1",
+            "S07-B-chatgpt-r2",
+            "S07-C-chatgpt-r1",
+            "S07-C-chatgpt-r2",
+            "S07-C-gemini-r1",
+            "S07-D-chatgpt-r1",
+            "S07-D-chatgpt-r2",
+            "S08-B-gemini-r1",
+            "S08-C-chatgpt-r1",
+            "S08-C-chatgpt-r2",
+            "S08-C-gemini-r1",
+            "S08-C-gemini-r2",
+            "S08-D-chatgpt-r1",
+            "S08-D-chatgpt-r2",
+            "S10-A-gemini-r2",
+            "S11-B-chatgpt-r2",
+            "S11-C-chatgpt-r1",
+            "S11-C-chatgpt-r2",
+            "S11-D-chatgpt-r1"
+          ]
+        }
+      }
+    },
+    {
+      "url": "https://jgarecruitment.com/recruitment-test/",
+      "distinct_answer_count": 22,
+      "citation_events": 40,
+      "role_counts": {
+        "provider_link": {
+          "distinctAnswerCount": 1,
+          "eventCount": 1,
+          "answerIds": [
+            "S01-C-chatgpt-r1"
+          ]
+        },
+        "retrieved_result": {
+          "distinctAnswerCount": 11,
+          "eventCount": 11,
+          "answerIds": [
+            "S04-C-perplexity-r2",
+            "S05-D-perplexity-r1",
+            "S06-A-perplexity-r1",
+            "S07-A-perplexity-r1",
+            "S08-A-perplexity-r1",
+            "S08-B-perplexity-r2",
+            "S08-C-perplexity-r1",
+            "S08-C-perplexity-r2",
+            "S09-A-perplexity-r1",
+            "S09-A-perplexity-r2",
+            "S09-B-perplexity-r1"
+          ]
+        },
+        "supporting_citation": {
+          "distinctAnswerCount": 22,
+          "eventCount": 40,
+          "answerIds": [
+            "S01-A-chatgpt-pilot2",
+            "S01-C-chatgpt-r1",
+            "S01-C-chatgpt-r2",
+            "S02-A-chatgpt-r2",
+            "S04-C-perplexity-r2",
+            "S05-D-perplexity-r1",
+            "S06-A-perplexity-r1",
+            "S06-B-chatgpt-r1",
+            "S06-B-chatgpt-r2",
+            "S06-C-chatgpt-r1",
+            "S06-D-chatgpt-r2",
+            "S07-A-perplexity-r1",
+            "S08-A-chatgpt-r2",
+            "S08-A-perplexity-r1",
+            "S08-B-perplexity-r2",
+            "S08-C-perplexity-r1",
+            "S09-A-perplexity-r1",
+            "S09-A-perplexity-r2",
+            "S09-B-chatgpt-r2",
+            "S09-B-perplexity-r1",
+            "S09-C-chatgpt-r2",
+            "S10-A-chatgpt-r1"
+          ]
+        }
+      }
+    },
+    {
+      "url": "https://jgarecruitment.com/payroll-recruitment/",
+      "distinct_answer_count": 16,
+      "citation_events": 24,
+      "role_counts": {
+        "retrieved_result": {
+          "distinctAnswerCount": 8,
+          "eventCount": 8,
+          "answerIds": [
+            "S02-D-perplexity-r2",
+            "S04-C-perplexity-r2",
+            "S06-A-perplexity-r2",
+            "S07-A-perplexity-r1",
+            "S08-A-perplexity-r1",
+            "S10-D-perplexity-r1",
+            "S11-A-perplexity-r1",
+            "S11-B-perplexity-r1"
+          ]
+        },
+        "supporting_citation": {
+          "distinctAnswerCount": 16,
+          "eventCount": 24,
+          "answerIds": [
+            "S01-C-claude-r2",
+            "S02-D-perplexity-r2",
+            "S04-D-gemini-r2",
+            "S05-C-gemini-r2",
+            "S06-A-perplexity-r2",
+            "S07-A-gemini-r1",
+            "S07-B-gemini-r2",
+            "S10-A-gemini-r1",
+            "S10-D-perplexity-r1",
+            "S11-A-gemini-r2",
+            "S11-A-perplexity-r1",
+            "S11-B-gemini-r2",
+            "S11-B-perplexity-r1",
+            "S11-C-claude-r2",
+            "S11-C-gemini-r1",
+            "S11-D-gemini-r1"
+          ]
+        }
+      }
+    }
+  ],
+  "raw_example": {
+    "answer_id": "S10-A-claude-r1",
+    "use": "Shows an interim-plus-permanent request and suggested mandate distinctions. Generated recruiter affiliations, capability, availability, fee and conflict claims are not adopted as facts."
+  },
+  "can_transfer": [
+    "The selected question wording can suggest case contrasts: replacement/growth; continuity cover/permanent succession; leadership/change implementation; UK remit/multicountry complexity.",
+    "Named firms and source routes can be leads for current primary verification.",
+    "The prior source register can reveal employer/candidate route ambiguity to investigate, without claiming why a model selected a source."
+  ],
+  "cannot_transfer": [
+    "Recommendation counts or ranks as market share, demand, shortage, supplier quality, talent availability or employer priorities.",
+    "Observed wording as proof of hidden model reasoning or evidence of real buyer behaviour.",
+    "Mixed UK/US results or tool/repeat responses as independent employer observations.",
+    "Old generated capability/affiliation/fee claims as verified external facts.",
+    "Previously cited page frequency as proof of page quality, of research causal effect or of the most important operating gap.",
+    "Prior partial source captures as complete citation inventories; missing source records remain missing."
+  ],
+  "existing_limitations_preserved": 7,
+  "files_changed": []
+}

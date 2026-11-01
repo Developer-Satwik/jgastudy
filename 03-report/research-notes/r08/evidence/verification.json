@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_targeted_linkage_and_scope_checks",
+  "check_count": 26,
+  "checks": [
+    {
+      "check": "SYN8-L01 findings resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L01 claims resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L01 no held claim promoted",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L01 optional nonordinal proposal",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L02 findings resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L02 claims resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L02 no held claim promoted",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L02 optional nonordinal proposal",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L03 findings resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L03 claims resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L03 no held claim promoted",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L03 optional nonordinal proposal",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L04 findings resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L04 claims resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L04 no held claim promoted",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L04 optional nonordinal proposal",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L05 findings resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L05 claims resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L05 no held claim promoted",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L05 optional nonordinal proposal",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L06 findings resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L06 claims resolve",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L06 no held claim promoted",
+      "passed": true
+    },
+    {
+      "check": "SYN8-L06 optional nonordinal proposal",
+      "passed": true
+    },
+    {
+      "check": "No source count, canonical claim, market estimate or instrument change",
+      "passed": true
+    },
+    {
+      "check": "No invented fieldwork or framework validation",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "audit_date": "2026-10-28",
+  "sources": [
+    {
+      "source_id": "SRC-0060",
+      "title": "How HR Software Buying Logic Is Changing in 2026",
+      "publisher": "G2 Research / Paycom",
+      "url": "https://research-hub.g2.com/the-new-buying-logic-for-hr-and-payroll",
+      "source_type": "published_interview_study",
+      "sample_size": 211,
+      "population": "Mixed HR, IT, Finance and executive software-experienced respondents; geography not established",
+      "published_date": "2026-06 original; 2026-08-13 page label",
+      "fieldwork_period": null,
+      "locator": "Study methodology and chapters 1\u20135; role mix and sponsorship disclosure",
+      "summary": "Buying logic, switching burden, total ownership cost and controls are already examined. The study uses AI-conducted voice interviews with real respondents and analyst-reviewed synthesis. Only 8% of the displayed role mix is Finance/Payroll; it is not a senior-payroll-only UK cohort.",
+      "funding_or_commercial_interest": "Commissioned by Paycom; publisher states editorial independence",
+      "limitations": "Relevant direct overlap, not proof of UK payroll prevalence or JGA buyer demand.",
+      "capture_filename": "SRC-0060-g2-paycom-buyer-logic.html",
+      "accessed_on": "2026-10-28",
+      "geography": null,
+      "review_status": "original_relevant_sections_reviewed",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0061",
+      "title": "G2 Research methodology",
+      "publisher": "G2 Research",
+      "url": "https://research-hub.g2.com/methodology",
+      "source_type": "method_guidance",
+      "sample_size": null,
+      "population": "General AICR method, not an additional respondent sample",
+      "published_date": null,
+      "fieldwork_period": null,
+      "locator": "Research design, recruitment, interview execution and synthesis sections",
+      "summary": "Explains AI-led interviews of real participants, screening and analyst review. This supplies method context for SRC-0060; it is not an independent corroborating dataset.",
+      "funding_or_commercial_interest": "Research provider describing its own method",
+      "limitations": "Do not copy its scale, recruitment claims or blinding into JGA's method.",
+      "capture_filename": "SRC-0061-g2-methodology.html",
+      "accessed_on": "2026-10-28",
+      "geography": null,
+      "review_status": "original_relevant_sections_reviewed",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0062",
+      "title": "The Vistra Payroll Report 2026",
+      "publisher": "Vistra",
+      "url": "https://www.vistra.com/sites/default/files/2026-01/The-Vistra-Payroll-Report-2026.pdf",
+      "source_type": "published_survey_report",
+      "sample_size": 251,
+      "population": "Payroll leaders at UK and US corporates",
+      "published_date": "2025-12 printed; press announcement 2026-01-27",
+      "fieldwork_period": "2025-09-25 to 2025-10-10",
+      "locator": "Printed pages 3, 5 and 10; pages 5 and 10 visually verified",
+      "summary": "The report already covers regulatory project delays, compliance-related technology barriers and provider-selection confidence. It reports both friction and confidence in providers. Sampling/recruitment details and question-level bases are not fully disclosed.",
+      "funding_or_commercial_interest": "Payroll-service provider publishing its own research",
+      "limitations": "A reported combined delay-or-change measure is not outright abandonment or a causal estimate of approval failure.",
+      "capture_filename": "SRC-0062-vistra-payroll-report-2026.pdf",
+      "accessed_on": "2026-10-28",
+      "geography": "UK and US",
+      "review_status": "original_relevant_sections_reviewed",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0064",
+      "title": "The potential of payroll in 2026 Global payroll survey",
+      "publisher": "ADP",
+      "url": "https://www.adp.com/-/media/adp/resourcehub/pdf/guidebooks/adp_potential_of_payroll_2026_us_optimized1.pdf",
+      "source_type": "published_survey_report",
+      "sample_size": 1816,
+      "population": "Senior payroll stakeholders at organisations with over 1000 employees across 20 countries",
+      "published_date": "2026 edition; exact publication date not established",
+      "fieldwork_period": null,
+      "locator": "Printed pages 8 and 21; relevant sections inspected through web PDF reader",
+      "summary": "The report examines workforce capability, compliance, AI, integration and reporting. Its large-employer and multinational context matters. A stated integration barrier overlaps JGA's topic; it does not reconstruct individual approval cases.",
+      "funding_or_commercial_interest": "Payroll technology and service provider",
+      "limitations": "Country-specific bases and collection dates not located. Some integration-strategy wording needs clarification before numerical reuse. Local download returned HTTP 403; no local PDF capture is claimed.",
+      "capture_filename": null,
+      "accessed_on": "2026-10-28",
+      "geography": "20 countries; Europe includes UK",
+      "review_status": "original_relevant_sections_reviewed",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0065",
+      "title": "HR.com Future of Payroll 2025",
+      "publisher": "HR Research Institute / HR.com; hosted by IRIS",
+      "url": "https://www.irisglobal.com/wp-content/uploads/2025/05/2-26-25-HRdotcom-Future-of-Payroll-2025-Research-Report-IRIS_V3.pdf",
+      "source_type": "published_survey_report",
+      "sample_size": 206,
+      "population": "HR professionals across industries and sizes, mostly North America",
+      "published_date": "2025-02",
+      "fieldwork_period": "2024-11 to 2025-01",
+      "locator": "Printed pages 3 and 40 visually verified; relevant technology sections inspected",
+      "summary": "Desired missing features and payroll maturity are already surveyed. On page 40, customisability is 41% in prose but 37% in the chart, so that figure is held rather than resolved by preference.",
+      "funding_or_commercial_interest": "Sponsored report, IRIS-hosted version",
+      "limitations": "Mixed HR population is not UK senior payroll. Associations between maturity and outcomes are not causal effects.",
+      "capture_filename": "SRC-0065-hrcom-future-payroll-2025.pdf",
+      "accessed_on": "2026-10-28",
+      "geography": "Global, predominantly North America",
+      "review_status": "original_relevant_sections_reviewed",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0066",
+      "title": "Payroll at the tipping point The case for C-suite elevation",
+      "publisher": "KPMG / UKG",
+      "url": "https://kpmg.com/us/en/articles/2026/global-payroll-survey-report.html",
+      "source_type": "study_landing_page",
+      "sample_size": 319,
+      "population": "Senior leaders, according to the publisher landing page; full eligibility not inspected",
+      "published_date": "2026 page route",
+      "fieldwork_period": null,
+      "locator": "Public report description and download/consent section",
+      "summary": "Executive ownership, governance, controls and fragmented payroll are already part of a current published research proposition. The public page reports a 319-leader survey; full method and report content were not inspected.",
+      "funding_or_commercial_interest": "Joint adviser/vendor research",
+      "limitations": "Landing-page coverage only. Do not claim the full report was reviewed or use its unseen numbers. No download form submitted.",
+      "capture_filename": "SRC-0066-kpmg-ukg-landing.html",
+      "accessed_on": "2026-10-28",
+      "geography": null,
+      "review_status": "discovery_page_inspected",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0067",
+      "title": "The 2024/25 audit of the Scottish Government Consolidated Accounts",
+      "publisher": "Auditor General for Scotland / Audit Scotland",
+      "url": "https://audit.scot/uploads/2025-10/s22_251030_scottish_consolidated.pdf",
+      "source_type": "public_audit_case",
+      "sample_size": null,
+      "population": "Scottish Government public-sector Oracle shared HR/Finance implementation case",
+      "published_date": "2025-10",
+      "fieldwork_period": null,
+      "locator": "Oracle implementation chapter, printed pages 10\u201314",
+      "summary": "Provides an actual business-case and implementation history, a useful counterexample to claiming decision journeys have never been documented. Treat as one institutional case and distinguish combined programme scope from payroll alone.",
+      "funding_or_commercial_interest": "Public audit",
+      "limitations": "One public-sector shared HR/Finance implementation case; not payroll-only costs or employer prevalence.",
+      "capture_filename": "SRC-0067-audit-scotland-consolidated-2025.pdf",
+      "accessed_on": "2026-10-28",
+      "geography": null,
+      "review_status": "original_relevant_sections_reviewed",
+      "reuse_status": "No commercial reproduction permission established",
+      "publication_eligibility": "Working context or source-attributed finding; final wording and rights checks pending",
+      "related_topic_ids": [
+        "R01"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-0120",
+      "source_ids": [
+        "SRC-0060"
+      ],
+      "locator": "Chapters 4\u20135 and methodology",
+      "claim_text": "Existing mixed-role HR/payroll buying research examines ownership cost and switching burden.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Not a senior payroll-only or confirmed UK sample.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0121",
+      "source_ids": [
+        "SRC-0060",
+        "SRC-0061"
+      ],
+      "locator": "Study methodology; general interview execution method",
+      "claim_text": "The publisher describes AI-led interviews with real participants and analyst-reviewed analysis.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Provider method claim; not an independently audited validation and not JGA's method.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0122",
+      "source_ids": [
+        "SRC-0062"
+      ],
+      "locator": "Printed p5 narrative",
+      "claim_text": "Source reports 61% delaying or changing projects due to regulatory uncertainty.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": 61,
+      "unit": "percent",
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Combined delay-or-change measure; overall study n251 but question-specific base and questionnaire not provided.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0123",
+      "source_ids": [
+        "SRC-0062"
+      ],
+      "locator": "Printed p5 narrative",
+      "claim_text": "Source reports 71% expressing high confidence in provider compliance.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": 71,
+      "unit": "percent",
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Context and source wording required; question-specific provider-response base not given. Counterevidence to universal provider failure.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0124",
+      "source_ids": [
+        "SRC-0064"
+      ],
+      "locator": "Printed p21 Key statistics",
+      "claim_text": "Source reports integration complexity among the top-three barriers for 43%.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": 43,
+      "unit": "percent",
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Overall study n1816; precise question and item-specific base not reproduced. Web-original text inspected; local capture unavailable.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0125",
+      "source_ids": [
+        "SRC-0065"
+      ],
+      "locator": "Printed p40 question and chart",
+      "claim_text": "Existing research asks which features the current payroll system lacks.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Mixed mostly North American HR respondents; no inference of JGA market prevalence.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0126",
+      "source_ids": [
+        "SRC-0065"
+      ],
+      "locator": "Printed p40 prose versus chart",
+      "claim_text": "Customisability is 41% in prose and 37% in the chart.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Quarantined figure; do not choose one without clarification.",
+      "status": "held_conflict",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0127",
+      "source_ids": [
+        "SRC-0066"
+      ],
+      "locator": "Public report description",
+      "claim_text": "Current KPMG/UKG research proposition covers payroll executive ownership and governance.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "question_wording": null,
+      "support_checked": true,
+      "interpretation_limits": "Coverage claim from public landing page, not full report review.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0128",
+      "source_ids": [
+        "SRC-0067"
+      ],
+      "locator": "Printed pp10\u201311 Exhibit 2",
+      "claim_text": "The audit records successive business-case approvals and revised implementation decisions.",
+      "evidence_class": "published_finding",
+      "support_checked": true,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "interpretation_limits": "Single combined HR/Finance programme, not proof of typical payroll purchasing.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0129",
+      "source_ids": [
+        "SRC-0067"
+      ],
+      "locator": "Printed p12 paragraphs32\u201338",
+      "claim_text": "The audit judged governance appropriate and the October2024 go-live decision reasonable, alongside noted improvements.",
+      "evidence_class": "published_finding",
+      "support_checked": true,
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "interpretation_limits": "Positive and adverse findings coexist; avoid recasting all transformation as failure.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-10-28",
+      "purpose": "Challenge claimed novelty of payroll approval/delay research",
+      "queries": [
+        "payroll investment approval business case delayed abandoned survey 2025 2026 payroll transformation barriers",
+        "payroll research why companies switch provider 2026 business case approval budget survey",
+        "payroll investment approval decision business case research \"budget\" \"rejected\"",
+        "payroll transformation research \"abandoned\" investment",
+        "site.nao.org.uk payroll system implementation business case lessons",
+        "site.audit-scotland.gov.uk payroll oracle implementation lessons business case"
+      ],
+      "result": "Located overlapping buyer research, a delay study and public audit case histories; no market-wide absence claim justified."
+    }
+  ]
+}

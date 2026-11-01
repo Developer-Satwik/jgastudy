@@ -1,0 +1,1208 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_read_only_constructed_review",
+  "method": "Independent Decimal/date arithmetic illustrations and inspection of preserved exported formula text/cached defaults. New example inputs were not run inside the workbook engine. Original 65 artifact-engine tests remain preserved.",
+  "source_workbook": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/Cash timing and obligations.xlsx",
+  "source_workbook_sha256": "3b146e997e1d7327fedf0915ff7e8e52216a29071eda8f6d10c1b862c36b52c1",
+  "source_component_sha256": "ccd97011f42a3aeeaba5baa858bd97adc580aa552f9accedb3edb2c80b4feea4",
+  "case_count": 18,
+  "cases": [
+    {
+      "case_id": "CA01",
+      "title": "Late customer cash crosses the horizon",
+      "constructed_inputs": {
+        "opening": 0,
+        "legs": [
+          {
+            "date": "2026-11-20",
+            "direction": "Payment",
+            "amount": 800,
+            "scope": "Common"
+          },
+          {
+            "date": "2026-12-10",
+            "direction": "Receipt",
+            "amount": 1000,
+            "scope": "Common"
+          }
+        ]
+      },
+      "result": {
+        "closing": -800.0,
+        "daily_end_funding": 800.0,
+        "payments_first_stress": 800.0
+      },
+      "expected": {
+        "closing": -800.0,
+        "daily_end_funding": 800.0,
+        "payments_first_stress": 800.0
+      },
+      "required_treatment": "Show the supplier requirement now and the later receipt in its actual/scenario period. Do not count an invoice as received.",
+      "current_component_coverage": "Date arithmetic supported; invoice/settlement stages require the integrated object record.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA02",
+      "title": "Same-day positive end balance still has sequencing exposure",
+      "constructed_inputs": {
+        "opening": 0,
+        "legs": [
+          {
+            "date": "2026-11-20",
+            "direction": "Receipt",
+            "amount": 1000,
+            "scope": "Common"
+          },
+          {
+            "date": "2026-11-20",
+            "direction": "Payment",
+            "amount": 800,
+            "scope": "Common"
+          }
+        ]
+      },
+      "result": {
+        "closing": 200.0,
+        "daily_end_funding": 0.0,
+        "payments_first_stress": 800.0
+      },
+      "expected": {
+        "closing": 200.0,
+        "daily_end_funding": 0.0,
+        "payments_first_stress": 800.0
+      },
+      "required_treatment": "Retain the separate adverse sequencing stress; actual settlement order is unknown.",
+      "current_component_coverage": "Supported dated-leg calculation.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA03",
+      "title": "Deposit plus remaining balance",
+      "constructed_inputs": {
+        "gross_bill": 1900,
+        "legs": [
+          {
+            "date": "2026-11-05",
+            "direction": "Payment",
+            "amount": 500,
+            "scope": "Common"
+          },
+          {
+            "date": "2026-11-25",
+            "direction": "Payment",
+            "amount": 1400,
+            "scope": "Common"
+          }
+        ]
+      },
+      "result": {
+        "payments": 1900.0,
+        "residual_bill": 0
+      },
+      "expected": {
+        "payments": 1900.0,
+        "residual_bill": 0
+      },
+      "required_treatment": "Reconcile the economic bill to credited deposit and unpaid balance; do not add the full bill as a third payment.",
+      "current_component_coverage": "Cash arithmetic supported; object-level bill reconciliation remains manual.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA04",
+      "title": "Different row IDs can duplicate the same deposit",
+      "constructed_inputs": {
+        "gross_bill": 1900,
+        "same_deposit_in_two_distinct_rows": true,
+        "legs": [
+          {
+            "date": "2026-11-05",
+            "direction": "Payment",
+            "amount": 500,
+            "scope": "Common"
+          },
+          {
+            "date": "2026-11-05",
+            "direction": "Payment",
+            "amount": 500,
+            "scope": "Common"
+          },
+          {
+            "date": "2026-11-25",
+            "direction": "Payment",
+            "amount": 1400,
+            "scope": "Common"
+          }
+        ]
+      },
+      "result": {
+        "ledger_payment": 2400.0,
+        "excess_vs_bill": 500.0
+      },
+      "expected": {
+        "ledger_payment": 2400.0,
+        "excess_vs_bill": 500.0
+      },
+      "required_treatment": "Reconcile object and settlement identity, not only unique ledger-row IDs.",
+      "current_component_coverage": "Unique IDs are checked; duplicate real-world transaction identity is not automatically checked.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA05",
+      "title": "Route switching must not erase an already incurred deposit",
+      "constructed_inputs": {
+        "legs": [
+          {
+            "date": "2026-11-04",
+            "direction": "Payment",
+            "amount": 500,
+            "scope": "Event"
+          }
+        ]
+      },
+      "result": {
+        "raw_A_closing": 0.0,
+        "raw_B_closing": -500.0
+      },
+      "expected": {
+        "raw_A_closing": 0.0,
+        "raw_B_closing": -500.0
+      },
+      "required_treatment": "For a decision after commitment, retain unavoidable paid/nonrefundable amounts in the common historical/investment basis. Distinguish that from choosing an event-free route before commitment.",
+      "current_component_coverage": "Route filter is correct; counterfactual scope/state must be assigned correctly.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA06",
+      "title": "Opening balance already includes the earlier deposit",
+      "constructed_inputs": {
+        "opening": 1500,
+        "legs": [
+          {
+            "date": "2026-10-28",
+            "direction": "Payment",
+            "amount": 500,
+            "scope": "Common"
+          },
+          {
+            "date": "2026-11-20",
+            "direction": "Payment",
+            "amount": 1400,
+            "scope": "Common"
+          }
+        ]
+      },
+      "result": {
+        "closing": 100.0,
+        "daily_end_funding": 0.0,
+        "payments_first_stress": 0.0
+      },
+      "expected": {
+        "closing": 100.0,
+        "daily_end_funding": 0.0,
+        "payments_first_stress": 0.0
+      },
+      "required_treatment": "Do not replay prior-period payments. Carry any unpaid balance and delivery obligation separately.",
+      "current_component_coverage": "Supported horizon arithmetic; actual opening balance/source still required.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA07",
+      "title": "Annual receipt leaves future benefits",
+      "constructed_inputs": {
+        "legs": [
+          {
+            "date": "2026-11-02",
+            "direction": "Receipt",
+            "amount": 1200,
+            "scope": "Common"
+          }
+        ],
+        "agreed_months": 12,
+        "satisfied_months": 1
+      },
+      "result": {
+        "cash": 1200.0,
+        "remaining_service_months": 11
+      },
+      "expected": {
+        "cash": 1200.0,
+        "remaining_service_months": 11
+      },
+      "required_treatment": "Keep 11 service months and their cost/capacity after receipt, including periods outside the cash display. Do not call gross receipt profit.",
+      "current_component_coverage": "Cash and typed remaining units supported; work/calendar valuation pending.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA08",
+      "title": "Noncash support is not spending money",
+      "constructed_inputs": {
+        "meeting_room_support_face_value": 500,
+        "cash_received": 0,
+        "sponsor_briefings_owed": 1
+      },
+      "result": {
+        "cash_receipt": 0,
+        "briefings_still_owed": 1
+      },
+      "expected": {
+        "cash_receipt": 0,
+        "briefings_still_owed": 1
+      },
+      "required_treatment": "Record the actual in-kind service and sponsor obligation. Reduce only cash/resource work genuinely displaced; determine applicable tax separately.",
+      "current_component_coverage": "No dedicated in-kind linkage or avoided-cost check in cash component.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA09",
+      "title": "Net payment settlement and fees",
+      "constructed_inputs": {
+        "customer_gross": 1000,
+        "processor_fee": 30
+      },
+      "result": {
+        "net_bank": 970,
+        "gross_less_fee": 970
+      },
+      "expected": {
+        "net_bank": 970,
+        "gross_less_fee": 970
+      },
+      "required_treatment": "Either reconcile gross receipt plus fee to net settlement, or use a documented net-cash basis. Do not combine a net970 receipt with the same30 fee again.",
+      "current_component_coverage": "Separate legs possible; settlement reconciliation remains manual.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA10",
+      "title": "Foreign currency amount is not GBP amount",
+      "constructed_inputs": {
+        "usd_amount": 750,
+        "assumed_gbp_per_usd": 0.8,
+        "separate_assumed_fee_gbp": 10
+      },
+      "result": {
+        "gross_gbp": 600.0,
+        "net_gbp": 590.0
+      },
+      "expected": {
+        "gross_gbp": 600.0,
+        "net_gbp": 590.0
+      },
+      "required_treatment": "Illustrative factor only. Actual paid currency/rate/date and fee basis must be sourced; no change to the USD commission record.",
+      "current_component_coverage": "Explicit factor supported; actual conversion/fee unknown.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA11",
+      "title": "Credit expires inside the displayed year",
+      "constructed_inputs": {
+        "start": "2026-11-01",
+        "expiry": "2027-02-01",
+        "horizon_end": "2027-11-01",
+        "remaining_credit_units": 500
+      },
+      "result": {
+        "opening_date_review_flag": false,
+        "expiry_within_horizon": true
+      },
+      "expected": {
+        "opening_date_review_flag": false,
+        "expiry_within_horizon": true
+      },
+      "required_treatment": "The original status compares expiry with start month. Add a dated expiry/use reminder in the integrated schedule; Open is not a guarantee it remains usable throughout the year.",
+      "current_component_coverage": "Opening-date status only; upcoming expiry inside horizon is not separately flagged.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA12",
+      "title": "Expired credit is not a refund",
+      "constructed_inputs": {
+        "credit_units": 500,
+        "cash_refund_received": 0
+      },
+      "result": {
+        "cash_refund": 0,
+        "unapplied_credit_units_pending_term_review": 500
+      },
+      "expected": {
+        "cash_refund": 0,
+        "unapplied_credit_units_pending_term_review": 500
+      },
+      "required_treatment": "Retain the record and review actual terms; no automatic cash receipt, legal discharge or write-off.",
+      "current_component_coverage": "Original units/status separation supported.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA13",
+      "title": "Cash settlement does not complete the promised output",
+      "constructed_inputs": {
+        "supplier_bill_paid": 500,
+        "promised_sessions": 2,
+        "delivered_sessions": 1
+      },
+      "result": {
+        "remaining_sessions": 1,
+        "cash_payment": 500
+      },
+      "expected": {
+        "remaining_sessions": 1,
+        "cash_payment": 500
+      },
+      "required_treatment": "Join settlement and fulfilment through the same object while keeping their states distinct.",
+      "current_component_coverage": "Typed remaining units supported; owner/capacity scheduling pending.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA14",
+      "title": "Several rights in a single paid bundle",
+      "constructed_inputs": {
+        "bundle_cash": 1200,
+        "licence_benefit": 1,
+        "briefing_benefit": 1
+      },
+      "result": {
+        "cash_counted_once": 1200,
+        "benefit_records": 2
+      },
+      "expected": {
+        "cash_counted_once": 1200,
+        "benefit_records": 2
+      },
+      "required_treatment": "Allocate rights/work under one order if appropriate. A licence included in sponsorship is not a second sale.",
+      "current_component_coverage": "Separate objects can be recorded; integrated bundle conservation needed.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA15",
+      "title": "Illustrative correlated sponsor delay",
+      "constructed_inputs": {
+        "two_assumed_receipts_same_payer": [
+          600,
+          400
+        ],
+        "cash_delay_of_both": true
+      },
+      "result": {
+        "receipts_in_delayed_period": 0,
+        "total_shifted_to_later_period": 1000
+      },
+      "expected": {
+        "receipts_in_delayed_period": 0,
+        "total_shifted_to_later_period": 1000
+      },
+      "required_treatment": "Test payment timing together when the same buyer/approval dependency controls both. No inferred probability or expected-conversion weighting.",
+      "current_component_coverage": "Dated changes representable; scenario linkage is full-model work.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA16",
+      "title": "Nonrenewal preserves only existing promises",
+      "constructed_inputs": {
+        "current_paid_term_months_remaining": 2,
+        "uncontracted_future_annual_price": 1200
+      },
+      "result": {
+        "remaining_current_service_months": 2,
+        "renewal_receipt": 0
+      },
+      "expected": {
+        "remaining_current_service_months": 2,
+        "renewal_receipt": 0
+      },
+      "required_treatment": "Serve the existing term without automatically creating another receipt; comparator renewal clauses are not JGA terms.",
+      "current_component_coverage": "Existing obligations representable; contract-term and renewal controls pending.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA17",
+      "title": "Retain opening cash shortfall",
+      "constructed_inputs": {
+        "opening": -250,
+        "legs": []
+      },
+      "result": {
+        "closing": -250.0,
+        "daily_end_funding": 250.0,
+        "payments_first_stress": 250.0
+      },
+      "expected": {
+        "closing": -250.0,
+        "daily_end_funding": 250.0,
+        "payments_first_stress": 250.0
+      },
+      "required_treatment": "A negative supported opening balance remains a funding gap, not an invented zero or financing plug.",
+      "current_component_coverage": "Arithmetic supports negative opening cash.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    },
+    {
+      "case_id": "CA18",
+      "title": "Leap-day month boundary",
+      "constructed_inputs": {
+        "legs": [
+          {
+            "date": "2028-02-29",
+            "direction": "Payment",
+            "amount": 100,
+            "scope": "Common"
+          },
+          {
+            "date": "2028-03-01",
+            "direction": "Receipt",
+            "amount": 100,
+            "scope": "Common"
+          }
+        ],
+        "start": "2028-02-01",
+        "end": "2028-03-01"
+      },
+      "result": {
+        "closing": -100.0,
+        "daily_end_funding": 100.0,
+        "payments_first_stress": 100.0
+      },
+      "expected": {
+        "closing": -100.0,
+        "daily_end_funding": 100.0,
+        "payments_first_stress": 100.0
+      },
+      "required_treatment": "Include the final day once and exclude the next month from this displayed period.",
+      "current_component_coverage": "Supported inclusive-start/exclusive-end date basis.",
+      "actual_observation": false,
+      "new_financial_input": false,
+      "workbook_recalculated_for_this_case": false
+    }
+  ],
+  "formula_caches_reconciled": 150,
+  "check_count": 173,
+  "checks": [
+    {
+      "check": "Constructed application reconciles: CA01",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA02",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA03",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA04",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA05",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA06",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA07",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA08",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA09",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA10",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA11",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA12",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA13",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA14",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA15",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA16",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA17",
+      "passed": true
+    },
+    {
+      "check": "Constructed application reconciles: CA18",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K11",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N11",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O11",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K12",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N12",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O12",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K13",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N13",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O13",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K14",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N14",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O14",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K15",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N15",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O15",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K16",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N16",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O16",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K17",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N17",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O17",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K18",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N18",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O18",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K19",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N19",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O19",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K20",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N20",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O20",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K21",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N21",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O21",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K22",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N22",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O22",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K23",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N23",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O23",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K24",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N24",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O24",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K25",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N25",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O25",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K26",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N26",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O26",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K27",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N27",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O27",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K28",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N28",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O28",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K29",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N29",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O29",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K30",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N30",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O30",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K31",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N31",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O31",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K32",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N32",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O32",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K33",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N33",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O33",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K34",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N34",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O34",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K35",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N35",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O35",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K36",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N36",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O36",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K37",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N37",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O37",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K38",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N38",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O38",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K39",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N39",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O39",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K40",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N40",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O40",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K41",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N41",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O41",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K42",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N42",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O42",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K43",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N43",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O43",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K44",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N44",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O44",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K45",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N45",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O45",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K46",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N46",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O46",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K47",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N47",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O47",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K48",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N48",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O48",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K49",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N49",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O49",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache K50",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache N50",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured cash cache O50",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M11",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M12",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M13",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M14",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M15",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M16",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M17",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M18",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M19",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M20",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M21",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M22",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M23",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M24",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M25",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M26",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M27",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M28",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M29",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M30",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M31",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M32",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M33",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured remaining-unit cache M34",
+      "passed": true
+    },
+    {
+      "check": "Unavailable unconfigured output I5",
+      "passed": true
+    },
+    {
+      "check": "Unavailable unconfigured output I6",
+      "passed": true
+    },
+    {
+      "check": "Unavailable unconfigured output I7",
+      "passed": true
+    },
+    {
+      "check": "Unavailable unconfigured output I9",
+      "passed": true
+    },
+    {
+      "check": "Unavailable unconfigured output I10",
+      "passed": true
+    },
+    {
+      "check": "Unavailable unconfigured output I11",
+      "passed": true
+    },
+    {
+      "check": "Row-ID uniqueness checked, object ID merely required",
+      "passed": true
+    },
+    {
+      "check": "Obligation timing review compares start month, not evidence date",
+      "passed": true
+    },
+    {
+      "check": "Credit review count depends on opening-date statuses",
+      "passed": true
+    },
+    {
+      "check": "Event route exclusion formula retained",
+      "passed": true
+    },
+    {
+      "check": "Payments-first stress excludes same-day receipts",
+      "passed": true
+    }
+  ],
+  "original_workbook_edited": false,
+  "native_Excel_tested": false,
+  "new_workbook_engine_tests": 0,
+  "new_financial_inputs": 0
+}

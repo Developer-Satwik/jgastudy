@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "original_path": "00-control/CURRENT-STATUS.md",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "1a9a85dd3518a9a0d6fbf5921b797396c9365e582c4d768438e3e18907836462"
+    },
+    {
+      "original_path": "README.md",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/README.md.txt",
+      "sha256": "ed08b57020f562a66b061d42e3294719652e4e64d056c7b5d1429afb771e6521"
+    },
+    {
+      "original_path": "00-control/work-packages.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/00-control/work-packages.json",
+      "sha256": "68bbb62cef6963b8b26ac53ab2b0297f2e420b4f400c2156e5df7f8a76925542"
+    },
+    {
+      "original_path": "00-control/changes.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/00-control/changes.json",
+      "sha256": "f93832c3f3342a667fb40bada309903955d7f4a68a5b363dd3c89532b7760d08"
+    },
+    {
+      "original_path": "00-control/decisions.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/00-control/decisions.json",
+      "sha256": "89bbd0cf8139986da30cb27a027e1f056b1e8697c8d77cc93c2945667580b062"
+    },
+    {
+      "original_path": "02-evidence/registers/sources.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/02-evidence/registers/sources.json",
+      "sha256": "cb7ecdf309e6812458ac0648782a54871614a052fc34e4647560641dce03985b"
+    },
+    {
+      "original_path": "02-evidence/registers/claims.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/02-evidence/registers/claims.json",
+      "sha256": "bdce4f2c40bc94a9fab4514253f10daae2b6bb3ff568667baea6d280e3b2229e"
+    },
+    {
+      "original_path": "02-evidence/registers/searches.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/02-evidence/registers/searches.json",
+      "sha256": "226b76a6fffe0829ba62bed327618366111ff6d58acc2dd269871ea42066393c"
+    },
+    {
+      "original_path": "04-table/financial-inputs.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "original_path": "05-analysis/findings.json",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "original_path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "da54862b74f97a0de64e10b667bd1a7527affe600391fbd1151e4bdda7c5497b"
+    },
+    {
+      "original_path": "08-qa/validate_workspace.py",
+      "snapshot_path": "04-table/research-notes/t05c-second-check/before-review/08-qa/validate_workspace.py",
+      "sha256": "813297893e3042c89322deb950bcea4c6a74b82beaed83645f89ba3d2aa3359d"
+    }
+  ]
+}

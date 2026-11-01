@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-01",
+  "source_map": {
+    "C-S01": "SRC-0296",
+    "C-S02": "SRC-0297",
+    "C-S03": "SRC-0298"
+  },
+  "claim_map": {
+    "C-C01": "CLM-0628",
+    "C-C02": "CLM-0629",
+    "C-C03": "CLM-0630",
+    "C-C04": "CLM-0631",
+    "C-C05": "CLM-0632",
+    "C-C06": "CLM-0633",
+    "C-C07": "CLM-0634",
+    "C-C08": "CLM-0635"
+  },
+  "new_source_routes": 3,
+  "new_claim_records": 8,
+  "canonical_sources": 266,
+  "canonical_claims": 545,
+  "new_financial_inputs": 0
+}

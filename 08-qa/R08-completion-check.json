@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R08_preparatory_synthesis_only",
+  "review_basis": "Independent integrated preparatory review and root manual constructed walkthroughs; no original practitioner/usability/predictive validation or final WP15 completion.",
+  "source_records": 191,
+  "claim_records": 338,
+  "internal_findings": 76,
+  "new_source_routes": 0,
+  "new_canonical_claims": 0,
+  "new_internal_findings": 0,
+  "linked_framework_views": 6,
+  "proposed_parts": 2,
+  "proposed_chapters": 8,
+  "constructed_routes": 10,
+  "routing_checks_passed": 133,
+  "independent_integration_checks_passed": 311,
+  "preserved_baseline_records": 76,
+  "reviewed_draft_snapshots": [
+    {
+      "original_path": "03-report/R08-framework-map.json",
+      "snapshot_path": "03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "sha256": "5866a000a16b802609260d1acf2921790d1c0392fff4919d61befcf3d3877b7b"
+    },
+    {
+      "original_path": "03-report/R08-constructed-walkthroughs.json",
+      "snapshot_path": "03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "sha256": "d06ca49611b643c7ecf2eecde27f2249d166531104f328d8bfa5524ec833e911"
+    }
+  ],
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    }
+  ],
+  "core_question_version": "0.2",
+  "core_questions_unchanged": true,
+  "new_mandatory_questions": 0,
+  "original_practitioner_observations": 0,
+  "numerical_estimates": 0,
+  "framework_practitioner_validated": false,
+  "final_WP15_complete": false,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R08-DECISION-FRAMEWORK.md",
+      "sha256": "598bfd02444b05c6314df67289a69a670b91dc0bd52ef473af00b626fdf2b36b"
+    },
+    {
+      "path": "03-report/R08-DESKTOP-SYNTHESIS.md",
+      "sha256": "9f539a9cc505ce1659576c4108dc549b2d741184c375c73c0a559b49f4fb6206"
+    },
+    {
+      "path": "03-report/R08-REPORT-INTEGRATION.md",
+      "sha256": "f292716a759c9d5cc9b9140e09825df9447b7b9a6c1c1b849286bba5e73d75fe"
+    },
+    {
+      "path": "03-report/R08-framework-map.json",
+      "sha256": "e049b5ae0610d24349f2691fd85f0482d1cc107e4821c72b9a2c2050b00ffb3b"
+    },
+    {
+      "path": "03-report/R08-report-integration-map.json",
+      "sha256": "df85967d8ea0ffe67f68d4163ae41f9b28238cde505014919a01f80e2fb926ac"
+    },
+    {
+      "path": "03-report/R08-constructed-walkthroughs.json",
+      "sha256": "828d1f58a8e37b337238776a859eee1009d558c5740006501a9397ef7f8bb97a"
+    },
+    {
+      "path": "03-report/modules/R08-decision-framework-and-synthesis.md",
+      "sha256": "c5916c708822d80afb58a266713db5d257e289f13f5048c2bb0f0fae013063b6"
+    },
+    {
+      "path": "08-qa/R08-routing-walkthrough.json",
+      "sha256": "bad0fc5aac4ef8fedbda4b38718038ec5096b386dab8878a3fec5e08e34e3c30"
+    },
+    {
+      "path": "08-qa/R08-independent-review.md",
+      "sha256": "1acfe01b77b119aaed0ddde2b4e0835097f2b43d10f28b3e58d2a99368d59940"
+    },
+    {
+      "path": "08-qa/r08-review/integration-checks.json",
+      "sha256": "d2648d3895c32f0c6e468e7982c6f6e6c0ecb2a2fe27ec33f55b73ec0a17cc25"
+    },
+    {
+      "path": "03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "sha256": "856ffd178f04d158755d3da145e5290ecb94ba748bdba201724f01ee5fe864c5"
+    },
+    {
+      "path": "03-report/research-notes/r08/evidence/synthesis-links.json",
+      "sha256": "27847786b122924c280f8548d5c56a21a650f4d0aa4df41436c029fc86a534bc"
+    },
+    {
+      "path": "03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "sha256": "002df59ebe8eaa97beab3cb6718c76a9902969ec767ef246d45ba24e7751bb3c"
+    },
+    {
+      "path": "03-report/research-notes/r08/reader-flow/content-map.json",
+      "sha256": "7f847b6775ad60aa6019a240b2d80b98e91a6d064699ff7abc5dc087ae78a881"
+    },
+    {
+      "path": "03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "sha256": "1d4728d9ee4ee33d3890b5c30d675316104118cfd19a452f47a441321a2fa088"
+    },
+    {
+      "path": "03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "sha256": "77880821b088b757aac8fdbbe85a77bfcd27b45a7826b42e554c5b6abdb579ed"
+    },
+    {
+      "path": "03-report/research-notes/r08/before-completion/manifest.json",
+      "sha256": "eb309c772a397ad9c64863ee7373080d14505f5224cea07bb7268ed5488b61df"
+    }
+  ],
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 2362,
+    "json_files": 347,
+    "source_records": 191,
+    "claim_records": 338,
+    "question_records": 14,
+    "internal_design_findings": 76,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 292,
+    "scope": "Current evidence/capture/reference consistency, R08 preparatory framework and report map, ten constructed applications, source/claim/finding/core/client preservation and final original-input dependency. No final publication, practitioner use or human fieldwork assurance."
+  },
+  "completion_artifact_hashes_verified": true
+}

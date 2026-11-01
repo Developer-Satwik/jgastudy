@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-30",
+  "purpose": "T02 edition/evidence/service time and correction-versus-refresh challenge",
+  "method": "Live primary web reopen of the three retained routes and relevant numbered original sections; no search result treated as substantive source.",
+  "reviewed_urls": [
+    "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
+    "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+    "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025"
+  ],
+  "new_substantive_routes": 1,
+  "canonical_reuses": [
+    "SRC-0227",
+    "SRC-0229"
+  ],
+  "excluded_transfers": [
+    "ONS timetable and correction exceptions not applied to JGA",
+    "ISG annual service does not prove JGA update cadence or staffing",
+    "No inferred publisher offer evolution or fresh price history"
+  ],
+  "external_actions": false
+}

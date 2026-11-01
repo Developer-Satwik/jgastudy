@@ -1,0 +1,7 @@
+SELECTED PRIMARY WEB-READER PARAPHRASE, NOT ORIGINAL PDF
+Accessed 1 November 2026
+URL: https://investor.gartner.com/static-files/ce1f14c0-f496-4672-85d0-c663ed815341
+Locator: Annual report FY2024: printed p22 revenue-recognition policy; Note9 contract balances and costs
+Direct original retrieval returned HTTP403. Selected relevant sections inspected through the primary publisher PDF web reader. No original bytes retained for this route.
+
+Gartner describes research-subscription revenue over the service term, conference revenue on completion and consulting according to delivery or satisfied conditions. The report distinguishes fees receivable, contract assets and deferred revenue. Its own accounting explains why billing, collection and performance are different events. Do not use its margins, collections, renewal performance, terms or accounting policies as JGA assumptions.

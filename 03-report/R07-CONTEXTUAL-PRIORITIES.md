@@ -1,0 +1,82 @@
+# R07: priority and context guide
+
+29 October 2026. Internal analytical aid; independent integrated review passed for desktop synthesis. The fields below are selective aids under the existing questionnaire, not extra compulsory questions or a validated scoring system.
+
+## Start with the work and the decision
+
+Keep the contributor's own wording first. Record whose priority is described, the specific improvement, the actual organisational/service unit and the relevant horizon. A public survey theme, a payroll leader's preference and their employer's committed work are different sources of knowledge.
+
+The unchanged Q005 asks which improvements, if any, the organisation expects to prioritise in the next 12–24 months. Its existing probes allow up to two priorities and clarify status/funding separately. Preserve “no material improvement needed,” not known and rational retention; do not force a technology theme. Label examples or themes offered after the unaided answer as prompted. CLM-0393, CLM-0408.
+
+| Selective analytical dimension | Useful record | Do not assume |
+| --- | --- | --- |
+| Whose priority / task | Person, team, employer or programme; specific task, users and intended improvement. | A personal interest is an employer commitment; similar theme labels mean the same work. |
+| Horizon / provenance | As-of date, period, source/direct knowledge and unaided or prompted origin. | A survey access date is new fieldwork; a forecast date is an observed event. |
+| Evaluation / plan / authority | The actual action, scope, known authority and date; preserve concurrent states. | A bundled strategic-status answer establishes an approved proposal. |
+| Funding / resources | Known recurring/new resources, protected time, owner and remaining dependencies. | Every improvement needs a separate budget; amount withheld means unfunded. |
+| Commitment / delivery / result | Each actual event and intended versus assessed result, with its own basis and scope. | Approval guarantees delivery, or operation guarantees the intended benefit. |
+| What could change it | Actual enabling condition, constraint, alternative or next decision. | A suggested response is proven to remove the barrier. |
+
+CLM-0386–0391, CLM-0393, CLM-0403–0405, CLM-0408 support these distinctions. They do not create a linear pipeline: evaluation, approval and delivery may concern different tasks or overlap. Existing R04–R06 maps supply decision rights, financial views and event/object distinctions; do not duplicate them as new questions.
+
+## Use context only where it explains the case
+
+| Dimension | Establish if material | Boundary |
+| --- | --- | --- |
+| Population and unit | The payroll population actually within the contributor’s remit; one payroll, entity, country or group where known. | Do not substitute global workforce, headquarters, payroll-team size or an arbitrary size threshold. CLM-0396, CLM-0398, CLM-0409. |
+| Working and pay arrangements | The relevant contractual pattern, variability and actual data/calculation task, if material. | A sector label cannot classify a worker, establish the applicable calculation or prove an investment need. CLM-0394, CLM-0398. |
+| Jurisdiction and remit | The jurisdictions and responsibilities relevant to this work and the contributor’s knowledge. | Country count and headquarters do not define a common regime, tax outcome or priority ranking. CLM-0395, CLM-0398. |
+| Delivery responsibilities and handoffs | The internal, provided and retained tasks affected by the priority. | In-house or outsourced alone does not establish responsibility, workload, dissatisfaction or the right response. CLM-0396, CLM-0398, CLM-0400. |
+| Decision and change context | Current service, proposed change and dated evaluation, authority, commitment, delivery and result. | Do not compare a wish with an implemented process as if they were the same outcome. CLM-0393, CLM-0398, CLM-0408. |
+| Relevant timing | The actual horizon, applicable period, known deadline or operating calendar where it matters to the case. | One employer’s school-calendar account is not a universal sector migration rule or proof that delay was optimal. CLM-0397, CLM-0401, CLM-0405. |
+
+Do not infer private context from a public company profile or force exact sensitive figures. The contributor's remit can be narrower than the employer's full business. Detailed combinations of broad descriptors can identify a person in a small cohort; retain only what is permissioned and necessary to interpret the published case.
+
+## Four kinds of comparison claim
+
+- **A contrast between actual collected cases:** Describe the cases, relevant scope, their evidence and alternative explanations. No cases have yet been collected.
+- **A source-supported contextual mechanism:** Explain why a condition can matter; do not infer how often employers prioritise or fund it.
+- **A hypothesis for later case checking:** Label the proposed explanation and what would support or challenge it. It is not an observed result.
+- **A group difference not established:** Preserve missing or non-comparable coverage; do not replace it with a stereotype, zero or assumption that groups are identical.
+
+These are different claim purposes, not an evidence-strength ladder. Check comparable work, service boundary, horizon, actual question/measure and knowledge basis before attributing a contrast to size, sector or geography. Explore alternative explanations and contrary cases. Sparse or absent groups remain gaps. No arbitrary minimum qualitative base, national percentage, country ranking, causal decomposition or saturation claim is introduced. CLM-0406–0409.
+
+For a published numeric subgroup comparison, the relevant item, definition, period, group and valid bases/recruitment/weighting would need inspection. Overall country counts cannot stand in for an item's valid subgroup bases. We make no funded-priority subgroup estimates from the current material.
+
+## Keep an external signal separate from employer commitment
+
+| Source context | Dated external status | Case-level question it informs |
+| --- | --- | --- |
+| SSP | HMRC/Acas guidance describes changes effective 6 April 2026, retaining eligibility and transition conditions. | What relevant operating work actually changed, and what evidence supports present completion or remaining need? CLM-0402–0403. |
+| Benefits in kind | Draft/interim phased future guidance; specified 2027/2028 scope, exclusions and dependencies. November 2026 services and April 2027 tools availability remain future statements at 29 October. | Which benefits/employees/phase and data handoffs apply; what task, capability, resources or next decision is actually known? CLM-0399–0401, CLM-0405. |
+| Synergy | One published programme account separates approval/contract/funding responsibilities from prospective gaps and benefits. | Which commitment, resource and result does a given statement actually establish? No new case or monetary estimate. CLM-0404. |
+
+A deadline or a published preparation instruction does not establish a new funded purchase, actual noncompliance or a mandatory technology/staffing solution. The SSP rows use official guidance, not a full primary-law audit; the BiK material remains interim. No rates, worker-specific determinations, tax advice, current software test or employer forecast is provided.
+
+## Worked use without fabricated cases
+
+If a future contributor says “integration is a priority,” keep the wording and establish the actual task and affected handoff. If they know it is in a plan but not how it is resourced, record both facts. Ask a relevant existing probe about what would move it forward; do not label it an active purchase or conclude budget is absent. This is an illustrative route, not a collected employer observation.
+
+If two actual cases later differ, inspect their work and evidence before saying the difference is caused by sector. A school calendar can matter in one dated rollout account without proving a sector-wide priority or the best month for every migration. Conversely, no observed contrast does not establish that context never matters.
+
+## Blank records and publication use
+
+The [structured priority map](R07-priority-map.json) contains blank priority, context and comparison templates. All participant observations, completed case comparisons, forecasts, subgroup estimates and market rankings remain empty. Record not known, not measured, not applicable and not disclosed separately rather than impute a value.
+
+Use later permissioned accounts to produce concise case explanations: priority, why it mattered in that context, what was known about support/resources, what happened, and the remaining decision. Cite the actual case or source beside the claim. A recurring theme may inform the discussion without becoming a national investment ranking. Public-source context and original contributions remain visibly different.
+
+No publisher statistic, employment rule or service declaration is automatically approved for final use. The new Moorepay branding/customisation number remains held (CLM-0392), alongside existing holds. Original practitioner integration, factual/currentness and rights checks, confidentiality and client review are still required. Nothing has been sent.
+
+## User-requested second challenge
+
+Historical, segmented-market, all-six-comparator/JGA, prior-prompt and affected-user checks add five selective conditions: priority origin/revision, sequence beside ongoing work, actual usable capability/access, needed work before a chosen response, and whose outcome/action matters. First-pass dimensions, blank templates and fourteen questions remain unchanged. No original observations, market estimates or model reruns. Independent integrated desktop second-challenge review passed.
+
+[Second-challenge findings](R07-SECOND-CHECK-READOUT.md) give the evidence, specific competitor distinctions and saved-study boundaries.
+
+| Selective refinement | Why it matters | Boundary |
+| --- | --- | --- |
+| Origin and material revision | Where the history matters, establish whether the stated priority is new, continuing, re-scoped or re-timed, its last evidenced state and the actual reason for a material change. | Repeated themes are not matched employer histories; a passed target date does not establish later delivery, persistent delay or failure. Do not require a complete project archive. CLM-0410, CLM-0411, CLM-0413. |
+| Sequence beside ongoing work | Where a milestone depends on other work or capacity, record the actual dependency, whose action matters and the next relevant review or decision. | Later order is not proof of lower importance, rejection or no funding. A government management framework is not an observed private-payroll rule; no forced portfolio rank or optimal sequence. CLM-0412, CLM-0413, CLM-0425, CLM-0427. |
+| Actual capability, account and service scope | For a feature/update priority, establish relevant task, account/service scope, known inclusion/access, released versus future availability, configuration/use and who must act. | Supplier declarations, entitlement, release, installation and useful operation are separate facts that can coexist across tasks. No product trial, universal capability, zero total cost or inferred new purchase. CLM-0414, CLM-0415, CLM-0416, CLM-0417, CLM-0418. |
+| Needed work and capability before a chosen route | Keep the actual work, role/remit, performing party and known resources separate from a proposed hire, learning, process, retention or tool response; distinguish employer/team and geography units. | Recruiter advice, hosted account, service promise and salary inputs are not funded employer demand, available candidates or validated remedies. Constructed prompts preselect routes and do not validate them. CLM-0419, CLM-0420, CLM-0421, CLM-0422, CLM-0423, CLM-0424. |
+| Whose outcome and whose next action | Where another function, provider, client or affected user matters, distinguish the contributor’s stated value from evidence about that task/outcome and the condition another party actually controls. | Do not assume misalignment, user satisfaction, contractual responsibility or permission. No supplier/employee cohort expansion, additional interview obligation or full stakeholder census. CLM-0418, CLM-0426, CLM-0428. |

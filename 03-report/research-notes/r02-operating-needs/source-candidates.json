@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "new_sources": 0,
+  "records": [
+    {
+      "source_id": "SRC-0020",
+      "status": "reused",
+      "additional_review": "Printed pp11\u201312 original live hosted text",
+      "url": "https://online.flippingbook.com/view/472716226/",
+      "review_status": "selected_original_sections_reviewed",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "source_id": "SRC-0033",
+      "status": "reused",
+      "additional_review": "Original PDF method, sample and selected appendix table, including visual verification",
+      "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+      "review_status": "selected_original_sections_reviewed",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "source_id": "SRC-0071",
+      "status": "reused",
+      "additional_review": "Original PDF method and selected appendix charts, including visual verification",
+      "url": "https://info.payroll.org/pdfs/global/Global-Payroll-Week-2025-survey-results.pdf",
+      "review_status": "selected_original_sections_reviewed",
+      "accessed_on": "2026-10-28"
+    }
+  ]
+}

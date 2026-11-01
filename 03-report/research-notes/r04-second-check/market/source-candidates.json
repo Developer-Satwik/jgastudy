@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "sample_size": null,
+      "fieldwork_period": null,
+      "review_status": "relevant_original_sections_inspected",
+      "reuse_status": "Private verification; attribution, freshness and rights checks before publication",
+      "publication_eligibility": "internal_R04_second_check_context_final_use_pending",
+      "candidate_id": "SC4-MKT-S01",
+      "title": "Payfit for Founders: payroll software for entrepreneurs",
+      "publisher": "Payfit",
+      "url": "https://payfit.com/founders/",
+      "source_type": "supplier_product_workflow_and_selected_named_testimonial",
+      "population": "UK supplier founders page; named Roots KBB testimonial and declared product workflow, not a buyer sample",
+      "locator": "Tools to delegate: Permissions that are simple to set; Hear what our customers have to say; numbered local lines157–164/218–222; web lines200–210/388–392",
+      "funding_or_commercial_interest": "Supplier marketing its own platform and selecting a customer quote",
+      "limitations": "Founder-targeted marketing and a person calling it their decision do not establish sole authority, final signature, funding chain, headcount, general SME behaviour or an organisational delegation. Software-admin permission concerns operational payroll, not investment purchasing. No savings/compliance guarantee adopted.",
+      "capture_path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S01.html",
+      "capture_sha256": "d79ab6a1ec0038474eff5882c397f3020ef4e408c17810f179f2ef44f97cfdbf",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "sample_size": null,
+      "fieldwork_period": null,
+      "review_status": "relevant_original_sections_inspected",
+      "reuse_status": "Private verification; attribution, freshness and rights checks before publication",
+      "publication_eligibility": "internal_R04_second_check_context_final_use_pending",
+      "candidate_id": "SC4-MKT-S02",
+      "title": "Global Payroll Transformation Journey with Chazey: Overcoming Challenges to Achieve Success",
+      "publisher": "Chazey Partners",
+      "url": "https://chazeypartners.com/project/global-payroll-transformation-journey-with-chazey-overcoming-challenges-to-achieve-success/",
+      "source_type": "adviser_published_named_global_employer_case",
+      "population": "Herbalife global payroll programme, including EMEA; not UK employer-market sample",
+      "locator": "Original body lines67–82; especially72–79 on client engagement, production criteria, stakeholder inclusion and escalation",
+      "date_note": "Publication/update date undisclosed. Account describes 2019 supplier selection, 2023 governance intervention and completion reported for December2024; not October2026 current-state observation.",
+      "funding_or_commercial_interest": "Adviser describes and promotes its own intervention",
+      "limitations": "Adviser retrospective and reported diagnosis/results, not independent causal verification or a contract/delegation record. Effective supplier calls do not establish lawful/formal authority or every individual approver. Global/regional example, not UK prevalence; no savings/fees or comparative supplier-quality conclusion.",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "original_body_read_local_raw_capture_unavailable",
+      "parsed_extract_path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S02-selected-reader-extract.md",
+      "parsed_extract_sha256": "a157b8fc5161ad24db5859b876fc56baf216e925b208d0c5419b8f5cadeddc14"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0078",
+      "url": "https://www.gov.uk/paye-for-employers/choose-payroll",
+      "additional_locator": "Paying a payroll provider; numbered local lines66–70; web lines68–75",
+      "review_status": "relevant_original_sections_rechecked",
+      "review_result": "PAYE responsibility retained by employer even when processing paid to someone else; this does not identify an internal buyer/approver or prescribe a corporate approval process.",
+      "capture_path": "03-report/research-notes/r04-second-check/market/captures/SRC-0078.html",
+      "capture_sha256": "0cc9734d14f6986715407395816bb189c01d7ead85eaeec697d7aada715c9cb9"
+    }
+  ],
+  "counting_note": "Two new routes, one canonical reuse. Payfit describes one selected customer quote plus own workflow; Chazey one employer programme. Not a sample or new JGA fieldwork."
+}

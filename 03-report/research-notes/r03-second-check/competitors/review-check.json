@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_parent_review",
+  "source_candidates": 3,
+  "claim_candidates": 5,
+  "requested_original_HTML_bodies_retained": 2,
+  "redirect_response_retained": 1,
+  "original_web_body_inspected_local_unavailable": 1,
+  "capture_hashes_checked": [
+    {
+      "path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S02.html",
+      "sha256": "2a05b3b2882ed093bcd27016284bf964536d38a5f40b4c9b10a013586abcedd6",
+      "scope": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S03.html",
+      "sha256": "2c77573fdc9734f6c05b9e3375d0f2e338bde9bee3672819e5cf64d139c8b383",
+      "scope": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S04.html",
+      "sha256": "0272e2e6ba2cc31b5d6e8122856723b8a1d1c2bd6066412a04ce170d28ca6095",
+      "scope": "redirected_homepage_not_requested_document"
+    }
+  ],
+  "prior_study_provenance_files_checked": 6,
+  "prior_selected_situations": 3,
+  "prior_selected_questions": 12,
+  "prior_selected_answers": 96,
+  "recommendation_counts_reused": false,
+  "prior_files_changed": false,
+  "canonical_files_changed": false,
+  "client_files_changed": false,
+  "external_actions": [],
+  "prior_bridge_sha256": "ab90a996b8adf635cd6f0f9081a3364ea175d6486599bf8daa6d920628ff6522",
+  "anti_anchoring_rule_recorded": true,
+  "redirected_TCT_body_excluded_from_eligible_sources": true
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "sha256": "27329a0fd6977d885425dd528af239ad8340513ff87b354e780efca64d784609",
+      "kind": "retained_original_pdf"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "kind": "retained_original_pdf"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "sha256": "368e25ed0837504ca0391f787b364b386415a84d2196cd38cb029e8e8bcbc0fd",
+      "kind": "selected_reader_notes"
+    },
+    {
+      "source_id": "SRC-0206",
+      "path": "03-report/research-notes/r08-second-check/history/captures/SRC-0206-selected-text.txt",
+      "sha256": "ad0363abe1e866c44f73c755fdddd34a0fd6d2d2f763a891ba51ae7fe3276651",
+      "kind": "selected_pdf_text_extract",
+      "pdf_pages": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source_id": "SRC-0134",
+      "path": "03-report/research-notes/r08-second-check/history/captures/SRC-0134-selected-text.txt",
+      "sha256": "e609540947bad06681edac374ba9f03e9cd81e5c2d0225896981cec193ffdc4f",
+      "kind": "selected_pdf_text_extract",
+      "pdf_pages": [
+        43,
+        46
+      ]
+    },
+    {
+      "path": "03-report/research-notes/r08-second-check/history/captures/LFB-03.png",
+      "sha256": "8c55a488609f9a330fa51e706463c98527bd217e39148d0384735b5a06606dd8",
+      "kind": "rendered_pdf_page",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r08-second-check/history/captures/LFB-04.png",
+      "sha256": "c4d6ef77c77ad85624b8480db3c2b56d5f39971e267e2edaba7f6e19fff62e3a",
+      "kind": "rendered_pdf_page",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r08-second-check/history/captures/SG-46.png",
+      "sha256": "690499c0cfc5de5a2d43bd5889457c1894c12e1038d9cc661c0d6ab7c9291db4",
+      "kind": "rendered_pdf_page",
+      "visually_inspected": true
+    }
+  ],
+  "failed_rechecks": [
+    {
+      "source_id": "SRC-0205",
+      "url": "https://www.london.gov.uk/decisions/dmfd106-replacement-human-resources-and-payroll-solution",
+      "http_status": 403,
+      "path": null,
+      "sha256": null,
+      "evidence_status": "fresh_access_failure_not_new_original_or_live_full_inspection"
+    }
+  ]
+}

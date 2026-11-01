@@ -1,0 +1,4 @@
+Source: https://support.freeagent.com/hc/en-gb/articles/115001219450-Set-up-payroll
+Inspected original route in web reader 29 October 2026, relevant lines149–160 and170–204. Direct raw request returned403. These are analyst paraphrases, not source HTML or a complete export.
+
+The article concerns monthly payroll. Functionality depends on account type/accounting basis. It describes full account-access permission and employee users as setup prerequisites. It also requires company/payroll profiles and selecting the correct first payroll month. These are declared setup conditions, not proof of a particular account entitlement, completed configuration, successful filing or software performance. No legal-registration advice, specific numerical access level or filing-change rule is adopted.

@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "path": "04-table/research-notes/t05-service-costs/root/captures/T5M-S01.html",
+      "sha256": "0c0b060f253bef46f30815fd5a20a48c328470782b78d9525e8ef4310609880c",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "04-table/research-notes/t05-service-costs/root/parsed/T5M-S01.txt",
+      "sha256": "35e19ba30cd5f7a7d5fda672f648955ae982cf41bbbd337d17cec0442f62f94d",
+      "kind": "parsed_original_text"
+    }
+  ],
+  "new_source_routes": 1,
+  "actual_observations": 0
+}

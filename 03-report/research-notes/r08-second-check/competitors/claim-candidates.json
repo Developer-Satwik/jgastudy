@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "C8S-C01",
+      "canonical_source_ids": [
+        "SRC-0210",
+        "SRC-0116"
+      ],
+      "claim_text": "Portfolio describes role assessment and search/offer/contact/aftercare events; Middlemore describes assessing actual work and a post-search report of recruitment analytics. These are different evidence objects from a particular candidate’s current capability, acceptance/start and later payroll outcome.",
+      "evidence_class": "recruiter_declared_process_and_evidence_object_boundary",
+      "locator": "Portfolio Ourprocess/roles; MiddlemorePayrollSearch andPostProjectReport",
+      "limitations": "Declared process/reporting, not an independently tested candidate assessment, actual case progression, availability or useful operating effect. No brand-performance rank, numerical recruitment metric or right-to-work conclusion adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific recruiter declaration/case/method or explicit analyst application; no original payroll respondents",
+      "time_period": "Source-specific current and historical context inspected29October2026; no trend or forecast",
+      "review_mode": "Relevant fresh primary HTML/reader sections or explicitly labelled prior-reader plus fresh indexed same-case body; captures and limits retained."
+    },
+    {
+      "candidate_id": "C8S-C02",
+      "canonical_source_ids": [
+        "SRC-0147"
+      ],
+      "claim_text": "Hays distinguishes resource augmentation and defined managed-project delivery, with SOW requirements, deliverables, governance and transition knowledge transfer. The exact engagement object matters before treating delivery support as transferred payroll responsibility or achieved benefit.",
+      "evidence_class": "recruiter_cross_function_service_declaration_and_scope_application",
+      "locator": "Deliverymodels275–294; requirements/SOW/transition/reviews345–382",
+      "limitations": "Cross-function technology/project service declaration, not a payroll engagement trial, executed terms, blanket transfer of accountability, legal status or proven cost/result. Retained responsibilities remain case-specific.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific recruiter declaration/case/method or explicit analyst application; no original payroll respondents",
+      "time_period": "Source-specific current and historical context inspected29October2026; no trend or forecast",
+      "review_mode": "Relevant fresh primary HTML/reader sections or explicitly labelled prior-reader plus fresh indexed same-case body; captures and limits retained."
+    },
+    {
+      "candidate_id": "C8S-C03",
+      "canonical_source_ids": [
+        "SRC-0119",
+        "SRC-0115",
+        "SRC-0113"
+      ],
+      "claim_text": "Frazer’s one hosted reorganisation case, Oakleaf’s placement/capability list and JGA’s tailored talent proposition provide different kinds of public firm-level material. None alone establishes the proposed team or candidate will meet a new brief or deliver its intended payroll result.",
+      "evidence_class": "supplier_reported_case_and_service_evidence_boundary",
+      "locator": "Frazerretainedchallenge/outcome/attribution; Oakleaf22–38; JGA2–13",
+      "limitations": "One provider-reported case and commercial claims, not independent effect assurance, a representative talent market, actual current candidate or an original JGA contribution. Frazer current full access unavailable; indexed alias/prior-reader scope retained. Numeric quality claims excluded.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific recruiter declaration/case/method or explicit analyst application; no original payroll respondents",
+      "time_period": "Source-specific current and historical context inspected29October2026; no trend or forecast",
+      "review_mode": "Relevant fresh primary HTML/reader sections or explicitly labelled prior-reader plus fresh indexed same-case body; captures and limits retained."
+    },
+    {
+      "candidate_id": "C8S-C04",
+      "canonical_source_ids": [
+        "SRC-0192",
+        "SRC-0193"
+      ],
+      "claim_text": "Hays’s salary inputs and employer/employee survey, and Robert Half’s projected starting salaries and non-salary survey, have distinct methods and periods. They do not identify the evidence accepted for a specific payroll decision, its affordability or its approved resources.",
+      "evidence_class": "recruiter_method_and_decision_specific_evidence_fit",
+      "locator": "Hays107–109; RobertHalfFAQ84–110/method",
+      "limitations": "No numeric values, payroll subgroup estimate, salary quote, current vacancy/candidate availability, employer budget or forecast adopted. Method description is not an audit of underlying microdata.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific recruiter declaration/case/method or explicit analyst application; no original payroll respondents",
+      "time_period": "Source-specific current and historical context inspected29October2026; no trend or forecast",
+      "review_mode": "Relevant fresh primary HTML/reader sections or explicitly labelled prior-reader plus fresh indexed same-case body; captures and limits retained."
+    },
+    {
+      "candidate_id": "C8S-C05",
+      "canonical_source_ids": [
+        "SRC-0210",
+        "SRC-0116",
+        "SRC-0147",
+        "SRC-0119"
+      ],
+      "claim_text": "For R08, make the object and match of evidence explicit where material: what specific claim about the work, provider/team/person, time and remit it supports, who checked it if known, and what remains unverified or introduced as an assumption. Firm-level material or generated verification advice is not completed case-specific assurance.",
+      "evidence_class": "researcher_selective_evidence_object_and_match_condition",
+      "locator": "Cross-source application toV02/V04/V05; local exact bridge S01-C/S02-D/S06-C/S11-C",
+      "limitations": "Selective analyst aid, not an extra mandatory question or request to collect confidential candidate evidence. Actual relevance/acceptance/influence/effect remain separate. Earlier prompts are researcher-selected hiring routes and evidence requests, not actual demand or a validation of generated scorecards/rules.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Specific recruiter declaration/case/method or explicit analyst application; no original payroll respondents",
+      "time_period": "Source-specific current and historical context inspected29October2026; no trend or forecast",
+      "review_mode": "Relevant fresh primary HTML/reader sections or explicitly labelled prior-reader plus fresh indexed same-case body; captures and limits retained."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+3. Oracle Cloud implementation | 50 
+ 
+Recommendation 11 – Resolution of support tickets 
+The new prioritisation criteria still needs to be embedded within the iFix 
+support process. Management should also develop reporting tools that 
+would enable the number and age of the open tickets in each priority 
+category to be monitored and reported. Target timescales should also 
+be developed for the resolution of each of the 9 prioritisation categories. 
+The Scottish Government continues to work with bodies to 
+address their frustrations 
+153.  The three-month hypercare period from October to December 2024 was 
+focused on defect resolution and building corporate knowledge of the platform, 
+alongside supporting users to transition to a new way of working. The period 
+from January 2025 was then focused on addressing outstanding known issues 
+whilst continuing to embed new processes, building in-house capabilities and 
+working with users to adopt standardised processes. Alongside this, the 
+Scottish Government was also preparing for the delivery of new functionality 
+through the roll-out of the EPM reporting module in June 2025, and the 
+enhancements and fixes implemented through the quarterly updates. 
+Hypercare refers to a critical support phase of an IT project immediately 
+following a go-live event. It is designed to ensure a smooth transition from 
+project implementation to business-as-usual operations. 
+154.  During March 2025 the Scottish Government external audit team 
+contacted the appointed auditors of each of the Oracle user bodies to ask them 
+to complete a questionnaire. This sought to identify any issues with the new 
+system that were impacting on day-to-day operations, their ability to produce 
+up-to-date and accurate financial and HR reports, or that could impact on the 
+preparation of their 2024/25 accounts. 
+155.  Responses were submitted for 23 Oracle user bodies. Our analysis of 
+these responses identified a level of frustration with the implementation 
+process, or the new Oracle Cloud platform more generally, related to: 
+• The delay in implementing the EPM reporting module to June 2025, 
+and the lack of other appropriate reporting tools for budget 
+monitoring and payroll without the need for significant manual input 
+and checking. (Issue raised by 19 user bodies) 
+• System issues with the HR-Payroll module that meant that certain 
+functionality, including the ability to produce reconciliations between 
+monthly payroll reports and the corresponding ledger data, was not 
+available at implementation. (Issue raised by 14 user bodies) 
+• Issues with the Purchase-to-Pay module in the period immediately 
+after implementation that prevented some bodies from raising 

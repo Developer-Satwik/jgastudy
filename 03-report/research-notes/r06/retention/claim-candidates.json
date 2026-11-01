@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "RET6-C01",
+      "source_ids": [
+        "RET6-S01"
+      ],
+      "claim_text": "Warwickshire\u2019s public October2026 decision context retains its payroll/HR platform while changing the proposed commercial route; public meeting records agreement to restricted recommendations. Continuing a platform and changing a contracting route are compatible.",
+      "evidence_class": "official_employer_approval_context",
+      "locator": "Decision Purpose/date fields reader18\u201338; public15October2026 meeting item9 reader84\u201388",
+      "population": "Selected named public employer decision contexts; no original JGA contributors",
+      "time_period": "Decision dates2025\u20132026; inspected29October2026",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Restricted report uninspected; public meeting agrees recommendations. Direct commercial route and continued platform not completed supplier/system switch. Call-in labels conflict; no signed contract, independent cost comparison or realised result.",
+      "review_mode": "Original public page body inspected with web reader; retained paraphrased selected notes; local raw retrieval403; no private report, product trial or outcome evaluation",
+      "status": "R06_candidate"
+    },
+    {
+      "candidate_id": "RET6-C02",
+      "source_ids": [
+        "RET6-S02"
+      ],
+      "claim_text": "Sandwell\u2019s October2026 resolution approves renewal of its combined ERP services. The published rationale weighs continuity and available time against lapse or replacement involving procurement, migration, testing and organisational change.",
+      "evidence_class": "official_employer_recorded_rationale",
+      "locator": "14October2026 item93; minutes29\u201331, reasons35\u201339, alternatives42\u201346 and resolutionpoint1 at49\u201357",
+      "population": "Selected named public employer decision contexts; no original JGA contributors",
+      "time_period": "Decision dates2025\u20132026; inspected29October2026",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "CombinedERP public employer account. Only resolutionpoint1 used; remaining decision truncated on issue page. No actual execution, later outcome, replacement duration, cost-saving or private-market prevalence inferred.",
+      "review_mode": "Original public page body inspected with web reader; retained paraphrased selected notes; local raw retrieval403; no private report, product trial or outcome evaluation",
+      "status": "R06_candidate"
+    },
+    {
+      "candidate_id": "RET6-C03",
+      "source_ids": [
+        "RET6-S03"
+      ],
+      "claim_text": "Cumberland\u2019s March2025 record concerns procurement permission within organisational disaggregation. It identifies exhausted contract extensions, insufficient remaining time for an open replacement exercise and differing requirements as reasons for the chosen route.",
+      "evidence_class": "official_employer_recorded_rationale",
+      "locator": "Decision29\u201343, Reasons44\u201350, Alternatives51\u201355, dates56\u201358",
+      "population": "Selected named public employer decision contexts; no original JGA contributors",
+      "time_period": "Decision dates2025\u20132026; inspected29October2026",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Decision-status Implemented is not proof of operational system implementation. Provider/product not named; no supplier switch, signed contract, delivery result or benefit established. Public local-government context.",
+      "review_mode": "Original public page body inspected with web reader; retained paraphrased selected notes; local raw retrieval403; no private report, product trial or outcome evaluation",
+      "status": "R06_candidate"
+    },
+    {
+      "candidate_id": "RET6-C04",
+      "source_ids": [
+        "RET6-S01",
+        "RET6-S02",
+        "RET6-S03"
+      ],
+      "claim_text": "For R06 distinguish what stays or changes: product, service scope, commercial counterparty/route, shared organisational boundary and work retained. A binary provider-stay/switch label can conceal a material choice.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-case interpretation of retained public decision/rationale sections",
+      "population": "Selected named public employer decision contexts; no original JGA contributors",
+      "time_period": "Decision dates2025\u20132026; inspected29October2026",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Selected council examples motivate an optional analytical distinction; no universal sequence, supplier ranking, prevalence or automatic remedy.",
+      "review_mode": "Original public page body inspected with web reader; retained paraphrased selected notes; local raw retrieval403; no private report, product trial or outcome evaluation",
+      "status": "R06_candidate"
+    },
+    {
+      "candidate_id": "RET6-C05",
+      "source_ids": [
+        "RET6-S02",
+        "RET6-S03"
+      ],
+      "claim_text": "A time-bounded continuation or procurement route may reflect feasible continuity and sequencing rather than pure satisfaction or irrational inertia. Record the stated constraint and alternatives actually considered; do not infer an unreported future replacement plan.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Sandwell alternatives42\u201346; Cumberland alternatives51\u201355",
+      "population": "Selected named public employer decision contexts; no original JGA contributors",
+      "time_period": "Decision dates2025\u20132026; inspected29October2026",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Public rationale does not establish private preference, inability to ever switch or actual implementation. A constraint may coexist with service merit; no behavioural diagnosis from a procurement notice.",
+      "review_mode": "Original public page body inspected with web reader; retained paraphrased selected notes; local raw retrieval403; no private report, product trial or outcome evaluation",
+      "status": "R06_candidate"
+    }
+  ]
+}

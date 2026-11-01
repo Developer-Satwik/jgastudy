@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-29",
+  "queries": [
+    "site.find-tender.service.gov.uk payroll extension existing system migration continuity HR renewal",
+    "site.gov.uk payroll contract extension renewal existing system continuity migration",
+    "site.moderngov.co.uk payroll contract renewal alternative migration HR system",
+    "site.gov.uk payroll system replacement contract award reasons incumbent"
+  ],
+  "selected_cases": [
+    "Warwickshire2026",
+    "Sandwell2026",
+    "Cumberland2025"
+  ],
+  "inspected_original_pages": [
+    "https://warwickshire.moderngov.co.uk/ieDecisionDetails.aspx?ID=1236",
+    "https://sandwell.moderngov.co.uk/ieIssueDetails.aspx?IId=19236&Opt=3&PlanId=0",
+    "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501",
+    "https://warwickshire.moderngov.co.uk/ieListDocuments.aspx?CId=146&MID=4287",
+    "https://cumberland.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=21053&Opt=0"
+  ],
+  "excluded_or_not_relied_on": [
+    {
+      "url": "https://modgov.sefton.gov.uk/ieIssueDetails.aspx?IId=76416&Opt=3",
+      "reason": "Useful search lead but reader/direct fetch403; not relied on as inspected original body"
+    },
+    {
+      "url": "https://moderngov.rotherham.gov.uk/mgDecisionDetails.aspx?IId=96251&Opt=1",
+      "reason": "Existing canonical case SRC0160; no additional claim needed"
+    },
+    {
+      "url": "https://www.london-fire.gov.uk/media/jrqngpy0/lfc-25-098-replacement-hr-and-payroll-system-novemberr-2025-update-signed.pdf",
+      "reason": "Sent as source lead for separate stalled-decision strand; not inspected or relied on here"
+    }
+  ],
+  "source_limit": "Three purposively selected public cases, not cross-market prevalence. No completed supplier-switch result or current customer satisfaction established.",
+  "external_actions": []
+}

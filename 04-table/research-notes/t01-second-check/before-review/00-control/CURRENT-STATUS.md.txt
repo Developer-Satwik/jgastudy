@@ -1,0 +1,90 @@
+# Current status
+
+Updated 29 October 2026, Asia/Kolkata.
+
+## Commercial and document status
+
+User reports Nick signed and the US$750 upfront payment was received; the supplied email also acknowledges payment. Agreement RKLX JGA 2027 01 totals US$1,500, allocated US$1,000 report and US$500 Table. US$750 balance is due on satisfactory completion under the agreement.
+
+The local agreement remains the generated version, not an independently retrieved executed DocuSeal copy. Retain and reconcile that copy when available. Formal kickoff, first-week checkpoint and completion dates have not been confirmed in the reviewed material. Public desktop work began 28 October.
+
+## Completed
+
+- Project plan, scope reconciliation, records, method and quality gates.
+- R01 existing-evidence landscape, completed for initial research design.
+- Four source-audit batches covering the initial payroll landscape, buyer-logic overlap and a public audit case.
+- Canonical source/claim records with duplicate-page aliases, selected source conflicts and captured-file hashes checked.
+- Six internal design findings and a readable landscape synthesis; independent challenge review found no substantive correction needed.
+- WP02 local checkpoint draft: five-page research plan with eight-chapter outline, 14 core questions and introduction brief, plus a two-page research prospectus, each in editable Word and PDF.
+- Question-to-module mapping, a full routed practitioner guide and separate Table buyer/member guides. Eight synthetic route checks passed; no human testing is implied. Independent review corrections preserve evidence behind deferral and require actual report input for contributor overlap.
+- Version 0.2 now applies the second-review refinements. Fourteen core questions are unchanged, with clearer selective probes and routes. Nineteen synthetic checks, independent exact-content review and all seven client pages passed. Version 0.1 file hashes remain unchanged.
+- R02 desktop assessment completed: initial originals plus detailed capacity/control, service-boundary, employer-case and official-consequence research. The readout and nine-area needs/consequences matrix passed independent synthesis review. Original practitioner integration and final publication checks remain open.
+- User-requested R02 second challenge completed across historical, market, six-recruitment-comparator/prior-study, employee, institutional, payment and resilience perspectives. Updated synthesis passed integrated review; the earlier-study bridge passed 78 independent checks. First-pass texts and all eight client files remain preserved.
+- R03 desktop research completed on 29 October: primary integration/state/identity evidence, component-level delivery scope, task-level automation/AI and two bounded implementation cases. Eight combinable option paths are documented in Markdown and structured JSON. Integrated review passed with independence limits stated. R02 artifacts, fourteen core questions and client drafts remain unchanged.
+- User-requested R03 second challenge completed: lifecycle/history, segmented market, specific competitor/prior-study and dependency/recovery checks. P08 now allows enduring leadership/capability; five selective conditions cover exact service context, stakeholder work, continuing readiness, engagement/output ownership and recovery/dependence/handback. Independent integrated review passed; the constructed-prompt bridge passed 148 checks. First-pass R03 snapshots and client files are preserved.
+
+- R04 desktop research completed on 29 October: source-scoped roles/delegation, rechecked buyer-method limits, six selected secondary cases and twelve optional analytical functions. Independent integrated review and preservation checks passed. Funding, selection, signature, conditional backing, functional signoff, final release and result remain distinct; original practitioner integration and final-use checks remain open.
+
+- User-requested R04 second challenge completed: historical/effective mandate, segmented market, all six comparators/prior-study and affected-party lenses. Five optional conditions applied; independent integrated review passed and the prompt bridge passed 243 checks. First-pass snapshots, earlier topics and all eight client files preserved.
+
+- R05 desktop research completed on 29 October: economics/benefit, commercial cost, delivery/readiness and measurement evidence. Nine optional domains and three financial views passed integrated review; no prices, savings, forecasts, risk scores or financial inputs populated. Earlier topic artifacts, fourteen core questions and all eight client files preserved.
+
+- User-requested R05 second challenge completed: historical, market, all-six-comparator/JGA, prior-study and usable-capacity lenses. Five optional conditions supplement unchanged nine domains/three financial views/fourteen questions. Independent integrated review and 327 exact saved-data linkage checks passed; first-pass snapshots, prior topics and eight client files preserved. No numerical forecast or original fieldwork.
+
+- R06 desktop research completed: actual option/object versus disposition, implementation and benefit; six selected public employer contexts, one narrow notice-status context and method-scoped buyer evidence. Nine optional matrix rows/event map passed integrated review. Survey method correction applied before merge; original fieldwork, outcome rates and causal remedies unestablished. Earlier/client/core artifacts preserved.
+
+- User-requested R06 second challenge completed: feasible options and observation boundary, product/support/access/receiving lifecycle, all-six-comparator/JGA talent commitment and knowledge, earlier prompt premises and affected-user continuity. Five optional conditions; scoped peer and root verification passed, including 250 exact prior-study checks. First-pass rows/cases, prior topics, fourteen questions and client files preserved. No fieldwork or numerical forecast.
+
+- R07 desktop research completed: exact priority measures, personal versus organisational support, six optional context dimensions and four nonordinal comparison claim purposes. Dated signals remain separate from actual commitment. Four new routes/24 bounded claims/six internal findings; one new numeric hold. Independent integrated review and54 preservation hashes passed. Original practitioner evidence and final-use checks remain open.
+
+- User-requested R07 second challenge completed: priority origin/material revision, sequence beside ongoing work, account/capability access, work/remit before a chosen response, and affected-party outcome/action. Five optional conditions; all-six-comparator/JGA and four constructed prompts/32texts examined. Independent integrated review and327 exact linkage checks passed; first-pass snapshots,58 prior/core/client hashes, questions and blank arrays preserved. No fieldwork, numerical forecast or sending.
+
+- R08 preparatory desktop synthesis reviewed: six linked optional views, traceable evidence map, proposed two-part/eight-chapter integration and ten root-applied constructed routes. Accepted evidence and perceived influence are separate; partial/no-case/no-disclosure routes remain usable. Independent integrated review and133routingchecks passed;76prior/core/client/register/findings hashes preserved. Final WP15 remains open for actual practitioner integration and final-use checks.
+
+- User-requested R08 second challenge reviewed: event-time versus later knowledge, investment versus recurring approvals, evidence fit to firm/person/engagement/outcome, qualification beyond acceptance and divergent accounts. Version0.2preserves6views/selectivefields/14Q/outline and adds5optional conditions. Zero new routes/17bounded claims/5internal findings;15constructed applications,197routingchecks,327exactprior-study checks and independent integrated review.85baseline hashes and8firstpass snapshots preserved; finalWP15open.
+
+- WP03 collection pack prepared and independently reviewed: operator process, unsent introduction/invitation, participant information/choice drafts, blank restricted-record templates, count/routing policy and five grouped release decisions. Working contract roles and30/90-dayclosureterms preserved. Eight constructed count applications plus three permission/readiness cases passed199rootchecks;111prior/core/client/canonicalhashes preserved. No actual participant data, collection activation or sending.
+
+For the current synthesis, start with the [R08 second challenge](../03-report/R08-SECOND-CHECK-READOUT.md), [version0.2framework](../03-report/R08-DECISION-FRAMEWORK.md) and [report integration](../03-report/R08-REPORT-INTEGRATION.md). At the R08 checkpoint the register contained 191 source routes, 355 claims/guardrails and 81 internal findings. 120 source records retained originals in primary capture fields; additional reviewed captures/extracts are separate. This challenge reuses existing routes and adds no new dataset, practitioner observation or market estimate. Current preparatory QA is `08-qa/R08-second-check-completion.json`; first-pass and earlier checks/snapshots remain preserved. Independent integrated second-challenge review,327root exact saved-study checks and197checks across15constructed applications passed. None establishes practitioner usefulness or final publication approval.
+
+## Main working conclusion
+
+Broad payroll needs, technology, confidence, strategic value and buying themes are already covered. Test a more specific contribution around a recent concrete decision: need, evidence, authority, implementation constraints and outcome. Include success and rational renewal as well as adverse cases. Differentiation and paid value remain hypotheses.
+
+## Current checkpoint and next package
+
+WP02 / F01 version 0.2 is prepared locally for user review. Start with [revised checkpoint notes](../06-client-checkpoints/week-one-v0.2/REVIEW-NOTES.md). The five-page plan and two-page prospectus are available as PDF and editable Word. All seven pages have been visually checked. Version 0.1 remains preserved; use version 0.2 for the next review.
+
+The [second review](../03-report/SECOND-REVIEW-READOUT.md) and its change list remain the rationale; their targeted changes have now been implemented. Nothing has been sent. The user explicitly requires no external sending without permission. Primary population/geography, structure/length and working dates still need Nick's confirmation. WP03 prepares participant/data arrangements before collection.
+
+R02's completed desktop analysis establishes needs and consequences. The [R03 technology/delivery module](../03-report/modules/R03-technology-and-operating-model-tradeoffs.md), including its second challenge, maps response conditions: handoff and processing states, execution/authority/retained work, actual AI task/use, transition versus useful service/assessed benefit, continuing operation and the actual engagement/service unit. No product was tested or ranked. R04 now maps the actual dated decision, rights, knowledge basis and conditions. R04's second challenge is complete, including effective remit, organisation/contract level, mandate versus practice, acceptance object and relevant affected-party conditions. R05 and its second challenge now distinguish current scope/version, distribution, actual service/commitment, usable capacity and evidence-fit within cost/resource, cash, funding and delivery. R06 now distinguishes the actual object and dated decision/delivery/benefit states, continuity merit/constraints, component/notice stops and prospective versus observed buyer evidence. R06’s second challenge adds dated feasibility, observation limits, lifecycle/receiving readiness, other-party commitment/knowledge and affected-user continuity. R07 and its second challenge now separate priority meaning, actual commitment/resources, contextual mechanism and demonstrated case contrast, including origin, sequence, usable capability, actual work/remit and affected parties. R08 preparatory synthesis and its user-requested second challenge are now reviewed; final WP15 remains dependent on WP11 coded original practitioner contributions. The six-view framework and chapter map are a working structure, not completed practitioner findings. WP03 collection preparation is now reviewed and inactive. T01 public comparison research under WP12 is reviewed; next refine the T02 propositions while actual collection arrangements remain open. Do not repeat completed modules or resume unrelated outreach.
+
+## Collection preparation now available
+
+Use the [WP03 collection pack](../01-method/collection-pack-v0.1/START-HERE.md) for review. Its [review decisions](../01-method/collection-pack-v0.1/REVIEW-DECISIONS.json) preserve the agreement’s working JGA-controller/Riseklix-processor on-behalf arrangement and return/delete30days/backups90days terms, while distinguishing actual instructions and implementation still needed. The executed copy remains unretrieved. No new lawful basis, secure store, tool, transfer mechanism, notice or participant permission is presumed.
+
+The proposed low-burden route uses manual notes or written input, without recording or external AI/transcription by default, only after actual arrangements are approved. Six to ten distinct verified eligible report contributors and up to four substantive Table events remain separate units; permissioned substantive overlap counts each report person once. No-case input can be useful, all probes remain selective and publication clearance is separate from analysis usability.
+
+The five grouped release decisions concern focus/introduction/timing, actual dataflow/access, JGA notice/instructions/contact route, publication/optional uses, and user permission for the exact message/route. The pack is prepared, not fieldwork-ready. Current QA is `08-qa/WP03-completion-check.json`. T01 public Table comparisons are now reviewed and T02 propositions remain draft while these decisions are settled; finalWP15 still requires actual coded original contributions.
+
+## Table comparison now reviewed
+
+The [T01 readout](../04-table/T01-DESKTOP-READOUT.md) integrates six distinct mechanisms: sponsored research, licensed intelligence, payroll support membership, research community, senior payroll forum and sponsor-funded executive events. Direct payroll and adjacent HR/L&D offers are explicitly separated. Their commercial units, participant value, public rights, operating work and limits are retained in six detailed reviews and [the matrix](../04-table/T01-COMPARABLE-MATRIX.md).
+
+The canonical register now contains **217 source routes, 407 claims/guardrails and 81 preserved internal findings**. 146 source records retain originals in primary capture fields. T01 appended 26 routes and 52 bounded records; 26 new raw HTML pages, separate extracts, 3 PDF page renders and explicit canonical/catalogue reuses are retained. No existing claim or finding was rewritten. Independent source and integrated review passed, with 120 baseline files preserved. Current QA is `08-qa/T01-completion-check.json`.
+
+The [T02 propositions](../04-table/T02-PROPOSITION-WORKING-NOTE.md) are four untested hypotheses, not buyer/member validation or agreed product terms. Research use, partner funding and practitioner participation remain distinct; an event is a possible incremental mechanism. No comparator price is a JGA financial input. The UK pilot, annual programme, partner demand, final rights and cash/resource economics remain undecided. Next refine T02, then collect actual authorised input through the existing arrangements when ready. T03 and T04/T05 are not completed.
+
+## Still open
+
+R02–R08 practitioner integration and final-use checks; final R08 framework/report synthesis; user/client review of the revised draft outline/questionnaire; practitioner introductions and contributions; Table buyer/member validation, final model-use checks and commercial definitions; financial workbook; synthesis and finished client files. The first checkpoint draft does not complete the final questionnaire/templates, publication or commercial preview. No source conflict has been silently resolved by choosing a favourable figure.
+
+No people were contacted or interviewed, no forms submitted, and no purchases, bookings, private account access or public uploads occurred during this project research work.
+
+## Resume rule
+
+Read this file, scope baseline, master plan, latest decisions and checkpoint review notes first. Preserve the review version, do not infer approval, and review the prepared WP03 collection pack and reviewed T01 comparisons, make necessary checkpoint revisions and refine T02 propositions. Do not repeat the six-model desk review unless new evidence or a targeted challenge warrants it. Preserve the reviewed R08 preparation; final synthesis requires actual coded practitioner contributions and no dependency is inferred complete. Keep historical source audits and update statuses accurately. Do not resume unrelated expired outreach.
+
+## Second review on 28 October 2026
+
+Historical, economic, methodological and JGA/policy lenses support the direction and identify refinements: pre-proposal needs, intended/measured benefits, service boundaries and conditional future signals. That review recorded eleven internal design findings; R02 subsequently added seven. No new interview, commercial validation or client-file change occurred. Existing figure conflicts remain held, including the two additional Deloitte numerical holds from R02.

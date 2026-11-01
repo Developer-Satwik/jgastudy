@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5O-S01",
+      "title": "Camden public-health qualitative planning and resource guidance",
+      "publisher": "Camden Health and Wellbeing",
+      "url": "https://jsna.camden.gov.uk/guidance/qualitative-methods/talk-based-methods/planning-and-design/index.html",
+      "final_url": "https://jsna.camden.gov.uk/guidance/qualitative-methods/talk-based-methods/planning-and-design/index.html",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-31T18:00:43.783620+00:00",
+      "source_type": "primary_method_or_project_context",
+      "review_status": "relevant_original_sections_inspected",
+      "published_date": null,
+      "date_note": "Accessed31October2026; no numeric JGA workload is validated. QUADRAprojectdescribesJuly2026\u2013March2027plannedwork.",
+      "capture_path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S01.html",
+      "capture_sha256": "38ca45ab2a0da84059391670cf94ce9940f071f1425f7031513497f92cbbc474",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S01.txt",
+      "parsed_sha256": "13180dbfebbfcc26dc613a352bcd03c1a6b5fb71d85a69df8705595c0355a240",
+      "limitations": "Public-health interview-planning analogy, not a payroll cost benchmark, JGA duty or instruction to reduce agreed scope or alter collection modes."
+    },
+    {
+      "candidate_id": "T5O-S02",
+      "title": "UK Data Service QUADRA-AI planned qualitative infrastructure project",
+      "publisher": "UK Data Service",
+      "url": "https://ukdataservice.ac.uk/about/research-and-development/quadra-ai/",
+      "final_url": "https://ukdataservice.ac.uk/about/research-and-development/quadra-ai/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-31T18:00:48.414467+00:00",
+      "source_type": "primary_method_or_project_context",
+      "review_status": "relevant_original_sections_inspected",
+      "published_date": null,
+      "date_note": "Accessed31October2026; no numeric JGA workload is validated. QUADRAprojectdescribesJuly2026\u2013March2027plannedwork.",
+      "capture_path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S02.html",
+      "capture_sha256": "6f42c9b7815a8284c099b07861e50c9c4fc372528bc84c386bdbb809c364bc58",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S02.txt",
+      "parsed_sha256": "c301bc1004c964dfc25e8d17d19e5449a60d1f8aa6fea94ea056913c048e8fa9",
+      "limitations": "Project intention and planned outputs, not completed JGA tool capability, measured hours saved or authorised processing of participant material."
+    }
+  ]
+}

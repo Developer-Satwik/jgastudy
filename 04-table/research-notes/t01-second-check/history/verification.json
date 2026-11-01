@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_internal_source_and_lifecycle_review",
+  "checks": [
+    {
+      "name": "new original exists T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "new original hash T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "derived text hash T1H-S01",
+      "passed": true
+    },
+    {
+      "name": "new original exists T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "new original hash T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "derived text hash T1H-S02",
+      "passed": true
+    },
+    {
+      "name": "reuse retains original SRC-0240",
+      "passed": true
+    },
+    {
+      "name": "reuse original unchanged SRC-0240",
+      "passed": true
+    },
+    {
+      "name": "reuse retains original SRC-0241",
+      "passed": true
+    },
+    {
+      "name": "reuse original unchanged SRC-0241",
+      "passed": true
+    },
+    {
+      "name": "reuse retains original SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "reuse original unchanged SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "reuse retains original SRC-0224",
+      "passed": true
+    },
+    {
+      "name": "reuse original unchanged SRC-0224",
+      "passed": true
+    },
+    {
+      "name": "reuse retains original SRC-0225",
+      "passed": true
+    },
+    {
+      "name": "reuse original unchanged SRC-0225",
+      "passed": true
+    },
+    {
+      "name": "reuse retains original SRC-0226",
+      "passed": true
+    },
+    {
+      "name": "reuse original unchanged SRC-0226",
+      "passed": true
+    },
+    {
+      "name": "claim sources resolve T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "claim scope and locator T1H-C01",
+      "passed": true
+    },
+    {
+      "name": "claim sources resolve T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "claim scope and locator T1H-C02",
+      "passed": true
+    },
+    {
+      "name": "claim sources resolve T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "claim scope and locator T1H-C03",
+      "passed": true
+    },
+    {
+      "name": "claim sources resolve T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "claim scope and locator T1H-C05",
+      "passed": true
+    },
+    {
+      "name": "claim sources resolve T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "claim scope and locator T1H-C06",
+      "passed": true
+    },
+    {
+      "name": "claim sources resolve T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "claim scope and locator T1H-C07",
+      "passed": true
+    },
+    {
+      "name": "live original archive contains October2026 issue",
+      "passed": true
+    },
+    {
+      "name": "retained retrospective directly names Nick moderator role",
+      "passed": true
+    },
+    {
+      "name": "Accomplishments parsed shell is not substantive collaboration evidence",
+      "passed": true
+    },
+    {
+      "name": "application shell excluded from source candidates",
+      "passed": true
+    },
+    {
+      "name": "bounded two new sources six distinct claim records after cross-pack renewal deduplication",
+      "passed": true
+    }
+  ],
+  "check_count": 35,
+  "new_source_candidates": 2,
+  "canonical_reuses": 6,
+  "claim_candidates": 6,
+  "actual_participants": 0,
+  "financial_inputs": 0,
+  "browser_evidence_obtained": false,
+  "commercial_validation": false,
+  "deduplication": "Removed direct renewal candidateT1H-C04 in favour of marketT1M-C07; no canonical claim had been created."
+}

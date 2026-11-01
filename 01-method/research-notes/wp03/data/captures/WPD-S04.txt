@@ -1,0 +1,317 @@
+Are we making a restricted transfer | ICO
+Skip to main content
+Home
+The ICO exists to empower you through information.
+Search
+Search
+Search
+Menu
+Home
+For the public
+For organisations
+Make a complaint
+Action we've taken
+About the ICO
+For organisations
+UK GDPR guidance and resources
+International transfers
+A guide to international transfers
+Are we making a restricted transfer
+Are we making a restricted transfer
+Contents
+Search this document
+A guide to international transfers
+What is an international transfer of personal information?
+Are we making a restricted transfer
+How do we comply with the transfer rules if we're initiating the restricted transfer?
+What are our other key UK GDPR obligations in the context of international transfers?
+In detail
+Are we making a restricted transfer?
+Step one: Does the UK GDPR apply to our processing of the personal information we’re transferring?
+Step two: Are we initiating the transfer of personal information to an organisation outside the UK?
+Step three: Is the organisation we’re transferring the personal information to a separate legal entity from us?
+Are we making a restricted transfer when we receive personal information from outside the UK?
+Are we responsible for complying with the transfer rules?
+Are we making a restricted transfer if the receiver of the information is also subject to the UK GDPR?
+Is it a restricted transfer if an organisation located outside the UK makes an onward transfer?
+Are we making a restricted transfer if we’re storing information on servers located outside the UK?
+Are we making a restricted transfer if we use cloud services?
+Are we making a restricted transfer if we transfer paper records?
+Are we making a restricted transfer if we send someone their own personal information?
+Are we making a restricted transfer if we transfer pseudonymised personal information?
+Do we need to make a restricted transfer?
+What practical steps can we take?
+Are we making a restricted transfer?
+It is helpful to consider our three step test to decide if you’re making a restricted transfer. You should ask yourself:
+Does the UK GDPR apply to our processing of the personal information we’re transferring? Remember, you’re considered to be processing personal information even when your processor is doing the processing on your behalf.
+Are we initiating the transfer of personal information to an organisation which is located outside the UK?
+Is the organisation we’re transferring the personal information to a separate legal entity from our own?
+If you answer ‘yes’ to all these questions, you’re making a restricted transfer, and the transfer rules apply.
+We cover each of these questions in more detail in the following sections.
+Step one: Does the UK GDPR apply to our processing of the personal information we’re transferring?
+The UK GDPR applies if:
+your organisation is established within the UK, meaning it has a stable UK presence and carries out real and effective activities in the UK, and your processing is carried out by (or inextricably linked to) that establishment; or
+another part of your corporate group outside of the UK is processing the information, and that processing is inextricably linked to your UK establishment; or
+your organisation is located outside the UK and your processing of personal information is related to:
+an offering of goods and services to data subjects in the UK (this must specifically target the UK); or
+the monitoring of data subjects’ behaviour in the UK.
+The UK GDPR doesn’t apply if you only use personal information for purely personal, family or household reasons. For example, this could include personal correspondence and blogs or social media activity with no connection to a professional or commercial activity.
+Example
+An Australian retailer advertises and sells shoes via its website to people in the UK.
+The retailer is located outside the UK, but it is using personal information for an offering of goods to people in the UK. Therefore, its processing is governed by the UK GDPR.
+Example
+A German organisation instructs a UK company to process personal information. The German organisation’s processing isn’t subject to the UK GDPR.
+The UK company uses a processor located outside the UK to help with the processing. The transfer from the UK company to its processor is subject to the UK GDPR.
+Although the German organisation’s processing isn’t subject to the UK GDPR, the UK company’s processing is subject to the UK GDPR.
+Further reading – ICO guidance
+Personal information – what is it?
+A guide to the data protection exemptions
+Step two: Are we initiating the transfer of personal information to an organisation outside the UK?
+If you determine that your processing of the information to be transferred is subject to the UK GDPR, move to step two. In this step, you should consider whether you’re initiating the transfer of that information to an organisation outside the UK.
+Why does ‘making personal information accessible’ matter?
+A transfer isn’t just about sending personal information. It can also mean making personal information accessible. So, your answer to step two is ‘yes’ if you’re making personal information held in the UK accessible to a separate organisation located outside the UK. This may include, for example, allowing the organisation remote access to your systems.
+A restricted transfer takes place when an organisation located outside the UK accesses the information. At the point you make the information accessible, you must ensure any restricted transfer that may take place is covered by the one of the transfer mechanisms (ie adequacy regulations, appropriate safeguards or an exception).
+Example
+A UK business enters into an IT support contract with an Indian company. The information remains on the UK business’ servers in the UK. The IT support team located in India may access the information via a VPN when maintenance is required.
+A restricted transfer takes place when the Indian company accesses the information on the UK servers.
+However, the UK business ensures a transfer mechanism is in place (eg appropriate safeguards) at the point when it makes the information accessible and before any restricted transfer takes place.
+Why is step two ‘initiating the transfer’ rather than just ‘transferring’ the personal information?
+Often, data flows are complex and involve numerous organisations. The UK GDPR is clear that either the controller or the processor (and not both) is responsible for compliance with the transfer rules. This guidance clarifies which organisations must comply with the transfer rules when controllers, joint controllers, processors and sub-processors are involved in transfers.
+This is not just about who transfers the information. It’s about who initially chooses to make the transfer happen as part of their processing purposes or service delivery.
+Initiating a transfer is making the initial decision that causes the transfer to happen. This is different from authorising it (as required under article 28 obligations).
+Our rule of thumb is: you’re not initiating the transfer if you didn’t design the transfer structure or architecture, nor initially chose the receiver.
+You should follow the contractual relationships. There are some simple indicators of whether you’re initiating a transfer:
+Where you’re a controller transferring personal information to your processor located outside the UK, you’re initiating the transfer.
+Where your processor located in the UK transfers personal information to its sub-processor located outside the UK, your processor is initiating the transfer (with your authorisation as the controller).
+Where you’re a controller with separate contracts with processor A and processor B, and you instruct processor A to transfer personal information to processor B, you’re initiating the transfer. If you have a separate contract with the receiver (ie processor B), this indicates that you’re initiating the restricted transfer.
+Where you use a service provider (which is acting as your processor) that designs a service involving multiple parties and sells that service as a package to you, your service provider is initiating the transfers to those other parties. Your service provider will have contracts with those other parties.
+If you didn’t initiate the restricted transfer, you may still have contractual and UK GDPR obligations for that transfer. See What are our other key UK GDPR obligations in the context of international transfers?
+Example
+An Australian retailer advertises and sells shoes via its website to people in the UK. Its processing of this information is governed by the UK GDPR.
+The retailer uses an Australian processor to run its website, and a UK logistics company to deliver the shoes.
+There’s a restricted transfer from the Australian shoe company to its Australian processor, even if the information flows directly from the UK customers when they place their orders on the website.
+The restricted transfer of information is initiated by the Australian shoe company and its processing of that information is governed by the UK GDPR.
+Example
+A UK controller has two processors. The first is located in the UK and provides general human resources (HR) services. The other is located in Mexico and provides HR analytics. The UK controller has a separate contract with each processor.
+The UK controller instructs its UK processor to send certain files to the Mexican processor. These files contain the personal information of the controller’s employees.
+In this situation, the UK controller is initiating the restricted transfer to the Mexican processor. The UK controller designs the transfer structure and chooses the receiver.
+Therefore, the UK controller is responsible for complying with the transfer rules, even though the UK processor actually sends the information.
+The UK processor still has contractual and UK GDPR obligations for its processing activities. But it’s not responsible for complying with the UK GDPR transfer rules.
+Example
+A UK healthcare company has an agreement with a UK processor for data analytic services on its patient information.
+The UK processor has an agreement with a sub-processor located outside the UK to carry out some of its analytics. The UK healthcare company authorises its UK processor to use the sub-processor.
+The UK processor asks the UK healthcare company to transfer the relevant personal information of its patients directly to the sub-processor outside the UK.
+The UK processor initiates the restricted transfer to its sub-processor outside the UK, even though the information flows directly from the controller (ie the UK healthcare company). As such, the UK processor must comply with the UK GDPR transfer rules.
+Is it the geographical or contractual location of the personal information that is important?
+When we talk about transferring outside the UK, we’re talking about where the receiving organisation is based. This means where that organisation is established, not the actual geographical location of the information itself.
+For a company or registered partnership, the relevant place of establishment is the country in which it is registered.
+However, if it’s a registered overseas branch of a company, the relevant country is the location of that registered branch. This is not the same as if you’re transferring personal information to the registered overseas branch of your own company. See step three below.
+If you’re dealing with an individual representative or local office (of whatever size) which is not a registered branch, you make your transfer to the country where the company is actually registered.
+For other types of organisations (eg sole traders or unregistered partnerships) the relevant country is usually the organisation's main place of business. This is likely to be set out in your contract with that organisation.
+However, the geographical location of the receiver’s processing is relevant to your other responsibilities under the UK GDPR. See:
+What are our other key responsibilities if we’re a controller in relation to restricted transfers?; and
+What are our other key responsibilities if we’re a processor in relation to restricted transfers?
+Example
+A UK company uses the services of a company in the Netherlands to provide marketing services to its UK clients. The Netherlands company delivers these services through its UK subsidiary.
+The UK company sends the personal information of its UK clients to the UK subsidiary.
+This is still a restricted transfer, even though the personal information hasn’t left the UK. This is because the UK company is contracting with a company in the Netherlands.
+What about when we’re returning personal information to our controller which is outside the UK?
+If you’re a UK processor and your controller is located outside the UK, you’re never making a restricted transfer when you transfer information to your controller, providing you’re:
+only handling the personal information as a processor under the instructions of your controller; and
+transferring the personal information to the same controller that instructed you to do the processing.
+This is because in this situation your controller is initiating the transfer, ie your controller instructs you to transfer the information to it.
+It’s also not a restricted transfer by your controller as the information is flowing to the controller itself, and not to a separate organisation (see step three below).
+The same principle applies when a sub-processor located in the UK transfers information to its processor located outside the UK.
+However, if you’re processing personal information under the EU GDPR, and following European Data Protection Board guidance, the position is different.
+These would be considered ‘restricted transfers’ by the EU processors or sub-processors.
+A Bolivian company uses a UK processor to store and manage its customer database.
+The Bolivian company instructs the UK processor to return all the personal information back to it.
+The UK processor isn’t making a restricted transfer in this situation. This is because it isn’t initiating the transfer.
+The Bolivian company also isn’t making a restricted transfer. The information is flowing to itself and not to a separate organisation (see step three below).
+Similarly, the Bolivian company may instruct the UK processor to forward all the personal information to a new replacement processor in Bolivia.
+In this case, the UK processor isn’t making a restricted transfer because it isn’t initiating the transfer.
+The Bolivian company also isn’t making a restricted transfer when the UK processor sends the personal information to the Bolivian processor. This is because the Bolivian company’s processing isn’t subject to the UK GDPR.
+Step three: Is the organisation we’re transferring the personal information to a separate legal entity from us?
+You should consider if the organisation you’re transferring the personal information to is a separate legal entity to you.
+This includes transfers to another company within the same corporate group, as each company is a separate legal entity.
+You’re not making a restricted transfer when you transfer personal information within the same legal entity as you. For example, if:
+you send personal information to another employee in the same organisation when they’re outside the UK; or
+one of your employees uses their work device to access your UK systems whilst on holiday outside the UK.
+This includes employees working in your company branches.
+If you allow your employees, to receive or access personal information, you must put in place appropriate security measures to prevent unauthorised access to the personal information while they're outside of the UK.
+You’re also not making a restricted transfer when you send personal information to any branch of your company (whether or not it is a registered branch). This is not the same as if you’re transferring personal information to the registered overseas branch of another company. See Step two: Are we initiating the transfer of personal information to an organisation outside the UK?
+Example
+A UK company has employees working abroad. These employees access the company’s systems and databases in the UK via a VPN. This includes access to UK customers’ personal information.
+This isn’t a restricted transfer. Step three of the three step test isn’t met:
+Step one is met: The UK company’s processing is subject to the UK GDPR.
+Step two is met: The UK company initiates the transfer by making personal information accessible to its employees outside the UK.
+Step three isn’t met: The employees are part of the UK company (ie the same legal entity).
+However, there is a restricted transfer if a contractor (eg a separate sole trader) rather than an employee accesses the personal information. This is because the UK company and the contractor are separate legal entities.
+Example
+A UK travel company sells holidays to Australia. It sends the personal information of UK customers who buy holidays to the Australian hotels it has chosen to secure their bookings.
+This is a restricted transfer. The three step test is met:
+Step one: The UK GDPR applies to the UK travel company’s processing.
+Step two: The UK travel company initiates the transfer of personal information to the hotels located outside the UK.
+Step three: The UK travel company and the Australian hotels are separate legal entities.
+Example
+A UK company uses a centralised human resources service in the US, provided by its US parent company. The UK company passes information about its employees to its US parent company in connection with the HR service.
+This is a restricted transfer. The three step test is met:
+Step one: The UK GDPR applies to the UK company’s processing.
+Step two: The UK company initiates the transfer of personal information outside the UK.
+Step three: The UK company and the US parent company are separate legal entities.
+Example
+A UK company uses the IT support services offered by its US parent company rather than employing its own local IT experts. The UK company enables the IT team at the US parent company to remotely access its devices via a VPN to provide IT support.
+This is a restricted transfer. The three-step test is met:
+Step one: The UK GDPR applies to the UK company’s processing.
+Step two: The UK company makes personal information accessible to its US parent company (the UK company initiates this transfer by enabling access).
+Step three: The US parent company is another company within the same corporate group, so it’s a separate legal entity.
+The UK company is responsible for complying with the transfer rules because it initiates the transfer to its US parent company.
+Example
+A UK processor is doing processing work for a US-based controller. The UK processor uses a sub-processor based in Germany to do some of the work.
+The transfer to the sub-processor in Germany is a restricted transfer. The three step test is met:
+Step one: The UK GDPR applies to the UK processor’s processing.
+Step two: The UK processor initiates the transfer of personal information to its sub-processor outside the UK.
+Step three: The UK processor and the sub-processor are separate legal entities.
+The UK processor is responsible for complying with the transfer rules as it initiates the transfer to its sub-processor in Germany.
+Are we making a restricted transfer when we receive personal information from outside the UK?
+Transfers of personal information to the UK (ie inbound transfers) aren’t restricted transfers under the UK GDPR. Even if the UK GDPR applies to the organisation sending the information, it is not transferring the information to a separate organisation that is located outside the UK.
+This isn’t the same as organisations located outside the UK accessing personal information that is in the UK. In this situation, you’re making an outbound transfer by making the information accessible to the organisation outside the UK.
+See Step two: Are we initiating the transfer of personal information to an organisation outside the UK?
+Example
+An Australian retailer advertises and sells shoes via its website to people in the UK. The retailer’s processing of its customers’ information is governed by the UK GDPR.
+The Australian retailer uses a UK logistics company to package, label and deliver the shoes. The retailer isn’t making a restricted transfer under the UK GDPR, as the logistics company is in the UK. This is an inbound transfer.
+Example
+A UK company has a parent company in Brazil. The parent company allows the UK company access to its database in Brazil. This isn’t a restricted transfer under the UK GDPR, because it’s an inbound transfer.
+If the UK company allows its parent company in Brazil to access its database in the UK, then this is an outbound transfer. The UK company uses the three step test to help it decide if it’s a restricted transfer.
+Are we responsible for complying with the transfer rules?
+Remember, you’re only responsible for complying with the UK GDPR transfer rules if your organisation initiates restricted transfers.
+See Step two: Are we initiating the transfer of personal information to an organisation outside the UK?
+Even if you’re not responsible for the transfer, you have other obligations or responsibilities under the UK GDPR. For further information, see What are our other key UK GDPR obligations in the context of international transfers?
+Are we making a restricted transfer if the receiver of the information is also subject to the UK GDPR?
+Yes, the transfer rules apply even when the receiver of the information is subject to the UK GDPR.
+Are we making a restricted transfer if an organisation located outside the UK makes an onward transfer?
+An onward transfer happens when an organisation located outside the UK:
+receives a restricted transfer of personal information; and
+further transfers the information on to a separate organisation also located outside the UK.
+This onward transfer is a restricted transfer only if the first receiving organisation’s processing of the personal information is subject to the UK GDPR. You can use our three step test to help you decide.
+For further detail on any additional steps you may need to take, see:
+If we’re initiating a restricted transfer to a controller, what checks should we make about that controller?; or
+If we’re initiating a restricted transfer to a processor, what checks should we make about that processor?
+Example
+The UK GDPR applies to the processing done by a marketing company located outside the UK. The marketing company receives a restricted transfer of personal information from the UK. It initiates a new transfer and sends the information to a separate organisation, also outside the UK. This is an onward transfer.
+The onward transfer is a restricted transfer, as the UK GDPR applies to the marketing company making the transfer. The three step test is met.
+The marketing company must comply with the UK GDPR transfer rules.
+Example
+The UK GDPR doesn’t apply to the processing done by undertaken by a logistics company located outside the UK. The logistics company receives a restricted transfer of personal information from the UK. It initiates a new transfer and sends the information to a separate organisation, also outside the UK. This is an onward transfer.
+The onward transfer isn’t a restricted transfer, as the UK GDPR doesn’t apply to the logistics company making the transfer. In this case, step one of the three step test isn’t met.
+The logistics company doesn’t need to comply with the UK GDPR transfer rules.
+Are we making a restricted transfer if we’re storing information on servers located outside the UK?
+Storing personal information is considered processing activity, so it’s governed by the UK GDPR.
+When considering whether a transfer of personal information to servers located outside the UK is a restricted transfer, you should consider the following questions:
+Does your organisation own and operate the servers itself?
+If yes, it doesn’t matter where the servers are geographically located. Transfers between different parts of the same legal entity aren’t restricted transfers.
+Are you contracting with a separate organisation to provide storage services?
+If the service provider is a UK company, you’re not making a restricted transfer, even if the servers are geographically located outside the UK.
+If the service provider is located outside the UK, you’re making a restricted transfer, even if the servers are geographically located in the UK.
+Is your UK service provider subcontracting to a company outside the UK (typically a processor to sub-processor arrangement)?
+The UK service provider is making a restricted transfer to the sub-contractor located outside the UK.
+The contractual location of where the service provider is established determines whether a transfer is a restricted transfer. The transfer status is not based on the geographical location of the servers where the information is stored.
+Are we making a restricted transfer if we use cloud services?
+Many businesses rely on cloud services for their day-to-day operations. Common examples include using cloud-based document storage solutions or platforms, such as HR and CRM platforms.
+When you use a cloud service, personal information may be processed:
+To set up and manage individual user accounts and logins. This is likely to include the names and contact details of your employees together with details of how often they use the cloud service and what specific actions they take when using it.
+To deliver the intended purpose of the cloud service itself. For example, a document storage solution will process any personal information contained within your stored documents. An HR platform will process detailed and often sensitive information about your employees.
+To ensure that the service works as intended and that any technical problems can be resolved. For example, if you find that a particular function is not working properly, you may allow an IT engineer to remotely access your system to fix it.
+Many large cloud providers are headquartered in the United States but operate globally through regionally incorporated subsidiaries that are legally separate entities. To ensure you’re complying with UK GDPR when using cloud services, you should consider:
+whether there is a restricted transfer of personal information between you and your cloud service provider (CSP); and
+what measures your CSP (ie your processor) has put in place to ensure that your personal information remains protected when it is transferred by the CSP to its global network of processors.
+You should carefully review the terms provided by your CSP to ensure you know which specific legal entity you're contracting with.
+If you’re contracting with a UK entity, there will be no restricted transfer between you and the CSP as a result of your use of the cloud services. If you’re contracting with an entity outside of the UK, it’s very likely that you’ll be making a restricted transfer to the CSP. You should work through our three step test to check this.
+You should also ensure that you understand how your information will be transferred by your CSP (whether it is based in the UK or outside the UK) to its global network of processors. Your CSP will need to comply with any contractual obligations it has in respect of such transfers. If your CSP is a UK entity subject to UK GDPR, it must also comply with the rules applicable to restricted transfers in the UK GDPR.
+Large CSPs typically offer standard terms that are published online, together with a range of supporting documents to help their customers better understand how the cloud service works and is kept secure. Much of the information that you will need can be found in these documents. You could also contact your CSP to request further information if needed.
+Are we making a restricted transfer if we transfer paper records?
+In today’s data-driven world, most paper records are digitised for the purpose of making transfers (eg paper records are scanned and emailed). However, paper records are still sometimes physically transferred (eg by post).
+The UK GDPR doesn’t apply to unstructured paper records unless:
+they form part of a filing system structured according to specific criteria; or
+the records are intended to be added to such a system or digitised.
+An exception to this is if you’re a UK public authority. In this instance, unstructured paper records are always personal information, so the UK GDPR applies.
+If you transfer unstructured paper records to another organisation with the intention that they will be incorporated into a filing system or digitised, the UK GDPR applies to that processing. This is a restricted transfer if you initiate the transfer of the unstructured paper records to a separate organisation, unless the receiver is your controller.
+A UK insurance broker sends a set of notes about individual customers to a company outside the UK. The broker doesn’t store these handwritten notes on a computer or keep them in any particular order.
+However, the company outside the UK intends to add the notes to a computer customer management system. This is a restricted transfer.
+Are we making a restricted transfer if we send someone their own personal information?
+The transfer rules don’t apply if you send someone their own personal information. The UK GDPR doesn’t apply in this situation because the person receiving the information isn’t a controller or a processor. In this case, step one of our test is not met.
+This includes responding to a subject access request (SAR) from a person located outside the UK. Sending a person’s personal information directly to them in response to a SAR is not a restricted transfer, regardless of where in the world that person is located. However, you must consider your other obligations under the UK GDPR, including sending the information securely.
+Sometimes, the person requesting their personal information has a separate organisation outside the UK acting on their behalf. In such cases, sending the person’s information to that organisation isn’t a restricted transfer. This is because the person the information is about is still the receiver, even though they are acting through an agent.
+In this situation, you should satisfy yourself that the person requesting their information has given authority for the organisation to act on their behalf.
+Further reading – ICO guidance
+Dedicated subject access (SAR) guidance and resources
+Are we making a restricted transfer if we transfer pseudonymised personal information?
+Pseudonymisation refers to techniques that replace, remove or transform information that identifies a person and keep that information separate.
+It’s a way of reducing risk and improving security.
+Pseudonymised personal information is still “personal data” under the UK GDPR.
+If the pseudonymised information is personal information in your hands, it’ll also be personal information in the hands of any joint controllers, regardless of their technical or contractual ability to identify the people it relates to (ie regardless of whether you share the key or mapping table).
+Similarly, a processor only processes personal information on your behalf. This means the status of the information in your hands is what matters, so it will also be a restricted transfer when you send pseudonymised personal information to your processor too (ie regardless of whether you share the key or mapping table).
+If you share pseudonymised information (but not the key or mapping table) with another organisation that isn’t a joint controller of that information and isn’t your processor, it may be anonymous information in their hands. If the information is anonymous, it’s no longer considered personal information, and the UK GDPR doesn’t apply. Therefore, in this situation, you’re not making a restricted transfer.
+Further reading – ICO guidance
+Pseudonymisation
+How do we ensure anonymisation is effective?
+Do we need to make a restricted transfer?
+Before making a restricted transfer, you must check if you can achieve your aims without sending (or allowing access to) personal information to an organisation located outside the UK.
+For example, you could consider whether you can anonymise the personal information before transferring it. If you can make it anonymous so that it’s never possible to identify people, this is no longer personal information, and the UK GDPR doesn’t apply.
+Further reading – ICO guidance
+Introduction to anonymisation
+What practical steps can we take?
+It can be complex to navigate international transfers in the context of global business.
+You should understand the basics and take practical steps to help you understand:
+whether you need to make a restricted transfer; and
+how to apply the rules to your circumstances.
+To help you do this, you could:
+consider the factual situation and ensure you understand, for example:
+which separate legal entities are involved; and
+what capacity each party is acting in (ie as a controller, joint controller or processor?); and
+map out the contracts and flows of personal information between you and the organisations located outside the UK that you’re transferring personal information to.
+This mapping can help you to:
+do your due diligence;
+ensure you know where the personal information is going;
+identify any restricted transfers and whether you’re responsible for complying with the rules; and
+decide on the most appropriate mechanism for your transfer(s).
+Previous
+What is an international transfer of personal information?
+Next
+How do we comply with the transfer rules if we're initiating the restricted transfer?
+Back to top
+Print this page
+For the public
+Official information
+Nuisance calls
+For organisations
+UK GDPR guidance and resources
+Freedom of information
+EIR and access to information
+Direct marketing
+Advice and services
+Action we've taken
+Enforcement action
+Decision notices
+Audits and overview reports
+About the ICO
+Download registration certificate
+Who we are
+What we do
+Media centre
+Careers
+Modern slavery statement
+Follow us
+LinkedIn
+Facebook
+X
+YouTube
+The ICO exists to empower you through information.
+Contact us
+Privacy notice
+Cookies
+Accessibility
+Cymraeg
+Disclaimer
+© Copyright
+All text content is available under the Open Government Licence v3.0, except where otherwise stated.

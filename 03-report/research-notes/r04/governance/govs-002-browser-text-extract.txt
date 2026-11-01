@@ -1,0 +1,176 @@
+Capture type: browser/search-tool parsed text extract, not a retained original HTML or PDF.
+Captured on: 2026-10-29
+
+Government Functional Standard GovS 002: Project delivery (HTML) - Government Project Delivery (https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/)
+citeturn502view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn472view0","lineno":216}); Total lines: 1297
+L167:   5. governance and management frameworks and the control environment are proportionate and appropriate to the nature and complexity of the work and the level of risk
+L168:   6. work is appropriately defined, planned, monitored and controlled, quality is actively managed to maximise the likelihood of success, and defined working methodologies are tailored for use accordingly
+L169:   7. work is undertaken in multidisciplinary teams and is assigned to people who have the required capability and capacity
+L170:   8. the transition of capabilities to operations is planned, and portfolio, programme or project closure managed, with ongoing operational responsibilities agreed and accepted
+L171:   9. experience and lessons are captured, shared and used to promote future performance improvement
+L172:   10. public service codes of conduct and ethics and those of associated professions are upheld
+L173: ## 3. Context
+L174: ### 3.1 Introduction
+L175: 
+L176: This section provides essential background information for the use of this functional standard.
+L177: 
+L178: Note: see The Teal Book [16] for further guidance on the 【82†context of project delivery in government】.
+L179: Portfolio, programme and project management is an integrated way of meeting the government’s ambitions, driving better decisions and increasing the likelihood of successful outcomes. Collectively, portfolio, programme and project management are referred to in government as project delivery.
+L180: ### 3.2 Policy and evaluation
+L181: 
+L182: Public policy represents the government’s role in improving the welfare, security and prosperity of the nation and is concerned with:
+L183: 
+L184:   * developing and improving government strategies
+L185:   * ensuring democratic accountability
+L186:   * overseeing delivery
+L187: Policy interventions can take many forms and those which are extensive and complex to implement can be managed using project delivery, involving policy makers and project delivery professionals working together as a team (see 6.4.2).
+L188: Evaluation is the systematic assessment of the design, implementation and outcomes of a policy intervention. Evaluation is built into the portfolio, programme and project plans in order to collect evidence and understand the impact and value for money of a policy intervention.
+L189: 
+L190: Note: further information and guidance on evaluation can be found in the 【83†Magenta Book (requires sign in)】 [17].
+L191: ### 3.3 Portfolios, programmes, projects and other related work
+L192: 
+L193: A portfolio comprises part or all of an organisation’s investment required to achieve its objectives. Governed through its portfolio (or business) plan, a portfolio comprises work components, such as other portfolios, programmes, projects and other related work.
+L194: A programme is a unique, temporary, flexible organisation created to co-ordinate, direct and oversee the implementation of a set of projects and other related work to deliver outcomes and benefits related to a set of strategic objectives. Programmes can be undertaken in one or more tranches (phases), each of which is structured around distinct step changes in the solution delivered and the resultant benefit realised.
+L195: A project is a unique, temporary management environment, undertaken in stages, created for the purpose of delivering one or more business products or outcomes. A project might be standalone within a portfolio or part of a programme. Other related work, not managed as a programme or a project, might include:
+L196:   * support services (see 4.4.11), solution architecture, finance and human resources
+L197:   * ongoing improvement initiatives not run as projects, but using a defined approach, such as agile delivered platform-based upgrades (see Annex D), six sigma and LEAN service delivery, business as usual operations
+L198: 
+L199: Note: for example, stages can represent agile releases and work packages can represent sprints.
+L200: A work package is a set of information relevant to the creation of one or more deliverables or outputs. It comprises a description of the outputs required, work plan and details of any constraints.
+L201: 
+L202: Figure 2 shows the hierarchical relationship between work components, with each higher-level component comprising the sum of all connected lower-level components.
+L203: 【84†Image: The relationships between the organisation and its portfolios, programmes, projects, other related work and work packages】Figure 2 Example relationships of work components in a project delivery hierarchy
+L204: 
+L205: Work components may cross organisational and departmental boundaries.
+L206: Note: the use of the terms ‘project’ and ‘programme’ is not always indicative of the formal definitions in this standard; however, the distinction is important when designing a programme or project governance and management framework.
+L207: ### 3.4 Working with different delivery approaches
+L208: 
+L209: This project delivery standard defines a number of practices needed for successful outcomes. It defines the why and the what for each but does not define how work is to be undertaken. For example, ‘agile’ approaches are needed in many cases but could be used at any point in the project delivery hierarchy (see Figure 3 Example showing where agile approaches can be used).
+L210: Note: delivery approaches may be predictive, incremental, iterative, adaptive or hybrid, including ‘agile’ approaches.
+L211: Nor, in the case of a project, does the standard define what the project life cycle stages should be, only that they can be mapped to the reference life cycle. The project might only include the delivery of outputs when the project is part of a programme, or could include an extended period of operation in other situations. The delivery approaches and stages need to be defined to suit the outputs and outcomes delivered and the delivery approaches taken.
+L212: In a project where the work is predominantly agile, the project stages of discovery, alpha, beta, live and retirement meet that requirement (see 【74†GovS 005, Digital†www.gov.uk】). Annex D includes some examples.
+L213: 【85†Image】Figure 3 Example showing where agile approaches can be used
+L214: ## 4. Governance
+L215: 
+L216: ### 4.1 Governance and management framework
+L217: 
+L218: #### 4.1.1 Overview
+L219: 
+L220: Governance comprises prioritising, authorising, directing, empowering and overseeing management, and assuring and reviewing performance.
+L221: 
+L222: Note: see The Teal Book [16] for further guidance on the 【86†governance and management of project delivery in government】.
+L223: #### 4.1.2 Governance of project delivery across government
+L224: 
+L225: A governance and management framework shall be defined and established at government level to monitor project delivery across government, which should include:
+L226: 
+L227:   * mandatory policies, process, data and other requirements together with associated guidance
+L228:   * requirements for assurance, tracking and reporting on the government’s major projects
+L229:   * the requirements and provision of expert support and assurance
+L230: Note: the 【87†NISTA Memorandum of Understanding†www.gov.uk】 [9] sets out a statement of the National Infrastructure and Service Transformation Authority’s role and the responsibilities of departments in regard to project delivery.
+L231: #### 4.1.3 Governance of project delivery in an organisation
+L232: 
+L233: The governance and management of project delivery within an organisation should be an integrated part of that organisation’s overall governance.
+L234: 
+L235: An organisation’s governance and management framework shall be:
+L236: 
+L237:   * defined and established at organisational level which complies with government and departmental policies and directives and with this standard
+L238:   * referenced from the respective Accounting Officer System Statement
+L239: The governance and management framework should include the authority limits, decision making roles and criteria, degree of autonomy, assurance needs, reporting structure, accountabilities and responsibilities together with the appropriate governance and management frameworks, as defined in clause 5.2 for portfolios and clause 6.2 for programmes and projects.
+L240: The governance and management framework should be designed to be tailored to reflect the level of prevailing risk, the competence of those individuals involved, and the work required.
+L241: #### 4.1.4 Governance of major projects
+L242: 
+L243: Programmes or projects meeting one or more of the following characteristics shall be referred to the HM Treasury spending team and the National Infrastructure and Service Transformation Authority for inclusion in the Government Major Project Portfolio (GMPP):
+L244:   * above the delegated authority limit for the organisation
+L245:   * could create pressures leading to a breach in departmental expenditure limits, administration cost limits, or estimates provision
+L246:   * would entail contractual commitments to significant levels of spending in future years for which plans have not been set
+L247:   * could set a potentially expensive precedent
+L248:   * is novel or contentious, or could cause significant repercussions, posing risks to the public sector
+L249:   * requires primary legislation or where HM Treasury consent is a statutory requirement
+L250: Programmes and projects not meeting the above criteria may be added to the Government Major Project Portfolio with the agreement of the National Infrastructure and Service Transformation Authority and HM Treasury spending team.
+L251: 
+L252: Government major projects shall be reported through the Government Major Projects Portfolio (see 7.5).
+L253: 
+L254: Note: see also 【88†Treasury approval process†www.gov.uk】 [12] and 【89†Treasury assurance frameworks†www.gov.uk】 [13].
+L255: ### 4.2 Assurance
+L256: 
+L257: #### 4.2.1 Overview
+L258: 
+L259: The purpose of assurance is to provide, through a systematic set of actions, confidence to senior leaders and stakeholders that work is controlled and supports safe and successful delivery of policy, strategy and objectives.
+L260: #### 4.2.2 Organisational assurance of project delivery
+L261: 
+L262: Organisations should have a defined and established approach to project delivery assurance, which should be applied proportionately to the risk and value of the activity, and which is integrated with the organisation’s overall assurance framework. Typically, assurance should be on at least three separate and defined levels including:
+L263:   * by, or on behalf of operational management that own and manage risk to ensure appropriate standards are being used
+L264:   * by, or on behalf of senior management, independent of operational management to ensure first level of assurance is properly designed, in place, and operating as intended
+L265:   * by independent audit, or other impartial body, to provide senior management with an objective opinion on the effectiveness of governance, risk management, and internal controls, including the effectiveness of the first and second levels
+L266: Internal audits shall be undertaken in accordance with 【78†GovS 009, Internal audit†www.gov.uk】.
+L267: 
+L268: The requirements of the 【90†Orange Book (requires sign in)】 shall be met [6].
+L269: #### 4.2.3 Programme and project assurance
+L270: 
+L271: Programmes and projects should have a defined and integrated plan for undertaking assurance and approvals which should be developed with the initiation documentation, regularly reviewed, updated and maintained until closure.
+L272: Assurance reviews shall be scheduled prior to significant decisions (such as contractual commitments and gates) to provide decision makers with an assessment of the status and outlook for the work. The time lapse between assurance reviews of the entire programme or project should not be scheduled to exceed one year. Assurance reviews may also be undertaken in response to an issue or to verify delivery.
+L273: The work of internal and external assurance providers should be planned to minimise disruption to work, (for example, by combining project and programme reviews as shown in Figure 1 Structure and scope of this standard) avoiding overlaps with other assurance activities and duplication of effort, whilst remaining rigorous and meeting the needs of stakeholders. Where assurance includes formal review activity, the customer for the review should be clearly identified.
+L274: Recommendations resulting from the reviews should be documented, agreed and acted on.
+L275: 
+L276: Note: the National Infrastructure and Service Transformation Authority’s Assurance tool kit provides guidance for undertaking assurance reviews [3].
+L277: #### 4.2.4 Assurance of government major projects
+L278: 
+L279: For government major projects, the approach to assurance shall be defined in an integrated assurance and approval plan (IAAP) [10] which shall be validated by HM Treasury and the National Infrastructure and Service Transformation Authority. HM Treasury does not normally approve a programme or project without a validated integrated assurance and approval plan.
+L280: For government major projects, assurance reviews of the entire programme or project shall be undertaken by the National Infrastructure and Service Transformation Authority, or as delegated by them.
+L281: ### 4.3 Decision making
+L282: 
+L283: Decisions relating to project delivery should be made, and approvals and authorisation given, in a timely manner, in accordance with the organisation’s governance and management framework. Government policy should be complied with. Decisions should be made by assessing options against defined criteria and in consultation with stakeholders and subject matter experts. Options shall be assessed in accordance with 【79†GovS 010, Analysis†www.gov.uk】.
+L284: Decisions should relate to, but not be limited to:
+L285:   * approving vision and strategy
+L286:   * approving portfolio plans
+L287:   * approving business cases
+L288:   * approving plans and baselines
+L289:   * setting risk appetite and tolerance
+L290:   * initiating a programme, project or other related work
+L291:   * authorising the start of a new project stage, for example, at a gate or decision point (see 6.3) or for a new tranche of a programme
+L292:   * selecting suppliers
+L293:   * deciding options for further study
+L294:   * selecting a solution
+L295:   * pausing, terminating or closing work
+L296: Decisions should be:
+L297: 
+L298:   * holistic, taking account of the external context, whole life of outputs (such as in life service, disposal) and negative impacts
+L299:   * communicated to the relevant stakeholders
+L300: 
+L301: Decisions may be:
+L302: 
+L303:   * conditional, with responsibility for fulfilling such conditions defined
+L304:   * phased to take into account risk (see 6.3)
+L305: A programme, project or other related work shall be governed through a business case or equivalent document, in accordance with HM Treasury requirements. If a project or other related work is part of a programme, its business case may be included within the programme’s business case. A business case should include a cost-benefit analysis and demonstrate strategic, economic, commercial, financial and management justification.
+L306: The business case shall be prepared and the investment appraised in accordance with 【75†GovS 006, Finance†www.gov.uk】.
+L307: The business case should be developed over a number of phases and should be updated to reflect changes and reviewed prior to every gate or decision point to justify continuing the work.
+L308: The accounting officer shall approve government major projects prior to submission to HM Treasury for authorisation [12]. Accounting officer approval shall be supported by an Accounting Officer Assessment for the outline business case and, when advised by the senior responsible owner, for any subsequent, materially changed business cases [14].
+L309: 
+L310: Note: guidance on investment appraisal, business cases and evaluation is provided in the 【91†Green Book (requires sign in)】 [5].
+L311: Cabinet Office expenditure controls require central government bodies to obtain expenditure approval from Cabinet Office ministers, based on professional advice from relevant functions, before certain expenditure is made or committed. Organisations should take advice from relevant functional experts in advance of planned expenditure, and comply with expenditure controls guidance.
+L312: Note: expenditure control guidance can be found in 【92†Managing Public Money†www.gov.uk】 [1] and in the annual consolidate budgeting guidance; see 【75†GovS 006, Finance†www.gov.uk】.
+L313: ### 4.4 Roles and accountabilities
+L314: #### 4.4.1 Overview
+L315: 
+L316: Roles and accountabilities shall be defined in the relevant governance and management framework and assigned to people with appropriate seniority, skills and experience. This should include, but is not limited to, the activities, outputs or outcomes they are responsible for, and the person they are accountable to.
+L317: 
+L318: Each role holder should act as a role model for the behaviours expected when working on project delivery.
+L319: Note: the 【8†Project Delivery Capability Framework】 [11] includes the professional standards for a range of project management roles operating at different levels covering both leadership and technical skills.
+L320: 
+L321: Note: further guidance on roles can be found in 【5†The Teal Book】 [16].
+L322: #### 4.4.2 Senior officer accountable for project delivery across government
+L323: 
+L324: The senior officer responsible for project delivery across government is accountable to the chief operating officer of the civil service and to the permanent secretary for HM Treasury for supporting successful project delivery across government, especially for government major projects, including but not limited to:
+L325:   * setting standards and leading development of government-wide policies, processes, tools and guidance
+L326:   * government project delivery assurance
+L327:   * providing expert support and advice
+L328:   * monitoring government project delivery performance and if necessary, intervening
+L329:   * assessing project delivery aspects in Spending Reviews
+L330:   * system-wide improvement of project delivery
+L331:   * building government project delivery capability
+L332: #### 4.4.3 Accounting officer
+L333: The permanent head of a government department is usually its principal accounting officer. An organisation’s accounting officer is accountable (via a principal accounting officer where appropriate) to Parliament and the public for the stewardship of public resources, ensuring they are used effectively and to high standards of probity. The principal accounting officer generally appoints the most senior executive in the arm’s length bodies within the department’s ambit as an accounting officer.
+L334: Note: the accounting officer is generally the permanent secretary or, in an arm’s length body, the chief executive officer. See 【92†Managing Public Money†www.gov.uk】 [1], 【93†Cabinet Office Controls†www.gov.uk】 [2], 【89†Assurance framework†www.gov.uk】 [13], 【94†Accounting Officer System Statements†www.gov.uk】 and 【95†Accounting Officer assessments†www.gov.uk】 [14].
+L335: #### 4.4.4 Senior officer accountable for project delivery in an organisation
+L336: 
+

@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-30",
+  "status": "preliminary_scope_review_integration_pending",
+  "basis_files": [
+    {
+      "path": "00-control/scope-baseline.json",
+      "sha256": "d50be13e18d3c76c27dde64eca46c114a4ea90cb8f3f0ac9018a8617f7dab013"
+    },
+    {
+      "path": "04-table/TABLE-DESIGN-BRIEF.md",
+      "sha256": "6a45b9e465b1deec978560c7f0f7104796f683640a37da36f50dafed9c22849e"
+    },
+    {
+      "path": "04-table/T02-proposition-hypotheses.json",
+      "sha256": "5dd048362835bb9eeb0cd48fbabb1a8b2bbafac5149129edd41c501f19ed107b"
+    },
+    {
+      "path": "04-table/T01-SECOND-CHECK-READOUT.md",
+      "sha256": "6c5369eb9cf7c191935c2d3213a05abb5a4b18bf347d3a831bcb90ea2ee1251a"
+    },
+    {
+      "path": "04-table/T02-SECOND-CHECK-REFINEMENTS.md",
+      "sha256": "adbd874f106a1f91856eb46692f5509d62c675f7a3d3f1e7efd45f1fd3fdacdf"
+    },
+    {
+      "path": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "sha256": "9f6b76002371913fde9501cbc07a40db702972f5812ac15296681f49ab07eded"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "sha256": "07dca419fc092e79a91a6e57eb868e8b912ec991b1bb729ac3e69afc0e736ece"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "sha256": "f955287ed8ed250432180592399ef7ce4c7e2ba4006b2f3e3b20f3e8415b62c2"
+    },
+    {
+      "path": "04-table/FINANCIAL-MODEL-SPEC.md",
+      "sha256": "df844e2678698d1ea37445c12f4a83d9fa2065b9c5ae95ae1b30ea3f0983565b"
+    }
+  ],
+  "working_contract_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-agreement-2026-10-27/agreement-text.txt",
+  "working_contract_sha256": "9857c3f68c6655462a0eb47c03348751924d02235492facad511c9f108f418c0",
+  "executed_copy_retrieved": false,
+  "external_research_added": false,
+  "actual_fieldwork": false,
+  "publication_approval": false,
+  "preliminary_issues": [
+    "Preserve expressly scoped technology/outsourcing/HCM/consulting/investment buyer segments beside possible employer use.",
+    "B01 supplier-facing wording should not silently anchor employer use; adaptations proposed explicitly.",
+    "JGA commissioned-IP rights are distinct from downstream participant/source restrictions and future customer licence terms."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SRC-0005",
+      "url": "https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:16.256347+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026",
+      "capture_path": "03-report/research-notes/r05/economics/captures/SRC-0005.html",
+      "capture_sha256": "67495ed0ac3518b983a8f7c168db03e66fa21062a9fe811f56b950c4f9424432",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/economics/captures/SRC-0005.txt",
+      "text_sha256": "33dc05aa41d8d44456f5e33d0fa40cba069b35cdf17f9efdd0a0d4c45d0e38b3"
+    },
+    {
+      "candidate_id": "ECO5-S01",
+      "url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:16.257265+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "capture_path": "03-report/research-notes/r05/economics/captures/ECO5-S01.html",
+      "capture_sha256": "33facbda736b2e661f6466453f21c2502fc35803ce2dd2f7cb77eeb931c08e96",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/economics/captures/ECO5-S01.txt",
+      "text_sha256": "d3f9863f1b31ac9ca290e41f7fef5228a591b81d3497fa01659baf23070fd5fe"
+    },
+    {
+      "candidate_id": "ECO5-S02",
+      "url": "https://www.accaglobal.com/uk/en/student/exam-support-resources/prodipsust-study-resources/technical-articles/investment-appraisal.html",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:16.257358+00:00",
+      "http_status": 200,
+      "final_url": "https://www.accaglobal.com/uk/en/student/exam-support-resources/prodipsust-study-resources/technical-articles/investment-appraisal.html",
+      "capture_path": "03-report/research-notes/r05/economics/captures/ECO5-S02.html",
+      "capture_sha256": "4142147fb9687e8f340d2ebca2555d5c155fe58f877155f4593c53bd70fd7106",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/economics/captures/ECO5-S02.txt",
+      "text_sha256": "d324f50801b48be5d5bccc9d6d4275253605770db173f719787f10138dca3fea"
+    },
+    {
+      "candidate_id": "ECO5-S03",
+      "url": "https://www.aqa.org.uk/resources/business/as-and-a-level/business-7131-7132/teach/teaching-guide-investment-appraisal",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:48:16.257418+00:00",
+      "http_status": 200,
+      "final_url": "https://www.aqa.org.uk/resources/business/as-and-a-level/business-7131-7132/teach/teaching-guide-investment-appraisal",
+      "capture_path": "03-report/research-notes/r05/economics/captures/ECO5-S03.html",
+      "capture_sha256": "97fa351ea67ea649697aa533c53b956a19c8297bbecda1bfee7ed4868c04e09d",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/economics/captures/ECO5-S03.txt",
+      "text_sha256": "355fdb9bb7454bf583ac06e23c88191bf65b905ea7d2f7dba847b82a90bcec87"
+    }
+  ]
+}

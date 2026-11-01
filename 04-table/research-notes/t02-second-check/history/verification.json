@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_history_lens_for_parent_integration",
+  "check_count": 14,
+  "checks": [
+    {
+      "name": "Original/derived hash 04-table/research-notes/t02-second-check/history/captures/TH2-S01.html",
+      "passed": true
+    },
+    {
+      "name": "Original/derived hash 04-table/research-notes/t02-second-check/history/captures/TH2-S01.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "Original/derived hash 04-table/research-notes/t02-second-check/history/captures/SRC-0227.html",
+      "passed": true
+    },
+    {
+      "name": "Original/derived hash 04-table/research-notes/t02-second-check/history/captures/SRC-0227.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "Original/derived hash 04-table/research-notes/t02-second-check/history/captures/SRC-0229.html",
+      "passed": true
+    },
+    {
+      "name": "Original/derived hash 04-table/research-notes/t02-second-check/history/captures/SRC-0229.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "Claim source references TH2-C01",
+      "passed": true
+    },
+    {
+      "name": "Claim source references TH2-C02",
+      "passed": true
+    },
+    {
+      "name": "Claim source references TH2-C03",
+      "passed": true
+    },
+    {
+      "name": "Exactly one new policy route and two canonical reuses, no capture overwrite",
+      "passed": true
+    },
+    {
+      "name": "Three bounded claims are context/design, no prices/outcomes/extra14Q/fieldwork",
+      "passed": true
+    },
+    {
+      "name": "Actual arrays empty 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "Actual arrays empty 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "Actual arrays empty 04-table/financial-inputs.json",
+      "passed": true
+    }
+  ],
+  "new_source_routes": 1,
+  "canonical_reuses": 2,
+  "claim_records": 3,
+  "source_captures_unchanged": true,
+  "source_access_live_rechecked": true,
+  "scope_changed": false,
+  "fieldwork": false,
+  "financial_inputs_added": 0,
+  "external_actions": false,
+  "artifacts": [
+    {
+      "path": "04-table/research-notes/t02-second-check/history/source-candidates.json",
+      "sha256": "8f43a4e692dfb11240df5b8fced63b6669bfe388ba442c798cfaa84d579a5835"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/claim-candidates.json",
+      "sha256": "4b6a29209ea7b265cf7d91610ba51e8c5e9550c773ebb6f9eb24a735faf0963d"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/HISTORICAL-EDITION-AND-CHANGE-CHECK.md",
+      "sha256": "3324176a2ddfbee7c27c168bc8206e7b5c0acfe34e1e251528b233c44c5b457b"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/history/search-log.json",
+      "sha256": "57fd1f982d388b307ede1e99868b9233bf2897e49472f720ab083d21489e4741"
+    }
+  ]
+}

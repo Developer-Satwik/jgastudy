@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-28",
+  "claim_candidates": 3,
+  "canonical_source_ids": [
+    "SRC-0020",
+    "SRC-0033",
+    "SRC-0071"
+  ],
+  "page_renders": [
+    {
+      "path": "03-report/research-notes/r02-operating-needs/qa/payo-38.png",
+      "sha256": "1678c9c67fb020537b55d734ba0fc6bb2bdb3de500214bba3dec675ecb34c1cf",
+      "purpose": "Private page render for selected original-source verification",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r02-operating-needs/qa/payo-41.png",
+      "sha256": "df37dc049b748a4c3e17e0007aa153e044d0ded4525f6cf16a6b1a7a932e1ee5",
+      "purpose": "Private page render for selected original-source verification",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r02-operating-needs/qa/sdworx-32.png",
+      "sha256": "005c706545debc70f60a28d5ac280824fdcc1e828de02ca42614ffb58836e476",
+      "purpose": "Private page render for selected original-source verification",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r02-operating-needs/qa/sdworx-36.png",
+      "sha256": "4457c404547e4f77920f35b2435c20a5b7f5d6c8aa1fcaf73c71b32dc305b8b3",
+      "purpose": "Private page render for selected original-source verification",
+      "visually_inspected": true
+    }
+  ],
+  "no_new_participants": true,
+  "no_external_contact": true,
+  "canonical_controls_modified": false
+}

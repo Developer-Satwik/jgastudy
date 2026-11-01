@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "original_path": "02-evidence/registers/sources.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/canonical-sources.json.txt",
+      "sha256": "191c9820234a562161154d6e206542f5d69d31da2227bbbf9c6fa7efce41bcc3"
+    },
+    {
+      "original_path": "02-evidence/registers/claims.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/canonical-claims.json.txt",
+      "sha256": "1933d7fc0267134af7deb0e9a51631215d5f60ca1bb51aae026dddfe0f61a60c"
+    },
+    {
+      "original_path": "02-evidence/registers/searches.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/canonical-searches.json.txt",
+      "sha256": "117b9ea224b7f17ef0f26bc10488792e710d9b4d449f5004cb5be60cbb8640b8"
+    },
+    {
+      "original_path": "02-evidence/registers/source-aliases.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/canonical-source-aliases.json.txt",
+      "sha256": "cfadee80ab6a47157a6464db7595c31d4c0e9b6e0e50c404083cea16b04fcced"
+    },
+    {
+      "original_path": "05-analysis/findings.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/canonical-findings.json.txt",
+      "sha256": "90e177cc93ae4c141b78b41e8fdd2d38852d871a546071615bbea6e6b2cab101"
+    }
+  ]
+}

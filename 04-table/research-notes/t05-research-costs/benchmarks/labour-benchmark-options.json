@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-31",
+  "status": "public_reference_options_not_selected_financial_inputs",
+  "records": [
+    {
+      "benchmark_id": "LB01",
+      "role": "Proofreader",
+      "value": 31.92,
+      "currency": "GBP",
+      "unit": "hour",
+      "statistic": "suggested_minimum",
+      "source_candidate_ids": [
+        "T5R-S01"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C01",
+        "T5R-C02"
+      ],
+      "use": "Editorial proof-stage sensitivity only",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    },
+    {
+      "benchmark_id": "LB02",
+      "role": "Copyeditor",
+      "value": 37.11,
+      "currency": "GBP",
+      "unit": "hour",
+      "statistic": "suggested_minimum",
+      "source_candidate_ids": [
+        "T5R-S01"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C01",
+        "T5R-C02"
+      ],
+      "use": "Defined copyediting work; no overlapping writer/reviewer hours",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    },
+    {
+      "benchmark_id": "LB03",
+      "role": "Substantial editor",
+      "value": 42.66,
+      "currency": "GBP",
+      "unit": "hour",
+      "statistic": "suggested_minimum",
+      "source_candidate_ids": [
+        "T5R-S01"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C01",
+        "T5R-C02"
+      ],
+      "use": "Separate substantial editing scope where selected",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    },
+    {
+      "benchmark_id": "LB04",
+      "role": "Editorial project manager",
+      "value": 46.19,
+      "currency": "GBP",
+      "unit": "hour",
+      "statistic": "suggested_minimum",
+      "source_candidate_ids": [
+        "T5R-S01"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C01",
+        "T5R-C02"
+      ],
+      "use": "Editorial management context; not a proxy for JGA employee pay",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    },
+    {
+      "benchmark_id": "LB05",
+      "role": "Freelance commercial writer",
+      "value": 440,
+      "currency": "GBP",
+      "unit": "day",
+      "statistic": "survey_median",
+      "source_candidate_ids": [
+        "T5R-S02"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C03"
+      ],
+      "use": "Writing replacement-cost comparison; not the complete research workflow",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    },
+    {
+      "benchmark_id": "LB06",
+      "role": "Market research consultant",
+      "value": 372,
+      "currency": "GBP",
+      "unit": "day",
+      "statistic": "published_role_average",
+      "source_candidate_ids": [
+        "T5R-S03",
+        "T5R-S04"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C04",
+        "T5R-C05"
+      ],
+      "use": "General external-research labour context; payroll expertise not verified",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    },
+    {
+      "benchmark_id": "LB07",
+      "role": "Graphic designer",
+      "value": 348,
+      "currency": "GBP",
+      "unit": "day",
+      "statistic": "published_role_average",
+      "source_candidate_ids": [
+        "T5R-S03",
+        "T5R-S05"
+      ],
+      "claim_candidate_ids": [
+        "T5R-C04",
+        "T5R-C06"
+      ],
+      "use": "Layout/visual production context; exact report-design skill and output unquoted",
+      "actual_supplier_quote": false,
+      "actual_JGA_employee_rate": false,
+      "adopted_financial_input": false,
+      "VAT_basis": null,
+      "platform_agency_fee_inclusion": null,
+      "day_length_hours": null,
+      "booked_supplier": null,
+      "actual_work_hours": null
+    }
+  ],
+  "no_blended_rate_created": true,
+  "actual_quotes": [],
+  "external_actions": []
+}

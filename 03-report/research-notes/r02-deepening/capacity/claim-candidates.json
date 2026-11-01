@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "canonical_register_modified": false,
+  "records": [
+    {
+      "candidate_id": "CAP-C01",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "locator": "Printed p4 staffing presentation",
+      "finding": "The employees-per-pay-professional presentation is not adjusted for payroll complexity; the printed median is 400. Its year-on-year commentary does not establish change within matched teams.",
+      "population": "UK in-house payroll teams",
+      "achieved_sample": null,
+      "item_base": null,
+      "values": {
+        "employees_per_pay_professional_median": 400
+      },
+      "question_scope": null,
+      "fieldwork_period": null,
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Report-specific base and prior-year composition unknown. Do not infer understaffing, an efficiency norm or within-team growth from the ratio.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-C02",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "locator": "Printed p10 KPI panel",
+      "finding": "The report separates monitored timeliness, pre-payment errors, worker-impacting errors and query resolution. Selection of a KPI is not observed performance.",
+      "population": "UK in-house payroll teams",
+      "achieved_sample": null,
+      "item_base": null,
+      "values": null,
+      "question_scope": null,
+      "fieldwork_period": null,
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Item base undisclosed. No error incidence or achieved resolution rate inferred; publisher legal commentary on the same page is not relied upon.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-C03",
+      "source_ids": [
+        "SRC-0022"
+      ],
+      "locator": "Printed p7 role/task presentation",
+      "finding": "Operational and senior payroll roles report different task mixes. Query work, checking, analysis, projects and policy oversight belong to the capacity picture, but task lists do not establish hours or productivity effects.",
+      "population": "UK payroll professionals across seniority levels",
+      "achieved_sample": null,
+      "item_base": null,
+      "values": null,
+      "question_scope": null,
+      "fieldwork_period": null,
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Membership-heavy self-selected context and report-specific base unestablished. Responsibilities are not final approval authority; no salary/qualification causal claim.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-C04",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF pp3,8,12",
+      "finding": "The benchmark distinguishes processing, specialist work and systems support inside and outside payroll; payroll headcount alone does not describe every support dependency.",
+      "population": "15 multinational mega-enterprises, 25,000–240,000 employees; eight technology and seven non-technology firms",
+      "achieved_sample": 15,
+      "item_base": null,
+      "values": null,
+      "question_scope": null,
+      "fieldwork_period": "2024; exact dates unestablished",
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Not a UK or representative workforce sample. Staffing definitions and item bases differ; numerical support percentages on p12 held separately.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-C05",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF p24; footnote seven technology plus six non-technology organisations",
+      "finding": "The question asks respondents about payroll involvement in upstream validation. Reported levels vary; this is perceived involvement, not demonstrated input quality or causal accuracy.",
+      "population": "Mega-enterprise item respondents",
+      "achieved_sample": 15,
+      "item_base": 13,
+      "values": {
+        "very_involved_count": 3,
+        "moderately_involved_count": 6,
+        "slightly_involved_count": 3,
+        "not_at_all_count": 1
+      },
+      "question_scope": "Extent of payroll-team upstream validation involvement",
+      "fieldwork_period": "2024; exact dates unestablished",
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "One small peer group. Do not extrapolate to UK employers or infer that more involvement caused better outcomes.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-C06",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF p26; footnote six technology plus six non-technology organisations",
+      "finding": "The inquiry-resolution item reports target categories, not achieved resolution times.",
+      "population": "Mega-enterprise item respondents",
+      "achieved_sample": 15,
+      "item_base": 12,
+      "values": {
+        "within24hours_count": 1,
+        "within72hours_count": 6,
+        "more_than72hours_count": 2,
+        "no_defined_sla_count": 3
+      },
+      "question_scope": "Target resolution time for employee payroll inquiries",
+      "fieldwork_period": "2024; exact dates unestablished",
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Self-reported targets in a small peer group. These do not show employee dissatisfaction, target attainment or typical UK performance.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-C07",
+      "source_ids": [
+        "SRC-0064"
+      ],
+      "locator": "Original report executive summary and official UK report summary, lines32–73",
+      "finding": "The publication describes capability, reporting/visibility and service priorities. Exploration of leaner delivery is an intention, not measured staff reduction or realised efficiency.",
+      "population": "Senior global-payroll stakeholders across 20 countries; existing source context identifies employers over 1,000 staff",
+      "achieved_sample": 1816,
+      "item_base": null,
+      "values": null,
+      "question_scope": null,
+      "fieldwork_period": null,
+      "evidence_class": "published_self_report",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Vendor-published research. Official summary is a route to the same dataset, not independent evidence. Item bases and field dates not established; deeper PDF retrievals timed out. No new exact percentage is proposed.",
+      "date": "2026-10-28",
+      "status": "candidate_context_only",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-H01",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF p25 support-query chart, visually inspected",
+      "finding": "Five displayed category counts total 12 while the footnote describes 13 responses; the published percentage labels are also not a complete 100 percent partition.",
+      "population": "Mega-enterprise item respondents",
+      "achieved_sample": 15,
+      "item_base": 13,
+      "values": null,
+      "question_scope": null,
+      "fieldwork_period": "2024; exact dates unestablished",
+      "evidence_class": "source_presentation_issue",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Do not infer a missing category, renormalise counts or correct the chart without publisher clarification. Exclude the distribution from numerical headlines.",
+      "date": "2026-10-28",
+      "status": "hold_numeric_reuse",
+      "publication_status": "not_final_publication_approved"
+    },
+    {
+      "candidate_id": "CAP-H02",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF p12 separate engineering/IT support table, visually inspected",
+      "finding": "The combined percentage is not transparently reconciled by the displayed subgroup percentages and their footnoted bases.",
+      "population": "Mega-enterprise item respondents",
+      "achieved_sample": 15,
+      "item_base": null,
+      "values": null,
+      "question_scope": null,
+      "fieldwork_period": "2024; exact dates unestablished",
+      "evidence_class": "source_presentation_issue",
+      "review_mode": "Original relevant text inspected; Deloitte selected pages rendered and visually checked",
+      "limitations": "Definitions, weighting or presentation may explain it; no correction or accusation of underlying data error. Use qualitative service-boundary context only.",
+      "date": "2026-10-28",
+      "status": "hold_numeric_reuse",
+      "publication_status": "not_final_publication_approved"
+    }
+  ]
+}

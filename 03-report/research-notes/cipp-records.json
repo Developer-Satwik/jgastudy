@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "audit_date": "2026-10-28",
+  "audit_scope": "R01 CIPP original report series and method disambiguation",
+  "sources": [
+    {
+      "source_id": "SRC-0020",
+      "title": "Payroll Insights Survey Report 2026 In-house",
+      "publisher": "CIPP Policy and Research Team",
+      "url": "https://online.flippingbook.com/view/472716226/",
+      "source_type": "published_survey_report",
+      "edition_as_printed": 2026,
+      "web_title_edition": 2027,
+      "published_date": null,
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "population": "UK in-house payroll teams",
+      "sample_size": null,
+      "recruitment_reference": "SRC-0023",
+      "method_available": "Recruitment notice; no report-specific sample or weighting located",
+      "funding_or_commercial_interest": "Professional-body publisher; external funding not identified",
+      "review_status": "original_reviewed",
+      "review_mode": "Complete report text supplied by web reader, 13 printed pages",
+      "visual_chart_review": false,
+      "capture_path": null,
+      "capture_sha256": null,
+      "reuse_status": "Commercial reproduction not cleared",
+      "publication_eligibility": "Contextual findings only; numerical base unresolved",
+      "related_topic_ids": [
+        "R01",
+        "R02",
+        "R05"
+      ],
+      "limitations": "Current operations and challenges; no recent investment-case decision journey."
+    },
+    {
+      "source_id": "SRC-0021",
+      "title": "Payroll Insights Survey Report 2026 Outsourced",
+      "publisher": "CIPP Policy and Research Team",
+      "url": "https://online.flippingbook.com/view/472391297/",
+      "source_type": "published_survey_report",
+      "edition_as_printed": 2026,
+      "web_title_edition": 2027,
+      "published_date": null,
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "population": "UK outsourced payroll teams/providers",
+      "sample_size": null,
+      "recruitment_reference": "SRC-0023",
+      "method_available": "Recruitment notice; no report-specific sample or weighting located",
+      "funding_or_commercial_interest": "Professional-body publisher; external funding not identified",
+      "review_status": "original_reviewed",
+      "review_mode": "Complete report text supplied by web reader, 12 printed pages",
+      "visual_chart_review": false,
+      "capture_path": null,
+      "capture_sha256": null,
+      "reuse_status": "Commercial reproduction not cleared",
+      "publication_eligibility": "Contextual findings only; numerical base unresolved",
+      "related_topic_ids": [
+        "R01",
+        "R02",
+        "R03"
+      ],
+      "limitations": "Provider operations, not a survey of employer-side purchasing approvals."
+    },
+    {
+      "source_id": "SRC-0022",
+      "title": "Payroll Insights Survey Report 2026 Pay Professionals",
+      "publisher": "CIPP Policy and Research Team",
+      "url": "https://online.flippingbook.com/view/471897251/",
+      "source_type": "published_survey_report",
+      "edition_as_printed": 2026,
+      "web_title_edition": 2027,
+      "published_date": null,
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "population": "UK payroll professionals across seniority levels",
+      "sample_size": null,
+      "recruitment_reference": "SRC-0023",
+      "method_available": "Recruitment notice; no report-specific sample or weighting located",
+      "funding_or_commercial_interest": "Publisher also offers the qualifications compared",
+      "review_status": "original_reviewed",
+      "review_mode": "Complete report text supplied by web reader, 14 printed pages",
+      "visual_chart_review": false,
+      "capture_path": null,
+      "capture_sha256": null,
+      "reuse_status": "Commercial reproduction not cleared",
+      "publication_eligibility": "Role/context findings; not a validated salary benchmark",
+      "related_topic_ids": [
+        "R01",
+        "R02",
+        "R04"
+      ],
+      "limitations": "Cross-sectional role/salary/qualification comparisons cannot establish causality."
+    },
+    {
+      "source_id": "SRC-0023",
+      "title": "The 2026 Payroll Insights Surveys are live",
+      "publisher": "CIPP",
+      "url": "https://www.cipp.org.uk/resources/news/2026-payroll-insights-surveys-are-live-13-03.html",
+      "source_type": "recruitment_notice",
+      "published_date": "2026-03-13",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "population": "Individual pay professionals and separate organisational respondents",
+      "sample_size": null,
+      "method_available": "Public recruitment instructions",
+      "review_status": "original_reviewed",
+      "capture_path": null,
+      "capture_sha256": null,
+      "reuse_status": "Link and paraphrase; chart reproduction irrelevant",
+      "publication_eligibility": "Method context only",
+      "related_topic_ids": [
+        "R01",
+        "method"
+      ],
+      "limitations": "Launch date is not the complete fieldwork period."
+    },
+    {
+      "source_id": "SRC-0024",
+      "title": "Listening to industry what our 2026 Annual Survey tells us",
+      "publisher": "CIPP Professional June–July 2026",
+      "url": "https://online.flippingbook.com/view/227085278/16/",
+      "source_type": "professional_magazine_article",
+      "published_date": null,
+      "publication_period": "2026-06/2026-07",
+      "accessed_on": "2026-10-28",
+      "population": "Separate CIPP annual member and industry experience survey",
+      "sample_size": 848,
+      "method_available": "Article context, not Payroll Insights methodology",
+      "review_status": "original_reviewed",
+      "capture_path": null,
+      "capture_sha256": null,
+      "reuse_status": "Reference for dataset disambiguation only",
+      "publication_eligibility": "Do not apply sample to SRC-0020/21/22",
+      "related_topic_ids": [
+        "R01",
+        "method"
+      ],
+      "limitations": "Printed magazine page14, web/PDF position16; distinct study."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-0020",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "locator": "p6 Third party or outsourced providers; https://online.flippingbook.com/view/472716226/6/",
+      "claim_text": "Reported engagement with third-party or outsourced providers: 40%.",
+      "evidence_class": "published_finding",
+      "metric": "third_party_engagement",
+      "value": 40,
+      "unit": "percent",
+      "question_wording": "Do you engage with any third party or outsourced providers?",
+      "denominator": null,
+      "population": "UK in-house payroll teams",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Base undisclosed; does not mean full outsourcing or purchasing intent.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0021",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "locator": "p10 KPIs; https://online.flippingbook.com/view/472716226/10/",
+      "claim_text": "On-time completion is reported as a KPI by 82%.",
+      "evidence_class": "published_finding",
+      "metric": "on_time_completion_kpi",
+      "value": 82,
+      "unit": "percent",
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK in-house payroll teams",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Unknown question base; KPI choice does not demonstrate investment approval.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0022",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "locator": "p12 Top challenges; https://online.flippingbook.com/view/472716226/12/",
+      "claim_text": "Challenges include integration, resources, manual processes and budget constraints.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK in-house payroll teams",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Text list/word-cloud transcription; not a verified ranked frequency table.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0023",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "locator": "p8 Pricing; https://online.flippingbook.com/view/472391297/8/",
+      "claim_text": "Bespoke packages are reported by 54% of provider respondents.",
+      "evidence_class": "published_finding",
+      "metric": "bespoke_pricing",
+      "value": 54,
+      "unit": "percent",
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK outsourced payroll teams/providers",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Unknown base; charging methods may overlap; not research-licence willingness to pay.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0024",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "locator": "p9 KPIs; https://online.flippingbook.com/view/472391297/9/",
+      "claim_text": "On-time completion is reported as a KPI by 73%.",
+      "evidence_class": "published_finding",
+      "metric": "on_time_completion_kpi",
+      "value": 73,
+      "unit": "percent",
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK outsourced payroll teams/providers",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Unknown base; not directly comparable to employer purchasing outcomes.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0025",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "locator": "p10 Accountancy practice; https://online.flippingbook.com/view/472391297/10/",
+      "claim_text": "Accountancy practices comprise 62% of responding providers.",
+      "evidence_class": "published_finding",
+      "metric": "accountancy_practice_share",
+      "value": 62,
+      "unit": "percent",
+      "question_wording": "Is your outsourced payroll part of an accountancy practice?",
+      "denominator": null,
+      "population": "UK outsourced payroll teams/providers",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Describes respondent composition, not all UK providers.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0026",
+      "source_ids": [
+        "SRC-0022"
+      ],
+      "locator": "p7 Top tasks; https://online.flippingbook.com/view/471897251/7/",
+      "claim_text": "Director tasks include implementation, budgets, projects, analysis and legislative review.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK payroll professionals across seniority levels",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Responsibility is not proof of budget ownership, sign-off or veto.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0027",
+      "source_ids": [
+        "SRC-0022"
+      ],
+      "locator": "p4 Respondent demographics; https://online.flippingbook.com/view/471897251/4/",
+      "claim_text": "Most responding professionals hold CIPP membership.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK payroll professionals across seniority levels",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Membership-heavy self-selection context; not a workforce probability sample.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0028",
+      "source_ids": [
+        "SRC-0022"
+      ],
+      "locator": "p12 Qualification and earnings comparison; https://online.flippingbook.com/view/471897251/12/",
+      "claim_text": "Qualification groups show different reported mean salaries.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "question_wording": null,
+      "denominator": null,
+      "population": "UK payroll professionals across seniority levels",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Unadjusted association; role, experience and selection may confound comparison.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0029",
+      "source_ids": [
+        "SRC-0023"
+      ],
+      "locator": "Recruitment instructions,13 March2026",
+      "claim_text": "Recruitment invited broad sharing; organisational forms requested one reply per organisation.",
+      "evidence_class": "published_finding",
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "question_wording": null,
+      "denominator": null,
+      "population": "Individual pay professionals and separate organisational respondents",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "Separate individual/organisational units; response rate and achieved sample not established.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    },
+    {
+      "claim_id": "CLM-0030",
+      "source_ids": [
+        "SRC-0024"
+      ],
+      "locator": "Printed p14; online page16",
+      "claim_text": "The separate annual experience survey reports 848 responses.",
+      "evidence_class": "published_finding",
+      "metric": "separate_annual_survey_responses",
+      "value": 848,
+      "unit": "responses",
+      "question_wording": null,
+      "denominator": null,
+      "population": "Separate CIPP annual member and industry experience survey",
+      "time_period": null,
+      "support_checked": true,
+      "review_mode": "Web-extracted original report text; no independent rendered-chart check",
+      "interpretation_limits": "This number is not the sample size of the three Payroll Insights reports.",
+      "status": "extracted_context_only",
+      "publication_status": "working"
+    }
+  ],
+  "captures": [],
+  "access_notes": [
+    "Public report text accessible through web reader; direct local HTTP retrieval closed without response, so no original PDF/HTML file claimed.",
+    "No forms, private accounts, contacts, purchases or security challenges used.",
+    "Graph transcription is not independently visually verified; selected numerical findings remain context-only pending base/method checks."
+  ],
+  "coverage_assessment": {
+    "operational_benchmarking": "covered",
+    "provider_pricing_and_service_scope": "covered",
+    "career_salary_qualification": "covered",
+    "investment_governance_recent_case_reconstruction": "not located in inspected report text",
+    "causal_approval_delay_abandonment_explanation": "not established by these sources",
+    "market_wide_gap_claim": "not justified"
+  },
+  "search_log": [
+    {
+      "date": "2026-10-28",
+      "queries": [
+        "site.cipp.org.uk \"Payroll Insights\" \"2026\" \"responses\"",
+        "site.cipp.org.uk \"Payroll Insights\" \"2026\" \"survey\" \"March\"",
+        "site.cipp.org.uk \"Payroll Insights\" \"2026\" \"respondents\"",
+        "\"Payroll Insights\" \"2026\" \"sample\""
+      ],
+      "result": "Located original recruitment notice and disambiguated separate annual survey."
+    }
+  ]
+}

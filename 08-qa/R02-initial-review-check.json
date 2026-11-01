@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-28",
+  "status": "passed_for_initial_internal_assessment",
+  "claim_map": [
+    {
+      "candidate_id": "R02-C01",
+      "claim_id": "CLM-0157",
+      "source_ids": [
+        "SRC-0020"
+      ]
+    },
+    {
+      "candidate_id": "R02-C02",
+      "claim_id": "CLM-0158",
+      "source_ids": [
+        "SRC-0071"
+      ]
+    },
+    {
+      "candidate_id": "R02-C03",
+      "claim_id": "CLM-0159",
+      "source_ids": [
+        "SRC-0033"
+      ]
+    }
+  ],
+  "new_sources": 0,
+  "source_renders_hash_checked_and_visually_inspected_by_parent": 4,
+  "participant_observations": 0,
+  "final_publication_approved": false,
+  "external_actions": []
+}

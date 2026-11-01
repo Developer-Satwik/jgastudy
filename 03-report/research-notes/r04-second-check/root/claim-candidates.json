@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC4-ROOT-C01",
+      "source_candidate_ids": [
+        "SC4-ROOT-S01"
+      ],
+      "claim_text": "Acas separates whether an employment-term change is needed from consultation and agreement routes, including relevant representative arrangements. This is a different decision object from a software purchase.",
+      "locator": "Consulting: Who you should consult/How you should consult; considering: How changes can be agreed/What to consider first",
+      "evidence_class": "official_conditional_contract_change_guidance",
+      "population": "One Acas employer contract-change guide; consulting and considering sections, not an employer survey",
+      "limitations": "Scope limited to proposed employment-term changes. No universal employee veto over software, duty applied to every configuration change, legal remedy or employer-specific conclusion inferred.",
+      "review_mode": "Relevant original HTML sections inspected; original capture retained; no employer-specific legal analysis",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live guidance inspected 29 October 2026; no event-frequency measure"
+    },
+    {
+      "candidate_id": "SC4-ROOT-C02",
+      "source_candidate_ids": [
+        "SC4-ROOT-S02"
+      ],
+      "claim_text": "ICO monitoring guidance treats worker input, DPO advice and conditional prior regulatory consultation as distinct considerations; their applicability must be established for the actual processing context.",
+      "locator": "Lawful basis/Consent; DPIA; Should we discuss monitoring; live review warning",
+      "evidence_class": "official_conditional_monitoring_governance_guidance",
+      "population": "Monitoring/data practices, not an observed payroll-buying population",
+      "limitations": "Live guidance explicitly under review following Data (Use and Access) Act. Conditional monitoring context, not employer-specific legal advice, a universal payroll veto, or proof consultation is valid processing consent.",
+      "review_mode": "Relevant original HTML sections inspected; original capture retained; no employer-specific legal analysis",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live guidance inspected 29 October 2026; no event-frequency measure"
+    },
+    {
+      "candidate_id": "SC4-ROOT-C03",
+      "source_candidate_ids": [
+        "SC4-ROOT-S02"
+      ],
+      "claim_text": "The ICO guidance distinguishes seeking worker views from a lawful basis for processing, including its qualified treatment of employment consent. Consultation or contract agreement must not be coded as automatic valid processing consent.",
+      "locator": "Lawful basis/Consent; DPIA; Should we discuss monitoring; live review warning",
+      "evidence_class": "official_concept_boundary_guidance",
+      "population": "Monitoring/data practices, not an observed payroll-buying population",
+      "limitations": "Live guidance explicitly under review following Data (Use and Access) Act. Conditional monitoring context, not employer-specific legal advice, a universal payroll veto, or proof consultation is valid processing consent.",
+      "review_mode": "Relevant original HTML sections inspected; original capture retained; no employer-specific legal analysis",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Live guidance inspected 29 October 2026; no event-frequency measure"
+    }
+  ]
+}

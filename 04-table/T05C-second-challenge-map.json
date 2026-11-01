@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-01",
+  "status": "second_challenge_reviewed_required_integration_refinements_recorded",
+  "reviewer": "same_agent_second_check",
+  "independent_agent_review": false,
+  "first_component_path": "04-table/T05-cash-map.json",
+  "source_ids": [
+    "SRC-0299",
+    "SRC-0300",
+    "SRC-0301",
+    "SRC-0302",
+    "SRC-0303",
+    "SRC-0304",
+    "SRC-0305",
+    "SRC-0248",
+    "SRC-0239",
+    "SRC-0228",
+    "SRC-0234",
+    "SRC-0114",
+    "SRC-0119",
+    "SRC-0115",
+    "SRC-0116",
+    "SRC-0117",
+    "SRC-0118",
+    "SRC-0088"
+  ],
+  "claim_ids": [
+    "CLM-0636",
+    "CLM-0637",
+    "CLM-0638",
+    "CLM-0639",
+    "CLM-0640",
+    "CLM-0641",
+    "CLM-0642",
+    "CLM-0643",
+    "CLM-0644",
+    "CLM-0645",
+    "CLM-0646",
+    "CLM-0647",
+    "CLM-0648",
+    "CLM-0649",
+    "CLM-0650",
+    "CLM-0651",
+    "CLM-0652",
+    "CLM-0653"
+  ],
+  "conditions": [
+    {
+      "condition_id": "C201",
+      "label": "Evidence and transaction state",
+      "claim_ids": [
+        "CLM-0636",
+        "CLM-0639",
+        "CLM-0650"
+      ],
+      "required_treatment": "Name the order/invoice/acceptance/settlement stage and actual evidence. Forecast cash dates remain assumptions until actual receipts/payments are supported."
+    },
+    {
+      "condition_id": "C202",
+      "label": "Object and settlement reconciliation",
+      "claim_ids": [
+        "CLM-0641",
+        "CLM-0642",
+        "CLM-0643",
+        "CLM-0649"
+      ],
+      "required_treatment": "Reconcile real deposit, final bill, unpaid balance, fees, net cash, refund and credit by object and transaction identity. Row-ID uniqueness alone is insufficient."
+    },
+    {
+      "condition_id": "C203",
+      "label": "Matched decision date and unavoidable costs",
+      "claim_ids": [
+        "CLM-0638",
+        "CLM-0639",
+        "CLM-0651"
+      ],
+      "required_treatment": "Show the same decision/horizon and baseline in A/B. Preserve incurred or unavoidable cost/cash when future event activity is deselected; isolate genuinely avoidable future work."
+    },
+    {
+      "condition_id": "C204",
+      "label": "Within-horizon expiry and remaining work",
+      "claim_ids": [
+        "CLM-0644",
+        "CLM-0645",
+        "CLM-0646",
+        "CLM-0652"
+      ],
+      "required_treatment": "Add due/use/expiry reminders and link continuing benefits to actual delivery dates, skill and capacity. Opening-date status alone misses upcoming expiry."
+    },
+    {
+      "condition_id": "C205",
+      "label": "Gross/net, noncash and applicable tax basis",
+      "claim_ids": [
+        "CLM-0640",
+        "CLM-0641",
+        "CLM-0642",
+        "CLM-0650"
+      ],
+      "required_treatment": "Separate noncash support and displaced work from money; reconcile settlement fees and applicable taxes without automatically assigning a VAT rate or recovery."
+    },
+    {
+      "condition_id": "C206",
+      "label": "Term, bundle, right and payer",
+      "claim_ids": [
+        "CLM-0644",
+        "CLM-0645",
+        "CLM-0646",
+        "CLM-0647",
+        "CLM-0648"
+      ],
+      "required_treatment": "Specify contract term, asset/use/user rights, included benefits, responsible payer and country. Do not duplicate bundled sales or assume renewal."
+    },
+    {
+      "condition_id": "C207",
+      "label": "Receipt and delivery stress together",
+      "claim_ids": [
+        "CLM-0636",
+        "CLM-0637",
+        "CLM-0653"
+      ],
+      "required_treatment": "Stress delayed/no renewal and jointly dependent receipts against supplier dates and continuing fulfilment work. Do not assign a probability from aggregate survey or comparator data."
+    },
+    {
+      "condition_id": "C208",
+      "label": "Proportionate implementation and current commission",
+      "claim_ids": [
+        "CLM-0647",
+        "CLM-0648",
+        "CLM-0649",
+        "CLM-0652",
+        "CLM-0653"
+      ],
+      "required_treatment": "Use linked existing schedules, not a new research system or questionnaire. Keep the USD1500 commission, reported USD750 upfront and conditional USD750 balance distinct from future sponsor receipts; no scope, fee or participation change."
+    }
+  ],
+  "evidence_candidate_path": "04-table/research-notes/t05c-second-check/evidence/source-candidates.json",
+  "comparator_map_path": "04-table/research-notes/t05c-second-check/comparator-map.json",
+  "business_model_check_path": "04-table/research-notes/t05c-second-check/business-model-check.json",
+  "prior_study_bridge_path": "04-table/research-notes/t05c-second-check/prior-study/prior-study-bridge.json",
+  "cash_applications_path": "04-table/research-notes/t05c-second-check/cash-applications.json",
+  "review_checks_path": "08-qa/t05c-second-review/verification.json",
+  "arithmetic_error_identified_in_defined_cash_unit": false,
+  "presentation_or_integration_limits_identified": [
+    "Distinct IDs do not detect duplicated real transaction",
+    "Opening-date credit status does not flag all within-horizon expiries",
+    "Counterfactual route filter needs a matched incurred/unavoidable baseline"
+  ],
+  "original_four_workbooks_changed": false,
+  "financial_inputs_changed": false,
+  "original_shared_financial_inputs": 70,
+  "programme_integration_still_required": true,
+  "full_financial_model_complete": false,
+  "current_contract_fee_changed": false,
+  "fourteen_core_questions_unchanged": true,
+  "practitioner_free_full_research_preserved": true,
+  "actual_participants": [],
+  "actual_quotes": [],
+  "actual_bookings": [],
+  "external_actions": []
+}

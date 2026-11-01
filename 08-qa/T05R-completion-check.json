@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-31",
+  "status": "completed_first_T05_research_staffing_component_full_model_pending",
+  "scope": "Editable future-equivalent-edition labour comparison only; complete programme financial/cash model and commercial validation remain open.",
+  "new_source_routes": 5,
+  "new_claim_records": 7,
+  "canonical_sources": 235,
+  "canonical_claims": 466,
+  "source_records_with_primary_originals": 163,
+  "earlier_source_base_records_preserved": 230,
+  "earlier_claims_preserved_exactly": 459,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 221,
+  "prechange_file_snapshots": 13,
+  "primary_original_captures": 5,
+  "parsed_extracts": 5,
+  "financial_component_inputs": 33,
+  "provider_work_tasks": 16,
+  "JGA_retained_work_tasks": 5,
+  "workload_cases": 3,
+  "effort_assumptions_not_measured": true,
+  "day_normalisation_is_analyst_assumption": true,
+  "workbook_created": true,
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+  "workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "workbook_calculation_tests": 15,
+  "workbook_visual_regions": 6,
+  "workbook_authoring_engine": "@oai/artifact-tool",
+  "native_Excel_application_tested": false,
+  "all_temporary_input_changes_restored": true,
+  "final_saved_case": "Working",
+  "final_saved_outputs": {
+    "provider_hours": 174,
+    "provider_labour_GBP": 8726.14,
+    "JGA_hours": 23,
+    "JGA_value_GBP": "n.a.",
+    "combined_labour_GBP": "n.a."
+  },
+  "independent_review_status": "passed_for_internal_T05R_component",
+  "independent_grouped_checks": 18,
+  "independent_exact_artifact_hashes": 41,
+  "actual_timesheets": 0,
+  "actual_hires": 0,
+  "actual_supplier_quotes": 0,
+  "actual_spend_records": 0,
+  "actual_practitioner_contributions": 0,
+  "actual_buyer_member_validation": 0,
+  "fieldwork_activated": false,
+  "external_messages_sent": 0,
+  "purchases_or_bookings": 0,
+  "current_contract_fee_changed": false,
+  "current_commission_added_to_future_task_valuation": false,
+  "full_financial_model_complete": false,
+  "full_programme_budget_complete": false,
+  "bank_cash_model_complete": false,
+  "final_client_delivery": false,
+  "artifacts": [
+    {
+      "path": "04-table/T05-RESEARCH-AND-STAFFING-COSTS.md",
+      "sha256": "7e9fd00717e2193427fe330f9f2397a9bbfc3bd380d135d170e1f734918f2d80"
+    },
+    {
+      "path": "04-table/T05-research-cost-map.json",
+      "sha256": "3e5eedcc809be33ecd5647a972e862b2035d5236de5740a21451adfd75627d02"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509"
+    },
+    {
+      "path": "08-qa/T05R-record-map.json",
+      "sha256": "bff0dfee2647a805c154bd4a200e4828e4b37eb9841a0d5a869d5087b927e8d6"
+    },
+    {
+      "path": "08-qa/T05R-captures.json",
+      "sha256": "36b1ce9c84517ff397932c31a2a98117c98f393d8a07bc05564f2a3cb7808255"
+    },
+    {
+      "path": "08-qa/T05R-baseline-manifest.json",
+      "sha256": "c99f19d67f9e061a6a0ba165e1524a553b96d93bc5845f49bcb7751134d1ddfe"
+    },
+    {
+      "path": "08-qa/t05r-workbook/verification.json",
+      "sha256": "acfc46c0ae97c5ed8c80958b37ce7a7f1e2f7a0f42dca71ff6404158a44cc80d"
+    },
+    {
+      "path": "08-qa/t05r-workbook/cell-map.json",
+      "sha256": "5fcb993e6abb8ad8b6e8e2991c49983a12acc33b42a0636b9c170cf27c60e3ab"
+    },
+    {
+      "path": "08-qa/t05r-workbook/export-check.json",
+      "sha256": "87a324ec86710a271a0f5c3d7af3e7b2594c2b8bb60c146e81b4735267c05b30"
+    },
+    {
+      "path": "08-qa/t05r-workbook/headline-inspection.ndjson",
+      "sha256": "465b01ff75e6540b13d2e03a11319bea4c6a16b1517b081f2c18962ec7bddcbd"
+    },
+    {
+      "path": "08-qa/t05r-workbook/formula-error-scan.ndjson",
+      "sha256": "acc0111e19cf44d2753fc9ecd164bf1b27fbd65597463a25cf48bd1c65e90146"
+    },
+    {
+      "path": "08-qa/t05r-review/input-and-source-review.json",
+      "sha256": "fbddb9b1e3b0dde79ee26da739e38f87e8124e69f0374cc940d63029b375d4d5"
+    },
+    {
+      "path": "08-qa/t05r-review/mapping-arithmetic-review.json",
+      "sha256": "0230cd069b85639b9ff99b0f0a0334f08cfa7eeb4568edf51b5da78a28e8f431"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/LABOUR-BENCHMARKS.md",
+      "sha256": "ea9414ef0743e7c67a7fbe780782953c8801d5ea1fdaf2787487f50636f983be"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/build_benchmark_records.py",
+      "sha256": "ca09cf881740e74d30a035ae525ece0c860056d32607878b7945fde6a508d18b"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/capture-manifest.json",
+      "sha256": "1cb48a982f6d521f92826b220275d5f40727a14b538a42bad0d21fe7796c4852"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S01.html",
+      "sha256": "3f1f8d281a06b755182d0e2798d299d1bc588f85ccb9125d61a5e29ecef33a01"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S02.html",
+      "sha256": "ec0707663b1f8d55b0824454e8d4a48ef424b28644b9cfd7041d78f467def7e1"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S03.html",
+      "sha256": "46d2d3cc88c30866b47443b04a672692d75da228f73f5f512c1a0ac9cf654a4b"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S04.html",
+      "sha256": "c8fd3f35c162dbf37ae6be3b49f6a723e24e854c4cd4b4e996ef7aa435429e0a"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S05.html",
+      "sha256": "7e7772506821bb3cbdaaef8b40c1e25d0b7d8bac5846bc08b85db56c16f067c9"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/claim-candidates.json",
+      "sha256": "e2385a7afc5d0ea1f47dba32e7b734a942ab2d41728e4f094cbd72a4fa62e99d"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/labour-benchmark-options.json",
+      "sha256": "3343d584446e616e878b57185aa3f4ce68b5771ef5d864cca776b5d13582662a"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S01.txt",
+      "sha256": "0a9db93b7d3d9c7368aa49ab85edcda07a522fdbde6e31800c17bd14d099d58e"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S02.txt",
+      "sha256": "aa9e9204eddefabfbabe8830c95c359b944489339807168554427884375dc2f7"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S03.txt",
+      "sha256": "cd1ba53c5d630645d0fda891b8cefce46d6d6c9ebb7e33657b6e907c3869343a"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S04.txt",
+      "sha256": "191bacba885d3f8dcb249ff0a5d2375f274c360637756d7dee65a1896e3b5fc6"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S05.txt",
+      "sha256": "0cbae9d88e0872dd1e530cb79299efe63dc52cca1afe51f471fc7edba0e94ebe"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/source-candidates.json",
+      "sha256": "535f6e3292958c5803b8b89a0bed2823abdf4a0368d6613815f6beff649d9596"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/verification.json",
+      "sha256": "8d0cd7cc87ba84d57b7d132bba823d74314314a9ac25ff36d1145c9d877ad65f"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/WORKLOAD-READOUT.md",
+      "sha256": "ced07bab140bff6a7eee19e99b56a5d26f3b76326b041f056020e75acba82349"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/optional-unit-candidates.json",
+      "sha256": "991d8ffbbf7422a78650fc58aab1280d0b0ef06db545150970afe9784e4729f6"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/verification.json",
+      "sha256": "e973ab238174cf00fb2beb68e383f0aada4fc65c8f694de50464f32af252011d"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/workload-candidates.json",
+      "sha256": "829cc33724d0465be8ab98cf71deb2e622a7306befe0528ff33c8f49059e02c0"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+      "sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/research-cost.png",
+      "sha256": "5199aef83e1e10cc15097cc88b333ec767bf190ea5fd4811db9389b74fe14533"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/role-chart.png",
+      "sha256": "fbd8c870cbe14fb088c5dd0ea521111dfe93c714607a319b9f1b4241c309d76a"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-controls-rates.png",
+      "sha256": "57fd374be7666fe0b1be4b20b48b9466c767a783d63269d7a0beb3ca802cae03"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-workload.png",
+      "sha256": "31c9ab3e4d5a32275c12f37ee7084189cc64e1f62af19112328f462b6dd9aac2"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-JGA-and-context.png",
+      "sha256": "79e84f1cc5c41110e94ed2d757386806fd0e5ea9ca90abf4ead436e57de23a12"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-sources.png",
+      "sha256": "1d523f56ed82f1ecb5c43a4ba0571720d2efe5554d849c0f13bd7e56c67fdfae"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "ca0d5d68e4331f633f2884bbe166a733b3ad894fd412d9a5f03c53fd1701bd2d"
+    },
+    {
+      "path": "08-qa/t05r-review/integration-checks.json",
+      "sha256": "e8898e810577e06e412b6d01ba60ac904c6a484f38235f74ce5131a9de1e005e"
+    },
+    {
+      "path": "08-qa/t05r-review/INTEGRATED-REVIEW.md",
+      "sha256": "89a4715175f35104019a0ac3263a6517d32dd56b40fcc3f03894da4c1c6c1c7c"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "1886e900b093f8132b56483eafc2e90f8a7f446c03a0df4c636963dd14bd9001"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "53ac356ca5c9b2353b63f4055238bfaff6dd2b09bf884c7e7e9693508ddc51a1"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "38509da27205bb78fbf4abd9d8ea99fc974dcafaaad18c0e9237968cf15b9db4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "feaea89db0d7e4ad891d0514914d1e065bbd0476a3aed8c48ba568bc612baf65"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "1f8693e2bb29a6647cc7eeff7909241165f5b00318f3e9b8a5b13823080f24a3"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "2b4b7a616df17dbcbbd7238313a444e73e5e8ba4607226521f59b3c93a088f4d"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "f267426b85a29e4855d5a5b7633fa6cf194cc8fd5717068998b70152c9ec20df"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "1e096a3ca1af7e8f37f7d5d6df0c614d56c45e061c8c06deb607087e334ea450"
+    },
+    {
+      "path": "02-evidence/registers/source-aliases.json",
+      "sha256": "2b6476715c535cc186213226340e4f5c3d1c09ef91fbb7ba92a7069812070567"
+    }
+  ],
+  "completion_artifact_hashes_verified": true,
+  "next_step": "Customer/licence fulfilment, briefings, partner work and sales effort; then selected UK gathering/travel and dated cash before complete matched A/B pilot/annual model.",
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-31",
+    "checks": 7771,
+    "json_files": 614,
+    "source_records": 235,
+    "claim_records": 466,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 503,
+    "scope": "T05 research/staffing cost component with full event/revenue/cash model pending; T04 commercial route, model-unit/input/formula design and public venue-cost evidence with actual financial model and validation pending; T02 second challenge evidence/use/time/work/fulfilment/concept-state conditions; T02 three concrete internal propositions, use/rights/delivery and inactive draft guide; T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01–R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  }
+}

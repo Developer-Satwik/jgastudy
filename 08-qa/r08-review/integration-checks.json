@@ -1,0 +1,1259 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R08_preparatory_synthesis",
+  "check_count": 311,
+  "checks": [
+    {
+      "check": "76 preserved prior/core/client/register artifacts",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved baseline 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "check": "All76 prior internal findings unchanged",
+      "passed": true
+    },
+    {
+      "check": "Existing191source338claim120primarycapture totals preserved",
+      "passed": true
+    },
+    {
+      "check": "Hold remains CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Hold remains CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Hold remains CLM-0167",
+      "passed": true
+    },
+    {
+      "check": "Hold remains CLM-0168",
+      "passed": true
+    },
+    {
+      "check": "Hold remains CLM-0218",
+      "passed": true
+    },
+    {
+      "check": "Hold remains CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Fourteen core questions remain v0.2 exact",
+      "passed": true
+    },
+    {
+      "check": "Unperformed records empty 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "Unperformed records empty 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "Unperformed records empty 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "check": "Six ordered identifiers for linked optional views",
+      "passed": true
+    },
+    {
+      "check": "No forced stages score approval recipe or final completion",
+      "passed": true
+    },
+    {
+      "check": "Final dependency and unchanged core explicit",
+      "passed": true
+    },
+    {
+      "check": "Partial no-case adequate-current and no-action routes valid",
+      "passed": true
+    },
+    {
+      "check": "No forced private record or pending default",
+      "passed": true
+    },
+    {
+      "check": "Four missingness categories distinct",
+      "passed": true
+    },
+    {
+      "check": "Decision commitment delivery and benefit distinct",
+      "passed": true
+    },
+    {
+      "check": "Evidence acceptance and perceived influence explicitly separated after review",
+      "passed": true
+    },
+    {
+      "check": "V04 distinct optional acceptance and perceived influence fields",
+      "passed": true
+    },
+    {
+      "check": "All held claims excluded from positive framework support",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view V01",
+      "passed": true
+    },
+    {
+      "check": "Bounded positive claim links V01",
+      "passed": true
+    },
+    {
+      "check": "Exact source/claim union V01",
+      "passed": true
+    },
+    {
+      "check": "Finding/question linkage V01",
+      "passed": true
+    },
+    {
+      "check": "Separately authored evidence linkage preserved V01",
+      "passed": true
+    },
+    {
+      "check": "Selective blank view template V01",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view V02",
+      "passed": true
+    },
+    {
+      "check": "Bounded positive claim links V02",
+      "passed": true
+    },
+    {
+      "check": "Exact source/claim union V02",
+      "passed": true
+    },
+    {
+      "check": "Finding/question linkage V02",
+      "passed": true
+    },
+    {
+      "check": "Separately authored evidence linkage preserved V02",
+      "passed": true
+    },
+    {
+      "check": "Selective blank view template V02",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view V03",
+      "passed": true
+    },
+    {
+      "check": "Bounded positive claim links V03",
+      "passed": true
+    },
+    {
+      "check": "Exact source/claim union V03",
+      "passed": true
+    },
+    {
+      "check": "Finding/question linkage V03",
+      "passed": true
+    },
+    {
+      "check": "Separately authored evidence linkage preserved V03",
+      "passed": true
+    },
+    {
+      "check": "Selective blank view template V03",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view V04",
+      "passed": true
+    },
+    {
+      "check": "Bounded positive claim links V04",
+      "passed": true
+    },
+    {
+      "check": "Exact source/claim union V04",
+      "passed": true
+    },
+    {
+      "check": "Finding/question linkage V04",
+      "passed": true
+    },
+    {
+      "check": "Separately authored evidence linkage preserved V04",
+      "passed": true
+    },
+    {
+      "check": "Selective blank view template V04",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view V05",
+      "passed": true
+    },
+    {
+      "check": "Bounded positive claim links V05",
+      "passed": true
+    },
+    {
+      "check": "Exact source/claim union V05",
+      "passed": true
+    },
+    {
+      "check": "Finding/question linkage V05",
+      "passed": true
+    },
+    {
+      "check": "Separately authored evidence linkage preserved V05",
+      "passed": true
+    },
+    {
+      "check": "Selective blank view template V05",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view V06",
+      "passed": true
+    },
+    {
+      "check": "Bounded positive claim links V06",
+      "passed": true
+    },
+    {
+      "check": "Exact source/claim union V06",
+      "passed": true
+    },
+    {
+      "check": "Finding/question linkage V06",
+      "passed": true
+    },
+    {
+      "check": "Separately authored evidence linkage preserved V06",
+      "passed": true
+    },
+    {
+      "check": "Selective blank view template V06",
+      "passed": true
+    },
+    {
+      "check": "Blank reusable template blank_scope_template",
+      "passed": true
+    },
+    {
+      "check": "Blank reusable template blank_decision_brief",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result participant_observations",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result actual_case_records",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result completed_framework_use_tests",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result causal_effect_estimates",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result employer_forecasts",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result chart_data",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical result financial_inputs",
+      "passed": true
+    },
+    {
+      "check": "No inflated evidence or score new_source_routes",
+      "passed": true
+    },
+    {
+      "check": "No inflated evidence or score new_canonical_claims",
+      "passed": true
+    },
+    {
+      "check": "No inflated evidence or score new_market_estimates",
+      "passed": true
+    },
+    {
+      "check": "No inflated evidence or score new_numeric_scores",
+      "passed": true
+    },
+    {
+      "check": "Sending boundary preserved",
+      "passed": true
+    },
+    {
+      "check": "Unapproved two-part eight-chapter finished report retained",
+      "passed": true
+    },
+    {
+      "check": "Working files do not complete final formats or expose Table economics",
+      "passed": true
+    },
+    {
+      "check": "Exact proposed part labels preserved",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains What leaders want",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains How investment decisions happen",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains From Ambition to Investment",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains Operating reality",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains Technology and service needs",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains Priorities and commitment",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains The decision pathway",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains The business case",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains Progress and constraints",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains Staying or switching",
+      "passed": true
+    },
+    {
+      "check": "SourceDOCX outline contains The practical framework",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 1",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 1",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 1",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 1",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 2",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 2",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 2",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 2",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 3",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 3",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 3",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 3",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 4",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 4",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 4",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 4",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 5",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 5",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 5",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 5",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 6",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 6",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 6",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 6",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 7",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 7",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 7",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 7",
+      "passed": true
+    },
+    {
+      "check": "Chapter positive claims avoid holds 8",
+      "passed": true
+    },
+    {
+      "check": "Chapter holds only as guardrail 8",
+      "passed": true
+    },
+    {
+      "check": "Chapter finding/question linkage 8",
+      "passed": true
+    },
+    {
+      "check": "Chapter now versus later evidence separated 8",
+      "passed": true
+    },
+    {
+      "check": "Chapter3 new numeric hold separated from positive support",
+      "passed": true
+    },
+    {
+      "check": "Report original data absent practitioner_observations",
+      "passed": true
+    },
+    {
+      "check": "Report original data absent priority_rankings",
+      "passed": true
+    },
+    {
+      "check": "Report original data absent forecast_values",
+      "passed": true
+    },
+    {
+      "check": "Report original data absent chart_data",
+      "passed": true
+    },
+    {
+      "check": "Report no new core/contact",
+      "passed": true
+    },
+    {
+      "check": "Ten actual root applications correspond to designs",
+      "passed": true
+    },
+    {
+      "check": "Constructed applications outside fieldwork and numeric data",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T01",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T02",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T03",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T04",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T05",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T06",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T07",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T08",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T09",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Supplied premises exact R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Route support linkage R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Actual preparatory application R08-T10",
+      "passed": true
+    },
+    {
+      "check": "No invented employer identity/time/result R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Application references actual views/method R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Unknowns retained/no recorded violation R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Source design not retrospectively validated R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Adequate current route no invented case/action",
+      "passed": true
+    },
+    {
+      "check": "Preproposal route no invented pending/solution",
+      "passed": true
+    },
+    {
+      "check": "Noformalapproval limited to scoped action",
+      "passed": true
+    },
+    {
+      "check": "Initialphase approval does not fill later phases/release",
+      "passed": true
+    },
+    {
+      "check": "Limited renewal leaves execution/outcome open",
+      "passed": true
+    },
+    {
+      "check": "Retained platform/changed route keeps approval separate",
+      "passed": true
+    },
+    {
+      "check": "Elapsed rollout preserves known state versus current unknown",
+      "passed": true
+    },
+    {
+      "check": "Componentstop does not invent replacement/benefit",
+      "passed": true
+    },
+    {
+      "check": "Feature/roadmap not purchase/usable release",
+      "passed": true
+    },
+    {
+      "check": "Limitedknowledge/disclosure distinct no forcedowner/action",
+      "passed": true
+    },
+    {
+      "check": "Root structured routing checks pass",
+      "passed": true
+    },
+    {
+      "check": "Routing exact reviewed framework hash",
+      "passed": true
+    },
+    {
+      "check": "Routing exact application hash",
+      "passed": true
+    },
+    {
+      "check": "Routing exact source design hash",
+      "passed": true
+    },
+    {
+      "check": "No sending statement 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DECISION-FRAMEWORK.md R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DECISION-FRAMEWORK.md research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DECISION-FRAMEWORK.md R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "No sending statement 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-DESKTOP-SYNTHESIS.md research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "No sending statement 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-REPORT-INTEGRATION.md R08-report-integration-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-REPORT-INTEGRATION.md research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/R08-REPORT-INTEGRATION.md R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "No sending statement 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/modules/R08-decision-framework-and-synthesis.md ../R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/modules/R08-decision-framework-and-synthesis.md ../R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/modules/R08-decision-framework-and-synthesis.md ../R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/modules/R08-decision-framework-and-synthesis.md ../R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "Local draft link 03-report/modules/R08-decision-framework-and-synthesis.md ../R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "check": "WP15 retains original coding dependency and not finalcomplete",
+      "passed": true
+    },
+    {
+      "check": "No finished client deliverable falsely marked complete",
+      "passed": true
+    }
+  ],
+  "scope": "Independent review of separately authored evidence/reader/route inputs and root integrated preparatory canvas, ten manual constructed applications, report map and prior/core/client/register preservation. Internal coherence and traceability only; no original practitioner validation, causal approval effect, legal/vendor test, commercial demand or final publication assurance.",
+  "source_counts": {
+    "sources": 191,
+    "claims": 338,
+    "primary_captures": 120,
+    "internal_findings": 76
+  },
+  "external_actions": []
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-29",
+  "source_count_new": 3,
+  "reused_routes": [
+    "SRC-0109",
+    "SRC-0077"
+  ],
+  "new_routes_with_raw_original": 2,
+  "new_routes_with_selected_reader": 1,
+  "checks": {
+    "no_numbers_adopted": true,
+    "no_quotes_requested": true,
+    "no_account_or_product_test": true,
+    "public_list_not_total_cost": true,
+    "cash_credit_not_assumed": true,
+    "period_not_normalised_without_contract": true,
+    "retained_option_included": true
+  },
+  "screened_not_promoted": [
+    {
+      "url": "https://payfit.com/pricing/",
+      "actual_result": "Redirected to homepage",
+      "disposition": "Not pricing evidence, no tariff claim"
+    },
+    {
+      "url": "https://www.moorepay.co.uk/payroll/managed-payroll/",
+      "actual_result": "Tool inaccessible",
+      "disposition": "No service-scope claim"
+    },
+    {
+      "url": "https://www.brightpay.co.uk/docs/bpol/moving-to-brightpay-cloud/faqs-pricing/",
+      "actual_result": "Original retained; legacy2025/26 references with differing period language",
+      "disposition": "Version/context contrast only, not exact current period claim"
+    },
+    {
+      "url": "https://www.brightpay.co.uk/PricingNew.aspx",
+      "actual_result": "Original reader marks desktop2025/26",
+      "disposition": "No current cloud tariff adopted"
+    },
+    {
+      "category": "Third-party pricing/review snippets",
+      "disposition": "No amounts, ROI, company size or contract terms adopted"
+    }
+  ],
+  "external_actions": [],
+  "canonical_or_client_files_changed": false,
+  "questionnaire_changed": false
+}

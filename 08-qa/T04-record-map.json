@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-31",
+  "source_map": {
+    "T4E-S01": "SRC-0258",
+    "T4E-S02": "SRC-0259",
+    "T4E-S03": "SRC-0260",
+    "T4E-S04": "SRC-0261",
+    "T4E-S05": "SRC-0262"
+  },
+  "claim_map": {
+    "T4E-C01": "CLM-0534",
+    "T4E-C02": "CLM-0535",
+    "T4E-C03": "CLM-0536",
+    "T4E-C04": "CLM-0537",
+    "T4E-C05": "CLM-0538",
+    "T4E-C06": "CLM-0539",
+    "T4E-C07": "CLM-0540",
+    "T4E-C08": "CLM-0541",
+    "T4E-C09": "CLM-0542",
+    "T4E-C10": "CLM-0543",
+    "T4E-C11": "CLM-0544",
+    "T4E-C12": "CLM-0545",
+    "T4E-C13": "CLM-0546",
+    "T4E-C14": "CLM-0547",
+    "T4E-C15": "CLM-0548",
+    "T4E-C16": "CLM-0549"
+  },
+  "new_source_routes": 5,
+  "new_claim_records": 16,
+  "canonical_sources": 230,
+  "canonical_claims": 459,
+  "folders": [
+    "uk-costs"
+  ],
+  "commercial_validation": false,
+  "participant_observations": 0,
+  "financial_inputs_added": 0,
+  "source_capture_date": "2026-10-30"
+}

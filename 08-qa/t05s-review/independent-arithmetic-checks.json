@@ -1,0 +1,1526 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "method": "Independent Python evaluation of the actual saved OpenXML formula subset, direct register-based arithmetic oracle, cached-output comparison and in-memory input overrides. No workbook file mutation; no native Excel execution claim.",
+  "checks": [
+    {
+      "check_id": "45-per-unit-case-formula-results",
+      "passed": true,
+      "detail": [
+        {
+          "case": "low",
+          "unit_key": "campaign_count",
+          "actual_hours_reference_commercial_combined": [
+            6,
+            138.57,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            6,
+            138.57,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "contact_attempt_count",
+          "actual_hours_reference_commercial_combined": [
+            0.1,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.1,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "sales_discussion_count",
+          "actual_hours_reference_commercial_combined": [
+            0.75,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.75,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "proposal_attempt_count",
+          "actual_hours_reference_commercial_combined": [
+            1.5,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            1.5,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "extra_commercial_round_count",
+          "actual_hours_reference_commercial_combined": [
+            0.5,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.5,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "won_order_count",
+          "actual_hours_reference_commercial_combined": [
+            0.75,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.75,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "reading_path_count",
+          "actual_hours_reference_commercial_combined": [
+            0.5,
+            24.8,
+            0.0,
+            24.8
+          ],
+          "independent_expected": [
+            0.5,
+            24.8,
+            0,
+            24.8
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "use_asset_package_count",
+          "actual_hours_reference_commercial_combined": [
+            0.75,
+            37.2,
+            0.0,
+            37.2
+          ],
+          "independent_expected": [
+            0.75,
+            37.2,
+            0,
+            37.2
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "partner_bundle_count",
+          "actual_hours_reference_commercial_combined": [
+            1.0,
+            46.19,
+            0.0,
+            46.19
+          ],
+          "independent_expected": [
+            1.0,
+            46.19,
+            0,
+            46.19
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "distribution_run_count",
+          "actual_hours_reference_commercial_combined": [
+            0.5,
+            23.095,
+            0.0,
+            23.095
+          ],
+          "independent_expected": [
+            0.5,
+            23.095,
+            0,
+            23.095
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "briefing_session_count",
+          "actual_hours_reference_commercial_combined": [
+            2.5,
+            124.0,
+            0.0,
+            124.0
+          ],
+          "independent_expected": [
+            2.5,
+            124.0,
+            0,
+            124.0
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "service_case_count",
+          "actual_hours_reference_commercial_combined": [
+            0.35,
+            17.019,
+            0.0,
+            17.019
+          ],
+          "independent_expected": [
+            0.35,
+            17.019,
+            0,
+            17.019
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "invoice_cycle_count",
+          "actual_hours_reference_commercial_combined": [
+            0.25,
+            11.5475,
+            0.0,
+            11.5475
+          ],
+          "independent_expected": [
+            0.25,
+            11.5475,
+            0,
+            11.5475
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "renewal_action_count",
+          "actual_hours_reference_commercial_combined": [
+            0.5,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.5,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "low",
+          "unit_key": "cycle_note_count",
+          "actual_hours_reference_commercial_combined": [
+            1.5,
+            74.4,
+            0.0,
+            74.4
+          ],
+          "independent_expected": [
+            1.5,
+            74.4,
+            0,
+            74.4
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "campaign_count",
+          "actual_hours_reference_commercial_combined": [
+            12,
+            277.14,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            12,
+            277.14,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "contact_attempt_count",
+          "actual_hours_reference_commercial_combined": [
+            0.2,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.2,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "sales_discussion_count",
+          "actual_hours_reference_commercial_combined": [
+            1.25,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            1.25,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "proposal_attempt_count",
+          "actual_hours_reference_commercial_combined": [
+            3,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            3,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "extra_commercial_round_count",
+          "actual_hours_reference_commercial_combined": [
+            1.5,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            1.5,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "won_order_count",
+          "actual_hours_reference_commercial_combined": [
+            1.5,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            1.5,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "reading_path_count",
+          "actual_hours_reference_commercial_combined": [
+            1.25,
+            62.0,
+            0.0,
+            62.0
+          ],
+          "independent_expected": [
+            1.25,
+            62.0,
+            0,
+            62.0
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "use_asset_package_count",
+          "actual_hours_reference_commercial_combined": [
+            2,
+            99.2,
+            0.0,
+            99.2
+          ],
+          "independent_expected": [
+            2,
+            99.2,
+            0,
+            99.2
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "partner_bundle_count",
+          "actual_hours_reference_commercial_combined": [
+            2.25,
+            103.9275,
+            0.0,
+            103.9275
+          ],
+          "independent_expected": [
+            2.25,
+            103.9275,
+            0,
+            103.9275
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "distribution_run_count",
+          "actual_hours_reference_commercial_combined": [
+            1,
+            46.19,
+            0.0,
+            46.19
+          ],
+          "independent_expected": [
+            1,
+            46.19,
+            0,
+            46.19
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "briefing_session_count",
+          "actual_hours_reference_commercial_combined": [
+            5,
+            248.0,
+            0.0,
+            248.0
+          ],
+          "independent_expected": [
+            5,
+            248.0,
+            0,
+            248.0
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "service_case_count",
+          "actual_hours_reference_commercial_combined": [
+            0.75,
+            36.3475,
+            0.0,
+            36.3475
+          ],
+          "independent_expected": [
+            0.75,
+            36.3475,
+            0,
+            36.3475
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "invoice_cycle_count",
+          "actual_hours_reference_commercial_combined": [
+            0.75,
+            34.6425,
+            0.0,
+            34.6425
+          ],
+          "independent_expected": [
+            0.75,
+            34.6425,
+            0,
+            34.6425
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "renewal_action_count",
+          "actual_hours_reference_commercial_combined": [
+            1,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            1,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "working",
+          "unit_key": "cycle_note_count",
+          "actual_hours_reference_commercial_combined": [
+            3,
+            148.8,
+            0.0,
+            148.8
+          ],
+          "independent_expected": [
+            3,
+            148.8,
+            0,
+            148.8
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "campaign_count",
+          "actual_hours_reference_commercial_combined": [
+            24,
+            554.28,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            24,
+            554.28,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "contact_attempt_count",
+          "actual_hours_reference_commercial_combined": [
+            0.4,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            0.4,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "sales_discussion_count",
+          "actual_hours_reference_commercial_combined": [
+            2,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            2,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "proposal_attempt_count",
+          "actual_hours_reference_commercial_combined": [
+            6,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            6,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "extra_commercial_round_count",
+          "actual_hours_reference_commercial_combined": [
+            3,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            3,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "won_order_count",
+          "actual_hours_reference_commercial_combined": [
+            3,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            3,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "reading_path_count",
+          "actual_hours_reference_commercial_combined": [
+            3,
+            148.8,
+            0.0,
+            148.8
+          ],
+          "independent_expected": [
+            3,
+            148.8,
+            0,
+            148.8
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "use_asset_package_count",
+          "actual_hours_reference_commercial_combined": [
+            5,
+            248.0,
+            0.0,
+            248.0
+          ],
+          "independent_expected": [
+            5,
+            248.0,
+            0,
+            248.0
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "partner_bundle_count",
+          "actual_hours_reference_commercial_combined": [
+            4.5,
+            207.855,
+            0.0,
+            207.855
+          ],
+          "independent_expected": [
+            4.5,
+            207.855,
+            0,
+            207.855
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "distribution_run_count",
+          "actual_hours_reference_commercial_combined": [
+            2,
+            92.38,
+            0.0,
+            92.38
+          ],
+          "independent_expected": [
+            2,
+            92.38,
+            0,
+            92.38
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "briefing_session_count",
+          "actual_hours_reference_commercial_combined": [
+            9.5,
+            471.20000000000005,
+            0.0,
+            471.20000000000005
+          ],
+          "independent_expected": [
+            9.5,
+            471.2,
+            0,
+            471.2
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "service_case_count",
+          "actual_hours_reference_commercial_combined": [
+            2.0,
+            97.495,
+            0.0,
+            97.495
+          ],
+          "independent_expected": [
+            2.0,
+            97.495,
+            0,
+            97.495
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "invoice_cycle_count",
+          "actual_hours_reference_commercial_combined": [
+            1.5,
+            69.285,
+            0.0,
+            69.285
+          ],
+          "independent_expected": [
+            1.5,
+            69.285,
+            0,
+            69.285
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "renewal_action_count",
+          "actual_hours_reference_commercial_combined": [
+            2,
+            0.0,
+            "n.a.",
+            "n.a."
+          ],
+          "independent_expected": [
+            2,
+            0,
+            "n.a.",
+            "n.a."
+          ],
+          "passed": true
+        },
+        {
+          "case": "high",
+          "unit_key": "cycle_note_count",
+          "actual_hours_reference_commercial_combined": [
+            6,
+            297.6,
+            0.0,
+            297.6
+          ],
+          "independent_expected": [
+            6,
+            297.6,
+            0,
+            297.6
+          ],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check_id": "saved-working-formula-caches-match",
+      "passed": true,
+      "detail": {
+        "formula_count": 200,
+        "mismatches": []
+      }
+    },
+    {
+      "check_id": "blank-quantities-not-zero",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {}
+      }
+    },
+    {
+      "check_id": "all-zero-activity-cost",
+      "passed": true,
+      "detail": {
+        "actual": 0.0,
+        "expected": 0,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "all-zero-activity-hours",
+      "passed": true,
+      "detail": {
+        "actual": 0.0,
+        "expected": 0,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "two-briefing-sessions",
+      "passed": true,
+      "detail": {
+        "actual": 496.0,
+        "expected": 496,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 2,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "proposal-loss-retains-hours",
+      "passed": true,
+      "detail": {
+        "actual": 6.0,
+        "expected": 6,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 2,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "proposal-loss-unpriced-cost",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 2,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "proposal-commercial-entered",
+      "passed": true,
+      "detail": {
+        "actual": 240.0,
+        "expected": 240,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 2,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0,
+          "Inputs!E14": 40
+        }
+      }
+    },
+    {
+      "check_id": "explicit-zero-commercial-rate",
+      "passed": true,
+      "detail": {
+        "actual": 0.0,
+        "expected": 0,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 2,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0,
+          "Inputs!E14": 0
+        }
+      }
+    },
+    {
+      "check_id": "one-unknown-quantity-blocks-total",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D19": null,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "negative-activity-invalid",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": -1,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "fractional-activity-invalid",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": 0.5,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "text-activity-invalid",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 0,
+          "Inputs!D28": 0,
+          "Inputs!D29": "unknown",
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "missing-selected-effort-blocks-unit",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!H50": null
+        }
+      }
+    },
+    {
+      "check_id": "missing-unselected-effort-does-not-block",
+      "passed": true,
+      "detail": {
+        "actual": 248.0,
+        "expected": 248,
+        "input_overrides": {
+          "Inputs!G50": null
+        }
+      }
+    },
+    {
+      "check_id": "zero-shared-preparation-credit",
+      "passed": true,
+      "detail": {
+        "actual": 99.2,
+        "expected": 99.2,
+        "input_overrides": {
+          "Inputs!H50": 0
+        }
+      }
+    },
+    {
+      "check_id": "admin-independent-of-invalid-day-divisor",
+      "passed": true,
+      "detail": {
+        "actual": 46.19,
+        "expected": 46.19,
+        "input_overrides": {
+          "Inputs!F8": 0
+        }
+      }
+    },
+    {
+      "check_id": "specialist-blocked-by-invalid-day-divisor",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!F8": 0
+        }
+      }
+    },
+    {
+      "check_id": "joint-session-two-partners-once",
+      "passed": true,
+      "detail": {
+        "actual": 455.855,
+        "expected": 455.855,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 2,
+          "Inputs!D28": 0,
+          "Inputs!D29": 1,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "distinct-second-session-adds-delivery",
+      "passed": true,
+      "detail": {
+        "actual": 703.855,
+        "expected": 703.855,
+        "input_overrides": {
+          "Inputs!D19": 0,
+          "Inputs!D20": 0,
+          "Inputs!D21": 0,
+          "Inputs!D22": 0,
+          "Inputs!D23": 0,
+          "Inputs!D24": 0,
+          "Inputs!D25": 0,
+          "Inputs!D26": 0,
+          "Inputs!D27": 2,
+          "Inputs!D28": 0,
+          "Inputs!D29": 2,
+          "Inputs!D30": 0,
+          "Inputs!D31": 0,
+          "Inputs!D32": 0,
+          "Inputs!D33": 0
+        }
+      }
+    },
+    {
+      "check_id": "out-of-range-selector-invalid",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D4": 4
+        }
+      }
+    },
+    {
+      "check_id": "pasted-text-selector-invalid",
+      "passed": true,
+      "detail": {
+        "actual": "n.a.",
+        "expected": "n.a.",
+        "input_overrides": {
+          "Inputs!D4": "invalid"
+        }
+      }
+    },
+    {
+      "check_id": "two-tabs-exact",
+      "passed": true,
+      "detail": [
+        "Service cost",
+        "Inputs"
+      ]
+    },
+    {
+      "check_id": "fifteen-saved-quantities-blank",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "commercial-rate-saved-blank",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "working-selector-and-divisor",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "restored-rate-inputs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "partner-label-is-administration",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "seven-role-tasks-each",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "unit-task-partition",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS08",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS19",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS20",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "task-lineage-WS21",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "baseline-hashes-preserved",
+      "passed": true,
+      "detail": {
+        "count": 333,
+        "failures": []
+      }
+    },
+    {
+      "check_id": "snapshot-hashes-preserved",
+      "passed": true,
+      "detail": {
+        "count": 13,
+        "failures": []
+      }
+    },
+    {
+      "check_id": "preserved-prefix-financial-inputs",
+      "passed": true,
+      "detail": {
+        "old_count": 33,
+        "new_count": 70
+      }
+    },
+    {
+      "check_id": "old-source-substance-and-prefix-order-preserved",
+      "passed": true,
+      "detail": {
+        "old_count": 242,
+        "new_count": 247,
+        "metadata_appends": [
+          {
+            "source_id": "SRC-0263",
+            "field": "additional_reviews",
+            "append_only_metadata": true
+          },
+          {
+            "source_id": "SRC-0263",
+            "field": "related_topic_ids",
+            "append_only_metadata": true
+          },
+          {
+            "source_id": "SRC-0265",
+            "field": "additional_reviews",
+            "append_only_metadata": true
+          },
+          {
+            "source_id": "SRC-0265",
+            "field": "related_topic_ids",
+            "append_only_metadata": true
+          },
+          {
+            "source_id": "SRC-0266",
+            "field": "additional_reviews",
+            "append_only_metadata": true
+          },
+          {
+            "source_id": "SRC-0266",
+            "field": "related_topic_ids",
+            "append_only_metadata": true
+          }
+        ]
+      }
+    },
+    {
+      "check_id": "preserved-prefix-claims",
+      "passed": true,
+      "detail": {
+        "old_count": 484,
+        "new_count": 495
+      }
+    },
+    {
+      "check_id": "preserved-prefix-findings",
+      "passed": true,
+      "detail": {
+        "old_count": 81,
+        "new_count": 81
+      }
+    },
+    {
+      "check_id": "five-new-primary-routes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "eleven-new-bounded-claims",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "five-html-five-parsed-capture-hashes",
+      "passed": true,
+      "detail": [
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S01.html",
+          "sha256": "193f2645aeb95f095ba383866f3432206cf9d58d9c989cad4bca238b966bbcf3",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S01.txt",
+          "sha256": "4a907963c087682765720acd3019161851b24dbb6c6621bc79dada2ae7bb45a5",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S02.html",
+          "sha256": "bc62d7a0cfba8c2c9ebe82e9cece01908ee352fe7a60e03d807c01f4c15de423",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S02.txt",
+          "sha256": "6dc4e98e503a1433484bb78bdcb64832d6a28853f477a812282d868e3f014953",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S03.html",
+          "sha256": "7e91e1bad9a035a1e02bb3a84b32fe0b144d2bdf1b5e9b3e3f4d8cdf66fbc2b5",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S03.txt",
+          "sha256": "f22ca0edf2ebae78f92a3a06ef7d022dbc502d0049bcf873064ce27f724fe344",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S04.html",
+          "sha256": "8e13fd7ee77729b4e836da0381e6ae614672c2c4baf148ff4dd0d66f17e4bd35",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S04.txt",
+          "sha256": "199c9924599d8280cfed2fb2d30d5ae1e570cc2f9ed6f0abc72a3b07f2c076c6",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/root/captures/T5M-S01.html",
+          "sha256": "0c0b060f253bef46f30815fd5a20a48c328470782b78d9525e8ef4310609880c",
+          "passed": true
+        },
+        {
+          "path": "04-table/research-notes/t05-service-costs/root/parsed/T5M-S01.txt",
+          "sha256": "35e19ba30cd5f7a7d5fda672f648955ae982cf41bbbd337d17cec0442f62f94d",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check_id": "exact-new-financial-records",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "no-new-actual-cost-or-budget",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "new-quantity-values-null",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "unknown-commercial-record-null",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check_id": "delivered-workbook-hash",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "check_count": 66,
+  "passed_count": 66,
+  "diagnostics": [
+    {
+      "case": "Pasted nonnumeric selector outside validated input domain",
+      "result": "n.a."
+    }
+  ]
+}

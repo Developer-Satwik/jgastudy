@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-28",
+  "status": "passed_for_parent_review",
+  "source_candidates": 6,
+  "claim_candidates": 6,
+  "retained_original_html": 4,
+  "web_inspected_local_capture_unavailable": 2,
+  "hashes_checked": 4,
+  "canonical_files_changed": false,
+  "external_actions": [],
+  "review_scope": "Six bounded live primary offers/guidance; context only, no achieved service or procurement scoring."
+}

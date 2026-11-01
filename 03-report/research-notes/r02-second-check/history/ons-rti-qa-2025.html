@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Quality assurance of administrative data used in earnings and employment from PAYE RTI - Office for National Statistics</title>
+        <meta charset="utf-8" />
+        <meta content="width=device-width,initial-scale=1.0,user-scalable=1" name="viewport">
+        <meta name="theme-color" content="#58595B">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#58595B">
+
+        <meta name="description" content="Investigation of the administrative data used in production of ONS and HMRC earnings and employment from Pay As You Earn (PAYE) Real Time Information (RTI) data.">
+
+        
+        <link rel="stylesheet" type="text/css" href="//cdn.ons.gov.uk/sixteens/ef5a1ca/css/main.css">
+		
+
+        <script>
+    // extractValue extracts the value from an undecodeable json cookie string
+    function extractValue(key, extractionString) {
+        const extractionRegex = new RegExp(`'${key}':(.*?)[,}]`)
+        const match = extractionString.match(extractionRegex)
+        if (match) {
+            return match[1]
+        }
+        
+        return null
+    }
+
+    // isUsageCookieAllowed reads the ons_cookie_policy to determine the user's usage preference. 
+    function isUsageCookieAllowed() {
+        // ons_cookie_policy handler
+        var policyCookie = document.cookie.match('(?:^|; )ons_cookie_policy=({.*?})');
+        if (policyCookie) {
+            console.debug('ons_cookie_policy found');
+
+            var usageValue = extractValue("usage", policyCookie[1]);
+            console.debug('usage is', usageValue);
+
+            return (usageValue == "true") ? true : false
+        }
+        console.debug('no cookie found - opting out');
+        return false
+    }
+
+    // unescape html entities
+    function htmlUnescape(str){
+        return str
+                .replace(/&#x3D;/g, "=");
+    }
+
+    
+    var dataLayer = [{
+        contentTitle: htmlUnescape("Quality assurance of administrative data used in earnings and employment from PAYE RTI"),
+        "gtm.whitelist": ["google","hjtc","lcl"],
+        "gtm.blacklist": ["customScripts","sp","adm","awct","k","d","j"]
+    }];
+
+    
+    dataLayer[0]["releaseDate"] = "2025/01/10";
+    
+
+    
+
+    
+    
+
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+
+</script>
+
+
+        <!-- Google Tag Manager -->
+        <script>
+			// The naming of this function is important as it is called from sixteens as well as from other DOM code
+			function loadGTM(){
+				(function (w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer'
+					? '&l=' + l
+					: '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+				})(window, document, 'script', 'dataLayer', 'GTM-MBCBVQS');
+      		}
+
+			if (isUsageCookieAllowed()) {
+				loadGTM();
+			}
+	  	</script>
+        <!-- End Google Tag Manager -->
+
+        
+
+		
+		
+
+	</head>
+	<body class="static_methodology">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
+    <form action="/cookies/accept-all" method="GET" id="global-cookie-message"
+      class="cookies-banner cookies-banner--hidden js-cookies-banner-form clearfix"
+      aria-label="cookie banner">
+    <div class="cookies-banner__wrapper wrapper js-cookies-banner-inform">
+        <div>
+            <div class="cookies-banner__message adjust-font-size--18">
+                <h3 class="cookies-banner__heading">Cookies on ons.gov.uk</h3>
+                <p class="cookies-banner__body">Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.</p>
+                <p class="cookies-banner__body">We would like to set <a href="/cookies">additional cookies</a> to remember your settings and understand how you use the site. This helps us to improve our services.</p>
+            </div>
+            <div class="cookies-banner__buttons">
+                <div class="nojs--hide cookies-banner__button cookies-banner__button--accept">
+                    <button class="btn btn--full-width btn--primary btn--focus margin-right--2 font-weight-700 font-size--17 text-wrap js-accept-cookies" data-gtm-accept-cookies="true" type="submit" data-action="accept" tabindex="0">
+                        Accept additional cookies
+                    </button>
+                </div>
+                <div class="nojs--hide cookies-banner__button cookies-banner__button--reject">
+                    <button class="btn btn--full-width btn--primary btn--focus margin-right--2 font-weight-700 font-size--17 text-wrap js-reject-cookies" data-gtm-accept-cookies="false" type="submit" data-action="reject" tabindex="0">
+                        Reject additional cookies
+                    </button>
+                </div>
+                <div class="cookies-banner__button">
+                    <a href="/cookies">Manage settings</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hidden js-cookies-banner-confirmation" tabindex="-1">
+        <div class="cookies-banner__wrapper wrapper">
+            <div class="col">
+                <div class="cookies-banner__message adjust-font-size--18">
+                    <p class="cookies-banner__confirmation-message">
+                        <span class="hidden ons-js-accepted-text">You have accepted all additional cookies.</span>
+                        <span class="hidden ons-js-rejected-text">You have rejected all additional cookies.</span>
+                        <span>You can <a href="/cookies">change your cookie preferences</a> at any time.</span>
+                        <button type="button" class="cookies-banner__button--hide js-hide-cookies-banner">Hide</button>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBCBVQS"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+        
+        
+		
+
+		
+
+		
+		 			
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<header >
+	
+    <a class="skiplink" href="#main" tabindex="0">
+        Skip to main content
+    </a>
+	
+  
+  
+
+	
+	
+	<div id="pagePath" class="hide">/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti</div>
+	
+		<div class="wrapper">
+			<div class="header col-wrap">
+				<div class="col col--lg-one-third col--md-one-third">
+					<a href="/">
+						<!--[if lte IE 8]>
+							<img class="logo" src="https://cdn.ons.gov.uk/assets/images/ons-logo/v2/ons-logo.png" alt="Office for National Statistics logo - Homepage">
+						<![endif]-->
+						<img class="logo" src="https://cdn.ons.gov.uk/assets/images/ons-logo/v2/ons-logo.svg" alt="Office for National Statistics logo - Homepage">
+					</a>
+				</div>
+				
+                <div class="col col--lg-two-thirds col--md-two-thirds hide--sm print--hide language--js__container">
+                    
+                    <div class="language">
+                        
+                            <span>English (EN) | </span>
+                            <a href="
+
+
+
+    //cy.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti
+" class="language__link" lang="cy">Cymraeg (CY)</a>
+                        
+                    </div>
+                </div>
+				<div class="secondary-nav col col--lg-two-thirds col--md-two-thirds print--hide">
+					<ul class="secondary-nav__list js-nav-clone__list">
+                        <li class="secondary-nav__item">
+                            <a class="secondary-nav__link  js-nav-clone__link" href="/releasecalendar">Release calendar</a>
+                        </li>
+                        <li class="secondary-nav__item">
+                            <a class="secondary-nav__link  js-nav-clone__link" href="/methodology">Methodology</a>
+                        </li>
+                        <li class="secondary-nav__item">
+                            <a class="secondary-nav__link  js-nav-clone__link" href="/news">Media</a>
+                        </li>
+						<li class="secondary-nav__item">
+							<a class="secondary-nav__link  js-nav-clone__link" href="/aboutus">About</a>
+						</li>
+						<li class="secondary-nav__item">
+							<a class="secondary-nav__link js-nav-clone__link" rel="noopener noreferrer" href="https://blog.ons.gov.uk/">Blog</a>
+						</li>
+					</ul>
+				</div>
+				
+			</div>
+		</div>
+	
+
+	
+	
+	<div class="primary-nav print--hide">
+		<nav aria-label="Header links">
+			
+			<ul class="nav--controls">
+				<li class="nav--controls__item">
+					<a href="#nav-primary" id="menu-toggle" aria-controls="nav-primary" aria-expanded="false" class="nav--controls__menu">
+						<span class="nav--controls__text">Menu</span>
+					</a>
+				</li>
+				<li class="nav--controls__item ">
+					<a href="#nav-search" id="search-toggle" aria-controls="nav-search" aria-expanded="false" class="nav--controls__search" aria-label="Search">
+						<span class="nav--controls__text">Search</span>
+					</a>
+				</li>
+			</ul>
+			
+			<ul class="wrapper nav-main--hidden primary-nav__list" id="nav-primary" aria-expanded="false">
+				<li class="primary-nav__item  js-nav hide--sm old-ie--display-block"><a class="primary-nav__link col col--md-7 col--lg-9" href="/">Home</a></li>
+				
+				
+				
+				
+				
+				<li class="primary-nav__item js-nav js-expandable ">
+					<a class="primary-nav__link col col--md-8 col--lg-10" href="/businessindustryandtrade" aria-expanded="false" aria-label="Business, industry and trade sub menu">
+						<span aria-hidden="true" class="expansion-indicator"></span>
+						<span class="submenu-title">
+							Business, industry and trade
+						</span>
+					</a>
+					<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+						
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/business" >Business</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/changestobusiness" >Changes to business</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/constructionindustry" >Construction industry</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/itandinternetindustry" >Digital economy</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/internationaltrade" >International trade</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/manufacturingandproductionindustry" >Manufacturing and production industry</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/retailindustry" >Retail industry</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/businessindustryandtrade/tourismindustry" >Tourism industry</a>
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				<li class="primary-nav__item js-nav js-expandable ">
+					<a class="primary-nav__link col col--md-8 col--lg-10" href="/economy" aria-expanded="false" aria-label="Economy sub menu">
+						<span aria-hidden="true" class="expansion-indicator"></span>
+						<span class="submenu-title">
+							Economy
+						</span>
+					</a>
+					<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+						
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/economicoutputandproductivity" >Economic output and productivity</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/environmentalaccounts" >Environmental accounts</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/governmentpublicsectorandtaxes" >Government, public sector and taxes</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/grossdomesticproductgdp" >Gross Domestic Product (GDP)</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/grossvalueaddedgva" >Gross Value Added (GVA)</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/inflationandpriceindices" >Inflation and price indices</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/investmentspensionsandtrusts" >Investments, pensions and trusts</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/nationalaccounts" >National accounts</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/economy/regionalaccounts" >Regional accounts</a>
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				<li class="primary-nav__item js-nav js-expandable primary-nav__item--active">
+					<a class="primary-nav__link col col--md-8 col--lg-10" href="/employmentandlabourmarket" aria-expanded="false" aria-label="Employment and labour market sub menu">
+						<span aria-hidden="true" class="expansion-indicator"></span>
+						<span class="submenu-title">
+							Employment and labour market
+						</span>
+					</a>
+					<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+						
+						
+						<li class="primary-nav__child-item primary-nav__child-item--active js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/employmentandlabourmarket/peopleinwork" >People in work</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/employmentandlabourmarket/peoplenotinwork" >People not in work</a>
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<li class="primary-nav__item js-nav js-expandable ">
+					<a class="primary-nav__link col col--md-8 col--lg-10" href="/peoplepopulationandcommunity" aria-expanded="false" aria-label="People, population and community sub menu">
+						<span aria-hidden="true" class="expansion-indicator"></span>
+						<span class="submenu-title">
+							People, population and community
+						</span>
+					</a>
+					<ul class="primary-nav__child-list col col--md-16 col--lg-20 js-expandable__content js-nav-hidden jsEnhance" aria-expanded="false" aria-label="submenu">
+						
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/armedforcescommunity" >Armed forces community</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/birthsdeathsandmarriages" >Births, deaths and marriages</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/crimeandjustice" >Crime and justice</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/culturalidentity" >Cultural identity</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/educationandchildcare" >Education and childcare</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/elections" >Elections</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/healthandsocialcare" >Health and social care</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/householdcharacteristics" >Household characteristics</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/housing" >Housing</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/leisureandtourism" >Leisure and tourism</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/wellbeing" >Measuring progress, well-being and beyond GDP</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/personalandhouseholdfinances" >Personal and household finances</a>
+						</li>
+						
+						<li class="primary-nav__child-item  js-expandable__child">
+							<a class="primary-nav__child-link" tabindex="-1" href="/peoplepopulationandcommunity/populationandmigration" >Population and migration</a>
+						</li>
+						
+					</ul>
+				</li>
+				
+				
+				
+				
+				
+				
+				
+				<li class="primary-nav__item  js-nav">
+					<a class="primary-nav__link  col col--md-8 col--lg-10" href="/surveys">
+						Taking part in a survey?
+					</a>
+				</li>
+				<li class="hide--md primary-nav__language">
+					
+						<span>English (EN) | </span>
+						<a href="
+
+
+
+    //cy.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti
+" class="language__link">Cymraeg (CY)</a>
+					
+				</li>
+			</ul>
+		</nav>
+	</div>
+	
+	
+		<div class="search nav-search--hidden print--hide" id="searchBar" role="search">
+			<div class="wrapper">
+				<form class="col-wrap search__form" action="/search">
+					<label class="search__label col col--md-23 col--lg-24" for="nav-search">Search for a keyword(s) or time series ID</label>
+					<input type="search" autocomplete="off" class="search__input col col--md-21 col--lg-32" id="nav-search" name="q" value="">
+					<button type="submit" class="search__button col--md-3 col--lg-3" id="nav-search-submit" aria-label="Search">
+						<span class="visuallyhidden">Search</span>
+						<span class="icon icon-search--light"></span>
+					</button>
+				</form>
+			</div>
+		</div>
+	
+	<div class="promo__background--plum-gradient">
+    <div class="wrapper">
+        <div class="banner--half-padding">
+            <p class="margin-top--0 margin-bottom--0 padding-bottom--0 padding-top--0 flex flex-wrap-wrap banner--vertical-center">
+                <a class="flex" href="/census"><img src="https://cdn.ons.gov.uk/assets/images/census-logo/logo-census-2021-white-landscape.svg" title="Census 2021" alt="" class="header__svg-logo margin-right--1" xmlns="http://www.w3.org/2000/svg" focusable="false" width="167" height="32" viewBox="0 0 242 44" aria-labelledby="census-logo-banner" />
+                <a class="margin-top--0 text--white font-size--18 underline-link" href="/census">Data and analysis from Census 2021</a>
+            </p>
+        </div>
+    </div>
+</div>
+	
+</header>
+
+
+
+
+	
+    
+        <div class="page-neutral-intro background--gallery">
+  <div class="wrapper">
+    <div class="col-wrap">
+      <div class="col">
+        <nav aria-label="Breadcrumbs">
+          <div class="breadcrumb print--hide">
+            <ol class="breadcrumb__list">
+              
+                <li class="breadcrumb__item">
+                  <a
+                    class="breadcrumb__link"
+                    href="/"
+                  >Home</a>
+                </li>
+              
+                <li class="breadcrumb__item">
+                  <a
+                    class="breadcrumb__link"
+                    href="/employmentandlabourmarket"
+                  >Employment and labour market</a>
+                </li>
+              
+                <li class="breadcrumb__item">
+                  <a
+                    class="breadcrumb__link"
+                    href="/employmentandlabourmarket/peopleinwork"
+                  >People in work</a>
+                </li>
+              
+                <li class="breadcrumb__item">
+                  <a
+                    class="breadcrumb__link"
+                    href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes"
+                  >Employment and employee types</a>
+                </li>
+              
+
+              <li class="breadcrumb__item">
+                
+                  Quality assurance of administrative data used in earnings and employment from PAYE RTI
+                
+              </li>
+            </ol>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+		
+<main id="main" role="main" tabindex="-1">
+
+
+    <div class="page-neutral-intro background--gallery">
+	<div class="wrapper">
+		<div class="col-wrap">
+			<div class="col">
+				
+				<div class="col col--md-47 col--lg-48">
+                    
+                        <h1 class="page-intro__title ">
+    Quality assurance of administrative data used in earnings and employment from PAYE RTI
+</h1>
+
+
+    
+        <p class="page-intro__content">Investigation of the administrative data used in production of ONS and HMRC earnings and employment from Pay As You Earn (PAYE) Real Time Information (RTI) data.</p>
+    
+
+                    
+				</div>
+				
+			</div> 
+		</div> 
+	</div> 
+    
+
+
+
+    
+	
+	
+		
+			
+
+
+
+	
+
+
+		
+	
+
+    
+    <div class="meta-wrap">
+        <div class="wrapper">
+            <div class="col-wrap">
+
+                
+                
+                    <p class="col col--md-12 col--lg-15 meta__item">
+                        <span>Contact: </span><br/><a
+                            href="mailto:labour.market@ons.gov.uk, rtistatistics.enquiries@hmrc.gov.uk">ONS Labour Market team and HMRC RTI Statistics</a>
+                    </p>
+                
+                
+                
+                    <p class="col col--md-12 col--lg-15 meta__item">
+                        <span>Last revised: </span><br/>10 January 2025<br/>
+                    </p>
+                
+
+                
+
+            </div>
+        </div>
+    </div>
+
+
+</div> 
+
+
+<div class="page-content">
+	
+    <div class="wrapper">
+        
+        <div class="col-wrap border-bottom--iron-md">
+            
+            <div class="col col--md-31 col--lg-41 margin-left-md--1">
+	<div class="table-of-contents print--avoid-break">
+		<h2 class="table-of-contents__title">Table of contents</h2>
+		<ol id="toc" class="table-of-contents__list">
+			
+			<li class="table-of-contents__item">
+				<a href="#overview" class="js-scroll">Overview</a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#quality-assurance-of-administrative-data-qaad-assessment-what-is-a-qaad-" class="js-scroll">Quality assurance of administrative data (QAAD) assessment
+What is a QAAD? 
+</a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#practice-area-1-operational-context-and-administrative-data-collection-qaad-matrix-score-a2-" class="js-scroll">Practice area 1: operational context and administrative data collection (QAAD Matrix score A2) </a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#practice-area-2-communication-with-data-supply-partners-qaad-matrix-score-a1-" class="js-scroll">Practice area 2: communication with data supply partners (QAAD Matrix score A1) </a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#practice-area-3-quality-assurance-principles-standards-and-checks-applied-by-data-suppliers-qaad-matrix-score-a1-" class="js-scroll">Practice area 3: quality assurance principles, standards and checks applied by data suppliers (QAAD Matrix score A1) </a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#practice-area-4-producer-s-quality-assurance-investigations-and-documentation-qaad-matrix-score-a2-" class="js-scroll">Practice area 4: producer’s quality assurance investigations and documentation (QAAD Matrix score A2) </a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#summary-of-the-strengths-and-limitations" class="js-scroll">Summary of the strengths and limitations</a>
+			</li>
+			
+			<li class="table-of-contents__item">
+				<a href="#cite-this-methodology" class="js-scroll">Cite this methodology</a>
+			</li>
+			
+			
+			
+		</ol>
+	</div>
+</div>
+            
+            
+            	
+
+<div class="col col--md-15 col--lg-16 margin-bottom-sm--2 margin-top-md--7 margin-bottom-md--2 margin-left-lg--2 padding-bottom-sm--2 padding-left-sm--1 padding-bottom-md--1 border-top--iron-sm border-right--iron-sm border-bottom--iron-sm border-left--iron-sm border-top--iron-md border-right--iron-md border-bottom--iron-md border-left--iron-md js-print-pdf print--hide">
+    <p class="text-right--md padding-top-md--0 padding-bottom-md--0 height--5 margin-bottom-md--0 print--hide nojs--hide js--show">
+        <a href="" class="link-complex nojs--hide js--show js-print-page">
+            Print this <span class="lowercase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Methodology
+
+
+
+
+</span>
+        </a>
+        <span class="icon icon-print--dark"></span>
+    </p>
+    <p class="text-right--md padding-top-md--0 padding-bottom-md--0 height--5 margin-top-md--1 print--hide">
+        <a href="/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti/pdf" class="link-complex js-pdf-dl-link" aria-label="Download Quality assurance of administrative data used in earnings and employment from PAYE RTI as PDF">
+            Download as PDF
+        </a>
+        <span class="icon icon-download--dark"></span>
+    </p>
+</div>
+            
+        </div>
+
+		
+		<div class="hide--md margin-top-sm--1">
+
+
+</div>
+
+        
+        <article class="col col--md-36 col--lg-39 page-content__main-content padding-bottom">
+            
+                <div id="overview" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">1.</span> Overview</h2>
+                        </header>
+                        <h3>Summary of the Earnings and employment from PAYE RTI publication</h3><p>Each month HM Revenue and Customs (HMRC) and the Office for National Statistics (ONS) jointly release estimates of payrolled employees and their pay using HMRC's Pay As You Earn (PAYE) Real Time Information (RTI) data.</p><p>As part of RTI requirements, eligible employers must report payroll information, which includes all employees' pay, tax and deductions to HMRC each time an employee is paid. From this administrative data source estimates are calculated on the number of individuals in PAYE and the average and total earnings paid through PAYE RTI for the UK as well as split by region, age, sector and other breakdowns.</p><p>This report contains information on the RTI administrative data source, as well as a quality assessment of the source in line with the Quality Assurance of Administrative Data (QAAD) toolkit developed by the UK Statistics Authority.</p>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="quality-assurance-of-administrative-data-qaad-assessment-what-is-a-qaad-" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">2.</span> Quality assurance of administrative data (QAAD) assessment
+What is a QAAD? 
+</h2>
+                        </header>
+                        <p>The <a href="https://osr.statisticsauthority.gov.uk/guidance/administrative-data-and-official-statistics/">Quality Assurance for Administrative Data (QAAD)</a> was introduced by the UK Statistics Authority in 2015. Under the <a href="https://code.statisticsauthority.gov.uk/">Code of Practice for Statistics</a>, producers of statistics must review data that is used to produce statistics. The Statistics Authority encourages the use of a QAAD assessment to do this.</p><p>This report aims to apply the relevant principles of the QAAD toolkit to provide a level of assurance for the use of the <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/earningsandemploymentfrompayasyouearnrealtimeinformationuk/latest">Earnings and employment from PAYE RTI publication</a>. The Administrative Data Quality Assurance toolkit recognises that a proportionate level of assurance should be applied relative to the statistic's importance and some statistics need more assurance than others.</p><p>The <a href="https://osr.statisticsauthority.gov.uk/wp-content/uploads/2019/02/qualityassurancetoolkit_updated_Feb19_2.pdf">Administrative Data Quality Assurance toolkit (PDF, 244KB) </a>provides guidance for meeting assurance levels.</p><p>The assessment has been carried out in accordance with the QAAD toolkit.</p><p>The QAAD toolkit sets out four levels of quality assurance, used in the UK Statistics Authority Risk and Profile Matrix:</p>
+<ul>
+  <li><p>A0 – no assurance: this level is not compliant with the <a href="https://code.statisticsauthority.gov.uk/">Code of Practice for Statistics</a> </p></li>
+  <li><p>A1 – basic assurance: the statistical producer has reviewed and published a summary of the administrative data quality assurance (QA) arrangements</p></li>
+  <li><p>A2 – enhanced assurance: the statistical producer has evaluated the administrative data QA arrangements and published a fuller description of the assurance</p></li>
+  <li><p>A3 – comprehensive assurance: the statistical producer has investigated the administrative data QA arrangements, identified the results of an independent audit and published detailed documentation about the assurance and audit</p></li>
+</ul><h3>UK Statistics Authority Risk and Profile Matrix</h3><h4>Low level of risk of quality concerns</h4>
+<ul>
+  <li><p>Lower public interest profile: statistics of lower quality concern and lower public interest [A1]</p></li>
+  <li><p>Medium public interest profile: statistics of lower quality concern and medium public interest [A1/A2]</p></li>
+  <li><p>Higher public interest profile: statistics of lower quality concern and higher public interest [A1/A2]</p></li>
+</ul><h4>Medium level of risk of quality concerns</h4>
+<ul>
+  <li><p>Lower public interest profile: statistics of medium quality concern and lower public interest [A1/A2]</p></li>
+  <li><p>Medium public interest profile: statistics of medium quality concern and medium public interest [A2]</p></li>
+  <li><p>Higher public interest profile: statistics of medium quality concern and higher public interest [A2/A3]</p></li>
+</ul><h4>High level of risk of quality concerns</h4>
+<ul>
+  <li><p>Lower public interest profile: statistics of higher quality concern and lower public interest [A1/A2/A3]</p></li>
+  <li><p>Medium public interest profile: statistics of higher quality concern and medium public interest [A3]</p></li>
+  <li><p>Higher public interest profile: statistics of higher quality concern and higher public interest [A3]</p></li>
+</ul><p>The QAAD toolkit outlines four specific areas for assurance, and the rest of this report will focus on these areas in turn. These are:</p>
+<ul>
+  <li><p>operational context and administrative data collection (Section 3)</p></li>
+  <li><p>communication with data supply partners (Section 4)</p></li>
+  <li><p>quality assurance principles, standards and checks applied by data suppliers (Section 5)</p></li>
+  <li><p>producer's quality assurance investigations and documentation (Section 6)</p></li>
+</ul><p>Each of the four practice areas are evaluated separately, and the respective level of assurance is stated.</p>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="practice-area-1-operational-context-and-administrative-data-collection-qaad-matrix-score-a2-" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">3.</span> Practice area 1: operational context and administrative data collection (QAAD Matrix score A2) </h2>
+                        </header>
+                        <h3>Definition</h3><p>This relates to the need for statistical producers to gain an understanding of the environment and processes in which the administrative data are being compiled and the factors that might increase the risks to the quality of the administrative data.</p><h3>Background information on PAYE</h3><p>HM Revenue and Customs (HMRC) is the department of the UK government that is responsible for the collection of taxes, including Pay As You Earn (PAYE). In 1944 the PAYE system was introduced whereby tax was deducted from wages by employers during each pay cycle, for example, each week or month.</p><p>PAYE is a tax on all payments of wages and salary or other compensation such as sick pay, maternity pay, directors' fees, and pensions. It is deducted by the employer from those payments where certain criteria are met. Specifically, if any employee is paid above the National Insurance Lower Earnings Level (LEL), get expenses and/or benefits, have another job or get a pension, then the employer is responsible for reporting the payments and deductions made and for sending the tax on to HMRC each month.</p><h3>Information on RTI</h3><p>Real Time Information (RTI) was an important government programme to improve the way in which employers submit PAYE National Insurance contributions (NICs) and Statutory Payments information to HMRC. Previously employers and pension providers sent information about tax, NICs and other payroll deductions to HMRC after the end of each tax year. However, under RTI, employers and pension providers send HMRC data online in real time about tax, NICs and other deductions when or before each salary or earnings, or pension payment is made.</p><p>RTI makes the PAYE process simpler and less burdensome for employers and HMRC, for example, by removing the need for the end of year return (P35 and P14) and simplifying the employee starting and leaving processes. It also makes PAYE more accurate for individuals, over time reducing the number of bills and repayments sent after the end of the tax year.</p><p>RTI was first introduced in April 2012, with a pilot service for volunteer software developers and employers over a period of 12 months. Following on from the pilot, most employers started reporting their PAYE information in real time from April 2013, with a number of non-standard PAYE schemes finally starting to send their PAYE information in real time in April 2014. Since 6 April 2013, all new PAYE registrations are required to join RTI unless they have an accepted claim for exemption from online filing.</p><h3>Employer responsibilities and information submitted</h3><p>Each time an eligible employer pays their employees they must submit a Full Payment Submission (FPS) to HMRC. The FPS is the main RTI electronic submission which an employer completes and submits to HMRC each time that they pay their employees, regardless of the expected length of employment or amount of pay, to advise HMRC which employees they have paid and to give full details of the payment and the deductions from it.</p><p>This gives details of the tax, National Insurance and student or postgraduate loan deductions they have deducted, which they need to pay over to HMRC. It also provides details of any Statutory Maternity Pay (SMP), Statutory Adoption Pay (SAP), Ordinary Statutory Paternity Pay (OSPP), Statutory Shared Parental Pay (ShPP) or Statutory Parental Bereavement Pay (SPBP) they have paid out to employees. Details of any Statutory Sick Pay (SSP) paid to employees are only required if the employer is able to make a claim for recovery in respect of that SSP. These data will be used to calculate how much an employer must pay to HMRC after the end of each tax month or tax quarter (if paying quarterly).</p><p>Employers must report all payroll information to HMRC each time they pay an employee. This must include payments on standard paydays, and any additional payments or amounts recovered from the employee. Eligible employers need to report the payment details of all employees paid no matter how much they are paid, even those earning below the Lower Earnings Limit (LEL), or those paid just once a year. If an employer has not paid any employees in a pay period and has no returns to make, they need to inform HMRC of this using an Employer Payment Summary (EPS).</p><p>RTI legislation states that an employer is expected to report payroll information on or before the date the individual is paid. If an employer fails to do this, they may be charged a filing penalty.</p><h3>Other information sources used</h3><p>These RTI submissions are the main source of data and are the only data used to form estimates of the number of people employed and their earnings. However, in the publication we split estimates out into demographic groups, including by industry sector. Business activity is collected through RTI, but it is not compulsory to provide and often cannot be meaningfully categorised into consistent groups. Therefore, we supplement the RTI data with two other sources to assign Standard Industrial Classifications (SIC 2007) to employers.</p><h4>The Inter-Departmental Business Register (IDBR)</h4><p>This is a comprehensive list of UK businesses used by government for statistical purposes. The IDBR provides the main sampling frame for surveys of businesses carried out by the Office for National Statistics (ONS) and other government departments. It is also an important data source for analyses of business activities. This database system holds information, which can be used to identify the main characteristics about employers in our data. The publication team uses the IDBR to collect additional information on employers not contained within RTI.</p><h4>Companies House</h4><p>In cases where industry codes cannot be provided through the IDBR, then additional codes can be added via text-matching to Companies House data. Companies House is the executive agency of the UK government that maintains the register of companies, employs the company registrars and is responsible for incorporating all forms of companies in the UK. The data used in this release are drawn from a publicly available monthly download, which is then matched to PAYE RTI data via company name.</p><p>For a minority of cases, no SIC 2007 code can be provided even with these extra steps. For these cases where possible we impute a SIC 2007 code based on employer characteristics and other demographic information.</p><h3>Strengths</h3>
+<ul>
+  <li><p>RTI data cover the full payroll population rather than a sample of people or companies; this allows detailed breakdowns of the population.</p></li>
+  <li><p>Eligible employers are required by law to provide accurate and timely returns.</p></li>
+  <li><p>The data are updated in real-time, with the analytical data tables used to produce the statistics created daily.</p></li>
+  <li><p>Returns are made through software tested to be safe and secure.</p></li>
+  <li><p>Guidance is given to employers and software providers to ensure returns are accurate.</p></li>
+  <li><p>Employers can correct errors themselves.</p></li>
+</ul><h3>Limitations</h3>
+<ul>
+  <li><p>The PAYE RTI data exclude some individuals which other sources could class as employed, such as some self-employed individuals or employed individuals in the undeclared economy.</p></li>
+  <li><p>Data are on a payments basis and need to be calendarised to the period worked, which affects the timeliness of the data.</p></li>
+  <li><p>Only the data required to operate the PAYE tax system are reported on RTI, so not all details on employments are available (for example, occupation).</p></li>
+  <li><p>As with all admin data, PAYE RTI carries a risk of inputting errors or fraudulent returns.</p></li>
+</ul>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="practice-area-2-communication-with-data-supply-partners-qaad-matrix-score-a1-" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">4.</span> Practice area 2: communication with data supply partners (QAAD Matrix score A1) </h2>
+                        </header>
+                        <h3>Definition</h3><p>This relates to the need for data suppliers to have collaborative relationships with the stakeholders involved, which outline any formal agreements, and/or engagements with suppliers and users.</p><p>The <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/earningsandemploymentfrompayasyouearnrealtimeinformationuk/latest">Earnings and employment from Pay As You Earn (PAYE) Real Time Information (RTI) publication</a> is jointly published by HM Revenue and Customs (HMRC) and the Office for National Statistics (ONS), using the RTI data collected by HMRC as outlined previously.</p><p>From the collected raw data a dataset is created for HMRC analysts to query and extract data from. This is used by the HMRC RTI publication team to create the aggregated outputs used within the bulletin and published in the supporting data tables, which are then passed to the ONS for publication. With a number of teams involved in the collection of the RTI data, the preparation of the aggregate tables and their publication and usage, there are a number of means of communication.</p><h3>Communication with employers</h3><p>The RTI data provided to HMRC are directly used in the calculation of Income Tax and to ensure payments made by employers are both correct and kept up to date. HMRC provides a number of different ways to support employers to ensure that the data provided to HMRC are as accurate as possible. Guidance is published online advising employers what data items they need to provide, where to include that information and how often they need to make a submission. There is also online support to software providers, describing specifications and guidelines to aid designing software for RTI submissions. Employer bulletins are also sent out regularly advising employers of issues and upcoming changes.</p><p>The Employment and Payroll Group is HMRC's principal forum for HMRC and other government departments to engage with the employment and payroll community. HMRC uses this to explain and explore implications of potential changes to policies, products and processes affecting employers and intermediaries, and provide an opportunity for early review of guidance and information to make sure processes are clearly explained so that customers understand what is required of them.</p><p>HMRC also works closely with large businesses and consults with them in various forums, including the <a href="https://www.gov.uk/government/groups/business-tax-forum">Business Tax Forum</a> and the <a href="https://www.gov.uk/government/collections/the-large-business-customer-survey-detailed-information">Large Business Customer Survey</a>.</p><h3>Internal HMRC communication</h3><p>Within HMRC there are a range of teams who use RTI data for operational and analytical purposes. A number of networks have been set up to share knowledge and raise issues regarding RTI data in the hope of raising quality standards and raising data issues quicker.</p><p>Within HMRC's analytical community there are also initiatives driving cross-team quality assurance and other forms of peer-review. These have been used to assess the data and methods used by the RTI statistics production team.</p><h3>Communication between the ONS and HMRC</h3><p>In the week leading up to publication each month there is a meeting between the HMRC and ONS publication teams as well as other ONS labour market statistics producers. Within this meeting we discuss changing trends, quality concerns, comparisons with other publications and any other issues affecting that month's published data. This publication and underlying data feed into a range of other sources and publications, therefore we have ongoing communication with a range of stakeholders.</p><p>Throughout the year the publication teams across HMRC and ONS adopt a collaborative approach to working, with regular contacts to discuss workplans and potential methodological changes.</p><h3>Communication with publication users</h3><p>We continue to seek feedback from users of the publication both internal to government and external. Once a year or more we conduct a steering group with government users of the statistics, informing them of upcoming changes and collecting suggestions for further improvements to the publication. In recent years this has led to changes to the publication to ensure the users get what is most useful for them, including expanding the number of tables and breakdowns we provide to include geographies, age, industry sectors and combinations of these breakdowns. We closely work with stakeholders such as HM Treasury, the Office for Budget Responsibility (OBR) and the Bank of England, as well as regional statistical teams.</p><p>We also publish contact details within each publication bulletin, and encourage users to contact us with requests, suggestions and any quality issues they may have regarding the publication.</p><h3>Strengths</h3>
+<ul>
+  <li><p>Employers are provided guidance and support to fill in submissions correctly and are kept up to date of upcoming changes to the system.</p></li>
+  <li><p>PAYE RTI data users within HMRC communicate regularly via email, meetings and user group and forum announcements and discussions.</p></li>
+  <li><p>A collaboration between HMRC and the ONS has been drawn up in line with the principles and protocols of the <a href="https://code.statisticsauthority.gov.uk/">Code of Practice for Statistics</a>.</p></li>
+</ul><h3>Limitations</h3>
+<ul>
+  <li>Further improvements could be made to communication between HMRC operational and analytical teams to encourage sharing of information and raising data concerns more quickly; work is currently under way to improve these networks and set up closer collaboration across these teams.</li>
+</ul>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="practice-area-3-quality-assurance-principles-standards-and-checks-applied-by-data-suppliers-qaad-matrix-score-a1-" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">5.</span> Practice area 3: quality assurance principles, standards and checks applied by data suppliers (QAAD Matrix score A1) </h2>
+                        </header>
+                        <h3>Definition</h3><p>This relates to the procedures in place for data collection, quality and inspection process from suppliers through the process before it reaches the statistics publication team.</p><h3>HMRC quality assurance checks on the PAYE RTI</h3><p>HM Revenue and Customs (HMRC) is the UK's tax, payments and customs authority and has a vital purpose: they collect the money that pays for the UK's public services and give financial support to people. It is HMRC's job to make it easy for customers to get tax right, and hard for anyone to bend or break the rules.</p><p>As part of this, HMRC conducts compliance checks on Pay As You Earn (PAYE) records and returns to ensure that employers are reporting earnings correctly and therefore paying the right amount of tax. Where these checks identify under- or over-paid tax, records are subsequently amended and, where appropriate, penalties applied.</p><p>The tax gap is the difference between the amount of tax that should be paid in theory and what is actually paid. HMRC's <a href="https://www.gov.uk/government/statistics/measuring-tax-gaps">Measuring tax gaps publication</a> provides details on the current tax gaps and on steps being taken to reduce them.</p><p>Tax gap figures for the year 2024 show that the PAYE employer compliance tax gap is 0.9% of the theoretical PAYE tax liability in the 2022 to 2023 tax year. This has followed an overall reduction from 1.6% in the 2005 to 2006 tax year. This supports the view that the activity that HMRC does for non-compliance, and ensuring taxpayers are paying the correct amount of tax is effective, but also suggests that the majority of the data collected through PAYE RTI are accurate.</p><p>However, it is recognised that errors can be made in reporting, as well as some evasion, fraud or activity in the hidden economy. While tax gap estimates show that this is likely being picked up by HMRC's compliance activity, it can take time for records to be subsequently corrected, and this is reflected by the level of revisions in the RTI employment publication. Therefore, although we deem the RTI admin data source to be of high quality, there is a difference across time, with more recent data being of slightly lower quality.</p><h3>Strengths</h3>
+<ul>
+  <li><p>Many teams conduct their own quality assurance checks, which allows various teams to pick up any errors in the data source.</p></li>
+  <li><p>Compliance within PAYE is generally high, signalling that the quality of the administrative data source is high.</p></li>
+</ul><h3>Limitations</h3>
+<ul>
+  <li>The most recent data are more likely to contain errors or incorrect reporting, making it of slightly lower quality.</li>
+</ul>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="practice-area-4-producer-s-quality-assurance-investigations-and-documentation-qaad-matrix-score-a2-" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">6.</span> Practice area 4: producer’s quality assurance investigations and documentation (QAAD Matrix score A2) </h2>
+                        </header>
+                        <h3>Definition</h3><p>Producer's quality assurance (QA) relates to the quality assurance conducted by the statistical producer, including collaboration against other data sources.</p><p>As outlined in Section 4: Communication with data supply partners, after being collected the Pay As You Earn (PAYE) Real Time Information (RTI) data are transferred to an analytical data repository overnight and are stored in a format from which they can be queried for management information and policy analysis. This forms the source of the RTI data processed and used to generate the statistics.</p><p>Where there are errors found, employers can submit corrected returns with revised values. If there is fraud or a failure to take reasonable care, HM Revenue and Customs (HMRC) compliance teams can investigate and this may lead to further corrections submitted. These revisions will be transferred into the analytical data in the same way.</p><p>However, recent months are reported in the statistics to give as timely a view as possible, and it is likely that the data are processed for the statistics with some of these early errors and inaccuracies still included. To account for this, we do the following.</p><p>Firstly, revise the historical series by re-extracting the data each month for the current tax year and the previous tax year. This ensures that changes and amendments are incorporated into the data as soon as is practical. We also then once a year re-extract the data for the entirety of the time series to collect any revisions that affect earlier years. This balances out the need to collect all revised data points against the increased processing time from running the whole series.</p><p>Secondly, treat the entire data series with the potential to have errors and conduct quality checks on the entirety of the data each month. Therefore, although we deem the admin data source to be of high quality, we conduct quality assurance to a level necessary as if it were of lower quality.</p><p>We also maintain a number of steps and checks to ensure that the data quality is maintained through its processing and movement. These steps and quality checks are now described.</p><h3>Reproducibile Analytical Pipeline</h3><p>The RTI data are accessed, extracted and processed using SAS software. Aggregated data is then also further processed using R and markdown code. The process and code have been developed into a Reproducible Analytical Pipeline (RAP).</p><p>As part of this, the code has been written to automate as many steps as possible, minimising any manual edits to data or outputs. The code is written so that where changes are necessary to produce the statistics, for example, to change date parameters, these are changed in one place and then passed through the remainder of the code automatically. For the main parts of the code, these updates are checked by a second person to make sure the code is running the correct parameters.</p><p>If changes need to be made to the code structure or the automated processes, these are checked by a second person. If deemed large enough, the changes are run in parallel to compare with current outputs before being run for the publication itself. Version control is maintained so that older versions can be accessed and put in place if an issue is found.</p><h3>Transformations to the data</h3><p>The PAYE RTI data are collected and stored on a payment's basis, where records are stored for each submission made to HMRC. Summing payment amounts and the number of records to produce monthly estimates for the total pay earned and number of employees in work would be problematic, especially when aggregating across both jobs paid monthly and jobs paid weekly as the number of weeks in a month can vary.</p><p>A calendarisation method converts these payments data towards a dataset of jobs and pay rates from which monthly employment counts and pay estimates can be calculated. These estimates are then more comparable with other labour market sources and UK National Accounts. This also reduces the volatility of the time series produced using RTI data.</p><p>Adjustments to the data are also made for incorrectly reported payment frequencies and missed and double payments, by looking at the historical record for each employment and adjusting any inconsistencies.</p><p> To increase the accuracy of recent estimates, imputation methods are applied for missing records, using probabilistic imputation methods to determine employment terminations or new hires where data is missing.</p><p>More information on these transformation methods can be found in our <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/monthlyearningsandemploymentestimatesfrompayasyouearnrealtimeinformationpayertidatamethods">Monthly earnings and employment estimates from Pay As You Earn Real Time Information (PAYE RTI) data: methods</a> publication.</p><h3>Data processing checks</h3><p>As a first step we check payment submissions to make sure they can be uniquely identified and linked to an individual. In some instances it can be possible to pay tax in the UK using Temporary Reference Numbers (TRNs) while waiting for a National Insurance number (NINo). We check whether the proportion of payments belonging to TRNs as opposed to NINos has changed compared with historical proportions.</p><p>Payments from pensions schemes are also made through the PAYE system and are contained within the data. As we only include employees and their earnings within the statistics, pension payments are identified and removed. The number of new pension payments and schemes added each month is compared against expected boundaries. If monthly changes are higher or lower than expectations, schemes or individuals are investigated to assess if there is a problem with the flag criteria.</p><p>Logs from running code are checked for errors or code bugs. The logs are checked through the processing stages to make sure that the population is being maintained throughout the code, and any changes in the size of the dataset reflect intentional additions or removals. Similarly, run-times are checked against expected boundaries, which could indicate issues affecting the data quality.</p><p>Individuals with the highest levels of pay and highest monthly changes in pay are flagged, and where these measures are outside expected norms these individuals or schemes are investigated to make sure the data are correctly reflecting a change in circumstance or other valid reason for pay changes.</p><h3>Output validation</h3><p>Checks are carried out to ensure that the produced outputs match the datasets that feed into them. The aggregated outputs tables are checked to make sure there are no missing values. Totals are compared back against previous levels, comparisons being made for figures at the UK level, the distribution of pay and median pay growth rates, as well as trends across different pay measures.</p><p>Following seasonal adjustment, both the seasonally adjusted and the non-seasonally adjusteddata for each published series are visually compared with the previous month's estimates, to ensure revisions are realistic and are not being artificially changed in one of the processing stages.</p><p>Final outputs are sent from HMRC to the Office for National Statistics (ONS) Labour Market team, who check outputs against other data sources to check coherence. Outputs are then presented to senior colleagues at HMRC and the ONS so that trends or inconsistencies can be discussed and investigated. Unusual patterns are identified and investigated to see if these are because of the methodology or reflect changes in the labour market.</p><p>While some of these checks are still currently manual, we are still working to improve the RAP by introducing unit testing and further automating as many checks as possible.</p><h3>Strengths</h3>
+<ul>
+  <li><p>The statistical production team conduct a wide range of QA checks on the received admin data.</p></li>
+  <li><p>Code is designed according to RAP principle, with further plans to improve this.</p></li>
+  <li><p>Outputs are closely examined to check for issues caused by processing.</p></li>
+  <li><p>A range of analytical experts review the outputs to check trends are realistic and identify areas for investigation.</p></li>
+  <li><p>Calendarisation methods convert the payments data to a jobs dataset comparable with other labour market publication and international guidelines.</p></li>
+  <li><p>Imputation methods allow timelier estimates of recent months.</p></li>
+  <li><p>Methodological changes are reviewed across multiple teams, with independent peer review being made for the most important changes.</p></li>
+</ul><h3>Limitations</h3>
+<ul>
+  <li><p>The process of historical records being corrected and updated increases the number and scale of revisions to the data each month.</p></li>
+  <li><p>Imputation methods also increase the frequency and scale of revisions to recent data.</p></li>
+  <li><p>The size and nature of the RTI data as well as the complexity of the extraction and transformation processes increase the risk of data being manipulated through processing, increasing the need for careful QA and applying processing according to RAP principles.</p></li>
+</ul>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="summary-of-the-strengths-and-limitations" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">7.</span> Summary of the strengths and limitations</h2>
+                        </header>
+                        <p>HM Revenue and Customs (HMRC) and the Office for National Statistics (ONS) consider the main strengths and limitations of the Pay As You Earn (PAYE) Real Time Information (RTI) data for its purpose to be as follows.</p><h3>Strengths</h3>
+<ul>
+  <li><p>RTI data used in the publication cover the full payroll population rather than a sample of people or companies; it refreshes data on a monthly basis, which allows us to provide detailed breakdowns of the population.</p></li>
+  <li><p>It is a monthly publication and offers an earlier estimate on labour market conditions than other publications.</p></li>
+  <li><p>Eligible employers are required by law to provide accurate and timely returns, with data then being updated in real-time.</p></li>
+  <li><p>The team carries out extensive quality assurance throughout the statistical production process.</p></li>
+</ul><h3>Limitations</h3>
+<ul>
+  <li><p>As with all admin data, PAYE RTI data carry a risk of inputting errors or fraudulent returns.</p></li>
+  <li><p>The data capture and processing involves a range of teams, which include operational and compliance teams; therefore the quality of the statistics is dependent on collaboration and communication across a number of teams.</p></li>
+  <li><p>The complexity of transformations necessary to produce published estimates increase the need for careful quality assurance of the data and its processing.</p></li>
+</ul><p>Earnings and employment from PAYE RTI statistics has been assessed to being "enhanced assurance" as outlined by the UK Statistics Authority QAAD toolkit.</p><p>We will be taking next steps to investigate the limitations outlined in the various practice sections and these will be communicated to users in future quality assurance of administrative data (QAAD) report updates.</p><p>If you are of the view that this report does not adequately provide this level of assurance, or you have any other feedback, please contact us via email at <a href="mailto:rtistatistics.enquiries@hmrc.gov.uk">rtistatistics.enquiries@hmrc.gov.uk</a> with your concerns.</p>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+                <div id="cite-this-methodology" class="section__content--markdown">
+                    <section>
+                        <header>
+                            <h2><span class="section__content-number">8.</span> Cite this methodology</h2>
+                        </header>
+                        <p><div class="markdown-box-container
+
+
+">
+    <p>Office for National Statistics (ONS), released 10 January 2025, ONS website, methodology, <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti">Quality assurance of administrative data used in earnings and employment from PAYE RTI</a> </p>
+</div>
+</p>
+                        <a class="print--hide js-scroll" href="#toc">Back to table of contents</a>
+                    </section>
+                </div>
+            
+            <!-- Accordion -->
+            
+             <!-- Margin at bottom of article if no Accordion present -->
+                <div class="margin-bottom--4">
+                </div>
+            
+        </article>
+        
+        <div class="col col--md-11 col--lg-20 margin-top-md--3">
+            
+    
+    
+        
+    
+    
+    
+        
+
+
+<div class="tiles__item tiles__item--nav-type flush-col">
+	<h3 class="tiles__title-h3 tiles__title-h3--nav">
+		Contact details for this <span class="lowercase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Methodology
+
+
+
+
+</span>
+	</h3>
+	<div class="tiles__content--nav">
+		<address>
+			ONS Labour Market team and HMRC RTI Statistics<br/>
+			<a href="mailto:labour.market@ons.gov.uk, rtistatistics.enquiries@hmrc.gov.uk">labour.market@ons.gov.uk, rtistatistics.enquiries@hmrc.gov.uk</a><br/>
+			Telephone: +44 1633 455400
+		</address>
+	</div>
+</div>
+    
+	
+	
+
+	
+	
+	
+	
+    
+    
+
+        </div>
+    </div> 
+
+</div>
+
+</main>
+
+
+	<footer class="print--hide">
+	<h2 class="visuallyhidden">Footer links</h2>
+	<div class="footer">
+		<div class="wrapper">
+			<nav aria-label="Footer links">
+                <div class="footer-nav col-wrap">
+                    
+                    <div class="col col--lg-one-third col--md-one-third">
+                        <h3 class="footer-nav__heading">Help</h3>
+                        <ul class="footer-nav__list">
+                            <li class="footer-nav__item">
+                                <a href="/help/accessibility">Accessibility</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="/cookies">Cookies</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="/help/privacynotice">Privacy</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="/help/termsandconditions">Terms and conditions</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col col--lg-one-third col--md-one-third">
+                        <h3 class="footer-nav__heading">About ONS</h3>
+                        <ul class="footer-nav__list">
+                            <li class="footer-nav__item">
+                                <a href="/aboutus/whatwedo">What we do</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://careers.ons.gov.uk">Careers</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="/aboutus/contactus">Contact us</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="/news">News</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="/aboutus/transparencyandgovernance/freedomofinformationfoi">Freedom of Information</a>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <div class="col col--lg-one-third col--md-one-third">
+                        <h3 class="footer-nav__heading">Connect with us</h3>
+                        <ul class="footer-nav__list">
+                            <li class="footer-nav__item">
+                                <a href="https://twitter.com/ONS" target="_blank">X</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://www.instagram.com/officefornationalstatistics" target="_blank">Instagram</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://www.facebook.com/ONS" target="_blank">Facebook</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://www.linkedin.com/company/office-for-national-statistics" target="_blank">LinkedIn</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://consultations.ons.gov.uk/" target="_blank">Consultations</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://www.statsusernetwork.ons.gov.uk/" target="_blank">Discussion forums</a>
+                            </li>
+                            <li class="footer-nav__item">
+                                <a href="https://public.govdelivery.com/accounts/UKONS/subscribers/new" target="_blank">Email alerts</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+			</nav>
+		</div>
+		<div class="wrapper">
+			<div class="footer-license">
+				<img class="footer-license__img" alt="OGL" width="60" src="https://cdn.ons.gov.uk/assets/images/logo-ogl-footer.svg">
+				<p class="footer-license__text margin-left-sm--0">
+					All content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, except where otherwise stated
+				</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+
+
+    
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="//cdn.ons.gov.uk/sixteens/ef5a1ca/js/main.js"></script>
+        <script src="/js/app.js"></script>
+
+        
+        
+
+	<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a51ad0aecb34ff77',t:'MTc5MzE5OTY3OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

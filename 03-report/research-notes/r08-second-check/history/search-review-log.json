@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R08historical/counterfactual challenge of event-time knowledge and retrospective explanation",
+  "queries": [
+    "Exact canonical LFB2021 authorisation route re-open",
+    "Exact canonical LFB2025reset PDF primaryreader and local original sections",
+    "Exact canonical Scottish2024/25annual audit primaryreader and local original sections"
+  ],
+  "source_ids": [
+    "SRC-0205",
+    "SRC-0206",
+    "SRC-0134"
+  ],
+  "read_pdf_pages": {
+    "SRC-0206": [
+      2,
+      3,
+      4
+    ],
+    "SRC-0134": [
+      43,
+      46
+    ]
+  },
+  "visually_inspected_pdf_pages": {
+    "SRC-0206": [
+      3,
+      4
+    ],
+    "SRC-0134": [
+      46
+    ]
+  },
+  "new_routes": 0,
+  "scope_decision": "Existing source set provides the needed contrast; no route added simply to repeat chronology or increase evidence count.",
+  "external_actions": []
+}

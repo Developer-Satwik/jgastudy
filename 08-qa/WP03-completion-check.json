@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_WP03_collection_pack_preparation_only",
+  "pack_version": "0.1",
+  "review_basis": "Independent integrated operational-draft review and root constructed count/permission applications. Not legal/tool-security certification, participant testing or collection activation.",
+  "pack_files": 8,
+  "review_decisions": 5,
+  "contract_role_terms_preserved": true,
+  "contract_return_delete_days": 30,
+  "contract_backup_days": 90,
+  "executed_copy_retrieved": false,
+  "source_records": 191,
+  "claim_records": 355,
+  "internal_findings": 81,
+  "new_canonical_sources_or_claims": 0,
+  "core_questions": 14,
+  "core_questions_unchanged": true,
+  "constructed_count_cases": 8,
+  "constructed_release_cases": 3,
+  "root_checks_passed": 199,
+  "independent_integration_checks_passed": 240,
+  "preserved_baseline_records": 111,
+  "actual_participants": 0,
+  "actual_completed_contributions": 0,
+  "actual_Table_events": 0,
+  "actual_permissions_obtained": 0,
+  "collection_ready": false,
+  "tools_or_recording_activated": false,
+  "external_actions": [],
+  "artifacts": [
+    {
+      "path": "01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "sha256": "07dca419fc092e79a91a6e57eb868e8b912ec991b1bb729ac3e69afc0e736ece"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "sha256": "a57a60a74badde2e5af66e69efc38f44c5bdd8268c2a6e8069844ac547d0c09c"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "sha256": "416a1b32de68c8799fcacce4d782e539948f9984f81696401f60d72f462683d4"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "sha256": "85a485a68f993780925277f9d4ed65be4052aa2570835b86b7ce0a84f3214ec2"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "sha256": "f955287ed8ed250432180592399ef7ce4c7e2ba4006b2f3e3b20f3e8415b62c2"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "sha256": "e0d3026de2002d7c8bdb3370b5536fc266edddb476a4a3a47c3d9cb312f4cbfc"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "sha256": "ee520923baefbadf5e33812cccd10c46a0ced0033158f8a007d4fb0bca72097e"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/START-HERE.md",
+      "sha256": "20b47309e23bbcc7cdd5796924b37dece896b81029529a622bf9ee12a2047245"
+    },
+    {
+      "path": "08-qa/WP03-independent-review.md",
+      "sha256": "d8526e52961565b0dd22074940c03c23f4481556748678532f339284d5d0e85b"
+    },
+    {
+      "path": "08-qa/wp03-review/integration-checks.json",
+      "sha256": "032f8b0003226aafc02546b35acc39e4c1511e16ae7a58dc06ef3034e83c6ebb"
+    },
+    {
+      "path": "08-qa/WP03-routing-permission-checks.json",
+      "sha256": "05dc787373da231f9717f81c4eb0ad1cb657ea75f9d06f4d6b4c70cf957a706e"
+    },
+    {
+      "path": "01-method/research-notes/wp03/data/DATA-ARRANGEMENT-DECISIONS.md",
+      "sha256": "256f045ad525a7e69b0a65145c2a1897ef4566a4a126a91e2aeeac4db016f888"
+    },
+    {
+      "path": "01-method/research-notes/wp03/data/source-review.json",
+      "sha256": "8e935a9f4e2bb647489afecfdcadbdb34708d4cb147120fa1f2fc5206d7d10e7"
+    },
+    {
+      "path": "01-method/research-notes/wp03/data/capture-manifest.json",
+      "sha256": "9cc6ea4ff7496f09e90639adfbfa2f5e45a00af594dcc0d7e1076faa3402ee7d"
+    },
+    {
+      "path": "01-method/research-notes/wp03/routes/COLLECTION-ROUTES.md",
+      "sha256": "3a3b478cbc961ffc7af8266aa4ff8644310879e728857cb0659414a93e1bd678"
+    },
+    {
+      "path": "01-method/research-notes/wp03/routes/route-requirements.json",
+      "sha256": "703f1b6824eab254ae05676ab877388c6444b85593523005a29bff034d637ae5"
+    },
+    {
+      "path": "01-method/research-notes/wp03/routes/constructed-route-tests.json",
+      "sha256": "9a95cae6b339c3b0e61613262966275e6b78af083a9e6ab0907df90907238919"
+    },
+    {
+      "path": "01-method/research-notes/wp03/wording/PARTICIPANT-WORDING.md",
+      "sha256": "4f974914b1edd816c19158636d4340aaa003bb89f9dd18e1f5c13b9476fb5832"
+    },
+    {
+      "path": "01-method/research-notes/wp03/wording/wording-requirements.json",
+      "sha256": "86b69c9efd928d605543444b863672b554d899f3b604ad546c26023bb25b3164"
+    }
+  ],
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 3198,
+    "json_files": 394,
+    "source_records": 191,
+    "claim_records": 355,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 355,
+    "scope": "Full evidence/capture/record consistency with WP03 blank collection pack, workingcontract and count/permission boundaries; no activation, humanfieldwork, tool-security/legal certification or sending."
+  },
+  "completion_artifact_hashes_verified": true
+}

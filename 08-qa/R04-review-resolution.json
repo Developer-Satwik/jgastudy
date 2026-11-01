@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "review": "08-qa/R04-independent-review.md",
+  "substantive_status": "pass",
+  "required_substantive_changes": [],
+  "minor_metadata_correction": {
+    "path": "03-report/research-notes/r04/buyers/review-log.json",
+    "action": "Split reviewed routes3 into raw-original2 and parsed-reader1; corrected manifest hash",
+    "resolved": true
+  },
+  "independent_review_preserved": true
+}

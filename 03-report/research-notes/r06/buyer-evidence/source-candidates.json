@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "BUY6-S01",
+      "title": "A Fresh Perspective on Payroll, June 2026",
+      "publisher": "Azets",
+      "url": "https://kommunikasjon.ntb.no/files/17848729/18969211/335309/no",
+      "source_type": "supplier_commissioned_survey_original_report_public_distribution_copy",
+      "accessed_on": "2026-10-29",
+      "published_date": "2026-06",
+      "updated_date": null,
+      "date_note": "June2026 report label; Azets companion landing16June2026 and article10August2026. Public distribution PDF authored/branded Azets; no independent dataset inferred from companion publications.",
+      "population": "205 C-suite executives, senior leaders and payroll decision-makers across UK, Ireland, Denmark, Finland, Norway and Sweden",
+      "sample_size": 205,
+      "fieldwork_period": "May2026",
+      "method_available": true,
+      "method_limits": "Method page32 identifies Reputation Leaders as researcher commissioned by Azets,205 survey respondents and country counts, large-employer skew and4 in-depth interviews. Recruitment mechanism, item-specific valid bases/routing, weights and microdata not established. Study describes itself as independent; this is a commissioning description, not our external validation.",
+      "funding_or_commercial_interest": "Azets commissioned/produced report and sells payroll/advisory services; no independent impact evaluation",
+      "capture_path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "capture_sha256": "eda4585c95f5faea2294fc182c50515068a1a8b25215bf62e4f896c17aacf17e",
+      "capture_kind": "retained_original_pdf",
+      "text_path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.txt",
+      "text_sha256": "41930c5d91e2046e7db6f98d541c5002d2a3584e044c0b375a9bbe3277c53886",
+      "review_status": "relevant_original_pdf_pages_rendered_and_visually_inspected",
+      "locator": "PDF/printed2 introduction;13 E2 prospective trigger and separate review statement;29 L1 importance;30 L2 conditional premium;32 methodology/demographics",
+      "limitations": "E2 asks prospective trigger, L1 importance and L2 conditional premium justification, not observed switching, funded approval, price elasticity or supplier effect. Overall country counts are available; item-valid bases/routing and country-specific item results unestablished. No trigger, preference or outcome percentages adopted; sample-profile figures retained only for method scope. Review statement does not establish selected action. Article paraphrase cannot override question tense.",
+      "reuse_status": "Private verification; no permission to redistribute full copyrighted report established; final-use paraphrase/rights review pending",
+      "alias_urls": [
+        "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+        "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll"
+      ],
+      "companion_publication_captures": [
+        {
+          "id": "AZETS-article",
+          "url": "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+          "final_url": "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+          "http_status": 200,
+          "retrieved_at_utc": "2026-10-28T22:42:21.575263+00:00",
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.html",
+          "sha256": "b713c8197007713169b7ecc1da0ad3f8f15c968f692782cdbb38e00e126b2959",
+          "kind": "retained_original_html"
+        },
+        {
+          "id": "AZETS-landing",
+          "url": "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll",
+          "final_url": "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll",
+          "http_status": 200,
+          "retrieved_at_utc": "2026-10-28T22:42:21.922369+00:00",
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.html",
+          "sha256": "c526f8d4e3d30ee8f9883c9dc726fb27d536b79e0eec2148f29fdcb6d2bf98f3",
+          "kind": "retained_original_html"
+        }
+      ],
+      "visually_inspected_pages": [
+        {
+          "pdf_page_1_based": 2,
+          "printed_page": 2,
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p2.png",
+          "sha256": "96534696cf987f162c74c65d774c184f6d6e3c07e6f0f0b48a3e1388b0a0bf45"
+        },
+        {
+          "pdf_page_1_based": 13,
+          "printed_page": 13,
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p13.png",
+          "sha256": "cfaada98db296ce253485c85621a4c8dc5428aec1fee1cca452aa78944951f54"
+        },
+        {
+          "pdf_page_1_based": 29,
+          "printed_page": 29,
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p29.png",
+          "sha256": "e027963e5e5593ce05f27d84c29606b16ff6c5c4e96a4492eea9b181e5a9f5a1"
+        },
+        {
+          "pdf_page_1_based": 30,
+          "printed_page": 30,
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p30.png",
+          "sha256": "9c44c002107918a6a99d5950c2886981cfcb128c58193e9da6f6179896bd0b04"
+        },
+        {
+          "pdf_page_1_based": 32,
+          "printed_page": 32,
+          "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p32.png",
+          "sha256": "0bae15e96b505174ca5681ed1615f90c211bafe9ebda0e9be5f67ff9c116dd6b"
+        }
+      ],
+      "method": {
+        "researcher": "Reputation Leaders",
+        "commissioner": "Azets",
+        "country_sample_counts": {
+          "UK": 52,
+          "Ireland": 30,
+          "Denmark": 31,
+          "Norway": 31,
+          "Finland": 31,
+          "Sweden": 30
+        },
+        "sample_profile_published": {
+          "more_than500_employees_percent": 66,
+          "turnover_above_EUR50million_percent": 75
+        },
+        "qualitative_interviews": 4,
+        "qualitative_scope": "Two Azets executives and two external opinion leaders identified onpage32; expert commentary distinct from survey and this commission; not209 survey respondents",
+        "recruitment_mechanism": null,
+        "item_bases": null,
+        "weights": null,
+        "independence_note": "Report describes itself as independent research commissioned byAzets; no external audit or representativeness conclusion supplied"
+      }
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0011",
+      "url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+      "locator": "Methodology; findings6–7; fresh chart assetsV2-02/03/05; parsed lines169–175,223–239",
+      "review_status": "fresh_original_html_and_relevant_text_rechecked",
+      "review_result": "Experienced ease and non-switch reasons have different item populations; chart/prose conflicts persist. ExistingCLM0051/0052 stay held; no percentages or causality adopted.",
+      "capture_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.html",
+      "capture_sha256": "d8d9a5130e9b6bd3281376de0a604b6c88ac5a3674824d3ee754673518638d07",
+      "text_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.txt",
+      "text_sha256": "94e9e9f04eff41327349e14eb0203feacc22c8b0a4abeedf54c095e3706d718b"
+    },
+    {
+      "source_id": "SRC-0031",
+      "url": "https://www.moorepay.co.uk/the-ultimate-guide-to-changing-your-payroll-provider/",
+      "locator": "Chapter1 reasons for not switching; parsed line180 onward",
+      "review_status": "fresh_original_html_and_relevant_text_rechecked",
+      "review_result": "Same Moorepay survey family, not independent corroboration. Marketing advice and promised easy transitions are not observed remedy effects; cross-publication numerical disagreements retained.",
+      "capture_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.html",
+      "capture_sha256": "f46eddb44c39d33b5e9962a2b9cfa4acaf418a4d9c7de1c7958f87e85e0d4aba",
+      "text_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.txt",
+      "text_sha256": "3637aa47b27b85bb39d3a35e2abcfe3520bd7a4f342db74fa5448cbe9571c9ea"
+    },
+    {
+      "source_id": "SRC-0012",
+      "url": "https://www.sdworx.co.uk/en-gb/press/2026-04-21-uk-employers-accelerate-move-full-payroll-outsourcing",
+      "locator": "Current model versus three-year preferred model; methods, parsed lines60–64,78–79",
+      "review_status": "fresh_original_html_and_relevant_text_rechecked",
+      "review_result": "Current arrangement and future preference are different; no longitudinal matched-flow or approved migration established. UK305 HR decision-makers, broader panel context and vendor interest retained.",
+      "capture_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.html",
+      "capture_sha256": "d0777a58194fd6800e4a941d010099da664efc0ff050c9f7de81e04a04d3d463",
+      "text_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.txt",
+      "text_sha256": "f8ebb1243b1bc0193855325f8bd1eb490b448132d88c3d17f3ee87fbe0e7bea4"
+    },
+    {
+      "source_id": "SRC-0070",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "locator": "Printed7 software functionality; fresh hosted-text lines44–57",
+      "review_status": "fresh_original_html_and_relevant_text_rechecked",
+      "review_result": "Mixed professional respondents; achieved sample only described as hundreds in inspected foreword; no fieldwork/item base established. Combined recent/future response item is not case-level renewal or funding evidence; no percentage adopted.",
+      "capture_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.html",
+      "capture_sha256": "8b16a45216ddc2d0a44ae553bc3a6288c8555f8ba335534938621416d93360d2",
+      "text_path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.txt",
+      "text_sha256": "fdcd91e8badd293b20a0f95affd405b44583f0bdaada8db558e39c20fa012c93"
+    }
+  ],
+  "same_study_companions_not_independent_datasets": [
+    "https://www.azets.com/en/resources/insights/payroll-has-historically-run-in-the-background-our-new-research",
+    "https://www.azets.com/en/resources/guides/a-fresh-perspective-on-payroll"
+  ]
+}

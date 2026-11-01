@@ -1,0 +1,43 @@
+3. Oracle Cloud implementation | 47 
+ 
+142.  The cutover process ran between August and October 2024. It included 
+1,347 activities with 1,276 of these completed prior to full go-live and the other 
+71 completed post go-live. This was in line with the cutover plan as certain 
+cutover activities could only be completed in the live environment. 
+The freeze period in a cutover process refers to a designated timeframe 
+during which no changes are allowed to the systems, data, or environments 
+involved in the transition. This is a critical control mechanism to ensure 
+stability and minimise risks during the move from an old system to a new one. 
+143.  To enable the cutover process to be completed, the Scottish Government 
+applied three separate freeze periods: 
+• The e-HR system closed on the 16 August 2024, and the Oracle 
+Cloud HR module opened on 7 October 2024 meaning that no 
+changes could be made to HR and payroll data for a 7-week period. 
+The length of this change freeze period was partly attributable to 
+the action required to apply the move to the 35-hour working week 
+for Scottish Government staff from 1 October 2024. 
+• The purchase-to-pay module of SEAS closed on 
+24 September 2024, and the Oracle Cloud purchase-to-pay module 
+opened on 1 October 2024 so no procurement activity could be 
+processed for that 1-week period. 
+• The general ledger and accounts receivable modules of SEAS 
+closed on 30 September 2024 and went live on the Oracle Cloud 
+platform on 12 October 2024 so were unavailable for 2 weeks. 
+144.  Due to the length of time that the change freeze applied to HR and payroll 
+data, a range of actions were taken to reduce the post-implementation 
+adjustments that would need to be processed. This included a recruitment 
+freeze across the Scottish Government over that period. As part of our routine 
+staff costs testing for the 2024/25 financial statements audit, we undertook 
+sample testing of staff pay across the financial year. This did not identify any 
+issues with the pay and deductions of the staff selected for testing. We also did 
+not identify any issues relating to the cutover process as part of our income and 
+expenditure, or journal testing. 
+145.  Based on our review of the cutover process, and the outcome of the 
+testing undertaken as part of our 2024/25 financial statements audit, we are 
+satisfied that the process was well planned, managed and executed. 
+A significant volume of training was available, but users 
+should have had more time to complete this before the go-
+live date 
+146.  The Scottish Government recognised that training was a key element of 
+the change management process and essential for the go-live preparation. A 
+strategy was developed setting out how training on the new system would be 

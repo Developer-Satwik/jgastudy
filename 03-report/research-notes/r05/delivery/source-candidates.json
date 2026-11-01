@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "review_status": "relevant_live_original_sections_inspected",
+      "reuse_status": "Private verification; final-use wording and rights review pending",
+      "publication_eligibility": "internal_R05_context_final_use_pending",
+      "candidate_id": "R5DEL-S01",
+      "title": "Use the go-live checklist to make sure your solution is ready for go-live",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-gb/dynamics365/guidance/implementation-guide/prepare-go-live-checklist",
+      "source_type": "supplier_implementation_readiness_guidance",
+      "population": "Microsoft Dynamics365 implementation guidance, not a payroll employer sample",
+      "locator": "Go-live readiness; UAT; Data migration readiness/validation; external dependencies; operational support readiness",
+      "limitations": "Supplier-scoped declared design. No product/control test, universal payroll approval requirement, guaranteed result, mandatory parallel-run period or private-company legal duty inferred.",
+      "published_date": null,
+      "last_updated": null,
+      "date_note": "Raw page ms.date metadata2024-01-30; no substantive displayed publication/update date established. Live body publicly readable despite generic authorization banner; no sign-in.",
+      "funding_or_commercial_interest": "Supplier describing its own implementation approach",
+      "http_status": 200,
+      "final_url": "https://learn.microsoft.com/en-gb/dynamics365/guidance/implementation-guide/prepare-go-live-checklist",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.html",
+      "capture_sha256": "9d31cb9c1e2b73380063967db02a9dccdb6b39f9a194658389bdfc6dd242bdb8",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "review_status": "relevant_live_original_sections_inspected",
+      "reuse_status": "Private verification; final-use wording and rights review pending",
+      "publication_eligibility": "internal_R05_context_final_use_pending",
+      "candidate_id": "R5DEL-S02",
+      "title": "How the live phase works",
+      "publisher": "GOV.UK Agile delivery community",
+      "url": "https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works",
+      "source_type": "official_digital_service_operating_guidance",
+      "population": "Government digital-service guidance, not private payroll staffing or investment data",
+      "locator": "Running your service during live; joined-up channels; other things before live",
+      "limitations": "Government service-design scope. Continuing support need is not quantified staffing cost, a permanent full-team mandate or evidence to recruit.",
+      "published_date": "2016-08-04",
+      "last_updated": "2019-05-08",
+      "date_note": "Displayed dates retained; current route inspection does not make the2019 update a new2026 policy.",
+      "funding_or_commercial_interest": "Government official design guidance",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.html",
+      "capture_sha256": "4d8a429ad79c435a1a8a6c4f0bdaa3a06bd6c9dcd92d4ae0f4e53ca74bbda4f8",
+      "capture_kind": "retained_original_html"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0075",
+      "locator": "Management case5.1–5.4; live original lines253–269",
+      "review_result": "Plans capability/knowledge transition, critical dependencies, capacity and client/supplier contingencies. Prospective combined-function programme plan, not executed payroll readiness.",
+      "review_status": "relevant_live_original_html_sections_read",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/SRC-0075.html",
+      "capture_sha256": "6fc07b7c779faadfeaedce2de0eeec233e181b558885488794ba95fbd3cc6c1f",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/delivery/captures/SRC-0075.txt",
+      "text_sha256": "e7a9630e8ea0de829213d5b38ba45eac30349301da4fb06a1372457eba699de9"
+    },
+    {
+      "source_id": "SRC-0076",
+      "locator": "Printed19/PDF21 paras1.15–1.19; AppendixOne printed38–39/PDF40–41, especially methodparagraph4",
+      "review_result": "Risk information and its limits; programme financial figures described, explicitly not replicated/assured by NAO. March2026 audit withJune–December2025 evidence, not later implementation outcome.",
+      "review_status": "relevant_original_sections_read_and_essential_pdf_pages_visually_checked",
+      "capture_path": "03-report/research-notes/r05/delivery/captures/SRC-0076.pdf",
+      "capture_sha256": "1eb78842927f9ca9e1c7c24e281a1c30fac9e510b6d12f6fc70d6532c3199ea8",
+      "capture_kind": "retained_original_pdf"
+    },
+    {
+      "source_id": "SRC-0134",
+      "locator": "Printed/PDF47–48 paras142–149; p50 para153; p55 para172",
+      "review_result": "Cutover/sample-pay positives; practical training/time, continuing support and benefits/capacity distinctions. Selected2024/25 evidence, not current2026 performance.",
+      "review_status": "relevant_original_sections_read_and_essential_pdf_pages_visually_checked",
+      "capture_path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "capture_sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "capture_kind": "reused_retained_original_pdf"
+    },
+    {
+      "source_id": "SRC-0135",
+      "locator": "PDF38/printed37, internalcontrol paragraphs on HR/payroll implementation and June2025 internal audit",
+      "review_result": "Separate SPCB employer HR/payroll implementation; positive employer-reported audit result. Underlying internal audit programme not inspected; no zero-error/ROI finding.",
+      "review_status": "relevant_original_sections_read_and_essential_pdf_pages_visually_checked",
+      "capture_path": "03-report/research-notes/r03/cases/parliament-accounts-2024-25.pdf",
+      "capture_sha256": "777ffd7fada746264986c6bb431c7355487867f0f601677c9d00ae6fd524a511",
+      "capture_kind": "reused_retained_original_pdf"
+    }
+  ],
+  "counting_note": "Two new guidance routes, four canonical reuses; no new independent employer or original JGA participant counted."
+}

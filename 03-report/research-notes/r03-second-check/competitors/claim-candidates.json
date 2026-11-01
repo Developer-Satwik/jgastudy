@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R3COMP-C01",
+      "source_candidate_ids": [
+        "R3COMP-S01"
+      ],
+      "claim_text": "JGA already publishes integration/automation themes and states HRIS recruitment support; this is positioning context, not technical efficacy or newly verified employer outcomes.",
+      "locator": "Opening/HRIS positions; technology themes; platform list/FAQs excluded as unverified comparative advice",
+      "evidence_class": "commissioner_editorial_context",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_status": "working",
+      "status": "R03_second_check_context",
+      "review_mode": "Primary sections inspected; selected current captures and explicit reuse retained",
+      "limitations": "Article establishes published topic/HRIS recruitment context only. Platform-fit, accuracy, savings, retention and AI-reliability claims are not adopted as facts."
+    },
+    {
+      "candidate_id": "R3COMP-C02",
+      "source_candidate_ids": [
+        "R3COMP-S02"
+      ],
+      "claim_text": "Hays distinguishes resource augmentation, interim SOW, managed resourcing and managed projects; the last is described as PMO-owned delivery of defined outputs.",
+      "locator": "Delivery models: Resource Augmentation; Interim SOW; Managed Resourcing; Managed Projects",
+      "evidence_class": "declared_engagement_model",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_status": "working",
+      "status": "R03_second_check_context",
+      "review_mode": "Primary sections inspected; selected current captures and explicit reuse retained",
+      "limitations": "Published delivery models and knowledge-transfer promise are not a signed payroll scope, verified performance, typical cost, guaranteed capacity or payroll processing service."
+    },
+    {
+      "candidate_id": "R3COMP-C03",
+      "source_candidate_ids": [
+        "R3COMP-S02"
+      ],
+      "claim_text": "The Hays project-service description includes statement-of-work scope/deliverables/governance and structured offboarding/knowledge transfer.",
+      "locator": "What you can expect: SOW creation; Onboarding and offboarding; Progress reporting and reviews",
+      "evidence_class": "declared_engagement_model",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_status": "working",
+      "status": "R03_second_check_context",
+      "review_mode": "Primary sections inspected; selected current captures and explicit reuse retained",
+      "limitations": "Published delivery models and knowledge-transfer promise are not a signed payroll scope, verified performance, typical cost, guaranteed capacity or payroll processing service."
+    },
+    {
+      "candidate_id": "R3COMP-C04",
+      "source_candidate_ids": [
+        "R3COMP-S03"
+      ],
+      "claim_text": "Robert Half and Protiviti describe blended consulting and staffing, with advisory, implementation and operations routes; this does not establish that a staffing contract owns a payroll programme or daily payroll.",
+      "locator": "Consulting from Protiviti; Flex and scale staffing; Strategy/advisory; Process and technology implementation; Optimised operations",
+      "evidence_class": "declared_engagement_model",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_status": "working",
+      "status": "R03_second_check_context",
+      "review_mode": "Primary sections inspected; selected current captures and explicit reuse retained",
+      "limitations": "No payroll-specific success, universal managed-payroll entitlement or independent outcome inferred. Omnissa finance/deal-management testimonial and superlatives are not adopted."
+    },
+    {
+      "candidate_id": "R3COMP-C05",
+      "source_ids": [
+        "SRC-0113",
+        "SRC-0114",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0117",
+        "SRC-0118",
+        "SRC-0119"
+      ],
+      "claim_text": "Previously inspected recruiter scope/case material can inform role and expertise contrasts, but the needed engagement must still distinguish enduring leadership, individual capacity, programme deliverables and payroll execution.",
+      "locator": "R02 competitor challenge current primary inspection matrix; canonical source-specific locators",
+      "evidence_class": "analytical_interpretation_from_declared_scope",
+      "limitations": "Reuses28October2026 verified scope, not a newly repeated census or evidence of current availability, skills shortage, client demand or achieved payroll results.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "publication_status": "working",
+      "status": "R03_second_check_context",
+      "review_mode": "Primary sections inspected; selected current captures and explicit reuse retained"
+    }
+  ]
+}

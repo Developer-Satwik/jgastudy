@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "CASE-S01",
+      "url": "https://audit.scot/uploads/2025-10/aar_2425_scottish_government.pdf",
+      "final_url": "https://audit.scot/uploads/2025-10/aar_2425_scottish_government.pdf",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "bytes": 968987,
+      "status": "retained"
+    },
+    {
+      "candidate_id": "CASE-S02",
+      "url": "https://www.businessintheparliament.scot/-/media/files/spcb/annual-reports/spcb-annual-report-and-accounts-2024-25.pdf",
+      "final_url": "https://www.businessintheparliament.scot/-/media/files/spcb/annual-reports/spcb-annual-report-and-accounts-2024-25.pdf",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r03/cases/parliament-accounts-2024-25.pdf",
+      "sha256": "777ffd7fada746264986c6bb431c7355487867f0f601677c9d00ae6fd524a511",
+      "bytes": 1186749,
+      "status": "retained"
+    },
+    {
+      "candidate_id": "CASE-S03",
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/5/",
+      "final_url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/5/",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r03/cases/sg-closure-post-implementation.html",
+      "sha256": "018b140ffdcb8fafb846bf7c8f432657f04bdb3246668b2dee4c8562fb9f93bc",
+      "bytes": 55338,
+      "status": "retained"
+    },
+    {
+      "candidate_id": "CASE-S04",
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/9/",
+      "final_url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/9/",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r03/cases/sg-closure-benefits.html",
+      "sha256": "748671f452846dd19858b41425ed23636949c02491d72f0a95423d4f97290251",
+      "bytes": 42658,
+      "status": "retained"
+    },
+    {
+      "candidate_id": "CASE-S05",
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/11/",
+      "final_url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/11/",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r03/cases/sg-closure-appendices.html",
+      "sha256": "f43c0c04dff9037a2ea826c3f2f14c44c0caed016efa449b121e9ac389ac241f",
+      "bytes": 77323,
+      "status": "retained"
+    }
+  ],
+  "excluded_discovery": [
+    {
+      "url": "https://democracy.edinburgh.gov.uk/documents/s103508/8.1%20-%20Internal%20Audit%20Outcomes%20June%20to%20August%202026%20-%20Appendix%201%20Payroll%20Oracle%20HR%20Key%20Controls.html?CT=2",
+      "status": "original_unavailable_403_or_inaccessible",
+      "use": "Excluded; no snippet claim adopted"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "module": "R06",
+  "status": "completed_internal_desktop_synthesis_practitioner_integration_pending",
+  "validated_framework": false,
+  "ranking": false,
+  "mandatory_sequence": false,
+  "universal_workflow": false,
+  "fields_are_ordinal": false,
+  "case_unit": "Specific dated decision object/component within actual case; options, disposition, implementation and benefit separate",
+  "decision_dispositions": [
+    "approved",
+    "declined",
+    "deferred",
+    "withdrawn_abandoned",
+    "pending",
+    "no_formal_approval_required",
+    "not_known",
+    "prefer_not_to_disclose"
+  ],
+  "decision_vocabulary_basis": "ExistingQ007, source wording retained and analystnormalisation bounded; not every public case supplies a disposition",
+  "option_is_not_decision_disposition": true,
+  "continued_service_is_not_proof_of_deliberate_renewal": true,
+  "no_status_inferred_from_silence": true,
+  "preproposal_is_separate_route": true,
+  "rollout_delay_is_not_automatically_deferred_investment": true,
+  "selection_and_effect_are_separate": true,
+  "reason_and_remedy_are_separate": true,
+  "matrix_rows": [
+    {
+      "row_id": "M01",
+      "context": "Retained arrangement on merit or mixed grounds",
+      "establish": "The specific option, alternatives and unaided reason; a survey no-change/satisfied answer is not an inspected renewal.",
+      "possible_response": "Confirm fit and relevant performance; retain feasible process/control/capability improvements where needed.",
+      "inference_limit": "Retention is not automatically inertia, absence of unmet needs or no investment.",
+      "supporting_claim_ids": [
+        "CLM-0347",
+        "CLM-0348",
+        "CLM-0355",
+        "CLM-0356"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M02",
+      "context": "Time-bounded continuity or constrained renewal",
+      "establish": "Actual deadline/obligation, feasible replacement/transition, scope and next review if known.",
+      "possible_response": "A proportionate continuation, staged preparation or improved incumbent may be considered; record actual action separately.",
+      "inference_limit": "Do not infer permanent lock-in, irrationality, hidden satisfaction or guaranteed later replacement.",
+      "supporting_claim_ids": [
+        "CLM-0345",
+        "CLM-0346",
+        "CLM-0348"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M03",
+      "context": "Change selected/approved or operational change reported",
+      "establish": "Exact product/service/task/counterparty/organisation object; authority/commitment and current delivery.",
+      "possible_response": "Match support and evidence to the actual changed component, retained work and handover.",
+      "inference_limit": "Approval is not signature/go-live; operational processing is not quantified/causal benefit.",
+      "supporting_claim_ids": [
+        "CLM-0344",
+        "CLM-0347",
+        "CLM-0364",
+        "CLM-0365"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M04",
+      "context": "Proposal deferred/pending versus rollout postponed",
+      "establish": "Whether the proposal decision or only release date is deferred; remaining condition, owner, date/review and subsequent events.",
+      "possible_response": "Target the stated condition if addressable, or respect timing; keep actual action and effect separate.",
+      "inference_limit": "Pending is not an assumed state from silence; postponed implementation is not automatically deferred approval or abandonment.",
+      "supporting_claim_ids": [
+        "CLM-0349",
+        "CLM-0350",
+        "CLM-0354",
+        "CLM-0365"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M05",
+      "context": "Proposal declined or one option rejected",
+      "establish": "Exact decision/object, stated grounds and alternatives selected; no inference that the underlying need vanished.",
+      "possible_response": "Revise scope/evidence only if appropriate and permitted, or accept a reasoned decline; remedy unvalidated until observed.",
+      "inference_limit": "No current private-employer decline rationale is established by this desktop case set.",
+      "supporting_claim_ids": [
+        "CLM-0362",
+        "CLM-0365",
+        "CLM-0366"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M06",
+      "context": "Withdrawn/abandoned/stopped component",
+      "establish": "What ceased, what continued, stage/date, remaining obligations and reason directly known.",
+      "possible_response": "Assess actual stop/handback/dependency and any supported alternative; a justified stop can remain valid.",
+      "inference_limit": "Component cancellation is not whole-need abandonment, inevitable failure or proof an earlier stop would have been better.",
+      "supporting_claim_ids": [
+        "CLM-0351",
+        "CLM-0352",
+        "CLM-0354",
+        "CLM-0362",
+        "CLM-0366"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M07",
+      "context": "Cancelled publication/procurement label",
+      "establish": "Type/body of the notice, event date/reason, actual procurement/contract/need that the label refers to.",
+      "possible_response": "Seek authoritative clarification where available; preserve unknown future route.",
+      "inference_limit": "An advance-notice label does not prove a commenced tender, cancelled upgrade or lost buyer opportunity.",
+      "supporting_claim_ids": [
+        "CLM-0353",
+        "CLM-0354"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M08",
+      "context": "Need not raised / no qualifying recent case",
+      "establish": "Existing Q006route: never-raised need, older context, uncertain eligibility and refusal remain separate.",
+      "possible_response": "Use only relevant optional clarification, honour refusal and return to existing guide route.",
+      "inference_limit": "No recalled case is not automatically organisational indecision; historical context does not fill recent sample.",
+      "supporting_claim_ids": [
+        "CLM-0365",
+        "CLM-0366"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    },
+    {
+      "row_id": "M09",
+      "context": "Unknown, not measured, not applicable or not disclosed",
+      "establish": "Which field is missing and whose knowledge supports what is known.",
+      "possible_response": "Preserve missingness; do not demand confidential budgets/contracts or complete histories.",
+      "inference_limit": "Missing information is not zero cost, no benefit, failure, pending approval or concealed reluctance.",
+      "supporting_claim_ids": [
+        "CLM-0365",
+        "CLM-0366"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "remedy_validated": false
+    }
+  ],
+  "published_employer_contexts": [
+    {
+      "case_id": "PC01",
+      "name": "Warwickshire retained platform / proposed commercial-route change",
+      "source_ids": [
+        "SRC-0195"
+      ],
+      "claim_ids": [
+        "CLM-0344"
+      ],
+      "event_date": "2026-10-15",
+      "date_precision": "day",
+      "source_position": "Published16October2026; public meeting confirms restricted recommendations agreed, operative call-in labels differ",
+      "object": "ContinuedHR/payroll platform and changed proposed commercial route",
+      "recorded_disposition": "Recommendations agreed in public meeting record",
+      "normalised_proposal_disposition": "approved",
+      "normalisation_limit": "Public decision only; restricted recommendation detail and operative call-in status not independently resolved",
+      "selected_option": "Retain platform with changed proposed commercial route",
+      "delivery_status": "not_established",
+      "benefit_status": "not_established",
+      "stated_reason_scope": "Only public purpose/decision content, no private preference or full businesscase",
+      "actual_signed_contract_verified": false,
+      "original_JGA_contribution": false
+    },
+    {
+      "case_id": "PC02",
+      "name": "Sandwell combinedERP renewal",
+      "source_ids": [
+        "SRC-0196"
+      ],
+      "claim_ids": [
+        "CLM-0345"
+      ],
+      "event_date": "2026-10-14",
+      "date_precision": "day",
+      "source_position": "Cabinetitem93, visible resolutionpoint1 and rationale",
+      "object": "Renewal of combinedERP services including payroll",
+      "recorded_disposition": "Renewal resolution",
+      "normalised_proposal_disposition": "approved",
+      "normalisation_limit": "Resolution is not signed entry or execution",
+      "selected_option": "Incumbent renewal",
+      "delivery_status": "not_established",
+      "benefit_status": "not_established",
+      "stated_reason_scope": "Continuity and available time, with lapse/replacement alternatives",
+      "actual_signed_contract_verified": false,
+      "original_JGA_contribution": false
+    },
+    {
+      "case_id": "PC03",
+      "name": "Cumberland shared-service disaggregation procurement permission",
+      "source_ids": [
+        "SRC-0197"
+      ],
+      "claim_ids": [
+        "CLM-0346"
+      ],
+      "event_date": "2025-03-13",
+      "date_precision": "day",
+      "source_position": "Published14March2025; website decision statusImplemented",
+      "object": "Permission to procure within changed organisational shared-service boundary",
+      "recorded_disposition": "Procurement permission",
+      "normalised_proposal_disposition": "approved",
+      "normalisation_limit": "WebsiteImplemented is not operational go-live; named provider/platform and supplier switch unestablished",
+      "selected_option": "Changed organisational service boundary and procurement route; product/providerunknown",
+      "delivery_status": "not_established",
+      "benefit_status": "not_established",
+      "stated_reason_scope": "Exhausted extensions, remaining time and differing requirements",
+      "actual_signed_contract_verified": false,
+      "original_JGA_contribution": false
+    },
+    {
+      "case_id": "PC04",
+      "name": "WestSussex postponed rollout then scoped self-service notice",
+      "source_ids": [
+        "SRC-0198",
+        "SRC-0199"
+      ],
+      "claim_ids": [
+        "CLM-0349",
+        "CLM-0350"
+      ],
+      "event_date": null,
+      "date_precision": "separate_events",
+      "source_position": "Employercommunications10March and13October2026",
+      "object": "PlannedHR/payroll implementation and later employee self-service release",
+      "recorded_disposition": "Rollout timing changed; later specified self-service declared live",
+      "normalised_proposal_disposition": null,
+      "normalisation_limit": "Go-live postponement does not alone establish deferred investment approval; self-service notice does not establish full payroll delivery",
+      "selected_option": "Continue programme with changed rollout timing; full current scope not established",
+      "delivery_status": "dated_scoped_events",
+      "benefit_status": "not_established",
+      "stated_reason_scope": "Scale, safe reliable payroll and schools/term-time context, as reported by employer",
+      "actual_signed_contract_verified": false,
+      "events": [
+        {
+          "event_date": "2026-03-10",
+          "object": "Plannedimplementation",
+          "reported_position": "Moved fromApril toOctober2026",
+          "normalised_investment_disposition": null,
+          "delivery_status": "postponed"
+        },
+        {
+          "event_date": "2026-10-13",
+          "object": "Employee self-service for specified information/payslips",
+          "reported_position": "Declaredlive with support/historic-payslip limitation",
+          "normalised_investment_disposition": null,
+          "delivery_status": "live_scoped"
+        }
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "case_id": "PC05",
+      "name": "NICS historical payroll-component cancellation",
+      "source_ids": [
+        "SRC-0200"
+      ],
+      "claim_ids": [
+        "CLM-0351",
+        "CLM-0352"
+      ],
+      "event_date": "2001-05",
+      "date_precision": "month",
+      "source_position": "NIAO2004 report-summary retrospective account",
+      "object": "Payroll component, not the entire personnel/pensions system or underlying need",
+      "recorded_disposition": "Cancelled inMay2001 without a workablepayrollsystem",
+      "normalised_proposal_disposition": "withdrawn_abandoned",
+      "normalisation_limit": "Analyst umbrella label for specific component cancellation; no whole-need abandonment or present employer inference",
+      "selected_option": "Payrollcomponent stopped; other components functioning",
+      "delivery_status": "stopped_component",
+      "benefit_status": "Payrollbenefit not established; other components reported benefits",
+      "stated_reason_scope": "Summary reports failed workable component and contractual equipment dependency; not full-contract/full-report inspection",
+      "actual_signed_contract_verified": false,
+      "eligible_for_recent_practitioner_window": false,
+      "historical_context_only": true,
+      "original_JGA_contribution": false
+    },
+    {
+      "case_id": "PC06",
+      "name": "OEP reported staff-record/payroll transition",
+      "source_ids": [
+        "SRC-0204"
+      ],
+      "claim_ids": [
+        "CLM-0364"
+      ],
+      "event_date": "2024-12",
+      "date_precision": "month_end_reported",
+      "source_position": "Employerboardpaper dated22January2025, paragraph37",
+      "object": "Staff records fromiTrent toStaffology and Decemberpayroll by newprovider",
+      "recorded_disposition": "Reported completion and successfulpayroll processing, with refinement planned",
+      "normalised_proposal_disposition": null,
+      "normalisation_limit": "Approval/selection rationale and full procurement not reported; successful processing is management account, not zeroerror or benefit audit",
+      "selected_option": "Changed staff-record system and reportednewprovider",
+      "delivery_status": "reported_operational_transition_with_refinement",
+      "benefit_status": "not_established",
+      "stated_reason_scope": "No original selection rationale established",
+      "actual_signed_contract_verified": false,
+      "original_JGA_contribution": false
+    }
+  ],
+  "notice_status_contexts": [
+    {
+      "context_id": "NC01",
+      "name": "EducationPayrollNewZealand cancelledadvance notice",
+      "source_ids": [
+        "SRC-0201"
+      ],
+      "claim_ids": [
+        "CLM-0353"
+      ],
+      "object": "Advanceinformation noticeRFx34909219, not established commenced tender",
+      "portal_status": "cancelled_label",
+      "cancellation_date": null,
+      "cancellation_reason": null,
+      "normalised_proposal_disposition": null,
+      "underlying_upgrade_abandoned": null,
+      "commencement_of_procurement_established": false,
+      "original_JGA_contribution": false,
+      "outside_proposed_UK_population": true
+    }
+  ],
+  "published_surveys_context_only": true,
+  "anticipated_trigger_is_not_completed_switch": true,
+  "stated_premium_is_not_funded_purchase": true,
+  "source_population_and_item_base_separate": true,
+  "participant_observations": [],
+  "forecast_calculations": [],
+  "causal_remedies_tested": [],
+  "original_practitioner_observations": 0,
+  "product_trials": 0,
+  "new_numeric_estimates": 0,
+  "financial_inputs_populated": false,
+  "extra_mandatory_questions": 0,
+  "fourteen_core_questions_unchanged": true,
+  "unaided_case_first": true,
+  "current_question_ids": [
+    "Q006",
+    "Q007",
+    "Q008",
+    "Q009",
+    "Q010",
+    "Q011",
+    "Q012",
+    "Q013"
+  ],
+  "confidential_documents_required": false,
+  "supporting_claim_ids": [
+    "CLM-0344",
+    "CLM-0345",
+    "CLM-0346",
+    "CLM-0347",
+    "CLM-0348",
+    "CLM-0349",
+    "CLM-0350",
+    "CLM-0351",
+    "CLM-0352",
+    "CLM-0353",
+    "CLM-0354",
+    "CLM-0355",
+    "CLM-0356",
+    "CLM-0357",
+    "CLM-0358",
+    "CLM-0359",
+    "CLM-0360",
+    "CLM-0361",
+    "CLM-0362",
+    "CLM-0363",
+    "CLM-0364",
+    "CLM-0365",
+    "CLM-0366"
+  ],
+  "remaining_gaps": [
+    "Current actual private-employer declines/withdrawals and actual stated rationales",
+    "Original permissioned recent cases across outcomes, including useful retention/smaller change",
+    "Which response was adopted and how actual effect was assessed, without causal inference from sequence",
+    "Underlying/private contractual detail, undisclosed alternatives and current later outcomes remain unknown where absent"
+  ],
+  "external_actions": [],
+  "blank_event_template": {
+    "case_id": null,
+    "event_id": null,
+    "event_date_and_precision": null,
+    "position_as_of": null,
+    "source_or_contributor_knowledge": null,
+    "specific_object_and_scope": null,
+    "original_disposition_wording": null,
+    "normalised_disposition_if_supported": null,
+    "selected_or_retained_option": null,
+    "what_changed_and_what_continued": null,
+    "stated_reason_and_basis": null,
+    "alternatives_considered": null,
+    "remaining_condition_owner_and_next_review": null,
+    "actual_action_taken": null,
+    "possible_response_not_yet_adopted": null,
+    "delivery_status_and_basis": null,
+    "observed_or_expected_benefit_and_basis": null,
+    "later_event_if_known": null,
+    "missingness": null,
+    "permitted_use": null
+  }
+}

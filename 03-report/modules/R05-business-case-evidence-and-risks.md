@@ -1,0 +1,36 @@
+# R05 Business-case evidence, funding and implementation risks
+
+Desktop research and independent integrated review completed 29 October 2026. Original practitioner integration and final publication checks remain open.
+
+## Decision this informs
+
+What evidence, resources and implementation conditions make a specific payroll proposal credible, fundable and deliverable, including retained or smaller-change alternatives.
+
+## Desktop answer
+
+Connect the actual choice and realistic counterfactual to relevant cost, benefit, funding and delivery evidence. Keep whole-life resources/TCO, future incremental cash and affordability/timing separate. Capacity can be valuable without a budget reduction; forecasts, enabled functionality, executed tests and realised effects remain different claims.
+
+The [desktop readout](../R05-DESKTOP-READOUT.md), [business-case checklist](../R05-BUSINESS-CASE-CHECKLIST.md) and [structured evidence map](../R05-evidence-map.json) organise nine optional domains, three financial views and blank claim/evidence records. They build on R02–R04, preserve adequate-incumbent/smaller-change routes and do not add a compulsory process or score.
+
+## What the research adds
+
+- A realistic evolving baseline and feasible recommendation are different. An actual requirement can constrain choices without establishing an expensive replacement as best.
+- Separate cash release, capacity, cost avoidance and nonmonetary outcomes, with baseline, owner, realisation conditions and no overlap/double counting.
+- A public price, promotion, empty calculator or conditional implementation credit is not the employer's quote, whole-life cost or cash recovery.
+- Establish continuing payroll/change/support capacity, practical learning, representative executed checks, scoped exceptions and acceptance. No fixed dual-run duration or universal payroll tolerance.
+- Audit scope matters: NAO did not independently replicate/assure the business-case figures. Controlled cutover or sampled-pay positives do not establish realised benefit.
+- Plan assessment early; monitoring alone is not attribution. Where AI is part of the actual option, context, permitted actions, quality and review effort matter alongside processing time.
+
+Canonical CLM-0295–0322 support the bounded concepts and design. Source-specific interests, dates, public/private distinctions, educational limits, conflicting billing descriptions and framework-update notices remain in the detailed strand records. No price, return, risk probability or employer forecast was calculated.
+
+## Instrument and scope
+
+Use relevant clarification under existing Q008–Q013. Fourteen core questions and client checkpoint files remain unchanged. Blank observations, forecasts and calculations are intentional because no original fieldwork or employer financial data has been collected. The Table financial workbook remains a separate later package, not completed by this conceptual checklist.
+
+## Gate and next step
+
+The [independent integrated review](../../08-qa/R05-independent-review.md) and preservation checks passed. Original practitioner cases must later establish what evidence, figures and conditions existed and mattered. Next is R06: actual staying, switching, deferral, rejection and abandonment. No external message, form, private account, purchase, booking or product trial occurred. Nothing is sent to Nick without user permission.
+
+## User-requested second challenge
+
+The [second-challenge readout](../R05-SECOND-CHECK-READOUT.md) applies historical, current segmented service-market, all-six-comparator/JGA, prior-study and usable-capacity checks. Five optional conditions now accompany the unchanged nine-domain/three-view design. No historical total, quoted price, salary, standard loading, savings formula or UI rule was generalised. Constructed C-question evidence requests cannot independently validate buyer priorities. Prior modules, fourteen core questions and client Word/PDF files are preserved. Independent integrated review passed for internal desktop synthesis; no external sending.

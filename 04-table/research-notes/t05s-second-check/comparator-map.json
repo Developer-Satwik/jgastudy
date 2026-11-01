@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-01",
+  "recruitment_comparators": 6,
+  "JGA_contexts": 1,
+  "records": [
+    {
+      "firm": "Portfolio Payroll",
+      "source_ids": [
+        "SRC-0190"
+      ],
+      "observed_context": "Country/edition-specific survey and hiring/template catalogue with request routes.",
+      "service_cost_implication": "Match the actual task/country, define reusable assets and consider whether existing material is enough before claiming paid value.",
+      "review_boundary": "Current selected primary browser-reader paraphrase; linked reports uninspected.",
+      "workload_ids": [
+        "WS01",
+        "WS04",
+        "WS08",
+        "WS09",
+        "WS12"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Frazer Jones",
+      "source_ids": [
+        "SRC-0221"
+      ],
+      "observed_context": "Prior dated written payroll leadership interview.",
+      "service_cost_implication": "Useful existing expert context; no new participant permission, quote, current product capacity or proprietary study follows.",
+      "review_boundary": "Prior selected notes reused; current original and resources hub retrieval unavailable.",
+      "workload_ids": [
+        "WS01",
+        "WS04",
+        "WS08",
+        "WS13"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Oakleaf Partnership",
+      "source_ids": [
+        "SRC-0257"
+      ],
+      "observed_context": "Written webinar follow-through and recording route.",
+      "service_cost_implication": "A follow-up note and discussion format do not alone establish a paid gap; keep evidence, rights and remaining production distinct.",
+      "review_boundary": "Current primary HTML inspected for format, not recording or pension assertions.",
+      "workload_ids": [
+        "WS08",
+        "WS13",
+        "WS15",
+        "WS20"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Middlemore",
+      "source_ids": [
+        "SRC-0116"
+      ],
+      "observed_context": "Client search advice plus post-search recruitment analytics report.",
+      "service_cost_implication": "Cost the actual client-specific service/evidence object; do not equate it with a syndicated payroll-investment dataset.",
+      "review_boundary": "Current primary HTML; sample-report download not submitted/inspected.",
+      "workload_ids": [
+        "WS04",
+        "WS05",
+        "WS08",
+        "WS09",
+        "WS18"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Hays",
+      "source_ids": [
+        "SRC-0192"
+      ],
+      "observed_context": "Guide redirect/introduction with edition and evidence-period footnote.",
+      "service_cost_implication": "Keep task, country and evidence dates explicit; no wage, internal cost or whole guide review inferred.",
+      "review_boundary": "Current primary redirect/intro body, not underlying full guide.",
+      "workload_ids": [
+        "WS01",
+        "WS04",
+        "WS08"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "Robert Half",
+      "source_ids": [
+        "SRC-0193"
+      ],
+      "observed_context": "Current2027 UK salary guide and customised insight/personal support.",
+      "service_cost_implication": "Personalisation is not by itself a scarce paid product; no separate tariff or unlimited-service promise follows.",
+      "review_boundary": "Current raw primary body; lagged2026search-reader edition excluded for this review.",
+      "workload_ids": [
+        "WS04",
+        "WS05",
+        "WS08",
+        "WS13"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    },
+    {
+      "firm": "JGA",
+      "source_ids": [
+        "SRC-0088"
+      ],
+      "observed_context": "Public UK/global payroll expert podcast and archive/subscription route.",
+      "service_cost_implication": "Existing content may help scope the paid use; no automatic guest access, permissions, staff availability or conversion.",
+      "review_boundary": "Current selected primary browser-reader paraphrase; audio and audience metrics uninspected.",
+      "workload_ids": [
+        "WS01",
+        "WS08",
+        "WS13",
+        "WS20"
+      ],
+      "actual_buyer_or_partner": false,
+      "measured_cost_or_demand": false
+    }
+  ],
+  "not_T01_six_business_models": true,
+  "not_competitor_cost_or_price_comparison": true
+}

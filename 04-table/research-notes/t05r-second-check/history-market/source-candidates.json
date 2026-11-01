@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-31",
+  "scope": "Five bounded historical/market primary routes; two retained raw originals, three explicitly labelled substantive primary reader extracts. No financial input changes.",
+  "records": [
+    {
+      "candidate_id": "T5H-S01",
+      "url": "https://www.ciep.uk/resource/suggested-minimum-rates-archive.html",
+      "final_url": "https://www.ciep.uk/resource/suggested-minimum-rates-archive.html",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-31T17:59:05.037882+00:00",
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S01.html",
+      "capture_sha256": "a780a6132116a12082d8df31dadd2731289bca668bf64b0cd769da74d670993e",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S01.txt",
+      "parsed_sha256": "8a1ac9be7d416124c14d722271af049d09faaa9bbce5ed3970de2ebaf4d0c12f",
+      "title": "CIEP suggested minimum rates archive",
+      "publisher": "Chartered Institute of Editing and Proofreading",
+      "source_type": "professional_body_historical_suggested_fee_context",
+      "published_date": null,
+      "date_note": "Page header11January2024 is not a freeze date: the current archive contains2025 and earlier rows. Accessed31October2026.",
+      "review_status": "relevant_historical_rate_and_scope_sections_inspected",
+      "limitations": "Suggested minima by category/year, not observed wage inflation, booked rates, a JGA supplier quotation or an automatic2027 rate.",
+      "reuse_status": "Private verification; appropriate attribution and applicable rights required for publication reuse",
+      "funding_or_commercial_interest": "Producer publishes its own guidance, survey or platform service; not independent JGA procurement evidence",
+      "publication_eligibility": "working_context_final_use_pending"
+    },
+    {
+      "candidate_id": "T5H-S02",
+      "url": "https://www.procopywriters.co.uk/survey/2025/",
+      "final_url": "https://www.procopywriters.co.uk/survey/2025/",
+      "http_status": null,
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S02-reader.txt",
+      "capture_sha256": "5ea27ffa312c1dc55d038a41fa155d172e19b45aaaf3b8d495056f28908560cc",
+      "capture_kind": "browser_reader_extract",
+      "raw_http_retrieval_status": 403,
+      "reader_inspected_on": "2026-10-31",
+      "title": "ProCopywriters2025 survey summary, current retrospective mean/median explanation",
+      "publisher": "ProCopywriters",
+      "source_type": "producer_retrospective_survey_summary",
+      "published_date": null,
+      "date_note": "The currently published2025 summary labels fieldworkFebruary/publicationJuly2025; inspected31October2026. Page update time is not established.",
+      "review_status": "relevant_historical_rate_and_scope_sections_inspected",
+      "limitations": "Tool reader/search result retains substantive producer summary; direct raw retrieval403 and repeated open timeout. Not a retained originalHTML.474overallrespondents is not the rate-item base. Current retrospective median description does not establish what the page displayed in2025.",
+      "reuse_status": "Private verification; appropriate attribution and applicable rights required for publication reuse",
+      "funding_or_commercial_interest": "Producer publishes its own guidance, survey or platform service; not independent JGA procurement evidence",
+      "publication_eligibility": "working_context_final_use_pending"
+    },
+    {
+      "candidate_id": "T5H-S03",
+      "url": "https://www.yunojuno.com/press-release/yunojuno-releases-2025-freelancer-rates-report-ai-skills-drive-shift-in-contingent-workforce-market-as-average-day-rates-rise",
+      "final_url": "https://www.yunojuno.com/press-release/yunojuno-releases-2025-freelancer-rates-report-ai-skills-drive-shift-in-contingent-workforce-market-as-average-day-rates-rise",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-31T17:59:05.062082+00:00",
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S03.html",
+      "capture_sha256": "ac0a5180fff83c8afd28d3c100f4e730037019c140df8617cff8fd6781257d17",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S03.txt",
+      "parsed_sha256": "9a2179c36a5ddd9e41a011ceff36f15b534c5c7e4ecaec8cd678cf12928c3082",
+      "title": "YunoJuno2025 freelancer rates report release",
+      "publisher": "YunoJuno",
+      "source_type": "producer_historical_platform_report_release",
+      "published_date": "2025-02-06",
+      "date_note": "Release dated6February2025; accessed31October2026.",
+      "review_status": "relevant_historical_rate_and_scope_sections_inspected",
+      "limitations": "Discipline-level historical report summary, not current role-level rate.261000+contracts is the producer total description, not a role-level count or JGA procurement sample. No comparable role panel or2027 forecast.",
+      "reuse_status": "Private verification; appropriate attribution and applicable rights required for publication reuse",
+      "funding_or_commercial_interest": "Producer publishes its own guidance, survey or platform service; not independent JGA procurement evidence",
+      "publication_eligibility": "working_context_final_use_pending"
+    },
+    {
+      "candidate_id": "T5H-S04",
+      "url": "https://www.upwork.com/hire/market-researchers/cost/",
+      "final_url": "https://www.upwork.com/hire/market-researchers/cost/",
+      "http_status": null,
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S04-reader.txt",
+      "capture_sha256": "50e113e21ee042f7700bdeb58feeeb1bc3d7807ce0c27952e616125567484e39",
+      "capture_kind": "browser_reader_extract",
+      "raw_http_retrieval_status": 403,
+      "reader_inspected_on": "2026-10-31",
+      "title": "Upwork market-research analyst cost guide, worldwide historical contract range",
+      "publisher": "Upwork",
+      "source_type": "producer_global_marketplace_rate_guide",
+      "published_date": null,
+      "date_note": "No observation window/date or role sample is given in the inspected reader. Accessed31October2026.",
+      "review_status": "relevant_historical_rate_and_scope_sections_inspected",
+      "limitations": "Substantive primary publisher reader/search extraction retained; raw request and direct toolopen403. No retained originalHTML. Historical worldwide range, not an Indian, UK-only, payroll-specialist or current supplier quote. NoFX,tax/fees/availability inferred.",
+      "reuse_status": "Private verification; appropriate attribution and applicable rights required for publication reuse",
+      "funding_or_commercial_interest": "Producer publishes its own guidance, survey or platform service; not independent JGA procurement evidence",
+      "publication_eligibility": "working_context_final_use_pending"
+    },
+    {
+      "candidate_id": "T5H-S05",
+      "url": "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee",
+      "final_url": "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee",
+      "http_status": null,
+      "capture_path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S05-reader.txt",
+      "capture_sha256": "aaf1832160ce44c0557bc35324caa64a9c5efb9646a319b44f3fa9207343d8ad",
+      "capture_kind": "browser_reader_extract",
+      "raw_http_retrieval_status": 403,
+      "reader_inspected_on": "2026-10-31",
+      "title": "Upwork Client Marketplace Fee help",
+      "publisher": "Upwork",
+      "source_type": "producer_marketplace_fee_conditions",
+      "published_date": null,
+      "date_note": "Tool reader inspected31October2026; publication/effective date not established.",
+      "review_status": "relevant_historical_rate_and_scope_sections_inspected",
+      "limitations": "Raw request403; substantive primary page reader retained separately, not originalHTML. Plan/payment conditions and current account checkout remain unverified. Up-to percentage is not an adopted rate; do not add provider-side fees again without actual terms.",
+      "reuse_status": "Private verification; appropriate attribution and applicable rights required for publication reuse",
+      "funding_or_commercial_interest": "Producer publishes its own guidance, survey or platform service; not independent JGA procurement evidence",
+      "publication_eligibility": "working_context_final_use_pending"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0263",
+      "detail": "Existing current2026–27CIEP category minima retained for like-category historical comparison; no source rate edited."
+    },
+    {
+      "source_id": "SRC-0264",
+      "detail": "Existing2026ProCopywriters page £440median and retrospective2025£430median; total573notitembase."
+    },
+    {
+      "source_id": "SRC-0265",
+      "detail": "Existing2026Yuno methodology mixed data points/UKday versusUShour kept; do not merge with2025contractcount."
+    },
+    {
+      "source_id": "SRC-0266",
+      "detail": "Existingcurrent£372MarketResearchConsultant role reference, not same unit as2025MarketResearchdiscipline."
+    }
+  ]
+}

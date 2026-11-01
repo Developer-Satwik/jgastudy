@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC3-ROOT-S01",
+      "title": "Integrate and adapt technology",
+      "publisher": "Government Digital Service / Central Digital and Data Office",
+      "url": "https://www.gov.uk/guidance/integrate-and-adapt-technology",
+      "accessed_on": "2026-10-29",
+      "published_date": "2017-11-06",
+      "updated_date": "2025-07-07",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/integrate-and-adapt-technology",
+      "capture_path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S01.html",
+      "capture_sha256": "b852e147a086b4dfedd4c65ad3ae15e146a34eb8550672ea8b285470574527e1",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "SC3-ROOT-S02",
+      "title": "Cloud security shared responsibility model",
+      "publisher": "National Cyber Security Centre",
+      "url": "https://www.ncsc.gov.uk/collection/cloud/understanding-cloud-services/cloud-security-shared-responsibility-model",
+      "accessed_on": "2026-10-29",
+      "published_date": "2022-05-10",
+      "updated_date": null,
+      "http_status": 200,
+      "final_url": "https://www.ncsc.gov.uk/collection/cloud/understanding-cloud-services/cloud-security-shared-responsibility-model",
+      "capture_path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S02.html",
+      "capture_sha256": "a879b8f69ee559a8cdff46bea25d17aa81ecd42e8e8ba905d66b66257c4384be",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "SC3-ROOT-S03",
+      "title": "Using Software as a Service securely",
+      "publisher": "National Cyber Security Centre",
+      "url": "https://www.ncsc.gov.uk/collection/cloud/using-cloud-services-securely/using-saas-securely",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "http_status": 200,
+      "final_url": "https://www.ncsc.gov.uk/collection/cloud/using-cloud-services-securely/using-saas-securely",
+      "capture_path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S03.html",
+      "capture_sha256": "2a4bc19a70e2f8e254c02a063ffad591377bcd48f2f865e911599b5d89a142c5",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "SC3-ROOT-S04",
+      "title": "Managing technical lock-in in the cloud",
+      "publisher": "Government Digital Service",
+      "url": "https://www.gov.uk/guidance/managing-technical-lock-in-in-the-cloud",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "updated_date": null,
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/guidance/managing-technical-lock-in-in-the-cloud",
+      "capture_path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S04.html",
+      "capture_sha256": "5a49f0d28e2fd35dfc2bd04cda7385a25b23bedd3c78bb5601521ad0ac849db2",
+      "capture_status": "retained_original_html"
+    }
+  ]
+}

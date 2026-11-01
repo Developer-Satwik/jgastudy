@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R07_second_challenge",
+  "review_basis": "Independent integrated desktop review; root exact saved-study linkage checks separately recorded. No fieldwork or final publication assurance.",
+  "supersedes_for_current_synthesis": "08-qa/R07-completion-check.json",
+  "new_source_routes": 7,
+  "new_claim_or_guardrail_records": 19,
+  "source_records": 191,
+  "claim_records": 338,
+  "source_records_with_primary_retained_original": 120,
+  "internal_findings": 76,
+  "selective_conditions": 5,
+  "new_public_employer_histories": 0,
+  "selected_prior_questions": 4,
+  "selected_saved_answer_texts": 32,
+  "prior_bridge_checks_passed": 327,
+  "independent_integration_checks_passed": 373,
+  "checked_capture_files": 29,
+  "preserved_baseline_records": 58,
+  "first_pass_R07_snapshots": [
+    {
+      "original_path": "03-report/R07-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/01-R07-DESKTOP-READOUT.md.txt",
+      "sha256": "fd2705f45f23147a5c0488a721242b9cc94d8c5cb687003c930dc6aab653bcc7"
+    },
+    {
+      "original_path": "03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/02-R07-CONTEXTUAL-PRIORITIES.md.txt",
+      "sha256": "862ad9e202dfcc4cb6d08639f9beadedaff3c049d15f95d35bc8bb1fd474fe0c"
+    },
+    {
+      "original_path": "03-report/R07-priority-map.json",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/03-R07-priority-map.json.txt",
+      "sha256": "5749dd2e5c94e91695b61dfd8126ce57f4acfd8fd9103a30ddfad952a4a664f7"
+    },
+    {
+      "original_path": "03-report/modules/R07-priorities-and-contextual-differences.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/04-R07-priorities-and-contextual-differences.md.txt",
+      "sha256": "78c9e0557ce1fefc149924c78ddb0235472fa5ca2b08a6ff95f95921ef406863"
+    },
+    {
+      "original_path": "08-qa/R07-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/05-R07-independent-review.md.txt",
+      "sha256": "6cf43cc3d370bb8d9b4407f7b23f6bf8a44a62a2333d4dbd4ed6cac1d983c29b"
+    },
+    {
+      "original_path": "08-qa/R07-record-map.json",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/06-R07-record-map.json.txt",
+      "sha256": "5d26b646937ca489a55c6bd3b1a98fc02561df9a8dc4232bac55070b1db45d9b"
+    },
+    {
+      "original_path": "08-qa/R07-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/07-R07-completion-check.json.txt",
+      "sha256": "87f54358ecdae45f9d9d07584d694a49dd2a5dc7812eb49937aa68cc3f7815c8"
+    }
+  ],
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "numerical_estimates": 0,
+  "model_reruns": 0,
+  "product_trials": 0,
+  "extra_mandatory_questions": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R07-SECOND-CHECK-READOUT.md",
+      "sha256": "5556c568e56379ea5ad4857b75bfe9b4b8f13ef7f4d4981af24d5fe89e3f5289"
+    },
+    {
+      "path": "03-report/R07-DESKTOP-READOUT.md",
+      "sha256": "2077c94c968e15f758109ada0118c2dbe8ba0357b9fc91a648cd805af2aaf6ff"
+    },
+    {
+      "path": "03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "sha256": "26ec287edf849d07032ee6349e430a0f95ed5772e6b41be12189da719f5c0ccf"
+    },
+    {
+      "path": "03-report/R07-priority-map.json",
+      "sha256": "73619157fa068ae0551cc65f99e20c26d82ecb4bef9a16802aab5afeba30b47a"
+    },
+    {
+      "path": "03-report/modules/R07-priorities-and-contextual-differences.md",
+      "sha256": "58f2e39ea6ecd38986c88d4a952e7caa448b3aa0d4c19d3124599feeee3abd3f"
+    },
+    {
+      "path": "08-qa/R07-second-check-independent-review.md",
+      "sha256": "5b284b426a187ba0f0ff4abd386aca9861eccd8f043d48a8fe3bcd9516310eed"
+    },
+    {
+      "path": "08-qa/r07-second-review/integration-checks.json",
+      "sha256": "cbd50fdf800e44e5cece834e161d96a924b6fb6389320c35f38aefeb9052adfc"
+    },
+    {
+      "path": "08-qa/R07-second-check-record-map.json",
+      "sha256": "23be2b7c804cb22a1bc28ff884e18a4dea3bcdc1eb7dfeeaa9519aeb139e1986"
+    },
+    {
+      "path": "08-qa/R07-second-check-captures.json",
+      "sha256": "754a287aeeea8652c6bc8d090bf0a0bd56e941267129165f757059764f430322"
+    },
+    {
+      "path": "08-qa/R07-prior-study-bridge-check.json",
+      "sha256": "fed8321dfc05fe7f91d60ba121ec514ca87a9e487a514e45a18c273232bf67c7"
+    },
+    {
+      "path": "08-qa/R07-prior-study-bridge-check.md",
+      "sha256": "b1c8ae18329d510024d187fd6695ce6f12818e8bac52244a443cbe08a3347fa3"
+    }
+  ],
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 2160,
+    "json_files": 333,
+    "source_records": 191,
+    "claim_records": 338,
+    "question_records": 14,
+    "internal_design_findings": 76,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 266,
+    "scope": "Current R01–R07 record/capture/evidence links and preservation, including R07second origin/sequence/actualcapability/work-remit/affectedparty conditions, prior-study linkage, firstpass snapshots, heldclaims, unchanged core/client files and empty unperformed research. No finalpublication or fieldwork assurance."
+  },
+  "completion_artifact_hashes_verified": true
+}

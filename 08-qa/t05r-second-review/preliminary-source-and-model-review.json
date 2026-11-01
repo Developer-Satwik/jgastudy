@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-31",
+  "status": "preliminary_independent_second_check_integrated_review_pending",
+  "scope": "Read-only independent critique of firstT05costcomponent and source meaning. No workbookedit/nativeExcelrerun or new marketforecast.",
+  "checks": [
+    {
+      "id": "PR01",
+      "subject": "CIEP current and archive units",
+      "passed": true,
+      "basis": "Current2026–27 proofreading31.92/copyediting37.11/PM46.19GBPperhour, archive2025 30.75/35.75/44.50. Suggestedfee schedules, not achievedmarketprice or JGAemployee wages. Effectiveyearchecked, genericarchivepagedate notratesdate."
+    },
+    {
+      "id": "PR02",
+      "subject": "ProCopywriters current statistical definition",
+      "passed": true,
+      "basis": "Producer2026HTML states573overallrespondents/Februaryfieldwork/Julypublished,440GBPmedianfreelanceday and430GBP2025median. The item-base and daylength are not established by this summary. Historicalmean480 is not same statistic."
+    },
+    {
+      "id": "PR03",
+      "subject": "YunoJuno role versus discipline",
+      "passed": true,
+      "basis": "CurrentMarketResearchConsultantrolepage372GBP/day versus2025releaseMarketResearchdiscipline491GBP/day. Cannot infer comparable rate decline, productivity or revised JGAcost fromthiscontrast."
+    },
+    {
+      "id": "PR04",
+      "subject": "Existing model role and currency use",
+      "passed": true,
+      "basis": "Firstpass explicitly7.5hour normalisation, UK benchmarks as labourcomparison, missingJGAhourlyrates, noUSDGBPcomparison and noexistingcontractfeeadded."
+    },
+    {
+      "id": "PR05",
+      "subject": "Effort and economic boundary",
+      "passed": true,
+      "basis": "174providerhours and23JGAhours are constructedcase, not elapsedtime, observedtimesheet, actualsupplierbookingor payrollspecialistavailability. No numericalassumption now justifiedforalteration."
+    }
+  ],
+  "live_primary_urls_read": [
+    "https://www.ciep.uk/knowledge-hub/suggested-minimum-rates.html",
+    "https://www.ciep.uk/resource/suggested-minimum-rates-archive.html",
+    "https://www.procopywriters.co.uk/survey/2026/",
+    "https://www.yunojuno.com/freelancer-rates-job-role/market-research-consultant",
+    "https://www.yunojuno.com/press-release/yunojuno-releases-2025-freelancer-rates-report-ai-skills-drive-shift-in-contingent-workforce-market-as-average-day-rates-rise"
+  ],
+  "material_corrections_to_original_workbook": [],
+  "additional_conditions_to_test": [
+    "Match role/statistic/year/currency before historicalcomparison.",
+    "Cost actual sourcing/bookingunit and handoffs rather thanrounding everyworktask.",
+    "Keep unsuccessfulparticipant/contact/rework effort visible without inventing a conversionrate.",
+    "Reuse actualevidence/assets subjectto currenttask/rights, preserving source/evidenceupdate and QA.",
+    "AI taskassistance needs actualpermittedworkflow/evaluation; no automaticpercentageeffortreduction."
+  ],
+  "final_integrated_review_pending": true,
+  "external_actions": []
+}

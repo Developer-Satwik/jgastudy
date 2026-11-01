@@ -1,0 +1,4072 @@
+
+[PDF page 1]
+ 
+  
+ 
+ 
+Late Payments Research 
+ 
+Estimating the total economic cost of late payments and their 
+impact on the UK economy 
+ July 2025 
+
+
+[PDF page 2]
+ 
+2 
+ 
+This research has been carried out by London Economics, on behalf of the Department for 
+Business and Trade & the Office of the Small Business Commissioner. 
+ 
+Research contractor: London Economics 
+ 
+Research authors: Sam Behrens, Rohan Jain, Patrice Muller, Sam Stargardt 
+ 
+Academic technical advisors: Prof. Mark Hart (Warwick Business School) and Dr. Dalila 
+Ribaudo (Aston Business School) 
+ 
+Acknowledgements: London Economics would like to thank all businesses who 
+participated in the research, IFF Research and YouGov for managing survey fieldwork, 
+and Joe Busse from the Small Business Growth: Analysis, Strategy & International division 
+at the Department for Business and Trade for his insights and guidance. 
+ 
+
+[PDF page 3]
+ 
+ 
+1 
+ 
+Contents 
+ 
+List of key terms 3 
+Executive Summary 5 
+Introduction 5 
+Headline findings 5 
+Impact of late payment on businesses 7 
+The cost of late payments for the economy 10 
+Conclusion 12 
+Introduction 13 
+Policy context 13 
+Objectives of this study 13 
+Summary of the approach 16 
+Structure of this report 16 
+1. Impact of late payment on businesses 17 
+The current landscape of late payments 17 
+Costs for businesses as a result of late payments 24 
+Actions taken to mitigate the impact of late payments 28 
+2. The cost of late payments for the economy 31 
+The impact of late payment on business survival 31 
+The impact of late payment on investment 34 
+The cost of late payments for the economy 36 
+3. Conclusion 39 
+Results 39 
+Future research 39 
+Limitations 39 
+Annex 1 – Estimating the impact of late payments 41 
+Data 41 
+Econometric approach 43 
+Quantifying the costs of late payments 51 
+Annex 2 – Primary data collection 55 
+Methodology 55 
+Sample characteristics 55 
+Data cleaning 55 
+Survey questionnaire 58 
+
+[PDF page 4]
+ 
+ 
+2 
+ 
+Annex 3 – Academic literature review and initial methodology 68 
+Understanding the late payment problem 68 
+Estimating the economic impact of late payment 69 
+Contextual academic literature and other research 69 
+Existing econometric approaches 70 
+References 76 
+  
+
+[PDF page 5]
+ 
+ 
+3 
+ 
+List of key terms 
+ 
+CATI survey: Computer Assisted Telephone Interviewing, a form of interviewing where the 
+interviewer is guided by questions on a computer screen and respondents provide answers over 
+the phone.  
+ 
+Control group: A group of subjects (businesses in this case) against which the outcomes of the 
+treatment group (in this case businesses experiencing late payment issues) are compared.  
+ 
+Debt finance: The process by which a business raises capital by borrowing, typically through loans 
+or other lines of credit, which must be repaid with interest over time. 
+ 
+Difference-in-difference: A statistical technique used to estimate causal relationships, comparing 
+the changes in outcomes over time between a treatment group and a control group. 
+ 
+DBT: The Department for Business and Trade.  
+ 
+FAME: The Financial Analysis Made Easy database by Bureau van Dijk. A UK company database 
+providing detailed financial, ownership, and corporate structure information.  
+ 
+GDP: Gross Domestic Product - A measure of the total economic output of a country, representing 
+the value of all goods and services produced in a year.  
+ 
+GVA: Gross Value Added - An economic measure of the value of goods and services produced 
+minus the value of the raw materials and inputs.  
+ 
+IDBR: Inter Departmental Business Register - A database maintained by the UK government, 
+containing information on UK businesses used for statistical purposes. 
+ 
+Invoice discounting: A form of short-term finance where a business uses its outstanding invoices 
+as collateral to secure a loan from a lender.  
+ 
+Invoice factoring: A form of short-term finance where a business sells it outstanding invoices to a 
+third-party for a percentage of their value.  
+ 
+Late payment: Payment after the agreed or contractual payment date or payment terms of over 60 
+days. 
+ 
+Long payment terms: Payment terms of more than 60 days.  
+ 
+LSBS: The Longitudinal Small Business Survey - A UK government survey collecting data annually 
+from small and medium-sized enterprises (SMEs). 
+ 
+Online survey: A method of data collection conducted via the internet, allowing respondents to 
+complete questionnaires electronically. 
+ 
+ONS: The Office for National Statistics - The UK’s recognised national statistical institute, 
+responsible for collecting and publishing economic, demographic, and social data. 
+ 
+
+[PDF page 6]
+ 
+ 
+4 
+ 
+Opportunity cost: The value which reflects the best alternative use a good or service could be put 
+to, used widely in cost-benefit analysis. 
+ 
+OSBC: Office of the Small Business Commissioner - An independent public body, sponsored by 
+the Department for Business and Trade, that supports small businesses in resolving disputes 
+related to payment issues with larger customers. 
+ 
+Overdue invoice: An invoice that has not been paid by the stipulated or contractual payment date. 
+ 
+PSM: Propensity score matching - A statistical technique used to reduce bias by matching 
+treatment and control units (businesses in this case) with similar characteristics based on their 
+probability of receiving a treatment (experiencing late payment issues in this case). 
+ 
+Supply chain finance: A financial solution that allows businesses to receive payment on their 
+invoices earlier. 
+ 
+Trade credit: A financing arrangement where a buyer is allowed to purchase goods or services and 
+pay the supplier at a later scheduled date. 
+ 
+Transfer: The movement of financial resources from one entity to another in the context of this 
+study.  
+ 
+Treatment Group: A group of subjects (businesses in this case) that receives a treatment 
+(experience late payment problems in this case).  
+
+[PDF page 7]
+ 
+ 
+5 
+ 
+Executive Summary 
+ 
+Introduction 
+Businesses in the UK often offer their customers ‘trade credit’, where payment by the customer is 
+permitted after the delivery of the goods or services. This can lead to a situation where businesses 
+experience delays in receiving payment, which can cause cash flow problems for businesses.  
+ 
+Businesses are impacted both when invoices are paid beyond the agreed or contractual payment 
+date and when long payment terms are imposed. This report considers the impact of both of these 
+issues, and defines late payment as any combination of: 
+ 
+• Overdue invoices, where businesses are paid beyond the agreed or contractual payment 
+• Long payment terms, where businesses agree to payment more than 60 days after goods 
+or services have been delivered 
+ 
+Previous research has highlighted that late payment can be detrimental for businesses, and over 
+the last 30 years Government has introduced policy measures to help address the issue of late 
+payments. Against this backdrop, London Economics were commissioned by the Department for 
+Business and Trade (DBT) and the Office of the Small Business Commissioner (OSBC) in 
+November 2024 to undertake a study on the impact of late payments on UK businesses and the 
+UK economy. The approach used for this study consists of three main strands. 
+ 
+1. Design, delivery and analysis of a quantitative survey of 1,455 businesses. The survey was 
+conducted by YouGov and IFF Research and took place between 15/01/25 and 07/02/25. 
+2. Econometric analysis of secondary data to assess the impact of late payments on business 
+survival and investment.  
+3. A quantification exercise, drawing together the results of the first two strands, to estimate 
+the cost of late payments to businesses as well as the wider economy.  
+ 
+Headline findings 
+• Late payments are estimated to cost the UK economy almost £11 billion per year.  
+• Over 1.5 million businesses, or 28% of businesses, are affected by late payments each 
+year. 
+• Businesses are owed an estimated £26 billion in late payments at any given time, on 
+average £17,000 per business affected by late payment. 
+• 22% of surveyed businesses said they spent staff time chasing late payments, on average 
+86 hours per business affected by late payment per year. This equates to 133 million hours 
+of staff time across the economy each year.  
+• 14,000 businesses close each year as a result of late payments, equivalent to 38 
+businesses every day. 
+• 15% of surveyed businesses said they have avoided doing business with specific 
+customers based on their payment behaviour.  
+
+[PDF page 8]
+ 
+ 
+6 
+ 
+Figure 1: Headline findings 
+ 
+
+
+[PDF page 9]
+ 
+ 
+7 
+ 
+ 
+Impact of late payment on businesses 
+Responses to the Longitudinal Small Business Survey (LSBS) suggest that late payment is a 
+significant issue for businesses. Indeed, almost 8% of business indicate that late payments are a 
+‘big problem’ for them. In the YouGov/IFF Research survey run as part of this report, a significant 
+proportion of businesses reported that their customers were paying late, as shown in Table 1.  
+ 
+Table 1: Late payment issues faced by businesses at the time of the survey run for the 
+study 
+Late payment 
+issues currently 
+faced 
+Micro (0 – 9 
+employees) 
+Small (10 – 49 
+employees) 
+Medium (50 – 
+249 employees) 
+Large (> 250 
+employees) 
+Both overdue 
+invoices and 
+payment terms 
+longer than 60 
+days  
+12% 21% 35% 59% 
+Overdue invoices 
+only 
+6% 12% 11% 4% 
+Payment terms 
+longer than 60 
+days only 
+1% 5% 3% 3% 
+No issues 80% 58% 49% 33% 
+Don't know 1% 3% 1% 0% 
+Source: London Economics analysis of YouGov/IFF Research survey. Note: N=680 (Micro), N=437 
+(Small), N=281 (Medium), N=57 (Large). Note: The percentages in each column do not add to 
+100% due to rounding. 
+ 
+Most businesses with late payment issues in the survey experience late payments both in the form 
+of customers not paying on time and payment terms in excess of 60 days, rather than one of these 
+exclusively.  Micro businesses were least likely to experience issues with late payment at the time 
+of the survey but this is likely driven by the fact that they are less likely to offer trade credit to their 
+customers. This does not however suggest that the late payment issues faced by micro businesses 
+are less severe.  
+ 
+Survey data also suggests that businesses take a wide range of different, costly, activities in order 
+to manage their late payment issues. This is shown in Table 2.   
+
+[PDF page 10]
+ 
+ 
+8 
+ 
+Table 2: Actions taken in 20241 as a result of late payments 
+Type of action Action Proportion of businesses 
+reporting that they undertook 
+the action 
+Recovering late payments Spent staff time chasing 
+unpaid debtors 
+22% 
+Recovering late payments Commissioned a debt 
+collection agency to chase 
+debtors 
+7% 
+Recovering late payments Started legal proceedings 
+against one of your customers 
+8% 
+Managing cash flow Take out debt finance 6% 
+Managing cash flow Raise equity finance 5% 
+Managing cash flow Inject personal funds into the 
+business 
+14% 
+Managing cash flow Used supply chain finance, 
+invoice factoring, invoice 
+discounting or sold overdue 
+invoices to a debt recovery 
+organization 
+7% 
+Other actions Reduce headcount 6% 
+Other actions Raised prices of goods and 
+services 
+11% 
+Source: London Economics analysis of YouGov/IFF Research survey. N = 1455. 
+ 
+Approximately 28% of businesses indicated that they were affected by late payment (they took at 
+least one of the actions in the table above).2 As such, it is estimated that approximately 1.54 million 
+businesses are affected by late payment.  
+ 
+The most common action taken by businesses in response to late payment issues is using staff 
+resource to chase unpaid debtors, which was done by more than a fifth (22%) of surveyed 
+businesses. Across all businesses in the economy, approximately 133 million hours of staff time 
+was spent chasing late payments, about 86 hours per business affected by late payment.   
+ 
+ 
+1 The survey questionnaire asks respondents about the last year, which does not perfectly align with the 
+calendar year 2024 as the survey was conducted in late January and early February 2025.  
+2 YouGov/IFF Research survey responses from this study differ from the LSBS. This study explicitly asks 
+about late payment issues in terms of both overdue invoices and long payment terms, where the LSBS only 
+asks whether businesses have a problem with being paid later than they normally require. This study also 
+considers large businesses, where the LSBS only considers SMEs. 
+
+[PDF page 11]
+ 
+ 
+9 
+ 
+Table 3: Average current value of late payments by size class 
+Size class (employees) Average value of 
+late payments (all 
+businesses, £) 
+Average value of 
+late payments 
+(businesses 
+affected by late 
+payment, £) 
+As a % of annual 
+turnover 
+(businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  2,480   9,214  4.61% 
+Small (10 - 49)  25,855   52,081  1.47% 
+Medium (50 - 249)  106,357   193,635  0.79% 
+Large (> 250)  447,987   703,479  0.23% 
+Average  4,796  17,085  0.95% 
+Source: London Economics analysis of YouGov/IFF Research survey and DBT Business 
+Population Estimates 2024. N=660 (Micro), N=396 (Small), N=258 (Medium), N=51 (Large). 
+ 
+Survey responses suggest that micro businesses affected by late payments on average have the 
+highest share of their turnover tied up in late payments (4.61%) among all business sizes, and that 
+this share declines with size. For the average representative business affected by late payments, 
+late payments at any point in time account for approximately 1% of turnover. Overall, the research 
+estimates that at any given time UK businesses provide approximately £26 billion3 of ‘finance’ to 
+their customers in the form of late payment. Survey respondents were also asked to indicate the 
+cost (in terms of staff resource or financial) to their business associated with some of these 
+actions.  
+ 
+This allows for the estimation
+4 of the aggregate cost to businesses as a result of late payment, 
+shown in Table 4.  
+ 
+ 
+3 This is calculated by combining the estimates from the table above with data on the composition of the 
+business population.  
+4 Using data on the composition of the business population 
+
+[PDF page 12]
+ 
+ 
+10 
+ 
+Table 4: Opportunity cost of late payments for businesses5  
+Cost Low estimate (£m) Central estimate (£m) High estimate (£m) 
+Staff time spent chasing 
+unpaid debtors 
+ 1,561   2,259   3,061  
+Debt collection  624   1,132   1,807  
+Legal cost   593   1,213   2,065  
+Servicing debt finance 
+taken out as a result of 
+late payment 
+ 630   1,165   1,770  
+Supply chain finance, 
+invoice discounting, 
+invoice factoring and 
+selling overdue invoices 
+ 620   1,213   1,898  
+Total  4,028   6,982   10,600  
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024 and LFS data on average wages. Note: The low, central and high estimates reflect 
+the 90% confidence intervals of the costs. 
+ 
+Each of these costs involves the use resources (either staff time or other services paid for by 
+businesses), which could be used elsewhere were it not for late payment issues, and have an 
+opportunity cost for businesses. In total, these costs add up to almost £7 billion a year, which is 
+approximately 0.13% of total business turnover. Some businesses also reported that they 
+proactively try and avoid late payment problems. Indeed, 15% of businesses surveyed indicated 
+that they avoided doing business with specific customers due to poor payment practices in the last 
+year.  
+ 
+The cost of late payments for the economy 
+Late payment issues, if sufficiently serious, can also lead businesses to reduce their investment or 
+even close. Econometric analysis was used to estimate the impact of late payments on survival 
+and investment. In the case of business survival, the analysis suggests that late payments do have 
+a substantial impact. Table 5 compares business closure rates between businesses with late 
+payment issues in the 2015-2017 period to similar6 businesses that did not develop late payment 
+issues. 
+ 
+ 
+5 Note that not all of the costs associated with the actions listed in Table 2 above are monetized. In 
+particular, costs associated with raising equity finance, injecting personal funds, reducing headcount or 
+raising prices have not been monetized.  
+6 Similar businesses were identified using a Propensity Score Matching approach. Details on the 
+econometric methodology can be found in Annex 1.  
+
+[PDF page 13]
+ 
+ 
+11 
+ 
+Table 5: Impact of late payments being a big problem on business closure rates 
+Late payment 
+problem 
+Share closed by 
+2017 
+Share closed by 
+2018 
+Share closed by 
+2019 
+Sample size 
+No 2% 2% 7% 157 
+Yes 9% 14% 20% 143 
+Impact of late 
+payments 
+(difference in 
+closure rates) 
+7% 11%** 14%* 300 
+Source: London Economics analysis. Note: **=p<0.05, *=p<0.1  
+ 
+Closure rates are higher among businesses with late payment issues than similar businesses 
+without these issues, and the difference in closure rates is statistically significant at (at least) the 
+10% level when considering businesses closing by the end of 2018 and 2019. The results of the 
+analysis suggest that about 14,000 additional businesses close every year (or 38 every day) as a 
+result of late payments being a ‘big problem’. For context, according to ONS data there were 
+approximately 330,000 business closures in 2023.
+7 It is also estimated that these 14,000 
+businesses account for approximately 40,000 jobs.  
+ 
+In contrast, the econometric analysis of the impact of late payments on investment did not yield 
+statistically significant results. However, this does not mean that there is not an impact. Indeed, 
+responses to the YouGov/IFF Research suggest that some businesses did forego investment in 
+2024 as a result of late payment. Table 6 provides estimates for the average amount of annual 
+investment foregone as a result of late payments.   
+ 
+Table 6: Average amount of annual investment foregone as a result of late payments 
+Size class 
+(employees) 
+Average amount of 
+investment foregone (all 
+businesses, £) 
+Average amount of 
+investment foregone 
+(businesses affected by 
+late payment, £) 
+As a % of annual 
+turnover 
+(businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  1,643   6,103  3.06% 
+Small (10 - 49)  9,517   19,170  0.54% 
+Medium (50 - 249)  69,310   126,187  0.51% 
+Large (> 250)  49,045   77,015  0.03% 
+Average  2,493   8,881  0.49% 
+Source: London Economics analysis of YouGov/IFF Research survey. N=656 (Micro), N=396 
+(Small), N=258 (Medium), N=44 (Large). 
+ 
+Based on the opportunity cost for businesses
+8 resulting from late payments, as well as estimates 
+for the wider impact of late payments on the economy through the channels of business survival 
+and investment, the research estimates9 the total cost to the economy of late payments. This is 
+ 
+ 
+7 ONS (2024). Business demography, quarterly, UK: April to June 2024. Available on the ONS website . 
+8 The cost of making payments on debt finance taken out as a result of late payments is excluding from the 
+calculation of the cost to the economy on the basis that that such payments are purely a transfer from one 
+business to another (a financial institution). 
+9 Full details of the quantification approach can be found in Annex 1. 
+
+[PDF page 14]
+ 
+ 
+12 
+ 
+presented in Table 7 – the low and high estimates reflect the 90% confidence intervals of each of 
+the costs. 
+ 
+Table 7: Annual cost of late payment for the economy  
+Cost Low estimate (£m) Central estimate (£m) High estimate (£m) 
+Increase in business 
+closures 
+ 437   3,214   5,979  
+Decrease in investment  903   1,714   2,833  
+Staff time spent chasing 
+unpaid debtors 
+ 1,561   2,259   3,061  
+Debt collection  624   1,132   1,807  
+Legal cost   593   1,213   2,065  
+Supply chain finance, 
+invoice discounting, 
+invoice factoring and 
+selling overdue invoices 
+ 620   1,213   1,898  
+Total  4,739   10,745   17,643  
+Source: London Economics analysis 
+ 
+The total cost to the economy is estimated to be almost £11 billion per year, which is approximately 
+0.4% of GDP. It is important to note that there may be other costs of late payment that are not 
+quantified here (for example, if businesses increase their prices as a result of late payments, 
+reducing their international competitiveness) and as such the £11 billion estimate could be 
+conservative. However, it is also important to note that some of the economic activity that would 
+occur without late payments (due to increased investment and decreased business closures) might 
+be displaced from other firms. As such it is also possible that some of the individual costs (in the 
+table above) that comprise the £11 billion estimate could be overestimates in places.  
+The results of the YouGov/IFF survey also suggest that the vast majority (approximately 84%) of 
+late payments (by volume) faced by UK businesses are from UK customers. Therefore, given the 
+magnitude of the cost for the economy of late payments, there would be substantial economic 
+benefits of improving payment culture in the UK. Indeed, the analysis suggests that a decrease in 
+poor payment practices of just 10% could have economic benefits worth almost £1 billion per year.  
+ 
+Conclusion 
+This report provides a comprehensive overview of the late payment problem in the UK, as well as 
+the costs arising as a result of the late payment problem. It highlights the scale of the problem, with 
+an estimated 1.5 million businesses (28% of the population) affected by late payments and an 
+estimated £26 billion of late payments owed to businesses at any time. It is estimated that the cost 
+to businesses as a result is approximately £7 billion a year.  
+ 
+The econometric analysis identifies that late payments also have a wider economic cost, with big 
+late payment problems having a statistically significant and negative impact on businesses survival 
+prospects. Indeed, it is estimated that over 14,000 businesses close every year (or 38 every day) 
+as a result of late payments. This impact on survival forms part of an estimated total cost of late 
+payments to the economy of almost £11 billion per year (approximately 0.4% of GDP).  
+ 
+This highlights the potential magnitude of economic benefits of improving payment culture in the 
+UK. Further action by Government could help realise these benefits. 
+
+[PDF page 15]
+ 
+ 
+13 
+ 
+Introduction 
+ 
+Policy context 
+Businesses in the UK often offer their customers ‘trade credit’, where payment by the customer is 
+permitted after the delivery of the goods or services. Businesses are impacted both when invoices 
+are paid beyond the agreed or contractual payment date and when long payment terms are 
+imposed. This can lead to cash flow problems for businesses.  
+ 
+This report considers the impact of both of these issues and defines late payment as any 
+combination of: 
+ 
+• Overdue invoices, where businesses are paid beyond the agreed or contractual payment 
+• Long payment terms, where businesses agree to payment more than 60 days after goods 
+or services have been delivered 
+ 
+The Department for Business and Trade (DBT) has introduced several measures to help address 
+the issue of late payments: 
+ 
+• The Late Payment of Commercial Debts (Interest) Act 1998 allows businesses to impose 
+interest and debt recovery costs on late payments and sets default payment terms at 30 
+days.
+10 11  
+• The Enterprise Act 2016 established the Office of the Small Business Commissioner 
+(OSBC), an independent public body sponsored by DBT, which helps small businesses 
+deal with late payment and unfair payment terms across the UK.12  
+• The Reporting on Payment Practices and Performance Regulations 2017 introduced 
+requirements for large businesses to regularly report on their payment performance, 
+helping improve transparency.
+13 14 
+• In late 2024, the Fair Payment Code was launched to drive further improvements in 
+payment culture among UK businesses.15 The new code, which replaces the earlier Prompt 
+Payment Code, allows businesses to apply for different tiers of awards that reflect their 
+payment practices and payment performance.  
+ 
+Objectives of this study 
+Late payment can impact businesses through a wide range of different ‘channels’. Businesses can 
+face increased costs if they need to use staff time to chase overdue invoices or commission a debt 
+ 
+ 
+10 The legislation can be viewed on the legislation.gov.uk website. 
+11 The original legislation has been updated many times, most recently by The Late Payment of Commercial 
+Debts (Amendment) Regulations 2018. 
+12 Further information on the OSBC can be found on its website. 
+13 The legislation can be viewed on the legislation.gov.uk website. 
+14 The legislation has been updated many times, most recently by The Reporting on Payment Practices and 
+Performance (Amendment) Regulations 2025. 
+15 Additional detail on the Fair Payment Code can be found on the OSBC website.  
+
+[PDF page 16]
+ 
+ 
+14 
+ 
+collection agency. They may also use invoice financing or take on debt finance in order to mitigate 
+cash flow problems, resulting in reduced profits for the business. In extreme cases, the cash flow 
+issues created by late payment may result in businesses foregoing investment or ceasing to trade.  
+ 
+These different channels represent costs to both businesses and the wider economy. Figure 2 
+outlines these channels diagrammatically. Businesses affected by late payments sometimes need 
+to take actions they would otherwise not have to take, which have an opportunity cost. Where 
+businesses are constrained by cash flow problems resulting from late payments, they may also 
+need to reduce or scale down productive activity, leading to lower levels of economic outputs. 
+Importantly, removing these costs by addressing the underlying problem of late payments could 
+result in a net benefit to the UK economy.  
+ 
+Existing research has highlighted that late payment can be harmful for businesses and the 
+economy. For example: 
+ 
+• A study conducted by Opinium on behalf of Intuit QuickBooks estimated that 56.4 million 
+hours of staff time are spent chasing late payments each year, which costs businesses 
+£6.3bn annually.
+16  
+• Another study for the Federation of Small Businesses found that the UK’s poor payment 
+culture results in the closure of 50,000 businesses every year, resulting in £2.5bn in lost 
+output.
+17 
+• Research from Xero estimates that late payments cost small businesses £1.6bn in 2023, in 
+terms of lost interest.
+18  
+ 
+The existing research base on late payments (some of which is discussed above) has some 
+limitations. Firstly, the research discussed above does not consider all the impact channels through 
+which late payments may affect businesses or the economy. Secondly, some findings are 
+significantly dated, using data from many years ago. Thirdly, it predominantly relies on survey data 
+rather than analysis of secondary data on actual business outcomes, which limits its 
+methodological robustness.  
+ 
+In order to help fill this evidence gap, London Economics were commissioned by the DBT and the 
+OSBC in November 2024 to undertake a study of the impact of late payments on UK businesses 
+and the UK economy. This study covers all of the main impact channels of late payments, and 
+combines analysis (including econometric analysis) of both primary and secondary data sources. 
+ 
+16 The results of the study are published on the Intuit Quickbooks website. 
+17 The results of the study are published on the FSB website. 
+18 The results of the study are summarised in a press release on the Xero website. 
+
+[PDF page 17]
+ 
+ 
+ 
+15 
+ 
+Figure 2: How late payments creates costs for businesses and the wider economy 
+ 
+
+
+[PDF page 18]
+ 
+ 
+ 
+16 
+ 
+Summary of the approach 
+The approach used for this study consists of three main strands: 
+ 
+1. Design, delivery and analysis of a quantitative survey of 1,455 businesses. The survey was 
+conducted by YouGov and IFF Research and took place between 15/01/25 and 07/02/25. 
+Responses to the survey provide evidence on the current late payments landscape, the 
+impact of late payments on businesses and the mitigating actions used by businesses to 
+limit the impact of late payments.  
+2. Econometric analysis of secondary data to assess the impact of late payments on business 
+survival and investment. The analysis is based on data from the Inter-Departmental 
+Business Register (IDBR), the Longitudinal Small Business Survey (LSBS) and Bureau van 
+Dijk FAME (Financial Analysis Made Easy) database.  
+3. A quantification exercise, drawing together the results of the first two strands, estimating 
+the impact of late payments on businesses as well as the wider economy.  
+ 
+Structure of this report 
+The remainder of this report is structured as follows: 
+ 
+• Chapter 1 discusses the impact of late payments on businesses.  
+• Chapter 2 explores the cost of late payments for the economy.  
+• Chapter 3 provides some concluding remarks on the key findings of this research. 
+• Annex 1 provides detail on the methodology and data used to estimate the impact of late 
+payments on businesses and the economy.  
+• Annex 2 details the primary data collection undertaken as part of this research.  
+• Annex 3 provides a summary of a literature review which was previously commissioned by 
+DBT and informed this research.  
+
+[PDF page 19]
+ 
+ 
+17 
+ 
+1. Impact of late payment on businesses 
+ 
+This chapter sets out the impact of late payments on businesses. Firstly, it sets out the current 
+landscape of late payments in the UK. Then, it estimates the costs for businesses of late 
+payments. Finally, it discusses the actions taken by businesses to mitigate the impact of late 
+payments.  
+ 
+The current landscape of late payments 
+A substantial proportion of UK businesses report having an issue with late payments in the LSBS. 
+Table 8 summarises the extent to which late payments are a problem for SMEs of different sizes.  
+ 
+Table 8: The extent to which late payments were a problem for SMEs in 2023 
+Size class (employees) Late payment problem in 2023 Share of SMEs 
+Micro (0 - 9) Big problem 7.8% 
+Micro (0 - 9) Small problem 20.3% 
+Micro (0 - 9) No problem 19.5% 
+Micro (0 - 9) Don't offer trade credit 52.4% 
+Small (10 - 49) Big problem 5.8% 
+Small (10 - 49) Small problem 29.5% 
+Small (10 - 49) No problem 20.7% 
+Small (10 - 49) Don't offer trade credit 44.0% 
+Medium (50 - 249) Big problem 6.7% 
+Medium (50 - 249) Small problem 36.5% 
+Medium (50 - 249) No problem 15.8% 
+Medium (50 - 249) Don't offer trade credit 40.9% 
+Source: Longitudinal Small Business Survey19. Note: N=1,480 (Micro), N=926 (Small), N=342 
+(Medium). 
+ 
+While more than half of micro businesses/sole traders and over 40% of larger SMEs do not offer 
+trade credit and therefore implicitly do not face any issues related to late payment, most SMEs of 
+all size classes that do offer trade credit do experience some level of problem with late payment.  
+ 
+Late payment appears to be particularly likely to be a big issue for micro businesses, with almost a 
+sixth of the 47.6% of micro businesses that offer trade credit indicating that late payment is a big 
+problem for their business. Responses to that same question split by sector suggest that broadly 
+speaking late payment is a problem across the economy.  
+ 
+ 
+19 The question asked in the LSBS is “Do you have a problem with customers paying you later than you 
+require them to in your normal terms of business?”. Note that the LSBS distinguishes between SMEs with 
+and without employees – this analysis does not follow this split to be consistent with the YouGov/IFF 
+Research survey.  
+
+[PDF page 20]
+ 
+ 
+18 
+ 
+Table 9: The extent to which late payments were a problem in 2023 by sector 
+Sector Payment problem in 2023 Share of SMEs 
+Primary/Manufacturing Big problem 5.3% 
+Primary/Manufacturing Small problem 37.4% 
+Primary/Manufacturing No problem 31.2% 
+Primary/Manufacturing Don't offer trade credit 26.2% 
+Construction Big problem 10.1% 
+Construction Small problem 31.9% 
+Construction No problem 18.5% 
+Construction Don't offer trade credit 39.5% 
+Distribution Big problem 5.6% 
+Distribution Small problem 24.0% 
+Distribution No problem 19.1% 
+Distribution Don't offer trade credit 51.3% 
+Business Services Big problem 9.1% 
+Business Services Small problem 24.9% 
+Business Services No problem 19.6% 
+Business Services Don't offer trade credit 46.4% 
+Other Services Big problem 5.0% 
+Other Services Small problem 14.9% 
+Other Services No problem 10.6% 
+Other Services Don't offer trade credit 69.6% 
+Source: Longitudinal Small Business Survey. Note: N=340 (Primary/Manufacturing), N=276 
+(Construction), N=824 (Distribution), N=908 (Business Services), N=404 (Other Services). 
+ 
+That businesses report late payment as a problem is perhaps unsurprising given the frequency of 
+late payments in the UK.20 The YouGov/IFF Research survey commissioned as part of this 
+research asked businesses about whether they experience late payments and found a substantial 
+proportion reporting overdue payments or long payment terms. In the remainder of this chapter, 
+when this report refers to the impacts of late payments on businesses, it refers to the self-reported 
+impacts in the YouGov/IFF Research survey.  
+ 
+ 
+20 Note that there is also published data on the extent to which late payment/cash flow is a problem for 
+businesses in the SME Finance Monitor. The latest release, available on the BVA BDRC website, highlights 
+that 19% of SMEs face these issues. The LSBS is used as the main secondary data source for this research 
+given that it includes questions on late payment.   
+
+[PDF page 21]
+ 
+ 
+19 
+ 
+Table 10: Late payment issues faced by businesses at the time of the survey 
+Late payment issues 
+currently faced 
+Micro (0 - 9) Small (10 - 49) Medium (50 - 
+249) 
+Large (> 250) 
+Both overdue invoices and 
+payment terms longer 
+than 60 days  
+12% 21% 35% 59% 
+Overdue invoices only 6% 12% 11% 4% 
+Payment terms longer 
+than 60 days only 
+1% 5% 3% 3% 
+No issues 80% 58% 49% 33% 
+Don't know 1% 3% 1% 0% 
+Source: London Economics analysis of YouGov/IFF Research survey. Note: N=680 (Micro), N=437 
+(Small), N=281 (Medium), N=57 (Large). 
+ 
+At the time of the survey, whilst approximately 20% of micro businesses reported having late 
+payments from their customers, the proportions of small, medium and large businesses 
+experiencing such issues were much higher at 42%, 51% and 67% respectively. This is likely 
+because micro businesses are less likely to offer trade credit to their business customers (see 
+Table 8 above), so are less likely to experience late payment problems. 
+ 
+An important difference is that this survey question asks businesses about their late payment 
+issues at the time of the survey whereas the LSBS asked businesses whether they had a problem 
+with late payments in general. The LSBS also considers SMEs only, and not large businesses. 
+ 
+Among businesses experiencing late payment issues, most experienced both overdue sales 
+invoices and payment terms of longer than 60 days. A minority experienced overdue sales invoices 
+and no payment terms of longer than 60 days, while relatively few businesses experienced 
+payment terms of longer than 60 days but did not have overdue sales invoices. The charts below 
+frame these late payment issues in terms of the proportion of invoices that businesses reported 
+were late at the time of the YouGov/IFF Research survey, by volume and value.  
+
+[PDF page 22]
+ 
+ 
+20 
+ 
+Figure 3: Share of outstanding invoices that are late by value 
+ 
+Source: London Economics analysis of YouGov/IFF Research survey. N=234 (Micro), N=239 
+(Small), N=185 (Medium), N=41 (Large). 
+ 
+Figure 4: Share of outstanding invoices that are late by volume 
+ 
+Source: London Economics analysis of YouGov/IFF Research survey. N=234 (Micro), N=240 
+(Small), N=186 (Medium), N=45 (Large). 
+ 
+Medium sized businesses offering trade credit report that approximately 17% of their outstanding 
+invoices (by both volume and value) are late. The corresponding proportions for other sizes of 
+10.9%
+12.0%
+16.5%
+12.2%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+Micro (0 - 9) Small (10 - 49) Medium (50 - 249) Large (> 250)
+Average current share of invoices that are late 
+by value
+Size (number of employees)
+11.1%
+12.3%
+16.6%
+11.4%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+Micro (0 - 9) Small (10 - 49) Medium (50 - 249) Large (> 250)
+Average current share of invoices that are late 
+by volume
+Size (number of employees)
+
+[PDF page 23]
+ 
+ 
+21 
+ 
+business are lower, at around 11-12%. The fact that the results by volume and value are similar 
+suggests that the likelihood of an invoice being paid late is not particularly linked to the value of 
+that invoice.  
+ 
+The list below provides an overview of the kinds of impacts and costs that late payments can have 
+for businesses. The frequency with which these actions are taken by businesses as a result of late 
+payments is then discussed later in this section.  
+ 
+1. Costs associated with recovering late payments 
+a) Spent staff time chasing late payments: When businesses use staff time to chase 
+customers that are paying late there are associated wage and non-wage labour costs. 
+This cost is quantified as part of this research.  
+b) Started legal proceedings against one of their customers: When businesses hire a law 
+firm to chase their customers that are paying late, they need to pay legal fees to the law 
+firm. This cost is quantified as part of this research.  
+c) Commissioning a debt collection agency to chase debtors: Debt collection agencies aim 
+to recover debts from customers paying late through directly chasing or pursuing legal 
+action where necessary. They typically charge a percentage of the debt collected as a 
+fee, and as such when business hires a debt collection agency they will never receive 
+the full amount they are owed. This cost is quantified as part of this research.  
+2. Managing cash flow in response to late payments 
+a) Taken out debt finance: When a business takes out debt finance they will need to make 
+interest repayments to the lender. This cost is quantified as part of this research.  
+b) Raised equity finance: When a business raises equity the value of existing 
+shareholdings are diluted. This is a cost for the owners of the business, however as it is 
+not directly a cost for the business it is not quantified as part of this research.  
+c) Injected personal funds into the business: When a business owner injects personal 
+funds there is the possibility of personal loss for the owner if the business fails. This is a 
+cost for the owner. However, as it is not directly a cost for the business it is not 
+quantified as part of this research.  
+d) Using supply chain finance, invoice factoring, invoice discounting or selling overdue 
+invoices: These services involve a business receiving early payment of an invoice by a 
+finance company. However, the business does not receive the full value of the payment 
+as the finance provider takes a fee, which is a cost for the business. This cost is 
+quantified as part of this research.  
+3. Other actions 
+a) Reduced headcount: When a business reduces its number of employees, it might well 
+not be able to produce the same level of output and therefore have a lower turnover. 
+This cost is not quantified as part of this research.  
+b) Raised prices of goods and services: When a business raises prices it may become 
+less competitive in the market. It may therefore have lower turnover. This cost is not 
+quantified as part of this research.  
+ 
+
+[PDF page 24]
+ 
+ 
+22 
+ 
+For the purposes of this research, businesses are considered to be ‘affected by late payments’ if 
+they have undertaken any of the actions listed in the table above over the last year. Table 11 
+presents an estimate for the number and share of businesses affected by late payments in each 
+size class.   
+ 
+Table 11: Number and share of businesses affected by late payments 
+Size class (employees) Share of businesses affected by 
+late payment 
+Number of businesses 
+affected by late payment 
+Micro (0 - 9) 26.9%  1,408,593  
+Small (10 - 49) 49.6%  109,169  
+Medium (50 - 249) 54.9%  20,735  
+Large (> 250) 63.7%  5,254  
+Total 28.1%  1,543,751  
+Source: London Economics analysis of YouGov/IFF Research Survey and DBT Business 
+Population Estimates 2024. N=667 (Micro), N=408 (Small), N=266 (Medium), N=50 (Large). 
+ 
+Table 12 shows the actions taken by businesses as a result of late payments. More than one fifth 
+of businesses (22%) spent staff resources chasing unpaid debtors. Additionally, 8% of businesses 
+commenced legal action against their customers and 7% commissioned a debt collection agency. 
+Furthermore, more than one in ten (11%) of businesses report that they had to raise prices and 6% 
+reduced headcount as a result of late payments.  
+
+[PDF page 25]
+ 
+ 
+23 
+ 
+Table 12: Actions taken in 202421 as a result of late payments 
+Type of action Action Proportion of businesses 
+reporting that they undertook 
+the action 
+Recovering late payments Spent staff time chasing 
+unpaid debtors 
+22% 
+Recovering late payments Commissioned a debt 
+collection agency to chase 
+debtors 
+7% 
+Recovering late payments Started legal proceedings 
+against one of your customers 
+8% 
+Managing cash flow Take out debt finance 6% 
+Managing cash flow Raise equity finance 5% 
+Managing cash flow Inject personal funds into the 
+business 
+14% 
+Managing cash flow Used supply chain finance, 
+invoice factoring, invoice 
+discounting or sold overdue 
+invoices to a debt recovery 
+organization 
+7% 
+Other actions Reduce headcount 6% 
+Other actions Raised prices of goods and 
+services 
+11% 
+Source: London Economics analysis of YouGov/IFF Research survey. N = 1455. 
+ 
+The data also suggests that businesses must often find other sources of finance to mitigate the 
+cashflow issues created by late payment. In particular, 14% of businesses report that they used 
+personal funds from directors, 7% used supply chain finance or made use of other similar financial 
+products, 6% raised debt finance and 5% raised equity finance.  
+ 
+Table 13: Average current value of late payments by size class 
+Size class (employees) Average value of 
+late payments (all 
+businesses, £) 
+Average value of 
+late payments 
+(businesses 
+affected by late 
+payment, £) 
+As a % of annual 
+turnover 
+(businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  2,480   9,214  4.61% 
+Small (10 - 49)  25,855   52,081  1.47% 
+Medium (50 - 249)  106,357   193,635  0.79% 
+Large (> 250)  447,987   703,479  0.23% 
+Average  4,796  17,085  0.95% 
+Source: London Economics analysis of YouGov/IFF Research survey and DBT Business 
+Population Estimates 2024. N=660 (Micro), N=396 (Small), N=258 (Medium), N=51 (Large). 
+ 
+ 
+ 
+21 The survey questionnaire (which can be found in Annex 2) ask respondents about the last year, which 
+does not perfectly align with the calendar year 2024 as the survey was conducted in late January and early 
+February 2025.  
+
+[PDF page 26]
+ 
+ 
+24 
+ 
+The average value of invoices that are currently late is increasing in size. However, when 
+accounting for the fact that micro businesses have much smaller turnover they appear to have the 
+most significant issue with late payments. This is likely to be in part because they will typically have 
+less market power than their customers.  
+ 
+Based on these estimates and the number of businesses operating in the economy, at any given 
+time businesses are providing approximately £26 billion22 of interest free finance to their customers 
+in the form of late payments. It should be noted that the provision of this interest free finance  
+creates both winners (i.e. customers or debtors) and losers (i.e. suppliers or creditors), and as 
+such is not a net cost for businesses.  
+ 
+The next section discusses the actions that businesses take in response to late payments that do 
+have a net cost for businesses.  
+ 
+Costs for businesses as a result of late payments 
+The previous section provides evidence on the extent to which businesses experience late 
+payment from their customers. This section presents the average costs for businesses as a result 
+of late payment. The average cost is presented for all businesses, as well as for businesses which 
+are affected by late payments (as defined above).  
+ 
+Table 14 provides the average number of hours spent by businesses of each size class per year.  
+ 
+Table 14: Average annual number of staff hours spent chasing unpaid debtors 
+Size class (employees) Average number of hours (all 
+businesses) 
+Average number of hours 
+(businesses affected by late 
+payments) 
+Micro (0 - 9)  20  75  
+Small (10 - 49)  69  138  
+Medium (50 - 249)  178   324  
+Large (> 250)  690   1,084  
+Average  24  86  
+Source: London Economics analysis of YouGov/IFF Research Survey. N=667 (Micro), N=408 
+(Small), N=266 (Medium), N=50 (Large). 
+ 
+Across all businesses in the economy, this represents 133 million hours of staff time spent by UK 
+businesses chasing unpaid debtors. This is a significant drain on the productivity of UK 
+businesses. Based on the number of hours spent chasing unpaid debtors, the research estimates 
+the associated labour costs using ASHE data on wages.
+23 Table 15 presents the average cost per 
+business for each size class.  
+ 
+ 
+22 The 90% confidence interval for this estimate is £18 billion to £36 billion. This is calculated by calculating 
+the average value of late payments (by size class) by the number of businesses in each size class.  
+23 The average labour cost estimate is £16.92 per hour. Details on how this is derived can be found in Annex 
+1.   
+
+[PDF page 27]
+ 
+ 
+25 
+ 
+Table 15: Average annual cost of staff time spent chasing unpaid debtors  
+Size class (employees) Average annual cost 
+(all businesses, £) 
+Average annual cost 
+(businesses affected 
+by late payments, £) 
+As a % of annual 
+turnover (businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  343   1,273  0.64% 
+Small (10 - 49)  1,160   2,337  0.07% 
+Medium (50 - 249)  3,012   5,484  0.02% 
+Large (> 250)  11,680   18,341  0.01% 
+Average  411   1,463  0.08% 
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024 and LFS data on average wages. N=667 (Micro), N=408 (Small), N=266 
+(Medium), N=50 (Large). 
+ 
+Whilst larger businesses typically spend more time chasing their unpaid debtors, the data suggests 
+that the cost relative to turnover is largest for micro businesses (0.64%). In contrast, the value of 
+staff time spent chasing unpaid debtors for large businesses is negligible relative to their turnover. 
+The fact that micro businesses feel the need to spend more time chasing unpaid debtors is 
+perhaps unsurprising given that, as shown in Table 13, at any one time they typically have a larger 
+proportion of their annual turnover tied up in unpaid invoices.  
+ 
+Some businesses also resort to paying debt collection agencies in order to manage their late 
+payment issues. Table 16 presents the average cost incurred by businesses for using these 
+services.   
+ 
+Table 16: Average annual cost of using debt collection agencies 
+Size class (employees) Average annual cost 
+(all businesses, £) 
+Average annual cost 
+(businesses affected 
+by late payments, £) 
+As a % of annual 
+turnover (businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  132   492  0.25% 
+Small (10 - 49)  697   1,404  0.04% 
+Medium (50 - 249)  5,445   9,913  0.04% 
+Large (> 250)  9,685   15,208  0.00% 
+Average  206   733  0.04% 
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024. N=667 (Micro), N=403 (Small), N=266 (Medium), N=47 (Large). 
+ 
+Again, the costs as a proportion of turnover are highest for micro businesses and decline with size. 
+In extreme cases, businesses may also take legal action against their debtors because of late 
+payment. The average annual cost of such legal action is provided in Table 17.  
+
+[PDF page 28]
+ 
+ 
+26 
+ 
+Table 17: Average annual cost of taking legal action against unpaid debtors 
+Size class (employees) Average annual cost 
+(all businesses, £) 
+Average annual cost 
+(businesses affected 
+by late payments, £) 
+As a % of annual 
+turnover (businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  136   507  0.25% 
+Small (10 - 49)  828   1,669  0.05% 
+Medium (50 - 249)  7,320   13,327  0.05% 
+Large (> 250)  5,007   7,863  0.00% 
+Average  221   786  0.04% 
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024. N=664 (Micro), N=399 (Small), N=262 (Medium), N=43 (Large). 
+ 
+Businesses in the survey that indicated that they had taken on debt finance as a result of late 
+payments were asked what the annual cost of servicing that debt was. Table 18 provides estimates 
+of these average annual debt servicing costs for businesses. 
+ 
+Table 18: Average annual cost of servicing debt taken on due to late payments 
+Size class (employees) Average annual cost 
+(all businesses, £) 
+Average annual cost 
+(businesses affected 
+by late payments, £) 
+As a % of annual 
+turnover (businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  172   639  0.32% 
+Small (10 - 49)  1,620   3,262  0.09% 
+Medium (50 - 249)  13,459   24,503  0.10% 
+Large (> 250)  654   1,026  0.00% 
+Average  212   755  0.04% 
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024. N=660 (Micro), N=404 (Small), N=259 (Medium), N=44 (Large). 
+ 
+As above, the cost as a percentage of turnover declines with the size of the business. Additionally, 
+in the case of debt servicing costs the data suggests that the impact on large businesses is 
+negligible, with a lower absolute cost than for medium and small businesses. This might be 
+because late payment issues for large businesses are rarely significant enough for them to require 
+additional debt finance. Businesses also make use of other financial options available to them, 
+including supply chain finance, invoice discounting and factoring and selling overdue invoices. 
+Table 19 presents estimates of the average annual cost of using these services for businesses.  
+
+[PDF page 29]
+ 
+ 
+27 
+ 
+Table 19: Average annual cost of using supply chain finance, invoice discounting, invoice 
+factoring and selling overdue invoices 
+Size class (employees) Average annual cost 
+(all businesses, £) 
+Average annual cost 
+(businesses affected 
+by late payments, £) 
+As a % of annual 
+turnover (businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  86   321  0.16% 
+Small (10 - 49)  1,332   2,683  0.08% 
+Medium (50 - 249)  8,733   15,899  0.06% 
+Large (> 250)  16,766   26,329  0.01% 
+Average  221   786  0.04% 
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024. N=654 (Micro), N=399 (Small), N=263 (Medium), N=46 (Large). 
+ 
+The costs are of a similar magnitude to the costs of servicing additional debt taken out due to late 
+payment for small and medium sized businesses. However, the costs are greater for large 
+businesses. The fact that large businesses are more likely to use these kinds of financial products 
+to ease cash flow rather than taking out a standard bank loan is perhaps reflective of the greater 
+availability of these products for more established businesses with a larger customer base.  
+ 
+This section has provided estimates of the average costs for businesses which result from late 
+payments. It is important to note that the resources used by businesses (either staff time or other 
+services paid for by businesses) could have alternative, productive, uses in a counterfactual world 
+without late payments. In other words, business responses to late payments have an opportunity 
+cost that could otherwise be avoided.
+24 
+ 
+This research has calculated the opportunity cost of business responses to late payment using 
+market prices (the cost of staff time or the cost of purchasing services from other businesses), 
+which provide a suitable proxy, where the value of the best alternative use of resources cannot be 
+directly calculated. Importantly, resolving late payment problems and eliminating these opportunity 
+costs can create a net benefit. 
+ 
+Table 20 presents a range of estimates
+25 for the total opportunity cost for businesses which result 
+from late payments. These costs are calculated by multiplying the average costs per business (at 
+the size class level) from the tables above by the number of businesses in each size class. 
+ 
+ 
+24 The HMT Green Book provides a full discussion of opportunity costs, which can be found on the gov.uk 
+website. 
+25 The range reflects the 90% confidence interval of the various costs at the size class level.  
+
+[PDF page 30]
+ 
+ 
+28 
+ 
+Table 20: Opportunity cost of late payments for businesses  
+Cost Low estimate (£m) Central estimate (£m) High estimate (£m) 
+Staff time spent chasing 
+unpaid debtors 
+ 1,561   2,259   3,061  
+Debt collection  624   1,132   1,807  
+Legal cost   593   1,213   2,065  
+Servicing debt finance 
+taken out as a result of 
+late payment 
+ 630   1,165   1,770  
+Supply chain finance, 
+invoice discounting, 
+invoice factoring and 
+selling overdue invoices 
+ 620   1,213   1,898  
+Total  4,028   6,982   10,600  
+Source: London Economics analysis of YouGov/IFF Research Survey, DBT Business Population 
+Estimates 2024 and LFS data on average wages 
+ 
+The estimate of £1.165 billion for additional debt finance suggests that a relatively modest but not 
+trivial share of business finance is taken out as a result of late payments. Indeed, given that the 
+stock of SME lending is approximately £175 billion, and typical interest rates are approximately 
+7.5%, annual SME debt repayments are likely in excess of £13 billion.
+26 Therefore, approximately 
+9% of the debt finance taken out by SMEs is directly a result of late payment, where it could 
+otherwise be used to fund growth and expansion.  
+ 
+Industry statistics are not readily available regarding the market size of supply chain finance, 
+invoice discounting, invoice factoring or selling overdue invoices. However, data from IBISWorld 
+suggests that the size of the factoring market in the UK was roughly £4 billion in 2024.27 It is 
+possible that demand for supply chain finance and other such products is driven more by late 
+payments than debt finance as businesses may prefer to use traditional bank loans in order to fund 
+investment rather than supply chain finance. There is also minimal data on the size of the debt 
+collection market. However, a recent publication suggests the market was worth approximately £2 
+billion in 2024.28 The estimate for the legal costs incurred by businesses unsurprisingly represents 
+a small share of the UK legal services market, valued at £52 billion in 2024.29  
+ 
+In total, it is estimated that late payments cost businesses £7 billion a year. For context, this 
+amounts to approximately 0.13% of total business turnover in the economy.  
+ 
+Actions taken to mitigate the impact of late payments 
+The YouGov/IFF Research survey also asked questions about potential mitigating actions that 
+businesses can take to mitigate the costs of late payments. Businesses were asked whether or not 
+they use any invoice software (e.g. Xero or Sage) to manage their payments. 
+ 
+ 
+26 Typical interest rates were approximately 7.5% and the stock of SME lending was approximately £175 
+billion at the end of 2023 as per the British Business Bank Small Business Finance Markets 2023/24 Report, 
+which is available on the Bank’s website.  
+27 A summary of the report can be found on the IBISWorld website. 
+28 The publication can be found on the IBISWorld website. 
+29 UK Legal Services Market Report 2025.  
+
+[PDF page 31]
+ 
+ 
+29 
+ 
+Table 21: Use of invoice software by businesses offering trade credit to their business 
+customers 
+Use invoice 
+software 
+Micro (0 - 9) Small (10 - 49) Medium (50 - 
+249) 
+Large (> 250) 
+Yes 20% 46% 54% 67% 
+No 80% 50% 44% 28% 
+Don’t know 0% 4% 2% 4% 
+Source: London Economics analysis of YouGov/IFF Research survey. Note: N=680 (Micro), N=437 
+(Small), N=281 (Medium), N=57 (Large). 
+ 
+Only a fifth of micro businesses use invoice software, however larger businesses are more likely to 
+use such products. This is driven in part by the fact that larger businesses are more likely to offer 
+trade credit to their customers.  
+ 
+Businesses were also asked about other changes they made to mitigate the impact of late 
+payments. Their responses are illustrated in Figure 5.  
+ 
+Figure 5: Mitigating actions against the costs of late payments taken by businesses 
+ 
+Source: London Economics analysis of YouGov/IFF Research survey. Note: N=1455. 
+ 
+15% of respondents suggested that they have avoided doing business with specific customers (this 
+was the most common survey response). 4% reported avoiding specific market segments where 
+customers frequently pay late. This suggests that businesses at times view the potential costs 
+(discussed above) resulting from late payments as outweighing the value of sales from certain 
+customers. It is important to note that helping businesses to avoid engaging with businesses that 
+5.9%
+3.5%
+15.4%
+4.1% 4.9%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+Introduced or
+increased an
+overdue penalty
+on your sales
+invoices
+Decided not to
+operate in a
+particular market
+segment
+Avoided doing
+businesses with
+specific
+customers
+Chased invoices
+before the
+stipulated
+payment date
+Requested a PO
+prior to delivery
+of the
+goods/services
+Proportion of respondents
+Change made to mitigate the impact of late payments
+
+[PDF page 32]
+ 
+ 
+30 
+ 
+are poor payers is an objective of recent government interventions aimed at improving 
+transparency.30 
+ 
+In contrast, relatively few businesses offering trade credit to their customers report that they have 
+introduced or increased an overdue penalty on their sales invoices (6%), requested a purchase 
+order prior to delivery of goods/services (5%) or chased invoices before the stipulated payment 
+date (4%). It is possible that if businesses were more active in implementing these practices the 
+frequency with which they face late payment issues would be reduced, although clearly this would 
+come at the cost of additional staff resource dedicated to managing payments from customers.  
+ 
+ 
+30 Including The Reporting on Payment Practices and Performance Regulations 2017 and the Fair Payment 
+Code. 
+
+[PDF page 33]
+ 
+ 
+31 
+ 
+2. The cost of late payments for the economy 
+ 
+This chapter sets out the cost to the economy of late payments. First it discusses the impact of late 
+payment on business survival and investment. Then, it estimates the overall economic impact of 
+late payments. Finally, it discusses the potential economic benefits from improving payment culture 
+in the UK. 
+ 
+The impact of late payment on business survival 
+Econometric analysis was used to assess whether late payments have an impact on business 
+survival. Businesses which had late payment issues were identified based on the question in the 
+LSBS on the degree to which the business has an issue with late payment discussed in Table 8. 
+This information was used to construct treatment and control groups: 
+ 
+• Treatment group. Businesses that did not report that late payments were a big problem for 
+them at the start of the 2015 to 2017 period but did indicate that late payments were a big 
+problem in either (or both) 2016 or 2017. 
+• Control group. Businesses that did not report that late payments were a big problem for 
+them in the 2015 to 2017
+31 period. 
+ 
+Business closure rates over several years (as indicated by the IDBR) were then compared 
+between the treatment and control groups to estimate the impact of late payment on business 
+closure rates.  
+ 
+It should be noted that, as the analysis is based on the LSBS which only includes SMEs, large 
+businesses are not included in the analysis. Further steps, including Propensity Score Matching 
+(PSM) were also undertaken to increase the similarity of the treatment and control groups. Full 
+details on the methodological approach can be found in Annex 1.  
+ 
+The econometric analysis suggests that late payment issues do have a statistically significant 
+impact on business closure rates. Table 22 compares the closure rates of the treatment group (i.e. 
+those with late payment issues) to the control group. This comparison is made at the end of 2017, 
+the end of 2018 and the end of 2019 to allow for the possibility of immediate and longer-term 
+impacts of late payment issues.  
+ 
+ 
+31 The reason why the 2015 to 2017 period was chosen for analysis is that this allowed the largest possible 
+sample size for the analysis, and allowed for several years of business closures prior to the Covid- 19 
+pandemic which had a substantial impact on business closure rates.  
+
+[PDF page 34]
+ 
+ 
+32 
+ 
+Table 22: Impact of late payments being a big problem on business closure rates 
+Late payment 
+problem 
+Share closed by 
+2017 
+Share closed by 
+2018 
+Share closed by 
+2019 
+Sample size 
+No 2% 2% 7% 157 
+Yes 9% 14% 20% 143 
+Impact of late 
+payments 
+(difference in 
+closure rates) 
+7% 11%** 14%* 300 
+Source: London Economics analysis. Note: **=p<0.05, *=p<0.1  
+ 
+The results suggest that businesses with a big late payment problem are significantly more likely to 
+close than similar businesses who offer trade credit but do not have big late payment problems. 
+Indeed, the results suggest that over a several year time horizon late payments that are a ‘big 
+problem’ may increase the likelihood of a business closing by more than 10%. Combining these 
+estimates with data on the prevalence of big late payment issues can be used to estimate the 
+number of additional businesses (SMEs in this case) that close every year as a result of big late 
+payment problems.  
+ 
+The analysis suggests that 14,468
+32 additional businesses close every year (or 38 each day) as a 
+result of late payments. For context, according to ONS data there were approximately 330,000 
+business closures in 2023.
+33 This highlights the severity of cash flow issues caused by late 
+payments. It is also estimated that the 14,468 businesses that close each year due to late 
+payments account for approximately 40,000 jobs.   
+ 
+The analysis regarding the impact of late payments on business closure rates was also calculated 
+at the size class level.  
+ 
+ 
+32 The 90% confidence interval for this estimate is 1,968-26,914 businesses.  
+33 ONS (2024). Business demography, quarterly, UK: April to June 2024. Available on the ONS website . 
+
+[PDF page 35]
+ 
+ 
+33 
+ 
+Table 23: Impact of late payments being a big problem on business closure rates, by size 
+class 
+Size class 
+(employees) 
+Late payment 
+problem 
+Share closed 
+by 2017 
+Share closed 
+by 2018 
+Share closed 
+by 2019 
+Sample size 
+Micro (0 - 9) No 2% 2% 7% 41 
+Micro (0 - 9) Yes 9% 14% 21% 43 
+Micro (0 - 9) Impact of late 
+payments 
+(difference in 
+closure rates) 
+7% 12% 14% 84 
+Small (10 - 
+49) 
+No 4% 4% 4% 70 
+Small (10 - 
+49) 
+Yes 2% 5% 6% 64 
+Small (10 - 
+49) 
+Impact of late 
+payments 
+(difference in 
+closure rates) 
+-2% 1% 2% 134 
+Medium (50 
+- 249) 
+No 4% 6% 9% 46 
+Medium (50 
+- 249) 
+Yes 6% 11% 17% 36 
+Medium (50 
+- 249) 
+Impact of late 
+payments 
+(difference in 
+closure rates) 
+2% 5% 7% 82 
+Source: London Economics analysis 
+ 
+The estimated impact of late payments being a big problem on business survival is largest for 
+micro businesses. This is perhaps unsurprising given that micro businesses typically have the 
+largest share of late payments from their customers (by value and volume). However, none of the 
+estimates above are statistically significant and so the extent to which one can draw inferences on 
+the impact of late payments on survival by size class is somewhat limited. The lack of statistical 
+significance despite the large point estimates (particularly for micro businesses) is driven by the 
+relatively small sample size in each size class.  
+ 
+The limited sample size for the analysis means that it is also not possible to estimate how the 
+impact of late payments varies by UK nation and region. It is therefore not possible to provide 
+robust estimates for how the approximately 14,000 businesses that close every year due to late 
+payment are distributed across the UK. Table 24 provides an indication of how these closures 
+would be distributed, under the assumption that the impact of having a big late payment problem 
+on survival is uniform across nations and regions. This highlights the fact that all nations and 
+regions of the UK are likely impacted by late payments.  
+
+[PDF page 36]
+ 
+ 
+34 
+ 
+Table 24: Estimated number of additional business closures, by UK nation and region 
+Nations and regions Estimated number of additional business closures per year  
+East Midlands 797 
+East of England 1,419 
+London 2,872 
+North East 685 
+North West 1,364 
+South East 2,644 
+South West 1,051 
+West Midlands 974 
+Yorkshire and The Humber 1,005 
+Northern Ireland 319 
+Scotland 498 
+Wales 373 
+Source: London Economics analysis of LSBS and DBT Business Population Estimates.  
+ 
+Businesses that responded to the YouGov/IFF Research survey were also asked about the extent 
+to which late payment issues threatened the survival prospects of their business. Table 25 below 
+provides the self-reported impacts of late payments on the survival prospects of businesses.  
+ 
+Table 25: Risk of late payments to business survival prospects 
+Risk of late 
+payments to 
+survival 
+prospects  
+Micro (0 - 9) Small (10 - 49) Medium (50 - 
+249) 
+Large (> 250) 
+No risk at all 77% 55% 51% 40% 
+A small risk 10% 20% 21% 34% 
+A moderate risk 7% 19% 16% 14% 
+A major risk 5% 5% 12% 4% 
+Don't know 1% 1% 0% 7% 
+Source: London Economics analysis of YouGov/IFF Research survey. Note: N=680 (Micro), N=437 
+(Small), N=281 (Medium), N=57 (Large). 
+ 
+Micro businesses are the least likely to suggest that late payments present a moderate or major 
+risk to their survival prospects (12%). As discussed previously, this is primarily a function of the fact 
+that micro businesses are less likely to offer trade credit than larger businesses, rather than that 
+the late payment issues they experience are less severe. This descriptive analysis provides further 
+support to the view that late payments can, in extreme cases, lead to business closures.  
+ 
+The impact of late payment on investment 
+Econometric analysis was also used to estimate the impact of late payment on investment. The 
+treatment and control groups were constructed using the same definition as in the analysis on 
+business survival – i.e. based on the extent to which businesses indicate late payments are a big 
+problem are an issue in the LSBS and using a PSM approach. Once the treatment and control 
+groups were constructed, a difference-in-difference approach was used to estimate the impact of 
+late payments on investment. Full details on the methodological approach can be found in Annex 
+1.  
+ 
+
+[PDF page 37]
+ 
+ 
+35 
+ 
+The analysis explores the impact of late payments being a big problem on investment34 in 2017, as 
+well as average investment from 2017 to 2018 and from 2017 to 2019. Running the model over 
+several years allows for an assessment of whether the impact of late payments on investment 
+occurs quickly or with a delay. The estimate for the impact of late payments on investment is not 
+statistically significant at conventional levels in any model.  
+ 
+Table 26: Impact of late payment on investment 
+Quantity 2017 investment Average 
+investment in 2017 
+and 2018 
+Average 
+investment in 2017, 
+2018 and 2019 
+Econometric estimate for the 
+impact of late payments on 
+investment 
+-0.229 0.535 0.148 
+Standard error (0.664) (0.714) (0.759) 
+Sample size 314 298 286 
+Source: London Economics analysis. 
+ 
+It should be noted that not only are the coefficients not statistically significant, the associated p-
+values are also very large. Indeed, the smallest p-value associated with any of the coefficients 
+presented in the table above (the coefficient in the rightmost column of the table) is 0.27, and as 
+such none of the coefficients are close to being significant at conventional levels. One possible 
+reason for this result, relative to that of business survival which did identify a statistically significant 
+impact, is that the sample size is smaller as investment data was not available for all businesses in 
+the FAME database. Further detail on the limitations of the econometric analysis can be found in 
+Annex 1.  
+ 
+The lack of a statistically significant impact estimate does not mean that there is no impact of late 
+payments on investment. Evidence related to the impact of late payment on investment was also 
+collected from the YouGov/IFF Research survey. Businesses were asked whether they had 
+decided to invest less as a result of their late payments issues, and if so, by how much. Overall, 
+10% of businesses indicated that they have decided to invest less in 2024
+35 because of late 
+payments. Table 27 presents the average level of investment foregone, across all businesses, as a 
+result of late payments.  
+ 
+Table 27: Average amount of annual investment foregone as a result of late payments 
+Size class 
+(employees) 
+Average amount of 
+investment foregone 
+(all businesses, £) 
+Average amount of 
+investment foregone 
+(businesses affected 
+by late payment, £) 
+As a % of annual 
+turnover (businesses 
+affected by late 
+payment) 
+Micro (0 - 9)  1,643   6,103  3.06% 
+Small (10 - 49)  9,517   19,170  0.54% 
+Medium (50 - 249)  69,310   126,187  0.51% 
+Large (> 250)  49,045   77,015  0.03% 
+Average  2,493   8,881  0.49% 
+ 
+ 
+34 Details on the investment data used in the analysis can be found in Annex 1. 
+35 Again, the specific period asked about was ‘the last year’ and the survey was undertaken in early 2025, so 
+the time period does not perfectly align with 2024.  
+
+[PDF page 38]
+ 
+ 
+36 
+ 
+Source: London Economics analysis of YouGov/IFF Research survey. N=656 (Micro), N=396 
+(Small), N=258 (Medium), N=44 (Large). 
+ 
+It appears that micro businesses forego the largest amount of investment (relative to their turnover) 
+and large businesses the least. Again, this may be because micro businesses on average have a 
+larger value of late payments relative to their turnover. The fact that (even in absolute value) large 
+businesses forego less investment on average than medium sized businesses perhaps reflects the 
+fact that late payments are rarely a significant issue for large businesses. Businesses were also 
+asked to indicate the main type of investment which was foregone. Their responses are displayed 
+in Figure 6.  
+ 
+Figure 6: Type of investment foregone as a result of late payment 
+ 
+Source: London Economics analysis of YouGov/IFF Research survey. N=213. 
+ 
+The most common forms of investment foregone were plant or machinery and training/skills 
+development for employees (25% each). 18% of respondents indicated that marketing expenditure 
+was reduced as a result of late payments. Only 12% of respondents indicated that R&D 
+expenditure was foregone as a result of late payments.  
+ 
+The cost of late payments for the economy 
+The previous chapter covered the costs faced by businesses as a result of late payments, in 
+particular estimating costs arising from the following: 
+ 
+• Staff time spent chasing unpaid debtors. 
+• Contracting debt collection agencies. 
+25.2%
+11.9%
+25.2%
+17.6%
+13.4%
+6.6%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Plant or
+machinery
+Research and
+development
+Training and skills
+development for
+employees
+Marketing Other Don't know
+Proportion of respondents
+Type of investment foregone
+
+[PDF page 39]
+ 
+ 
+37 
+ 
+• Servicing debt finance taken out as a result of late payment. 
+• Supply chain finance, invoice discounting, invoice factoring and selling overdue invoices. 
+• Taking legal action against unpaid debtors.  
+ 
+The costs for businesses arising from servicing debt payment taken out as a result of late 
+payments are purely a transfer from businesses to financial institutions. Therefore, while it is an 
+opportunity cost for businesses it is not a cost for the economy as a whole.  
+ 
+However, all other costs listed above do have an associated economic cost. There is also a cost 
+for the economy in terms of the lost economic activity from business closures and reduced 
+investment resulting from late payments. The econometric analysis described above provides an 
+estimate for the number of businesses each year that close due to late payment issues. Combined 
+with data on business turnover it is possible to estimate the annual reduction in economic activity 
+resulting from late payments. In a similar vein, there is an implied reduction in investment due to 
+late payments. Table 28 presents the estimated cost for the economy due to late payments 
+through various impact channels.  
+ 
+Table 28: Annual cost of late payment for the economy  
+Cost Low estimate (£m) Central estimate (£m) High estimate (£m) 
+Increase in business 
+closures 
+ 437   3,214   5,979  
+Decrease in investment  903   1,714   2,833  
+Staff time spent chasing 
+unpaid debtors 
+ 1,561   2,259   3,061  
+Debt collection  624   1,132   1,807  
+Legal cost   593   1,213   2,065  
+Supply chain finance, 
+invoice discounting, 
+invoice factoring and 
+selling overdue invoices 
+ 620   1,213   1,898  
+Total  4,739   10,745   17,643  
+Source: London Economics analysis 
+ 
+The central estimate that late payments result in an annual economic cost of approximately £11 
+billion. To put this into context, UK GDP in 2024 was approximately £2.85 trillion36, and so the 
+annual cost to the economy of late payments is approximately 0.4% of GDP. The low and high 
+estimates reflect the 90% confidence interval of the estimates of each of the costs.37  
+ 
+As discussed in the previous chapter, there are some potential costs (for example if late payments 
+result in businesses raising their prices and thus becoming less internationally competitive) not 
+quantified in this research, and as such these estimates could be conservative. There are also 
+other potential costs that are not explored at all in the survey. For example, late payments may 
+have an impact on the mental health of business owners and senior management teams, or 
+ 
+ 
+36 House of Commons (2025). Gross domestic product (GDP): Economic indicators. Available in the House 
+of Commons Library. 
+37 Given the differential impact of late payments by size, and the fact that the survival analysis excludes large 
+businesses, the confidence intervals are calculated at the size class level and aggregated up.  
+
+[PDF page 40]
+ 
+ 
+38 
+ 
+employees may have less time to undertake training or upskilling as a result of their time spent 
+managing late payment problems.  
+ 
+On the other hand, it might be that there are some businesses that benefit as a result of late 
+payment, and therefore that the true cost to the economy could be somewhat lower. For example, 
+some of the economic activity of businesses that close due to late payments may be passed on to 
+rival firms. Similarly, businesses that pay their suppliers late may be able to invest more as a result 
+of the additional cash flow that paying late provides.   
+ 
+The fact that the cost of late payments is so large highlights the potential economic benefits of 
+improving payment culture in the UK and thereby reducing the negative impacts of late payments.  
+Importantly, UK Government interventions are limited to domestic businesses and are unlikely to 
+be able influence payment practices of customers outside the UK. Therefore, when estimating the 
+potential benefits of improving payment culture it is important to account for the fact that the 
+proportion of the cost arising from poor payment practices by non-UK customers is likely to be 
+unaffected.  
+ 
+Data from the YouGov/IFF Research survey suggests that 84% of late payments (by volume) to 
+UK businesses are from UK customers. For context, total UK exports amount to approximately 
+£875 billion per year
+38, which is approximately 17% of total business turnover. Given that 16% of 
+late payments are from foreign customers, this suggest that the propensity of UK customers to pay 
+late is roughly similar to the propensity of foreign customers to pay late.  
+ 
+Policy to improve payment culture could conceivably affect approximately 84% of late payments to 
+UK businesses. The table below demonstrates cost savings for the economy associated with 
+different levels of reduction in late payments by UK businesses. As above, the low and high 
+estimates are derived from the 90% confidence intervals of the various different costs. Note that 
+the estimates in Table 29 rest on the assumption that the cost to the economy of late payments is 
+proportionate to the prevalence of poor payment practices, which could not be directly tested as 
+part of this research.  
+ 
+Table 29: Reduction in costs for the economy associated with different levels of reduction 
+in poor payment practices 
+Reduction in poor 
+payment practices by 
+UK businesses 
+Low estimate (£m) Central estimate (£m) High estimate (£m) 
+10%  396   898   1,475  
+20%  792   1,796   2,950  
+30%  1,188   2,695   4,425  
+40%  1,585   3,593   5,900  
+50%  1,981   4,491   7,375  
+60%  2,377   5,389   8,850  
+Source: London Economics analysis 
+ 
+The estimates in the table suggest that even a modest reduction in poor payment practices (10%), 
+could reduce the cost to the economy of late payment by almost £900m, and that even a modest 
+decrease in the prevalence of poor payment practices could have substantial savings.  
+ 
+ 
+38 Data on UK exports can be found on the gov.uk website. 
+
+[PDF page 41]
+ 
+ 
+39 
+ 
+3. Conclusion 
+ 
+Results 
+This report provides a comprehensive overview of the late payment problem in the UK, as well as 
+the costs arising as a result of the late payment problem. Unlike previous studies, it draws on a 
+wide range of primary and secondary data sources and uses a rigorous mix of descriptive and 
+econometric methods. 
+ 
+The study highlights the scale of the problem, finding that more than 1.5 million (28%) of business 
+are affected by late payments, and that an estimated £26 billion of late payments are owed to 
+businesses at any one time. The results also show that the burden created by this on businesses is 
+very large. It is estimated that the cost to businesses because of late payments is approximately £7 
+billion a year. There is also evidence to suggest that the burden is greatest for micro businesses 
+who are least likely to be equipped to deal with late payments.  
+ 
+The econometric analysis identifies that late payments have a wider economic cost, with late 
+payment problems having a statistically significant and negative impact on business survival 
+prospects. Indeed, it is estimated that over 14,000 businesses close every year (or 38 each day) 
+as a result of late payments. This impact on survival contributes to an estimated total cost of late 
+payments to the economy of almost £11 billion per year (approximately 0.4% of GDP). Given the 
+magnitude of this impact, it is estimated that a 10% reduction in poor payment behaviour by UK 
+businesses could lead to a cost saving of almost £1 billion per year. At a time when growing the 
+economy is at the forefront of the policy agenda, ensuring that SMEs have the cashflow to continue 
+scaling and creating jobs is of vital importance.  
+ 
+Future research 
+The high impact of late payments also demonstrates the importance of interventions designed to 
+reduce late payments. Research over the next few years should aim at assessing whether recent 
+Government policies have had their intended effects, and investigate how late payments policy can 
+be improved and developed in the future. This research could provide a framework for estimating 
+the benefits of different policies, and help further understand value for money. 
+ 
+Future research could also usefully go further and explore how the impacts of late payments vary 
+for different kinds of businesses (e.g. businesses which export or businesses in specific sectors or 
+UK nations and regions). There are also other impacts of late payments (e.g. on competitiveness 
+or mental health of management teams) that could also be explored.  
+ 
+Limitations 
+This report attempts to quantify the annual costs of late payments in the UK using a combination of 
+primary and secondary data as well as descriptive and econometric analysis. This is a 
+methodologically challenging process and there are some limitations which should be noted: 
+ 
+• Some of the business problems resulting from late payments represent transfers of liquidity. 
+Transfers do not involve the consumption of resources, rather pass purchasing power from 
+one business to another (in this case, in terms of additional liquidity in the form of trade 
+credit). For example, a creditor business might be worse off as a result of late payment, and 
+choose to invest less in their business as a mitigating action. This reduction in business 
+
+[PDF page 42]
+ 
+ 
+40 
+ 
+investment leads to a decrease in GVA, but because trade credit is transferred rather than 
+consumed, it could be offset by actions taken by the debtor business – they might use the 
+additional liquidity they receive as a result of late payment to invest in their own business. 
+When considering the total cost of late payments, and any benefits arising from reducing 
+the prevalence of late payments, transfers need to be accounted for. The research partially 
+mitigates this problem, removing some estimated business costs from the final totals. 
+However, this research does not directly estimate the value of or account for the benefits of 
+late payment for debtor businesses.  
+• It is possible that some businesses may have found it difficult to provide perfectly accurate 
+answers to some of the questions that were used to quantify the costs of late payments. 
+Respondents were not given sight of the questions in advance of the survey and so may 
+not have known (for example) exactly how many staff hours are spent chasing overdue 
+invoices or the total expenditure on debt collection services. If respondents provide 
+responses that are systematically too large or too small, the cost estimates may not be 
+accurate. Furthermore, some respondents only provided responses in bands, which were 
+converted into numerical responses by taking the midpoint. It could also be the case that, 
+where banded responses are provided, the true cost could be systematically above or 
+below the midpoint of the indicated band.  
+• The analysis attempts to quantify the cost of late payments by combining analysis based on 
+the LSBS and the YouGov/IFF Research survey. The YouGov/IFF Research survey clearly 
+defines late payments as payment after the agreed contractual payment date or contractual 
+payment terms of longer than 60 days. On the other hand, the definition of late payment in 
+the relevant question of the LSBS refers to payment that is ‘customers paying you later 
+than you require them to in your normal terms of business’. This definition is slightly 
+ambiguous and may not be interpreted in the same way as the definition of late payments 
+in the YouGov/IFF Research survey. While this would not bias the results (as at no point in 
+the quantification is an implicit equivalence drawn between the definitions in the two 
+surveys) it may mean that the estimates for the cost of late payment through the channel of 
+business survival may be an underestimate as it does not capture as broad a range of poor 
+payment practices as the estimates based on the YouGov/IFF Research survey.  
+• The econometric analysis uses PSM to try and ensure that the comparison of outcomes 
+between the treatment and control groups is as unbiased as possible. However, it is 
+possible that some (unobservable) differences between the treatment and control groups 
+that influence survival and investment remain after the PSM. If this were the case, it could 
+bias the econometric estimates.  
+• For the econometric analysis of the impact of late payments on investment a proxy for 
+investment was constructed as actual investment data was not available. This proxy may 
+not be entirely accurate for all businesses in the analysis sample. For example, if a 
+business disposed of assets, then the investment proxy would likely underestimate the true 
+value of investment for that company.  
+• The econometric analysis explores the impact of late payment issues beginning in the 
+2016/17 period. While the results are appropriately scaled for the incidence of late payment 
+issues in the most recent wave of the LSBS (2023), it is possible that the impact of late 
+payment on survival and investment may have changed since 2016/17. If this were the 
+case, the estimated cost to the economy of late payments through business closures may 
+be inaccurate. The true impact of late payment issues occurring today on investment and 
+business survival may only be quantified in the coming years.  
+
+[PDF page 43]
+ 
+ 
+41 
+ 
+Annex 1 – Estimating the impact of late payments 
+ 
+This annex provides detail on the analytical approach used to estimate the economic impact of late 
+payments. This includes an overview of the data used, the econometric methodology and the 
+approach used to quantify the costs for businesses and economic costs arising from late 
+payments.  
+  
+Data 
+Survey data 
+ 
+As discussed in Annex 2 below, a quantitative survey of businesses was delivered as part of this 
+research. The survey provided estimates of the following inputs for the quantification exercise: 
+ 
+• The share (by volume and value) of invoices that are late and the total value of late 
+payments faced by UK businesses.  
+• The share of late payments that arise from UK customers as opposed to foreign customers.  
+• The value of investment foregone as a result of late payments.  
+• The additional debt/finance related costs faced by businesses as a result of late payments.  
+• The costs faced by businesses attempting to recover late payments.  
+• The amount of staff time used by businesses to chase payment from customers. 
+ 
+Inter-Departmental Business Register (IDBR) 
+ 
+The IDBR is owned by the ONS39 and provides a comprehensive40 list of businesses operating in 
+the UK economy. It is the main sample frame for business surveys and contains firmographic 
+information over time. The two main sources of data for the IDBR are VAT and PAYE records from 
+HMRC. For the purposes of this research, the following firm variables were extracted from the 
+IDBR:41 
+ 
+• Region42 
+• Sector 
+• Turnover 
+• Employment 
+• Business closure (death date) 
+ 
+ 
+ 
+39 ‘ONS take no responsibility for the analysis or interpretation contained in this report ’ 
+40 Some small businesses are not included in the IDBR if they do not meet certain VAT turnover  thresholds 
+and have no employees.  
+41 Specifically, London Economics were provided with the March extracts from 2014 to 2024.  
+42 This was coded according to the standard twelve nations and regions of the UK: Nine English regions, and 
+Scotland, Wales and Northern Ireland. 
+
+[PDF page 44]
+ 
+ 
+42 
+ 
+Longitudinal Small Business Survey (LSBS) 
+ 
+The LSBS is an annual survey of SMEs that was launched by the Department for Business 
+Innovation and Skills in 2015. The first wave surveyed more than 15,500 businesses (sampled 
+from the IDBR and Dun & Bradstreet across sizes and sectors). While the survey is not perfectly 
+longitudinal, businesses that have answered previous waves are reinterviewed where possible.43 
+Additionally, the sample has also been ‘topped up’ over time as other businesses have fallen out.  
+ 
+For the purposes of this analysis, London Economics were provided with data from the 2015 to 
+2023 waves of the survey. Responses to the following questions were used in the analysis: 
+ 
+• M1A on whether the respondent business offers trade credit to its customers.  
+• M3 on the extent to which late payments are an issue for the respondent business. 
+• R1 and R1a on the growth prospects of the respondent business. 
+• R3 on whether the closure or transfer of the respondent business is expected in the next 
+three years.  
+• A14 on the ownership structure of the respondent business.  
+ 
+The main use of the LSBS data was to construct a group of businesses that have faced issues with 
+late payment and a control group against which their outcomes could be compared (see the 
+section below on the econometric approach for more details).  
+ 
+Financial Analysis Made Easy (FAME) 
+ 
+FAME is a database owned by Bureau van Dijk which covers over 11 million companies based in 
+the UK and Ireland. It contains a time series of financial data as well as other firmographic 
+information. For the purposes of this study, data from FAME is used to estimate the level of 
+investment of businesses for the econometric analysis. Further detail on how the estimate for 
+investment is derived can be found below.  
+ 
+Data matching and cleaning 
+ 
+In order to perform the analysis, the three main datasets (LSBS, IDBR, FAME) were merged 
+together. The LSBS and IDBR were matched using the ‘entref’ variable. The entref is a 
+pseudonymised operational ID variable included in many ONS secure business microdatasets. The 
+FAME dataset was matched to the LSBS and IDBR using Company Registration Number (CRN). 
+The CRN is a unique code used by Companies Houe, assigned upon incorporation, that allows for 
+businesses to be identified. It was possible to match all of the observations in the LSBS to the 
+IDBR, however it was only possible to match 79.5% of observations in the LSBS to FAME.  
+ 
+Once the data was merged together, a number of cleaning and processing steps were 
+implemented: 
+ 
+ 
+43 It is also of note that in order to limit the number of questions asked to LSBS respondents, respondents 
+are arranged into cohorts and then only answer a subset of the full set of questions. Relevant late payments 
+questions are asked of Cohort A. 
+
+[PDF page 45]
+ 
+ 
+43 
+ 
+ 
+• Deriving the SIC sections from the two-digit SIC variable provided in the IDBR.  
+• Deriving firm-level variables for the year of birth and closure, removing businesses that 
+were indicated to have closed prior to 2015 unless they subsequently were indicated to 
+have experienced a ‘rebirth’ and therefore could be used for the analysis.  
+• Creating firm-level variables for region, sector and age, taking the earliest observation of 
+each where there was variation over time for a specific business.  
+• Creating a banded size variable (micro, small, medium, large) in each year based on 
+employment data from the IDBR.  
+• Deriving the investment variables needed for the analysis (annual investment from 2014 to 
+2019, average annual investment in the 2017 to 2018 period and average annual 
+investment in the 2017 to 2019 period).
+44 
+• Creating variables for each year indicating whether the business did not offer trade credit, 
+had no problem with late payments, a small problem with late payments or a big problem 
+with late payments based on questions M1A and M3 in the LSBS.  
+• Deriving a banded variable related to the growth expectations of the business based on 
+2015 and 2016 responses questions R1 and R1a from the LSBS.  
+• Creating a variable indicating whether the business expected to either close or have its 
+ownership transferred based on 2015 and 2016 responses to question R3 in the LSBS.  
+• Creating a variable indicating whether the business is wholly or partly owned by another 
+company based on the 2015 responses to question A14. This question was only available 
+in the 2015 wave, and as such this variable was coded as unknown for businesses that did 
+not respond to the LSBS in 2015 but responded in later years.  
+ 
+Econometric approach 
+Defining the treatment 
+ 
+The first step in the econometric analysis was to define the treatment variable used to indicate 
+whether businesses would be eligible to participate in the treatment group or the control group. 
+Given the time frame of the econometric analysis, the 14,695 businesses answering the LSBS in 
+2015 or 2016 (or both) were eligible for consideration for the treatment or control businesses. The 
+treatment and control groups were constructed using the following five steps: 
+ 
+1. Businesses indicating that they do not offer trade credit to their customers in any year were 
+excluded from consideration. The reason for this is that a business that does not offer trade 
+credit cannot have issues with late payment from its business customers, and therefore 
+could not be in the treatment group. Furthermore, the fact that it does not offer trade credit 
+means it has a fundamentally different business model to businesses that do offer trade 
+ 
+ 
+44 Further detail on the construction of the investment variable can be found in the discussion of the 
+investment analysis below.  
+
+[PDF page 46]
+ 
+ 
+44 
+ 
+credit and therefore is also not a suitable prospect for the control group. After this step 
+7,569 businesses remained under consideration for the treatment or control groups. 
+2. Out of the remaining businesses, eligibility for the treatment group required a business 
+indicating that that it did not have a big problem with late payment (i.e. it had no problem or 
+a small problem) in 2015, or if they did not respond in 2015, did not have a big problem in 
+2016. Treatment firms then had to switch to having a big problem in a subsequent year, the 
+latest being 2017 (and not switch back; see step 4 below). The reason that data from 2015, 
+2016 and 2017 were used rather than just 2015 and 2016 or 2016 and 2017 was to 
+increase the resulting analysis sample size. The composition of the treatment group is 
+illustrated in Table 30 below. 
+3. Out of the remaining businesses, eligibility for the control group was identified as 
+businesses that responded to the LSBS in at least two years in the period 2015-2017 and 
+indicated they did not have a big problem with late payments in any of these years. The 
+composition of the control group is illustrated in the Table 30 below.  
+ 
+Table 30: Definition of the treatment 
+Group Degree of late payment 
+problem in 2015 
+Degree of late payment 
+problem in 2016 
+Degree of late payment 
+problem in 2017 
+Treatment  No problem / Small 
+problem 
+Big problem Big Problem / Did not 
+respond 
+Treatment  No problem / Small 
+problem 
+No problem / Small 
+problem / Did not 
+respond 
+Big problem 
+Treatment  Did not respond No problem / Small 
+problem 
+Big Problem 
+Control No problem / Small 
+problem 
+No problem / Small 
+problem 
+No problem / Small 
+problem / Did not 
+respond 
+Control  No problem / Small 
+problem 
+Did not respond No problem / Small 
+problem  
+Control  Did not respond No problem / Small 
+problem 
+No problem / Small 
+problem 
+ 
+4. Businesses that indicated that they (subsequent to indicating that they had a big late 
+payment problem but no later than 2019
+45) no longer had a big problem with late payments 
+were excluded from consideration for the treatment group.  
+5. Businesses that indicated that they had a big late payment problem in 2018 or 201946 were 
+excluded from consideration for the control group.  
+ 
+A second, more restrictive, treatment definition was also used as a robustness check. The second 
+treatment definition, in addition to the approach outlined above, excluded any businesses that 
+responded to the LSBS in any year after 2017. The rationale for this approach is that a business 
+that (for example) responded to the LSBS in 2019 would clearly not have closed in 2017 or 2018. 
+ 
+ 
+45 2019 was chosen as it is the end period of the econometric analysis.  
+46 Ibid. 
+
+[PDF page 47]
+ 
+ 
+45 
+ 
+The results of the analysis based on this alternative treatment definition can be found later in this 
+annex.  
+ 
+Table 31 summarizes the number of businesses that remain in the treatment and control groups 
+after the steps above for each treatment definition. 
+Table 31: Number of firms
+47 eligible for inclusion in the treatment and control groups 
+Group Number of firms (baseline) Number of firms (robustness 
+check) 
+Treatment 146 107 
+Control 2,334 1,564 
+Total 2,480 1,671 
+Source: London Economics analysis 
+ 
+Propensity score matching 
+ 
+Propensity Score Matching (PSM) is an econometric technique which involves matching a group of 
+treatment businesses to a similar group of control businesses based on the ‘propensity score’. The 
+propensity score is the probability of being in the treatment group (i.e. having a big problem with 
+late payments as described above) conditional on the other characteristics of the business. A logit 
+model is the standard approach for propensity score matching. The model is characterized by the 
+following equation for business j:  
+ 
+Equat
+ion 1:  𝑃𝑃𝑃𝑃 (𝐿𝐿𝑃𝑃𝑃𝑃𝑗𝑗= 1) = 𝐹𝐹(𝜷𝜷𝑪𝑪𝒋𝒋) 
+ 
+• 𝐿𝐿𝑃𝑃𝑃𝑃𝑗𝑗 is a dummy variable indicating whether or not business j is in the treatment group (i.e. 
+whether it has a late payment problem). 
+• 𝐹𝐹 is the cumulative standard logistic distribution with functional form 𝐹𝐹(𝑥𝑥) =
+1
+1+𝑒𝑒−𝑥𝑥 
+• 𝑪𝑪𝒋𝒋 is the vector of characteristics of business j, with associated coefficient 𝜷𝜷. 
+ 
+Once propensity scores are calculated, each business that is in the treatment group is matched to 
+a business in the control group with the most similar propensity score. This is known as the nearest 
+neighbour algorithm. The algorithm allows for replacement, so that a given control business can be 
+matched multiple times. The matching algorithm also imposes a maximum discrepancy between a 
+treatment business and its matched control. This was set at one fifth of the standard deviation of 
+the propensity scores (which is standard in PSM). For the analysis of investment, it was also 
+required that both the treatment and matched control businesses had sufficient investment data in 
+order for those businesses to be included in the difference-in-difference analysis. Table 32 
+provides a list of the variables included in the PSM.  
+ 
+ 
+47 Note that the number of businesses in the treatment group is slightly larger than the treatment sample size 
+for the econometric analysis (presented in Table 35) as a small number of treatment businesses (3 for the 
+baseline treatment definition and 6 for the robustness check definition) were dropped in the PSM process. 
+
+[PDF page 48]
+ 
+ 
+46 
+ 
+Table 32: Variables included in the PSM 
+Variable Description Explanation 
+Treatment Whether the business is in the 
+treatment or control group. 
+This is the outcome variable in 
+the propensity score 
+matching. 
+Sector48 The sector that the business 
+operates in. 
+Businesses in the same sector 
+may face the same kinds of 
+challenges as each other.  
+Region49 The region that the business 
+is based. 
+Businesses in the same 
+region may be more likely to 
+be dealing with similar 
+business customers. 
+Employment50 The number of employees that 
+the business had in 2015. 
+Businesses of different sizes 
+may face different issues as a 
+result of late payments. 
+Turnover51 The turnover of the business 
+in 2015. 
+Businesses of different sizes 
+may face different issues as a 
+result of late payments. 
+Turnover growth52 The growth of the business 
+between 2014 and 2015. 
+The growth trajectory of the 
+business prior to the late 
+payment issues may influence 
+the outcomes of the business 
+after the late payment issues. 
+Age53 The age of the business in 
+2015. 
+More established businesses 
+may be better able to deal 
+with and manage late 
+payment issues. 
+Closure or transfer over the 
+next three years54 
+Whether the respondent 
+expected the business to 
+close or ownership to be 
+transferred in the next 3 years 
+in 2015.55  
+A business that expects to 
+cease trading in the near 
+future would be more likely to 
+actually cease trading in the 
+near future. 
+ 
+ 
+48 This was coded into Primary/Manufacturing (SIC sections A-E), Construction (SIC section F), Distribution 
+(SIC section G-I), Business Services (SIC sections J-N) and Other Services (SIC sections P-S). 
+49 This was coded according to the standard twelve nations and regions of the UK: Nine English regions, and 
+Scotland, Wales and Northern Ireland. 
+50 This was coded according to Micro (0-9), Small (10-49) and Medium (50-249). Given the cost estimation is 
+done at the size class level treatment businesses were matched to control businesses in the exact same size 
+class. 
+51 This was coded into the bands less than £100k, £100k to £500k, £500k to £5 million and £5 million or 
+more. 
+52 This was coded into the bands decreased by over 5%, decreased by less than 5%, increased by less than 
+15%, increased by at least 15%, N/A (new firm). 
+53 This was coded into the bands less than 5 years, 5 to 10 years, 10 to 20 years and more than 20 years.  
+54 This variable was coded as expect closure in the next 3 years, expect transfer of ownership in the next 3 
+years, neither or unknown. Treatment businesses were matched to control businesses which gave the exact 
+same answer to this question in the analysis of the impact of late payments on business survival.  
+55 2016 if the businesses did not participate in the LSBS in 2015.  
+
+[PDF page 49]
+ 
+ 
+47 
+ 
+Variable Description Explanation 
+Expect growth over the next 
+three years56 
+Whether the respondent 
+expected the business to grow 
+in the next 3 years in 2015. 
+A business that expects to 
+grow may be more likely to 
+invest or less likely to cease 
+trading. 
+Investment growth57 Investment growth from 2014 
+to 2015. 
+A business ramping up its 
+investment over the previous 
+year may be more likely to 
+continue to invest going 
+forward. 
+Fully or partly owned by 
+another company 
+Whether the business was 
+fully or partly owned by 
+another company in 2015.58 
+The ownership structure of a 
+business may influence its 
+propensity to have cash flow 
+issues and its investment.  
+ 
+The PSM substantially reduced differences between the two groups. In the case of the analysis of 
+the impact of late payment on business survival the reduction was slightly over a half. In the case 
+of the analysis of the impact of late payment on investment, the reduction was approximately one 
+third. Table 33 and Table 34 illustrate this reduction in differences between the treatment and 
+control group across the different characteristics as a result of the PSM, for the survival and 
+investment analyses respectively.  
+ 
+ 
+56 This variable was coded into not expected to grow, expect 1%-24% growth, expect 25%+ growth and 
+unknown. 
+57 This variable was coded as decreased by over 90%, decreased by between 30% and 90%, decreased by 
+less than 30%, increased by less than 80%, increased by 80% to 200%, increased by over 200%, 
+incalculable. Treatment businesses were matched with control businesses with the same ownership 
+structure in the analysis of the impact of late payments on investment. 
+58 This variable was only available in the 2015 wave of the LSBS and as such this variable is coded as 
+unknown for businesses that did not answer that wave of the survey.  
+
+[PDF page 50]
+ 
+ 
+48 
+ 
+Table 33: Balance tables - analysis of the impact of late payments on business survival 
+Characteristic Average difference (pre-PSM) Average difference (post-
+PSM) 
+Sector 3.4% 4.5%59 
+Region 2.0% 1.6% 
+Employment 5.4% 0.0% 
+Turnover 3.2% 2.8% 
+Turnover Growth 4.6% 2.2% 
+Age 7.8% 2.1% 
+Closure or transfer over the 
+next three years 
+0.2% 0.0% 
+Expected growth over the next 
+three years 
+6.4% 2.4% 
+Average 4.1% 2.0% 
+Source: London Economics analysis 
+ 
+Table 34: Balance tables - analysis of the impact of late payments on investment60 
+Characteristic Average difference (pre-PSM) Average difference (post-
+PSM) 
+Sector 3.1% 2.5% 
+Region 2.2% 2.5% 
+Employment 5.3% 0.0% 
+Turnover 4.7% 3.8% 
+Turnover Growth 4.6% 2.0% 
+Age 7.3% 5.7% 
+Closure or transfer over the 
+next three years 
+1.2% 0.0% 
+Expected growth over the next 
+three years 
+5.7% 2.5% 
+Investment growth 2.7% 0.0% 
+Fully or partly owned by 
+another company 
+0.5% 5.9% 
+Average 3.7% 2.5% 
+Source: London Economics analysis 
+ 
+Once the PSM was complete, the final step in preparing the sample for analysis was to ensure that 
+the sample was representative. The LSBS and IDBR overrepresent small and medium sized 
+businesses (compared to micro businesses). The treatment and control groups were reweighted by 
+size such that the distribution by size class matched that of businesses reporting a big late 
+payment problem in 2023 (see Table 8). 
+ 
+Analysis of business survival 
+ 
+ 
+59 The PSM reduces the overall differences between the treatment and control groups, but cannot guarantee 
+that the groups are more similar on any specific characteristic. The average difference for some 
+characteristics can therefore be higher post-PSM, compared to pre-PSM. 
+60 This table specifically relates to the analysis of the impact of late payments on investment in 2017, the 
+analysis samples are slightly different for the analyses also using 2018 and 2019 data however the 
+performance of the PSM is very similar.  
+
+[PDF page 51]
+ 
+ 
+49 
+ 
+It was found that late payment problems had a statistically significant and positive impact on the 
+likelihood of business closure. Table 35 provides the results of the analysis for the baseline model 
+as well as the robustness check (described above).  
+ 
+Table 35: Analysis of the impact of late payments on business survival 
+Treatment 
+condition 
+Treated Share closed 
+by 2017 
+Share closed 
+by 2018 
+Share closed 
+by 2019 
+Sample size 
+Baseline No 2% 2% 7% 157 
+Baseline Yes 9% 14% 20% 143 
+Baseline Impact 
+estimate 
+7% 11%** 14%* 300 
+Robustness 
+check 
+No 8% 13% 19% 102 
+Robustness 
+check 
+Yes 13% 19% 28% 101 
+Robustness 
+check 
+Impact 
+estimate 
+5% 6% 9% 203 
+Source: London Economics analysis. Note: **=p<0.05, *=p<0.1 
+ 
+The analysis using the more restrictive robustness check definition also found that business 
+closure rates were higher for businesses with a big late payment problem than for similar 
+businesses which did not have those problems. As this definition is more restrictive, the sample 
+size is smaller and a larger impact would be needed to obtain statistical significance. The fact that 
+the business closure rates are higher for both the treatment and control group under the alternative 
+definition is to be expected, given that businesses responding to future waves of the LSBS (and 
+therefore not closing) are excluded.  
+ 
+Analysis of investment 
+ 
+Data from FAME was used in order to measure investment made by firms. Investment is not 
+provided in the data, and so a proxy61 was constructed using fixed assets: 
+ 
+Equat
+ion 2:  𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑡𝑡= 𝐹𝐹𝐹𝐹𝑥𝑥 𝐼𝐼 𝐹𝐹 𝑎𝑎𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑡𝑡− 𝐹𝐹𝐹𝐹𝑥𝑥 𝐼𝐼 𝐹𝐹 𝑎𝑎𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑡𝑡−1+ 𝐷𝐷𝐼𝐼𝐷𝐷𝑃𝑃𝐼𝐼𝐷𝐷𝐹𝐹𝑎𝑎𝐼𝐼𝐹𝐹𝐷𝐷𝐼𝐼𝑡𝑡 
+ 
+Where this proxy implies a negative value for investment, this was set to zero. For the purposes of 
+the analysis, a log transformation62 was applied to the investment variable. The difference-in-
+difference analysis is characterised by the following equation for business i at time t: 
+ 
+Equat
+ion 3:  𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑖𝑖𝑡𝑡= 𝛽𝛽0 + 𝛾𝛾𝐿𝐿𝑃𝑃𝑃𝑃𝑖𝑖+ 𝛿𝛿𝐼𝐼𝑡𝑡+ 𝜃𝜃(𝐿𝐿𝑃𝑃𝑃𝑃𝑖𝑖∗ 𝐼𝐼𝑡𝑡) + 𝜀𝜀𝑖𝑖𝑡𝑡 
+ 
+• 𝐼𝐼𝐼𝐼𝐼𝐼
+𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑖𝑖𝑡𝑡 is the outcome variable of interest, the level of investment.63 
+• 𝛽𝛽0 is a constant term. 
+ 
+ 
+61 The limitations of this proxy are discussed later in this annex. 
+62 Specifically, the transformation was log(x+1). 
+63 In the models assessing the impact over a longer time period (i.e. 2018 and 2019) this reflects average 
+annual investment across the period (i.e. 2017 and 2018 or 2017, 2018 and 2019).  
+
+[PDF page 52]
+ 
+ 
+50 
+ 
+• 𝐿𝐿𝑃𝑃𝑃𝑃𝑖𝑖 is a dummy variable indicating whether the business is in the treatment or control 
+group.  
+• 𝐼𝐼𝑡𝑡 is a dummy variable indicating whether the given observation is pre- or post-treatment. 
+• 𝐿𝐿𝑃𝑃𝑃𝑃𝑖𝑖∗ 𝐼𝐼𝑡𝑡 is an interaction term. 𝜃𝜃 is the coefficient of interest in the model, reflecting the 
+difference in investment between the treatment and control groups before and after the late 
+payment issues materialised. 
+• 𝜀𝜀𝑖𝑖𝑡𝑡 is an idiosyncratic error term. 
+ 
+The res
+ults of the analysis (including the robustness check) are provided in Table 36. 
+The two columns related to each time period reflect the two different treatment definitions used 
+(see the final row of the table). Across all of the models, the coefficient related to the impact of late 
+payments on investment (Treatment post interaction) is not statistically significant. The same can 
+be said for the ‘Post’ coefficient (which reflects the difference in annual investment between the 
+pre- and post-treated period for businesses which did not have late payment issues) and the 
+‘Treatment’ coefficient (which reflects the difference in investment in the pre-treatment period 
+between businesses in the treatment and control group). As discussed above, the absence of a 
+statistically significant impact estimate does not imply there is not an impact.  
+ 
+Table 36: Analysis of the impact of late payments on investment 
+Indicator Statistic 2016 to 
+2017 
+2016 to 
+2017 
+2016 to 
+2018 
+2016 to 
+2018 
+2016 to 
+2019 
+2016 to 
+2019 
+Treatment 
+post 
+interaction 
+Coef -0.229 0.592 0.535 0.656 0.148 0.718 
+Treatment 
+post 
+interaction 
+SE (0.664) (0.536) (0.714) (0.692) (0.759) (0.620) 
+Post Coef 0.115 -0.271 -0.164 0.456 0.287 0.281 
+Post SE (0.500) (0.356) (0.515) (0.514) (0.584) (0.441) 
+Treatment Coef -0.170 0.027 -0.175 0.028 -0.184 0.035 
+Treatment SE (0.491) (0.446) (0.526) (0.446) (0.556) (0.446) 
+Constant Coef 1.127*** 0.562 1.129*** 0.557 1.205*** 0.553 
+Constant SE (0.331) (0.340) (0.355) (0.340) (0.373) (0.340) 
+Observations N/A 314 190 298 178 286 170 
+R-squared N/A 0.011 0.043 0.010 0.137 0.016 0.133 
+Treatment 
+definition 
+N/A Base Robust Base Robust Base Robust 
+Source: London Economics analysis. Note: Coef=Coefficient. SE=Standard Error. Base=Baseline. 
+Robust=Robustness check. Details on the definition of the baseline and robustness check 
+definitions can be found earlier in the ‘Econometric approach’ section of this annex.  
+ 
+The key assumption for validity of a difference-in-difference analysis is the common trends 
+assumption. That is to say that, absent the impact of late payments, the investment trajectory of 
+the treatment and control groups would be the same. This was tested econometrically by running 
+the same model as above, but using the two years of data prior to the impact of late payment (i.e. 
+2014 and 2015). The lack of a statistically significant estimate for the ‘Treatment and 2015 
+interaction’ variable means that the common trends assumption is not rejected. In other words, the 
+treatment and control groups did not follow a statistically different path of investment in 2014 and 
+
+[PDF page 53]
+ 
+ 
+51 
+ 
+2015. Table 37 presents the results of this analysis. As above, the different columns refer to the 
+different analysis samples for each time period covered by the main analysis (e.g. the 2016 to 
+2017 columns in the table below relate to the 2016 to 2017 columns in the table above) as well as 
+the definition of the treatment.  
+ 
+Table 37: Common trends analysis 
+Indicator Statistic 2016 to 
+2017 
+2016 to 
+2017 
+2016 to 
+2018 
+2016 to 
+2018 
+2016 to 
+2019 
+2016 to 
+2019 
+Treatment  
+and 2015 
+interaction 
+Coef 0.127 -0.323 0.127 -0.355 0.146 -0.359 
+Treatment 
+and 2015 
+interaction 
+SE (0.759) (0.737) (0.759) (0.794) (0.756) (0.794) 
+2015 dummy Coef -0.500 0.006 -0.501 0.047 -0.520 0.050 
+2015 dummy SE (0.603) (0.526) (0.603) (0.554) (0.599) (0.555) 
+Treatment Coef -0.420 -0.134 -0.425 -0.238 -0.445 -0.230 
+Treatment SE (0.532) (0.407) (0.532) (0.437) (0.528) (0.437) 
+Constant Coef 1.693*** 1.475*** 1.696*** 1.574*** 1.719*** 1.570*** 
+Constant SE (0.476) (0.327) (0.476) (0.346) (0.471) (0.346) 
+Observations N/A 272 182 264 172 258 164 
+R-squared N/A 0.036 0.020 0.036 0.030 0.038 0.029 
+Treatment 
+definition 
+N/A Base Robust Base Robust Base Robust 
+Source: London Economics analysis. Note: Coef=Coefficient. SE=Standard Error. Base=Baseline. 
+Robust=Robustness check. 
+ 
+Quantifying the costs of late payments 
+This report provides estimates for various costs arising from late payments, measured in 2024/25 
+prices. Several of these (the cost of servicing additional debt finance taken on as a result of late 
+payments, the cost of engaging debt collection agencies, the costs of supply chain finance, invoice 
+discounting, invoice factoring and selling overdue invoices, legal costs of pursuing unpaid debtors 
+and the current value of late payments in the economy) are calculated directly by scaling up (by the 
+number of active business in each size class) the average cost (by size class) from the 
+YouGov/IFF Research survey.
+64 The calculation approach is illustrated in Table 38 for the total 
+value of late payments, but the methodology is identical for the other costs mentioned above.  
+ 
+Note that the number of businesses in the table below, from the DBT Business Population 
+Estimates, is used to aggregate all of the estimates of costs for businesses at the economy level.   
+ 
+ 
+64 Costs were scaled to the business population using the DBT Business Population Estimates 2024. These 
+can be found on the gov.uk. 
+
+[PDF page 54]
+ 
+ 
+52 
+ 
+Table 38: Example calculation – the value of late payments in the economy 
+Size class (employees) Average value of late 
+payments (all 
+businesses, £) 
+Number of 
+businesses 
+Value (£m) 
+Micro (0 - 9)  2,480   5,233,090   12,978  
+Small (10 - 49)  25,855   219,900   5,686  
+Medium (50 - 249)  106,357   37,750   4,015  
+Large (> 250)  447,987   8,250   3,696  
+Total  4,79665  5,498,990   26,375 
+Source: London Economics analysis of YouGov/IFF Research survey and DBT Business 
+Population Estimates 2024. N=660 (Micro), N=396 (Small), N=258 (Medium), N=51 (Large). 
+ 
+It is also possible to perform this calculation based on the average value of late payments among 
+businesses affected by late payment and the number of businesses affected by late payment, as 
+illustrated in Table 39.  
+ 
+Table 39: Example calculation – the value of late payments in the economy for businesses 
+affected by late payment 
+Size class (employees) Average value of late 
+payments (businesses 
+affected by late 
+payment, £) 
+Number of 
+businesses affected 
+by late payment 
+Value (£m) 
+Micro (0 - 9)  9,214   1,408,593   12,978  
+Small (10 - 49)  52,081   109,169   5,686  
+Medium (50 - 249)  193,635   20,735   4,015  
+Large (> 250)  703,479   5,254   3,696  
+Total  17,085   1,543,751   26,375 
+Source: London Economics analysis of YouGov/IFF Research survey and DBT Business 
+Population Estimates 2024. N=660 (Micro), N=396 (Small), N=258 (Medium), N=51 (Large). 
+ 
+The cost of staff time spent chasing overdue invoices is calculated by multiplying the average 
+number of hours spent chasing overdue invoices (from the YouGov/IFF Research survey) by 
+£16.92. The figure of £16.92 is derived by taking the average wage for ‘Administrative & 
+Secretarial’ activities from ASHE (£13.50),66 uplifting this by an estimate for the share of non-wage 
+labour costs67 (17.2%) and applying a GDP deflator68 (1.04) to convert the estimate into FY 24/25 
+prices.  
+ 
+In order to calculate the cost of late payments resulting from business closure it was first necessary 
+to estimate the number of businesses (by size class) which close every year because of late 
+payments. This was done by taking our econometric estimate which provides the causal impact of 
+late payments on business mortality in percentage point terms, and multiplying by the number of 
+businesses in each size class (from the DBT Business Population Estimates), and the proportion 
+ 
+ 
+65 This is a weighted (by the number of businesses in each size class) average.  
+66 The data can be found on the ONS website. 
+67 The data can be found on the Eurostat website. 
+68 ASHE (revised) data available at the time of this report refers to 2023. These costs are therefore uplifted 
+for inflation to ensure consistent FY 24/25 price years throughout the report. GDP deflator data can be found 
+on the gov.uk website. 
+
+[PDF page 55]
+ 
+ 
+53 
+ 
+by size class which had a big late payment problem  in 2023 (from the LSBS, see Table 8). The 
+annual impact is calculated by dividing the estimate for the impact on closures over the period 
+2016 to 2019 (14%, see Table 22) by four (as 14% is the impact over a four year period). This 
+yields the following estimates for the number of businesses which close each year as a result of 
+late payments. The low and high estimates are calculated using the lower and upper bound of the 
+90% confidence interval regarding the impact of late payments on closure. 
+ 
+Table 40: Number of businesses that close each year as a result of late payments 
+Size class Low estimate Central estimate High estimate 
+Micro (0 - 9)  1,897   13,945   25,943  
+Small (10 - 49)  59   436   811  
+Medium (50 - 249)  12   86   161  
+Total  1,968   14,468   26,914  
+Source: London Economics analysis 
+ 
+Based on the estimates for the number of businesses that close each year due to late payment the 
+estimated number of associated jobs lost (approximately 40,000) is also calculated. This is done by 
+multiplying the estimated number of businesses that close in each size class (from the table above) 
+by the average number of employees per business in each size class (derived from the DBT 
+Business Population Estimates).
+69 
+ 
+As large businesses are not included in the LSBS, it is not possible to estimate the number of large 
+businesses that close each year as a result of late payments. As shown in Table 25, large 
+businesses were less likely to report that late payments presented a substantial risk to their 
+survival than SMEs, and therefore for the purposes of this analysis it is (conservatively) assumed 
+that no large businesses cease trading as a result of late payments problem. Given the estimates 
+for the number of businesses in each size class which close each year as a result of late payments 
+in the table above, the loss in turnover for the economy can be calculated using data on average 
+turnover by size class from the DBT Business Population Estimates.  
+ 
+Estimates for average turnover by size class are provided in Table 41. In order to provide context 
+to some of the figures in Chapter 2, estimates are also provided for the costs as a proportion of the 
+average turnover of businesses with late payment problems. This research has not collected any 
+data on how (within a given size class) average turnover varies between businesses which do and 
+do not have a late payment problem.  
+ 
+As such, at the size class level the average turnover estimates are the same in both columns. 
+However, some information on how many businesses are affected by late payment by size class 
+was collected as part of this research (as shown in Table 11Error! Reference source not found.). 
+Indeed, larger business are more likely to be affected by late payment, and therefore the average 
+turnover among businesses affected by late payment is larger than the average turnover of all 
+businesses.
+70 Therefore, the estimate for the average turnover across businesses affected by late 
+payment is larger than the average turnover across all businesses.  
+ 
+ 
+69 These are 1.7 for micro businesses, 19.6 for small businesses and 97.4 for medium sized businesses.  
+70 Note that this assumes, as highlighted in Table 41, that the turnover among businesses which are and are 
+not affected by late payment but are within the same size class have on average the same turnover.  
+
+[PDF page 56]
+ 
+ 
+54 
+ 
+Table 41: Average turnover by size class 
+Size class Average turnover (all businesses, 
+£) 
+Average turnover (businesses 
+affected by late payment, £) 
+Micro (0 - 9)  199,721   199,721  
+Small (10 - 49)  3,549,627   3,549,627  
+Medium (50 - 249)  24,541,219   24,541,219  
+Large (250+)  305,509,455   305,509,455  
+Average71  958,832   1,802,595  
+Source: London Economics analysis of YouGov/IFF Research Survey and DBT Business 
+Population Estimates 
+ 
+This turnover estimate then converted to Gross Value Added (GVA) using estimates for the ratio of 
+GVA to turnover (0.5) as reported in the ONS Input-Output tables.72 
+ 
+Data from the YouGov/IFF Research survey provides estimates for the average amount of 
+investment foregone (by size class) as a result of late payment issues. This is then converted to a 
+GVA impact using a multiplier for the GVA impact of investment. There is no standard multiplier for 
+this, but existing research provides some insight. An analysis published by DIT in 2021 suggests 
+that a £1 million investment in the UK boosts GVA by approximately £98,000 (i.e. roughly 10% of 
+the boost in investment).73 Another publication from the Institute for Government suggests that the 
+elasticity of GDP with respect to the capital stock is between 0.2 and 0.3.74 Given the size of the 
+UK’s capital stock (£5.1 trillion)75 and GDP (£2.85 trillion)76 this suggests that an increase in 
+investment would boost GDP by 11%-17% of the value of the investment. It is therefore assumed 
+in the quantification of the impact of late payment on investment that foregoing investment due to 
+late payments has a cost for the economy equal to 12.5% of the value of that foregone investment.  
+ 
+ 
+71 These averages are weighted average by size class. The reason that the weighted average is higher for 
+businesses affected by late payment is that micro businesses (which have the lowest turnover) are less likely 
+to be affected by late payment.  
+72 The Input-Output tables can be found on the ONS website. The 0.5 estimate is obtained from the ‘IOT’ 
+sheet by dividing gross value added by total output at basic prices.  
+73 The report is available on the gov.uk website. 
+74 The report is available on the Institute for Government website. 
+75 ONS (2024). The national balance sheet and capital stocks, preliminary estimates, UK: 2024. Available on 
+the ONS website. 
+76 House of Commons (2025). Gross domestic product (GDP): Economic indicators. Available in the House 
+of Commons Library. 
+
+[PDF page 57]
+ 
+ 
+55 
+ 
+Annex 2 – Primary data collection 
+ 
+This annex provides detail on the primary data collection conducted as part of this research. This 
+includes the methodological approach, the characteristics of the survey sample and the survey 
+questionnaire.  
+ 
+Methodology 
+The survey was delivered through a mix of online and CATI (Computer Assisted Telephone 
+Interviewing). The reason for this was that while using an online survey enables a greater number 
+of total responses within a given budget, CATI can be more effective for reaching larger 
+businesses. The online survey was delivered using YouGov’s panel, while the CATI survey was 
+delivered by IFF Research. As illustrated in the section below, small, medium and large businesses 
+were oversampled in the fieldwork to ensure that sample sizes were large enough for analysis by 
+size class.  
+ 
+The survey questionnaire was developed by London Economics, with two rounds of feedback 
+received from DBT, OSBC, YouGov, IFF Research and the academic technical advisors. Once the 
+questionnaire was signed off by DBT and OSBC, an online pilot was conducted by YouGov to test 
+the functionality, length and understanding of the questions. The online pilot took place between 
+03/01/25 and 07/01/25. Participants in the pilot were able to provide feedback on whether they fully 
+understood what was being asked of them. Following the pilot, some minor changes were made to 
+the wording of questions 3, 13 and 27 (the survey questionnaire is provided later in this annex).  
+ 
+The main fieldwork ran from 15/01/25 and 07/02/25. Both IFF and YouGov aimed to achieve a mix 
+of business sizes and sectors (with the caveat that the online survey was only targeted at SMEs 
+and the CATI survey only included medium and large sized businesses). Respondents to the CATI 
+survey were given the option to contact a nominated member of the DBT project team in order to 
+verify that the survey was being conducted for the purposes of this research. Once the fieldwork 
+period closed, London Economics, YouGov and IFF Research prepared a single consolidated 
+dataset. As part of this process, verbatim responses to questions were manually recoded where 
+possible to fit in the existing code frame. The final dataset was weighted by size (employment) and 
+sector.  
+ 
+Sample characteristics 
+Table 42 provides an overview of the survey sample.  
+ 
+Table 42: Survey sample composition by size class 
+Size class Online responses CATI responses Total responses 
+Micro 680 0 680 
+Small 437 0 437 
+Medium 225 56 281 
+Large 0 57 57 
+Source: YouGov/IFF Research Survey 
+ 
+Data cleaning 
+The survey data was used to calculate several of the costs arising from late payments. Before the 
+calculation of the costs, the following data cleaning was undertaken:  
+
+[PDF page 58]
+ 
+ 
+56 
+ 
+ 
+• Firstly, banded responses were converted into numerical estimates. For example, in 
+question 23 of the survey businesses were asked how much they spent on legal 
+proceedings against their customers in the last year. If they were unable to provide an 
+exact numerical answer, they were presented with a series of bands (£1-£500, £501-£1,000 
+etc) and asked to indicate how much they spent. Responses to banded questions were 
+converted into a numerical variable by taking the midpoint of the band. In the case of bands 
+with no upper limit (e.g. more than £1 million), double the lower limit of the band was 
+assigned (i.e. £2 million in this case).  
+• After the numerical cost variables had been created, it was also necessary to impute the 
+costs for businesses who did not answer certain questions in the survey. For example, a 
+business that indicated (at question 10) that they did not instruct a law firm to take action 
+against a customer in the last year clearly had a zero legal cost as a result of late payment 
+during that year. Similarly, businesses that indicated they do not offer trade credit to their 
+business customers do also not incur any costs as a result of late payments.  
+• The final step was to assess whether any of the responses seemed implausible. 
+Implausible responses could arise as a result of a mis-click or typo or due to 
+misunderstanding the question. For example, in question 15 it is conceivable that some 
+businesses thought they were being asked to provide the value of debt finance they took 
+out as a result of late payment rather than the cost of servicing that debt.  
+ 
+The conditions for removal of outliers vary based on the researchers view of the plausibility 
+individual responses. In the case of the current value of late payments or the amount of time spent 
+chasing, values which were particularly high relative to the turnover or size of the business were 
+excluded. For the costs associated with late payments, outliers were also identified based on the 
+implied magnitude of the cost relative to turnover or size but also based on the indicated value of 
+late payments. This is because a large response is more likely to be erroneous if the business 
+does not have a large value of late payments, given that it would not make sense for a business to 
+incur large costs to mitigate a very small late payment problem.  
+ 
+For the direct financial costs arising from late payments, the outlier cleaning process included the 
+recoding of observations to missing in the following cases (details of the thresholds for each cost 
+can be found in the table below). 
+ 
+1. The indicated cost is large relative to the turnover of the business. 
+2. The indicated cost is large relative to the turnover of the business and the value of late 
+payments the business experienced at the time of the survey. 
+3. The indicated cost is large for businesses for which no turnover data was available.  
+4. The indicated cost is large in monetary terms for micro or small businesses. 
+5. The indicated cost is large in monetary terms and relative to the value of late payments the 
+business experienced at the time of the survey.  
+ 
+Table 43 summarizes the cases in which variables were recoded to missing as well as the 
+proportion of observations affected (i.e. the observation was excluded from the average calculation 
+for a given cost if any of the conditions in the corresponding row of the table below apply). Whilst 
+the general cleaning process is the same for all of the costs, the numerical thresholds vary across 
+the different costs. The reason for this is for a given business, some costs would have a higher 
+
+[PDF page 59]
+ 
+ 
+57 
+ 
+plausible value than others (in the view of the researchers). For example, many capital investment 
+projects are discrete and therefore if a business decides to defer or cancel an investment as a 
+result of late payments, the size of that investment could be quite significant relative to the turnover 
+of the business. In contrast, it would be highly unlikely that the interest payments on debt finance 
+taken out due to late payments would be as significant relative to the turnover of the business. 
+ 
+Table 43: Steps taken to clean outliers 
+Variable Cases where the variable was recoded to missing Proportion 
+of 
+responses 
+affected 
+Current value of late 
+payments 
+1. Greater than 50% of turnover 
+2. Greater than £500,000 for micro businesses 
+3. Greater than £2,500,000 for small businesses 
+4. Greater than £12,500,000 for medium sized 
+businesses. 
+1% 
+Number of annual staff 
+hours spent chasing late 
+payments 
+1. The number of hours is such that it is estimated 
+that over 10%77 of turnover is spent on staff 
+costs chasing late payments 
+2. Greater than 3,08078 for micro businesses 
+3. Greater than 15,40079 for small businesses 
+4. Greater than 77,00080 for medium sized 
+businesses. 
+<0.5% 
+Value of investment 
+foregone 
+1. Greater than 100% of turnover 
+2. Greater than 25% of turnover and 25 times the 
+current value of late payments 
+3. Greater than £1,000,000 if no turnover data is 
+available. 
+4. Greater than £500,000 for micro businesses or 
+than £2.5 million for small businesses 
+5. Greater than £1,000,000 and 10 times the 
+current value of late payments 
+1% 
+Cost of servicing 
+additional debt finance 
+taken out as a result of 
+late payment 
+1. Greater than 10% of turnover 
+2. Greater than 5% of turnover and 5 times the 
+current value of late payments 
+3. Greater than £250,000 if no turnover data is 
+available 
+4. Greater than £50,00081 for a micro business and 
+£250,00082 for a small business  
+1% 
+ 
+ 
+77 Given the estimated labour cost of £16.92 per hour, this means that the response is considered to be an 
+outlier if the business is indicating that it spends more than 8.5% of its turnover on staff costs to chase late 
+payments.  
+78 This is equivalent to approximately 2 FTE.  
+79 This is equivalent to approximately 10 FTE. 
+80 This is equivalent to approximately 50 FTE. 
+81 The threshold for micro businesses is lowered to £30,000 when turnover is missing, as when turnover is 
+missing businesses are not filtered out by conditions 1 and 2. 
+82 The threshold for small businesses is lowered to £150,000 when turnover is missing, as when turnover is 
+missing businesses are not filtered out by conditions 1 and 2.  
+
+[PDF page 60]
+ 
+ 
+58 
+ 
+Variable Cases where the variable was recoded to missing Proportion 
+of 
+responses 
+affected 
+5. Greater than £500,000 and double the current 
+value of late payments 
+Cost of hiring a debt 
+collection agency 
+     Same as previous 1% 
+Cost of supply chain 
+finance, invoice 
+discounting, invoice 
+factoring and selling 
+overdue invoices 
+     Same as previous 2% 
+Cost of hiring a law firm 
+to take action against 
+unpaid debtors 
+    Same as previous 1% 
+ 
+Survey questionnaire 
+1. [CATI only] How many people (including yourself) are currently employed by your business 
+in the UK? 
+ 
+a) 0 (i.e. sole trader with no employees) 
+b) 1- 9  
+c) 10-49 
+d) 50-249 
+e) 250+ 
+f) Don’t know 
+ 
+CATI ONLY: THANK AND CLOSE (SCREEN OUT) IF ANSWERED a) or b) or c) or f) at Q1. 
+ 
+2. Does your business offer trade credit to business customers? By trade credit we mean 
+agreements between you and your customer to allow them to buy your goods or services 
+without making payment immediately. An example of trade credit would be providing your 
+customer with 30 days to pay after you send them an invoice.  
+ 
+a) Yes 
+b) No 
+c) Don’t know 
+ 
+IF ANSWERED c) at Q2 screen out as don’t have sufficient knowledge to answer the survey. 
+If answered b) at Q2 thank and close as the rest of the questions would not be relevant for them 
+ 
+SHOW/TELL ALL 
+ 
+We will now ask you about the experience of your business with late payments. By late payments 
+we mean payments by your customers after the agreed contractual payment date (i.e. 
+overdue), or contractual payment terms with your customers longer than 60 days. 
+
+[PDF page 61]
+ 
+ 
+59 
+ 
+ 
+ASK ALL 
+ 
+3. Does your business have any overdue sales invoices or any outstanding invoices with 
+payment terms longer than 60 days as of today? 
+ 
+a) Yes, my business has overdue customer sales invoices and outstanding customer 
+invoices with payment terms longer than 60 days as of today 
+b) Yes, my business has overdue customer sales invoices but not outstanding customer 
+invoices with payment terms longer than 60 days as of today 
+c) Yes, my business has outstanding customer invoices with payment terms longer than 
+60 days but not overdue customer invoices as of today 
+d) No, my business does not have outstanding customer invoices or outstanding 
+customer invoices with payment terms longer than 60 days as of today 
+e) Don’t know 
+ 
+SCREEN OUT (OR FIND DIFFERENT PERSON IN COMPANY IN CATI) IF ANSWERED e) at Q3 
+as not appropriate to answer the survey 
+ 
+ASK IF ANSWERED a), b) or c) at Q3 
+ 
+4. What proportion of the sales invoices you have issued, as measured by the total number of 
+your issued sales invoices, would you estimate are [overdue or have payment terms of 
+longer than 60 days [(if a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 
+60 days [if c) at Q3]] as of today? 
+ 
+a) 1- 10% (code 1) 
+b) 11-24% (code 2) 
+c) 25-49% (code 3) 
+d) 50-74% (code 4) 
+e) 75% or more (code 5) 
+f) Don’t know (code 6) 
+ 
+ASK IF ANSWERED a), b) or c) at Q3 
+ 
+5. What proportion of the sales invoices you have issued, as measured by the total value of 
+your issued sales invoices, would you estimate are [overdue or have payment terms of 
+longer than 60 days [(if a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 
+60 days [if c) at Q3]] as of today? 
+ 
+a) 1- 10% (code 1) 
+b) 11-24% (code 2) 
+c) 25-49% (code 3) 
+d) 50-74% (code 4) 
+e) 75% or more (code 5) 
+f) Don’t know (code 6) 
+
+[PDF page 62]
+ 
+ 
+60 
+ 
+ 
+ASK IF ANSWERED a), b) or c) at Q3 
+ 
+6. What is the approximate total value of your invoices that are [overdue or have payment 
+terms of longer than 60 days [(if a) at Q3)]/overdue [if b) at Q3]/have payment terms of 
+longer than 60 days [if c) at Q3]] as of today? 
+ 
+a) [INSERT NUMBER] 
+b) Don’t know 
+ 
+ASK IF ANSWERED b) at Q6 
+ 
+7. And would you say that the total value of your invoices that are [overdue or have payment 
+terms of longer than 60 days [(if a) at Q3)]/overdue [if b) at Q3]/have payment terms of 
+longer than 60 days [if c) at Q3]] as of today is…  
+ 
+a) £1-£1,000 (code 1) 
+b) £1,001-£5,000 (code 2) 
+c) £5,001-£10,000 (code 3) 
+d) £10,001-£20,000 (code 4) 
+e) £20,001-£50,000 (code 5) 
+f) £50,001-£100,000 (code 6) 
+g) £100,001-£1,000,000 (code 7) 
+h) More than £1 million (code 8) 
+i) Don’t know (code 9) 
+ 
+ASK IF ANSWERED a) or b) at Q3 
+ 
+8. Thinking about all of your business’ overdue invoices today, which of the following would 
+you say accounts for highest share of the value of your overdue invoices?  
+ 
+a) 1 to 14 days overdue 
+b) 15 to 29 days overdue 
+c) 30 to 59 days overdue 
+d) More than 60 days overdue 
+e) Don’t know 
+ 
+ASK IF IF ANSWERED a), b) or c) at Q3 
+ 
+9. Thinking about all of your business’ invoices that are [overdue or have payment terms of 
+longer than 60 days [(if a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 
+60 days [if c) a
+t Q 3]], would you say these invoices are mostly from UK-based customers or 
+mostly from non-UK customers? 
+ 
+
+[PDF page 63]
+ 
+ 
+61 
+ 
+a) All of our invoices that are [overdue or have payment terms of longer than 60 days [(if 
+a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 60 days [if c) at 
+Q3]]are from UK customers 
+b) Most of our invoices that are [overdue or have payment terms of longer than 60 days [(if 
+a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 60 days [if c) at Q3]] 
+are from UK customers but some are from non-UK customers 
+c) Roughly half of our invoices that are [overdue or have payment terms of longer than 60 
+days [(if a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 60 days [if c) 
+at Q3]] are from UK customers and roughly half are from non-UK customers 
+d) Most of our invoices that are [overdue or have payment terms of longer than 60 days [(if 
+a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 60 days [if c) at Q3]] 
+are from UK customers but some are from non-UK customers 
+e) All of our invoices that are [overdue or have payment terms of longer than 60 days [(if 
+a) at Q3)]/overdue [if b) at Q3]/have payment terms of longer than 60 days [if c) at Q3]] 
+are from foreign customers 
+f) Don’t know 
+ 
+ASK ALL 
+ 
+10. We will now ask you about the impact of late payments on your business. By late 
+payments we mean payments by your customers after the agreed contractual 
+payment date (i.e. overdue), or contractual payment terms with your customers 
+longer than 60 days. 
+ 
+ONLINE: Over the last year, has your business done any of the following as a result of late 
+payments? Please select all that apply.   
+ 
+As a result of late payments have you ….  
+ 
+Present grid as follows in online:  
+
+[PDF page 64]
+ 
+ 
+62 
+ 
+ Yes (code 1) No (code 2) Don’t know 
+(code 3) 
+Decided to invest less  
+than the business 
+would have done 
+(Q10_1) 
+○ ○ ○ 
+Decided to reduce 
+headcount  more than 
+the business would 
+have done  (Q10_2) 
+○ ○ ○ 
+Decided to take out 
+debt finance that the 
+business would not 
+have taken out  
+(Q10_3) 
+○ ○ ○ 
+Decided to inject 
+personal funds into 
+the business that 
+would otherwise not 
+have been injected 
+(Q10_4) 
+○ ○ ○ 
+Decided to raise 
+equity finance that the 
+business would not 
+have raised (Q10_5) 
+○ ○ ○ 
+Spent staff time 
+chasing unpaid 
+debtors? (Q10_6) 
+○ ○ ○ 
+Commissioned a debt 
+collection agency to 
+chase debtors? 
+(Q10_7) 
+○ ○ ○ 
+Used supply chain 
+finance, invoice 
+factoring, invoice 
+discounting or sold 
+overdue invoices to a 
+debt recovery 
+organization (Q10_8) 
+○ ○ ○ 
+Raised prices of the 
+goods and services 
+that the business sells 
+(Q10_9)  
+○ ○ ○ 
+Started legal 
+proceedings against 
+one of your customers 
+that have not paid on 
+time (Q10_10)  
+○ ○ ○ 
+ 
+
+[PDF page 65]
+ 
+ 
+63 
+ 
+CATI: Over the last year, has your business [INSERT OPTIONS FROM ABOVE, USE SAME 
+CODES AS ONLINE. ROTATE] as a result of some of late payments? 
+ 
+IF ANSWERED NO OR DK TO ALL ITEMS IN Q10 SKIP TO Q25 
+ 
+ASK IF responded yes at Q10_1 
+ 
+11. You said that your business would have made more investment in the last year if not for 
+late payments. What would be the total value (in GBP) of the additional investment your 
+business would have made in the last year if your business never had any late payments? 
+If you are not sure, please provide your best estimate.  
+ 
+a) [provide number] 
+b) Don’t know 
+ 
+ASK IF ANSERED b) at Q11 
+ 
+12. Would you say the amount of additional investment your business would have made in the 
+last year if it had not had any late payments would have been…?  
+ 
+a) £1-£1,000 (code 1) 
+b) £1,001-£10,000 (code 2) 
+c) £10,001-£100,000 (code 3) 
+d) £100,001-£1,000,000 (code 4) 
+e) £1,000,001-£10,000,000 (code 5) 
+f) More than £10,000,000 (code 6) 
+g) Don’t know (code 7) 
+ 
+ASK IF responded yes at Q10_1 
+ 
+13. And what type of investment would this have been? If there would have been more than 
+one type of investment, please indicate the type that would have accounted for the largest 
+total value of the investment that was not undertaken. 
+ 
+a) Plant or machinery (code 1) 
+b) Research and development (code 2) 
+c) Training and skills development for employees (code 3) 
+d) Marketing (code 6) 
+e) Other (code 4) 
+f) Don’t know (code 5) 
+ 
+ASK IF responded yes at Q10_3 
+ 
+14. You said that your business took on debt finance in the last year that it would not have 
+taken on if all of it had not had any late payments. What kind of debt was this? If there is 
+more than one, please [online:select/CATI:tell me] the type that accounts for the largest 
+value of debt finance. 
+
+[PDF page 66]
+ 
+ 
+64 
+ 
+ 
+a) Loan (code 1) 
+b) Invoice finance (code 2) 
+c) Trade credit (code 3) 
+d) Asset finance (code 4) 
+e) Other [please specify] (code 5) 
+f) Don’t know (code 6) 
+ 
+ASK IF responded yes at Q10_3 
+ 
+15. And what is the annual cost of servicing this extra debt? If you are not sure, please provide 
+your best estimate.  
+ 
+a) [provide number] 
+b) Don’t know 
+ 
+ASK IF RESPONDED b) at Q15 
+ 
+16. Would you say that the annual cost of servicing this extra debt is…?  
+ 
+a) £1-£100 (code 1) 
+b) £101-£1,000 (code 2) 
+c) £1,001-£10,000 (code 3) 
+d) £10,001-£100,000 (code 4) 
+e) More than £100,000 (code 5) 
+f) Don’t know (code 6) 
+ 
+ASK IF responded yes at Q10_6 
+ 
+17. You said that your business does spend staff time chasing late payments. In the last month, 
+how many hours would you say have been spent by your staff chasing late payment? If you 
+are not sure, please provide your best estimate. 
+ 
+a)  [provide number] 
+b) Don’t know 
+ 
+ASK IF responded b) at Q17 
+ 
+18. And would you say that the number of hours spent by the staff of your business chasing 
+late payments in the last month is…?  
+ 
+a) Less than one hour (code 1) 
+b) More than one hour, less than 2 hours (code 2) 
+c) More than 2 hours, less than 5 hours (code 3) 
+d) More than 5 hours, less than 10 hours (code 4) 
+e) More than 10 hours, less than 50 hours (code 5) 
+
+[PDF page 67]
+ 
+ 
+65 
+ 
+f) More than 50 hours, less than 100 hours (code 6) 
+g) More than 100 hours (code 7) 
+h) Don’t know (code 8) 
+ 
+ASK IF responded yes at Q10_7 
+ 
+19. You said that your business has commissioned a debt collection agency to chase unpaid 
+debts during the last year. How much has your business spent commissioning debt 
+collection agencies in the last year? If you are not sure, please provide your best estimate.  
+ 
+a) [provide answer] 
+b) Don’t know 
+ 
+ASK IF responded b) at Q19 
+ 
+20. Would you say that the amount your business has spent commissioning debt collection 
+agencies in the last year is…? 
+ 
+a) £1-£100 (code 1) 
+b) £101-£1,000 (code 2) 
+c) £1,001-£5,000 (code 3) 
+d) £5,001-£10,000 (code 4) 
+e) £10,001-£100,000 (code 5) 
+f) More than £100,000 (code 6) 
+g) Don’t know (code 7) 
+ 
+ASK IF responded yes to Q10_8 
+ 
+21. You said that your business had used supply chain finance, invoice discounting, invoice 
+factoring or sold overdue invoices to a debt recovery agency during the last year. What are 
+the total losses (i.e. the difference between what you would have received without late 
+payments and what you actually received) in the last year for your business from 
+undertaking these activities? If you are not sure, please provide your best estimate.  
+ 
+a) [Provide answer] 
+b) Don’t know 
+ 
+ASK IF responded b) at Q21 
+ 
+22. Would you say that these losses in the last year would have been…?  
+ 
+a) £1-£100 (code 1) 
+b) £101-£1,000 (code 2) 
+c) £1,001-£5,000 (code 3) 
+d) £5,001-£10,000 (code 4) 
+e) £10,001-£100,000 (code 5) 
+
+[PDF page 68]
+ 
+ 
+66 
+ 
+f) More than £100,000 (code 6) 
+g) Don’t know (code 7) 
+ 
+ASK IF responded yes to Q10_10 
+ 
+23. You said that your business had started legal proceedings against customers that have not 
+paid you on time during the last year. Please estimate how much you spent in legal fees 
+over the last year on these activities. If you are not sure, please provide your best estimate.  
+ 
+a) [Provide answer] 
+b) Don’t know 
+ 
+ASK IF ANSWERED b) at Q23 
+ 
+24. Would you say the amount spent by your business on legal proceedings against customers 
+that had not paid you on time during the last year were…?  
+ 
+a) £1-£500 (code 1) 
+b) £501-£1,000 (code 2) 
+c) £1,001-£5,000 (code 3) 
+d) £5,001-£10,000 (code 4) 
+e) £10,001-£50,000 (code 5) 
+f) £50,001-£100,000 (code 6) 
+g) £100,001-£1,000,000 (code 7) 
+h) More than £1 million (code 8) 
+i) Don’t know (code 9) 
+ 
+ASK ALL EXCEPT THOSE SKIPPING TO THE FINAL QUESTION AFTER Q10 
+ 
+25. To what extent do late payments pose a risk for the survival prospects of your business? 
+ 
+a) No risk at all (code 1) 
+b) A small risk (code 2) 
+c) A moderate risk (code 3) 
+d) A major risk (code 4) 
+e) Don’t know (code 5) 
+ 
+ASK ALL 
+ 
+26. Does your business use any software to manage its invoices (e.g. Xero, Sage)? 
+ 
+a) Yes 
+b) No 
+c) Don’t know  
+ 
+ASK ALL, DO NOT ROTATE 
+ 
+
+[PDF page 69]
+ 
+ 
+67 
+ 
+27. What, if anything has your business implemented over the last year in order to mitigate the 
+impact of late payments? Please select all that apply.  
+ 
+a) Introduced or increased an overdue penalty on your sales invoices (code 1) 
+b) Decided not to operate in a particular market segment which has a significant 
+proportion of customers that pay late (code 2) 
+c) Avoided doing businesses with specific customers that have a reputation for paying late 
+(code 3) 
+d) Chased invoices before the stipulated payment date (code 7) 
+e) Requested a PO prior to delivery of the goods/ services (code 8) 
+f) Other (open end) (code 4) 
+g) Not applicable – our business has not done anything to mitigate the impact of late 
+payments (code 5) 
+h) Don’t know (code 6) 
+ 
+You have reached the end of the survey. Thank you for your participation.   
+
+[PDF page 70]
+ 
+ 
+68 
+ 
+Annex 3 – Academic literature review and initial 
+methodology 
+ 
+This annex provides detail on a literature review and early methodological work completed, on 
+behalf of DBT, by academics at Aston Business School (Dr. Dalila Ribaudo and Dr. Muntasir 
+Shami). This work took place between January and March 2024, and has informed the research 
+completed by London Economics.83 
+ 
+Understanding the late payment problem 
+Businesses in the UK often offer their customers ‘trade credit’, where payment by the customer is 
+permitted after the delivery of the goods or services. This can lead to a situation where businesses 
+experience delays in receiving payment, which can cause cash flow problems for businesses. 
+Businesses are impacted both when invoices are paid beyond the agreed or contractual payment 
+date and when long payment terms are imposed.  
+ 
+Importantly, late payment can cause cash flow problems for businesses, incur costs in terms of 
+‘chasing’ payments, and in the worst cases force businesses to shut down. Empirical work has 
+mostly focussed on the impact on exit rate and how firms exiting the market may represent the 
+bigger loss to the economy. The pioneering contribution by Wilson et al. (1997) identifies the 
+primary causes for late payment in the UK, and still serves as a fundamental framework for 
+understanding its causes and effects. The main driving forces are:  
+ 
+• Market Structure: In markets where dominant buyers hold significant bargaining power, 
+they may exploit their position by demanding extended credit from suppliers. This 
+behaviour is prevalent in markets with competitive supply chains, allowing buyers to dictate 
+credit terms and pay late without fearing a supply loss. Bargaining power may result in 
+longer credit periods, invoice discounts, and high delivery standards, especially in 
+industries like construction and IT provision. 
+• Poor Business and Credit Management Practices: Late payment can also result from 
+inadequate business and credit management. Disputes over product or service quality may 
+lead customers to withhold payments until satisfied. Effective credit management involves 
+establishing clear credit terms, limits, and periods before a transaction. It also requires 
+credit checks on customers to assess their financial health and resolve disputes promptly. 
+• Financial Distress and Economic Climate: Businesses facing financial difficulties, often 
+due to technology changes, management errors, or inefficiencies, may prioritize creditors 
+differently during financial struggles. In times of economic downturns, late payments and 
+business failures may increase. Overtrading in growth phases can also lead small 
+businesses to become late payers. 
+• Access to Finance Issues: Small and growing businesses may encounter cash-flow 
+challenges and late payments when struggling to secure institutional or bank finance. 
+Undercapitalized or inappropriately financed businesses constantly battle with cash-flow 
+issues. Research has shown that credit rationed firms, particularly those serving export 
+ 
+ 
+83 London Economics had no involvement in the preparation of this annex.  
+
+[PDF page 71]
+ 
+ 
+69 
+ 
+markets, tend to delay trade credit payments when reaching their short-term bank finance 
+limits. 
+ 
+The payment terms to which firms must abide is regulated by law. In the UK , The Late Payment of 
+Commercial Debts (Interest) Act 1998 allows businesses to impose interest and debt recovery costs 
+on late payments and sets default payment terms at 30 days. The Reporting on Payment Practices 
+and Performance Regulations 2017 requires large businesses to regularly report on their payment 
+performance. 
+ 
+Estimating the economic impact of late payment 
+What happens when firms fail to pay an invoice? It causes cash flow problems and other issues that 
+firms need to tackle, for example: 
+ 
+• Firms need to chase their creditors. This represent a cost per se, because the time spent in 
+chasing that payment is time foregone to engage in other business activities, i.e. it has an 
+opportunity cost. This is usually estimated by: 
+ 
+E
+quation 4:  𝑇𝑇𝐷𝐷
+𝐼𝐼𝑎𝑎
+𝑇𝑇 𝐷𝐷
+𝐷𝐷𝐼𝐼𝐼𝐼= 𝑁𝑁
+𝑁𝑁𝐼𝐼𝑁𝑁
+𝐼𝐼𝑃𝑃 𝐷𝐷
+𝑜𝑜 ℎ𝐷𝐷𝑁𝑁
+𝑃𝑃𝐼𝐼 𝐷𝐷ℎ𝑎𝑎𝐼𝐼
+𝐹𝐹𝐼𝐼𝑎𝑎 𝐷𝐷
+𝑎𝑎
+𝑝𝑝𝐼𝐼
+𝐼𝐼𝐼𝐼𝐼𝐼 × 𝐻𝐻
+𝐷𝐷𝑁𝑁𝑃𝑃𝑇𝑇𝑝𝑝 𝑤𝑤𝑎𝑎𝑎𝑎𝐼𝐼 
+ 
+• T
+o compensate for the unpaid invoices, firms may tap into their overdraft or try to access 
+other forms of credit e.g. a loan. However, this is not available to all firms and oftentimes 
+SMEs do not have the same access to credit of their larger counterparts. One way to estimate 
+this cost is using the Simple Interest Formula: 
+ 
+E
+quation 5:  𝑇𝑇𝐷𝐷
+𝐼𝐼𝑎𝑎
+𝑇𝑇 𝑎𝑎
+𝐷𝐷𝐷𝐷𝑃𝑃𝑁𝑁𝐼𝐼𝐹𝐹 𝐹𝐹
+𝐼𝐼𝐼𝐼𝐼𝐼𝑃𝑃𝐼𝐼𝐼𝐼𝐼𝐼= 𝑃𝑃
+𝑃𝑃𝐹𝐹
+𝐼𝐼𝐷𝐷𝐹𝐹𝐷𝐷𝑎𝑎𝑇𝑇 𝑁𝑁
+𝐷𝐷𝑃𝑃𝑃𝑃𝐷𝐷𝑤𝑤𝐼𝐼𝐹𝐹 𝑎𝑎𝐼𝐼
+𝐷𝐷𝑁𝑁𝐼𝐼𝐼𝐼 (1 + 𝑃𝑃
+𝐼𝐼) 
+ 
+  W
+here 𝑃𝑃 i
+s the interest rate, and 𝐼𝐼 i
+s the length of borrowing in months or years. 
+ 
+• W
+hen firms can no longer meet its own payment obligations they could shut down and exit 
+the market. This can be considered the biggest costs to the economy. When firms exit the 
+market there is a loss that can be estimated in terms of displaced jobs, lost output or Gross 
+Value Added. The latter aspect is the one most emphasised and addressed in the economic 
+literature.  
+ 
+E
+quation 6:  𝐺𝐺𝐺𝐺𝐺𝐺 𝑇𝑇
+𝐷𝐷𝐼𝐼𝐼𝐼 = 𝐵𝐵𝑁𝑁
+𝐼𝐼𝐹𝐹𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 𝐼𝐼
+𝑁𝑁𝑃𝑃𝐼𝐼𝐷𝐷𝐼𝐼𝐼𝐼𝑃𝑃
+ × 𝑇𝑇𝑁𝑁
+𝑃𝑃𝐼𝐼𝐷𝐷𝐼𝐼𝐼𝐼𝑃𝑃 𝐼𝐼
+𝐷𝐷 𝐺𝐺
+𝐺𝐺𝐺𝐺 𝑃𝑃
+𝑎𝑎𝐼𝐼𝐹𝐹𝐷𝐷 
+ 
+Contextual academic literature and other research 
+Late payment creates uncertainty for many creditors and may affect employment strategies. In 
+Germany, 35% of companies reported that late payment strongly influenced their need to lay off 
+employees (similarly 30% in the UK, 28% in Spain, and 25% in France). On average, 40% of 
+European business managers stated that late payment contributed to their decision not to hire new 
+staff, while one out of four European companies mentioned job cuts as a consequence of late 
+payments (Hausemer et al., 2015).  
+ 
+Late payments can also negatively impact the functioning of the internal market and cross- border 
+trade. Many businesses view cross-border trade with businesses or public authorities from other EU 
+Member States as riskier due to the frequency of late payments and uncertainty in dealing with late 
+
+[PDF page 72]
+ 
+ 
+70 
+ 
+payers. Consequently, companies may avoid engaging in cross -border trade, which hampers the 
+functioning of the internal market. Ultimately, late payments can result in insolvency, leading to the 
+loss of 450,000 jobs annually and outstanding debts of EUR 23.6 billion in the EU. 
+ 
+Focusing on bad debt, Intrum Justitia reported that in 2014 total losses for European businesses had 
+increased from 3.0 to 3.1% of revenues, roughly equalling the cost of 8 million jobs  (Hausemer et 
+al., 2015). Research by NatWest has revealed that more than a quarter (27%) of small and medium-
+sized businesses in the UK are owed between £5,000 and £20,000 in unpaid invoices. Late 
+payments have had a widespread impact, with 36% of SMEs reporting that over a third of their 
+monthly payments arrive late.  
+ 
+The situation is particularly dire for London businesses, with 41% experiencing delayed payments. 
+SMEs make up nearly two thirds (61%) of UK employment and play a crucial role in the economy. 
+Over half (55%) report an increase in late payments over the past six months due to rising costs. 
+Spending significant time chasing invoices is also taking its toll on small businesses as many as 31% 
+spend between 21- 30 hours per month on this task instead of focusing on customer service or 
+business growth strategies. Cashflow issues are exacerbating the challenges, identified as the most 
+pressing issue for 44% of businesses who struggle to plan effectively or meet financial obligations 
+to suppliers and staff (Natwest, 2023). 
+ 
+According to a survey conducted by Barclays, UK SMEs were owed £8.3 billion at the end of 
+February 2008 due to late payment. The time spent chasing late payers constituted more than four 
+million wasted working hours or 544,640 wasted working days (Paul et al., 2011). Additionally, firms 
+at times utilize  downstream cost-shifting needs to  delay trade credit payments for more flexible 
+working capital management. However, this will typically have a negative impact on supply chain 
+management. There is a trade-off between the flexibility gained from late payments and the risk of 
+jeopardizing supply chain relationships, which incur high switching costs to replace suppliers (Wu et 
+al., 2020).  
+ 
+Another important impact on businesses is the cost of administrative burdens which can include 
+administrative penalties owed due to late payments. The Federation of Small Businesses (FSB) has 
+found that late payments have a significant impact on small businesses. Specifically, 37% of firms 
+experience cash flow difficulties, and at least 30% are forced to use an overdraft to address the 
+issue. Moreover, chasing late payments creates substantial administrative burdens for small 
+businesses; thirty-five percent report spending an average of 1.2 whole days per month on this task.  
+ 
+The FSB's findings also indicate that late payments can significantly affect business performance: 
+about 20% of small businesses experience reduced profit growth due to them. Additionally, 16% 
+have had to postpone investments, and 8% have delayed hiring new staff, demonstrating a tangible 
+effect on productivity, growth, and overall economic performance. 
+ 
+At the macroeconomic level inflation is key to mention. Inflation reduces the real value of debt, and 
+paying late means paying less. While inflation itself affects late payments only to a limited extent, it 
+may have indirect effects as central banks take action to curb inflation by raising interest rates. This 
+can negatively affect economic growth, firms’ liquidity, and their financing options, thus impacting 
+late payments too. Inflation increases business risks by making it more difficult to predict input factor 
+prices. In a high- inflation environment, enterprises may find it challenging to pay their bills when 
+prices sharply increase. During times of high -interest rates, delaying payment becomes very 
+attractive as long as it does not entail paying interest (Hausemer et al., 2015). 
+ 
+Existing econometric approaches 
+
+[PDF page 73]
+ 
+ 
+71 
+ 
+The extant empirical evidence on late payments majorly focusses on to the impact on firm exit. When 
+firms face cash flow issues the ultimate effect is that they exit the market because they cannot meet 
+their payment obligations. Such obligations are established by the law, which intervenes on 
+regulating the maximum payment terms that firms and public authorities must abide to. The most 
+common approach to estimate the causal effects of policy interventions is the Difference- in-
+Difference research design (DiD). The ‘canonical’ version of DiD involves two periods and two 
+groups. The untreated group never participates in the treatment, and the treated group becomes 
+treated in the second period, meaning we can observe an average before-after effect. 
+ 
+To estimate the effects of late payments on firm exit rates, Connell (2015) employ a panel data for 
+17
+84 EU countries over the period 2005-2010 across 9 sectors85. Regressions are run separately for 
+the effects on firms’ exit rates of payment delay in Government-to-Business (G2B) and Business-to-
+Business (B2B) transactions as it could be argued that past due payments from the private sector 
+are not independent from late payments in the public sector. This consideration might substantiate 
+a bias in the estimations by trying to explain firm exit rates by late payment in the private sector 
+without taking that into account.  
+ 
+The idea is that the effect on private firms of late payments by the public administration could create 
+spillovers to other private firms in the form of late payments in B2B. The effect needs to be analysed 
+based on firm size. Government transactions are more likely to involve large firms, while transactions 
+between private firms are more likely to impact SMEs. 
+ 
+Additional control variables follow the extant literature on determinants of exit rates (Connell, 2014, 
+D'Costa et al., 2024) and these include: investment per person, employment, average size of firm, 
+age of the firm, productivity (measured as labour productivity or Total Factor Productivity, see 
+Levinsohn and Petrin (2003). These variables can be seen as 'sunk costs' in the sense that larger 
+firms have more invested in their workforce, leading to higher costs associated with exiting the 
+market, such as job displacement. Alternative to firm -control variables, sectoral dummies can be 
+included in the model as the level of investments and size of the firm can be very sector-specific. 
+Country fixed effects are also included to control for national time invariant characteristics which are 
+expected to affect exit rates. 
+ 
+Finally, changes in value added at the sectoral level are included to capture changes in the economic 
+cycle, which also allow to indirectly control for financial conditions. An alternative approach could be 
+to include a dummy between 2008- 2010, i.e. a ‘crisis’ dummy. The first approach is preferred 
+because changes in value added also contain information at the sectoral level (investments, taxes, 
+etc). 
+ 
+Conti et al. (2021) study  to what extent stricter regulations affect firms’ survival, focussing on G2B 
+transactions, exploiting the introduction of the Late Payment Directive (LPD, EU Directive 
+2011/7/EU)
+86 across the EU in 2011, by implementing a Differences -in-differences (DiD) research 
+design. They use cross -sector panel data for a sample of 23 European countries over the period 
+ 
+ 
+84 Italy, Spain, Portugal, Greece, Austria, Belgium, Czech Republic, Germany, Denmark, Estonia, Finland, 
+France, Hungary, Netherlands, Poland, Sweden, Slovakia and United Kingdom.  
+85 Mining, Manufacturing, Electricity and Gas and Water supply, Construction, Wholesale and retail trade, 
+Hotels and restaurants, Transport and storage, Real estate and business activities, human health and social 
+work activities. 
+86 For a thorough review and outline of different policy options to the late payment problem in the EU see 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=SWD:2023:314:FIN  
+
+[PDF page 74]
+ 
+ 
+72 
+ 
+2008-2015 and leverage exogenous variation in payment terms brought about by the adoption of the 
+LPD. Data are drawn from the Structural Business Statistics database which is the main source and 
+provides information about the structure and performance of economic activities at the NACE 2-digitl 
+level. Data are subsequently integrated with data from the OECD Database for Structural Analysis 
+(STAN), the World Bank, the WIOD, and Intrum survey data on national payment terms. 
+ 
+The identification strategy rests on cross -sector and cross -country differences in governments’ 
+purchases of goods and services and different timing of adoption across countries. Sectors that have 
+little transactions with the government constitute the control  group. Conversely, those that sell a 
+large fraction of their output to the government are the treatment group. 
+ 
+The standard case for applying the DiD method is when a change in the regulation, law, economic 
+event (treatment) affects only a group of units, and another group (the controls) is similar in all other 
+characteristics but is not affected by the intervention.  
+ 
+Both groups are observed over a period of time that crosses the adoption of the policy, the policy 
+effect is captured by taking the mean outcome of the treated group with changes in the mean 
+outcome of the control group.  
+ 
+All sectors in this context are bound to comply with the LPD, however sectors differ in the volume of 
+trade with the public administration, and this creates different treatment intensities. Therefore, 
+exposure to the law is defined on the basis of sectoral  dependence on the government, measured 
+by the fraction of a sector’s output over total output that is purchased by a public administration. The 
+indicator of treatment intensity is built using data from the World Input Output Database (WOID).
+87  
+ 
+These data provide sector -by-sector flows of final and intermediate goods and services for each 
+country each year. The indicator is calculated in 2000 and assumes that the interconnection between 
+sectors remain stable. The more a sector in a country sells to the government, the more that sector 
+is exposed to the LPD, and hence the higher the expected impact on the firms in that sector.  
+ 
+The DiD econometric design is explained below. 
+ 
+E
+quation 7: 𝑝𝑝𝑠𝑠𝑠𝑠𝑡𝑡= 𝛼𝛼+ 𝛾𝛾(𝐷𝐷𝐼𝐼𝐷𝐷𝐼𝐼 𝐼𝐼𝐹𝐹𝐼𝐼𝐼𝐼𝐷𝐷𝐼𝐼𝑠𝑠𝑠𝑠× 𝑃𝑃𝐷𝐷 𝐼𝐼𝐼𝐼𝑠𝑠𝑡𝑡) + 𝛽𝛽′𝑥𝑥𝑠𝑠𝑠𝑠𝑡𝑡+ 𝑜𝑜𝑠𝑠𝑡𝑡+ 𝑜𝑜𝑠𝑠𝑡𝑡+ 𝑜𝑜𝑠𝑠𝑠𝑠𝑥𝑥𝐼𝐼+ 𝑁𝑁𝑠𝑠𝑠𝑠𝑡𝑡 
+ 
+• y sct represents the firms' exit rate in sector 𝐼𝐼 i n country 𝐷𝐷 and y ear 𝐼𝐼 
+• 𝐷𝐷𝐼𝐼𝐷𝐷𝐼𝐼
+𝐼𝐼𝐹𝐹𝐼𝐼𝐼𝐼𝐷𝐷𝐼𝐼𝑠𝑠𝑠𝑠 measures the degree of dependence on the government for sector 𝐼𝐼 i n country 
+𝐷𝐷 i
+n 2000 
+• 𝑃𝑃𝐷𝐷
+𝐼𝐼𝐼𝐼𝑠𝑠𝑡𝑡 is a binary variable equal to one for country 𝐷𝐷 w hen the LPD is in place and zero 
+otherwise 
+• 𝑥𝑥𝑠𝑠𝑠𝑠𝑡𝑡 is a vector of controls that varies at the country, sector, and year levels 
+• 𝑜𝑜𝑠𝑠𝑡𝑡 is a group of country -year fixed effects that capture shocks common to all sectors in a 
+country 𝐷𝐷 and
+ year 𝐼𝐼 s
+uch as macroeconomic shocks and potential political cycles that may 
+explain why some countries adopted the LPD earlier than others 
+• 𝑜𝑜𝑠𝑠𝑡𝑡 is a group of sector-year fixed effects that take into account factors common to each sector 
+in a given year, such as technological progress and fluctuations of world demand 
+ 
+ 
+87 WIOD 2016 Release | WIOD | Groningen Growth and Development Centre | University of Groningen  
+
+[PDF page 75]
+ 
+ 
+73 
+ 
+• 𝑜𝑜𝑠𝑠𝑠𝑠𝑥𝑥𝐼𝐼 i s a group of country -sector linear time trends that eliminate differential trends in the 
+focus variable that might invalidate the parallel -trends assumption- the key identifying 
+assumption required for the validity of a DiD model 
+•
+ 𝑁𝑁𝑠𝑠𝑠𝑠𝑡𝑡 is the disturbance term 
+ 
+For
+ a given level of sector exposure, the impact of the LPD is estimated by comparing changes in 
+firms' exit rates in sectors in adopting countries with changes in firms' exit rates in nonadopting 
+countries. The expected the sign of the parameter 
+𝑝𝑝𝑠𝑠𝑠𝑠𝑡𝑡 is to be negative, an indication of firms’ lower 
+exit rates after the implementation of the directive in country -sector units with stronger commercial 
+ties to the government as compared with country sector units with weaker economic relationships 
+with the government. 
+ 
+C
+onti et al. (2021) find that the late payment directive reduced the exit rate of firms trading more with 
+government as compared with those that trade less, and the magnitude depends on the degree of 
+dependence on the government purchases.  The decline in companies exiting the market is 
+influenced by several factors, including a country's average initial payment delays, the prevalence 
+of numerous small firms, and the level of corruption. Additional specifications offer suggestive 
+evidence of a rise in employment after policy implementation, though conclusive results for entry and 
+investment rates are not firmly established. This evidence implies that government initiatives 
+mandating all public sector entities to settle invoices within 30 days enable businesses to access 
+rightfully owed funds, consequently easing their financial constraints. 
+ 
+In the same context, (Ferrara and Ferraresi, 2022) explained the economic impact of faster payments 
+in B2B commercial transactions following the implementation of the LPD directive in the EU, using 
+firm-level data over the period 2008- 2018 in nine European countries (Belgium, Germany, Spain, 
+France, Finland, Hungary, Italy and the Netherlands). Applying a DiD econometric design, the 
+authors used the average change over time of firms’ cash flow for a group of firms exposed to the 
+directive (i.e. the treatment group), on which the LPD could have a greater impact with respect to 
+the average change of the same variable for a group of firms whose business activity is expected to 
+be less exposed to the Directive (i.e. the control group).  
+ 
+A company's level of exposure to the directive can be gauged by the average number of days it takes 
+to collect its credits. The assumption is that the longer it took for a company to collect money from 
+its creditors prior to the LPD, the higher the likelihood of being exposed to late payments from other 
+firms. Consequently, such firms might potentially benefit from adopting the LPD. 
+ 
+Conversely, for companies already adhering to the Directive's credit collection provisions, the 
+expected impact of its introduction is relatively low. Therefore, firms with extended payment durations 
+to collect credits are categorized as the treatment group, while those with shorter payment durations 
+constitute the control group. Comparing the average change in a response variable between these 
+two groups helps isolate the causal effect of the LPD from other underlying factors influencing the 
+economy.  
+ 
+The main independent variable is an exposure indicator based on Orbis data calculated as the ratio 
+between Credits and Operative Revenue (x 360). The variable needs to be compared in the periods 
+before and after the exposure by taking the mean value of the average number of days a firm needs 
+to collect its credits over the period 2008-2010. Taking the mean value instead of the absolute value 
+before and after 2011 starting from the 2008, addresses potential endogeneity issues due to the 
+exposure embodying the impact of the policy itself, which makes the number of days potentially very 
+
+[PDF page 76]
+ 
+ 
+74 
+ 
+different if measured in 2000 or 2010. This is reinforced by the fact that the financial crisis in 2008 
+has severely impacted the number of days taken by firms to collect credits and therefore taking an 
+even earlier period can lead to a biased conclusion – for instance the LPD has had no effect. 
+ 
+On top of this, considering a treatment variable – the average collection days – allows the information 
+to be similar to that observed in the year of the transposition of the LPD, while making sure that the 
+indicator does not vary with unobservable shocks which can simultaneously impact firms’ outcomes, 
+i.e. reverse causality issues.  
+ 
+E
+quation 8: 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑡𝑡= 𝛼𝛼+ 𝛾𝛾(𝐶𝐶𝑃𝑃 𝐼𝐼𝐹𝐹𝐹𝐹𝐼𝐼𝐼𝐼 𝐷𝐷 𝐷𝐷𝑇𝑇𝑇𝑇𝐼𝐼𝐷𝐷𝐼𝐼𝐹𝐹𝐷𝐷𝐼𝐼 𝑜𝑜2008−2010) × 𝐷𝐷 𝐷𝐷𝐼𝐼𝐼𝐼𝑠𝑠𝑡𝑡+ 𝛿𝛿 𝑥𝑥𝑜𝑜𝑡𝑡+ 𝑜𝑜𝑡𝑡+ 𝑜𝑜𝑠𝑠+𝑜𝑜𝑡𝑡𝑠𝑠+ 𝑁𝑁𝑠𝑠𝑠𝑠𝑠𝑠𝑡𝑡 
+ 
+• y scft represents the cash flow of firm 𝑜𝑜 i n year 𝐼𝐼 oper ating in country 𝐷𝐷 and s ector 𝐼𝐼 
+• 𝐶𝐶𝑃𝑃
+𝐼𝐼𝐹𝐹𝐹𝐹𝐼𝐼𝐼𝐼 𝐷𝐷
+𝐷𝐷𝑇𝑇𝑇𝑇𝐼𝐼𝐷𝐷𝐼𝐼𝐹𝐹𝐷𝐷𝐼𝐼 𝑜𝑜2008−2010 is a continuous variable, measured between 2008 and 2010 
+(before the LPD adoption), accounting for the average number of days a firm, 𝑜𝑜,
+ takes to 
+collect credits from its customers 
+• 𝑃𝑃𝐷𝐷
+𝐼𝐼𝐼𝐼𝑠𝑠𝑡𝑡 is a binary variable equal to one for country 𝐷𝐷 w hen the LPD is in place and zero 
+otherwise 
+• 𝑥𝑥𝑜𝑜𝑡𝑡 is a vector of firm -level explanatory variables which includes also firms’ size (measured 
+by the number of employees) measured at the baseline year and interacted with the post 
+variable, to account for pre-existing firm differences 
+• 𝑜𝑜𝑡𝑡 are time fixed effects that capture macroeconomic shocks common to all firms in each year 
+𝐼𝐼 
+• 𝑜𝑜𝑠𝑠  are firm fixed effects that control for unobserved heterogeneity between firms 
+• 𝑜𝑜𝑡𝑡𝑠𝑠  are sector by year fixed effects that account for unobserved factors affecting a given 
+sector in a specific year 
+• 𝑁𝑁𝑠𝑠𝑠𝑠𝑠𝑠𝑡𝑡 is the error term, double clustered at the firm and country-by-year level 
+ 
+The results show that, four years after the implementation of the LPD, the average cash flow has 
+doubled compared to its value in the year preceding the directive's introduction, e.g. 2010. This 
+finding pertains to the contrast between companies highly susceptible to payment delays (those 
+taking 120 days to collect credits) and the less susceptible ones, i.e. companies already adhering to 
+the LPD provisions for prompt payments (those collecting credits in less than 30 days). Estimates 
+showed that on average the Directive brought about an increase in aggregate cash flow of 
+approximately 3.69 million euro (+ 0.69%) for each differential day.  
+ 
+However, the impact manifested with a time delay, becoming evident four to five years after the 
+LPD's enactment. Moreover, the primary contributors to this effect were the manufacturing and 
+construction sectors, which are notable for a significant presence of SMEs within their relevant 
+supply chains. 
+ 
+Using a different channel that could also help explain firm exit indirectly, in a paper by Kaya (2022), 
+the author uses unique firm level survey data on SMEs financing conditions to understand the 
+negative impacts of late payments to SMEs and their access to finance in the EU. The main findings 
+show that SMEs which face late payments regularly or occasionall y are around 7% more likely to 
+face access to finance problems than their counterparts. This in effect, could potentially lead to firms 
+shutting down as they become increasingly incapable of accessing finance. 
+ 
+
+[PDF page 77]
+ 
+ 
+75 
+ 
+The study uses the survey on the access to finance of enterprises (SAFE) data produced by the 
+European Central Bank (ECB) and the European Commission (EC). This data offers insights into 
+the current state of enterprise finances and tracks patterns in the demand for and accessibility of 
+external funding. The findings of the survey are categorized based on factors such as company size, 
+industry sector, geographical location, company age, financial independence, and ownership 
+structure. SAFE is conducted bi-annually since 2009 and published in May and November covering 
+the six months prior to the publishing time (Kaya, 2022).  
+ 
+Using this survey, Kaya (2022) construct a sample of 250 firms with less than 250 employees and a 
+turnover of EUR 50 million which includes eleven countries: Austria, Belgium, Germany, Spain, 
+Finland, France, Greece, Ireland, Italy, the Netherlands, and Portugal. An important question asked 
+in the survey about the magnitude of late payments is as follows: 
+ 
+We will turn now to the subject of late payments. Has your company experienced problems due to 
+late payments from any private or public entities in the past six months? 
+ 
+Participants provide responses to this question using a three -point scale: 1 indicating "Yes, 
+regularly"; 2 representing "Yes, occasionally"; and 3 signifying "No." Kaya (2022) recode this late 
+payment variable into a binary variable for ease of interpretation by basing the recoding on these 
+response categories.  
+ 
+Some pertinent variables used in this paper from the SAFE survey include:  
+ 
+• A ccess to finance, which is a question that has a scale from 1 to 10, where 1 represents 
+access to finance not being a problem at all. 
+• Credit constraints, a dichotomous variable which is if firms are credit constrained or not 
+• Finance conditions, a variable about the terms and conditions of bank financing; “how the 
+price and non-price terms and conditions of a bank loan received changed last six months 
+before the survey. The question includes several subcategories: (i) level of interest rates, 
+(ii) level of the cost of financing other than interest rates, such as charges, fees, 
+commissions, (iii) available size of loan, (iv) available maturity of the loan, and (v) the 
+collateral requirements. Possible responses are: ‘was increased by the bank’, ‘remained 
+unchanged’, ‘was decreased by the bank’ (Kaya, 2022). 
+• Company size, as smaller firms are more likely to suffer and report access to finance 
+issues, which is split into micro, small and medium sized as dummy variables in terms of 
+number of employees and take the value of one if the respective condition is satisfied. 
+• Firm age, as younger firms generally have more challenges when accessing finance; 
+therefore a dummy variable for age is included.  
+ 
+Another important set of macro variables are seasonality -adjusted GDP growth which reflects the 
+impact of fluctuations in overall economic conditions and the health and profitability of the banking 
+sector where a variable of the return on equity (ROE) of the domestic banking sector is included. 
+ 
+Dr. Dalila Ribaudo and Dr. Muntasir Shami  
+Aston Business School 
+March 2024  
+
+[PDF page 78]
+ 
+ 
+76 
+ 
+References 
+ABADIE, A. J. J. O. E. L. 2021. Using synthetic controls: Feasibility, data requirements, and 
+methodological aspects. 59, 391-425. 
+ 
+BOUTTELL, J., CRAIG, P., LEWSEY , J., ROBINSON, M. & POPHAM, F. J. J. E. C. H. 2018. 
+Synthetic control methodology as a tool for evaluating population-level health interventions. 
+72, 673-678. 
+ 
+CALLAWAY , B. & SANT’ANNA, P . H. J. J. O. E. 2021. Difference-in-differences with multiple time 
+periods. 225, 200-230. 
+ 
+CONNELL, W. 2014. Economic Impact of Late Payments. Directorate General Economic and 
+Financial Affairs (DG ECFIN). 
+ 
+CONTI, M., ELIA, L., FERRARA, A. R., FERRARESI, M. J. T. J. O. L. & ECONOMICS 2021. 
+Governments’ late payments and firms’ survival: Evidence from the European Union. 64, 
+603-627. 
+ 
+D'COSTA, S., HOLL, A. & RIBAUDO, D. J. E. L. 2024. Service sector firm death and productivity in 
+urban and rural locations. 235, 111560. 
+ 
+FERRARA, A. & FERRARESI, M. 2022. Assessing the economic impact of faster payments in B2B 
+commercial transactions – Final report, Publications Office of the European Union. 
+ 
+HAUSEMER, P., RZEPECKA, J., LOFSTROM, F., EPARVIER, P., RIVOIRE, L., GALLO, C. & 
+MAROULIS, N. J. E. C. 2015. Ex-post Evaluation of Late Payment Directive. 
+ 
+KAYA, O. Late payments to SMEs: a factor that affects their access to finance.  European Financial 
+Management Association Annual Meeting, Rome, Italy, 29 June-2 July 2022, 2022. 
+ 
+LEVINSOHN, J. & PETRIN, A. J. T. R. O. E. S. 2003. Estimating production functions using inputs 
+to control for unobservables. 70, 317-341. 
+ 
+NATWEST, G. 2023. Two million of Britain’s small businesses fall victim to late payments [Online]. 
+Natwest Group. Available: https://www.natwestgroup.com/news-and-insights/news-
+room/press-releases/enterprise/2023/dec/two-million-of-britains-small-businesses-fall-
+victim-to-late-pay.html [Accessed 07/03/2024 2024]. 
+ 
+PAUL, S. Y., BODEN, R. J. J. O. S. B. & DEVELOPMENT, E. 2011. Size matters: the late payment 
+problem. 18, 732-747. 
+ 
+WILSON, N., SUMMERS, B. & SINGLETON, C. 1997. Small business demand for trade credit, 
+credit rationing and the late payment of commercial debt: an empirical study, Citeseer. 
+ 
+WU, J., LEE, H.-H. & BIRGE, J. R. J. A. A. S. 2020. Trade credit late payment and industry 
+structure. 
+  
+
+[PDF page 79]
+ 
+ 
+77 
+ 
+ 
+Lectus convallis consequat eget in 
+ante. In quis ornare eros, in 
+vestibulum felis. Sed volutpat, lectus 
+et maximus hendrerit, nunc mauris 
+eleifend quam, lobortis porta ligula 
+dui eget sapien. Donec dignissim 
+dictum magna. Nunc dignissim justo 
+vitae quam consequat, at maximus 
+mi rutrum. Vestibulum sit amet justo 
+varius, iaculis justo eu, luctus enim. 
+Nullam a tristique purus. Praesent sit 
+amet dui id lectus scelerisque tempus 
+ac ullamcorpe. 
+ 
+Legal disclaimer 
+Whereas every effort has been made 
+to ensure that the information in this 
+document is accurate, the 
+Department for Business and Trade 
+does not accept liability for any 
+errors, omissions or misleading 
+statements, and no warranty is given 
+or responsibility accepted as to the 
+standing of any individual, firm, 
+company or other organisation 
+mentioned. 
+Copyright 
+© Crown Copyright 2025 
+ 
+You may re-use this publication (not 
+including logos) free of charge in any 
+format or medium, under the terms of 
+the Open Government Licence.  
+ 
+To view this licence visit: 
+www.nationalarchives.gov.uk/doc/op
+en-government-licence  
+ 
+Or email:  
+psi@nationalarchives.gov.uk  
+ 
+Where we have identified any third-
+party copyright information in the 
+material that you wish to use, you will 
+need to obtain permission from the 
+copyright holder(s) concerned. 
+ 
+This document is also available on 
+our website at: 
+https://www.gov.uk/government/orga
+nisations/department-for-business-
+and-trade  
+ 
+Any enquiries regarding this 
+publication should be sent to us at 
+enquiries@businessandtrade.gov.uk 
+ 
+ 

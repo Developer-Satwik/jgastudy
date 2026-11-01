@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "source_id": "SRC-0068",
+      "url": "https://online.flippingbook.com/view/903316/",
+      "final_url": "https://online.flippingbook.com/view/903316/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-29T04:06:19.024955+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0068.html",
+      "capture_sha256": "588ccfa96d6057ae81d18e1040260b201f14392e343a3c3d0af272aa5e1d087a",
+      "text_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0068.txt",
+      "text_sha256": "fae6b10cbcd2b87e3cd76437ef1e0e63c7e30b2f80b112110131b3183d39521a",
+      "kind": "retained_original_html",
+      "review_status": "fresh_original_hosted_HTML_reinspected_selected_text",
+      "locator": "Foreword fieldwork context; technology expectation discussion; printed13 JGA commentary",
+      "review_result": "Dated expectation and commentary, not a matched panel, later outcome or funded-priority observation.",
+      "limitations": "Mixed professional population and source-specific wording; no matched respondents, common item/base or actual approved investment measure established. No percentages, progress gap, causal effect or UK employer prevalence adopted. Current access is not new fieldwork."
+    },
+    {
+      "source_id": "SRC-0070",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "final_url": "https://online.flippingbook.com/view/706203142/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-29T04:06:18.716218+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0070.html",
+      "capture_sha256": "2e7b469b29bb08b1648cae9517935fd4f52b4c387c36f9783c4e60424fc899ef",
+      "text_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0070.txt",
+      "text_sha256": "579b01bde7fa17fe88b32cad259d6f9bcfa8a4643b358188ae9692918b07d415",
+      "kind": "retained_original_html",
+      "review_status": "fresh_original_hosted_HTML_reinspected_selected_text",
+      "locator": "Printed4 technology expectation/use discussion; printed8–9 reaction timeframes and resulting team issues",
+      "review_result": "Later current-use, perceived deadline pressure and reported team issues remain different measures; no priority ranking/funding outcome or numerical trend adopted.",
+      "limitations": "Mixed professional population and source-specific wording; no matched respondents, common item/base or actual approved investment measure established. No percentages, progress gap, causal effect or UK employer prevalence adopted. Current access is not new fieldwork."
+    }
+  ],
+  "files": [
+    {
+      "path": "03-report/research-notes/r07-second-check/history/captures/SRC-0068.html",
+      "sha256": "588ccfa96d6057ae81d18e1040260b201f14392e343a3c3d0af272aa5e1d087a",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/history/captures/SRC-0068.txt",
+      "sha256": "fae6b10cbcd2b87e3cd76437ef1e0e63c7e30b2f80b112110131b3183d39521a",
+      "kind": "parsed_extract"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/history/captures/SRC-0070.html",
+      "sha256": "2e7b469b29bb08b1648cae9517935fd4f52b4c387c36f9783c4e60424fc899ef",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/history/captures/SRC-0070.txt",
+      "sha256": "579b01bde7fa17fe88b32cad259d6f9bcfa8a4643b358188ae9692918b07d415",
+      "kind": "parsed_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "sha256": "27329a0fd6977d885425dd528af239ad8340513ff87b354e780efca64d784609",
+      "kind": "retained_original_pdf"
+    },
+    {
+      "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.txt",
+      "sha256": "2161a64d61f1582ce6b050e5187317d4f6046b484691945a5d9cdda64ecf8919",
+      "kind": "parsed_extract"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/history/captures/SRC-0206-05.png",
+      "sha256": "f11fdeae80ab4c36e53b1ee84951e39280e6e3576a65b08560de5f72db96463d",
+      "kind": "rendered_page",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/history/captures/SRC-0206-06.png",
+      "sha256": "5309dc404fd70b2e931ef1374b405f84cb80af4fccf62624b488d14866fa7f60",
+      "kind": "rendered_page",
+      "visually_inspected": true
+    }
+  ],
+  "notes": "Fresh HTML and extracts are separate; PDF reused without duplicating its canonical route. Page5–6 renders support declared dependency/sequence only."
+}

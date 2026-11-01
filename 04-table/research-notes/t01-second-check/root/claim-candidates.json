@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1R2-C01",
+      "source_candidate_ids": [
+        "T1R2-S01"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The opened Chatham House explanation permits information use while protecting identities and affiliations. Its current FAQ excludes in-room photos/video, recording and AI note-taking/transcription for a meeting under the Rule.",
+      "evidence_class": "rule_originator_declared_meeting_mode",
+      "locator": "Rule and FAQs at opened-page lines396\u2013463",
+      "limitations": "Applies to a meeting adopting this named Rule, not a universal interview restriction or guarantee of anonymity. Only primary web-reader sections and selected paraphrase retained; raw capture unavailable.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1R2-C02",
+      "source_candidate_ids": [
+        "T1R2-S01"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "For Table design, choose the meeting mode before the session and distinguish council recognition, meeting attendance, research participation and later publication. Optional research permissions must fit the chosen mode; they do not silently turn a Rule meeting into a recorded or attributable one.",
+      "evidence_class": "researcher_selective_meeting_and_output_design_condition",
+      "locator": "Analytical application of Rule definition and self-disclosure/recording FAQs",
+      "limitations": "No actual JGA meeting, adoption of Rule, participant permission, legal opinion or new mandatory question. Separate approved interviews may have different terms. Do not change current WP03 or fourteen questions by implication.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1R2-C03",
+      "source_candidate_ids": [
+        "T1R2-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The Planning Inspectorate publishes criteria and authorisation requirements for staff considering external hospitality. This is a concrete employer case where free admission does not by itself settle whether attendance is permitted.",
+      "evidence_class": "bounded_employer_policy_counterexample",
+      "locator": "Sections13,14,18 and scope in section1",
+      "limitations": "Employer-specific England policy, not a rule for all payroll practitioners or evidence of actual refusals. No numerical threshold, legal test or sanction is adopted. Actual attendance, role and employer permission remain unverified.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1R2-C04",
+      "source_candidate_ids": [
+        "T1R2-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "A practitioner who cannot attend funded hospitality may still be relevant to research or a remote peer format. Test the constraint and permitted alternative separately, counting only actual eligible permissioned contributions and actual event attendance in their respective units.",
+      "evidence_class": "researcher_recruitment_and_format_condition",
+      "locator": "Analytical application of the employer-specific attendance constraint and existing Table/counting policy",
+      "limitations": "No actual refusal, recruited person or replacement participant invented. Remote input is not automatically free, eligible, usable or publication-cleared; existing WP03 rules apply.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "T1R2-C05",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0227",
+        "SRC-0228"
+      ],
+      "claim_text": "The Table concept promises research free to participating practitioners. A paid employer, adviser or partner offer must identify genuinely distinct service, access or permitted use rather than assuming a second sale of equivalent access to the same beneficiary. Count bundled or already granted entitlement once.",
+      "evidence_class": "researcher_free_and_paid_entitlement_overlap_condition",
+      "locator": "Analytical application of distinct ISG exchange/use-rights units to Table design brief free-practitioner-research premise; financial model specification revenue/rights",
+      "limitations": "Original free-practitioner benefit remains a design input. No new restriction, fee, customer, commercial right or revised JGA term is imposed. Actual free and paid entitlements need agreement and demand/permission evidence. No presumption that a practitioner\u2019s employer has or lacks particular rights beyond agreed terms.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    }
+  ]
+}

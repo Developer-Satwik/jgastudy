@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-01",
+  "kind": "selected_primary_reader_recheck_not_new_original",
+  "urls": [
+    "https://www.ciep.uk/resource/suggested-minimum-rates-archive.html",
+    "https://www.procopywriters.co.uk/survey/2025/",
+    "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee"
+  ],
+  "observations": [
+    "CIEParchive2024/2025samecategoriesretained",
+    "ProCopywriters2025currentretrospectivesummaryexplicit480average430median",
+    "UpworkBasicup-tofeeandqualifyingUSdiscountconditional,notchosenroute"
+  ],
+  "no_new_financial_input": true,
+  "no_account_access": true
+}

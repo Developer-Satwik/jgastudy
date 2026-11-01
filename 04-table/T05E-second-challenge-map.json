@@ -1,0 +1,183 @@
+{
+  "date": "2026-11-01",
+  "status": "second_challenge_reviewed_required_programme_refinements_recorded",
+  "reviewer": "same_agent_second_check",
+  "independent_agent_review": false,
+  "first_component_path": "04-table/T05-event-cost-map.json",
+  "conditions": [
+    {
+      "condition_id": "E201",
+      "label": "Actual contribution, audience and alternatives",
+      "workload_ids": [
+        "WE01",
+        "WE04",
+        "WE05",
+        "WE06",
+        "WE10"
+      ],
+      "claim_ids": [
+        "CLM-0611",
+        "CLM-0612",
+        "CLM-0616",
+        "CLM-0617",
+        "CLM-0624"
+      ],
+      "required_treatment": "Name the useful decision/use, eligible audience and closest existing alternative before selecting scope. Do not infer a paid gap or participation from provider visibility."
+    },
+    {
+      "condition_id": "E202",
+      "label": "Partial work, rescheduling and exact reuse",
+      "workload_ids": [
+        "WE01",
+        "WE03",
+        "WE09",
+        "WE10",
+        "WE17",
+        "WE22"
+      ],
+      "claim_ids": [
+        "CLM-0622"
+      ],
+      "required_treatment": "Preserve attributable incurred hours and required remaining work by task/state. Reuse only genuinely retained work and do not treat changed dates as full duplicate tasks."
+    },
+    {
+      "condition_id": "E203",
+      "label": "Concurrent roles and capable coverage",
+      "workload_ids": [
+        "WE11",
+        "WE12",
+        "WE13",
+        "WE14",
+        "WE15",
+        "WE16"
+      ],
+      "claim_ids": [
+        "CLM-0613",
+        "CLM-0623"
+      ],
+      "required_treatment": "Map necessary overlapping duties to actual people/time. Count body-time once and separately test coverage; check package inclusions before later labour valuation."
+    },
+    {
+      "condition_id": "E204",
+      "label": "Chosen participation and output mode",
+      "workload_ids": [
+        "WE01",
+        "WE06",
+        "WE10",
+        "WE16",
+        "WE17",
+        "WE18"
+      ],
+      "claim_ids": [
+        "CLM-0617",
+        "CLM-0621"
+      ],
+      "required_treatment": "Agree actual audience, confidentiality and usable output. If adopting the named Chatham House Rule, respect its recording/AI/photo restrictions. Recording permission is not a default route around that mode."
+    },
+    {
+      "condition_id": "E205",
+      "label": "Menu/venue eligibility and charge basis",
+      "workload_ids": [
+        "WE02",
+        "WE03",
+        "WE07",
+        "WE08",
+        "WE09",
+        "WE19"
+      ],
+      "claim_ids": [
+        "CLM-0618",
+        "CLM-0626"
+      ],
+      "required_treatment": "Test applicable lower/upper menu/room conditions and actual billed covers, charges and inclusions. Neither a seat ceiling nor a dated menu establishes future suitability/price."
+    },
+    {
+      "condition_id": "E206",
+      "label": "Cohort, format, locality and travel",
+      "workload_ids": [
+        "WE04",
+        "WE05",
+        "WE07",
+        "WE09",
+        "WE15",
+        "WE20",
+        "WE21"
+      ],
+      "claim_ids": [
+        "CLM-0614",
+        "CLM-0619",
+        "CLM-0625"
+      ],
+      "required_treatment": "Scope genuine cohort/mode/location changes, travel origins/payers and local resources. Shared research does not make international event operations identical."
+    },
+    {
+      "condition_id": "E207",
+      "label": "Supplier liability, credit, cash and remaining service",
+      "workload_ids": [
+        "WE03",
+        "WE09",
+        "WE19",
+        "WE20",
+        "WE22"
+      ],
+      "claim_ids": [
+        "CLM-0620",
+        "CLM-0627"
+      ],
+      "required_treatment": "Carry supplier liability, deposits, restricted future credits, actual refunds and unfulfilled benefits separately into dated cash and resource schedules."
+    }
+  ],
+  "evidence_candidate_path": "04-table/research-notes/t05e-second-check/evidence/source-candidates.json",
+  "comparator_map_path": "04-table/research-notes/t05e-second-check/comparator-map.json",
+  "prior_study_bridge_path": "04-table/research-notes/t05e-second-check/prior-study/prior-study-bridge.json",
+  "cost_applications_path": "04-table/research-notes/t05e-second-check/cost-applications.json",
+  "review_checks_path": "08-qa/t05e-second-review/verification.json",
+  "source_ids": [
+    "SRC-0289",
+    "SRC-0290",
+    "SRC-0291",
+    "SRC-0292",
+    "SRC-0293",
+    "SRC-0294",
+    "SRC-0295",
+    "SRC-0261",
+    "SRC-0116",
+    "SRC-0088",
+    "SRC-0245",
+    "SRC-0248",
+    "SRC-0254",
+    "SRC-0241"
+  ],
+  "claim_ids": [
+    "CLM-0611",
+    "CLM-0612",
+    "CLM-0613",
+    "CLM-0614",
+    "CLM-0615",
+    "CLM-0616",
+    "CLM-0617",
+    "CLM-0618",
+    "CLM-0619",
+    "CLM-0620",
+    "CLM-0621",
+    "CLM-0622",
+    "CLM-0623",
+    "CLM-0624",
+    "CLM-0625",
+    "CLM-0626",
+    "CLM-0627"
+  ],
+  "workbooks_changed": false,
+  "financial_inputs_changed": false,
+  "original_shared_financial_inputs": 70,
+  "first_component_arithmetic_error_identified": false,
+  "programme_state_coverage_and_obligation_implementation_still_required": true,
+  "full_financial_model_complete": false,
+  "current_contract_fee_changed": false,
+  "fourteen_core_questions_unchanged": true,
+  "practitioner_free_full_research_preserved": true,
+  "actual_participants": [],
+  "actual_quotes": [],
+  "actual_bookings": [],
+  "external_actions": []
+}

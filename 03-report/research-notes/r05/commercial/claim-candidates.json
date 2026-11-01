@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5COM-C01",
+      "source_ids": [
+        "SRC-0109"
+      ],
+      "claim_text": "Xero UK pricing distinguishes the base plan, included payroll/payment usage, extras and promotional versus regular renewal conditions, with VAT and monthly renewal terms. These declarations do not establish a customer-specific quote or whole-life cost.",
+      "locator": "Plan comparison and offer terms, original web621–708",
+      "evidence_class": "supplier_declared_price_structure",
+      "population": "UK supplier subscription pricing; no employer-specific invoice",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Original pages inspected29October2026; no price time series or employer forecast",
+      "limitations": "No numerical amount, savings, current customer entitlement or universal incremental payroll cost adopted.",
+      "review_mode": "Relevant live original bodies inspected; source-specific raw/extract/reuse status retained",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "R5COM-C02",
+      "source_ids": [
+        "R5COM-S01"
+      ],
+      "claim_text": "BrightPay billing guidance warns that duplicated/recreated employer or employee records and imports can affect billed usage. Current paid headcount alone is not established as the chargeable quantity.",
+      "locator": "Original reader28–48",
+      "evidence_class": "supplier_declared_billing_unit_boundary",
+      "population": "Specific BrightPay UK billing guide",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Original pages inspected29October2026; no price time series or employer forecast",
+      "limitations": "No actual account/invoice or exact billing-window forecast; dated guide descriptions need reconciliation with actual plan/contract.",
+      "review_mode": "Relevant live original bodies inspected; source-specific raw/extract/reuse status retained",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "R5COM-C03",
+      "source_ids": [
+        "R5COM-S02"
+      ],
+      "claim_text": "BrightPay’s empty pricing interface asks for employer and employee inputs and displays monthly/advance options. Its zero default without inputs is not an established free tariff or quote.",
+      "locator": "Pricing section234–279",
+      "evidence_class": "supplier_pricing_interface_scope",
+      "population": "Specific cloud pricing interface, not purchaser evidence",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Original pages inspected29October2026; no price time series or employer forecast",
+      "limitations": "No calculator populated, numerical cost adopted or included-feature result tested.",
+      "review_mode": "Relevant live original bodies inspected; source-specific raw/extract/reuse status retained",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "R5COM-C04",
+      "source_ids": [
+        "R5COM-S03"
+      ],
+      "claim_text": "Moorepay’s inspected pricing landing asks for pricing and qualifies its implementation promise by selection and account credit. It does not establish a usable rate, employer-specific remedy or quantified business-case saving.",
+      "locator": "Get pricing and guarantee qualifications44–52; savings reference8–10/43",
+      "evidence_class": "supplier_marketing_and_remedy_scope",
+      "population": "Unconfigured payroll/HR supplier offer",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Original pages inspected29October2026; no price time series or employer forecast",
+      "limitations": "No raw savings statistic adopted, general cash refund assumed or legal enforceability assessed. Scope and actual quote remain to establish.",
+      "review_mode": "Relevant live original bodies inspected; source-specific raw/extract/reuse status retained",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "R5COM-C05",
+      "source_ids": [
+        "SRC-0077"
+      ],
+      "claim_text": "The Sourcing Playbook describes whole-life comparison of in-house, market and mixed delivery, and planned transition/renewal/exit including staff burden and information handback.",
+      "locator": "Sections3 and13, original web497–536/1180–1200",
+      "evidence_class": "official_public_sector_cost_and_exit_design",
+      "population": "Public-sector service sourcing design",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Original pages inspected29October2026; no price time series or employer forecast",
+      "limitations": "Not observed payroll outcomes, private corporate mandate or source of current approval mechanics; no numeric threshold adopted.",
+      "review_mode": "Relevant live original bodies inspected; source-specific raw/extract/reuse status retained",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "R5COM-C06",
+      "source_ids": [
+        "SRC-0109",
+        "R5COM-S01",
+        "R5COM-S02",
+        "R5COM-S03",
+        "SRC-0077"
+      ],
+      "claim_text": "R05 should record the actual option/service unit, charging quantity, price basis, included/excluded/unknown work and continuing/transition/exit resources before comparing total relevant cost with the retained option.",
+      "locator": "Cross-source analytical application; source-specific locators above",
+      "evidence_class": "researcher_cost_evidence_design",
+      "population": "Proposed payroll-case analysis",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Original pages inspected29October2026; no price time series or employer forecast",
+      "limitations": "Not an exhaustive charge catalogue, supplier ranking, actual quote, validated cost forecast or extra mandatory questionnaire.",
+      "review_mode": "Relevant live original bodies inspected; source-specific raw/extract/reuse status retained",
+      "status": "R05_context_candidate"
+    }
+  ]
+}

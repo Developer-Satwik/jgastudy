@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-30",
+  "status": "proposed_model_semantics_not_calculated_workbook",
+  "units": [
+    {
+      "unit_id": "U01",
+      "name": "Programme/horizon",
+      "definition": "A named start/end reporting period used consistently for a matched route pair.",
+      "boundary": "Date/window, not an automatic annual subscription."
+    },
+    {
+      "unit_id": "U02",
+      "name": "Edition",
+      "definition": "One identified research asset/version with actual evidence period and release/rights basis.",
+      "boundary": "A reading path, briefing or city does not automatically create a new edition."
+    },
+    {
+      "unit_id": "U03",
+      "name": "Customer organisation",
+      "definition": "One distinct purchasing organisation for customer-count reporting.",
+      "boundary": "One organisation can have several actual nonoverlapping orders; do not call each a new customer."
+    },
+    {
+      "unit_id": "U04",
+      "name": "Order/package",
+      "definition": "One defined billable scope/fee record, possibly containing multiple benefits.",
+      "boundary": "Bundle fee counted once; internal allocation is not extra revenue."
+    },
+    {
+      "unit_id": "U05",
+      "name": "Standalone licence entitlement",
+      "definition": "One edition/use grant not already provided free or bundled.",
+      "boundary": "User, licence, copy, organisation and channel are different units."
+    },
+    {
+      "unit_id": "U06",
+      "name": "Briefing/service instance",
+      "definition": "One separately scoped preparation/delivery/follow-up unit where genuinely additional.",
+      "boundary": "No unlimited service or new research inferred."
+    },
+    {
+      "unit_id": "U07",
+      "name": "Funding partner",
+      "definition": "A distinct organisation supporting a specified purpose under an actual package.",
+      "boundary": "Partner count differs from package/order count and from received funding."
+    },
+    {
+      "unit_id": "U08",
+      "name": "Unique practitioner",
+      "definition": "One verified eligible person with actual usable permitted report input.",
+      "boundary": "Count once under WP03; an RSVP, suggested question, membership or attended seat is not automatically a report contributor."
+    },
+    {
+      "unit_id": "U09",
+      "name": "Exploratory Table contribution event",
+      "definition": "One actual substantive exploratory event under the up-to-four research scope.",
+      "boundary": "This is not a future dinner, city event or extra person; combined/repeated-event rules remain in WP03."
+    },
+    {
+      "unit_id": "U10",
+      "name": "Programme gathering",
+      "definition": "One prospective physical/remote peer/research event in the commercial operating model.",
+      "boundary": "The one-city pilot/four-city annual option is a proposal, not the four exploratory conversations."
+    },
+    {
+      "unit_id": "U11",
+      "name": "Seat/place",
+      "definition": "One capacity/catering place at a specified gathering, for practitioner, host, moderator or other agreed attendee.",
+      "boundary": "12–15 practitioner places require additional host/moderator/other seats where needed; capacity is not actual attendance."
+    },
+    {
+      "unit_id": "U12",
+      "name": "Contribution/account",
+      "definition": "A separately identified input event or account with its actual permitted uses.",
+      "boundary": "Several accounts from one person are not several unique practitioners; published detail may differ from usable analysis."
+    },
+    {
+      "unit_id": "U13",
+      "name": "Staff work unit",
+      "definition": "Hours by role, work object and period with cash/resource classifications.",
+      "boundary": "Unknown hours/rates are not zero; incremental paid labour cannot be added twice as opportunity time."
+    },
+    {
+      "unit_id": "U14",
+      "name": "Cash transaction/milestone",
+      "definition": "A dated expected or actual receipt/payment record in its original currency with status.",
+      "boundary": "Contracted, invoiced, due, received, refunded and fulfilled are different states."
+    },
+    {
+      "unit_id": "U15",
+      "name": "Revenue/benefit fulfilment",
+      "definition": "The specific edition/access, briefing, placement or other benefit delivered under a package.",
+      "boundary": "Planning revenue/fulfilment attribution is defined here; no formal tax/accounting recognition treatment is asserted."
+    }
+  ],
+  "calculations": [
+    {
+      "calculation_id": "F01",
+      "name": "Standalone licence planning revenue",
+      "expression": "SUM(net unit fee by defined standalone entitlement × actual/scenario quantity, after applicable explicit discounts/credits)",
+      "conditions": "Equivalent free/bundled entitlements excluded; keep original use/version. Quantity/price are not validated demand."
+    },
+    {
+      "calculation_id": "F02",
+      "name": "Partner/package planning revenue",
+      "expression": "SUM(actual/scenario net package fees)",
+      "conditions": "Do not add included briefing/licence/recognition notional values as extra revenue. Any allocation to benefits is internal and reconciles to package total."
+    },
+    {
+      "calculation_id": "F03",
+      "name": "Incremental operating contribution",
+      "expression": "Defined planning revenue − attributable operating cash costs for the selected decision/horizon",
+      "conditions": "Disclose which committed/initial costs are outside this incremental view. Not a substitute for fully loaded result or bank cash."
+    },
+    {
+      "calculation_id": "F04",
+      "name": "Fully loaded planning result",
+      "expression": "Defined planning revenue − attributable cash operating costs − additional noncash resource/opportunity cost not already counted",
+      "conditions": "Use an explicit labour overlap bridge. Staff time cannot disappear, and the same labour cannot be charged twice."
+    },
+    {
+      "calculation_id": "F05",
+      "name": "Initial investment-recovery view",
+      "expression": "Selected operating/full-resource result − separately identified initial investment not already included in that result",
+      "conditions": "Current USD1,500 commission occurs once in the relevant first-project view, with USD1,000/USD500 allocations retained. It is not charged again per city/customer or assumed every future edition cost."
+    },
+    {
+      "calculation_id": "F06",
+      "name": "Event increment",
+      "expression": "B matched-horizon result − A matched-horizon result",
+      "conditions": "Same core research basis/horizon. Incremental sales or partner fees caused by events remain separate untested scenario assumptions; no automatic attribution."
+    },
+    {
+      "calculation_id": "F07",
+      "name": "Closing cash",
+      "expression": "Opening cash + dated cash receipts − dated cash payments",
+      "conditions": "Include actual/planning cash taxes, fees, deposits, refunds and FX settlement basis where applicable; unknown receipts are not confirmed funds."
+    },
+    {
+      "calculation_id": "F08",
+      "name": "Peak funding need",
+      "expression": "Largest positive funding requirement implied by the cumulative cash path after the explicitly chosen starting-cash basis",
+      "conditions": "Track pre-commitment/non-refundable exposure against confirmed and received available funds; monthly aggregation may need finer dates if intramonth exposure is material."
+    },
+    {
+      "calculation_id": "F09",
+      "name": "Single-product break-even licence units",
+      "expression": "CEILING(MAX(0, relevant fixed funding/cost requirement − net contribution of other included revenues) / positive incremental contribution per standalone licence)",
+      "conditions": "Use the same cost/revenue basis. If remaining gap is zero, zero additional units may be needed; if gap is positive and unit contribution is zero/negative, report not achievable with this product rather than divide by zero. Mixed tiers require an explicit fixed sales mix or separate scenario; no hidden average."
+    },
+    {
+      "calculation_id": "F10",
+      "name": "Currency conversion",
+      "expression": "Original currency amount × dated GBP-per-original-currency rate",
+      "conditions": "GBP is proposed reporting currency. Preserve source currency, direction/date and planning vs actual settlement. No rate entered in this design."
+    },
+    {
+      "calculation_id": "F11",
+      "name": "Event place requirement",
+      "expression": "Practitioner places + host places + moderator places + other actually chosen attendee places",
+      "conditions": "Avoid duplicate host/moderator seats where one person performs both roles; preserve catering/room minimum basis separately."
+    },
+    {
+      "calculation_id": "F12",
+      "name": "Annual reconciliation",
+      "expression": "Common selected-edition/programme work + SUM(city-specific incremental work/cost/receipts)",
+      "conditions": "Do not copy common edition production four times. If a genuinely additional edition is selected, add its explicit incremental work once."
+    }
+  ],
+  "currency_basis": {
+    "reporting_currency_proposal": "GBP",
+    "client_agreed": false,
+    "preserve_original_currencies": [
+      "GBP",
+      "EUR",
+      "USD"
+    ],
+    "FX_rates": []
+  },
+  "tax_basis": {
+    "price_basis": "Explicit net/gross/tax/service treatment per input",
+    "recoverability_assumed": false,
+    "note": "No VAT/sales-tax advice or recovery assumption. Supplier cash and net economic costs may differ only with an evidenced chosen treatment."
+  },
+  "comparison_routes": [
+    "A-PILOT",
+    "B-PILOT",
+    "A-ANNUAL",
+    "B-ANNUAL"
+  ],
+  "initial_contract_investment": {
+    "currency": "USD",
+    "total": 1500,
+    "report_allocation": 1000,
+    "Table_allocation": 500,
+    "role": "Existing signed-scope nominal design facts, not future cost quotes or new financial inputs.",
+    "payment_status": "Use existing baseline: upfront user-reported; balance trigger under agreement. Do not invent paid/bank receipt dates or final acceptance.",
+    "not_automatically_sunk_or_paid": true,
+    "note": "Actual sunk/avoidable/payment status is a decision-time question; do not equate the full nominal commission to irrevocable cash already spent."
+  },
+  "actual_model_outputs": [],
+  "workbook_created": false,
+  "financial_inputs": [],
+  "external_actions": []
+}

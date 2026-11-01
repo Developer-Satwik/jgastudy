@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-01",
+  "capture_date": "2026-10-31",
+  "records": [
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S01.html",
+      "sha256": "a780a6132116a12082d8df31dadd2731289bca668bf64b0cd769da74d670993e",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0268",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S01.txt",
+      "sha256": "8a1ac9be7d416124c14d722271af049d09faaa9bbce5ed3970de2ebaf4d0c12f",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0268",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S02-reader.txt",
+      "sha256": "5ea27ffa312c1dc55d038a41fa155d172e19b45aaaf3b8d495056f28908560cc",
+      "kind": "browser_reader_extract",
+      "source_id": "SRC-0269",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S03.html",
+      "sha256": "ac0a5180fff83c8afd28d3c100f4e730037019c140df8617cff8fd6781257d17",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0270",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S03.txt",
+      "sha256": "9a2179c36a5ddd9e41a011ceff36f15b534c5c7e4ecaec8cd678cf12928c3082",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0270",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S04-reader.txt",
+      "sha256": "50e113e21ee042f7700bdeb58feeeb1bc3d7807ce0c27952e616125567484e39",
+      "kind": "browser_reader_extract",
+      "source_id": "SRC-0271",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S05-reader.txt",
+      "sha256": "aaf1832160ce44c0557bc35324caa64a9c5efb9646a319b44f3fa9207343d8ad",
+      "kind": "browser_reader_extract",
+      "source_id": "SRC-0272",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S01.html",
+      "sha256": "38ca45ab2a0da84059391670cf94ce9940f071f1425f7031513497f92cbbc474",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0273",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S01.txt",
+      "sha256": "13180dbfebbfcc26dc613a352bcd03c1a6b5fb71d85a69df8705595c0355a240",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0273",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S02.html",
+      "sha256": "6f42c9b7815a8284c099b07861e50c9c4fc372528bc84c386bdbb809c364bc58",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0274",
+      "scope": "new_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S02.txt",
+      "sha256": "c301bc1004c964dfc25e8d17d19e5449a60d1f8aa6fea94ea056913c048e8fa9",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0274",
+      "scope": "new_route"
+    },
+    {
+      "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+      "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+      "kind": "prior_selected_original_reader_notes_not_raw_original",
+      "source_id": "SRC-0190",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+      "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+      "kind": "prior_selected_paraphrased_reader_notes_not_raw_original",
+      "source_id": "SRC-0221",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+      "sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0222",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.html",
+      "sha256": "fb9939def6a4c8dd281cfa82f77402febb4df4471089585fd1262719e3c9cfe9",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0116",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.txt",
+      "sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0116",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt",
+      "sha256": "68703795ba527d4bf660b40d6d2c49a141fe52b2da29c826b032219b80dda46e",
+      "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original",
+      "source_id": "SRC-0192",
+      "scope": "reused_canonical_route",
+      "access_for_this_review": "prior_context_reused"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.html",
+      "sha256": "4bb3304e2054981e280934ef5b4238ffa8671f112f786dfc45c8d12ed5e5c2ed",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0193",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.txt",
+      "sha256": "63823e74e04a6daaadefda53fb3368219b7be61362ac58e277a67cbfff70d538",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0193",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+      "sha256": "5fedfb3f3c07b14e4cd811f22c8c301f6b3a445fc8807c2c2342dceab675d205",
+      "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original",
+      "source_id": "SRC-0088",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.html",
+      "sha256": "09fe3f9ea5fcad516d691be5182f7cdae525c4faad7035523243643c61d02da5",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0257",
+      "scope": "reused_canonical_route"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.txt",
+      "sha256": "1271453ecdacc3c512185d17182e67538517aba44344a9a8a185473c523fd270",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0257",
+      "scope": "reused_canonical_route"
+    }
+  ],
+  "counts_by_kind": {
+    "browser_reader_extract": 3,
+    "fresh_selected_paraphrased_reader_notes_not_raw_original": 2,
+    "parsed_original_text": 8,
+    "prior_selected_original_reader_notes_not_raw_original": 1,
+    "prior_selected_paraphrased_reader_notes_not_raw_original": 1,
+    "retained_original_html": 7
+  },
+  "new_route_primary_originals": 4,
+  "reused_route_fresh_primary_originals": 3,
+  "new_route_browser_reader_extracts": 3,
+  "new_source_routes": 7,
+  "reused_canonical_routes": 12,
+  "new_JGA_empirical_datasets": 0,
+  "no_failed_HTTP_body_promoted_to_original": true,
+  "no_bypass": true,
+  "note": "Prior parsed/reader notes and new originals/extracts retain separate classifications. Substantive reader extracts are not raw originals; source routes and recaptures are not independent JGA observations. For SRC-0192, the inherited fresh-selected kind describes the earlier artifact capture; this review reuses that prior context rather than claiming a new Hays page read."
+}

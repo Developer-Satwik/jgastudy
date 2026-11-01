@@ -1,0 +1,260 @@
+{
+  "status": "passed_artifact_engine",
+  "date": "2026-11-01",
+  "tests": [
+    {
+      "id": "initial total unavailable",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "initial direct total unavailable",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "explicit no work",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "working prep quantity",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "id": "low prep follows case",
+      "actual": 1.5,
+      "expected": 1.5,
+      "passed": true
+    },
+    {
+      "id": "high prep follows case",
+      "actual": 5,
+      "expected": 5,
+      "passed": true
+    },
+    {
+      "id": "missing selected hours",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "missing unselected hours ignored",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "id": "cancelled event incurred hours retained",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "id": "two moderators two hours",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "id": "same person host counted once",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "id": "fractional travel time",
+      "actual": 1.5,
+      "expected": 1.5,
+      "passed": true
+    },
+    {
+      "id": "fractional invitation invalid",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "negative quantity invalid",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "one unknown not hidden",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "no direct costs selected",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "selected missing amount",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "selected amount missing basis",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "selected sourced amount",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "id": "explicit zero with basis",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "negative direct cost invalid",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "unselected invalid amount ignored",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "one unchosen cost not hidden",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "distinct seats",
+      "actual": 17,
+      "expected": 17,
+      "passed": true
+    },
+    {
+      "id": "room fails",
+      "actual": "Over limit",
+      "expected": "Over limit",
+      "passed": true
+    },
+    {
+      "id": "menu fails",
+      "actual": "Over limit",
+      "expected": "Over limit",
+      "passed": true
+    },
+    {
+      "id": "larger room fits",
+      "actual": "Within limit",
+      "expected": "Within limit",
+      "passed": true
+    },
+    {
+      "id": "confirmed no menu ceiling",
+      "actual": "Within limit",
+      "expected": "Within limit",
+      "passed": true
+    },
+    {
+      "id": "attendance falls independently",
+      "actual": 15,
+      "expected": 15,
+      "passed": true
+    },
+    {
+      "id": "billed covers not silently reduced",
+      "actual": 17,
+      "expected": 17,
+      "passed": true
+    },
+    {
+      "id": "unknown category exposed",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "invalid case unavailable",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "restored hours unavailable",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "restored direct costs unavailable",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "restored case",
+      "actual": "Working",
+      "expected": "Working",
+      "passed": true
+    }
+  ],
+  "check_count": 35,
+  "rendered_regions": 7,
+  "renders": [
+    {
+      "sheet": "Event costs",
+      "range": "A1:E24",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/event-overview.png"
+    },
+    {
+      "sheet": "Event costs",
+      "range": "A27:E44",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/direct-cost-inputs.png"
+    },
+    {
+      "sheet": "Event work",
+      "range": "A1:I20",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/event-work-top.png"
+    },
+    {
+      "sheet": "Event work",
+      "range": "A21:I35",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/event-work-bottom.png"
+    },
+    {
+      "sheet": "Event costs",
+      "range": "G30:G42",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/direct-cost-scope.png"
+    },
+    {
+      "sheet": "Event work",
+      "range": "K10:K32",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/work-boundaries.png"
+    },
+    {
+      "sheet": "Event costs",
+      "range": "A46:G55",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-event-costs-2026-11-01/source-context.png"
+    }
+  ],
+  "native_Excel_tested": false,
+  "all_counts_restored_blank": true,
+  "all_amounts_restored_blank": true,
+  "monetised_labour": false,
+  "all_in_budget": false
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "firm": "Portfolio Payroll",
+      "source_id": "SRC-0190",
+      "observed_format": "Salary/hiring-resource catalogue with gated/contact route",
+      "conditional_Table_lesson": "A broad report must add a task-specific use, not just more generic hiring commentary.",
+      "limits": "Prior selected primary note; fresh reader timeout/raw403. No current tariff or underlying report recheck.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "Test what the user needs beyond salary/hiring resources; do not treat generic report access as automatically incremental.",
+      "T02_review_mode": "Previously inspected primary context retained; no fresh full body claimed"
+    },
+    {
+      "firm": "Frazer Jones",
+      "source_id": "SRC-0221",
+      "observed_format": "Named payroll leader interview summary",
+      "conditional_Table_lesson": "Case depth and peer learning already exist; distinguish researcher-collected decision cases and permissioned use.",
+      "limits": "Dated10April2025 written summary, retained prior primary-reader note; fresh fullaccess403. Audio not inspected.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "A public leader interview is a prior peer-learning format; distinguish actual case analysis and usable interpretation from the label of expert access.",
+      "T02_review_mode": "Previously inspected primary context retained; no fresh full body claimed"
+    },
+    {
+      "firm": "Oakleaf Partnership",
+      "source_id": "SRC-0222",
+      "observed_format": "Public market commentary and declared recent payroll event",
+      "conditional_Table_lesson": "A payroll gathering itself is not a unique product; test missing decision output/member fit.",
+      "limits": "Fresh primary HTML/body. Provider-called successful event is not independent success measurement or a permissioned dataset.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "A webinar-to-themes/article/recording format already exists. Follow-through must serve a specific task and actual evidence, not just be called a new benefit.",
+      "T02_review_mode": "Fresh retained original body"
+    },
+    {
+      "firm": "Middlemore",
+      "source_id": "SRC-0116",
+      "observed_format": "Post-search recruitment analytics and advisory output",
+      "conditional_Table_lesson": "Specify whose task/output is purchased and whether the work is client-specific or licensable externally.",
+      "limits": "Fresh primary HTML. Not a syndicated operating-performance benchmark or rights contract.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "A client-specific post-search output is a distinct work/service object. Do not turn a short edition briefing into an uncosted client study.",
+      "T02_review_mode": "Fresh retained original body"
+    },
+    {
+      "firm": "Hays",
+      "source_id": "SRC-0192",
+      "observed_format": "Salary/recruiting guide with access and method context",
+      "conditional_Table_lesson": "An employer may need a compensation input rather than a broad leadership research product.",
+      "limits": "Fresh primary-reader body; raw HTML is a shell and parsed text only a title. 2026 label/2025 input periods retained; no salary/survey totals adopted.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "Keep evidence period, country and intended compensation/hiring task; a research edition label does not make all use current or geographically suitable.",
+      "T02_review_mode": "Previously inspected primary context retained; no fresh full body claimed"
+    },
+    {
+      "firm": "Robert Half",
+      "source_id": "SRC-0193",
+      "observed_format": "Public salary guide and customised interpretation/contact offer",
+      "conditional_Table_lesson": "A specific decision-use plus service can be distinct from selling an entire publication.",
+      "limits": "Fresh primary HTML.2027projection/method kept; fee, take-up and realised recruitment benefit not established.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "A public resource with personalised interpretation is an existing service architecture; define the additional task/service rather than assume a paywall or standalone sale.",
+      "T02_review_mode": "Fresh retained original body"
+    },
+    {
+      "firm": "JGA",
+      "source_id": "SRC-0088",
+      "observed_format": "Existing expert UK/global podcast and subscription/archive routes",
+      "conditional_Table_lesson": "Build a distinguishable research/peer output on top of current content; no assumption audience is available or converted.",
+      "limits": "Fresh primary reader, raw403, separate paraphrased note. No guest research permissions, reach or outcomes adopted.",
+      "actual_Table_buyer": false,
+      "actual_sponsor": false,
+      "actual_participant": false,
+      "T02_role": "Existing content/service/interpretation/convening context; actual buyer, funding or distribution role not established.",
+      "T02_selective_lesson": "Existing payroll expert conversations are context, not a guaranteed Table audience or permission to republish guest contributions.",
+      "T02_review_mode": "Previously inspected primary context retained; no fresh full body claimed"
+    }
+  ],
+  "recruitment_comparator_count": 6,
+  "JGA_context_count": 1,
+  "not_the_T01_six_business_models": true,
+  "no_qualified_buyer_list": true,
+  "actual_fieldwork": false
+}

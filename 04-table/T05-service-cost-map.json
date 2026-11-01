@@ -1,0 +1,705 @@
+{
+  "date": "2026-11-01",
+  "status": "reviewed_service_sales_component_full_model_pending",
+  "component_id": "T05S-service-sales",
+  "financial_input_ids": [
+    "FI-S01",
+    "FI-S02",
+    "FI-S03",
+    "FI-S04",
+    "FI-S05",
+    "FI-S06",
+    "FI-S07",
+    "FI-S08",
+    "FI-S09",
+    "FI-S10",
+    "FI-S11",
+    "FI-S12",
+    "FI-S13",
+    "FI-S14",
+    "FI-S15",
+    "FI-S16",
+    "FI-S17",
+    "FI-S18",
+    "FI-S19",
+    "FI-S20",
+    "FI-S21",
+    "FI-S22",
+    "FI-S23",
+    "FI-S24",
+    "FI-S25",
+    "FI-S26",
+    "FI-S27",
+    "FI-S28",
+    "FI-S29",
+    "FI-S30",
+    "FI-S31",
+    "FI-S32",
+    "FI-S33",
+    "FI-S34",
+    "FI-S35",
+    "FI-S36",
+    "FI-S37"
+  ],
+  "reused_financial_input_ids": [
+    "FI-R01",
+    "FI-R05",
+    "FI-R06"
+  ],
+  "first_financial_records_preserved": 33,
+  "new_financial_records": 37,
+  "shared_financial_records": 70,
+  "workload_source_path": "04-table/research-notes/t05-service-costs/workload/workload-candidates.json",
+  "tasks": [
+    {
+      "workload_id": "WS01",
+      "task": "Reusable commercial pack and campaign readiness",
+      "display_label": "Commercial pack adaptation",
+      "hours_input_id": "FI-S02",
+      "unit_key": "campaign_count",
+      "unit_basis": "per_campaign",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW02",
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR09",
+        "WR12",
+        "WR16",
+        "JG01",
+        "JG05"
+      ],
+      "overlap_rule": "Do not recreate or reprice the complete report, its commercial preview, or initial report use-option analysis already in WR09/WR16. A second campaign reuses the asset and costs only real updating work."
+    },
+    {
+      "workload_id": "WS02",
+      "task": "Campaign administration, pipeline review and close",
+      "display_label": "Campaign administration",
+      "hours_input_id": "FI-S03",
+      "unit_key": "campaign_count",
+      "unit_basis": "per_campaign",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR15",
+        "JG04"
+      ],
+      "overlap_rule": "No automatic monthly sales team, retainer, CRM purchase or annual campaign count. Distinguish common review from the same customer contact/proposal work."
+    },
+    {
+      "workload_id": "WS03",
+      "task": "Individually handled prospect contact attempt",
+      "display_label": "Individual contact attempt",
+      "hours_input_id": "FI-S04",
+      "unit_key": "contact_attempt_count",
+      "unit_basis": "per_contact_attempt",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "JG02",
+        "WR04",
+        "WR05"
+      ],
+      "overlap_rule": "Excludes substantive meeting work in WS04 and preparation/negotiation already in WS05/WS06. Not a lead quota, permission to contact or inferred conversion funnel."
+    },
+    {
+      "workload_id": "WS04",
+      "task": "Substantive sales discussion and immediate record",
+      "display_label": "Sales discussion and record",
+      "hours_input_id": "FI-S05",
+      "unit_key": "sales_discussion_count",
+      "unit_basis": "per_sales_discussion",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR03",
+        "WR06",
+        "WR07",
+        "JG02"
+      ],
+      "overlap_rule": "T03 exploratory research is excluded. A no-show records only genuinely incurred preparation/handling, not an invented completed meeting; any real extra effort is retained in the same task record."
+    },
+    {
+      "workload_id": "WS05",
+      "task": "Initial scoped proposal preparation",
+      "display_label": "Initial scoped proposal",
+      "hours_input_id": "FI-S06",
+      "unit_key": "proposal_attempt_count",
+      "unit_basis": "per_proposal_attempt",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW03",
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR16",
+        "JG01",
+        "JG05"
+      ],
+      "overlap_rule": "One partner proposal is one attempt, not a separate licence proposal plus briefing proposal for the same combined offer. This is proposal preparation, not new research or current Table feasibility."
+    },
+    {
+      "workload_id": "WS06",
+      "task": "Additional material proposal or negotiation round",
+      "display_label": "Extra negotiation round",
+      "hours_input_id": "FI-S07",
+      "unit_key": "extra_commercial_round_count",
+      "unit_basis": "per_extra_commercial_round",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR13",
+        "WR16",
+        "JG04"
+      ],
+      "overlap_rule": "If a complete fresh proposal is counted in WS05, do not also count that same writing in WS06. Record preparation, call and revision within one round once."
+    },
+    {
+      "workload_id": "WS07",
+      "task": "Won order / agreement and entitlement setup",
+      "display_label": "Won order and rights setup",
+      "hours_input_id": "FI-S08",
+      "unit_key": "won_order_count",
+      "unit_basis": "per_won_order",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "JG05",
+        "WR15",
+        "WR16"
+      ],
+      "overlap_rule": "Count the agreement once even if it includes a licence and briefing. Negotiation incurred before a lost order belongs in WS05/WS06. A signature/order record is not receipt of cash or completed fulfilment."
+    },
+    {
+      "workload_id": "WS08",
+      "task": "Customer-specific reading path through existing research",
+      "display_label": "Customer reading path",
+      "hours_input_id": "FI-S09",
+      "unit_key": "reading_path_count",
+      "unit_basis": "per_scoped_reading_path",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW02",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR08",
+        "WR09",
+        "WR16"
+      ],
+      "overlap_rule": "The full free research benefit remains intact. Generic summary/preview and existing reading-path assets are reused; do not re-charge WR09/WR16 or repeat the same path because a bundle has several labels. Fresh evidence collection is outside this task."
+    },
+    {
+      "workload_id": "WS09",
+      "task": "Scoped client/public-use asset preparation and context check",
+      "display_label": "Scoped use asset preparation",
+      "hours_input_id": "FI-S10",
+      "unit_key": "use_asset_package_count",
+      "unit_basis": "per_scoped_use_asset_package",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW02",
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR12",
+        "WR16",
+        "JG03",
+        "JG05"
+      ],
+      "overlap_rule": "Use the existing rights review and original design from WR10/WR12. Charge only the additional permitted adaptation/check; no default third-party chart/identity/quote rights, blanket sublicence or new evidence. Multiple genuinely different agreed packages can require repeated work."
+    },
+    {
+      "workload_id": "WS10",
+      "task": "Partner recognition and benefit-register setup",
+      "display_label": "Partner recognition setup",
+      "hours_input_id": "FI-S11",
+      "unit_key": "partner_bundle_count",
+      "unit_basis": "per_won_partner_bundle",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR12",
+        "WR16",
+        "JG05"
+      ],
+      "overlap_rule": "If research is already commissioned/complete, do not describe it as a new commission. This task excludes the licence/briefing work counted in WS07–WS09/WS12–WS15. No contact access, seats, exclusivity, favourable conclusions or recurring reporting is presumed."
+    },
+    {
+      "workload_id": "WS11",
+      "task": "Explicit partner benefit fulfilment administration",
+      "display_label": "Partner benefit administration",
+      "hours_input_id": "FI-S12",
+      "unit_key": "partner_bundle_count",
+      "unit_basis": "per_won_partner_bundle",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR15",
+        "JG04",
+        "JG05"
+      ],
+      "overlap_rule": "No default monthly report or newly compulsory partner service. Reuse invoice, delivery and briefing records; do not redo the underlying work. Multiple real checks can create legitimate additional hours within the same bundle; do not remove them merely because the bundle is counted once."
+    },
+    {
+      "workload_id": "WS12",
+      "task": "Full-research fulfilment delivery run",
+      "display_label": "Research distribution run",
+      "hours_input_id": "FI-S13",
+      "unit_key": "distribution_run_count",
+      "unit_basis": "per_distribution_run",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW05",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR14",
+        "JG02",
+        "JG05"
+      ],
+      "overlap_rule": "A common batch is counted once; no second free-copy charge for the same send. An additional recipient-specific delivery action or separate run is incremental real work, not a second research-production cost. Effort depends on recipient/route complexity; override the hours when material."
+    },
+    {
+      "workload_id": "WS13",
+      "task": "Scoped briefing preparation and scheduling",
+      "display_label": "Briefing preparation",
+      "hours_input_id": "FI-S14",
+      "unit_key": "briefing_session_count",
+      "unit_basis": "per_scoped_briefing_session",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW02",
+        "DW03"
+      ],
+      "existing_report_boundary_ids": [
+        "WR08",
+        "WR09",
+        "WR12",
+        "WR15"
+      ],
+      "overlap_rule": "No new research, unlimited inquiry or promised turnaround. Reuse a prepared briefing and count only the necessary preparation delta for a repeat audience/session. Where WS08 reading-path work is reused, credit only that exact saved task and allocate common person-time once. If an unchanged reusable preparation package supports several sessions, assign it once rather than duplicating full preparation. One joint session serving several entitled customers/partners is one session, not one per attendee or bundle."
+    },
+    {
+      "workload_id": "WS14",
+      "task": "Live scoped briefing delivery",
+      "display_label": "Live briefing delivery",
+      "hours_input_id": "FI-S15",
+      "unit_key": "briefing_session_count",
+      "unit_basis": "per_scoped_briefing_session",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW03"
+      ],
+      "existing_report_boundary_ids": [
+        "WR06",
+        "JG03"
+      ],
+      "overlap_rule": "Duration/headcount are planning choices, not promised session lengths or staffing. A second necessary presenter is real additional person-time; do not multiply the same full task hours by every role. A repeat session is a real repeat unit even if preparation is reused."
+    },
+    {
+      "workload_id": "WS15",
+      "task": "Bounded briefing follow-through",
+      "display_label": "Briefing follow-through",
+      "hours_input_id": "FI-S16",
+      "unit_key": "briefing_session_count",
+      "unit_basis": "per_scoped_briefing_session",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW03",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR09",
+        "WR13",
+        "WR14"
+      ],
+      "overlap_rule": "No general analyst inquiry desk, compliance advice, bespoke consulting, new study or recurring support is assumed. If one shared follow-up is reused for multiple sessions, allocate the common work once; genuinely different follow-up remains incremental."
+    },
+    {
+      "workload_id": "WS16",
+      "task": "Service-case triage and routing",
+      "display_label": "Support triage",
+      "hours_input_id": "FI-S17",
+      "unit_key": "service_case_count",
+      "unit_basis": "per_service_case",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR13",
+        "WR14",
+        "JG03"
+      ],
+      "overlap_rule": "WS18 contains resolution and closing work for this same case; do not include it here. Paid, bundled and free recipients can create cases. No new support entitlement or participant form is created; fresh research/advice is outside the scope."
+    },
+    {
+      "workload_id": "WS17",
+      "task": "Invoice, receipt and fulfilment-status administration",
+      "display_label": "Invoice and receipt administration",
+      "hours_input_id": "FI-S18",
+      "unit_key": "invoice_cycle_count",
+      "unit_basis": "per_invoice_cycle",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR15",
+        "JG04"
+      ],
+      "overlap_rule": "Invoice, cash receipt and delivery remain different statuses. Do not count invoice value and receipt as two revenues. Costs already included in supplier/package/admin fees are reconciled once. No tax/recovery/payment-platform rule is presumed."
+    },
+    {
+      "workload_id": "WS18",
+      "task": "Service-case resolution, correction routing and close",
+      "display_label": "Incremental support resolution",
+      "hours_input_id": "FI-S19",
+      "unit_key": "service_case_count",
+      "unit_basis": "per_service_case",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR13",
+        "WR14",
+        "JG05"
+      ],
+      "overlap_rule": "New source/content correction, narrative revision, QA and ordinary contractual remedy stay in WR10/WR13/WR14 or the appropriate production route; this row contains only incremental customer resolution/routing/redistribution and does not create an extra fee. If several cases share a correction notice/replacement send, prepare/send it once and allocate that common work once; do not also count the same send in WS12. A separately requested new study or advisory service is not included."
+    },
+    {
+      "workload_id": "WS19",
+      "task": "Actually initiated renewal or expiry administration",
+      "display_label": "Renewal or expiry administration",
+      "hours_input_id": "FI-S20",
+      "unit_key": "renewal_action_count",
+      "unit_basis": "per_renewal_or_expiry_action",
+      "comparison_role": "Commercial",
+      "rate_input_id": "FI-S01",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR01",
+        "WR16",
+        "JG05"
+      ],
+      "overlap_rule": "No auto-renewal, subscription, annual update, future council tenure or new edition is assumed. New prospecting/proposal/research work belongs in the relevant task once; do not add a full second sales cycle here by default."
+    },
+    {
+      "workload_id": "WS20",
+      "task": "Optional short cycle follow-through note",
+      "display_label": "Optional cycle note",
+      "hours_input_id": "FI-S21",
+      "unit_key": "cycle_note_count",
+      "unit_basis": "per_explicitly_scoped_cycle_note",
+      "comparison_role": "Specialist",
+      "rate_input_id": "FI-R01",
+      "T02_work_ids": [
+        "DW06"
+      ],
+      "existing_report_boundary_ids": [
+        "WR07",
+        "WR08",
+        "WR09",
+        "WR10"
+      ],
+      "overlap_rule": "This T02 benefit idea is uncommitted. No promised answer to every practitioner question, monthly note, advice desk, new research or event production. Distribution uses WS12 once; the same note is not produced separately for each partner/free recipient."
+    },
+    {
+      "workload_id": "WS21",
+      "task": "Campaign fulfilment readiness and distribution-route setup",
+      "display_label": "Fulfilment route setup",
+      "hours_input_id": "FI-S22",
+      "unit_key": "campaign_count",
+      "unit_basis": "per_campaign",
+      "comparison_role": "Coordination",
+      "rate_input_id": "FI-R05",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "existing_report_boundary_ids": [
+        "WR14",
+        "WR15",
+        "JG05"
+      ],
+      "overlap_rule": "WR14 already covers final report QA and portable JGA handover; do not repeat it. Reuse an existing tested release/route and count only the genuinely necessary readiness check/update. If multiple campaigns share an unchanged configuration, allocate its setup once and retain only actual incremental checks. No new website, platform purchase or access restriction is required."
+    }
+  ],
+  "units": [
+    {
+      "unit_key": "campaign_count",
+      "display_label": "Campaign",
+      "quantity_input_id": "FI-S23",
+      "quantity": null,
+      "task_ids": [
+        "WS01",
+        "WS02",
+        "WS21"
+      ],
+      "counting_note": "One explicitly defined selling campaign using a named edition/offer. Confirm actual offered outputs, fulfilment boundaries, commercial description and reusable proposal/entitlement templates."
+    },
+    {
+      "unit_key": "contact_attempt_count",
+      "display_label": "Contact attempt",
+      "quantity_input_id": "FI-S24",
+      "quantity": null,
+      "task_ids": [
+        "WS03"
+      ],
+      "counting_note": "One actual individually handled approach or short follow-up attempt, including no response, decline or failed contact. Record each genuinely separate attempt; a bulk action is not many individually worked attempts."
+    },
+    {
+      "unit_key": "sales_discussion_count",
+      "display_label": "Sales discussion",
+      "quantity_input_id": "FI-S25",
+      "quantity": null,
+      "task_ids": [
+        "WS04"
+      ],
+      "counting_note": "One actual substantive commercial needs/fit discussion: relevant preparation, discussion and immediate note. Includes discussions that do not lead to a proposal or sale."
+    },
+    {
+      "unit_key": "proposal_attempt_count",
+      "display_label": "Initial proposal",
+      "quantity_input_id": "FI-S26",
+      "quantity": null,
+      "task_ids": [
+        "WS05"
+      ],
+      "counting_note": "One actual initial written scoped commercial proposal for a named prospect/order, whether won, lost, declined or unanswered. Define edition/use, bundle entitlements, service preparation, price/terms to be agreed and delivery capability."
+    },
+    {
+      "unit_key": "extra_commercial_round_count",
+      "display_label": "Negotiation round",
+      "quantity_input_id": "FI-S27",
+      "quantity": null,
+      "task_ids": [
+        "WS06"
+      ],
+      "counting_note": "One genuinely additional material negotiation/revision round beyond the initial scoped proposal work, including a failed negotiation. An ordinary document save or unchanged resend is not a round."
+    },
+    {
+      "unit_key": "won_order_count",
+      "display_label": "Won order setup",
+      "quantity_input_id": "FI-S28",
+      "quantity": null,
+      "task_ids": [
+        "WS07"
+      ],
+      "counting_note": "One actually agreed customer order or partner bundle: execute/capture agreed terms, record edition/version, recipient/use/service entitlements, delivery route and responsible owner."
+    },
+    {
+      "unit_key": "reading_path_count",
+      "display_label": "Reading path",
+      "quantity_input_id": "FI-S29",
+      "quantity": null,
+      "task_ids": [
+        "WS08"
+      ],
+      "counting_note": "One genuinely requested/scoped task-based route through the already completed full edition and existing tools. Count only actual additional preparation for this user/use."
+    },
+    {
+      "unit_key": "use_asset_package_count",
+      "display_label": "Use asset package",
+      "quantity_input_id": "FI-S30",
+      "quantity": null,
+      "task_ids": [
+        "WS09"
+      ],
+      "counting_note": "One defined asset package for an actually agreed client/public use: exact original material/version, relevant contextual/source checks, attribution and necessary adaptation/layout."
+    },
+    {
+      "unit_key": "partner_bundle_count",
+      "display_label": "Partner administration",
+      "quantity_input_id": "FI-S31",
+      "quantity": null,
+      "task_ids": [
+        "WS10",
+        "WS11"
+      ],
+      "counting_note": "One won partner bundle: accurately describe the funded work, agree/capture recognition and logo permissions where relevant, and record the specific benefits and delivery owner."
+    },
+    {
+      "unit_key": "distribution_run_count",
+      "display_label": "Distribution run",
+      "quantity_input_id": "FI-S32",
+      "quantity": null,
+      "task_ids": [
+        "WS12"
+      ],
+      "counting_note": "One actual prepared distribution run/batch using the named full edition and agreed route: recipient/access list handling, send/access action and basic delivery reconciliation. Paid, bundled and free practitioner copies can share the same run."
+    },
+    {
+      "unit_key": "briefing_session_count",
+      "display_label": "Briefing session",
+      "quantity_input_id": "FI-S33",
+      "quantity": null,
+      "task_ids": [
+        "WS13",
+        "WS14",
+        "WS15"
+      ],
+      "counting_note": "One actual agreed session, including a partner-bundled session: confirm audience/use/agenda, arrange it and prepare supported existing findings/material. Planning hours are total preparer/coordinator person-hours."
+    },
+    {
+      "unit_key": "service_case_count",
+      "display_label": "Support case",
+      "quantity_input_id": "FI-S34",
+      "quantity": null,
+      "task_ids": [
+        "WS16",
+        "WS18"
+      ],
+      "counting_note": "One actual access/use/service issue: receive, identify affected edition/entitlement, distinguish an ordinary correction from a new request, assign the appropriate owner and record status. Count the issue once, not every reply."
+    },
+    {
+      "unit_key": "invoice_cycle_count",
+      "display_label": "Invoice cycle",
+      "quantity_input_id": "FI-S35",
+      "quantity": null,
+      "task_ids": [
+        "WS17"
+      ],
+      "counting_note": "One actual invoice/collection cycle: create/check invoice, routine agreed follow-up, reconcile receipt and link it to the order and fulfilment record. Count additional genuinely separate staged invoices as separate cycles only for their incremental work."
+    },
+    {
+      "unit_key": "renewal_action_count",
+      "display_label": "Renewal action",
+      "quantity_input_id": "FI-S36",
+      "quantity": null,
+      "task_ids": [
+        "WS19"
+      ],
+      "counting_note": "One actual renewal/expiry case if a defined term or genuinely wanted next edition makes it relevant, including a renewal that does not proceed. Confirm version/entitlements/status and close or route the case."
+    },
+    {
+      "unit_key": "cycle_note_count",
+      "display_label": "Cycle note",
+      "quantity_input_id": "FI-S37",
+      "quantity": null,
+      "task_ids": [
+        "WS20"
+      ],
+      "counting_note": "One separately chosen short note drawing on existing permitted material: useful takeaways, evidence limits, unresolved questions and indirect-identification review. One shared note can serve all permitted recipients."
+    }
+  ],
+  "role_rate_input_ids": {
+    "Specialist": "FI-R01",
+    "Coordination": "FI-R05",
+    "Commercial": "FI-S01"
+  },
+  "day_normalisation_input_id": "FI-R06",
+  "comparison_role_mapping_is_analyst_assumption": true,
+  "commercial_rate_is_unknown": true,
+  "all_programme_quantities_start_blank": true,
+  "no_volume_or_conversion_forecast": true,
+  "effort_cases": [
+    "low",
+    "working",
+    "high"
+  ],
+  "default_effort_case": "working",
+  "programme_totals_require_explicit_quantities": true,
+  "per_unit_values_must_not_be_summed_without_quantities": true,
+  "no_complete_cash_cost_claim": true,
+  "practitioner_free_full_research_preserved": true,
+  "bundled_fulfilment_counted_once": true,
+  "session_count_distinct_from_audience_entitlements": true,
+  "current_contract_fee_changed": false,
+  "within_scope_corrections_not_extra_charged": true,
+  "fourteen_core_questions_unchanged": true,
+  "first_research_workbook_changed": false,
+  "full_financial_model_complete": false,
+  "actual_orders": [],
+  "actual_quotes": [],
+  "actual_staffing": [],
+  "actual_timesheets": [],
+  "actual_briefings": [],
+  "actual_customer_validation": [],
+  "external_actions": [],
+  "source_ids": [
+    "SRC-0275",
+    "SRC-0276",
+    "SRC-0277",
+    "SRC-0278",
+    "SRC-0279",
+    "SRC-0263",
+    "SRC-0265",
+    "SRC-0266"
+  ],
+  "claim_ids": [
+    "CLM-0575",
+    "CLM-0576",
+    "CLM-0577",
+    "CLM-0578",
+    "CLM-0579",
+    "CLM-0580",
+    "CLM-0581",
+    "CLM-0582",
+    "CLM-0583",
+    "CLM-0584",
+    "CLM-0585"
+  ],
+  "workbook_created": true,
+  "workbook_absolute_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+  "workbook_qa_path": "08-qa/t05s-workbook/verification.json",
+  "workbook_cell_map_path": "08-qa/t05s-workbook/cell-map.json",
+  "independent_review_path": "08-qa/t05s-review/integration-checks.json",
+  "component_review_complete": true,
+  "next_step": "Event/participant operations, moderation, travel and dated cash before the complete matched A/B pilot/annual model.",
+  "workbook_sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e",
+  "workbook_export_check_path": "08-qa/t05s-workbook/export-check.json",
+  "workbook_calculation_tests": 64,
+  "workbook_visual_regions": 6
+}

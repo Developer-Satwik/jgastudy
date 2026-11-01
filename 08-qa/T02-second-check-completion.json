@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-30",
+  "status": "completed_internal_T02_second_challenge_validation_pending",
+  "original_propositions_preserved": 3,
+  "original_hypotheses_preserved": 4,
+  "contract_segments_preserved": 5,
+  "new_optional_conditions": 5,
+  "new_source_routes": 2,
+  "new_claim_records": 11,
+  "canonical_sources": 225,
+  "canonical_claims": 443,
+  "source_records_with_primary_originals": 153,
+  "earlier_claims_preserved_exactly": 432,
+  "earlier_source_base_records_preserved": 223,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 158,
+  "canonical_hash_preservation_mode": "Exact pre-change snapshots; old claims/findings unchanged; old source base/reviews preserved with only appended review/topic metadata.",
+  "independent_integrated_checks": 1011,
+  "constructed_analyst_applications": 8,
+  "root_constructed_checks": 199,
+  "prior_questions": 3,
+  "prior_saved_answers": 24,
+  "prior_lineage_checks": 126,
+  "prior_semantic_rereads": 3,
+  "prior_model_reruns": 0,
+  "empirical_validation": false,
+  "additional_mandatory_report_questions": 0,
+  "new_case_quota": false,
+  "named_detailed_case_required_to_count_practitioner": false,
+  "active_collection_guide_changed": false,
+  "practitioner_free_full_research_preserved": true,
+  "JGA_commissioned_IP_changed": false,
+  "current_contract_correction_remedies_preserved": true,
+  "new_automatic_correction_charges": false,
+  "actual_buyer_member_validation": 0,
+  "actual_concept_exposures": 0,
+  "actual_rights_grants": 0,
+  "financial_inputs_added": 0,
+  "prices_added": 0,
+  "external_messages_sent": 0,
+  "purchases_or_bookings": 0,
+  "fieldwork_activated": false,
+  "final_client_delivery": false,
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-30",
+    "checks": 5812,
+    "json_files": 548,
+    "source_records": 225,
+    "claim_records": 443,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 464,
+    "scope": "T02 second challenge evidence/use/time/work/fulfilment/concept-state conditions; T02 three concrete internal propositions, use/rights/delivery and inactive draft guide; T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01–R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  },
+  "artifacts": [
+    {
+      "path": "04-table/T02-SECOND-CHECK-READOUT.md",
+      "sha256": "97f5beab2ca2a3f987332b26544be94c51c214f42d9f87ff3e144fbbfb0ce3a1"
+    },
+    {
+      "path": "04-table/T02-OFFER-FIT-AND-WORDING.md",
+      "sha256": "5e2daec089fc5312ca106a94c7bb7abc665afa844394b1e82bd262393c953226"
+    },
+    {
+      "path": "04-table/T02-second-challenge-map.json",
+      "sha256": "37fd188abc43391de54ae22e26724e4fff4475ddb0962efa773ab7d19e1c860c"
+    },
+    {
+      "path": "04-table/T02-offer-fit-aid.json",
+      "sha256": "fe04060f59e653fbfc062c6822e88300f7fb4dc31de7ae10c876e0782de0376d"
+    },
+    {
+      "path": "08-qa/T02-second-check-record-map.json",
+      "sha256": "67b6886649d9d60b3ddd9bdd4817e9b2ab708d4e1552898b701e634e93f3c7ed"
+    },
+    {
+      "path": "08-qa/T02-second-check-captures.json",
+      "sha256": "594624e318e7275bbc091977590d1c43a1a76c698d8092b20f0e9264e3c9d2f4"
+    },
+    {
+      "path": "08-qa/T02-second-routing-walkthrough.json",
+      "sha256": "419c3aae18441db702390f56051953f983a7e7037a6bca8912c822d34d311265"
+    },
+    {
+      "path": "08-qa/T02-second-check-independent-review.md",
+      "sha256": "83b6e697dcd009e7645de0558ea73141d0bad92d129571b2f06f6a09b2dcde53"
+    },
+    {
+      "path": "08-qa/t02-second-review/integration-checks.json",
+      "sha256": "4c39d0ab3600dba0e9bfd18cc3568b80bfe114c6f1dc71ce0bda4a7585537437"
+    },
+    {
+      "path": "08-qa/T02-second-check-baseline.json",
+      "sha256": "304779bbd81f32be0737f5aa9c792e25555a6ecc660ea6e69800e93e06cdd384"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "6267b5af6e12d3773282322d09e65eb89214d952856e7edea9c0f74ed0cd8a7c"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "11c4adb46764d7193f6504a42b1ebbc9aa5a08a26216554b3f5aa759a7f0fa43"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "ef8c6fcadf01d4168060b599d2113ad42977c464ece4230af14f132d01ba1dd3"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "946e7ea44fe65731c610890240835521d31379f2cd89dc9c5196e1a958de7bc8"
+    },
+    {
+      "path": "README.md",
+      "sha256": "8eafae4ddbdc03e253f9fc878f0afa5fc223e36c2f119cbdf0bcd2c7dfe32be7"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "c25078af088e72b697fe1ab7fbe20cfc6b392c9214e97bbf217e8206d0c83483"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "f8ad60abc64ed6b072d716139a616e01fba7c7567a07adab34cebeb2890bdb8c"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "3334bd031fbfc58432dbfdfd429835f1e67b2fae1d17da58e90f53c7eb955c57"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "eb10478e5ee560c3d01c94a9fdae699d4bbadc9ddd4ba1bbeddda9d79e59f73e"
+    },
+    {
+      "path": "02-evidence/registers/source-aliases.json",
+      "sha256": "68d4a5b27dae041b80b558076d56422cc8b0d4133ced870d65825fdfdd241446"
+    }
+  ],
+  "completion_artifact_hashes_verified": true
+}

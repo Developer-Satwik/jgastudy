@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "original_path": "02-evidence/registers/sources.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/sources.json",
+      "sha256": "cece3aeff411bef39fea64a67517b3a465a8ce42e81837168b00310299341836"
+    },
+    {
+      "original_path": "02-evidence/registers/claims.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/claims.json",
+      "sha256": "97bf46f1986b2892889d3ca8e32abcdf90ccba77dc8432641a542dc3e97dd6c5"
+    },
+    {
+      "original_path": "02-evidence/registers/searches.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/searches.json",
+      "sha256": "337ccf6ac357a65c9278a6c9438d5bc7db34ee0cf81fbb0f7d7561e7311a2a37"
+    },
+    {
+      "original_path": "02-evidence/registers/source-aliases.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/02-evidence/registers/source-aliases.json",
+      "sha256": "2b6476715c535cc186213226340e4f5c3d1c09ef91fbb7ba92a7069812070567"
+    },
+    {
+      "original_path": "05-analysis/findings.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "original_path": "04-table/financial-inputs.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/04-table/financial-inputs.json",
+      "sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509"
+    },
+    {
+      "original_path": "README.md",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/README.md.txt",
+      "sha256": "99ae677927bf1c1c01339890b677c7dee74fce6e2ee02b8620b6e1b887becc70"
+    },
+    {
+      "original_path": "00-control/CURRENT-STATUS.md",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "3525112003837156c77cac69844ea6c370b68bab1c8e8768e3ecb7a251e6bea9"
+    },
+    {
+      "original_path": "00-control/work-packages.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/00-control/work-packages.json",
+      "sha256": "4e783b13287333519dd78494cc05923cb009adbab525da3bec37fc9bfb6e03ea"
+    },
+    {
+      "original_path": "00-control/changes.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/00-control/changes.json",
+      "sha256": "ca5151d3b2bb2d33376f4fa45d04d718125401bd5eb641e466981d4833abee03"
+    },
+    {
+      "original_path": "00-control/decisions.json",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/00-control/decisions.json",
+      "sha256": "e2fe4d08ce5224db85ad557ac46b91a1459a1e1e21f8db1036e4ca57c9da5995"
+    },
+    {
+      "original_path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "cba1845e27e61e4c1310e168809150dceb6b50231fd9aef4c26862ca472aa52f"
+    },
+    {
+      "original_path": "08-qa/validate_workspace.py",
+      "snapshot_path": "04-table/research-notes/t05-service-costs/before-review/08-qa/validate_workspace.py",
+      "sha256": "9c0b31bbb826540da644be10e636c1f01d51b2b4f5821d373b74617bb6c5b951"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "source_id": "SRC-0296",
+      "path": "04-table/research-notes/t05-cash/evidence/C-S01-selected-reader-paraphrase.txt",
+      "sha256": "43b3587545cb7a03dc286f1c95027ff542dd27dac6a36d4b06d3e72ba9143fc7",
+      "kind": "browser_reader_paraphrase_not_original"
+    },
+    {
+      "source_id": "SRC-0297",
+      "path": "04-table/research-notes/t05-cash/evidence/captures/C-S02.html",
+      "sha256": "1e8cef3b8d52b846a32387c919382c70398a7091378a80557280a4219a69015e",
+      "kind": "retained_original_html"
+    },
+    {
+      "source_id": "SRC-0297",
+      "path": "04-table/research-notes/t05-cash/evidence/parsed/C-S02.txt",
+      "sha256": "534e95ba661a588debc41b8d38863aaf4e7096d042c7bb4915c786cee6d06a53",
+      "kind": "parsed_original_text"
+    },
+    {
+      "source_id": "SRC-0298",
+      "path": "04-table/research-notes/t05-cash/evidence/captures/C-S03.html",
+      "sha256": "d71fd3467a07ba9c4d443452804ccee52d4adee0aff4b1329d140ea15f3772ea",
+      "kind": "retained_original_html"
+    },
+    {
+      "source_id": "SRC-0298",
+      "path": "04-table/research-notes/t05-cash/evidence/parsed/C-S03.txt",
+      "sha256": "22da48263c5d8eea294bf2bb3913ee0c72bb48661d9fbd97dd70cc6db7149cd5",
+      "kind": "parsed_original_text"
+    }
+  ],
+  "counts_by_kind": {
+    "browser_reader_paraphrase_not_original": 1,
+    "retained_original_html": 2,
+    "parsed_original_text": 2
+  }
+}

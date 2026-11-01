@@ -1,0 +1,811 @@
+{
+  "schema_version": "1.0",
+  "framework_version": "0.2",
+  "date": "2026-10-29",
+  "module_id": "R08",
+  "title": "Payroll Investment Decision Framework",
+  "status": "prepared_internal_desktop_framework_original_integration_pending",
+  "purpose": "Help explain the current decision and next supported action for a scoped payroll need, without prescribing investment.",
+  "views": [
+    {
+      "view_id": "V01",
+      "title": "What needs attention, if anything?",
+      "instruction": "Describe the actual task, what works, who is affected and the intended outcome.",
+      "boundary": "A need is not a chosen solution. Adequate service and no new priority are valid.",
+      "selective_record_fields": [
+        "task_and_scope",
+        "current_adequate_work",
+        "affected_outcome",
+        "intended_improvement"
+      ],
+      "mandatory": false,
+      "sequence_required": false,
+      "scored": false,
+      "validated": false,
+      "synthesis_link_id": "SYN8-L01",
+      "topic_ids": [
+        "R02",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-012",
+        "FND-013",
+        "FND-014",
+        "FND-016",
+        "FND-019",
+        "FND-022",
+        "FND-068",
+        "FND-076"
+      ],
+      "claim_ids": [
+        "CLM-0164",
+        "CLM-0170",
+        "CLM-0178",
+        "CLM-0180",
+        "CLM-0182",
+        "CLM-0183",
+        "CLM-0184",
+        "CLM-0186",
+        "CLM-0203",
+        "CLM-0205",
+        "CLM-0398",
+        "CLM-0428"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0083",
+        "SRC-0094",
+        "SRC-0099",
+        "SRC-0101",
+        "SRC-0103",
+        "SRC-0104",
+        "SRC-0105",
+        "SRC-0107",
+        "SRC-0121",
+        "SRC-0123",
+        "SRC-0198",
+        "SRC-0213",
+        "SRC-0214",
+        "SRC-0223"
+      ],
+      "existing_question_ids": [
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q008"
+      ]
+    },
+    {
+      "view_id": "V02",
+      "title": "Which responses are feasible?",
+      "instruction": "Consider the relevant responses feasible at the specified decision/event date; distinguish knowledge available then from a later retrospective account. Include current capability, process/skills, retention or scoped change.",
+      "boundary": "Options can combine; advertised availability does not prove usable access. Do not force a purchase or shortlist.",
+      "selective_record_fields": [
+        "current_arrangement",
+        "alternatives_considered",
+        "actual_feasibility_basis",
+        "selected_response_if_known"
+      ],
+      "mandatory": false,
+      "sequence_required": false,
+      "scored": false,
+      "validated": false,
+      "synthesis_link_id": "SYN8-L02",
+      "topic_ids": [
+        "R03",
+        "R06",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-020",
+        "FND-024",
+        "FND-025",
+        "FND-026",
+        "FND-028",
+        "FND-029",
+        "FND-031",
+        "FND-032",
+        "FND-033",
+        "FND-061",
+        "FND-074",
+        "FND-075"
+      ],
+      "claim_ids": [
+        "CLM-0215",
+        "CLM-0219",
+        "CLM-0220",
+        "CLM-0222",
+        "CLM-0229",
+        "CLM-0231",
+        "CLM-0241",
+        "CLM-0244",
+        "CLM-0249",
+        "CLM-0368",
+        "CLM-0417",
+        "CLM-0424"
+      ],
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0097",
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0120",
+        "SRC-0133",
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0144",
+        "SRC-0146",
+        "SRC-0149",
+        "SRC-0206",
+        "SRC-0207",
+        "SRC-0217",
+        "SRC-0218",
+        "SRC-0219",
+        "SRC-0220",
+        "SRC-0221",
+        "SRC-0222"
+      ],
+      "existing_question_ids": [
+        "Q002",
+        "Q004",
+        "Q012"
+      ]
+    },
+    {
+      "view_id": "V03",
+      "title": "Who can decide what?",
+      "instruction": "Establish the authority, resource responsibility or external condition for this particular action, object and date, where known.",
+      "boundary": "Seniority, sponsorship, funding, signature and release rights differ. No separate formal approval can be a valid scoped position.",
+      "selective_record_fields": [
+        "action_and_object",
+        "known_authority_function",
+        "funding_responsibility",
+        "condition_and_controlling_party"
+      ],
+      "mandatory": false,
+      "sequence_required": false,
+      "scored": false,
+      "validated": false,
+      "synthesis_link_id": "SYN8-L03",
+      "topic_ids": [
+        "R04",
+        "R06"
+      ],
+      "finding_ids": [
+        "FND-034",
+        "FND-035",
+        "FND-037",
+        "FND-039",
+        "FND-040",
+        "FND-041",
+        "FND-042",
+        "FND-043",
+        "FND-064"
+      ],
+      "claim_ids": [
+        "CLM-0261",
+        "CLM-0262",
+        "CLM-0278",
+        "CLM-0279",
+        "CLM-0283",
+        "CLM-0288",
+        "CLM-0290",
+        "CLM-0291",
+        "CLM-0292",
+        "CLM-0294",
+        "CLM-0379"
+      ],
+      "source_ids": [
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0131",
+        "SRC-0147",
+        "SRC-0148",
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0155",
+        "SRC-0156",
+        "SRC-0164",
+        "SRC-0165",
+        "SRC-0168",
+        "SRC-0170",
+        "SRC-0172",
+        "SRC-0173",
+        "SRC-0210"
+      ],
+      "existing_question_ids": [
+        "Q001",
+        "Q006",
+        "Q007",
+        "Q009"
+      ]
+    },
+    {
+      "view_id": "V04",
+      "title": "What evidence and support are relevant?",
+      "instruction": "Match the outcome to the evidence actually requested or supplied, known resources, affordability and practical delivery conditions.",
+      "boundary": "Requested, supplied, accepted, believed influential and independently corroborated evidence are different claims. Acceptance does not verify every assertion or establish causal influence. Existing resources can support work without a new budget.",
+      "selective_record_fields": [
+        "evidence_requested",
+        "evidence_supplied",
+        "evidence_acceptance_if_known",
+        "perceived_influence_and_basis",
+        "resources_and_delivery_conditions"
+      ],
+      "mandatory": false,
+      "sequence_required": false,
+      "scored": false,
+      "validated": false,
+      "synthesis_link_id": "SYN8-L04",
+      "topic_ids": [
+        "R05",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-044",
+        "FND-045",
+        "FND-047",
+        "FND-049",
+        "FND-051",
+        "FND-053",
+        "FND-067",
+        "FND-073"
+      ],
+      "claim_ids": [
+        "CLM-0298",
+        "CLM-0302",
+        "CLM-0310",
+        "CLM-0318",
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0322",
+        "CLM-0328",
+        "CLM-0343",
+        "CLM-0408",
+        "CLM-0427"
+      ],
+      "source_ids": [
+        "SRC-0003",
+        "SRC-0005",
+        "SRC-0074",
+        "SRC-0075",
+        "SRC-0076",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0153",
+        "SRC-0174",
+        "SRC-0175",
+        "SRC-0179",
+        "SRC-0180",
+        "SRC-0181",
+        "SRC-0182",
+        "SRC-0184",
+        "SRC-0194",
+        "SRC-0223"
+      ],
+      "existing_question_ids": [
+        "Q010",
+        "Q011",
+        "Q013"
+      ]
+    },
+    {
+      "view_id": "V05",
+      "title": "What is the evidenced position?",
+      "instruction": "Keep the proposal decision, commitment, implementation and intended/assessed benefit separate, with their own scope and dates where supplied.",
+      "boundary": "Approval is not operation or benefit. Last evidenced state is not automatically the current or ultimate outcome.",
+      "selective_record_fields": [
+        "proposal_decision",
+        "commitment",
+        "implementation",
+        "benefit_assessment"
+      ],
+      "mandatory": false,
+      "sequence_required": false,
+      "scored": false,
+      "validated": false,
+      "synthesis_link_id": "SYN8-L05",
+      "topic_ids": [
+        "R03",
+        "R06",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-027",
+        "FND-055",
+        "FND-057",
+        "FND-058",
+        "FND-060",
+        "FND-062",
+        "FND-063",
+        "FND-065",
+        "FND-069"
+      ],
+      "claim_ids": [
+        "CLM-0225",
+        "CLM-0228",
+        "CLM-0349",
+        "CLM-0350",
+        "CLM-0364",
+        "CLM-0365",
+        "CLM-0366",
+        "CLM-0371",
+        "CLM-0385",
+        "CLM-0405"
+      ],
+      "source_ids": [
+        "SRC-0075",
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0130",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0198",
+        "SRC-0199",
+        "SRC-0203",
+        "SRC-0204",
+        "SRC-0206",
+        "SRC-0212",
+        "SRC-0215",
+        "SRC-0216"
+      ],
+      "existing_question_ids": [
+        "Q006",
+        "Q007",
+        "Q013"
+      ]
+    },
+    {
+      "view_id": "V06",
+      "title": "What next action or review is justified?",
+      "instruction": "Identify a remaining evidence need, actual condition or relevant review only when supported by the account.",
+      "boundary": "A proposed remedy is not a proven effect. Retention, a reasoned stop, no new action or an unresolved partial brief can be legitimate.",
+      "selective_record_fields": [
+        "remaining_evidence_or_condition",
+        "supported_next_action_if_any",
+        "relevant_owner_if_known",
+        "review_trigger_or_timing_if_known"
+      ],
+      "mandatory": false,
+      "sequence_required": false,
+      "scored": false,
+      "validated": false,
+      "synthesis_link_id": "SYN8-L06",
+      "topic_ids": [
+        "R05",
+        "R06",
+        "R07",
+        "R08"
+      ],
+      "finding_ids": [
+        "FND-049",
+        "FND-060",
+        "FND-070",
+        "FND-072",
+        "FND-073",
+        "FND-074",
+        "FND-076"
+      ],
+      "claim_ids": [
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0366",
+        "CLM-0407",
+        "CLM-0409",
+        "CLM-0413",
+        "CLM-0417",
+        "CLM-0427",
+        "CLM-0428"
+      ],
+      "source_ids": [
+        "SRC-0003",
+        "SRC-0068",
+        "SRC-0070",
+        "SRC-0130",
+        "SRC-0153",
+        "SRC-0181",
+        "SRC-0203",
+        "SRC-0206",
+        "SRC-0207",
+        "SRC-0217",
+        "SRC-0218",
+        "SRC-0219",
+        "SRC-0223"
+      ],
+      "existing_question_ids": [
+        "Q005",
+        "Q011",
+        "Q013",
+        "Q014"
+      ]
+    }
+  ],
+  "views_are_linked_not_stages": true,
+  "mandatory_sequence": false,
+  "score": false,
+  "validated_predictor": false,
+  "approval_recipe": false,
+  "participant_validated": false,
+  "complete_final_WP15": false,
+  "requires_WP11_original_coding": true,
+  "new_mandatory_questions": 0,
+  "core_question_version": "0.2",
+  "core_question_count": 14,
+  "all_views_required": false,
+  "partial_brief_allowed": true,
+  "no_case_allowed": true,
+  "no_disclosure_allowed": true,
+  "confidential_documents_required": false,
+  "personal_names_required": false,
+  "exact_budget_required": false,
+  "missing_owner_or_date_defaults_to_pending": false,
+  "missingness_values": [
+    "not_known",
+    "not_measured",
+    "not_applicable",
+    "not_disclosed"
+  ],
+  "case_route_not_a_decision_disposition": true,
+  "no_material_gap_is_valid": true,
+  "no_action_or_retention_or_stop_can_be_appropriate": true,
+  "states_are_separate": [
+    "proposal_decision",
+    "commitment",
+    "implementation",
+    "benefit_assessment"
+  ],
+  "evidence_claims_are_separate": [
+    "requested",
+    "supplied",
+    "accepted_if_known",
+    "perceived_influence_and_basis",
+    "independently_established_effect_if_claimed"
+  ],
+  "blank_scope_template": {
+    "record_id": null,
+    "as_of_date_if_known": null,
+    "event_date_if_known": null,
+    "work_object_and_scope": null,
+    "remit_and_direct_knowledge": null,
+    "source_and_permission": null
+  },
+  "blank_canvas": {
+    "V01": {
+      "task_and_scope": null,
+      "current_adequate_work": null,
+      "affected_outcome": null,
+      "intended_improvement": null
+    },
+    "V02": {
+      "current_arrangement": null,
+      "alternatives_considered": null,
+      "actual_feasibility_basis": null,
+      "selected_response_if_known": null
+    },
+    "V03": {
+      "action_and_object": null,
+      "known_authority_function": null,
+      "funding_responsibility": null,
+      "condition_and_controlling_party": null
+    },
+    "V04": {
+      "evidence_requested": null,
+      "evidence_supplied": null,
+      "evidence_acceptance_if_known": null,
+      "perceived_influence_and_basis": null,
+      "resources_and_delivery_conditions": null
+    },
+    "V05": {
+      "proposal_decision": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null
+    },
+    "V06": {
+      "remaining_evidence_or_condition": null,
+      "supported_next_action_if_any": null,
+      "relevant_owner_if_known": null,
+      "review_trigger_or_timing_if_known": null
+    }
+  },
+  "blank_decision_brief": {
+    "scope_and_date_if_known": null,
+    "what_is_known": null,
+    "source_and_knowledge_basis": null,
+    "what_is_not_established": null,
+    "next_action_or_review_if_supported": null
+  },
+  "participant_observations": [],
+  "actual_case_records": [],
+  "completed_framework_use_tests": [],
+  "causal_effect_estimates": [],
+  "employer_forecasts": [],
+  "chart_data": [],
+  "financial_inputs": [],
+  "new_source_routes": 0,
+  "new_canonical_claims": 0,
+  "new_market_estimates": 0,
+  "new_numeric_scores": 0,
+  "held_claim_ids_not_positive_support": [
+    "CLM-0051",
+    "CLM-0052",
+    "CLM-0167",
+    "CLM-0168",
+    "CLM-0218",
+    "CLM-0392"
+  ],
+  "hypotheses": [
+    {
+      "hypothesis_id": "SYN8-H01",
+      "proposition": "A compact set of linked views helps readers turn a need into a more useful next-decision explanation.",
+      "status": "untested_framework_usefulness",
+      "needed_evidence": "Permissioned practitioner use/comprehension and case review; record contrary/unused views without inventing a usability test."
+    },
+    {
+      "hypothesis_id": "SYN8-H02",
+      "proposition": "Specific evidence or a clarified condition affected a particular investment decision.",
+      "status": "original_cases_pending",
+      "needed_evidence": "Separate requested, supplied and accepted evidence from the contributor's belief about influence; seek supported actual events without claiming causal proof from recollection."
+    },
+    {
+      "hypothesis_id": "SYN8-H03",
+      "proposition": "A suggested action can remove or reduce a material barrier.",
+      "status": "remedy_unvalidated",
+      "needed_evidence": "Actual adopted response and later effect in its context. An externally suggested response or plausible mechanism is not proof."
+    },
+    {
+      "hypothesis_id": "SYN8-H04",
+      "proposition": "The case-to-decision contribution is useful and differentiated enough for a paid JGA research product.",
+      "status": "commercial_value_unvalidated",
+      "needed_evidence": "Specific buyer use, alternatives/free substitutes, approval/funding and credible next step in The Table work; public evidence volume and practitioner interest alone are insufficient."
+    },
+    {
+      "hypothesis_id": "SYN8-H05",
+      "proposition": "Themes transfer between employer sizes, sectors or places.",
+      "status": "transferability_case_specific",
+      "needed_evidence": "Relevant work, remit, horizon and measure; achieved/missing coverage, negative cases and alternative explanations. No subgroup percentages or representative ranking from6–10purposive contributions."
+    }
+  ],
+  "collision_controls": [
+    {
+      "collision_id": "SYN8-C01",
+      "issue": "Repeated sources and programme documents across modules can look like repeated independent support.",
+      "control": "Use canonical sources and one programme/case identity, with event/component/date distinctions. Synergy, LFB, ScottishGovernment and WestSussex are not a new employer each time cited.",
+      "relevant_topic_ids": [
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C02",
+      "issue": "Decision, authority, commitment, release, operation and assessed benefit overlap in casual wording.",
+      "control": "Retain the exact object, action/date and actual knowledge. Do not compress these fields into one approval/progress stage or an ordinal ladder.",
+      "claim_ids": [
+        "CLM-0261",
+        "CLM-0262",
+        "CLM-0365",
+        "CLM-0371",
+        "CLM-0408"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C03",
+      "issue": "Approval evidence can be confused with proof of why a decision happened.",
+      "control": "Q010 requested evidence,Q011 believed influence, observed decision events and causal effect remain different. Public appraisal guidance is a design principle, not a validated sales recipe.",
+      "claim_ids": [
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0366"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C04",
+      "issue": "Resources, cash, funding, capacity release, efficiency and workforce pay principal can be counted twice or treated as interchangeable.",
+      "control": "Keep the three R05 financial views and benefit types, the actual cost unit/lifecycle and usable-time window. A common cost can inform multiple views without being added twice.",
+      "claim_ids": [
+        "CLM-0298",
+        "CLM-0302",
+        "CLM-0328",
+        "CLM-0336",
+        "CLM-0343"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C05",
+      "issue": "Personal desire, organisation priority, provider roadmap and affected-user value can be conflated.",
+      "control": "Record whose claim/outcome, the actual service/task and owner; importance, access, resources and delivery remain separate.",
+      "claim_ids": [
+        "CLM-0391",
+        "CLM-0408",
+        "CLM-0417",
+        "CLM-0418",
+        "CLM-0428"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C06",
+      "issue": "Historical expectations, present guidance and future policy/service plans invite false trends or completion claims.",
+      "control": "Retain original measure/date/status. Old forecast dates do not become later results; conditional policy applicability is checked before final use.",
+      "claim_ids": [
+        "CLM-0371",
+        "CLM-0405",
+        "CLM-0410",
+        "CLM-0413"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C07",
+      "issue": "Constructed recruitment prompts can anchor the final framework on hiring or predetermined routes.",
+      "control": "Use prior study only to challenge researcher premises and locate source leads. Preserve unaided case routes and adequate retention/process/learning options; no recommendation count transfer.",
+      "claim_ids": [
+        "CLM-0424"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C08",
+      "issue": "A desired clean chart can hide incompatible populations, missingness or held values.",
+      "control": "No synthetic pooled prevalence, market funnel, priority score or cost forecast. Keep held claims excluded, empty original-data arrays intact and unknown/notmeasured/notapplicable/notdisclosed distinct.",
+      "claim_ids": [
+        "CLM-0388",
+        "CLM-0389",
+        "CLM-0409"
+      ]
+    }
+  ],
+  "source_register_path": "02-evidence/registers/sources.json",
+  "questionnaire_path": "01-method/question-map.json",
+  "report_map_path": "03-report/R08-report-integration-map.json",
+  "report_table_boundary": {
+    "public_report": "Cleared contextual research, actual permissioned practitioner case synthesis, method/limits and framework; practical leader/supplier implications that do not assume a hire.",
+    "confidential_table": "Comparables, buyer/member reservations and commitment, licence/use proposition, JGA costs/revenue/cash/launch choices and recommendation. Public report findings do not prove willingness to pay.",
+    "restricted_inputs": "Identity/consent/linkage and unredacted contributor or buyer material stay in the approved restricted arrangement; no new storage or collection occurs in this task."
+  },
+  "no_external_sending_without_user_permission": true,
+  "review_basis": "Independent integrated preparatory review and root ten constructed route walkthroughs. Not practitioner testing, causal/predictive validation or final WP15 completion.",
+  "second_challenge_status": "integrated_preparatory_draft_independent_review_pending",
+  "second_challenge_view_edits": [
+    {
+      "view_id": "V02",
+      "field": "instruction",
+      "before": "Consider only relevant responses at this time: current capability, process/skills, retention or a change in tools, service or responsibility.",
+      "after": "Consider the relevant responses feasible at the specified decision/event date; distinguish knowledge available then from a later retrospective account. Include current capability, process/skills, retention or scoped change.",
+      "reason": "Resolve ambiguous at-this-time wording by separating event-time feasibility/knowledge and retrospective explanation.",
+      "claim_ids": [
+        "CLM-0431"
+      ]
+    },
+    {
+      "view_id": "V04",
+      "field": "boundary",
+      "before": "Requested, supplied, accepted and believed influential evidence are not causal proof. Existing resources can support work without a new budget.",
+      "after": "Requested, supplied, accepted, believed influential and independently corroborated evidence are different claims. Acceptance does not verify every assertion or establish causal influence. Existing resources can support work without a new budget.",
+      "reason": "Do not conflate decision-maker acceptance with case-specific verification or independent corroboration.",
+      "claim_ids": [
+        "CLM-0443",
+        "CLM-0444",
+        "CLM-0441"
+      ]
+    }
+  ],
+  "cross_cutting_conditions": [
+    {
+      "condition_id": "C01",
+      "title": "Event-time basis and later interpretation",
+      "use": "Where history changes the explanation, distinguish the selected event date and knowledge/options available then from the date, perspective and basis of a later account.",
+      "boundary": "No hindsight optimality, reconstructed contemporaneous knowledge, universal release-risk threshold or observed later outcome from an old target.",
+      "claim_ids": [
+        "CLM-0429",
+        "CLM-0430",
+        "CLM-0431",
+        "CLM-0432"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false
+    },
+    {
+      "condition_id": "C02",
+      "title": "Approval object and recurring operating period",
+      "use": "Where an approval or handoff matters, identify whether it concerns the investment/change, a release, one report/task/payroll run or payment authorisation; retain the actual period and continuing duties if known.",
+      "boundary": "One accepted report does not prove payment, a completed investment, future-period readiness or transfer of every duty. No exact universal UI/workflow, legal determination or monitoring obligation.",
+      "claim_ids": [
+        "CLM-0433",
+        "CLM-0434",
+        "CLM-0436"
+      ],
+      "guardrail_claim_ids": [
+        "CLM-0435"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false
+    },
+    {
+      "condition_id": "C03",
+      "title": "Evidence object and case-specific match",
+      "use": "For material evidence identify the claim about the work, provider/team/person, engagement, date and remit that it actually supports, and what remains unverified or introduced as an assumption.",
+      "boundary": "A firm case, process description, placement list, salary guide or model recommendation is not current candidate fit/availability, acceptance/start, an executed engagement or the later payroll result.",
+      "claim_ids": [
+        "CLM-0437",
+        "CLM-0438",
+        "CLM-0439",
+        "CLM-0440",
+        "CLM-0441"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false
+    },
+    {
+      "condition_id": "C04",
+      "title": "Qualification beyond acceptance",
+      "use": "Selectively retain source/status, task/object, date/version and knowledge basis, then describe what supports the material claim and the limits of any corroboration.",
+      "boundary": "Accepted is not independently verified; repeated links or models may share a source. No automatic source-type ranking, confidence score, required document or assumption uncorroborated means false.",
+      "claim_ids": [
+        "CLM-0442",
+        "CLM-0443",
+        "CLM-0444"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false
+    },
+    {
+      "condition_id": "C05",
+      "title": "Divergent accounts and alternative explanations",
+      "use": "When accounts materially differ, inspect whether object, time or assessment criterion differs. Preserve a remaining disagreement and plausible alternatives rather than force consensus.",
+      "boundary": "Do not invent a dispute, average incompatible accounts or require recontact. Existing disclosure, permission, burden and actual knowledge limits apply.",
+      "claim_ids": [
+        "CLM-0443",
+        "CLM-0445"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false
+    }
+  ],
+  "second_challenge_supporting_claim_ids": [
+    "CLM-0429",
+    "CLM-0430",
+    "CLM-0431",
+    "CLM-0432",
+    "CLM-0433",
+    "CLM-0434",
+    "CLM-0435",
+    "CLM-0436",
+    "CLM-0437",
+    "CLM-0438",
+    "CLM-0439",
+    "CLM-0440",
+    "CLM-0441",
+    "CLM-0442",
+    "CLM-0443",
+    "CLM-0444",
+    "CLM-0445"
+  ],
+  "additional_mandatory_questions_from_second_challenge": 0,
+  "second_challenge_blank_evidence_qualification": {
+    "material_claim": null,
+    "work_person_service_object": null,
+    "event_time_and_account_time_if_known": null,
+    "source_status_and_knowledge_basis": null,
+    "accepted_by_if_known": null,
+    "what_the_evidence_supports": null,
+    "corroboration_basis_if_any": null,
+    "introduced_assumption_or_qualification": null,
+    "divergent_account_or_alternative_explanation": null,
+    "remaining_gap_or_supported_next_action": null
+  },
+  "prior_prompt_scenarios_are_constructed": true,
+  "prior_recommendation_counts_reused": false,
+  "prior_model_reruns": false,
+  "second_challenge_review_basis": "Independent integrated preparatory review pending; root exact saved-study linkage checks separate.",
+  "second_challenge_new_employer_histories": 0,
+  "new_canonical_claims_count_basis": "first_pass_preparatory_synthesis_only",
+  "second_challenge_new_canonical_claims": 17
+}

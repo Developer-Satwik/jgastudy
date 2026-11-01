@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "MKT-S01",
+      "url": "https://www.gov.uk/basic-paye-tools",
+      "final_url": "https://www.gov.uk/basic-paye-tools",
+      "http_status": 200,
+      "status": "retained_original_html",
+      "path": "03-report/research-notes/r02-second-check/market/hmrc-basic-tools.html",
+      "sha256": "66a446fb6cb928409e395f45e2de6891d791b96fad20773c4484c4b56517038c",
+      "bytes": 77347,
+      "retrieved_at_utc": "2026-10-28T15:02:02.971900+00:00"
+    },
+    {
+      "candidate_id": "MKT-S02",
+      "url": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
+      "final_url": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
+      "http_status": 200,
+      "status": "retained_original_html",
+      "path": "03-report/research-notes/r02-second-check/market/hmrc-recognised-software.html",
+      "sha256": "d6d40bdce0da4a5d73e1e06b6633396b56c86df62d5d98641df82dc4dccf3d2f",
+      "bytes": 162168,
+      "retrieved_at_utc": "2026-10-28T15:02:03.207590+00:00"
+    },
+    {
+      "candidate_id": "MKT-S03",
+      "url": "https://www.xero.com/uk/pricing-plans/",
+      "final_url": "https://www.xero.com/uk/pricing-plans/",
+      "http_status": 200,
+      "status": "retained_original_html",
+      "path": "03-report/research-notes/r02-second-check/market/xero-uk-pricing.html",
+      "sha256": "768d87ffcb9f56f94653abef157cff4e5f743784663a252d34cd70b35ddb7f1e",
+      "bytes": 781220,
+      "retrieved_at_utc": "2026-10-28T15:02:02.842851+00:00"
+    },
+    {
+      "candidate_id": "MKT-S04",
+      "url": "https://www.xero.com/uk/accounting-software/payroll/",
+      "final_url": "https://www.xero.com/uk/accounting-software/payroll/",
+      "http_status": 200,
+      "status": "retained_original_html",
+      "path": "03-report/research-notes/r02-second-check/market/xero-uk-payroll.html",
+      "sha256": "b633e47cae6010f59d6f5b428a22b7e80835fca638df0fad2f9db8721ad3eb9d",
+      "bytes": 590937,
+      "retrieved_at_utc": "2026-10-28T15:02:03.615136+00:00"
+    },
+    {
+      "candidate_id": "MKT-S05",
+      "url": "https://uk.adp.com/what-we-offer/payroll/managed-payroll-services.aspx",
+      "status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null,
+      "web_reader": "Original relevant live sections inspected with web tool on 2026-10-28"
+    },
+    {
+      "candidate_id": "MKT-S06",
+      "url": "https://uk.adp.com/what-we-offer/products/adp-global-payroll.aspx",
+      "status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "path": null,
+      "sha256": null,
+      "web_reader": "Original relevant live sections inspected with web tool on 2026-10-28"
+    }
+  ]
+}

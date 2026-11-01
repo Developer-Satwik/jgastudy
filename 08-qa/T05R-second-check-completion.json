@@ -1,0 +1,408 @@
+{
+  "date": "2026-11-01",
+  "source_collection_date": "2026-10-31",
+  "status": "completed_internal_T05R_second_challenge_full_model_pending",
+  "scope": "Internal second challenge of the first T05 research/staffing component; remaining customer/service/sales, event and cash model still pending.",
+  "new_source_routes": 7,
+  "new_claim_records": 18,
+  "canonical_sources": 242,
+  "canonical_claims": 484,
+  "source_records_with_primary_originals": 167,
+  "earlier_source_base_records_preserved": 235,
+  "earlier_claims_preserved_exactly": 466,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 265,
+  "prechange_file_snapshots": 13,
+  "original_financial_component_inputs": 33,
+  "new_financial_inputs": 0,
+  "financial_inputs_unchanged": true,
+  "original_workbook_unchanged": true,
+  "original_workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+  "original_workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "original_workbook_edit_needed": false,
+  "original_workbook_or_native_Excel_rerun": false,
+  "cost_delivery_conditions": 5,
+  "constructed_applications": 10,
+  "constructed_examples_not_observations_or_adopted_inputs": true,
+  "prior_study_questions": 3,
+  "prior_study_saved_answers": 24,
+  "prior_study_semantic_rereads": 3,
+  "prior_study_strand_lineage_checks": 102,
+  "model_reruns": 0,
+  "new_route_primary_originals": 4,
+  "reused_route_fresh_primary_originals": 3,
+  "new_route_reader_extracts": 3,
+  "capture_inventory_artifacts": 22,
+  "capture_counts_by_kind": {
+    "browser_reader_extract": 3,
+    "fresh_selected_paraphrased_reader_notes_not_raw_original": 2,
+    "parsed_original_text": 8,
+    "prior_selected_original_reader_notes_not_raw_original": 1,
+    "prior_selected_paraphrased_reader_notes_not_raw_original": 1,
+    "retained_original_html": 7
+  },
+  "prior_notes_distinguished_from_fresh_access": true,
+  "independent_review_status": "passed_for_internal_T05R_second_challenge",
+  "independent_grouped_checks": 19,
+  "independent_exact_artifact_hashes": 62,
+  "open_substantive_issues": [],
+  "actual_quotes": 0,
+  "actual_suppliers_or_hires": 0,
+  "actual_timesheets_or_savings": 0,
+  "actual_practitioner_contributions": 0,
+  "actual_buyer_member_validation": 0,
+  "fieldwork_or_tool_activation": false,
+  "external_messages_or_enquiries": 0,
+  "spend_purchases_or_bookings": 0,
+  "current_contract_fee_changed": false,
+  "fourteen_core_questions_unchanged": true,
+  "client_files_changed": false,
+  "full_financial_model_complete": false,
+  "final_client_delivery": false,
+  "next_step": "Customer/licence fulfilment, briefings, partner obligations and sales effort, then selected event/travel and dated cash before the complete matched A/B pilot/annual model.",
+  "artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+      "sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "3525112003837156c77cac69844ea6c370b68bab1c8e8768e3ecb7a251e6bea9"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "ca5151d3b2bb2d33376f4fa45d04d718125401bd5eb641e466981d4833abee03"
+    },
+    {
+      "path": "00-control/decisions.json",
+      "sha256": "e2fe4d08ce5224db85ad557ac46b91a1459a1e1e21f8db1036e4ca57c9da5995"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "4e783b13287333519dd78494cc05923cb009adbab525da3bec37fc9bfb6e03ea"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "97bf46f1986b2892889d3ca8e32abcdf90ccba77dc8432641a542dc3e97dd6c5"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "337ccf6ac357a65c9278a6c9438d5bc7db34ee0cf81fbb0f7d7561e7311a2a37"
+    },
+    {
+      "path": "02-evidence/registers/source-aliases.json",
+      "sha256": "2b6476715c535cc186213226340e4f5c3d1c09ef91fbb7ba92a7069812070567"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "cece3aeff411bef39fea64a67517b3a465a8ce42e81837168b00310299341836"
+    },
+    {
+      "path": "04-table/T05R-COST-AND-DELIVERY-REFINEMENTS.md",
+      "sha256": "c4667da1de7c7689cb90ea64fd9334682c02977dc641d4d94766d1840005cb95"
+    },
+    {
+      "path": "04-table/T05R-SECOND-CHECK-READOUT.md",
+      "sha256": "b18d29d1709b405dde3ac4b2646c48480f4bb10d131858b709d8b2aad48b308c"
+    },
+    {
+      "path": "04-table/T05R-second-challenge-map.json",
+      "sha256": "59c3ac0408151ae4990c312edbc9a5535667933bf4fd5d48244e9ee23c58cbf7"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "1886e900b093f8132b56483eafc2e90f8a7f446c03a0df4c636963dd14bd9001"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/00-control/changes.json",
+      "sha256": "38509da27205bb78fbf4abd9d8ea99fc974dcafaaad18c0e9237968cf15b9db4"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/00-control/decisions.json",
+      "sha256": "13957231343fcad7c36aa31836d5c23f6150804dbb77deb35c23c7e2829340cd"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/00-control/work-packages.json",
+      "sha256": "53ac356ca5c9b2353b63f4055238bfaff6dd2b09bf884c7e7e9693508ddc51a1"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/claims.json",
+      "sha256": "f267426b85a29e4855d5a5b7633fa6cf194cc8fd5717068998b70152c9ec20df"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/searches.json",
+      "sha256": "1e096a3ca1af7e8f37f7d5d6df0c614d56c45e061c8c06deb607087e334ea450"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/source-aliases.json",
+      "sha256": "2b6476715c535cc186213226340e4f5c3d1c09ef91fbb7ba92a7069812070567"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/02-evidence/registers/sources.json",
+      "sha256": "2b4b7a616df17dbcbbd7238313a444e73e5e8ba4607226521f59b3c93a088f4d"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/04-table/financial-inputs.json",
+      "sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "1f8693e2bb29a6647cc7eeff7909241165f5b00318f3e9b8a5b13823080f24a3"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/08-qa/validate_workspace.py",
+      "sha256": "ca0d5d68e4331f633f2884bbe166a733b3ad894fd412d9a5f03c53fd1701bd2d"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/README.md.txt",
+      "sha256": "feaea89db0d7e4ad891d0514914d1e065bbd0476a3aed8c48ba568bc612baf65"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/before-review/manifest.json",
+      "sha256": "ef3069afe7e39bf3e3f5dcb1326f836e478c8d31a7858987fa2a7915e16c25b9"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/COMPETITOR-AND-TASK-CHECK.md",
+      "sha256": "099d79791c1a08836ff0ae93a024e449116362d89d2746bb88582d67169191a7"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/capture-manifest.json",
+      "sha256": "6572d2326d6c4acb7f2464124a8ae60d9510e9da48ab5e43341dc16cb18d16c0"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/S04-C-chatgpt-r1-reader-note.txt",
+      "sha256": "b07fca9f2510f618588e3fc6f8df458b6d88d2a419e9d68e7574d4d099117e32"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/S07-C-chatgpt-r1-reader-note.txt",
+      "sha256": "09c4644a161fae7c5d2fc2e2a28217e9947864ba923a2faf3fe1c3be0c281b92"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/S11-C-chatgpt-r1-reader-note.txt",
+      "sha256": "b679b2d51ed044b44d6cc23605cb0a848c96d22e64dbcc8f62739a52638af65f"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+      "sha256": "5fedfb3f3c07b14e4cd811f22c8c301f6b3a445fc8807c2c2342dceab675d205"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.html",
+      "sha256": "fb9939def6a4c8dd281cfa82f77402febb4df4471089585fd1262719e3c9cfe9"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0116.txt",
+      "sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.html",
+      "sha256": "4bb3304e2054981e280934ef5b4238ffa8671f112f786dfc45c8d12ed5e5c2ed"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0193.txt",
+      "sha256": "63823e74e04a6daaadefda53fb3368219b7be61362ac58e277a67cbfff70d538"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.html",
+      "sha256": "09fe3f9ea5fcad516d691be5182f7cdae525c4faad7035523243643c61d02da5"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/captures/SRC-0257.txt",
+      "sha256": "1271453ecdacc3c512185d17182e67538517aba44344a9a8a185473c523fd270"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/claim-candidates.json",
+      "sha256": "5f30744f31fd9ec082c39e31718bac1fcded02ff95c0be8b36ebd83affc6db9b"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/comparator-map.json",
+      "sha256": "1d2af45135d154b2704df95d5a9de32c77238da42c8d02d712e126fa122ea6d7"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/prior-study-bridge-check.json",
+      "sha256": "c05d78de2b79fbe515458011857954cf46224a8d3dcdb88a57cf5c3b3eecb04d"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/prior-study-bridge.json",
+      "sha256": "537fb6a5e06cc0a3bfc9bf117b7451a79aca9da7011f2638ec870701d8f45eca"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/source-candidates.json",
+      "sha256": "4ac950aa76c868f878ae4bbccb80579dd53c98b48b0ab2fd4421e8064ce38f94"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/competitors/verification.json",
+      "sha256": "ab2c952608fa0fa996718c5b8ddf660d79b9f2a131655572e5731f5f1e573f30"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/HISTORY-AND-SOURCING-CHECK.md",
+      "sha256": "c7d1f6c312dcc7211c3fc1fc8f9eaaa4ecd730c2ee3c666e1a23604fc0b6f163"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/application-conditions.json",
+      "sha256": "55c8afc8e5db8497b7f19fd8016ff0d2b7dda5a3101abd590ea866631489f473"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/capture-manifest.json",
+      "sha256": "1e0f0a06f3793db34d962df7cde403ec9edd099b341fcbf7e1be515e3363839d"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S01.html",
+      "sha256": "a780a6132116a12082d8df31dadd2731289bca668bf64b0cd769da74d670993e"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S02-reader.txt",
+      "sha256": "5ea27ffa312c1dc55d038a41fa155d172e19b45aaaf3b8d495056f28908560cc"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S03.html",
+      "sha256": "ac0a5180fff83c8afd28d3c100f4e730037019c140df8617cff8fd6781257d17"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S04-reader.txt",
+      "sha256": "50e113e21ee042f7700bdeb58feeeb1bc3d7807ce0c27952e616125567484e39"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/captures/T5H-S05-reader.txt",
+      "sha256": "aaf1832160ce44c0557bc35324caa64a9c5efb9646a319b44f3fa9207343d8ad"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/claim-candidates.json",
+      "sha256": "5a28ebc500d5266bf31e9109c91705cdbd41167364d979037651b56284cdb91e"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S01.txt",
+      "sha256": "8a1ac9be7d416124c14d722271af049d09faaa9bbce5ed3970de2ebaf4d0c12f"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/parsed/T5H-S03.txt",
+      "sha256": "9a2179c36a5ddd9e41a011ceff36f15b534c5c7e4ecaec8cd678cf12928c3082"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/source-candidates.json",
+      "sha256": "db09d5bfdd7ae4c198e4e69f8e8e1dce47dbb4c8e107a045ffa54861cb579a55"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/history-market/verification.json",
+      "sha256": "1c07d4113ac8d399d4e0dc8b2c27375bf097b34dd6701bd27b3e942c03e64d18"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/METHOD-AND-DELIVERY-CHECK.md",
+      "sha256": "2a56ae1ac9bc097da13646236b74ba448df49eabf66ac5bf734453180696c5a7"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S01.html",
+      "sha256": "38ca45ab2a0da84059391670cf94ce9940f071f1425f7031513497f92cbbc474"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/captures/T5O-S02.html",
+      "sha256": "6f42c9b7815a8284c099b07861e50c9c4fc372528bc84c386bdbb809c364bc58"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/claim-candidates.json",
+      "sha256": "73a05ae6f17dcc0fac51961ad1f16c326074910abf5f68d8244614628212d558"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/constructed-cost-applications.json",
+      "sha256": "8d25790e6079e4bda4eea69bebd3282213ad796ce22803501275bf18e529a012"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/live-recheck-note.json",
+      "sha256": "ab09a04cc1c8264546a9f43e1694a38a45130c5d5b8864a723c8f5516861d357"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S01.txt",
+      "sha256": "13180dbfebbfcc26dc613a352bcd03c1a6b5fb71d85a69df8705595c0355a240"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/parsed/T5O-S02.txt",
+      "sha256": "c301bc1004c964dfc25e8d17d19e5449a60d1f8aa6fea94ea056913c048e8fa9"
+    },
+    {
+      "path": "04-table/research-notes/t05r-second-check/root/source-candidates.json",
+      "sha256": "3a0ae9b15c0216648b5fe526c45064de4186b8dd0dce446655703d061f461839"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "cba1845e27e61e4c1310e168809150dceb6b50231fd9aef4c26862ca472aa52f"
+    },
+    {
+      "path": "05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "08-qa/T05R-second-check-baseline.json",
+      "sha256": "970500f0ad6b75bc7e64ec33a52e375166ad2692d23470fe8e6a9a576c81ea91"
+    },
+    {
+      "path": "08-qa/T05R-second-check-captures.json",
+      "sha256": "e9f3bc22b3578902304449e1d91bb74100e9064249fc02d730004147f41610fb"
+    },
+    {
+      "path": "08-qa/T05R-second-check-record-map.json",
+      "sha256": "fa3934b4972d8ba13b50c32cadbed43972828fe976184208e243ca2b18d0b40e"
+    },
+    {
+      "path": "08-qa/finalize_t05r_second.py",
+      "sha256": "af633c772661082d63118ffa4cffc0701a6e5769f36c4ef33afaa71c21aeae76"
+    },
+    {
+      "path": "08-qa/merge_t05r_second.py",
+      "sha256": "f298b9a00795dd0d3d7e15d9d28966869016a7042a752b97c96976a3d338f36c"
+    },
+    {
+      "path": "08-qa/t05r-second-review/INTEGRATED-REVIEW.md",
+      "sha256": "f254e925ef81e649f1cb56ecf621e991bdd425316763db04532b7cccb6052508"
+    },
+    {
+      "path": "08-qa/t05r-second-review/final_integration_audit.py",
+      "sha256": "9f0eb881fcb35a2a45b5535cba3909a90b4a43af5440d292bd36950a1d8f95d7"
+    },
+    {
+      "path": "08-qa/t05r-second-review/integration-checks.json",
+      "sha256": "74fce40e79e58767f1c2ad84d40e69c3e914d309f62dddbb63f58f6ba6f28abf"
+    },
+    {
+      "path": "08-qa/t05r-second-review/nov01-independent-checks.json",
+      "sha256": "4d34cc4d9d8aaddbafe1ee6cc804e25019b03b3ca54a8e8c7ef730b8403667a5"
+    },
+    {
+      "path": "08-qa/t05r-second-review/preliminary-source-and-model-review.json",
+      "sha256": "1d6d0f6a9fed3d5bd8db5dc18c1c872d29a4e93764f9591790cda042d5290cb3"
+    },
+    {
+      "path": "08-qa/t05r-second-review/prior-bridge-lineage-checks.json",
+      "sha256": "436a5f6d2cb83ca56b02fda029152c02e4c887b2a8bb2df055d848c5719697b4"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "9c0b31bbb826540da644be10e636c1f01d51b2b4f5821d373b74617bb6c5b951"
+    },
+    {
+      "path": "README.md",
+      "sha256": "99ae677927bf1c1c01339890b677c7dee74fce6e2ee02b8620b6e1b887becc70"
+    }
+  ],
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-11-01",
+    "checks": 8803,
+    "json_files": 649,
+    "source_records": 242,
+    "claim_records": 484,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 527,
+    "scope": "T05 research/staffing second challenge across historical/market/competitor/task/delivery perspectives with original component preserved; T05 research/staffing cost component with full event/revenue/cash model pending; T04 commercial route, model-unit/input/formula design and public venue-cost evidence with actual financial model and validation pending; T02 second challenge evidence/use/time/work/fulfilment/concept-state conditions; T02 three concrete internal propositions, use/rights/delivery and inactive draft guide; T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01–R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  },
+  "completion_artifact_hashes_verified": true
+}

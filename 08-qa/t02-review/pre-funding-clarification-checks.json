@@ -1,0 +1,1385 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_for_internal_T02_proposition_preparation",
+  "check_count": 329,
+  "checks": [
+    {
+      "name": "Canonical counts unchanged:223sources/432claims/81findings",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/collection-pack-v0.1/START-HERE.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/FINANCIAL-MODEL-SPEC.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-SECOND-CHECK-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-model-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T01-second-challenge-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T02-SECOND-CHECK-REFINEMENTS.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/T02-proposition-hypotheses.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 04-table/TABLE-DESIGN-BRIEF.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-captures.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/T01-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/WP03-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/WP03-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/WP03-routing-permission-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/t01-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/t01-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146baseline preservation: 08-qa/wp03-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "146protected baseline artifacts retained",
+      "passed": true
+    },
+    {
+      "name": "Exactly three coherent proposition drafts",
+      "passed": true
+    },
+    {
+      "name": "Four original hypotheses remain the design basis",
+      "passed": true
+    },
+    {
+      "name": "Six reviewed mechanisms preserved without adoption",
+      "passed": true
+    },
+    {
+      "name": "Free benefit and JGA commissioned IP preserved",
+      "passed": true
+    },
+    {
+      "name": "Fourteen report questions unchanged",
+      "passed": true
+    },
+    {
+      "name": "No scope expansion or active collection switch",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: actual_buyer_validation",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: actual_member_validation",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: actual_offer_exposures",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: actual_rights_grants",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: financial_inputs",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: external_actions",
+      "passed": true
+    },
+    {
+      "name": "No unperformed actuals or monetary values: prices",
+      "passed": true
+    },
+    {
+      "name": "Unadopted, unpriced draft: TP01",
+      "passed": true
+    },
+    {
+      "name": "No invented customers, commitments or questions: TP01",
+      "passed": true
+    },
+    {
+      "name": "Minimum, optional, boundary and free/paid rule explicit: TP01",
+      "passed": true
+    },
+    {
+      "name": "Canonical proposition claim references: TP01",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP01/CLM-0496",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP01/CLM-0506",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP01/CLM-0515",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP01/CLM-0516",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP01/CLM-0522",
+      "passed": true
+    },
+    {
+      "name": "Author candidate lineage: TP01",
+      "passed": true
+    },
+    {
+      "name": "Unadopted, unpriced draft: TP02",
+      "passed": true
+    },
+    {
+      "name": "No invented customers, commitments or questions: TP02",
+      "passed": true
+    },
+    {
+      "name": "Minimum, optional, boundary and free/paid rule explicit: TP02",
+      "passed": true
+    },
+    {
+      "name": "Canonical proposition claim references: TP02",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP02/CLM-0497",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP02/CLM-0508",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP02/CLM-0509",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP02/CLM-0515",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP02/CLM-0516",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP02/CLM-0522",
+      "passed": true
+    },
+    {
+      "name": "Author candidate lineage: TP02",
+      "passed": true
+    },
+    {
+      "name": "Unadopted, unpriced draft: TP03",
+      "passed": true
+    },
+    {
+      "name": "No invented customers, commitments or questions: TP03",
+      "passed": true
+    },
+    {
+      "name": "Minimum, optional, boundary and free/paid rule explicit: TP03",
+      "passed": true
+    },
+    {
+      "name": "Canonical proposition claim references: TP03",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0501",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0503",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0507",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0518",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0519",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0520",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0521",
+      "passed": true
+    },
+    {
+      "name": "Bounded source-linked design support: TP03/CLM-0522",
+      "passed": true
+    },
+    {
+      "name": "Author candidate lineage: TP03",
+      "passed": true
+    },
+    {
+      "name": "Draft future product does not shrink present commissioned report",
+      "passed": true
+    },
+    {
+      "name": "No unproven service timing or recurring promise",
+      "passed": true
+    },
+    {
+      "name": "Free practitioner research and no duplicate licence sale",
+      "passed": true
+    },
+    {
+      "name": "Optional transparent research/access combination remains possible but not included",
+      "passed": true
+    },
+    {
+      "name": "Partner does not buy favourable findings or editorial veto",
+      "passed": true
+    },
+    {
+      "name": "Recognition does not grant attribution and indirect identification remains possible",
+      "passed": true
+    },
+    {
+      "name": "Member concept script matches optional follow-through status",
+      "passed": true
+    },
+    {
+      "name": "Structured member script preserves optional follow-through",
+      "passed": true
+    },
+    {
+      "name": "Follow-through not silently required core service",
+      "passed": true
+    },
+    {
+      "name": "Report independent of event launch",
+      "passed": true
+    },
+    {
+      "name": "Event increment and cohort boundaries preserved",
+      "passed": true
+    },
+    {
+      "name": "Five contractual buyer segments beside additional employer use",
+      "passed": true
+    },
+    {
+      "name": "Segment map consistent and not ranked",
+      "passed": true
+    },
+    {
+      "name": "Segment remains unvalidated: BS01",
+      "passed": true
+    },
+    {
+      "name": "Segment remains unvalidated: BS02",
+      "passed": true
+    },
+    {
+      "name": "Segment remains unvalidated: BS03",
+      "passed": true
+    },
+    {
+      "name": "Segment remains unvalidated: BS04",
+      "passed": true
+    },
+    {
+      "name": "Segment remains unvalidated: BS05",
+      "passed": true
+    },
+    {
+      "name": "Segment remains unvalidated: BS06",
+      "passed": true
+    },
+    {
+      "name": "Future use options not actual licences or Provider veto",
+      "passed": true
+    },
+    {
+      "name": "Eight distinct reuse/service options",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU01",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU02",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU03",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU04",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU05",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU06",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU07",
+      "passed": true
+    },
+    {
+      "name": "Each use option remains unagreed: RU08",
+      "passed": true
+    },
+    {
+      "name": "Original free research not weakened to manufacture a tier",
+      "passed": true
+    },
+    {
+      "name": "Adviser use is an open JGA decision, not automatically prohibited",
+      "passed": true
+    },
+    {
+      "name": "Commercial access outside minimum core",
+      "passed": true
+    },
+    {
+      "name": "Use and segment map support links resolve",
+      "passed": true
+    },
+    {
+      "name": "Eight delivery work objects retained",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW01",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW01",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW02",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW02",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW03",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW03",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW04",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW04",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW05",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW05",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW06",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW06",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW07",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW07",
+      "passed": true
+    },
+    {
+      "name": "Work requirement not a staff/cost commitment: DW08",
+      "passed": true
+    },
+    {
+      "name": "Work, role and fulfilment evidence explicit: DW08",
+      "passed": true
+    },
+    {
+      "name": "No unperformed operating inputs: financial_inputs",
+      "passed": true
+    },
+    {
+      "name": "No unperformed operating inputs: actual_delivery_events",
+      "passed": true
+    },
+    {
+      "name": "No unperformed operating inputs: staff_hired",
+      "passed": true
+    },
+    {
+      "name": "No unperformed operating inputs: new_signed_project_deliverables",
+      "passed": true
+    },
+    {
+      "name": "Delivery map is not commercial validation",
+      "passed": true
+    },
+    {
+      "name": "Versioned guide is proposed, inactive",
+      "passed": true
+    },
+    {
+      "name": "Versioned guide does not expand report core",
+      "passed": true
+    },
+    {
+      "name": "Same six buyer/six member IDs",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: B01",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: B01",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: B01",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: B02",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: B02",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: B02",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: B03",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: B03",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: B03",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: B04",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: B04",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: B04",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: B05",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: B05",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: B05",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: B06",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: B06",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: B06",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: M01",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: M01",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: M01",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: M02",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: M02",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: M02",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: M03",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: M03",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: M03",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: M04",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: M04",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: M04",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: M05",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: M05",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: M05",
+      "passed": true
+    },
+    {
+      "name": "Probes remain selective: M06",
+      "passed": true
+    },
+    {
+      "name": "Guide hypothesis links: M06",
+      "passed": true
+    },
+    {
+      "name": "Guide selective-condition links: M06",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: B01",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: B02",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: B03",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: B04",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: B05",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: B06",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: M01",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: M02",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: M03",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: M04",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: M05",
+      "passed": true
+    },
+    {
+      "name": "Exact proposed wording/probes match structured map: M06",
+      "passed": true
+    },
+    {
+      "name": "Unaided discovery and research-only assessment before event",
+      "passed": true
+    },
+    {
+      "name": "Actual concept exposure/order would be recorded",
+      "passed": true
+    },
+    {
+      "name": "Separate Table event cap and eligible person count preserved",
+      "passed": true
+    },
+    {
+      "name": "Combined/repeated event counting follows WP03",
+      "passed": true
+    },
+    {
+      "name": "Interest/question alone not report overlap",
+      "passed": true
+    },
+    {
+      "name": "No premature price anchoring",
+      "passed": true
+    },
+    {
+      "name": "No actual validation evidence: actual_concept_exposures",
+      "passed": true
+    },
+    {
+      "name": "No actual validation evidence: actual_responses",
+      "passed": true
+    },
+    {
+      "name": "No actual validation evidence: price_anchors",
+      "passed": true
+    },
+    {
+      "name": "No collected contributions or events",
+      "passed": true
+    },
+    {
+      "name": "Actual observations/charts/financial inputs remain empty: 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "Actual observations/charts/financial inputs remain empty: 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "Actual observations/charts/financial inputs remain empty: 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "name": "Existing collection decisions remain unconfirmed",
+      "passed": true
+    },
+    {
+      "name": "Canonical prose references: 04-table/T02-PROPOSITION-PACK.md",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: T02-BUYER-USES-AND-RIGHTS.md",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: T02-use-and-entitlement-options.json",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: ../01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: T02-DELIVERY-AND-VALIDATION.md",
+      "passed": true
+    },
+    {
+      "name": "Canonical prose references: 04-table/T02-BUYER-USES-AND-RIGHTS.md",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: T02-buyer-segments.json",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: T02-use-and-entitlement-options.json",
+      "passed": true
+    },
+    {
+      "name": "Canonical prose references: 04-table/T02-DELIVERY-AND-VALIDATION.md",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: ../01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "Canonical prose references: 01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "Local link resolves: ../04-table/T02-validation-map.json",
+      "passed": true
+    }
+  ],
+  "open_substantive_issues": [],
+  "wording_refinements_applied": [
+    "Neutral B01 now covers actual supplier, adviser, investment and employer use with the old guide preserved.",
+    "Recognition does not by itself authorise attendance disclosure/attribution; context can still identify someone.",
+    "Member follow-through is explicitly optional in the concept script and payload."
+  ],
+  "manual_review": [
+    "All three minimum payloads are concrete and conditional on actual evidence, permissions, delivery and capacity; this design is not commercial validation.",
+    "Five contractual market segments remain visible, employer-side use is additional rather than a silent change to primary buyer.",
+    "Full commissioned report and project IP rights are preserved; proposed future customer licences do not reserve a Riseklix veto.",
+    "Free practitioner research is intact; no teaser downgrade, artificial individual-only restriction or equivalent-copy second sale.",
+    "Partner recognition/briefing differs from optional separately scoped access; no default identities, private answers, guaranteed meetings or editorial control.",
+    "The peer-cycle value is more than hospitality, but no advice desk, unlimited support, fixed cadence or staffed bench is promised.",
+    "Research-only versus remote/written versus event-supported comparison remains open; no four-city launch, price, conversion or recurring revenue asserted.",
+    "Discovery sequence and counting policy remain coherent; all actual exposure/contribution arrays are empty."
+  ],
+  "reviewed_artifacts": [
+    {
+      "path": "04-table/T02-PROPOSITION-PACK.md",
+      "sha256": "d8b580a285ef0e7d16449920a774c3c6619047a52ee6db779c8709ec2a6ea413"
+    },
+    {
+      "path": "04-table/T02-proposition-map.json",
+      "sha256": "c4a89a5a6807e002ed4e8296b320e42dfd9257cf4b93cdbbd821c7880042c6a7"
+    },
+    {
+      "path": "04-table/T02-BUYER-USES-AND-RIGHTS.md",
+      "sha256": "50e66fc8e8880459ce347cca0d97bd87cc65008313baea298ba2c0200113311a"
+    },
+    {
+      "path": "04-table/T02-buyer-segments.json",
+      "sha256": "9e4e7c6d6eaafeada2543c6d2aa51f57f154fb3f41fe6983bd5432b1dc2a1000"
+    },
+    {
+      "path": "04-table/T02-use-and-entitlement-options.json",
+      "sha256": "a938893e26d20737392a31a6555f2d28b8c4f4f003f55a21a1a09b0fa9ec62e0"
+    },
+    {
+      "path": "04-table/T02-DELIVERY-AND-VALIDATION.md",
+      "sha256": "a1f2d399ee74a5f0eb7fe95b74ca9b668a2b5e76d11436f6375d6b3d9bb819a6"
+    },
+    {
+      "path": "04-table/T02-delivery-map.json",
+      "sha256": "7b054ccea0e07a83ba0ee5b44a82dc15c37434d210ecb6ff58837eb5ec621d24"
+    },
+    {
+      "path": "04-table/T02-validation-map.json",
+      "sha256": "54f0e3b277a61aadbf1233413fe2ba49f3d0f8de0881d6a295108db059f0512c"
+    },
+    {
+      "path": "01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+      "sha256": "c46e6fc83c5a66328e78b5b9aa4887384c07dd25767c1f6cfbaa549cf7ede01e"
+    }
+  ],
+  "allowed_following_status_only_changes": [
+    "status",
+    "review_basis"
+  ],
+  "actual_fieldwork": false,
+  "commercial_validation": false,
+  "publication_approval": false,
+  "source_or_claim_additions": false
+}

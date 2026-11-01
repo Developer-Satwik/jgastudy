@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-28",
+  "sources_reviewed": 3,
+  "claim_candidates": 6,
+  "source_renders": [
+    {
+      "path": "03-report/research-notes/r02-deepening/consequences/comhairle-page5.png",
+      "sha256": "143d808966d81e3af1b943d76ceaffca11e4e20834915ee69ebf8218c5df3778",
+      "visually_inspected": true,
+      "purpose": "Selected source verification, not an original research graphic"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/consequences/comhairle-page10.png",
+      "sha256": "228be11aac438eeeaec7a1f199d5e283462c73aa1224697950c69d1c668c87e1",
+      "visually_inspected": true,
+      "purpose": "Selected source verification, not an original research graphic"
+    }
+  ],
+  "excluded": [
+    {
+      "url": "https://democracy.edinburgh.gov.uk/documents/s103508/8.1%20-%20Internal%20Audit%20Outcomes%20June%20to%20August%202026%20-%20Appendix%201%20Payroll%20Oracle%20HR%20Key%20Controls.html?CT=2",
+      "reason": "Original returned403; search discovery only; no substantive claim"
+    }
+  ],
+  "new_participants": 0,
+  "canonical_files_modified": false,
+  "external_contact": false
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "source_map": {
+    "H4-S01": "SRC-0165",
+    "H4-S02": "SRC-0166",
+    "H4-S03": "SRC-0167",
+    "SC4-MKT-S01": "SRC-0168",
+    "SC4-MKT-S02": "SRC-0169",
+    "SC4COMP-S01": "SRC-0170",
+    "SC4COMP-S02": "SRC-0171",
+    "SC4-ROOT-S01": "SRC-0172",
+    "SC4-ROOT-S02": "SRC-0173"
+  },
+  "claim_map": {
+    "H4-C01": "CLM-0279",
+    "H4-C02": "CLM-0280",
+    "H4-C03": "CLM-0281",
+    "H4-C04": "CLM-0282",
+    "SC4-MKT-C01": "CLM-0283",
+    "SC4-MKT-C02": "CLM-0284",
+    "SC4-MKT-C03": "CLM-0285",
+    "SC4-MKT-C04": "CLM-0286",
+    "SC4-MKT-C05": "CLM-0287",
+    "SC4COMP-C01": "CLM-0288",
+    "SC4COMP-C02": "CLM-0289",
+    "SC4COMP-C03": "CLM-0290",
+    "SC4COMP-C04": "CLM-0291",
+    "SC4-ROOT-C01": "CLM-0292",
+    "SC4-ROOT-C02": "CLM-0293",
+    "SC4-ROOT-C03": "CLM-0294"
+  },
+  "new_source_routes": 9,
+  "new_claim_records": 16,
+  "new_source_candidates": 9,
+  "reused_candidate_routes": 0,
+  "new_selected_published_employer_examples": 3,
+  "original_JGA_participants": 0
+}

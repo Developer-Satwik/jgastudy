@@ -1,0 +1,561 @@
+{
+  "date": "2026-10-29",
+  "status": "preliminary_source_and_preservation_review_passed",
+  "check_count": 136,
+  "checks": [
+    {
+      "check": "85 fixed prior/core/client/first-pass records present",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "check": "Eight first-pass R08 mutable outputs snapshotted",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-report-integration-map.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 08-qa/R08-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Fourteen-question version0.2 exactly preserved",
+      "passed": true
+    },
+    {
+      "check": "Fourteen core questions retained",
+      "passed": true
+    },
+    {
+      "check": "No unperformed research populated: 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "No unperformed research populated: 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "No unperformed research populated: 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "check": "All338 prior canonical claims unchanged",
+      "passed": true
+    },
+    {
+      "check": "All76 prior internal findings unchanged",
+      "passed": true
+    },
+    {
+      "check": "Existing hold preserved: CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Existing hold preserved: CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Existing hold preserved: CLM-0167",
+      "passed": true
+    },
+    {
+      "check": "Existing hold preserved: CLM-0168",
+      "passed": true
+    },
+    {
+      "check": "Existing hold preserved: CLM-0218",
+      "passed": true
+    },
+    {
+      "check": "Existing hold preserved: CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/history/captures/SRC-0206-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/history/captures/SRC-0134-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/history/captures/LFB-03.png",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/history/captures/LFB-04.png",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/history/captures/SG-46.png",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: H8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: H8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: H8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: H8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0078.html",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0078.txt",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0132.html",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0132.txt",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0131.html",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0131.txt",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: M8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: M8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: M8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: M8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/root/captures/SRC-0003.html",
+      "passed": true
+    },
+    {
+      "check": "Strand retained original/extract/render hash: 03-report/research-notes/r08-second-check/root/captures/SRC-0003.txt",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: R8R-C01",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: R8R-C02",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: R8R-C03",
+      "passed": true
+    },
+    {
+      "check": "Bounded claim adds no numeric metric: R8R-C04",
+      "passed": true
+    }
+  ],
+  "strands_claims_reviewed": 12,
+  "retained_files_checked": 16,
+  "reviewer_source_sample": [
+    "LFB2025 renderedPDF3–4 visually inspected",
+    "Scottish2024/25audit renderedPDF46 visually inspected",
+    "CintraSRC0131/0132 retained current text and metadata",
+    "HMRCchoosepayrollSRC0078 retained relevant text",
+    "QQESRC0003 retained exact relevant sections"
+  ],
+  "scope": "Independent pre-integration source/preservation review only. Competitor and final framework/application integration pending; no final pass implied."
+}

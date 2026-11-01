@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.2",
+  "date": "2026-10-29",
+  "status": "internal_analytical_map",
+  "options_can_be_combined": true,
+  "ranking": false,
+  "tested_products": false,
+  "practitioner_observations": 0,
+  "basis": "Primary source conditions and bounded cases; potential contributions are hypotheses to test in context.",
+  "records": [
+    {
+      "option_id": "P01",
+      "response": "Retain the arrangement and improve a process/control",
+      "when_to_consider": "Required capability is adequate; source, cutoff, authority or exception ownership is unclear. No immediate purchase can also be reasonable if current outcomes are adequate or a prerequisite is unresolved.",
+      "potential_contribution_to_test": "Change the specific handoff without replacing functioning components.",
+      "retained_work_and_verification": "Complete authorised inputs, actual control operation, consequence closure and a responsible review point.",
+      "evidence_hooks": "CLM-0213\u20130215; R02 need/ownership evidence.",
+      "conditions_and_work_to_assess": "An owner needs real authority/capacity; an instruction alone may not change behaviour or an external dependency. Reconsideration needs a reason and trigger."
+    },
+    {
+      "option_id": "P02",
+      "response": "Configure or extend current software/service",
+      "when_to_consider": "A required function exists but configuration, entitlement, permissions, training or scope is the gap.",
+      "potential_contribution_to_test": "Use existing capability for the relevant control/workflow.",
+      "retained_work_and_verification": "Rules/effective dates, exceptions, appropriate roles, current package and reconciled output.",
+      "evidence_hooks": "CLM-0216, CLM-0219\u20130221, CLM-0231.",
+      "conditions_and_work_to_assess": "Configuration and updates need testing; added modules/support can have limits or charges. Sample rules are a starting point, not a complete employer configuration."
+    },
+    {
+      "option_id": "P03",
+      "response": "Add or change integration/reporting",
+      "when_to_consider": "Repeated transfer, mapping or a defined information gap is material.",
+      "potential_contribution_to_test": "Reduce a particular transfer task or provide useful timely information.",
+      "retained_work_and_verification": "Source correctness/authority, partial acceptance, downstream reconciliation, actual decision use and external corrections.",
+      "evidence_hooks": "CLM-0206\u20130213.",
+      "conditions_and_work_to_assess": "Agree source/blank semantics, IDs, periods, access, job/error monitoring and recovery. A connector can transfer incomplete/wrong data faithfully."
+    },
+    {
+      "option_id": "P04",
+      "response": "Add analytical or AI assistance to a defined task",
+      "when_to_consider": "Exception investigation or information explanation has a bounded task and a credible review path.",
+      "potential_contribution_to_test": "Help locate, explain or work through a relevant issue.",
+      "retained_work_and_verification": "Actual actions allowed, material decisions, output correctness, unresolved cases, update effects and result assessment.",
+      "evidence_hooks": "CLM-0229\u20130234. No numerical savings or uniform adoption claim.",
+      "conditions_and_work_to_assess": "Verify product/territory entitlement, source quality, permissions, test coverage, meaningful intervention and ongoing support. Review effort may offset time released."
+    },
+    {
+      "option_id": "P05",
+      "response": "Replace or modernise the core platform",
+      "when_to_consider": "An evaluated fit, lifecycle or foundation limitation remains; smaller changes may be insufficient.",
+      "potential_contribution_to_test": "Provide a different operating foundation or required capability.",
+      "retained_work_and_verification": "Useful pay/records/reporting, authorised release, stable support, retained expertise, defined change outputs/acceptance and evidence of the intended result.",
+      "evidence_hooks": "CLM-0213, CLM-0223\u20130228, CLM-0245\u20130247. Case/scope context, not comparative vendor efficacy.",
+      "conditions_and_work_to_assess": "Migration/IDs, configuration, interfaces, training, cutover, recovery and live workload need capacity. New modules may not yet deliver the intended information."
+    },
+    {
+      "option_id": "P06",
+      "response": "Delegate defined bureau/managed execution",
+      "when_to_consider": "Specific recurring execution or cover requirements can be contracted clearly.",
+      "potential_contribution_to_test": "Access execution capacity or expertise under a defined arrangement.",
+      "retained_work_and_verification": "Actual entitlement, handoff acceptance, authorisation, bank/reporting result, escalation and closure.",
+      "evidence_hooks": "CLM-0214, CLM-0216\u20130217, CLM-0219\u20130221.",
+      "conditions_and_work_to_assess": "Employer inputs, checking, approval, policy and oversight can remain. Processing, payment and employee-query duties require separate scope."
+    },
+    {
+      "option_id": "P07",
+      "response": "Combine retained and shared/provider components",
+      "when_to_consider": "One part of the cycle needs support while other work is appropriately retained.",
+      "potential_contribution_to_test": "Target a constraint without assuming wholesale delegation.",
+      "retained_work_and_verification": "End-to-end result across all components/partners, data access, actual engagement outputs, support boundaries, continuity and handback/exit.",
+      "evidence_hooks": "CLM-0215\u20130217, CLM-0219\u20130221, CLM-0241, CLM-0245\u20130247.",
+      "conditions_and_work_to_assess": "More interfaces can omit or duplicate tasks; shared definitions, authority, acceptance and recovery need owners."
+    },
+    {
+      "option_id": "P08",
+      "response": "Strengthen expertise, operating cover or leadership",
+      "when_to_consider": "Absence, change work or an enduring/time-bound skill or authority gap is material.",
+      "potential_contribution_to_test": "Cover, develop or lead the relevant work while preserving operating knowledge.",
+      "retained_work_and_verification": "Defined tasks/work products, who judges completion, retained operations, quality, continuity, knowledge/ownership and handback where relevant.",
+      "evidence_hooks": "CLM-0222, CLM-0245\u20130248 plus R02 capacity contexts. No inference of a shortage or need to hire.",
+      "conditions_and_work_to_assess": "Duration, tasks, access, competence/context, authority and quality review must fit. Individual capacity/advice, project delivery and ongoing execution have different obligations."
+    }
+  ],
+  "review_stage": "R03_second_challenge",
+  "cross_cutting_conditions": [
+    {
+      "condition_id": "LC01",
+      "condition": "Exact context and service unit",
+      "what_to_establish": "Product/module/package, country/entity, worker relationship, task, actual executor and included access/support. A global brand or country count is insufficient.",
+      "evidence_hooks_and_limits": "CLM-0241\u20130243. Employment-provider, HR-record, payroll and payment services are distinct; no new employment-advice path."
+    },
+    {
+      "condition_id": "LC02",
+      "condition": "Who does the work",
+      "what_to_establish": "Originator, employee/manager approval, operator, beneficiary and support. Distinguish onboarding from recurring work; assess the result rather than assume net savings or burden.",
+      "evidence_hooks_and_limits": "CLM-0240, CLM-0243. Supplier self-service scope is not measured effort or user acceptance."
+    },
+    {
+      "condition_id": "LC03",
+      "condition": "Continuing readiness",
+      "what_to_establish": "Applicable changes, responsible owner, relevant checks, communication and exception/recovery route. Separate transition, ordinary cycle, scheduled updates and exceptional changes.",
+      "evidence_hooks_and_limits": "CLM-0235\u20130239, CLM-0249, CLM-0251. Product-specific release cadence and public guidance are not universal schedules or private procurement mandates."
+    },
+    {
+      "condition_id": "LC04",
+      "condition": "Engagement and output ownership",
+      "what_to_establish": "Individual capacity, enduring leadership, employer-directed work, consulting-led outputs or continuing service. Define work product, who judges completion, retained authority and knowledge handback.",
+      "evidence_hooks_and_limits": "CLM-0245\u20130248. Declared engagement models are not a signed payroll contract or demonstrated outcome."
+    },
+    {
+      "condition_id": "LC05",
+      "condition": "Recovery, dependence and handback",
+      "what_to_establish": "Appropriate access, records/configuration/knowledge and an operable recovery/receiving route. Balance useful delegated capability against accepted dependence.",
+      "evidence_hooks_and_limits": "CLM-0250\u20130252. Export/backup is not a tested restored service; technical dependence is not automatically harmful or a measured switching cost."
+    }
+  ],
+  "prior_prompt_scenarios_are_constructed": true,
+  "unaided_participant_priorities_first": true
+}

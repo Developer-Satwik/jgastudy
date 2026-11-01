@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-29",
+  "module": "R04",
+  "scope": "Own-folder research candidates only",
+  "inputs_read": [
+    "00-control/CURRENT-STATUS.md",
+    "01-method/WORK-PACKAGE-ORDER.md",
+    "01-method/question-map.json v0.2",
+    "03-report/R03-DESKTOP-READOUT.md",
+    "02-evidence/registers/sources.json; R03 delivery candidates and retained Cintra HTML"
+  ],
+  "sources_reviewed": [
+    {
+      "candidate_id": "GOV4-S01",
+      "locator": "HTML 1.2; 4.1.3; 4.2.3; 4.3; 4.4.7-4.4.9; 6.2-6.3; 6.4.4. Browser tool line ranges 130-138, 231-240, 269-308, 358-374, 486-525, 564-570.",
+      "review_status": "relevant_original_sections_reviewed",
+      "capture_kind": "browser_tool_parsed_extract_not_original"
+    },
+    {
+      "candidate_id": "GOV4-S02",
+      "locator": "1.2 scope; 4.4.3; 4.5.1-4.5.2; 4.6.4-4.6.7; 5.4.2-5.4.5. Browser tool lines 296-405 and 642-697.",
+      "review_status": "relevant_original_sections_reviewed",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "GOV4-S03",
+      "locator": "PDF cover p1; scope section 1.2 printed p2/PDF p6; 4.4.4-4.4.7 printed pp15-16/PDF pp19-20 (one-based).",
+      "review_status": "relevant_original_sections_reviewed",
+      "capture_kind": "retained_original_pdf"
+    },
+    {
+      "candidate_id": "GOV4-S04",
+      "locator": "Opening scope; Executive Summary paragraphs 1-3 and 6; committee paragraph 99; risk governance paragraphs 221-228.",
+      "review_status": "relevant_original_sections_reviewed",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "GOV4-REUSE01",
+      "locator": "SaaS customers / Authorise payments; Source customers / Authorise payments",
+      "review_status": "relevant_original_sections_reviewed",
+      "capture_kind": "reused_retained_original_html"
+    }
+  ],
+  "pdf_review": {
+    "skill_read": true,
+    "source": "GOV4-S03",
+    "pdf_page_count": 59,
+    "text_extracted_pages_one_based": [
+      1,
+      6,
+      19,
+      20
+    ],
+    "rendered_and_visually_checked_pages_one_based": [
+      19,
+      20
+    ],
+    "printed_page_numbers_for_visuals": [
+      15,
+      16
+    ],
+    "notes": "Two-column layout, section headings and continuation checked; no new PDF authored."
+  },
+  "scope_checks": {
+    "public_private_scope_explicit": true,
+    "no_prevalence_inference": true,
+    "title_not_authority": true,
+    "assurance_not_automatic_approval": true,
+    "supplier_operations_not_investment_authority": true,
+    "formal_advice_and_actual_case_evidence_distinct": true,
+    "core_questions_unchanged": true,
+    "canonical_files_changed": false,
+    "client_contact": false,
+    "spending": false,
+    "practitioner_cases_collected": 0
+  },
+  "retained_manifest": [
+    {
+      "path": "03-report/research-notes/r04/governance/GOVERNANCE-ROLES.md",
+      "sha256": "6bd8c081e58c04e21cdae97c3c4b2d9fc6926a232e5a769adb5aa9f98f729ae4",
+      "bytes": 11114
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/capture-log.json",
+      "sha256": "020ddb9d6861e6ae3557143e9d139e791ca635e4686fbd152bedfddf546fe34b",
+      "bytes": 5862
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/claim-candidates.json",
+      "sha256": "7d9550350aa3be5d5dc186d55fd229489c02f1a46c3a72bce31b3008f58b4bce",
+      "bytes": 10209
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/frc-corporate-governance-guidance.html",
+      "sha256": "21266a2b8158df4ad17ba474f3623374b948fafc81a3cacf663db9349d1a59ef",
+      "bytes": 440358
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/frc-corporate-governance-guidance.html.txt",
+      "sha256": "c635a2cebf38142db447a68baa4d9cb74655ac2297c16b076555e040088e976b",
+      "bytes": 192479
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-002-browser-lifecycle-extract.txt",
+      "sha256": "371a346e9c4118551a5952a69fa8a5b666308c353f004dd7187cbc1ebda641d9",
+      "bytes": 18616
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-002-browser-text-extract.txt",
+      "sha256": "c48eebdeb7e75fae0de25de2157dc71b5e1b67f068474a7b53c19eb742955858",
+      "bytes": 20098
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-19.png",
+      "sha256": "0f2cd76cdecc077be6521384351836fe914f939ed59d26e68f78b9a8cda6b134",
+      "bytes": 373351
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-20.png",
+      "sha256": "a1b2ac99e693204d68f89b05bea5a9fd0a93ec268d786050189ce4637a7dcf29",
+      "bytes": 309884
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-landing.html",
+      "sha256": "3b452e7a5d4199b1db6892f6d5945545743599eaea68d21214d993fca12df365",
+      "bytes": 75106
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-page1.txt",
+      "sha256": "fc3acf029a4e5250a32322ff0b2c14afc47e8bc60deff6780d22c0ed7b4faea3",
+      "bytes": 178
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-page19.txt",
+      "sha256": "f9d5666a70aa3789846af235dd6d439b1b786e793864ea19b31ee27b6fd7ab2e",
+      "bytes": 3606
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-page20.txt",
+      "sha256": "54ac4b332031216b2cf89118f99016c0ae66c4029826d82f8f197dc07916361a",
+      "bytes": 2796
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance-page6.txt",
+      "sha256": "3774b653d41584a4dd805de0d00512c6dcd2426e4c54d15a13ec65302fffa48d",
+      "bytes": 2789
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-006-finance.pdf",
+      "sha256": "4725670dcf38a957dd3911a66395ab328cccddcdde4404a96ca65925875b7ee0",
+      "bytes": 689887
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-008-commercial.html",
+      "sha256": "c37216644c0115ed63367e4f30154b68810aa61fd244e07294187d89d98666b9",
+      "bytes": 292875
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/govs-008-commercial.html.txt",
+      "sha256": "b28abb63ca86981e334747fa7a67b4c81a16cc6ef7de892ad82a91ea77715cbe",
+      "bytes": 215132
+    },
+    {
+      "path": "03-report/research-notes/r04/governance/source-candidates.json",
+      "sha256": "13efd92fc2fdceab2f57a43ad53ba153353487c052143e19f1a8c6556852b863",
+      "bytes": 11747
+    }
+  ]
+}

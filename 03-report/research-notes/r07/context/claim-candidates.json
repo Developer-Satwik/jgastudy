@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "CTX7-C01",
+      "source_ids": [
+        "CTX7-S01"
+      ],
+      "claim_text": "The holiday-pay guidance makes working-arrangement classification depend on the specific contractual pattern, and distinguishes the applicability of named methods by worker type and leave year. A sector or headcount label does not supply those facts.",
+      "evidence_class": "official_conditional_workforce_context",
+      "locator": "Introduction; sections1–2 and3.1; method application, not rate calculation",
+      "limitations": "No individual worker classification, employment-law conclusion, calculation or inference that a whole sector uses one method. The guidance itself is not definitive advice for each case.",
+      "review_mode": "Relevant original HTML guidance inspected and retained; West Sussex is an explicitly dated canonical employer-communication reuse, not independently evaluated outcome evidence",
+      "population": "Source-specific guidance or single-employer stated context; analyst application separate",
+      "value": null,
+      "unit": null,
+      "time_period": "Source-specific applicability and event dates; no longitudinal or subgroup estimate"
+    },
+    {
+      "candidate_id": "CTX7-C02",
+      "source_ids": [
+        "CTX7-S02"
+      ],
+      "claim_text": "HMRC’s cross-border payroll guidance distinguishes work territory, expected duration and coverage circumstances; it treats Income Tax, National Insurance and separate payroll-scheme administration as distinct considerations.",
+      "evidence_class": "official_conditional_jurisdiction_context",
+      "locator": "Introduction; PAYE Income Tax and National Insurance headings; Operating separate payrolls",
+      "limitations": "No tax/treaty determination or claim that country count alone predicts complexity, investment need, funding or outsourcing. Country/threshold examples are not adopted.",
+      "review_mode": "Relevant original HTML guidance inspected and retained; West Sussex is an explicitly dated canonical employer-communication reuse, not independently evaluated outcome evidence",
+      "population": "Source-specific guidance or single-employer stated context; analyst application separate",
+      "value": null,
+      "unit": null,
+      "time_period": "Source-specific applicability and event dates; no longitudinal or subgroup estimate"
+    },
+    {
+      "candidate_id": "CTX7-C03",
+      "source_ids": [
+        "SRC-0107"
+      ],
+      "claim_text": "Basic PAYE Tools has a bounded own-employer eligibility and task scope and is not designed for agents/bookkeepers. This is an option boundary, not evidence that all smaller payrolls are simple or share a common investment priority.",
+      "evidence_class": "official_product_scope_boundary",
+      "locator": "Opening eligibility; What it does; Before you start",
+      "limitations": "No application trial, customer suitability, free whole-life payroll operation, employer-size priority difference or complexity threshold inferred.",
+      "review_mode": "Relevant original HTML guidance inspected and retained; West Sussex is an explicitly dated canonical employer-communication reuse, not independently evaluated outcome evidence",
+      "population": "Source-specific guidance or single-employer stated context; analyst application separate",
+      "value": null,
+      "unit": null,
+      "time_period": "Source-specific applicability and event dates; no longitudinal or subgroup estimate"
+    },
+    {
+      "candidate_id": "CTX7-C04",
+      "source_ids": [
+        "SRC-0198"
+      ],
+      "claim_text": "West Sussex’s March2026 employer communication links its revised HR/payroll rollout timing to scale, safe reliable payroll and the schools/term-time user context.",
+      "evidence_class": "employer_reported_context_and_timing",
+      "locator": "Official10March2026 body, retainedtext30–32",
+      "limitations": "One employer-stated reason, not education-sector prevalence, comparative sector priority, an optimal migration season, measured benefit or a new independent employer case.",
+      "review_mode": "Relevant original HTML guidance inspected and retained; West Sussex is an explicitly dated canonical employer-communication reuse, not independently evaluated outcome evidence",
+      "population": "Source-specific guidance or single-employer stated context; analyst application separate",
+      "value": null,
+      "unit": null,
+      "time_period": "Source-specific applicability and event dates; no longitudinal or subgroup estimate"
+    },
+    {
+      "candidate_id": "CTX7-C05",
+      "source_ids": [
+        "CTX7-S01",
+        "CTX7-S02",
+        "SRC-0107",
+        "SRC-0198"
+      ],
+      "claim_text": "R07 should record relevant dimensions of context separately: the payroll population in the contributor’s remit, working/pay arrangements, applicable jurisdictions, retained delivery tasks and the decision/change stage. Context can explain a plausible mechanism without establishing a between-group priority difference.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-source application of conditional workforce/jurisdiction, option-scope and dated employer context; instrumentQ002/Q005 remains the core basis",
+      "limitations": "Optional selective interpretation, not additional mandatory fields, employer quotas, validated segmentation, complexity score or causal subgroup conclusion. Headquarters, total global workforce and payroll population are not assumed interchangeable; sparse or missing groups cannot be filled from public examples.",
+      "review_mode": "Relevant original HTML guidance inspected and retained; West Sussex is an explicitly dated canonical employer-communication reuse, not independently evaluated outcome evidence",
+      "population": "Source-specific guidance or single-employer stated context; analyst application separate",
+      "value": null,
+      "unit": null,
+      "time_period": "Source-specific applicability and event dates; no longitudinal or subgroup estimate"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SRC-0153",
+      "url": "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+      "retrieved_at_utc": "2026-10-29T04:05:36.345446+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "evidence_status": "excluded_access_failure",
+      "path": null,
+      "sha256": null
+    },
+    {
+      "candidate_id": "R7R-S01",
+      "url": "https://www.gov.uk/government/publications/government-functional-standard-govs-005-digital/government-functional-standard-govs-005-digital-html",
+      "retrieved_at_utc": "2026-10-29T04:05:37.732369+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/government-functional-standard-govs-005-digital/government-functional-standard-govs-005-digital-html",
+      "content_type": "text/html; charset=utf-8",
+      "path": "03-report/research-notes/r07-second-check/root/captures/R7R-S01.html",
+      "sha256": "54dbc951ce0cfc51f941202169be10aace1a9afa635e918d11ff03087f7a6058",
+      "text_path": "03-report/research-notes/r07-second-check/root/captures/R7R-S01.txt",
+      "text_sha256": "e07b2a024ef426e59ce77a7dc8f667645a337b94677f1df64170b586f5dbb8f9",
+      "kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "SRC-0153-reader",
+      "url": "https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/",
+      "path": "03-report/research-notes/r07-second-check/root/captures/SRC-0153-selected-reader-notes.txt",
+      "sha256": "ff91481ab84a8a34437229a7fd008de5c2d193876ba43f2f64eb4cd83c9f3180",
+      "kind": "selected_reader_notes",
+      "evidence_status": "selected_browser_parsed_original_sections_not_raw_html"
+    }
+  ]
+}

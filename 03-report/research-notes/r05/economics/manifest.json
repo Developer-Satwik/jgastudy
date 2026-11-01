@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r05/economics/ECONOMICS-EVIDENCE.md",
+      "sha256": "1dc9d3c0aada07d6e912b879dc61a4cdd2ec6bb6a553898d7dd8b181a938f3d5",
+      "bytes": 10900
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/capture-log.json",
+      "sha256": "a8b4ed8902f7bc7e26eb3b9312d42f6343504eb2ae4bfa5289cb0676407e1576",
+      "bytes": 3376
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S01.html",
+      "sha256": "33facbda736b2e661f6466453f21c2502fc35803ce2dd2f7cb77eeb931c08e96",
+      "bytes": 255668
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S01.txt",
+      "sha256": "d3f9863f1b31ac9ca290e41f7fef5228a591b81d3497fa01659baf23070fd5fe",
+      "bytes": 74479
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S02.html",
+      "sha256": "4142147fb9687e8f340d2ebca2555d5c155fe58f877155f4593c53bd70fd7106",
+      "bytes": 138007
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S02.txt",
+      "sha256": "d324f50801b48be5d5bccc9d6d4275253605770db173f719787f10138dca3fea",
+      "bytes": 24447
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S03.html",
+      "sha256": "97fa351ea67ea649697aa533c53b956a19c8297bbecda1bfee7ed4868c04e09d",
+      "bytes": 236478
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S03.txt",
+      "sha256": "355fdb9bb7454bf583ac06e23c88191bf65b905ea7d2f7dba847b82a90bcec87",
+      "bytes": 13752
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/SRC-0005.html",
+      "sha256": "67495ed0ac3518b983a8f7c168db03e66fa21062a9fe811f56b950c4f9424432",
+      "bytes": 556439
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/SRC-0005.txt",
+      "sha256": "33dc05aa41d8d44456f5e33d0fa40cba069b35cdf17f9efdd0a0d4c45d0e38b3",
+      "bytes": 197759
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/claim-candidates.json",
+      "sha256": "c9e7d4bd24cf75b3d02d45173037c2a2e99caf89f900f18038f56c7a30387b4f",
+      "bytes": 8605
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/review-log.json",
+      "sha256": "eab2aa1e241fc03504f2f45144de94fd4444bba8b01a21bda23ea030842d2bc7",
+      "bytes": 1797
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/source-candidates.json",
+      "sha256": "fad3a946295ff8d0df253479c6b54ade0628c6bf5e8240db711ae1bfc50bbd87",
+      "bytes": 7144
+    }
+  ]
+}

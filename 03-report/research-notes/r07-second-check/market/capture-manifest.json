@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "M7S-S01",
+      "url": "https://www.freeagent.com/features/payroll/",
+      "final_url": "https://www.freeagent.com/features/payroll/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-10-29T04:05:25.958366+00:00",
+      "path": "03-report/research-notes/r07-second-check/market/captures/M7S-S01.html",
+      "sha256": "cfd1ba78d24345ea4954b431d7da1604bea354652098b4499db7876488ad1cd2",
+      "text_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S01.txt",
+      "text_sha256": "070b83be22c4d4643986887f68a6a41155b0d0abe7c2fda0c534a64092a12716"
+    },
+    {
+      "candidate_id": "M7S-S02",
+      "url": "https://support.freeagent.com/hc/en-gb/articles/115001219450-Set-up-payroll",
+      "error": "HTTP Error 403: Forbidden",
+      "evidence_status": "original_route_inspected_in_web_reader_selected_paraphrase_retained_no_raw_original",
+      "http_status": 403,
+      "reader_extract_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S02-selected-reader-notes.txt",
+      "reader_extract_sha256": "6bfbe5e3faf6ad2b1a39f5005a3c73f9dfac0565b6936f775217602c20acea20"
+    },
+    {
+      "candidate_id": "M7S-S03",
+      "url": "https://moneysoft.co.uk/support/payroll-manager-new-features-guides/",
+      "final_url": "https://moneysoft.co.uk/support/payroll-manager-new-features-guides/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-10-29T04:05:30.822341+00:00",
+      "path": "03-report/research-notes/r07-second-check/market/captures/M7S-S03.html",
+      "sha256": "16dbdb7273269b3b67de828e3a9e097afe140b272f7e14ee15e8f28cc7e3fcbd",
+      "text_path": "03-report/research-notes/r07-second-check/market/captures/M7S-S03.txt",
+      "text_sha256": "c65346d20df5fac5f2a1730e4a7ab3197ea54e5a98c984fef7720616708c51b1"
+    },
+    {
+      "source_id": "SRC-0207",
+      "url": "https://bpop.brightsg.com/",
+      "final_url": "https://bpop.brightsg.com/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-29T04:07:07.649624+00:00",
+      "path": "03-report/research-notes/r07-second-check/market/captures/SRC-0207.html",
+      "sha256": "cce1ec3d0b331c25881d959e24df38194c0401e68c8d471b41eb05989971fe0c"
+    }
+  ]
+}

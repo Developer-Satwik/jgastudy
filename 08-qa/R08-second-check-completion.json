@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R08_preparatory_second_challenge",
+  "supersedes_for_current_synthesis": "08-qa/R08-completion-check.json",
+  "review_basis": "Independent integrated preparatory second review plus root327exact saved-data and197checks across15constructed applications. No practitioner/usability/causal/predictive/commercial validation or finalWP15completion.",
+  "framework_version": "0.2",
+  "new_source_routes": 0,
+  "new_claim_or_guardrail_records": 17,
+  "new_internal_design_findings": 5,
+  "source_records": 191,
+  "claim_records": 355,
+  "internal_findings": 81,
+  "source_records_with_primary_retained_original": 120,
+  "linked_views": 6,
+  "selective_conditions": 5,
+  "explicit_view_text_refinements": 2,
+  "constructed_routes": 15,
+  "new_constructed_routes": 5,
+  "constructed_routing_checks": 197,
+  "selected_prior_questions": 4,
+  "selected_saved_answer_texts": 32,
+  "prior_bridge_checks_passed": 327,
+  "independent_integration_checks_passed": 646,
+  "checked_capture_files": 31,
+  "preserved_baseline_records": 85,
+  "first_pass_R08_snapshots": [
+    {
+      "original_path": "03-report/R08-DECISION-FRAMEWORK.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/01-R08-DECISION-FRAMEWORK.md.txt",
+      "sha256": "598bfd02444b05c6314df67289a69a670b91dc0bd52ef473af00b626fdf2b36b"
+    },
+    {
+      "original_path": "03-report/R08-DESKTOP-SYNTHESIS.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/02-R08-DESKTOP-SYNTHESIS.md.txt",
+      "sha256": "9f539a9cc505ce1659576c4108dc549b2d741184c375c73c0a559b49f4fb6206"
+    },
+    {
+      "original_path": "03-report/R08-REPORT-INTEGRATION.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/03-R08-REPORT-INTEGRATION.md.txt",
+      "sha256": "f292716a759c9d5cc9b9140e09825df9447b7b9a6c1c1b849286bba5e73d75fe"
+    },
+    {
+      "original_path": "03-report/R08-framework-map.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/04-R08-framework-map.json.txt",
+      "sha256": "e049b5ae0610d24349f2691fd85f0482d1cc107e4821c72b9a2c2050b00ffb3b"
+    },
+    {
+      "original_path": "03-report/R08-report-integration-map.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/05-R08-report-integration-map.json.txt",
+      "sha256": "df85967d8ea0ffe67f68d4163ae41f9b28238cde505014919a01f80e2fb926ac"
+    },
+    {
+      "original_path": "03-report/R08-constructed-walkthroughs.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/06-R08-constructed-walkthroughs.json.txt",
+      "sha256": "828d1f58a8e37b337238776a859eee1009d558c5740006501a9397ef7f8bb97a"
+    },
+    {
+      "original_path": "03-report/modules/R08-decision-framework-and-synthesis.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/07-R08-decision-framework-and-synthesis.md.txt",
+      "sha256": "c5916c708822d80afb58a266713db5d257e289f13f5048c2bb0f0fae013063b6"
+    },
+    {
+      "original_path": "08-qa/R08-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/08-R08-completion-check.json.txt",
+      "sha256": "9ff8cbd391e7f4c458260bfdda8ac26817a51f02b0d6c5fb2d5d5e77bd58d303"
+    }
+  ],
+  "reviewed_v02_snapshots": [
+    {
+      "original_path": "03-report/R08-framework-map.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-status/R08-framework-map.json.txt",
+      "sha256": "a7c8ebb6a5efd57a0daadaccd95b1fb201d1b0657924cf9c1bcc58890bdddb9d"
+    },
+    {
+      "original_path": "03-report/R08-constructed-walkthroughs.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-status/R08-constructed-walkthroughs.json.txt",
+      "sha256": "1fa67dac6270f9c364523b25f743cd6ccb5229e87ef8a6b7f66b994f5f32bac0"
+    }
+  ],
+  "core_questions_unchanged": true,
+  "new_mandatory_questions": 0,
+  "original_practitioner_observations": 0,
+  "numerical_estimates": 0,
+  "framework_practitioner_validated": false,
+  "final_WP15_complete": false,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R08-SECOND-CHECK-READOUT.md",
+      "sha256": "331d0aad80691fd870c0b49af0f5619f072b1e129ea1f0d5022b248774bd96b2"
+    },
+    {
+      "path": "03-report/R08-DECISION-FRAMEWORK.md",
+      "sha256": "168c6de5654a83ce747b08e623b06522c420c56a1b416fee52782feb946ca28a"
+    },
+    {
+      "path": "03-report/R08-DESKTOP-SYNTHESIS.md",
+      "sha256": "a8cd1912a2ca83ef3b1d90f779a0400d0ceed55ee47e06273e64175eea359edd"
+    },
+    {
+      "path": "03-report/R08-REPORT-INTEGRATION.md",
+      "sha256": "1e9aadb2bf566f184afd281ce903545768552da9f238e34c60f5b4ad0cc671e3"
+    },
+    {
+      "path": "03-report/R08-framework-map.json",
+      "sha256": "c8b309f0d5a0a5c97faa52a966e75bf5d708f46136d3a1eb923e06f47a53fbac"
+    },
+    {
+      "path": "03-report/R08-constructed-walkthroughs.json",
+      "sha256": "b5f2e0135adea7de0db236e5b0e4ba19fc267e551c7446ff6d77569c4da60e0a"
+    },
+    {
+      "path": "03-report/modules/R08-decision-framework-and-synthesis.md",
+      "sha256": "e3ea502026b6619837157926d676fcda9d87edfe0d0a84c2d2672ab069d0d084"
+    },
+    {
+      "path": "08-qa/R08-second-check-independent-review.md",
+      "sha256": "4b8fa3dad4e1d3d77abd58de4c5046331f343b0e439cd8b533475a2c72c8c100"
+    },
+    {
+      "path": "08-qa/r08-second-review/integration-checks.json",
+      "sha256": "011439855b3c75a6526362791e79d2bbabc82b0f75ab70cb4e5fad222923ee99"
+    },
+    {
+      "path": "08-qa/R08-second-check-record-map.json",
+      "sha256": "0babef6e1f1f87442b2670acf82165a8e459758a9a56f1e95b1ddbd8e642d9ef"
+    },
+    {
+      "path": "08-qa/R08-second-check-captures.json",
+      "sha256": "57671a5f8d5d1c0fb9602f256333c56e16ff553258d509c67f2992a346c0602a"
+    },
+    {
+      "path": "08-qa/R08-second-routing-walkthrough.json",
+      "sha256": "2962098c1d6e3610ce50a7e319d871fa63763790c3c6635ab951b37f4b70aa66"
+    },
+    {
+      "path": "08-qa/R08-prior-study-bridge-check.json",
+      "sha256": "521ab3488acb4537273b499a174417f93c5f72627ab8f55e7582c8f0b7402ebe"
+    },
+    {
+      "path": "08-qa/R08-prior-study-bridge-check.md",
+      "sha256": "1620397d1d3746a7c065ea4b665b7ec9dcf66b11d875b1561539dda8157abf1a"
+    },
+    {
+      "path": "03-report/research-notes/r08-second-check/before-status/manifest.json",
+      "sha256": "ef0391eb3c08ae035c4f68725c90b532b42fe920efe5cf560c6e2738b89d7d9d"
+    }
+  ],
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 3004,
+    "json_files": 380,
+    "source_records": 191,
+    "claim_records": 355,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 328,
+    "scope": "Current source/capture/evidence consistency; first-pass/v0.2 R08 structure and15constructed applications,17bounded second-challenge records, heldclaims, exact oldcanonical snapshots, prior/core/client preservation and final original-practitioner dependency. No human fieldwork, framework use/causal/predictive/commercial validation or final publication approval."
+  },
+  "completion_artifact_hashes_verified": true
+}

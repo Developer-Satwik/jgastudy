@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5R-C01",
+      "source_candidate_ids": [
+        "T5R-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines103–114, rates effective1March2026",
+      "claim_text": "For 2026–27, CIEP lists suggested minimum hourly fees of £31.92 for proofreading, £37.11 for copyediting, £42.66 for substantial editing/rewriting/development editing and £46.19 for project management.",
+      "evidence_class": "professional_body_suggested_fee_context",
+      "value": {
+        "proofreading": 31.92,
+        "copyediting": 37.11,
+        "substantial_editing": 42.66,
+        "project_management": 46.19
+      },
+      "unit": "GBP per hour",
+      "denominator": null,
+      "population": null,
+      "time_period": "Effective1March2026, labelled2026–27",
+      "limitations": "Suggested minima, not market averages, actual supplier quotes or employee wages. Tax treatment and actual job scope not established.",
+      "status": "T05_public_labour_rate_context"
+    },
+    {
+      "candidate_id": "T5R-C02",
+      "source_candidate_ids": [
+        "T5R-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines81–100, freelancer-cost explanation and limits",
+      "claim_text": "CIEP explains that its freelance fee guidance accounts for business costs including leave, pension, National Insurance or equivalent contributions, equipment and running costs, so it is not directly comparable with employee remuneration.",
+      "evidence_class": "professional_body_rate_scope",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Do not add the same included freelancer overhead again as employee on-costs. This does not establish every supplier inclusion or VAT treatment; specialist scope and negotiated rates still matter.",
+      "status": "T05_public_labour_rate_context"
+    },
+    {
+      "candidate_id": "T5R-C03",
+      "source_candidate_ids": [
+        "T5R-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines199–217, 2026 survey date/base and median",
+      "claim_text": "ProCopywriters reports a 2026 median freelance day rate of £440. The producer summary labels the survey as 573 respondents, fieldwork in February and publication in July2026.",
+      "evidence_class": "producer_survey_summary",
+      "value": {
+        "median_freelance_day_rate": 440,
+        "total_survey_respondents": 573
+      },
+      "unit": "GBP per day; separate total survey respondent count",
+      "denominator": null,
+      "population": "UK commercial writers; freelance-rate subgroup base unstated on inspected HTML",
+      "time_period": "FieldworkFebruary2026; publicationJuly2026",
+      "limitations": "573 must not be described as the answer base for the day-rate item. It is not a quote for a complete research publication, a salary rate or an assumed eight-hour day.",
+      "status": "T05_public_labour_rate_context"
+    },
+    {
+      "candidate_id": "T5R-C04",
+      "source_candidate_ids": [
+        "T5R-S03"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines404–438, methodology and definitions",
+      "claim_text": "YunoJuno says the 2026 report uses more than182,000 contractor, booking, skills and workforce data points from2024–25. Rates combine approved contractor-rate and confirmed-booking data; GBP day rates concern the UK market and USD hourly rates the US market.",
+      "evidence_class": "producer_platform_rate_methodology",
+      "value": {
+        "data_points_lower_bound": 182000
+      },
+      "unit": "Mixed platform data points, not people or individual-role observations",
+      "denominator": null,
+      "population": null,
+      "time_period": "2024–25platformdata;2026report",
+      "limitations": "Do not call182,000 a unique freelancer/booking count or a role-specific sample. UK/day and US/hour are separate markets, not interchangeable conversion pairs. The report calls averages directional and notes removal of outliers.",
+      "status": "T05_public_labour_rate_context"
+    },
+    {
+      "candidate_id": "T5R-C05",
+      "source_candidate_ids": [
+        "T5R-S04",
+        "T5R-S03"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Role parsed lines124–132; report methodology lines404–438",
+      "claim_text": "YunoJuno’s Market Research Consultant role page publishes an average GBP day rate of£372.",
+      "evidence_class": "producer_platform_role_rate",
+      "value": 372,
+      "unit": "GBP per day",
+      "denominator": null,
+      "population": "YunoJuno market-research role context; exact rate base unstated",
+      "time_period": null,
+      "limitations": "Role-specific sample size, exact observation period and day length are not supplied on inspected role page. Public context, not actual JGA/Riseklix or payroll-specialist cost, a complete project price, tax-inclusive amount or available supplier.",
+      "status": "T05_public_labour_rate_context"
+    },
+    {
+      "candidate_id": "T5R-C06",
+      "source_candidate_ids": [
+        "T5R-S05",
+        "T5R-S03"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Role parsed lines124–132; report methodology lines404–438",
+      "claim_text": "YunoJuno’s Graphic Designer role page publishes an average GBP day rate of£348.",
+      "evidence_class": "producer_platform_role_rate",
+      "value": 348,
+      "unit": "GBP per day",
+      "denominator": null,
+      "population": "YunoJuno graphic-designer role context; exact rate base unstated",
+      "time_period": null,
+      "limitations": "The role average is not the broader Designers discipline average and is not a report-design quote. Exact role base, specific editorial/accessibility skill, day length, VAT/platform fees and booking terms are not established.",
+      "status": "T05_public_labour_rate_context"
+    },
+    {
+      "candidate_id": "T5R-C07",
+      "source_candidate_ids": [
+        "T5R-S01",
+        "T5R-S02",
+        "T5R-S03",
+        "T5R-S04",
+        "T5R-S05"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Researcher reconciliation of inspected rate scopes",
+      "claim_text": "These public routes support a labelled UK replacement-cost comparison, but do not establish actual hours, supplier availability, JGA employee cost, Indian outsourcing cost, an all-in commissioned fee or an automatic hourly conversion of day rates.",
+      "evidence_class": "researcher_benchmark_use_boundary",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Any adopted workload, day-length conversion, rate selection, tax treatment and cost overlap must be an explicit model assumption or actual verified input. A reference benchmark does not change the current USD1,500 agreement or add a new charge.",
+      "status": "T05_public_labour_rate_context"
+    }
+  ]
+}

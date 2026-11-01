@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "TM2-C01",
+      "canonical_source_ids": [
+        "SRC-0003",
+        "SRC-0229"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Before offering a decision-specific reading path, compare the actual releasable evidence with that use: context, geography, decision/role, dates and claim. A target or achieved contributor count does not itself establish a publishable case contrast for each possible buyer task. Narrow or qualify the use where the released material supports only exploratory context.",
+      "evidence_class": "researcher_offer_evidence_coverage_condition",
+      "locator": "QQE items3,4,7,8,17–18; ISG Global Payroll2025 scoped assessment/suitability and participation limitations; analytical application to TP01/TP02",
+      "limitations": "No new quotas, required matching cases for every buyer category, new mandatory questions, reduced contracted deliverable or claimed participant evidence. A small qualitative account can be useful if contextualised. Permission and anonymisation can affect detail; no actual redaction loss or failed coverage is asserted.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "TM2-C02",
+      "canonical_source_ids": [
+        "SRC-0227"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "A briefing should specify whether it interprets the existing edition or requires new evidence, analysis or client-specific work. Tailoring the reading path or explanation does not generate missing findings. If the actual request crosses the agreed edition-context service, revise the promise or separately scope the additional work rather than silently absorb it.",
+      "evidence_class": "researcher_existing_edition_versus_new_work_condition",
+      "locator": "ISG enterprise service fresh parsed lines123–126 distinguishes published-study context inquiry and separately purchased On-Demand; analytical application to TP01optionalbriefing/TP02briefing",
+      "limitations": "This is a JGA design application, not a claim about undisclosed ISG service rules or actual JGA staff capacity. No ban on tailored interpretation, new advisory obligation, extra current-scope service, duration or price. Future additional work remains excluded unless separately agreed.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "TM2-C03",
+      "canonical_source_ids": [
+        "SRC-0246"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Specify each partner benefit as a deliverable with a fulfilment basis: for example, acknowledgement on a particular edition/channel, a defined briefing or an actually agreed use asset. Placement, permission and service delivery are different from audience reach, commercial response or research impact. Partner recognition should not be sold or modelled as evidence of those outcomes.",
+      "evidence_class": "researcher_partner_deliverable_vs_effect_condition",
+      "locator": "iVentiv sponsor inventory fresh parsed lines44–61; analytical contrast to TP02researchacknowledgement/use/briefing",
+      "limitations": "No provider outcome claim, sponsorship price, JGA reach, logo permission, lead or meeting guarantee is inferred. A transparent separate access package may be defined if appropriate and actually permitted; its availability is not assumed. These distinctions do not establish willingness to fund.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    }
+  ]
+}

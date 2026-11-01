@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_root_internal_review",
+  "new_source_candidates": 3,
+  "claim_candidates": 9,
+  "new_original_html_retained": 3,
+  "hash_checks": [
+    {
+      "path": "03-report/research-notes/r03/delivery/DEL-S01.html",
+      "sha256": "44f6c00c158e7f9d74fde28eee4a5093614b985e67733a73a7a1823cd5170346",
+      "passed": true
+    },
+    {
+      "path": "03-report/research-notes/r03/delivery/DEL-S02.html",
+      "sha256": "26402df6876e016044d6e49cb25f54e411146b675b95aa21d51154bd0f17761f",
+      "passed": true
+    },
+    {
+      "path": "03-report/research-notes/r03/delivery/DEL-S03.html",
+      "sha256": "53f6b8d4f41524b44061437baebcce3f6382c2fb34d007c90dddb54070d55cfb",
+      "passed": true
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/fourth-definition-2026.pdf",
+      "sha256": "1303d84fc8ae65afd91927e336d5e3ac4bb94a62606ad6d3f8963e2a1a7ccb6a",
+      "passed": true
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/phase3-gcloud14.html",
+      "sha256": "c5cf1881741877b6934c3a3362cc9562b868938d3a018b58496953087ae9845b",
+      "passed": true
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/phase3-definition-2021-22.pdf",
+      "sha256": "e76118bec938e7b01bc5de6699f66cbd025d18cffbb517d0ca7103205756c2dd",
+      "passed": true
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S09.html",
+      "sha256": "72a3900c7d50ade25f25b691651a3e705f2a88bb04290cf35b3e772b7d4c5897",
+      "passed": true
+    }
+  ],
+  "pdf_pages_visually_checked": [
+    {
+      "path": "03-report/research-notes/r03/delivery/qa/fourth-page22.png",
+      "sha256": "88a81d79b79d02cb030c38c504027b689427910572477cfeea81ae2d028dad94",
+      "visually_checked_by": "r03_delivery",
+      "result": "Relevant complete source page legible and checked against extraction."
+    },
+    {
+      "path": "03-report/research-notes/r03/delivery/qa/phase3-page5.png",
+      "sha256": "ee8ab9ecec46b6ab80f3b93eaff55ee7a61b93740156d6c34ac230da8f25e412",
+      "visually_checked_by": "r03_delivery",
+      "result": "Relevant complete source page legible and checked against extraction."
+    }
+  ],
+  "held_issue": "DEL-C05: universal current UI/status behaviour differs across dated documents",
+  "canonical_files_modified": false,
+  "client_files_modified": false,
+  "external_actions": []
+}

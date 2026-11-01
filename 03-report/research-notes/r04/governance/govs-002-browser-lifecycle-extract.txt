@@ -1,0 +1,178 @@
+Capture type: browser/search-tool parsed text extract, not a retained original HTML or PDF.
+Captured on: 2026-10-29
+
+Government Functional Standard GovS 002: Project delivery (HTML) - Government Project Delivery (https://projectdelivery.gov.uk/library-products/government-functional-standard-govs-002-project-delivery/)
+citeturn505view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn472view0","lineno":486}); Total lines: 1297
+L434: #### 5.3.2 Setting the vision and strategy for the portfolio
+L435: 
+L436: A vision should be defined and communicated, stating the overarching aspirations of what is to be achieved in the long-term.
+L437: 
+L439:   * the organisational objectives and priorities from the business plan which relate to the portfolio
+L440:   * the portfolio’s long-term objectives
+L441:   * summary information on the benefits and costs
+L442:   * outcomes and capabilities to be delivered and how these link to the portfolio’s objectives and priorities from the business plan
+L443:   * key success factors and resource and risk information
+L444: The portfolio’s strategy should set the context for the definition and planning of the portfolio, and inform the criteria for investment decisions and the approval of work components.
+L445: #### 5.3.3 Portfolio definition and planning
+L446: 
+L447: The portfolio, as a whole, should be defined and planned in accordance with the portfolio’s governance and management framework (see 5.2), to meet the purposes listed in clause 5.1. The planning horizon should be for a defined period aligned with the organisation’s business plan. When planning the portfolio:
+L448:   * the government’s policy and organisational objectives, context and priorities should be understood, together with the current status of the portfolio and its work components
+L449:   * measures for the successful delivery of outcomes and realisation of benefits should be defined
+L450:   * potential new work components should be categorised and evaluated, based on their degree of strategic fit, expected benefits, efficient use of funds and risk; the views of stakeholders should be understood and considered
+L451:   * work components should be prioritised and selected, based on the results of the evaluation, taking into account the performance of existing work components
+L452:   * each work component should be traceable to government policy or organisational objectives (see 7.8)
+L453:   * the plan should be collated with interdependencies identified between components within and outside the portfolio
+L454:   * once approved, the portfolio plan should be baselined, and any changes approved by the appropriate authority
+L455: #### 5.3.4 Validating the portfolio’s objectives and strategy
+L456: 
+L457: The portfolio’s objectives and strategy should be periodically reviewed to ensure:
+L458: 
+L459:   * they are still current and affordable
+L460:   * the right programmes, projects and other related work components are being undertaken
+L461: 
+L462: If required, corrective action should be taken to amend the portfolio’s vision, objectives and strategy, or adjust the portfolio’s scope and content.
+L463: #### 5.3.5 Authorising the start of work components
+L464: New work components should be identified, defined and authorised (in compliance with an approved authorisation process, see 4.3 on decision making) to start when indicated in the plan or as required by organisational priorities. Before being initiated, the portfolio manager (see 4.4.6) should confirm the aims given in 5.1 are met, an impact assessment of financial, resource or technical capability is available and that the programme or project does not conflict with or duplicate other related work.
+L465: See clauses 6.4.2 and 6.4.5 on identifying and initiating a programme or project.
+L466: When approving the start of a work component, the problem or opportunity should be known, even though the solution and implementation approach might not be known.
+L467: #### 5.3.6 Monitoring and analysing portfolio delivery
+L468: 
+L469: The portfolio, as a whole, should be monitored and analysed with respect to:
+L470:   * outcomes achieved, and benefits realised
+L471:   * adherence to constraints, including those for cost, benefit and schedule
+L472:   * delivery of primary outputs
+L473:   * availability of finance (see 7.10)
+L474:   * current capacity and capability constraints in the organisation and supply chain (see 7.4)
+L475:   * current level of portfolio risk, including those related to interdependencies (see 7.6)
+L476:   * the views and reactions of impacted parties and other stakeholders (see 7.12)
+L477: Stakeholders should be monitored and engaged, with new stakeholders identified and existing stakeholders re-evaluated. New risks and issues should be identified, and existing ones managed. Action should be taken to ensure the portfolio meets its objectives and reflects any constraints. Existing work components might be identified for amendment, rescheduling or termination. Corrective and preventative actions might trigger the need for new work components, scope changes or termination of work.
+L478: #### 5.3.7 Portfolio performance reporting
+L479: 
+L480: Portfolio performance shall be reported against the portfolio plan, including, but not limited to, finances, benefits, costs, outcomes, milestones and risks. Additional analysis and commentary should explain variances. Reporting should reflect both achievement to date and a forecast for future performance. See also 7.5.
+L481: 
+L482: ## 6. Programme and project management
+L483: ### 6.1 The purpose of programme and project management
+L484: Programme and project management are structured frameworks for defining and undertaking change. They provide a framework for implementing policy and business strategies to enable the government and organisations to achieve outcomes and benefits of strategic importance.
+L485: Programme and project management includes the planning, delegating, monitoring and control of all aspects of a programme or project and the motivation of those involved to achieve the defined objectives within the defined constraints, such as cost, benefit, schedule, quality, scope, and risk.
+L486: ### 6.2 Programme and project governance and management framework
+L487: 
+L488: Each programme and project shall be under the direction of a named senior responsible owner (see 4.4.8) and be managed by a named programme or project manager (see 4.4.9), as appropriate, supported by a team.
+L489: A programme and project governance and management framework (see 4.1), defining how a programme or project is to be directed and managed, shall be defined and established. The governance and management framework may change to reflect the phase of the work being undertaken. The governance and management framework should include:
+L490:   * authority and decision-making roles and rules, including, but not limited to, governance tiers, initiation of new work, prioritisation, assignment of resources and funds, and issue resolution
+L491:   * roles and accountabilities, processes, methods, techniques, guidance, templates and tools to be used to undertake the practices in this standard
+L492: 
+L493: The governance and management framework of jointly sponsored work should be defined to reflect the legitimate interests of the participating organisations.
+L494: The programme’s or project’s governance and management framework should align to and work with:
+L495: 
+L496:   * the organisation’s project delivery governance and management framework (see 4.1.3)
+L497:   * the portfolio’s governance and management framework (see 5.2)
+L498:   * other organisational processes and practices, such as those for finance, human resource management, performance reporting, capability and capacity management, risk management, and communications
+L499: Note: the governance and management framework can be tailored drawing on departmental methodologies or, for major projects, can be specially developed; 【101†guidance can also be found in The Teal Book】 [16].
+L500: ### 6.3 Life cycles
+L501: 
+L502: The life cycle provides a phased approach for governing work and underpins the plan, from start to finish. The life cycle shall be defined and should include approval gates/decision points and assurance reviews. For government major projects the life cycle and its attributes shall be defined in accordance with this standard.
+L503: A project shall comprise stages, each of which shall be preceded by a gate (decision point) to authorise the start of the next stage and commit resources and funding.
+L504: The project life cycle should be defined to suit the circumstances by tailoring and mapping to the reference life cycle shown in Figure 5 and Annex C. The number of gates and stages, types of assurance review and form of the business case should be chosen to ensure governance is appropriate and proportionate to the circumstances, with simpler projects having fewer stages (minimum of two) and more risky projects having more stages. See Figure 5 and Annex C.
+L505: 【102†Image】Figure 5 The reference project life cycle with gates, stages and assurance reviews from section 4 and their relationship to the practices in sections 6, 7 and 8
+L506: 
+L507: A programme may be phased in one or more tranches and might cover the whole life of a product, service or system (see Figure 6).
+L508: 
+L509: 【103†Image】Figure 6 Example programme life cycle, showing tranches, decisions and assurance reviews from section 4 and their relationship to the practices in sections 6, 7 and 8
+L510: The following shall be defined for each gate or decision point:
+L511: 
+L512:   * criteria for providing authorisation
+L513:   * the decision makers
+L514:   * who should be consulted
+L515:   * the type of assurance review required prior to the decision (see 4.2)
+L516: 
+L517: Criteria should include, but not be limited to the following:
+L518:   * work aligns with policy and strategy and is still needed
+L519:   * the business case is acceptable
+L520:   * risks have been identified and are acceptable or can be mitigated
+L521:   * the solution is (or is likely to be) acceptable
+L522:   * there are funds and resources to complete the work and support any outcomes
+L523:   * there is a plan for the next stage and outline plan for the remainder of the work
+L524: 
+L525: A decision might result in approval to proceed, a request for work to be revised, or deferral or termination of the project.
+L526: Model project life cycles may be developed for undertaking particular types of project or programme.
+L527: 
+L528: Note: Annex C includes a detailed example project life cycle. Annex D includes agile delivery and extended life cycle example.
+L529: Note: phases for a project are called stages. Stages can reflect the approach taken, for example, developed using an agile approach, such as discovery, alpha, beta (private); beta (public) or in ‘waterfall’, such as analysis, design, development, testing, implementation. Further detail and examples of a project life cycle are included in Annexes C and D.
+L530: 
+L531: Note: see Figure 5 for detail for each project in a programme.
+L532: 
+L533: Note: see The Teal Book [16] for guidance on 【104†programme and project life cycles】.
+L534: ### 6.4 Programme and project management practices
+L535: 
+L536: #### 6.4.1 Overview
+L537: 
+L538: The programme and project management practices should be defined in the governance and management framework (see 6.2). Figure 7 shows the relationship between the roles defined in clause 4.4 and the practices in clause 6.4.
+L539: 
+L540: 【105†Image】Figure 7 Relationship between the roles and the programme and project management practices
+L541: 
+L542: 
+L543: 
+L544: Note: see The Teal Book [16] for guidance on 【106†programme and project management practices】.
+L545: #### 6.4.2 Identifying – policy
+L546: 
+L547: Identifying a programme or project ensures that the policy or other objective for undertaking the work is defined and likely to be realistic before the first phase of work is authorised to start, and funds and resources committed.
+L548: The senior responsible owner (see 4.4.8) shall be appointed. Potential team members and subject matter experts should be identified and be involved with policy formulation to ensure the opportunity or need is explored and understood and that deliverability is taken into account.
+L549: 
+L550: Before a programme or project is submitted for approval, the senior responsible owner should ensure:
+L551:   * the vision, justification and desired outcomes for the programme or project, together with any strategic assumptions, are documented in a programme or project brief
+L552:   * policy and decision makers have sought advice from experienced professionals on deliverability and risks
+L553:   * the appropriate assurance review has been conducted (see 4.2)
+L554: If policy and objectives change as the work progresses through the life cycle, the senior responsible owner shall review the impact and consider whether the work is still justified; resultant changes to the programme or project should be controlled (see 7.7).
+L555: #### 6.4.3 Overseeing
+L556: 
+L557: Overseeing a programme or project ensures the sponsoring body is satisfied that the team is able to achieve the objectives, meet the organisation’s needs and stakeholders’ expectations, and that risks are at an acceptable level. Oversight can be through:
+L558: 
+L559:   * involvement in key decisions
+L560:   * periodic reporting
+L561:   * independent assurance reviews and audits
+L562:   * ad hoc escalations and interventions
+L563: The sponsoring body (see 4.4.7) should keep the senior responsible owner (see 4.4.8) updated on the wider context, providing guidance and direction, as needed or when requested. The sponsoring body shall enable the senior responsible owner to have sufficient time to carry out their responsibilities effectively.
+L564: #### 6.4.4 Directing
+L565: 
+L566: Directing a programme or project ensures continuing strategic fit and relevance in the prevailing business context.
+L567: 
+L568: The senior responsible owner (see 4.4.8) shall ensure the solution fulfils government policy and/or meets the needs of the organisation (see 8.3 and 8.4) and represents value for money [20].
+L569: The senior responsible owner shall provide direction and make decisions regarding the future of the programme or project, taking into account changes to the overall political, social, environmental, or technological context and prevailing risk. This should include ensuring the programme or project remains justifiable and assurance reviews and approvals (such as at gates and at closure) are undertaken at the right time and corrective and preventative actions taken, if needed.
+L570: The senior responsible owner shall refer decisions above their delegated authority to the sponsoring body (see 4.4.7) or other appropriate decision makers, in accordance with the governance framework (see 4.1).
+L571: #### 6.4.5 Initiating
+L572: 
+L573: Initiating ensures a programme or project is set up, defined and planned, and that the team is mobilised and understands the opportunity or need to be addressed.
+L574: 
+L575: The senior responsible owner (see 4.4.8) shall confirm:
+L576: 
+L577:   * a real policy, opportunity or business need is being addressed
+L578:   * communicate the vision, objectives and desired outcomes to key stakeholders, together with strategic assumptions
+L579:   * set criteria for measuring success
+L580: The programme or project manager (see 4.4.9) should mobilise the team and facilities required to undertake the work and define the governance and management framework to be used (see 4.1).
+L581: 
+L582: The team should understand the requirements, assumptions, constraints and risk potential, and should investigate different solutions, delivery approaches and implementation options for meeting the opportunity or need (see 8.3 and 8.4). Options shall be assessed in accordance with 【79†GovS 010, Analysis†www.gov.uk】.
+L583: A delivery strategy and plan for the work shall be developed (see 7.2), including approaches to be used for specialist work, taking into account lessons learned from previous, relevant work (see 8.10). The initial justification for the programme or project shall be documented in a strategic outline case (or equivalent).
+L584: 
+L585: Criteria for determining the successful delivery of outcomes and realisation of benefits should be defined.
+L586: Note: the choice of solution might require a discovery stage (agile) or number of investigative stages to be undertaken and the use of specialist techniques such as opportunity framing. See 6.3 life cycle.
+L587: #### 6.4.6 Managing
+L588: 
+L589: The programme or project manager (see 4.4.9) should ensure the appropriate team (including suppliers) and facilities are in place.
+L590: 
+L591: New tranches, stages or work should be planned and reviewed prior to authorisation (see 6.3).
+L592: 
+L593: Work packages should be initiated and monitored against the plan or product backlog, risks mitigated, issues addressed, and changes controlled. Lessons should be continually captured and managed (see 8.9).
+L594: Outputs should be developed ready for use (see 8.3 to 8.9) and stakeholders’ views should continue to be addressed ensuring business changes and new ways of working are being embedded, such that the desired outcomes can be achieved (see 8.7).
+L595: 
+L596: Commercial and financial aspects should be addressed (see 7.10 and 7.11).
+L597: 
+L598: The continuing justification for the programme or project shall be monitored and business case updated, if appropriate (see 4.3) in a controlled way (see 7.7).
+L599: #### 6.4.7 Managing a work package
+L600: 
+L601: Managing a work package ensures the deliverables within the scope of a project or other related work (see 3.3) are defined and delivered, in order that the outcomes can be achieved, and benefits realised:
+L602:   * work should be defined, planned and controlled in work packages or sprints (see 7)
+L603:   * goods and services should be procured and their delivery managed (see 7.11)
+L604:   * stakeholders’ views should be sought, validated and addressed (see 7.12)
+L605:   * outputs should be developed using methodologies and techniques which are proportionate and appropriate, and the quality verified and outcomes should be validated against the requirements (see 8.6)
+L606:   * lessons should be continually captured and managed (see 8.10)
+

@@ -1,0 +1,488 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_preliminary_preservation_and_scope",
+  "checks": [
+    {
+      "check": "111 immutable preparation baseline records",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Canonical14core equalsv0.2",
+      "passed": true
+    },
+    {
+      "check": "05-analysis/observations.json actualdata stays empty",
+      "passed": true
+    },
+    {
+      "check": "05-analysis/charts.json actualdata stays empty",
+      "passed": true
+    },
+    {
+      "check": "04-table/financial-inputs.json actualdata stays empty",
+      "passed": true
+    },
+    {
+      "check": "Eight internal test designs, not practitioner tests",
+      "passed": true
+    },
+    {
+      "check": "Designs remain unexecuted until root application",
+      "passed": true
+    },
+    {
+      "check": "Input exists 01-method/research-notes/wp03/wording/PARTICIPANT-WORDING.md",
+      "passed": true
+    },
+    {
+      "check": "Input exists 01-method/research-notes/wp03/routes/COLLECTION-ROUTES.md",
+      "passed": true
+    }
+  ],
+  "check_count": 120,
+  "scope": "Independent preliminary review before integrated pack and applied route records. No legal certification, approved collection route or practitioner validation."
+}

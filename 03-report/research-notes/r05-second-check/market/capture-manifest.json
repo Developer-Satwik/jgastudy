@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "capture_id": "R5M-S01",
+      "url": "https://moneysoft.co.uk/product/payroll-manager-100-annual-licence/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:28.661994+00:00",
+      "http_status": 200,
+      "final_url": "https://moneysoft.co.uk/product/payroll-manager-100-annual-licence/",
+      "content_type": "text/html; charset=UTF-8",
+      "capture_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S01.html",
+      "capture_sha256": "6f8ef9bcd0d5256de5c4badf0900e61a77deff2cf347f4f388592994d6cdb9d7",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S01.txt",
+      "text_sha256": "4268c1b3889e9b94614332c8b020e1d2ad5cb5608ee2c02d2e743d8a19939ace"
+    },
+    {
+      "capture_id": "R5M-S02",
+      "url": "https://payfit.com/general-terms-of-service/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:32.729531+00:00",
+      "http_status": 200,
+      "final_url": "https://payfit.com/general-terms-of-service/",
+      "content_type": "text/html",
+      "capture_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S02.html",
+      "capture_sha256": "837f1873add7ee4e1658f66014577506b19445de1a4fc2a4e5075488f13e2eef",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S02.txt",
+      "text_sha256": "6ac4acb2dbfed2f8396629b0310ff4f83c3cb806fd38841bb5a3df3b64a207a3"
+    },
+    {
+      "capture_id": "R5M-S03",
+      "url": "https://www.modulrfinance.com/pricing-for-business",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:33.448920+00:00",
+      "http_status": 200,
+      "final_url": "https://www.modulrfinance.com/pricing-for-business",
+      "content_type": "text/html; charset=UTF-8",
+      "capture_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S03.html",
+      "capture_sha256": "636e1a4e4ed3eb3edf35526e066010d39dbc9db0f6125f842d8ceea77645b33a",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S03.txt",
+      "text_sha256": "ec400a915197a4368b1a91d5ba82d05a2911deabe0362197604f08e65c413153"
+    },
+    {
+      "capture_id": "R5M-S04",
+      "url": "https://knowledge.modulrfinance.com/knowledge-hub/funding-overview",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.428920+00:00",
+      "http_status": 200,
+      "final_url": "https://knowledge.modulrfinance.com/knowledge-hub/funding-overview",
+      "content_type": "text/html; charset=UTF-8",
+      "capture_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S04.html",
+      "capture_sha256": "a726a81b3de266febe9cb9cc35b4c8aa7935200ba919b852f83fe145c32d00b4",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/market/captures/R5M-S04.txt",
+      "text_sha256": "b7e6fe4b73f70d00588c2565e8e463acd4e61850698d6a6862a431c5ca14c60b"
+    },
+    {
+      "capture_id": "SRC-0107",
+      "url": "https://www.gov.uk/basic-paye-tools",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.844651+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/basic-paye-tools",
+      "content_type": "text/html; charset=utf-8",
+      "capture_path": "03-report/research-notes/r05-second-check/market/captures/SRC-0107.html",
+      "capture_sha256": "d92f5a3f83887ff4194650874a7fdb606b43cd03108b69af3fe8ece41b42926d",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/market/captures/SRC-0107.txt",
+      "text_sha256": "2adcb7402a2bc39157a34c3ae3caa55a7372f96e32270382168b1605e5664330"
+    }
+  ]
+}

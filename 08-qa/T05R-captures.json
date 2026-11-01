@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S01.html",
+      "sha256": "3f1f8d281a06b755182d0e2798d299d1bc588f85ccb9125d61a5e29ecef33a01",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0263"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S01.txt",
+      "sha256": "0a9db93b7d3d9c7368aa49ab85edcda07a522fdbde6e31800c17bd14d099d58e",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0263"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S02.html",
+      "sha256": "ec0707663b1f8d55b0824454e8d4a48ef424b28644b9cfd7041d78f467def7e1",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0264"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S02.txt",
+      "sha256": "aa9e9204eddefabfbabe8830c95c359b944489339807168554427884375dc2f7",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0264"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S03.html",
+      "sha256": "46d2d3cc88c30866b47443b04a672692d75da228f73f5f512c1a0ac9cf654a4b",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0265"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S03.txt",
+      "sha256": "cd1ba53c5d630645d0fda891b8cefce46d6d6c9ebb7e33657b6e907c3869343a",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0265"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S04.html",
+      "sha256": "c8fd3f35c162dbf37ae6be3b49f6a723e24e854c4cd4b4e996ef7aa435429e0a",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0266"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S04.txt",
+      "sha256": "191bacba885d3f8dcb249ff0a5d2375f274c360637756d7dee65a1896e3b5fc6",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0266"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S05.html",
+      "sha256": "7e7772506821bb3cbdaaef8b40c1e25d0b7d8bac5846bc08b85db56c16f067c9",
+      "kind": "retained_original_html",
+      "source_id": "SRC-0267"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S05.txt",
+      "sha256": "0cbae9d88e0872dd1e530cb79299efe63dc52cca1afe51f471fc7edba0e94ebe",
+      "kind": "parsed_original_text",
+      "source_id": "SRC-0267"
+    }
+  ],
+  "primary_originals": 5,
+  "parsed_extracts": 5,
+  "new_independent_datasets": 0,
+  "note": "Related rate references and methodology, not five independent estimates of a JGA project price. Parsed texts are review aids."
+}

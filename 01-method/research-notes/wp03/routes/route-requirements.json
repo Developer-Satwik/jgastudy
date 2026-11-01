@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-29",
+  "status": "operational_design_for_parent_integration_not_activated",
+  "scope": "Collection routes and blank-record specification only. No participant, legal determination, external sending or guide change.",
+  "report_distinct_practitioner_target": {
+    "minimum": 6,
+    "maximum": 10,
+    "unit": "distinct_verified_eligible_people_with_actual_usable_report_contribution",
+    "representative_sample": false
+  },
+  "table_exploratory_conversations": {
+    "maximum": 4,
+    "ideal_buyer_conversations": 2,
+    "ideal_member_conversations": 2,
+    "unit": "actual_substantive_Table_contribution_events_not_roles",
+    "mix_is_fixed_quota": false
+  },
+  "population_proposed_not_approved": true,
+  "report_guide_version": "0.2",
+  "report_core_questions": 14,
+  "new_core_questions": 0,
+  "table_guide_version": "0.1",
+  "one_stable_participant_id_across_streams": true,
+  "participant_id_prefix": "P",
+  "contribution_id_prefix": "INT",
+  "identity_lookup_location": "approved_restricted_environment_outside_workspace_not_yet_selected",
+  "permissions_location": "approved_restricted_environment_outside_workspace_not_yet_selected",
+  "recording_default_enabled": false,
+  "interview_duration_validated": false,
+  "previous_duration_minutes_estimate": [
+    30,
+    40
+  ],
+  "previous_duration_label": "untested_guide_estimate_not_promised_slot",
+  "written_equivalent_allowed": true,
+  "every_optional_probe_required": false,
+  "all_fourteen_questions_required_for_usable_contribution": false,
+  "eligible_no_recent_case_can_contribute": true,
+  "actual_participants": [],
+  "actual_contributions": [],
+  "actual_permissions": [],
+  "actual_Table_conversations": [],
+  "counting_rules": [
+    {
+      "rule_id": "COUNT01",
+      "rule": "Separate introduced, verified, accepted, scheduled, completed, usable and publication-cleared states."
+    },
+    {
+      "rule_id": "COUNT02",
+      "rule": "Count a person once for the report across multiple modes/sessions/roles, after eligibility, actual usable input and permitted analysis use are established."
+    },
+    {
+      "rule_id": "COUNT03",
+      "rule": "A buyer is not automatically a senior employer-side payroll practitioner."
+    },
+    {
+      "rule_id": "COUNT04",
+      "rule": "A council prospect can overlap only with eligibility, actual report-relevant input and the relevant permission. RSVP/question suggestion alone is not a full report contribution."
+    },
+    {
+      "rule_id": "COUNT05",
+      "rule": "One combined session is one Table conversation event even if two roles are covered; multiple actual Table sessions remain multiple events but one person."
+    },
+    {
+      "rule_id": "COUNT06",
+      "rule": "Separate question-specific usable/publication bases from distinct-contributor counts; no fixed answered-question threshold or representative percentage."
+    },
+    {
+      "rule_id": "COUNT07",
+      "rule": "No introductions, no replies or scheduled slots counted as completed input. No public source/AI answer substituted for an absent original contributor."
+    }
+  ],
+  "routes": [
+    {
+      "route_id": "recent_case",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q007",
+        "Q008",
+        "Q009",
+        "Q010",
+        "Q011",
+        "Q012",
+        "Q013",
+        "Q014"
+      ],
+      "rule": "Confirm qualifying recent event/direct involvement; use selective case probes, preserving event/programme dates."
+    },
+    {
+      "route_id": "pre_proposal",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q014"
+      ],
+      "rule": "Only never-raised need is pre-proposal; if qualifying case emerges, confirm and resume recent-case route."
+    },
+    {
+      "route_id": "no_recent_case",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q014"
+      ],
+      "rule": "Useful operating/priorities input may remain; do not invent approval/transaction."
+    },
+    {
+      "route_id": "older_or_uncertain_context",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q014"
+      ],
+      "rule": "Keep older/uncertain account separately labelled; substantive recent event inside older programme can qualify only when established."
+    },
+    {
+      "route_id": "declined_detail",
+      "existing_question_ids": [],
+      "rule": "Stop declined request; participant may choose to continue a remaining permitted route. No repeated pressure."
+    },
+    {
+      "route_id": "written",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q007",
+        "Q008",
+        "Q009",
+        "Q010",
+        "Q011",
+        "Q012",
+        "Q013",
+        "Q014"
+      ],
+      "rule": "Same guide/version with relevant selected coverage; no guarantee all items answered or equivalent depth."
+    },
+    {
+      "route_id": "table_buyer",
+      "existing_question_ids": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06"
+      ],
+      "rule": "Disclose commercial feasibility purpose; unaided real need/alternatives before proposition; interest is not commitment."
+    },
+    {
+      "route_id": "table_member",
+      "existing_question_ids": [
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06"
+      ],
+      "rule": "Proposed council not booked event or membership; relevant report overlap separately established."
+    }
+  ],
+  "missingness_values": [
+    "not_asked",
+    "not_answered",
+    "not_known",
+    "not_applicable",
+    "not_measured",
+    "not_yet_assessed",
+    "prefer_not_to_disclose"
+  ],
+  "distinct_choices": [
+    "participation_and_analysis",
+    "recording_if_proposed",
+    "publication_treatment",
+    "named_quotation",
+    "employer_identification",
+    "council_recognition",
+    "recontact"
+  ],
+  "permission_not_inferred_from": [
+    "introduction",
+    "title",
+    "scheduled_call",
+    "general_participation",
+    "council_interest",
+    "supplier_or_buyer_role"
+  ],
+  "prepare_now": [
+    "Introduction specification",
+    "Participant information draft with unresolved fields",
+    "Blank records and count/release logic",
+    "Internal constructed route checks"
+  ],
+  "before_collection_dependencies": [
+    "User permission before any external sending",
+    "Client focus/population/guide and introduction route review",
+    "Agreed burden/mode and working dates",
+    "Approved restricted collection/storage/tools/access arrangement",
+    "Final participant information and permission/change/release process",
+    "Appropriate processing/access/transfer arrangements as determined by responsible parties"
+  ],
+  "legal_conclusions_made": false,
+  "external_actions": [],
+  "provenance": [
+    {
+      "path": "00-control/scope-baseline.json",
+      "sha256": "d50be13e18d3c76c27dde64eca46c114a4ea90cb8f3f0ac9018a8617f7dab013",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "00-control/MASTER-PLAN.md",
+      "sha256": "48a365150fe0f30fa94fef5d07165e0f60c40113be499fc783f03c155f1ad06b",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/RESEARCH-PROTOCOL.md",
+      "sha256": "f8319e66debe9ddc3cd269042df3432fc4d896a213c90fddc8deef44fdd2e4f8",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/FIELDWORK-PLAN.md",
+      "sha256": "42abdb66146c694e45a9ff89530e060c1bf0a47d455fb0dd9e27f06989a9ea43",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/TOOLS-AND-FILE-RULES.md",
+      "sha256": "0f017e09e84e80d30e9178f34655bb428a9cffabf8017b6aafd12e81d14f76e4",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "sha256": "b6ec63f70e3f320a4fc8c40a1b0cab9dee5017288eac5ce40a73203aeeb7f414",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "sha256": "9f6b76002371913fde9501cbc07a40db702972f5812ac15296681f49ab07eded",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "sha256": "779af1ce67f2bb1d68984179bcc6bbe0e8ef36027d22db2d62d9bd685e1c4161",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "01-method/templates/record-templates.json",
+      "sha256": "036e7d36710849355f1f9406a3173430fd143699e448048b5e0470d4522ac2c9",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    },
+    {
+      "path": "03-report/R08-DECISION-FRAMEWORK.md",
+      "sha256": "168c6de5654a83ce747b08e623b06522c420c56a1b416fee52782feb946ca28a",
+      "basis": "Existing project design read on29October2026, not approval or immutable current-workspace guarantee"
+    }
+  ]
+}

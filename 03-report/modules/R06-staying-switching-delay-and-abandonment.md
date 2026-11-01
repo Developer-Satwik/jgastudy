@@ -1,0 +1,32 @@
+# R06 Staying, switching, deferral, rejection and abandonment
+
+Desktop research and independent integrated review completed 29 October 2026. Original practitioner integration and final publication checks remain open.
+
+## Decision this informs
+
+Why a specific payroll-related choice is retained, changed, delayed, declined or stopped, and what response if any fits the actual condition.
+
+## Desktop answer
+
+Establish the actual object, selected/retained option, dated disposition, implementation and benefit separately. A retained platform can coexist with a changed route or organisational scope; approved change can have postponed rollout. Retention can be on merit, constrained or mixed. Component/notice cancellation does not automatically mean abandonment of the whole need. Survey preferences and hypothetical triggers do not supply an actual decision history.
+
+The [readout](../R06-DESKTOP-READOUT.md), [barrier/response matrix](../R06-BARRIER-RESPONSE-MATRIX.md) and [structured event map](../R06-outcome-map.json) organise six selected public employer contexts and one narrow notice-status context. Nine optional matrix rows do not expand the fourteen-question core or prescribe a workflow/score.
+
+## What the research adds
+
+- Product/service/route/organisational boundary and retained work are different objects of retention/change.
+- Public approval, contract entry, system use, scoped self-service and benefit require distinct evidence.
+- Conditions and alternatives can support reasonable continuity without proving satisfaction, irrationality or permanent lock-in.
+- Historical component cancellation, delayed rollout and a cancelled advance notice are different states with different dates/scope.
+- Survey intention, routed experience, satisfaction and conditional premium do not establish observed funded choices; item/population limits and conflicts remain.
+- Possible response, adopted action and observed result stay separate; a reasoned stop can remain appropriate.
+
+CLM-0344–0366 support scoped primary context and explicit researcher design. There is no outcome prevalence, ranking, employer forecast, new participant or validated causal remedy.
+
+## Instrument and gate
+
+Use the existing Q006–Q013 with unaided account first, existing pre-proposal/recent-case routes and respect for unknown/non-disclosure. Source-only historical examples cannot fill the recent 24-month sample. All earlier/client/core artifacts are preserved. Independent integrated review and preservation checks passed for desktop synthesis. Next R07: priorities and defensible contextual differences. Nothing is sent without user permission.
+
+## User-requested second challenge
+
+The [second challenge](../R06-SECOND-CHECK-READOUT.md) adds five selective conditions: feasible alternatives at each date; last evidenced state; distinct lifecycle dates and usable receiving arrangement; other-party commitment and knowledge continuity; and affected-user/task completion. Existing nine rows, first-pass contexts and fourteen core questions are unchanged. Scoped peer review and separate root verification passed for internal desktop synthesis; no new fieldwork or external sending.

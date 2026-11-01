@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "original_path": "00-control/CURRENT-STATUS.md",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "ea73db411ffe307e76843e75053b9a57ab3cef3b817f80d25c6f737357e43285"
+    },
+    {
+      "original_path": "README.md",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/README.md.txt",
+      "sha256": "a9d22e64fe23de44c8fcae58e728a5320c6ab653886cf7aabbf349d4596cba98"
+    },
+    {
+      "original_path": "00-control/work-packages.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/00-control/work-packages.json",
+      "sha256": "fa98b780b03a3f15fd0066b49333e24d4708c7f53af23fbf165fa7380f40f02f"
+    },
+    {
+      "original_path": "00-control/changes.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/00-control/changes.json",
+      "sha256": "7ddaf14ffa37cba51b96b106078231b288c3832124c316caed30416d1264c529"
+    },
+    {
+      "original_path": "00-control/decisions.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/00-control/decisions.json",
+      "sha256": "e8e2cb9fa416afef4651434b97d1c8791d281915ded569a63e77c200df4da6a8"
+    },
+    {
+      "original_path": "02-evidence/registers/sources.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/02-evidence/registers/sources.json",
+      "sha256": "b94695e18ce6af6b8254ccf3b9665e13d6dff46200244e3d22ea353634f53f99"
+    },
+    {
+      "original_path": "02-evidence/registers/claims.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/02-evidence/registers/claims.json",
+      "sha256": "00f3b922057bda6b69183f3fe1cbdb4e822b0c80ffae8d1fce999cd0e1d8356d"
+    },
+    {
+      "original_path": "02-evidence/registers/searches.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/02-evidence/registers/searches.json",
+      "sha256": "52feb50928e9ea9640c898e47eb7fff3d7af67a1cc0426127583afce06edb1db"
+    },
+    {
+      "original_path": "04-table/financial-inputs.json",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "original_path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "df0a90ba1c2ddf06bf3123c3de648957826759a542469e3d3cb2db40b9abd920"
+    },
+    {
+      "original_path": "08-qa/validate_workspace.py",
+      "snapshot_path": "04-table/research-notes/t05-event-costs/before-review/08-qa/validate_workspace.py",
+      "sha256": "bb0885692e9686b8a344c58f49dfa08fa199d2b61f3dbd377d131ccb34595270"
+    }
+  ]
+}

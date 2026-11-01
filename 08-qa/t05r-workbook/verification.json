@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-31",
+  "status": "passed",
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+  "workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "authoring_engine": "@oai/artifact-tool",
+  "native_Excel_application_tested": false,
+  "tests": [
+    {
+      "test_id": "CASE-low",
+      "passed": true,
+      "detail": {
+        "actual": [
+          106,
+          5328.503333333333,
+          12.5
+        ],
+        "expected": {
+          "contributors": 6,
+          "provider_hours": 106,
+          "provider_labour_GBP": 5328.503333333333,
+          "JGA_hours": 12.5,
+          "by_role": {
+            "Research": {
+              "hours": 58,
+              "cost": 2876.8000000000006
+            },
+            "Management": {
+              "hours": 9,
+              "cost": 415.71
+            },
+            "Writing": {
+              "hours": 23,
+              "cost": 1349.3333333333333
+            },
+            "Editing": {
+              "hours": 6,
+              "cost": 222.66
+            },
+            "Design": {
+              "hours": 10,
+              "cost": 464
+            }
+          }
+        }
+      }
+    },
+    {
+      "test_id": "CASE-base",
+      "passed": true,
+      "detail": {
+        "actual": [
+          174,
+          8726.14,
+          23
+        ],
+        "expected": {
+          "contributors": 8,
+          "provider_hours": 174,
+          "provider_labour_GBP": 8726.14,
+          "JGA_hours": 23,
+          "by_role": {
+            "Research": {
+              "hours": 96,
+              "cost": 4761.6
+            },
+            "Management": {
+              "hours": 16,
+              "cost": 739.04
+            },
+            "Writing": {
+              "hours": 36,
+              "cost": 2112
+            },
+            "Editing": {
+              "hours": 10,
+              "cost": 371.1
+            },
+            "Design": {
+              "hours": 16,
+              "cost": 742.4
+            }
+          }
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high",
+      "passed": true,
+      "detail": {
+        "actual": [
+          285.5,
+          14306.441666666666,
+          38
+        ],
+        "expected": {
+          "contributors": 10,
+          "provider_hours": 285.5,
+          "provider_labour_GBP": 14306.441666666666,
+          "JGA_hours": 38,
+          "by_role": {
+            "Research": {
+              "hours": 157,
+              "cost": 7787.200000000001
+            },
+            "Management": {
+              "hours": 28.5,
+              "cost": 1316.415
+            },
+            "Writing": {
+              "hours": 58,
+              "cost": 3402.666666666666
+            },
+            "Editing": {
+              "hours": 16,
+              "cost": 593.76
+            },
+            "Design": {
+              "hours": 26,
+              "cost": 1206.3999999999999
+            }
+          }
+        }
+      }
+    },
+    {
+      "test_id": "EDIT-HOURS",
+      "passed": true,
+      "detail": [
+        175,
+        8775.74
+      ]
+    },
+    {
+      "test_id": "MISSING-UNSELECTED",
+      "passed": true,
+      "detail": 8726.14
+    },
+    {
+      "test_id": "MISSING-SELECTED",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "ZERO-HOURS",
+      "passed": true,
+      "detail": [
+        168,
+        8428.54
+      ]
+    },
+    {
+      "test_id": "ZERO-JGA-RATE",
+      "passed": true,
+      "detail": [
+        0,
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "COMPLETE-JGA-RATES",
+      "passed": true,
+      "detail": [
+        690,
+        9416.14
+      ]
+    },
+    {
+      "test_id": "BLANK-JGA-RATES",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "DAY-LENGTH-BLANK",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        37.11
+      ]
+    },
+    {
+      "test_id": "DAY-LENGTH-ZERO",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        37.11
+      ]
+    },
+    {
+      "test_id": "MISSING-RATE",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "INVALID-CASE",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "RESTORED-BASE",
+      "passed": true,
+      "detail": [
+        174,
+        8726.14,
+        23,
+        "n.a."
+      ]
+    }
+  ],
+  "expected_scenarios": {
+    "low": {
+      "contributors": 6,
+      "provider_hours": 106,
+      "provider_labour_GBP": 5328.503333333333,
+      "JGA_hours": 12.5,
+      "by_role": {
+        "Research": {
+          "hours": 58,
+          "cost": 2876.8000000000006
+        },
+        "Management": {
+          "hours": 9,
+          "cost": 415.71
+        },
+        "Writing": {
+          "hours": 23,
+          "cost": 1349.3333333333333
+        },
+        "Editing": {
+          "hours": 6,
+          "cost": 222.66
+        },
+        "Design": {
+          "hours": 10,
+          "cost": 464
+        }
+      }
+    },
+    "base": {
+      "contributors": 8,
+      "provider_hours": 174,
+      "provider_labour_GBP": 8726.14,
+      "JGA_hours": 23,
+      "by_role": {
+        "Research": {
+          "hours": 96,
+          "cost": 4761.6
+        },
+        "Management": {
+          "hours": 16,
+          "cost": 739.04
+        },
+        "Writing": {
+          "hours": 36,
+          "cost": 2112
+        },
+        "Editing": {
+          "hours": 10,
+          "cost": 371.1
+        },
+        "Design": {
+          "hours": 16,
+          "cost": 742.4
+        }
+      }
+    },
+    "high": {
+      "contributors": 10,
+      "provider_hours": 285.5,
+      "provider_labour_GBP": 14306.441666666666,
+      "JGA_hours": 38,
+      "by_role": {
+        "Research": {
+          "hours": 157,
+          "cost": 7787.200000000001
+        },
+        "Management": {
+          "hours": 28.5,
+          "cost": 1316.415
+        },
+        "Writing": {
+          "hours": 58,
+          "cost": 3402.666666666666
+        },
+        "Editing": {
+          "hours": 16,
+          "cost": 593.76
+        },
+        "Design": {
+          "hours": 26,
+          "cost": 1206.3999999999999
+        }
+      }
+    }
+  },
+  "final_saved_case": "Working",
+  "final_saved_outputs": {
+    "provider_hours": 174,
+    "provider_labour_GBP": 8726.14,
+    "JGA_hours": 23,
+    "JGA_value_GBP": "n.a.",
+    "combined_labour_GBP": "n.a."
+  },
+  "all_temporary_input_changes_restored": true,
+  "formula_error_scan_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/08-qa/t05r-workbook/formula-error-scan.ndjson",
+  "renders": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/research-cost.png",
+      "sheet": "Research cost",
+      "range": "B1:H46"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/role-chart.png",
+      "sheet": "Research cost",
+      "range": "K4:P32"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-controls-rates.png",
+      "sheet": "Inputs",
+      "range": "B1:I19"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-workload.png",
+      "sheet": "Inputs",
+      "range": "B20:I43"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-JGA-and-context.png",
+      "sheet": "Inputs",
+      "range": "B44:I73"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-sources.png",
+      "sheet": "Inputs",
+      "range": "B75:I87"
+    }
+  ],
+  "visual_review_complete": true,
+  "scope": "Future equivalent research-edition labour component only; not an all-in quote, current invoice, bank cash, full T05 model or validated staffing plan.",
+  "visual_review_notes": [
+    "All six renders inspected across both sheets; labels, task build, inputs and chart are legible.",
+    "Shortened current-contract header to avoid clipping.",
+    "Published-rate wording preserves unresolved tax/fee inclusions.",
+    "Removed authoring-engine verification note from reader-facing workbook.",
+    "Inputs freezes four rows so the selector remains visible without consuming the scroll area."
+  ],
+  "visual_reviewed_artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/research-cost.png",
+      "sha256": "5199aef83e1e10cc15097cc88b333ec767bf190ea5fd4811db9389b74fe14533"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/role-chart.png",
+      "sha256": "fbd8c870cbe14fb088c5dd0ea521111dfe93c714607a319b9f1b4241c309d76a"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-controls-rates.png",
+      "sha256": "57fd374be7666fe0b1be4b20b48b9466c767a783d63269d7a0beb3ca802cae03"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-workload.png",
+      "sha256": "31c9ab3e4d5a32275c12f37ee7084189cc64e1f62af19112328f462b6dd9aac2"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-JGA-and-context.png",
+      "sha256": "79e84f1cc5c41110e94ed2d757386806fd0e5ea9ca90abf4ead436e57de23a12"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-sources.png",
+      "sha256": "1d523f56ed82f1ecb5c43a4ba0571720d2efe5554d849c0f13bd7e56c67fdfae"
+    }
+  ],
+  "saved_export_checks_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/08-qa/t05r-workbook/export-check.json"
+}

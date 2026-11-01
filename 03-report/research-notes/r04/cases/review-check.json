@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "selected_employer_cases": 3,
+  "new_source_route_candidates": 3,
+  "claim_candidates": 8,
+  "reused_canonical_sources": [
+    "SRC-0134",
+    "SRC-0136"
+  ],
+  "selected_new_sources_original_body_read": 3,
+  "selected_new_sources_local_originals_retained": 0,
+  "new_retained_original_aliases": 1,
+  "pdf_qa_pages": [
+    {
+      "path": "03-report/research-notes/r04/cases/qa/SRC-0134-page-41.png",
+      "sha256": "e89af5a00023dcaa3b905908f071936f5d5ed691a2fcd2492048dc68cd0206ae",
+      "reviewed_on": "2026-10-29",
+      "status": "visually_inspected_legible_exact_locator_verified"
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/qa/SRC-0134-page-43.png",
+      "sha256": "018cf99b98c3f6216fe59c5f534904839e9b581f01578bc44dba3d15e641956b",
+      "reviewed_on": "2026-10-29",
+      "status": "visually_inspected_legible_exact_locator_verified"
+    },
+    {
+      "path": "03-report/research-notes/r04/cases/qa/SRC-0134-page-46.png",
+      "sha256": "979440912f98809d41442337f5960caa4e7ca724f4daea551989179caab3cb51",
+      "reviewed_on": "2026-10-29",
+      "status": "visually_inspected_legible_exact_locator_verified"
+    }
+  ],
+  "screened_not_promoted": 2,
+  "checks": {
+    "R02_latest_readout_read": true,
+    "R03_latest_readout_read": true,
+    "shared_source_register_dedup_checked": true,
+    "approval_award_execution_go_live_benefit_separate": true,
+    "positive_evidence_retained": true,
+    "no_private_market_prevalence_inference": true,
+    "no_veto_from_attendance_or_consultation": true,
+    "source_date_discrepancies_retained": true,
+    "no_canonical_or_client_edits": true,
+    "no_external_account_contact_spend_actions": true,
+    "new_practitioner_data": false
+  },
+  "limitations": [
+    "New council original bodies read through web tool, but local originals unavailable; no original-file hashes invented.",
+    "Argyll source PDF relevant text read, visual check unavailable.",
+    "Rotherham body decision date and signature-date line conflict; not silently reconciled.",
+    "Public selected cases cannot establish private-market decision prevalence."
+  ]
+}

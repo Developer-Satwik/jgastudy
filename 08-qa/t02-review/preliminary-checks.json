@@ -1,0 +1,800 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_preliminary_T02_scope_and_design_integration_pending",
+  "check_count": 197,
+  "checks": [
+    {
+      "name": "Five contract segments and additional employer hypothesis",
+      "passed": true
+    },
+    {
+      "name": "Contract segment basis separate from new hypothesis",
+      "passed": true
+    },
+    {
+      "name": "Segment not an actual buyer: BS01",
+      "passed": true
+    },
+    {
+      "name": "Segment job, value and limits: BS01",
+      "passed": true
+    },
+    {
+      "name": "Segment not an actual buyer: BS02",
+      "passed": true
+    },
+    {
+      "name": "Segment job, value and limits: BS02",
+      "passed": true
+    },
+    {
+      "name": "Segment not an actual buyer: BS03",
+      "passed": true
+    },
+    {
+      "name": "Segment job, value and limits: BS03",
+      "passed": true
+    },
+    {
+      "name": "Segment not an actual buyer: BS04",
+      "passed": true
+    },
+    {
+      "name": "Segment job, value and limits: BS04",
+      "passed": true
+    },
+    {
+      "name": "Segment not an actual buyer: BS05",
+      "passed": true
+    },
+    {
+      "name": "Segment job, value and limits: BS05",
+      "passed": true
+    },
+    {
+      "name": "Segment not an actual buyer: BS06",
+      "passed": true
+    },
+    {
+      "name": "Segment job, value and limits: BS06",
+      "passed": true
+    },
+    {
+      "name": "Buyer segment canonical claim references",
+      "passed": true
+    },
+    {
+      "name": "Customer options grant no rights or new Riseklix veto",
+      "passed": true
+    },
+    {
+      "name": "Eight distinct use options",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU01",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU02",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU03",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU04",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU05",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU06",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU07",
+      "passed": true
+    },
+    {
+      "name": "Use option remains open with boundary: RU08",
+      "passed": true
+    },
+    {
+      "name": "Free benefit not downgraded or artificially restricted",
+      "passed": true
+    },
+    {
+      "name": "Use option canonical references",
+      "passed": true
+    },
+    {
+      "name": "Versioned validation draft not activated",
+      "passed": true
+    },
+    {
+      "name": "Fourteen core questions not expanded",
+      "passed": true
+    },
+    {
+      "name": "Six buyer and six member questions",
+      "passed": true
+    },
+    {
+      "name": "Unaided discovery before concept",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: B01",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: B02",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: B03",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: B04",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: B05",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: B06",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: M01",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: M02",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: M03",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: M04",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: M05",
+      "passed": true
+    },
+    {
+      "name": "Selective probes: M06",
+      "passed": true
+    },
+    {
+      "name": "No actual concept exposure, data or price",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/collection-pack-v0.1/START-HERE.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/FINANCIAL-MODEL-SPEC.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-SECOND-CHECK-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-model-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T01-second-challenge-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T02-SECOND-CHECK-REFINEMENTS.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/T02-proposition-hypotheses.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 04-table/TABLE-DESIGN-BRIEF.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-captures.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/T01-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/WP03-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/WP03-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/WP03-routing-permission-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/t01-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/t01-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prior artifact preservation: 08-qa/wp03-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "Prose claim references: 04-table/T02-BUYER-USES-AND-RIGHTS.md",
+      "passed": true
+    },
+    {
+      "name": "Local link: T02-buyer-segments.json",
+      "passed": true
+    },
+    {
+      "name": "Local link: T02-use-and-entitlement-options.json",
+      "passed": true
+    },
+    {
+      "name": "Prose claim references: 01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "Local link: collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "Local link: collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "Local link: ../04-table/T02-validation-map.json",
+      "passed": true
+    }
+  ],
+  "actual_fieldwork": false,
+  "publication_approval": false,
+  "commercial_validation": false,
+  "manual_review_basis": "Working agreement sections 4/5/7/8/9, original concept and user instruction; source claims are existing bounded design records, with no new research facts.",
+  "provisional_refinement": "Council recognition wording should say it does not by itself authorise attendance disclosure or attribution, because context can still identify someone."
+}

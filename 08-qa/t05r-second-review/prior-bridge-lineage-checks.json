@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_exact_lineage_and_three_selected_semantic_rereads",
+  "records": [
+    {
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/all-answers.json",
+      "hash_verified": true
+    },
+    {
+      "path": "sites/jgafinalcode/dist/data/answer-index.json",
+      "hash_verified": true
+    },
+    {
+      "answer_id": "S04-C-chatgpt-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": true
+    },
+    {
+      "answer_id": "S04-C-claude-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S04-C-gemini-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S04-C-perplexity-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S04-C-chatgpt-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S04-C-claude-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S04-C-gemini-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S04-C-perplexity-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-chatgpt-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": true
+    },
+    {
+      "answer_id": "S07-C-claude-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-gemini-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-perplexity-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-chatgpt-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-claude-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-gemini-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S07-C-perplexity-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-chatgpt-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": true
+    },
+    {
+      "answer_id": "S11-C-claude-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-gemini-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-perplexity-r1",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-chatgpt-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-claude-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-gemini-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    },
+    {
+      "answer_id": "S11-C-perplexity-r2",
+      "exact_prompt_and_answer_hashes": true,
+      "semantic_reread": false
+    }
+  ],
+  "model_reruns": 0,
+  "demand_evidence": false,
+  "semantic_findings": [
+    {
+      "question_id": "S04-C",
+      "finding": "Transformation/integration/change capabilities are in the authored prompt. Generated scorecard/weightedselection advice is not market evidence or an approved costing rule."
+    },
+    {
+      "question_id": "S07-C",
+      "finding": "Ordinaryreplacement is inprompt; modelseparates publicspecialisation from placement/candidateavailability. Noactualdemandorcost inference."
+    },
+    {
+      "question_id": "S11-C",
+      "finding": "Londonfocus was introduced bymodel ratherthanprompt; originaltask is smallgrowingUKteam hands-onhire. Geographic/complexity additions mustnot silently expand researchwork."
+    }
+  ]
+}

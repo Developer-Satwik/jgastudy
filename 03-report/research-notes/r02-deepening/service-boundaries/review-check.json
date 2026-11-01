@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-28",
+  "source_candidates": 4,
+  "claim_candidates": 5,
+  "reused_sources": 3,
+  "retained_originals": 6,
+  "pdf_page_renders": [
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/qa/fourth-p15.png",
+      "sha256": "8e343a418ecd87eb9d2e15770173c0ee145599b2a1797c4d6e5d522e17956fbf",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/qa/fourth-p17.png",
+      "sha256": "1bfb22be4ea7e2d78a79ac3f5fa49f82de5950c83516a1b2920d6c8e4a85187e",
+      "visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/qa/phase3-p4.png",
+      "sha256": "4190d25ae887d22ec867bea875d4aeb6a30f98257c41134bbca993eef0afcdb5",
+      "visually_inspected": true
+    }
+  ],
+  "canonical_files_modified": false,
+  "external_actions": []
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1M-S01",
+      "title": "IPASS Membership Options",
+      "publisher": "IPASS",
+      "url": "https://ipass.ie/membership/",
+      "source_type": "professional_payroll_provider_public_offer",
+      "review_status": "relevant_live_original_html_sections_inspected",
+      "accessed_on": "2026-10-30",
+      "published_date": null,
+      "last_updated": null,
+      "date_note": "Review date, not publication, fieldwork or a proved price-change date.",
+      "population": "Ireland-facing payroll technical support membership with separate individual, corporate/bureau and overseas eligibility branches. Not a Table licence or event sponsorship.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Provider public catalogue describes its own membership/resources; no realised sales or benefits independently established.",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/T1M-S01.html",
+      "capture_sha256": "7785413de7b23b97d6ba10e7af02d5c904be555dd62ade3e099146715ee2bf29",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/market/captures/T1M-S01.parsed.txt",
+          "sha256": "19b79e9784921d0fafd9342617da43dc5eea7372288ceae010c28dc6b045df54",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Membership branches and respective billing/VAT descriptions; live original inspected. No private terms, purchase, quality, demand or retention verified. Search snippet tariffs differ from retained original, so no snippet price or price-change claim is adopted.",
+      "reuse_status": "Private verification only; no third-party republication rights obtained."
+    },
+    {
+      "candidate_id": "T1M-S02",
+      "title": "Global Payroll Alliance: membership and resources",
+      "publisher": "Global Payroll Alliance",
+      "url": "https://gpa.net/",
+      "source_type": "professional_payroll_provider_public_offer",
+      "review_status": "relevant_live_original_html_sections_inspected",
+      "accessed_on": "2026-10-30",
+      "published_date": null,
+      "last_updated": null,
+      "date_note": "Review date, not publication, fieldwork or a proved price-change date.",
+      "population": "Global/in-country payroll practitioner resources and network; not a senior-only council or research licence.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Provider public catalogue describes its own membership/resources; no realised sales or benefits independently established.",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/T1M-S02.html",
+      "capture_sha256": "e207aa3eb062203c67e46b180b38c9d2da166470b55c23e547f84d280fd0eda5",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/market/captures/T1M-S02.parsed.txt",
+          "sha256": "ad1fbe73416cc6241af878cc22ec3a47804bdc596b4f8dd61da97567f5b9cc38",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "limitations": "Public home/member benefits catalogue only. No achieved outcomes, readership, engagement, membership inclusion at a particular paid tier, independent quality or exact reuse licence assumed. Current page uses Global Payroll Alliance branding; no dated rebrand history inferred.",
+      "reuse_status": "Private verification only; no third-party republication rights obtained."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0227",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+      "locator": "SRC-0227.parsed.txt lines108–126: enterprise/service-provider assessment and annual research/inquiry service",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0227.html",
+      "capture_sha256": "36e9a42ec0d1f7543258ec27f1ea82b6c5c495f4323b7ab9a74ed2abef46689d",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0227.parsed.txt",
+      "parsed_sha256": "fcbd864b51a6a46bed5d387b0e303abb33db4f699a24a5a881a95644709c6f89",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0228",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/software-providers",
+      "locator": "SRC-0228.parsed.txt lines113–136: software-provider marketing purpose and licensed assets",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0228.html",
+      "capture_sha256": "726107f8af0b3577d3a4cd863d37a45ec5040b0dff6299fd611f0e4983d6467b",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0228.parsed.txt",
+      "parsed_sha256": "53324a28e6d6db37b9fc47e23ca25c64b3ebc73225e6a661819799813f894e3e",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0238",
+      "url": "https://thepayrollcentre.co.uk/membership/",
+      "locator": "SRC-0238.parsed.txt offer heading, organisation-team plan and annual support benefits",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0238.html",
+      "capture_sha256": "ffef9c09147c8562e6e848b01c03e081d83abc4038291a1bc306ae41438c511f",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0238.parsed.txt",
+      "parsed_sha256": "d4a80d8aaa14ad2b7adb33b32cdc5cc11100e1a7c59a1ac1261dd6e75bc9e64d",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0239",
+      "url": "https://thepayrollcentre.co.uk/terms-and-conditions-of-business/",
+      "locator": "SRC-0239.parsed.txt lines99–119,141–145,167–176: users/benefit changes, auto-renewal and materials/service limits",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0239.html",
+      "capture_sha256": "085593637bf5e4a8f0963530f6714eb1094662b7ed56937d98b683d9ba089b03",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0239.parsed.txt",
+      "parsed_sha256": "46485f28b9fb7dc8a39a2111f4c03395b4ea0ba54c3d75f295938cbf75c88ae3",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0245",
+      "url": "https://www.iventiv.com/how-can-we-help",
+      "locator": "SRC-0245.parsed.txt lines19,25,30,34–36: approved corporate executives, travel exclusion and possible partner meetings",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0245.html",
+      "capture_sha256": "a904d0367c3e515b392669c40cc430957669ab97557fdfdd3b69dad51bf15956",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0245.parsed.txt",
+      "parsed_sha256": "8db095f5be395f531f5ce9fb7cfc1c0d67f5364d3654eeeceb91ec5141e72aaf",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0246",
+      "url": "https://www.iventiv.com/sponsors",
+      "locator": "SRC-0246.parsed.txt lines44–61: sponsor inventory and target-list invitations",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0246.html",
+      "capture_sha256": "6a98cdcd08a14b7a9d52f561cdec126fd74b5e63e4f76391634a48096d0e5762",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0246.parsed.txt",
+      "parsed_sha256": "7a4451a5186a2a2daf3c415e3642a9e81fed3ff7a1647d909d9d7d1db83e6089",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    },
+    {
+      "source_id": "SRC-0248",
+      "url": "https://www.iventiv.com/terms-and-conditions",
+      "locator": "SRC-0248.parsed.txt lines17–33: pre-event payment and generic cancellation/credit conditions with conflicting21/14-day wording",
+      "review_status": "fresh_original_reinspection_for_segment_and_delivery_conditions",
+      "capture_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0248.html",
+      "capture_sha256": "8927609b24f843f1344b6a89b1817ebad9cc2443c17a7c1f020d0bd24a549af7",
+      "parsed_path": "04-table/research-notes/t01-second-check/market/captures/SRC-0248.parsed.txt",
+      "parsed_sha256": "f9e83b726f93de31494f863bb459b83004d1e0861a54a4d90b1199f57d2e792d",
+      "limitations": "Source-specific public offer/terms only; no private JGA contract, current buyer behaviour or observed financial outcome. No existing base-source fields overwritten.",
+      "new_independent_dataset": false
+    }
+  ]
+}

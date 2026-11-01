@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-29",
+  "queries": [
+    "site.gov.uk payroll software changing software during tax year payroll IDs",
+    "site.gov.uk service manual stop project discovery decision stop not failure",
+    "site.ac.uk payroll successfully iTrent2025",
+    "site.org.uk payroll moved to2025software"
+  ],
+  "selected": [
+    "GDS discovery official guidance",
+    "SRC0130 HMRC current RTI reinspection",
+    "OEP direct management board report paragraph37"
+  ],
+  "excluded": [
+    "Generic no-decision sales statistics without inspected method",
+    "Anonymous forum anecdotes",
+    "Supplier aggregation inferring delayed-change opportunity costs or universal benefits",
+    "Legal VAT/TUPE interpretations not relevant to this module"
+  ],
+  "pdf_review": {
+    "skill_read": true,
+    "source": "ROOT6-S02",
+    "one_based_pages": [
+      1,
+      8
+    ],
+    "printed_pages": [
+      1,
+      8
+    ],
+    "visual_review": true,
+    "extraction": "Bundledpypdf; pdftotext unavailable; Poppler rendering succeeded"
+  },
+  "external_actions": []
+}

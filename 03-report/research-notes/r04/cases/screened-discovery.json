@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "candidate_id": "R4CASE-S01",
+      "title": "Cumberland permission to procure and award HR/payroll",
+      "url": "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501",
+      "decision_date": "2025-03-13",
+      "published_date": "2025-03-14",
+      "review_status": "original_body_read_via_web_tool",
+      "web_review_reference": "turn491view3",
+      "locator": "Decision Maker header and Decision text, lines22–43",
+      "not_selected_reason": "Different office titles in header and decision text, attribution not reconciled; selected Rotherham incumbent case is more specific about exercised delegation. No claim promoted.",
+      "local_capture": "403; no retained original"
+    },
+    {
+      "candidate_id": "R4CASE-S02",
+      "title": "West Northamptonshire ERP cloud-hosting decision",
+      "url": "https://westnorthants.moderngov.co.uk/mgDecisionDetails.aspx?IId=11441&Opt=1",
+      "decision_date": "2024-10-08",
+      "review_status": "discovery_only_original_body_not_opened",
+      "not_selected_reason": "Detailed indexed result found, but direct body fetch timed out/403. No substantive claim promoted.",
+      "local_capture": "403; no retained original"
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_internal_WP03_pack_walkthrough_not_fieldwork",
+  "check_count": 199,
+  "checks": [
+    {
+      "check": "Existing fourteen core questions remain version0.2 unchanged",
+      "passed": true
+    },
+    {
+      "check": "Contract contribution and Table scope preserved",
+      "passed": true
+    },
+    {
+      "check": "Ideal Table mix not silently turned into fixed quota",
+      "passed": true
+    },
+    {
+      "check": "One stable person reference and no added research questions",
+      "passed": true
+    },
+    {
+      "check": "Notes-only proposal and flexible unvalidated duration/mode explicit",
+      "passed": true
+    },
+    {
+      "check": "Real counters remain zero and records empty",
+      "passed": true
+    },
+    {
+      "check": "Pack does not activate collection or certify compliance/sending",
+      "passed": true
+    },
+    {
+      "check": "Five grouped release decisions remain unresolved rather than inferred approved",
+      "passed": true
+    },
+    {
+      "check": "Actual collection arrangement not invented: actual_tool_selection",
+      "passed": true
+    },
+    {
+      "check": "Actual collection arrangement not invented: actual_restricted_storage",
+      "passed": true
+    },
+    {
+      "check": "Actual collection arrangement not invented: actual_notice_version",
+      "passed": true
+    },
+    {
+      "check": "Actual collection arrangement not invented: actual_lawful_instructions_reference",
+      "passed": true
+    },
+    {
+      "check": "Actual collection arrangement not invented: actual_transfer_arrangement_reference",
+      "passed": true
+    },
+    {
+      "check": "No authorised-person list invented",
+      "passed": true
+    },
+    {
+      "check": "Working agreement exact source hash matches",
+      "passed": true
+    },
+    {
+      "check": "Working on-behalf roles retained without claiming executed-copy retrieval",
+      "passed": true
+    },
+    {
+      "check": "Contract closure trigger and30/90periods retained",
+      "passed": true
+    },
+    {
+      "check": "Subprocessor authorisation and transfer limits retained",
+      "passed": true
+    },
+    {
+      "check": "Participation and processing basis remain distinct; blank choice not yes",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: restricted_identity_lookup",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: restricted_permission_record",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: contribution_note",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: response_entry",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: publication_item",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: restricted_request_or_change_log",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: blank_analysis_transfer_check",
+      "passed": true
+    },
+    {
+      "check": "Template is unpopulated: blank_count_record",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_participants",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_permissions",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_contributions",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_Table_events",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_publication_items",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_rights_or_change_requests",
+      "passed": true
+    },
+    {
+      "check": "Actual collection array remains empty: actual_transfer_events",
+      "passed": true
+    },
+    {
+      "check": "Eleven selective use choices are blank, not preselected or compulsory",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: recording_if_proposed",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: exact_quotation_specific_extract",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: name_and_role_specific_wording",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: employer_identification_specific_wording",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: contribution_clarification_recontact",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: future_research_invitation",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: future_edition_reuse_if_proposed",
+      "passed": true
+    },
+    {
+      "check": "Separate relevant permission choice exists: Table_exploratory_information",
+      "passed": true
+    },
+    {
+      "check": "Route-specific missingness remains distinct",
+      "passed": true
+    },
+    {
+      "check": "Original eight constructed test designs remain unexecuted design inputs",
+      "passed": true
+    },
+    {
+      "check": "WP03-T01: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T01: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T02: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T02: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T03: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T03: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T04: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T04: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T05: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T05: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T06: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T06: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T07: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T07: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "WP03-T08: report-person and Table-event deltas match supplied scenario",
+      "passed": true
+    },
+    {
+      "check": "WP03-T08: bounded manual application not actual collection",
+      "passed": true
+    },
+    {
+      "check": "Introductions and buyer titles not counted as practitioners",
+      "passed": true
+    },
+    {
+      "check": "No-case/older route does not invent a recent-case decision",
+      "passed": true
+    },
+    {
+      "check": "Cross-mode/role person and Table-event units remain separate",
+      "passed": true
+    },
+    {
+      "check": "Declined recording/naming does not erase valid permitted analysis contribution",
+      "passed": true
+    },
+    {
+      "check": "WP03-G01: preparation/permission/identification boundary retained",
+      "passed": true
+    },
+    {
+      "check": "WP03-G02: preparation/permission/identification boundary retained",
+      "passed": true
+    },
+    {
+      "check": "WP03-G03: preparation/permission/identification boundary retained",
+      "passed": true
+    },
+    {
+      "check": "External draft has no emdash/asterisk: ## Coordination email to Nick",
+      "passed": true
+    },
+    {
+      "check": "External draft has no emdash/asterisk: ## Later practitioner invitation",
+      "passed": true
+    },
+    {
+      "check": "Naming permission and indirect employer identification not conflated",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: ../research-notes/wp03/data/DATA-ARRANGEMENT-DECISIONS.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: ../research-notes/wp03/routes/COLLECTION-ROUTES.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: ../research-notes/wp03/wording/PARTICIPANT-WORDING.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: ../PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: ../TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "check": "Local pack link resolves: PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Prior/core/client/canonical preservation: 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "No unperformed fieldwork/data input: 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "No unperformed fieldwork/data input: 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "No unperformed fieldwork/data input: 04-table/financial-inputs.json",
+      "passed": true
+    }
+  ],
+  "constructed_count_route_applications": [
+    {
+      "test_id": "WP03-T01",
+      "report_delta": 0,
+      "Table_delta": 0,
+      "route": "eligibility_clarification_only",
+      "record_note": "An introduction/title supplies no verified remit or completed input.",
+      "recent_case_established": false,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "JGA introduces a person with a senior-sounding title.",
+        "Actual payroll decision remit and verification basis have not been supplied."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T02",
+      "report_delta": 1,
+      "Table_delta": 0,
+      "route": "no_recent_case",
+      "record_note": "Actual permitted usable general input can count for an eligible person; Q007caseposition remains unestablished.",
+      "recent_case_established": false,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "Relevant senior payroll remit has a recorded verification basis.",
+        "The constructed person permits the intended analysis and supplies substantive operating/priorities input but recalls no recent decision."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T03",
+      "report_delta": 1,
+      "Table_delta": 0,
+      "route": "written_plus_interview_same_person",
+      "record_note": "Separate contribution events/version/mode, one distinct person; no fixed answered-question threshold.",
+      "recent_case_established": null,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "One verified eligible person supplies usable report input in writing.",
+        "The same person later has an interview under the same participant reference with permission."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T04",
+      "report_delta": 1,
+      "Table_delta": 1,
+      "route": "eligible_permitted_report_and_member_overlap",
+      "record_note": "Actual relevant report input and eligibility/permission present; combined session one Tableevent.",
+      "recent_case_established": null,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "One verified eligible senior payroll person has an actual combined report/member session.",
+        "Substantive report-relevant input and both purposes/permissions are established."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T05",
+      "report_delta": 0,
+      "Table_delta": 1,
+      "route": "buyer_only",
+      "record_note": "Commercial buyer conversation not practitioner eligibility, and interest not commitment.",
+      "recent_case_established": false,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "A buyer has one actual exploratory conversation covering B01–B06 as relevant.",
+        "No qualifying senior employer-side payroll remit or report contribution is established."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T06",
+      "report_delta": 1,
+      "Table_delta": 0,
+      "route": "older_context_declined_case_detail",
+      "record_note": "Permitted general input can count, older context separate and declined detail not pursued.",
+      "recent_case_established": false,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "An otherwise eligible person supplies permitted substantive operating input and older context.",
+        "They decline recent-case detail; no qualifying recent event is established."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T07",
+      "report_delta": 1,
+      "Table_delta": 0,
+      "route": "permitted_analysis_notes_only",
+      "record_note": "Eligible usable analysis input; recording, named/employer release and recontact declined.",
+      "recent_case_established": null,
+      "recording_or_named_release_permitted": false,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "A verified eligible person provides actual usable report input with permitted analysis.",
+        "They decline recording, named quotations, employer identification and recontact."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    },
+    {
+      "test_id": "WP03-T08",
+      "report_delta": 1,
+      "Table_delta": 2,
+      "route": "qualifying_pilot_and_two_Table_events",
+      "record_note": "Actual usable permissioned comparable pilot can count once; two substantive Table events remain two.",
+      "recent_case_established": null,
+      "recording_or_named_release_permitted": null,
+      "evidence_type": "root_manual_constructed_application",
+      "supplied_premises": [
+        "One eligible permissioned pilot provides usable report input with a comparable recorded guide version.",
+        "The same person completes two substantive Table feasibility conversations."
+      ],
+      "actual_participant": null,
+      "actual_contribution": null,
+      "actual_permission": null,
+      "actual_result": null,
+      "count_deltas_are_synthetic": true,
+      "applied_to_pack_version": "0.1",
+      "practitioner_testing": false
+    }
+  ],
+  "constructed_release_gate_applications": [
+    {
+      "test_id": "WP03-G01",
+      "premise": "Tools/access/notice not confirmed in actual pack.",
+      "permitted_result": "Preparation only; do not activate collection or transmit participant data.",
+      "actual_gate_open": false
+    },
+    {
+      "test_id": "WP03-G02",
+      "premise": "Analysis permission is supplied in a hypothetical account; named quotation/future reuse is not.",
+      "permitted_result": "Keep unapproved output uses unreleased; no blanket permission.",
+      "actual_gate_open": false
+    },
+    {
+      "test_id": "WP03-G03",
+      "premise": "A hypothetical account removes a name but retains recognisable contextual details.",
+      "permitted_result": "Do not call it anonymous or automatically approve transfer/publication; assess actual approved route/context.",
+      "actual_gate_open": false
+    }
+  ],
+  "source_design_path": "01-method/research-notes/wp03/routes/constructed-route-tests.json",
+  "source_design_sha256": "9a95cae6b339c3b0e61613262966275e6b78af083a9e6ab0907df90907238919",
+  "pack_version": "0.1",
+  "pack_structured_hashes": [
+    {
+      "path": "01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "sha256": "07dca419fc092e79a91a6e57eb868e8b912ec991b1bb729ac3e69afc0e736ece"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "sha256": "ee520923baefbadf5e33812cccd10c46a0ced0033158f8a007d4fb0bca72097e"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "sha256": "e0d3026de2002d7c8bdb3370b5536fc266edddb476a4a3a47c3d9cb312f4cbfc"
+    }
+  ],
+  "method": "Root manual operational applications to eight supplied constructed scenarios plus three release/permission cases, with structural/contract/preservation checks. Not participant testing, real counts, actual permissions or legal/tool-security certification.",
+  "actual_participants": 0,
+  "actual_Table_events": 0,
+  "collection_ready": false,
+  "practitioner_testing": false,
+  "external_actions": []
+}

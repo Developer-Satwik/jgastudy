@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "AI-C01",
+      "source_candidate_ids": [
+        "AI-S01"
+      ],
+      "claim_text": "Established technologies may be the appropriate response; the government playbook recommends selecting the tool against a defined need.",
+      "locator": "Principle6 and Defining the goal",
+      "evidence_class": "official_design_guidance",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Transferable operating-design lens only; no current private-employer legal rule or payroll efficacy inferred.",
+      "time_period": "Publication10February2025 or current live29October2026 inspection, as source-specific",
+      "review_mode": "Relevant original public sections inspected; local capture state recorded separately",
+      "status": "R03_internal_context"
+    },
+    {
+      "candidate_id": "AI-C02",
+      "source_candidate_ids": [
+        "AI-S01"
+      ],
+      "claim_text": "The playbook describes testing, meaningful human control, monitoring and lifecycle maintenance rather than treating a model output as a complete service.",
+      "locator": "Principles4\u20135 and Human oversight",
+      "evidence_class": "official_design_guidance",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Transferable operating-design lens only; no current private-employer legal rule or payroll efficacy inferred.",
+      "time_period": "Publication10February2025 or current live29October2026 inspection, as source-specific",
+      "review_mode": "Relevant original public sections inspected; local capture state recorded separately",
+      "status": "R03_internal_context"
+    },
+    {
+      "candidate_id": "AI-C03",
+      "source_candidate_ids": [
+        "AI-S02"
+      ],
+      "claim_text": "SAP describes configurable payroll validation/process templates and roles; declared automation content does not establish a ready or effective configuration for every case.",
+      "locator": "Pre-Configured Content; Standard Delivery; sample roles",
+      "evidence_class": "declared_configuration_scope",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Product/version/configuration fit requires verification. No completed deployment, guaranteed accuracy or generative-AI classification inferred.",
+      "time_period": "Live29October2026 inspection; publication date unknown",
+      "review_mode": "Relevant original public sections inspected; local capture state recorded separately",
+      "status": "R03_internal_context"
+    },
+    {
+      "candidate_id": "AI-C04",
+      "source_candidate_ids": [
+        "AI-S03"
+      ],
+      "claim_text": "The dated release describes variance assistance and human review/approval, with supplier-stated enterprise availability and a separate planned rollout.",
+      "locator": "13April2026 release: availability; review/approval; natural-language query",
+      "evidence_class": "supplier_feature_and_availability_claim",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Availability is a supplier claim at publication; no confirmed adoption or completed planned rollout. Early-adopter/expert savings language has no disclosed evaluation base and is not adopted as a benchmark.",
+      "time_period": "Dated13April2026 claim",
+      "review_mode": "Relevant original public sections inspected; local capture state recorded separately",
+      "status": "R03_internal_context"
+    },
+    {
+      "candidate_id": "AI-C05",
+      "source_candidate_ids": [
+        "AI-S03"
+      ],
+      "claim_text": "The savings wording combines early-adopter reporting and expert estimation without disclosed evaluation design or base; no numerical performance benchmark is adopted.",
+      "locator": "Confronting real-world complexities: early-adopter/expert wording",
+      "evidence_class": "performance_evidence_limit",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Availability is a supplier claim at publication; no confirmed adoption or completed planned rollout. Early-adopter/expert savings language has no disclosed evaluation base and is not adopted as a benchmark.",
+      "time_period": "Dated13April2026 claim",
+      "review_mode": "Relevant original public sections inspected; local capture state recorded separately",
+      "status": "R03_internal_context"
+    },
+    {
+      "candidate_id": "AI-C06",
+      "source_candidate_ids": [
+        "AI-S04"
+      ],
+      "claim_text": "The live overview describes several agent forms as being built; this does not establish uniform current deployment of every described action.",
+      "locator": "AI purpose-built; Simple/Advanced/Autonomous agents",
+      "evidence_class": "supplier_direction_not_universal_deployment",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Do not generalise every described action to all products/markets; no HR policy time-saving statistic is adopted as payroll evidence.",
+      "time_period": "Live29October2026 inspection; publication date unknown",
+      "review_mode": "Relevant original public sections inspected; local capture state recorded separately",
+      "status": "R03_internal_context"
+    }
+  ]
+}

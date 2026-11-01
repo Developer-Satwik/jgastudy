@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_for_independent_candidate_arithmetic_and_scope",
+  "checks": [
+    {
+      "check": "16 unique report task IDs",
+      "passed": true
+    },
+    {
+      "check": "5 unique JGA task IDs",
+      "passed": true
+    },
+    {
+      "check": "All ranges nonnegative and ordered",
+      "passed": true
+    },
+    {
+      "check": "No observed hours or rates assigned",
+      "passed": true
+    },
+    {
+      "check": "DW01 toDW08 all mapped across complete candidate set",
+      "passed": true
+    },
+    {
+      "check": "Current fee split reconciles",
+      "passed": true
+    },
+    {
+      "check": "Report rollups match fixed plus quantity-scaled work",
+      "passed": true
+    },
+    {
+      "check": "JGA retained totals do not enter provider hours",
+      "passed": true
+    },
+    {
+      "check": "Tablefoureventarithmetic correct",
+      "passed": true
+    },
+    {
+      "check": "No financial register values or external actions",
+      "passed": true
+    }
+  ],
+  "scope": "Analyst workload candidates only; no verification of actual future effort, producer rate, capacity, interview length or elapsed duration."
+}

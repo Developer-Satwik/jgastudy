@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5COM-S01",
+      "title": "How billing works in BrightPay",
+      "url": "https://payrollsupport.uk.brightsg.com/hc/en-gb/articles/46683142427025-How-billing-works-in-BrightPay",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:49:23.474248+00:00",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "candidate_id": "R5COM-S02",
+      "title": "BrightPay for SMEs: current pricing interface",
+      "url": "https://brightsg.com/brightpay-for-smes/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:49:23.474686+00:00",
+      "http_status": 200,
+      "final_url": "https://brightsg.com/brightpay-for-smes/",
+      "capture_path": "03-report/research-notes/r05/commercial/captures/R5COM-S02.html",
+      "capture_sha256": "c4af381f950d20367f77e50a3fb112c961a766fb27df67ad6552e366b476da81",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/commercial/captures/R5COM-S02.txt",
+      "text_sha256": "25323d776f9eedfc531e76f39d619086b7dbdfd15990856c36e9b37f2d46f944"
+    },
+    {
+      "candidate_id": "R5COM-S03",
+      "title": "Moorepay pricing",
+      "url": "https://www.moorepay.co.uk/pricing/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:49:23.474803+00:00",
+      "http_status": 200,
+      "final_url": "https://www.moorepay.co.uk/pricing/",
+      "capture_path": "03-report/research-notes/r05/commercial/captures/R5COM-S03.html",
+      "capture_sha256": "18cd9dcc8a4ad328ddb8e63f43df5fd6254d6683b213c4b7cc591748fccd0ff7",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/commercial/captures/R5COM-S03.txt",
+      "text_sha256": "5eec71da2b81da64d7b2acc3c579aa95cb92e1ec94fb75de7e23876856031cda"
+    },
+    {
+      "candidate_id": "SRC-0109",
+      "title": "Xero UK Pricing Plans",
+      "url": "https://www.xero.com/uk/pricing-plans/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:49:23.474897+00:00",
+      "http_status": 200,
+      "final_url": "https://www.xero.com/uk/pricing-plans/",
+      "capture_path": "03-report/research-notes/r05/commercial/captures/SRC-0109.html",
+      "capture_sha256": "768d87ffcb9f56f94653abef157cff4e5f743784663a252d34cd70b35ddb7f1e",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/commercial/captures/SRC-0109.txt",
+      "text_sha256": "0a31de72af3fa4752ce8397de986c8ffe27ef546b96f429e4cddef56986f312e"
+    },
+    {
+      "candidate_id": "SRC-0077",
+      "title": "The Sourcing Playbook",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:49:23.474991+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "capture_path": "03-report/research-notes/r05/commercial/captures/SRC-0077.html",
+      "capture_sha256": "c31e8cdcb1db4d5f2d81c5ac561ff27f68551a9e8c1ee274644549128e65f7a4",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/commercial/captures/SRC-0077.txt",
+      "text_sha256": "d9b230d9f6d4a93d9b3856a322b268ffb03c8c7a22e88c2459f21510a5e51a7a"
+    },
+    {
+      "candidate_id": "BRIGHT-LEGACY-FAQ",
+      "title": "BrightPay migration pricing FAQ: period-description contrast",
+      "url": "https://www.brightpay.co.uk/docs/bpol/moving-to-brightpay-cloud/faqs-pricing/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:49:23.475108+00:00",
+      "http_status": 200,
+      "final_url": "https://www.brightpay.co.uk/docs/bpol/moving-to-brightpay-cloud/faqs-pricing/",
+      "capture_path": "03-report/research-notes/r05/commercial/captures/BRIGHT-LEGACY-FAQ.html",
+      "capture_sha256": "bf5d4bc24553be5a3b6224ea8b9bc77cdb38e9431fd2be168d58c6e542b87476",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05/commercial/captures/BRIGHT-LEGACY-FAQ.txt",
+      "text_sha256": "27bfbcbfe9473b22348e4c56de89fba6f564ce0b33c946bbf363be3f4b644208"
+    },
+    {
+      "candidate_id": "R5COM-S01",
+      "url": "https://payrollsupport.uk.brightsg.com/hc/en-gb/articles/46683142427025-How-billing-works-in-BrightPay",
+      "accessed_on": "2026-10-29",
+      "capture_kind": "selected_original_reader_extract_not_raw",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05/commercial/captures/R5COM-S01-selected-reader-extract.txt",
+          "sha256": "0c72b4281dc8941e23bea305db9fe202464ebb2e6a2a128718e9bf444de1a914",
+          "kind": "selected_original_reader_extract_not_raw"
+        }
+      ],
+      "original_body_read": true,
+      "locator": "Original web25–48",
+      "raw_capture_status": "403_unavailable"
+    }
+  ]
+}

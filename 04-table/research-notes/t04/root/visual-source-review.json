@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-6.png",
+      "sha256": "becf1449697c69c176ede3555a55462be96dc7930ecba7422d08d95b309c9434",
+      "root_visual_review": true,
+      "kind": "rendered_excluded_historical_source_page_not_current_menu"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png",
+      "sha256": "f47435b423234672d8fe4033a91b03899804e54a83c2772c429c2925ea2348f7",
+      "root_visual_review": true,
+      "kind": "rendered_source_page_not_new_original"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png",
+      "sha256": "248ec6aed9b6f2b9ae1f9c0ea2afea114493c1cb3c2b3c08b2444daf9518d1c3",
+      "root_visual_review": true,
+      "kind": "rendered_current_source_page_not_new_original",
+      "reviewed_on": "2026-10-31"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png",
+      "sha256": "0b6c3df984d30e50387e70357964b3b1169e783e78c4d74a77ebccdefbd450a6",
+      "root_visual_review": true,
+      "kind": "rendered_current_source_page_not_new_original",
+      "reviewed_on": "2026-10-31"
+    }
+  ],
+  "observations": [
+    "Benares p6 explicitly dates listed menus2January–30April2026, so displayed2026guide price is historical on30October. Tastingmenu saysmaximum16; no extension to17-seat scenario assumed. VAT/5%cover/10%discretionaryservice wording observed; no service-base calculation inferred. This reviewed January page is retained only as an excluded historical artifact; the current core S04 is the September-onwards PDF discovered in the live official page.",
+    "Hawksmoor p9 drinks package publishedperperson/wholepackage withoptionaladd-ons andchangeablewines; no private-room minimum, availability or tax confirmation follows.",
+    "Current September-onwards Benares p6/p8 inspected31October: Sep1–Nov15menuperiod, tastingmaximum16, VATincluded,2%cover/13%discretionaryservice; private-roomminimum/hireamountsunknown, depositspecificperiodnotuniversalabsence. No2027pricingorchargebaseinferred."
+  ],
+  "not_budget_inputs": true,
+  "no_contact": true
+}

@@ -1,0 +1,51 @@
+# R04 independent integrated review
+
+29 October 2026. Bounded substantive review by a reviewer who did not draft the R04 governance, buyer, public-case or root research strands. Internal quality review, not client acceptance or final publication approval.
+
+## Disposition
+
+**Pass for the bounded desktop synthesis and analytical design.** No substantive evidence-to-claim correction is required in the integrated readout, pathway or decision map reviewed. Original practitioner integration, final-use freshness/rights checks and publication production remain open. This pass does not mark R04 as a completed original qualitative study.
+
+There is one minor capture-summary clarification below. It does not undermine the substantive cases or require another source search.
+
+## Actual review scope and independence limits
+
+Read the integrated `03-report/R04-DESKTOP-READOUT.md`, `R04-DECISION-PATHWAY.md`, `R04-decision-map.json`, the R04 module, `08-qa/R04-record-map.json`, all four strands' source and claim candidates, the supporting strand memos and relevant review/capture descriptions. Read the retained original-page reader extracts for Purplebricks, the numbered CIPP and Decjuba extracts, the selected council reader fragments and original-page review records. Checked relevant sections of the retained GovS 008 HTML after excluding script/style content.
+
+Visually inspected the already retained renders of the Scottish Government annual audit at printed/PDF pages 41, 43 and 46; GovS 006 Finance at PDF pages 19 and 20, printed pages 15 and 16; and HR.com's Future of Payroll 2025 at printed page 26. These are the actual PDFs/pages visually checked in this review. No claim is made to have visually inspected a GovS 002 PDF, a GovS 008 PDF, FRC/ICO guidance as PDFs, or the Argyll committee-report PDF.
+
+Attempted independent fresh original-URL opens for the Rotherham decision, Argyll minutes and Argyll supporting PDF. All three timed out in this review. Their integration was therefore assessed against the retained strand review records and selected reader fragments, not falsely described as a fresh complete original-body verification. Earlier successful body reads and the original researcher's limits remain the provenance basis for those council cases. This reviewer did not independently reperform every source retrieval or inspect every paragraph of every source. No new external contacts, account actions, form submissions or fieldwork occurred.
+
+Root is separately checking structural links, hashes, record counts and preservation of client/instrument files. This review does not duplicate or certify that structural work. The review is independent of the R04 drafts, but the reviewer has previously advised on this project's general evidence architecture; it is an internal second review, not an external methodological audit.
+
+## Substantive checks
+
+| Check | Result and basis |
+| --- | --- |
+| Authority versus title, participation and influence | Pass. Functions, actions, authority domain and knowledge basis are separate. The map does not infer power from a finance/payroll title, attendance, supplier access or a practical dependency. Advice, a prerequisite, a binding condition and a formal stop are distinguished. |
+| Funding, selection, signature, delivery and release | Pass. These are optional decision objects/functions, not synonyms or mandatory stages. Approved budget is not actual expenditure; an award is not assumed contract execution; migration-process signoff is narrower than full go-live; benefits are separate from all these events. |
+| Purplebricks | Pass against retained original-page reader text, especially lines 59–63. ADP attributes the business-case preparation and CFO agreement on need to a named finance-transformation interviewee. The readout correctly leaves final supplier authority, budget release and signature unestablished, and does not claim that incumbent familiarity independently caused the decision. |
+| CIPP construction case | Pass against retained numbered original extract, especially lines 9–15. Original-selection exclusion, later manager involvement and CEO corrective-resource approval are distinct. An anonymous adviser-published case does not establish private ownership, original purchasing authority or causation from exclusion to errors. Those limits remain visible. |
+| Decjuba | Pass against retained numbered original extract, especially lines 9–25. Payroll-manager transition leadership, requirements and a reported tender support involvement, not a named final approver or signatory. Australia context and time-and-attendance scope remain explicit. |
+| Scottish chronology | Pass against the original audit page renders. Page 43 para 125 supports the 14 August 2024 HR migration-process signoff. Page 46 paras 138–140 support the 19 September recommendation, 20 September conditional backing and 30 September formal decision for 1 October go-live. Para 141 separately supports cutover execution responsibility. The synthesis retains known issues rather than equating approval with universal readiness. |
+| Positive and contrary evidence | Pass. Page 41 para 119 supports the auditor's positive governance assessment. That assessment is retained alongside issues. Incumbent continuity and narrower resource approvals are treated as legitimate decisions, rather than every example being forced into a failed-transformation story. |
+| Council records and unknowns | Pass at the retained-record review level, subject to the retrieval limitation above. Rotherham's decision-body/signature-year conflict is preserved. Argyll's committee approval of additional resources remains distinct from management recommendations, earlier selection and actual spend/completion. Missing final go-live authority remains unknown. |
+| Normative public guidance versus private practice | Pass. GovS guidance is source-scoped government role/governance context. The retained GovS 008 sections distinguish commercial leadership, business ownership, signature and contract management. GovS 006 rendered pages support the distinction between finance business partners and delegated budget holders. No private-employer prevalence or universal CFO veto is derived. |
+| Listed-company and DPO guidance | Pass as bounded interpretation. FRC retained-board responsibility does not become board signoff for every payroll purchase. DPO advice/monitoring does not become a universal payroll veto. ICO's review warning remains explicit; exact legal use is reserved for final checking. |
+| Procurement regime and dates | Pass. The Cabinet Office guidance is used as a record-reading warning. Its Procurement Act notice meaning is not retroactively imposed on the earlier Rotherham record, Scottish cases or ordinary private procurement. |
+| Case independence | Pass. Six selected published employer cases are six contextual examples, not a sample of six new JGA participants. Scottish audit and closure publications concern one programme; Argyll minutes and supporting report concern one case. Neither multiple publications nor several milestones inflate employer counts. |
+| Numerical evidence | Pass. HR.com page 26 is visibly an organisational EOR-selection-criteria item, not an authority question. The synthesis adopts no new authority percentage from it, G2/Paycom or the KPMG/UKG landing page. Argyll's amount is explicitly approved additional budget rather than realised spend or return. |
+| Chronology and recall | Pass. Public-case dates and unknowns are retained. The map explicitly says some secondary cases precede the primary 24-month recall window; they are not represented as eligible new interview cases. |
+| Analytical design versus questionnaire expansion | Pass at the content level. The twelve functions are optional analysis fields, not twelve additional required posts or interview questions. Existing Q001 and Q006–Q013 map to the relevant analytical use. The current question map still declares fourteen core questions. Root's preservation check is needed to establish exact unchanged-file wording; this reviewer does not claim a historical byte-for-byte comparison. |
+| No fieldwork claim | Pass. The structured map has an empty participant-observation array and zero original practitioner observations; the readout and module explicitly leave fieldwork/integration pending. Published testimonials and public records are not relabelled as new practitioner contributions. |
+| Captures and review modes | Pass for the integrated account and current governance claim descriptions. GovS 002/Purplebricks reader extracts are not presented as retained raw originals. Council raw-capture limitations remain explicit. GovS 006, not another source, is the governance PDF described as visually checked. HR.com page 26 is separately identified. No remaining copied review-mode claim implying the wrong PDF was visualised was found in the reviewed current candidate descriptions. |
+
+## Minor metadata clarification
+
+`03-report/research-notes/r04/buyers/review-log.json` uses `new_original_routes_retained: 3`. Three original routes were reviewed, but Purplebricks has a parsed original-page reader extraction plus a failed raw-response artifact; the CIPP and Decjuba routes retain substantive raw HTML. The detailed source/capture records and main readout already disclose this correctly.
+
+For a clearer summary, rename that key to `new_original_routes_reviewed: 3`, or split it into two retained raw-original routes and one retained parsed-reader route. This is a minor summary-label correction, not evidence that the Purplebricks body was unread or that a new case must be collected. No canonical research file was edited by this reviewer.
+
+## Remaining gates
+
+R04 may proceed into R05 desktop investigation after root's structural/preservation gate. Final claims about actual private-employer routes still require the permissioned practitioner work, appropriate interpretation of divergent accounts, and the project's agreed collection arrangements. Final client publication must retain the case/date/source-interest boundaries without turning the analytical vocabulary into a universal committee, causal finding or validated authority score.

@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "canonical_register_modified": false,
+  "records": [
+    {
+      "candidate_id": "R02-C01",
+      "source_ids": [
+        "SRC-0020"
+      ],
+      "extends_or_qualifies": [
+        "CLM-0022"
+      ],
+      "locator": "Printed p11 Payroll queries and p12 Top challenges; original body2026 versus hosted title2027",
+      "url": "https://online.flippingbook.com/view/472716226/11/",
+      "evidence_class": "published_finding_context",
+      "finding": "The query item concerns each respondent’s most frequent query, while the challenges are displayed as a word cloud. Neither establishes an error rate or verified ranking of all operational needs.",
+      "population": "UK in-house payroll teams",
+      "fieldwork_period": null,
+      "achieved_sample": null,
+      "item_base": null,
+      "question_wording": "What is your most frequent payroll-related query?",
+      "value": null,
+      "review_mode": "Original hosted text inspected live28October2026",
+      "limitations": "Report-specific bases not disclosed in inspected original. No graphic frequency ranking inferred. Different report edition labels preserved.",
+      "date": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "R02-C02",
+      "source_ids": [
+        "SRC-0071"
+      ],
+      "extends_or_qualifies": [
+        "CLM-0133"
+      ],
+      "locator": "Printed pp3,12,37,40; PDF pp4,13,38,41",
+      "url": "https://info.payroll.org/pdfs/global/Global-Payroll-Week-2025-survey-results.pdf",
+      "evidence_class": "published_self_report",
+      "finding": "The accuracy-cause item is a respondent ranking of a supplied list, not causal verification. The performance chart reports38% selecting no global performance tracking; item-valid base is not stated on the inspected pages.",
+      "population": "Global payroll professionals, mixed manager/specialist/analyst roles, mainly US-located",
+      "fieldwork_period": "2025-02-03 to2025-04-03",
+      "achieved_sample": 585,
+      "item_base": null,
+      "question_wording": "How do you track your global payroll performance against objectives?",
+      "value": 38,
+      "unit": "percent selecting no tracking",
+      "review_mode": "Retained original PDF text and rendered appendix pages inspected",
+      "limitations": "No UK prevalence inference; prespecified rank list aggregation detail not inspected; response options are not treated as a mutually exclusive partition.",
+      "date": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "R02-C03",
+      "source_ids": [
+        "SRC-0033"
+      ],
+      "extends_or_qualifies": [
+        "CLM-0056",
+        "CLM-0059"
+      ],
+      "locator": "PDF p4 method; p32 Table1; p36 Table17 UK column",
+      "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+      "evidence_class": "published_self_report",
+      "finding": "UK employee agreement is75.7% for payroll accuracy/reliability and79.0% for payslip clarity. These are positive agreement measures; complements do not establish incident rates.",
+      "population": "UK employees within a16-country online-panel study; employer responses are a different group",
+      "fieldwork_period": "January–February2026",
+      "achieved_sample": {
+        "uk_employees": 998,
+        "uk_hr": 305,
+        "employees_all": 16500,
+        "hr_all": 5936
+      },
+      "item_base": null,
+      "question_wording": null,
+      "values": {
+        "accuracy_reliability_agreement": 75.7,
+        "payslip_clarity_agreement": 79.0
+      },
+      "unit": "percent agreement",
+      "review_mode": "Retained original PDF text and table render inspected",
+      "limitations": "Item-valid n and weighting not stated. Nominal subgroup samples are not guaranteed valid response bases. No audited accuracy, causal ROI or matched respondent inference.",
+      "date": "2026-10-28",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "url": "https://www.theportfoliogroup.com/how-payroll-skills-are-changing-in-2026/",
+      "retrieved_at_utc": "2026-10-29T04:07:39.477508+00:00",
+      "capture_path": null,
+      "capture_sha256": null,
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S01-selected-reader-notes.txt",
+          "sha256": "663df25aeb1ee7a3ff9bdf52c266ca59c891c842e29563bc9944008167e530ec",
+          "kind": "selected_primary_indexed_notes_not_raw_original"
+        }
+      ],
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "population": "Recruiter advice, hosted account or service declaration, not a representative payroll priority/funding population",
+      "funding_or_commercial_interest": "Recruiter publishing own advice/account/proposition with a commercial interest",
+      "method_available": false,
+      "reuse_status": "Private verification; final factual/currentness and rights review pending",
+      "candidate_id": "C7S-S01",
+      "title": "How payroll skills are changing in2026",
+      "publisher": "The Portfolio Group",
+      "source_type": "recruiter_practitioner_advice_primary_indexed_body",
+      "published_date": null,
+      "updated_date": null,
+      "date_note": "Displayed articledate where established; accessdate is not fieldwork/outcome date.",
+      "locator": "Primary indexed body: peoplemanagement, process improvement, communication, authorprofile",
+      "limitations": "Canadian-author practitioner advice and recruiter observation; publication date not established. No current full-page original capture, UK prevalence, measured skill shortage, approved employer resources or tested effect. No skill/hiring forecast or technology requirement inferred.",
+      "review_status": "relevant_primary_indexed_text_inspected_raw_unavailable"
+    },
+    {
+      "url": "https://www.frazerjones.com/market-insight/payroll/how-to-build-and-retain-a-high-performing-payroll-team-leadership-insights-from-andrea-wraight-head-of-pay-benefits/",
+      "retrieved_at_utc": "2026-10-29T04:07:39.478157+00:00",
+      "capture_path": null,
+      "capture_sha256": null,
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+          "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "population": "Recruiter advice, hosted account or service declaration, not a representative payroll priority/funding population",
+      "funding_or_commercial_interest": "Recruiter publishing own advice/account/proposition with a commercial interest",
+      "method_available": false,
+      "reuse_status": "Private verification; final factual/currentness and rights review pending",
+      "candidate_id": "C7S-S02",
+      "title": "How to build and retain a high-performing payroll team: leadership insights from Andrea Wraight, Head of Pay & Benefits",
+      "publisher": "Frazer Jones",
+      "source_type": "recruiter_hosted_named_payroll_leader_account",
+      "published_date": "2025-04-10",
+      "updated_date": null,
+      "date_note": "Displayed articledate where established; accessdate is not fieldwork/outcome date.",
+      "locator": "Original reader180–225: teamwork/taskrotation, continuouslearning/processreview, communication and career development",
+      "limitations": "One recruiter-hosted written interview summary, audio uninspected. Not independent retention/performance assurance, original JGA contribution, causal effect, future team availability, staffing ratio or universally effective intervention.",
+      "review_status": "relevant_original_reader_sections_inspected_raw_unavailable"
+    },
+    {
+      "url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "retrieved_at_utc": "2026-10-29T04:07:39.478237+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S03.html",
+      "capture_sha256": "607404c401d15243345300ff5af8d48744a57da44a2c653f8673c43de16c4b17",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S03.txt",
+      "text_sha256": "344610018f56c1412221040435788d723472b04f86d2e3f0098783a33c88e488",
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "population": "Recruiter advice, hosted account or service declaration, not a representative payroll priority/funding population",
+      "funding_or_commercial_interest": "Recruiter publishing own advice/account/proposition with a commercial interest",
+      "method_available": false,
+      "reuse_status": "Private verification; final factual/currentness and rights review pending",
+      "candidate_id": "C7S-S03",
+      "title": "Market Insights: Payroll & Reward",
+      "publisher": "Oakleaf Partnership",
+      "source_type": "recruiter_market_commentary",
+      "published_date": "2026-03-17",
+      "updated_date": null,
+      "date_note": "Displayed articledate where established; accessdate is not fieldwork/outcome date.",
+      "locator": "Market Overview: payrolltechnology and blendedrole paragraphs; separate rewardparagraph and event context",
+      "limitations": "Market commentary without an inspected sampling/denominator/time-series method. No payroll market-growth estimate, technology adoption rate, prevalence of blended roles or actual funded employer priorities adopted. Headcount, role title, payroll workload, reward budget and payroll-function investment differ.",
+      "review_status": "relevant_original_html_sections_inspected"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "retrieved_at_utc": "2026-10-29T04:07:39.478319+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "1a7ee6480d1b719895fded2e20d61ce886057eb3458eb8b44ed04f543c5565b6",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "f3f54d2c052041b4a9d33ed0eb283f097bf52bbfa0bf5f8b1f4f9a65f53aa79e",
+      "source_id": "SRC-0116",
+      "locator": "Payroll Search / Beyond the Shortlist / Post Project Report; originalreader25–39 and retained text",
+      "review_result": "Declared assessment of technical, leadership and stakeholder capability across operating models/remits; a title or post-search recruitment analytics does not establish payroll benefit or needed recruitment.",
+      "review_status": "relevant_live_original_body_rechecked"
+    },
+    {
+      "url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "retrieved_at_utc": "2026-10-29T04:07:39.478403+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0192.html",
+      "capture_sha256": "0b7500b949de54c87916ce90414da63e20ec9af0d8c1598fb73a8004fc3a7e83",
+      "http_status": 200,
+      "final_url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0192.txt",
+      "text_sha256": "a8a149ac7c5738d6af89dffc54402d854899243d44e333116b318251c53d138f",
+      "source_id": "SRC-0192",
+      "locator": "Live2026-heading methodology, originalreader107–109; retained HTML/noscripttext",
+      "review_result": "Salary listings/offers/registrations and employer/employee survey are separate input frames; no funded payroll demand or representative payroll-subgroup claim. LegacyURL2025 is not the current edition.",
+      "review_status": "relevant_live_original_body_rechecked"
+    },
+    {
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "retrieved_at_utc": "2026-10-29T04:07:39.478466+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "263570fe02425ad08f80ea6af3e718c6011a5bd5aa6b6e5f08f1b777a0661544",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0193.txt",
+      "text_sha256": "09864ddff83ef912affe5e0d259d8a33a8065197c506eb26cb7dccf0a176ae2d",
+      "source_id": "SRC-0193",
+      "locator": "Live2027 guide, FAQ84–110 and methodology; retained HTML/text",
+      "review_result": "Projected starting salary and non-salary survey populations differ; employer compensation expectations are not observed approved payroll-transformation priorities. No quote, salary, survey percentage or employer forecast adopted.",
+      "review_status": "relevant_live_original_body_rechecked"
+    },
+    {
+      "url": "https://jgarecruitment.com/payroll-recruitment/",
+      "retrieved_at_utc": "2026-10-29T04:07:39.478521+00:00",
+      "capture_path": null,
+      "capture_sha256": null,
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+          "sha256": "a685bbefa5331a8b0417e0e1cd0a408e8dbf7b40b97cf11e05c1249745673c5d",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "source_id": "SRC-0113",
+      "locator": "Originalreader2–13: UK/global tailored talent proposition",
+      "review_result": "JGA service is a possible response, not a predetermined outcome or independently validated need/benefit; sponsor interest remains explicit.",
+      "review_status": "relevant_original_reader_rechecked_raw_unavailable"
+    }
+  ],
+  "independent_empirical_datasets": 0
+}

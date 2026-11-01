@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-30",
+  "status": "design_work_requirements_not_resource_plan",
+  "items": [
+    {
+      "work_id": "DW01",
+      "object": "Research edition",
+      "work": "Define audience/decision scope, collect actual evidence, code/review, write/design and finalise with rights/currentness checks.",
+      "owner_role_requirement": "Research and editorial owner; actual capacity not confirmed.",
+      "completion_evidence": "Versioned publishable evidence and complete contracted publication; do not count future sponsor-specific editions as already funded.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW02",
+      "object": "Reading path and existing tools",
+      "work": "Choose supported sections/contrasts and relevant existing framework/templates for the stated use.",
+      "owner_role_requirement": "Research/editorial preparation; actual hours unknown.",
+      "completion_evidence": "A short task-based route through the edition, without new bespoke study or invented case evidence.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW03",
+      "object": "Bounded briefing if included",
+      "work": "Set user/audience, agenda, preparation, format and follow-up boundary; identify a capable available person.",
+      "owner_role_requirement": "Briefing/service owner; no staffed analyst bench or time promise presumed.",
+      "completion_evidence": "Defined service and its complete labour cost; capacity and price assessed later.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW04",
+      "object": "Use/recognition assets",
+      "work": "Specify material/version, allowed use, source/participant constraints, funding statement and logo permissions where relevant.",
+      "owner_role_requirement": "JGA publication/commercial owner and appropriate rights review.",
+      "completion_evidence": "Actual agreed use/asset record; no default third-party rights or participant data access.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW05",
+      "object": "Practitioner research/peer route",
+      "work": "Screen relevant fit, choose practical input/meeting mode, apply existing permission and count policy.",
+      "owner_role_requirement": "Research/participation/moderation owner; tools and arrangements not approved by this map.",
+      "completion_evidence": "Actual eligible usable permitted contribution and separately tracked peer/event participation.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW06",
+      "object": "Cycle follow-through if included",
+      "work": "Prepare a short note with appropriate takeaways, limits and open questions; review for indirect identification.",
+      "owner_role_requirement": "Editorial/moderation follow-through capacity to test and cost.",
+      "completion_evidence": "A scoped optional benefit; no unlimited advice or recurring output.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW07",
+      "object": "Event increment if chosen",
+      "work": "Add recruitment, host/moderator seats, venue/hospitality, access, travel, timing and cancellation work.",
+      "owner_role_requirement": "Event/programme owner and funding; no supplier enquiry or booking made.",
+      "completion_evidence": "Incremental fully loaded resource/cash model against the research-only route, not all sales attributed to dinners.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    },
+    {
+      "work_id": "DW08",
+      "object": "Sales/administration and later upkeep",
+      "work": "Define proposal/contract/invoice/fulfilment/correction work, edition period and any genuinely chosen future refresh.",
+      "owner_role_requirement": "Commercial/administrative/editorial owners, not an assumed recurring team.",
+      "completion_evidence": "Count bundled licences once; distinguish contracted, invoiced, received and fulfilled; no automatic renewal.",
+      "owner_assigned": false,
+      "hours": null,
+      "cash_cost": null,
+      "capacity_confirmed": false
+    }
+  ],
+  "financial_inputs": [],
+  "actual_delivery_events": [],
+  "staff_hired": [],
+  "new_signed_project_deliverables": [],
+  "commercial_validation": false
+}

@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "updated_on": "2026-11-01",
+  "active_work_package": "WP14",
+  "records": [
+    {
+      "work_package_id": "WP00",
+      "name": "Project baseline and research plan",
+      "status": "completed_for_planning",
+      "dependencies": [],
+      "working_file": "00-control/MASTER-PLAN.md",
+      "evidence_of_completion": "Latest reviewed scope reconciled and planning workspace established; executed-copy reconciliation remains open."
+    },
+    {
+      "work_package_id": "WP01",
+      "name": "R01 Existing evidence and differentiation",
+      "status": "completed_for_research_design",
+      "dependencies": [
+        "WP00"
+      ],
+      "working_file": "03-report/modules/R01-existing-evidence-and-differentiation.md",
+      "evidence_of_completion": "R01 readout, four audit batches, canonical source/claim records and independent synthesis challenge. Topic-specific publication checks remain open.",
+      "started_on": "2026-10-28",
+      "completed_on": "2026-10-28"
+    },
+    {
+      "work_package_id": "WP02",
+      "name": "F01 Question map, outline and sample",
+      "status": "v02_prepared_for_user_review",
+      "dependencies": [
+        "WP01"
+      ],
+      "working_file": "06-client-checkpoints/week-one-v0.2/REVIEW-NOTES.md",
+      "evidence_of_completion": "Revised five-page plan and two-page prospectus; fourteen unchanged core questions, refined probes/routes, nineteen synthetic checks, independent exact-content review and seven rendered pages checked. Client review and human timing/testing outstanding.",
+      "started_on": "2026-10-28",
+      "draft_prepared_on": "2026-10-28",
+      "latest_review": "03-report/SECOND-REVIEW-READOUT.md",
+      "sharing_status": "Local only; user permission required before sending."
+    },
+    {
+      "work_package_id": "WP03",
+      "name": "F02 Collection and permission arrangements",
+      "status": "prepared_for_user_client_review_collection_not_activated",
+      "dependencies": [
+        "WP02"
+      ],
+      "working_file": "01-method/collection-pack-v0.1/START-HERE.md",
+      "evidence_of_completion": "Eight-file blank/local review pack; actualgeneratedagreementsection12workingroles/closureterms and5focusedprimaryguidancepages reviewed. Eightconstructedcountscenarios+3permission/readinesscases/199rootchecks, independentintegratedreview and111prior/core/client/canonicalhashes. Allrealcounts/records0,14questions unchanged. Actualfocus/notice/instructions/tools/access/requiredtransferandrelease decisions remainopen; no fieldwork/outreach.",
+      "started_on": "2026-10-29",
+      "prepared_on": "2026-10-29",
+      "collection_ready": false
+    },
+    {
+      "work_package_id": "WP04",
+      "name": "R02 Operational needs and service gaps",
+      "status": "completed_desktop_research_practitioner_integration_pending",
+      "dependencies": [
+        "WP01"
+      ],
+      "working_file": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "evidence_of_completion": "Capacity/control, service boundaries, two employer cases and official consequence mechanisms; nine-area matrix, evidence/holds, independent synthesis review and file-integrity checks. Practitioner integration and final publication approval remain open. Second challenge applied: historical/external resolution, market scope/complexity, all six prior recruitment comparators and prior-study bridge, payment and resilience conditions. Original inputs and final-use checks still open.",
+      "started_on": "2026-10-28",
+      "desktop_completed_on": "2026-10-28",
+      "second_challenge_completed_on": "2026-10-28",
+      "second_challenge_readout": "03-report/R02-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "work_package_id": "WP05",
+      "name": "R03 Technology and operating-model trade-offs",
+      "status": "completed_desktop_research_practitioner_integration_pending",
+      "dependencies": [
+        "WP04"
+      ],
+      "working_file": "03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "evidence_of_completion": "Primary integration/identity/state definitions, component-level delivery scope, task-level automation/AI and two bounded employer cases; eight-path analytical map, linked records, independent synthesis review and preservation checks. Original input/final publication checks remain open. Second challenge applied: continuing readiness, whole-work effects, exact service unit, engagement/output ownership and recovery/dependence; P08 includes enduring capability. Prior constructed scenarios checked with anti-anchoring rule. Practitioner/final-use work remains open.",
+      "started_on": "2026-10-29",
+      "desktop_completed_on": "2026-10-29",
+      "second_challenge_completed_on": "2026-10-29",
+      "second_challenge_readout": "03-report/R03-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "work_package_id": "WP06",
+      "name": "R04 Investment decision ownership",
+      "status": "completed_desktop_research_practitioner_integration_pending",
+      "dependencies": [
+        "WP05"
+      ],
+      "working_file": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "evidence_of_completion": "Source-scoped governance, mixed-role buyer-method recheck and six selected secondary employer cases; twelve optional function map, decision/event/condition design, twenty-six claim/guardrail records and independent integrated review. Core/client and prior R02/R03 artifacts preserved. Practitioner integration and final-use checks remain open. Second challenge applied: effective remit/change, organisation/contract level, mandate versus practice, acceptance object and relevant affected-party conditions. Twelve functions/core 14 unchanged. Prior prompt bridge passed 243 independent checks; no authority/demand inference.",
+      "started_on": "2026-10-29",
+      "desktop_completed_on": "2026-10-29",
+      "second_challenge_status": "completed_for_internal_desktop_synthesis",
+      "second_challenge_started_on": "2026-10-29",
+      "second_challenge_completed_on": "2026-10-29",
+      "second_challenge_readout": "03-report/R04-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "work_package_id": "WP07",
+      "name": "R05 Business cases, funding and implementation risks",
+      "status": "completed_desktop_research_practitioner_integration_pending",
+      "dependencies": [
+        "WP06"
+      ],
+      "working_file": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "evidence_of_completion": "Economics/benefit, commercial-cost, delivery/readiness and evidence-quality originals reconciled into nine-domain checklist and three-view structured map. Twenty-eight claim/method records, independent integrated review and prior-topic/client/core preservation. No employer forecast, populated financial inputs or fieldwork; practitioner integration/final-use checks remain open. Second challenge applied: dated whole-decision boundary, cost/benefit/funding distribution, actual service/unit/retained work/commitment cash, usable skill/time and evidence-fit conditions. Independent integrated review and 327 exact prior-study linkage checks passed; earlier/client/core artifacts preserved. No new original observations or numerical forecasts.",
+      "started_on": "2026-10-29",
+      "desktop_completed_on": "2026-10-29",
+      "second_challenge_status": "completed_for_internal_desktop_synthesis",
+      "second_challenge_started_on": "2026-10-29",
+      "second_challenge_completed_on": "2026-10-29",
+      "second_challenge_readout": "03-report/R05-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "work_package_id": "WP08",
+      "name": "R06 Staying, switching, delay and abandonment",
+      "status": "completed_desktop_research_practitioner_integration_pending",
+      "dependencies": [
+        "WP07"
+      ],
+      "working_file": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "evidence_of_completion": "Actual retention/changed scope, postponed rollout/later scoped declaration, historical stopped component, notice-status and method-scoped survey evidence integrated into nine-row optional matrix/event map. Ten new routes,23 bounded claims, six internal findings, independent integrated review and44 prior-topic/client/core preservation hashes. No outcome prevalence, causal remedy, forecast or fieldwork; fourteen core questions/client files unchanged. Second challenge applied: dated feasible alternatives, last evidenced state, separate lifecycle/receiving arrangements, other-party talent commitment/knowledge and user-task completion. Scoped peer review plus root competitor/250 saved-data checks passed with partial independence explicit; first-pass/prior/client/core preserved.",
+      "started_on": "2026-10-29",
+      "desktop_completed_on": "2026-10-29",
+      "second_challenge_status": "completed_for_internal_desktop_synthesis",
+      "second_challenge_started_on": "2026-10-29",
+      "second_challenge_completed_on": "2026-10-29",
+      "second_challenge_readout": "03-report/R06-SECOND-CHECK-READOUT.md"
+    },
+    {
+      "work_package_id": "WP09",
+      "name": "R07 Priorities and contextual differences",
+      "status": "completed_desktop_research_practitioner_integration_pending",
+      "dependencies": [
+        "WP08"
+      ],
+      "working_file": "03-report/modules/R07-priorities-and-contextual-differences.md",
+      "evidence_of_completion": "Four official routes,24 claim/method/hold records, six internal findings, six optional context dimensions and four nonordinal comparison purposes. Independent integrated review and54 preservation hashes passed. Fourteen questions/eight client files/prior modules unchanged; no fieldwork, ranking, forecast or final-use approval.",
+      "started_on": "2026-10-29",
+      "desktop_completed_on": "2026-10-29",
+      "second_challenge_status": "completed_internal_desktop_review",
+      "second_challenge_completed_on": "2026-10-29",
+      "second_challenge_evidence": "Five selective origin/sequence/access/work-remit/affected-party conditions;7new routes/19bounded claims/5internal findings. Independent integrated review,327root saved-data checks,58baseline hashes and7first-pass snapshots. First-pass dimensions,14core and8client files preserved. No original fieldwork or final-use approval."
+    },
+    {
+      "work_package_id": "WP10",
+      "name": "F03 Practitioner contributions",
+      "status": "planned",
+      "dependencies": [
+        "WP02",
+        "WP03"
+      ],
+      "working_file": null,
+      "evidence_of_completion": null
+    },
+    {
+      "work_package_id": "WP11",
+      "name": "F04 Qualitative coding and review",
+      "status": "planned",
+      "dependencies": [
+        "WP10"
+      ],
+      "working_file": null,
+      "evidence_of_completion": null
+    },
+    {
+      "work_package_id": "WP12",
+      "name": "T01–T02 Comparables and buyer/member proposition",
+      "status": "T01_T02_second_design_reviewed_validation_pending",
+      "dependencies": [
+        "WP01"
+      ],
+      "working_file": "04-table/T02-SECOND-CHECK-READOUT.md",
+      "evidence_of_completion": [
+        "08-qa/T02-completion-check.json",
+        "08-qa/T02-second-check-independent-review.md",
+        "08-qa/T02-second-check-completion.json",
+        "04-table/T02-second-challenge-map.json"
+      ],
+      "started_on": "2026-10-29",
+      "T01_desktop_reviewed": true,
+      "T02_buyer_validated": false,
+      "T03_conversations_complete": false,
+      "second_challenge_reviewed_on": "2026-10-30",
+      "T01_second_challenge_reviewed": true,
+      "T02_design_reviewed": true,
+      "T02_design_reviewed_on": "2026-10-30",
+      "T02_second_challenge_reviewed": true,
+      "T02_second_challenge_reviewed_on": "2026-10-30"
+    },
+    {
+      "work_package_id": "WP13",
+      "name": "T03 Table validation conversations",
+      "status": "planned",
+      "dependencies": [
+        "WP02",
+        "WP03",
+        "WP12"
+      ],
+      "working_file": null,
+      "evidence_of_completion": null
+    },
+    {
+      "work_package_id": "WP14",
+      "name": "T04–T05 Business routes and financial workbook",
+      "status": "T05_event_second_challenge_reviewed_full_model_in_progress",
+      "dependencies": [
+        "WP12"
+      ],
+      "working_file": "04-table/T05E-SECOND-CHECK-READOUT.md",
+      "evidence_of_completion": [
+        "08-qa/T04-completion-check.json",
+        "04-table/T05-research-cost-map.json",
+        "08-qa/T05R-completion-check.json",
+        "04-table/T05R-second-challenge-map.json",
+        "08-qa/T05R-second-check-completion.json",
+        "04-table/T05-service-cost-map.json",
+        "08-qa/t05s-workbook/verification.json",
+        "08-qa/T05S-completion-check.json",
+        "04-table/T05S-second-challenge-map.json",
+        "08-qa/T05S-second-check-completion.json",
+        "04-table/T05-event-cost-map.json",
+        "08-qa/t05e-workbook/verification.json",
+        "08-qa/T05E-completion-check.json",
+        "04-table/T05E-second-challenge-map.json",
+        "08-qa/T05E-second-check-completion.json"
+      ],
+      "next_design_input": "Dated cash/payment and remaining-obligation schedules, then complete matched A/B programme integration. Apply event partial-work/concurrent-coverage/mode/menu/cohort/locality/liability refinements beside earlier research/service refinements. Preserve three workbooks and all70 inputs. No actual demand, attendance, quote, booking, sending or spend.",
+      "started_on": "2026-10-30",
+      "T04_prepared_on": "2026-10-31",
+      "T04_reviewed_on": "2026-10-31",
+      "T05_workbook_created": true,
+      "T05_full_financial_model_complete": false,
+      "T05_research_component_prepared_on": "2026-10-31",
+      "T05_research_component_second_check_reviewed_on": "2026-11-01",
+      "T05_service_component_prepared_on": "2026-11-01",
+      "T05_service_component_reviewed_on": "2026-11-01",
+      "T05_service_component_second_check_reviewed_on": "2026-11-01",
+      "T05_event_component_prepared_on": "2026-11-01",
+      "T05_event_component_second_check_reviewed_on": "2026-11-01"
+    },
+    {
+      "work_package_id": "WP15",
+      "name": "R08 Decision Framework and report synthesis",
+      "status": "preparatory_desktop_synthesis_ready_original_integration_pending",
+      "dependencies": [
+        "WP04",
+        "WP05",
+        "WP06",
+        "WP07",
+        "WP08",
+        "WP09",
+        "WP11"
+      ],
+      "working_file": "03-report/modules/R08-decision-framework-and-synthesis.md",
+      "evidence_of_completion": "Preparatory only: six linked optional views, two-part/eight-chapter integration map, ten constructed applications/133root routingchecks, independent integrated review and76prior/core/client/register/findings hashes. Final framework/report, practitioner usefulness and WP11dependency remain open. No new empirical evidence, final deliverable completion or external sending.",
+      "started_on": "2026-10-29",
+      "preparatory_work_only": true,
+      "preparatory_completed_on": "2026-10-29",
+      "second_challenge_status": "completed_internal_preparatory_second_challenge",
+      "second_challenge_completed_on": "2026-10-29",
+      "second_challenge_evidence": "Frameworkv0.2:5selectiveconditions/2exactviewtextrefinements, no added questions. Zero new source routes,17bounded records,5internal design findings;15constructed applications/197checks,327exactbridgechecks, independent integrated review,85preservationhashes and8firstpasssnapshots. No original practitioner validation/finalWP15completion."
+    },
+    {
+      "work_package_id": "WP16",
+      "name": "T06–T07 Pilot assets and executive recommendation",
+      "status": "planned",
+      "dependencies": [
+        "WP13",
+        "WP14",
+        "WP15"
+      ],
+      "working_file": null,
+      "evidence_of_completion": null
+    },
+    {
+      "work_package_id": "WP17",
+      "name": "Complete publication and editable assets",
+      "status": "planned",
+      "dependencies": [
+        "WP15",
+        "WP16"
+      ],
+      "working_file": null,
+      "evidence_of_completion": null
+    },
+    {
+      "work_package_id": "WP18",
+      "name": "Evidence, rights, formula and rendered-file QA",
+      "status": "planned",
+      "dependencies": [
+        "WP17"
+      ],
+      "working_file": "08-qa/QUALITY-GATES.md",
+      "evidence_of_completion": null
+    },
+    {
+      "work_package_id": "WP19",
+      "name": "JGA review, consolidated revision and handover",
+      "status": "planned",
+      "dependencies": [
+        "WP18"
+      ],
+      "working_file": null,
+      "evidence_of_completion": null
+    }
+  ],
+  "pending_review_work_packages": [
+    "WP02"
+  ],
+  "next_action": "Dated cash/payment and remaining-obligation schedules, then complete matched A/B programme integration. Apply event partial-work/concurrent-coverage/mode/menu/cohort/locality/liability refinements beside earlier research/service refinements. Preserve three workbooks and all70 inputs. No actual demand, attendance, quote, booking, sending or spend."
+}

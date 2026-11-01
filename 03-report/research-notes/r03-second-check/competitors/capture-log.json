@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R3COMP-S01",
+      "title": "The growing role of technology in payroll and HR",
+      "publisher": "JGA Recruitment",
+      "url": "https://jgarecruitment.com/blog/the-growing-role-of-technology-in-payroll-and-hr/",
+      "accessed_on": "2026-10-29",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "candidate_id": "R3COMP-S02",
+      "title": "Project Services: Project Delivery and SOW Solutions",
+      "publisher": "Hays UK",
+      "url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "capture_path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S02.html",
+      "capture_sha256": "2a05b3b2882ed093bcd27016284bf964536d38a5f40b4c9b10a013586abcedd6",
+      "capture_status": "retained_original_html",
+      "bytes": 243432
+    },
+    {
+      "candidate_id": "R3COMP-S03",
+      "title": "Consulting Services, Project Staffing and Managed Solutions",
+      "publisher": "Robert Half UK / Protiviti",
+      "url": "https://www.roberthalf.com/gb/en/consulting",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/consulting",
+      "capture_path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S03.html",
+      "capture_sha256": "2c77573fdc9734f6c05b9e3375d0f2e338bde9bee3672819e5cf64d139c8b383",
+      "capture_status": "retained_original_html",
+      "bytes": 318813
+    },
+    {
+      "candidate_id": "R3COMP-S04",
+      "title": "Change and Digital Transformation",
+      "publisher": "Oakleaf Technology, Change and Transformation",
+      "url": "https://oakleaftct.com/digital-transformation/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/",
+      "capture_path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S04.html",
+      "capture_sha256": "0272e2e6ba2cc31b5d6e8122856723b8a1d1c2bd6066412a04ce170d28ca6095",
+      "capture_status": "redirected_homepage_not_requested_document",
+      "bytes": 167160,
+      "exclusion_reason": "Direct live request redirects to Oakleaf Partnership home; cached reader body not adopted as current scope."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "files": [
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SC4COMP-S01.html",
+      "sha256": "c09ca028c48c8e8be1c737fe010c0a73a5ad9a3f9709e5985d3ec05d80bbc473",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SC4COMP-S01.txt",
+      "sha256": "671c6acf2a33b6409229c1cf751520eb79e2beb01fe298e5d41f06cf3f978191",
+      "kind": "parsed_text_from_retained_HTML"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SC4COMP-S02.html",
+      "sha256": "01fe0e6d604429ec6e7fb93bb6a892a1af5ffa95fc442f3a4b232148cc6e592c",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SC4COMP-S02.txt",
+      "sha256": "8d2fbee7841cf54127610e71e56ee0cf52c10c189fe493ea2e921efb86087c1a",
+      "kind": "parsed_text_from_retained_HTML"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0116.html",
+      "sha256": "dc197835fc8d9a7be3735903998ec926b35c3007b8ab22e5c2fe04c096da8c64",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0116.txt",
+      "sha256": "3076ebd946d4be67e5530e41930e02b9937cec2598a0da926247efab8c9d0c8d",
+      "kind": "parsed_text_from_retained_HTML"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0115.html",
+      "sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0115.txt",
+      "sha256": "63a9b79b4c520c6687430bad825f72218782aa5e34893e496a30843f4441f16a",
+      "kind": "parsed_text_from_retained_HTML"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0147.html",
+      "sha256": "e0cfd342a022bde55eadb340fd808cdf0c35308d796e0c36094309df8c365037",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0147.txt",
+      "sha256": "32e330fec6397d979a821d1307877764c07f37aee90af642df72a929e319f213",
+      "kind": "parsed_text_from_retained_HTML"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0148.html",
+      "sha256": "e75e8ebe5edf0d613c9f2a9607b65d04214084e6f7f0a1f614cfa347d6e03195",
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0148.txt",
+      "sha256": "c712c339547dcd7f6180430a91b63cf3a390293b83a6956dd73fa527a6b9851c",
+      "kind": "parsed_text_from_retained_HTML"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/competitors/captures/SRC-0119-reader-extract.txt",
+      "sha256": "ab2f6cd817a30b36216d0c1bbd7c32406da5145041d4a05bf19b1ecf03b67bb0",
+      "kind": "selected_reader_extract_not_original"
+    }
+  ]
+}

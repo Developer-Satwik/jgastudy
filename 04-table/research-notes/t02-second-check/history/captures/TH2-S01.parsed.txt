@@ -1,0 +1,142 @@
+0001: The Office for National Statistics’ Revisions Policy and Correction of Errors Policy - Office for National Statistics
+0002: Cookies on ons.gov.uk
+0003: Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.
+0004: We would like to set additional cookies to remember your settings and understand how you use the site. This helps us to improve our services.
+0005: Accept additional cookies
+0006: Reject additional cookies
+0007: Manage settings
+0008: You have accepted all additional cookies.
+0009: You have rejected all additional cookies.
+0010: You can change your cookie preferences at any time.
+0011: Hide
+0012: Skip to main content
+0013: /methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions
+0014: English (EN) |
+0015: Cymraeg (CY)
+0016: Release calendar
+0017: Methodology
+0018: Media
+0019: About
+0020: Blog
+0021: Menu
+0022: Search
+0023: Home
+0024: Business, industry and trade
+0025: Business
+0026: Changes to business
+0027: Construction industry
+0028: Digital economy
+0029: International trade
+0030: Manufacturing and production industry
+0031: Retail industry
+0032: Tourism industry
+0033: Economy
+0034: Economic output and productivity
+0035: Environmental accounts
+0036: Government, public sector and taxes
+0037: Gross Domestic Product (GDP)
+0038: Gross Value Added (GVA)
+0039: Inflation and price indices
+0040: Investments, pensions and trusts
+0041: National accounts
+0042: Regional accounts
+0043: Employment and labour market
+0044: People in work
+0045: People not in work
+0046: People, population and community
+0047: Armed forces community
+0048: Births, deaths and marriages
+0049: Crime and justice
+0050: Cultural identity
+0051: Education and childcare
+0052: Elections
+0053: Health and social care
+0054: Household characteristics
+0055: Housing
+0056: Leisure and tourism
+0057: Measuring progress, well-being and beyond GDP
+0058: Personal and household finances
+0059: Population and migration
+0060: Taking part in a survey?
+0061: English (EN) |
+0062: Cymraeg (CY)
+0063: Search for a keyword(s) or time series ID
+0064: Search
+0065: Data and analysis from Census 2021
+0066: Home
+0067: Methodology
+0068: Methodology topics and statistical concepts
+0069: Revisions and corrections of errors
+0070: The Office for National Statistics’ Revisions Policy and Correction of Errors Policy
+0071: The Office for National Statistics’ Revisions Policy and Correction of Errors Policy
+0072: Guidance on our central Revisions and Correction of Errors policies, including definitions and why they are used.
+0073: Last updated:
+0074: 9 August 2024
+0075: 1. Introduction
+0076: Changes or updates to published statistics, analysis or data are sometimes required for various reasons. We use different terminology depending on the reason for the change or update. These terms are “revisions” and “correction of errors” and are defined in Section 3: Revisions Policy, and Section 4: Correction of Errors Policy.
+0077: Being clear, transparent, and consistent when publishing revisions and corrections of errors is important as it allows users to understand how and why our statistics, analysis or data are revised or corrected after publication, and informs their appropriate use. This approach also ensures that we are proactively meeting the Code of Practice for Statistics.
+0078: 2. How to use these policies
+0079: These policies set out definitions of revisions and correction of errors to provide coherent central changes and updates policies for all Office for National Statistics (ONS) statistics, analysis, and data. These unified policies enable users to obtain information on terms used when reporting on revisions and correction of errors. This includes definitions that are used when referring to statistic or data changes and updates.
+0080: The Revisions Policy and Correction of Errors Policy have been separated on this page to clearly highlight the differences between them and to demonstrate when each should be used. This separation is standard practice used by other National Statistical Institutes (NSIs).
+0081: 3. Revisions Policy
+0082: Revisions are updates to previously published statistics, analysis or data that improve quality by incorporating improved methods, additional data sources or statistics that were unavailable at the point of initial publication. Revisions should not be confused with the correction of errors; revisions are not published to correct a mistake.
+0083: We aim to limit the impact and number of revisions by finding an appropriate balance of data quality trade-offs, in particular between timeliness and accuracy. We produce initial estimates to meet a strong user need. However, this means that there are situations in which revisions are required to ensure data quality and to meet the Code of Practice for Statistics’ pillars of Trustworthiness, Quality and Value. These situations may arise when further data become available because of:
+0084: incorporating data to estimates that were not available at the time of the initial publication, which includes replacing projections with actual data
+0085: benchmarking – some short-term, in-year statistics may be produced using data sources that are readily available but of a lower quality; when higher quality data sources become available, short-term statistics can be benchmarked against them and appropriate adjustments made
+0086: Situations in which revisions are required may also arise because of changes to methods or systems, including:
+0087: new methods or improved methodology, such as changes in statistical methods, techniques, or systems; this also includes changes in concepts, definitions, and classifications
+0088: rebasing – when a statistical index is rebased, it can be because either individual component items have been re-evaluated and the “weight” attributed to each has changed, or the reference period has been updated
+0089: Revisions are usually reported in the next release of the data by including a notice within the latest release. The timing that these are released will consider the need to:
+0090: make the information available to users as soon as is practicable
+0091: avoid two or more amendments (to the same data items) in quick succession
+0092: 4. Correction of Errors Policy
+0093: Despite having quality control measures in place, mistakes may be found in our statistics. Correction of errors are amendments that are made to published statistics in response to the identification of mistakes following their initial publication. Corrections should not be confused with revisions; corrections of errors are not published to incorporate improved methods, additional data sources or statistics that were unavailable at the point of initial publication.
+0094: Correcting errors should be viewed as an improvement to data quality, to ensure that the best possible statistics, analysis, and data are available to our users. They are also an important part of transparency, which helps to sustain public confidence.
+0095: Errors may be from not carrying out the calculations correctly, or where we have identified that a method we have applied was incorrect. We may also find that we need to correct our statistics because there were undetected errors in the input data used to calculate the statistics.
+0096: When a mistake is identified, the error is corrected as soon as possible in line with the Code of Practice for Statistics, with limited exceptions. In a small number of cases, minor errors might not be corrected because of:
+0097: the time scale (for example, the error occurred too long ago)
+0098: the scale of the error (meaning that it would take too much resource for minimal improvements)
+0099: it not being in the public interest to make the correction
+0100: Correction of errors are reported at the top of the affected release in a blue collapsible banner titled “Correction”. This acts as a note on the publication that an error has been identified and includes details on the nature and rationale for it not being corrected. The fact that the publication has been updated is clearly stated with details of when and why the change was made.
+0101: 5. Links to current revisions and correction of errors policies
+0102: In some cases, Office for National Statistics (ONS) publications have specific revisions or correction policies that describe details for users on how revisions or corrections are managed. The list below provides links to currently available publications specific policies. These complement the policies detailed in Section 3 and Section 4.
+0103: Economic statistics
+0104: Our National Accounts Revisions Policy methodology
+0105: Our Consumer Price Inflation Statistics article
+0106: Our Revisions policies for economic statistics web page includes links to the:
+0107: Investment by Insurance Companies, Pension Funds and Trusts (MQ5) Revisions Policy
+0108: Public Sector Statistics Revisions Policy and Practice
+0109: Public Service Productivity Estimates Revisions Policy
+0110: Retail Sales Index Revisions Policy
+0111: Wealth and Assets Survey (WAS) Revisions Policy
+0112: Labour market
+0113: Our Revisions policies for labour market statistics web page includes links to the:
+0114: Labour Market Statistics Revisions Policy
+0115: Public Sector Employment Statistics Revisions Policy
+0116: Population and international migration
+0117: Our International Passenger Survey (IPS) Quality and Methodology Information (QMI)
+0118: Our Population and International Migration Statistics Revisions Policy
+0119: Our Crime Survey for England and Wales (CSEW) QMI
+0120: Business surveys
+0121: Our Annual Business Survey (ABS) technical report
+0122: Footer links
+0123: Help
+0124: Accessibility
+0125: Cookies
+0126: Privacy
+0127: Terms and conditions
+0128: About ONS
+0129: What we do
+0130: Careers
+0131: Contact us
+0132: News
+0133: Freedom of Information
+0134: Connect with us
+0135: X
+0136: Instagram
+0137: Facebook
+0138: LinkedIn
+0139: Consultations
+0140: Discussion forums
+0141: Email alerts
+0142: All content is available under the Open Government Licence v3.0, except where otherwise stated

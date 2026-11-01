@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R6R-S01",
+      "url": "https://www.gov.uk/service-manual/agile-delivery/retiring-your-service",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/service-manual/agile-delivery/retiring-your-service",
+      "retrieved_at_utc": "2026-10-28T22:58:39.229506+00:00",
+      "path": "03-report/research-notes/r06-second-check/root/captures/R6R-S01.html",
+      "sha256": "85957d9299931d1ab78b7375d920ab47c27fc06b3605e9626e50fef632ae111c",
+      "text_path": "03-report/research-notes/r06-second-check/root/captures/R6R-S01.txt",
+      "text_sha256": "af6cd18b52024c9564add4bb9aceac373e8d0ec2e87abcc7dc5bc2d5348fdaee"
+    },
+    {
+      "candidate_id": "R6R-S02",
+      "url": "https://www.hr.admin.cam.ac.uk/pay-benefits/pay/online-payslips",
+      "http_status": 200,
+      "final_url": "https://www.hr.admin.cam.ac.uk/pay-benefits/pay/online-payslips",
+      "retrieved_at_utc": "2026-10-28T22:58:47.440490+00:00",
+      "path": "03-report/research-notes/r06-second-check/root/captures/R6R-S02.html",
+      "sha256": "415e9cbf113af2f2018fd6b2ccbf32f1178142448afe07686ff863ab934f19bf",
+      "text_path": "03-report/research-notes/r06-second-check/root/captures/R6R-S02.txt",
+      "text_sha256": "6c00d44f06201e9b9ae1e91f53a7a03d2f1ea5986f49238f56c401fccb3ae312"
+    }
+  ]
+}

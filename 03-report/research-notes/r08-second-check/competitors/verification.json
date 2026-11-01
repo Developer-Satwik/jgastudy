@@ -1,0 +1,550 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 134,
+  "checks": [
+    {
+      "check": "No raw hash invented SRC-0210",
+      "passed": true
+    },
+    {
+      "check": "Selected note hash 03-report/research-notes/r08-second-check/competitors/captures/SRC-0210-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "No raw hash invented SRC-0119",
+      "passed": true
+    },
+    {
+      "check": "Selected note hash 03-report/research-notes/r08-second-check/competitors/captures/SRC-0119-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Selected note hash 03-report/research-notes/r04-second-check/competitors/captures/SRC-0119-reader-extract.txt",
+      "passed": true
+    },
+    {
+      "check": "Raw original hash SRC-0115",
+      "passed": true
+    },
+    {
+      "check": "Parsed extract hash SRC-0115",
+      "passed": true
+    },
+    {
+      "check": "Raw original hash SRC-0116",
+      "passed": true
+    },
+    {
+      "check": "Parsed extract hash SRC-0116",
+      "passed": true
+    },
+    {
+      "check": "Raw original hash SRC-0147",
+      "passed": true
+    },
+    {
+      "check": "Parsed extract hash SRC-0147",
+      "passed": true
+    },
+    {
+      "check": "Raw original hash SRC-0192",
+      "passed": true
+    },
+    {
+      "check": "Parsed extract hash SRC-0192",
+      "passed": true
+    },
+    {
+      "check": "Raw original hash SRC-0193",
+      "passed": true
+    },
+    {
+      "check": "Parsed extract hash SRC-0193",
+      "passed": true
+    },
+    {
+      "check": "No raw hash invented SRC-0113",
+      "passed": true
+    },
+    {
+      "check": "Selected note hash 03-report/research-notes/r08-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Claim canonical links C8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Claim canonical links C8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Claim canonical links C8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Claim canonical links C8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Claim canonical links C8S-C05",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance all_answers",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance answer_index",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance summary",
+      "passed": true
+    },
+    {
+      "check": "Bridge provenance previous_R07_bridge",
+      "passed": true
+    },
+    {
+      "check": "Eight saved records S01-C",
+      "passed": true
+    },
+    {
+      "check": "Fourtool/tworepeat coverage S01-C",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Eight saved records S02-D",
+      "passed": true
+    },
+    {
+      "check": "Fourtool/tworepeat coverage S02-D",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Eight saved records S06-C",
+      "passed": true
+    },
+    {
+      "check": "Fourtool/tworepeat coverage S06-C",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Eight saved records S11-C",
+      "passed": true
+    },
+    {
+      "check": "Fourtool/tworepeat coverage S11-C",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact saved-text/index/hash S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt/hash S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Date/source status S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "No new numerical claim adopted",
+      "passed": true
+    },
+    {
+      "check": "All-six/JGA canonical reuses, no new route",
+      "passed": true
+    },
+    {
+      "check": "32selected saved records",
+      "passed": true
+    },
+    {
+      "check": "Four saved answers semantically reviewed; other texts integrity-only",
+      "passed": true
+    }
+  ],
+  "scope": "Targeted source/reuse hashes, claim links and saved-study integrity; not independent validation of advice, candidate capability, market effects or final integration.",
+  "new_source_routes": 0,
+  "new_claim_candidates": 5,
+  "canonical_reuses": 8,
+  "selected_questions": 4,
+  "saved_answer_texts": 32,
+  "external_actions": []
+}

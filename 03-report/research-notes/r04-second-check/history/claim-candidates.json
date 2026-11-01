@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H4-C01",
+      "source_ids": [
+        "H4-S01"
+      ],
+      "claim_text": "The 2016 committee account distinguishes Cabinet Office framework agreements from departmental call-offs and describes escalation-dependent intervention and an unclear mandate to act for customers.",
+      "locator": "Chapter 1 paragraphs 4, 6, 16",
+      "evidence_class": "historical_reported_governance_scope",
+      "population": "The specific central-government shared-service arrangements examined by the 2016 Public Accounts Committee",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "2016 committee account, including evidence session in June 2016; page dated 14 October 2016",
+      "limitations": "Specific programme history, not current or private-market practice. A central role does not establish authority over each customer contract.",
+      "review_mode": "Relevant original parliamentary HTML body inspected in the web reader; labelled selected reader fragments retained. Direct local raw retrieval returned 403; no raw original claimed.",
+      "status": "R04_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "H4-C02",
+      "source_ids": [
+        "H4-S02"
+      ],
+      "claim_text": "The April 2026 playbook changes the described interaction of central approvals and organisational assurance, and explicitly treats initiatives needing approval after its implementation date.",
+      "locator": "Sections 2 and 9.2",
+      "evidence_class": "official_current_governance_transition_design",
+      "population": "Government digital assurance and approval arrangements within the April 2026 playbook scope",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Playbook published 1 April 2026; section 9.2 addresses initiatives needing approval after 1 April 2026",
+      "limitations": "Source-scoped policy, not measured implementation or faster decisions. No universal private workflow or monetary threshold inferred.",
+      "review_mode": "Relevant original online sections 2 and 9.2 inspected; raw original HTML retained and hash-checked.",
+      "status": "R04_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "H4-C03",
+      "source_ids": [
+        "H4-S03"
+      ],
+      "claim_text": "Treasury links revised delegation arrangements with continuing departmental governance and accounting-officer duties.",
+      "locator": "Action and Context, original web lines89–110",
+      "evidence_class": "official_policy_and_accountability_context",
+      "population": "UK central-government accounting-officer and departmental arrangements addressed by Treasury DAO 01/26",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Treasury letter published 16 April 2026, discussing the 2026 reforms and revised delegation arrangements",
+      "limitations": "Greater delegation does not establish absence of controls, compliance in a particular case or delivered benefits.",
+      "review_mode": "Original Action and Context sections inspected; raw original HTML retained and hash-checked.",
+      "status": "R04_second_challenge_candidate"
+    },
+    {
+      "candidate_id": "H4-C04",
+      "source_ids": [
+        "H4-S01",
+        "H4-S02",
+        "H4-S03",
+        "SRC-0154"
+      ],
+      "claim_text": "The R04 analysis should identify the mandate effective for a dated decision, any known change, the organisational/contractual scope and the actual escalation trigger.",
+      "locator": "Researcher synthesis; individual original locators above; reused GovS 008 introduction/4.4.3",
+      "evidence_class": "researcher_analytical_refinement",
+      "population": "Researcher-designed analytical refinement for case-based R04 analysis; not an empirical employer sample",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Cross-source analysis made 29 October 2026 using the explicitly dated 2016 and April/May 2026 sources",
+      "limitations": "Selective analytical fields, not an empirical authority hierarchy, a mandatory questionnaire extension or additional required posts.",
+      "review_mode": "Analytical synthesis of the separately inspected parliamentary and government sources, with the previously retained GovS 008 v2.2 context reread. Source-specific capture limits remain in individual records.",
+      "status": "R04_second_challenge_candidate"
+    }
+  ]
+}

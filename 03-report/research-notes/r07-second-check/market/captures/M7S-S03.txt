@@ -1,0 +1,183 @@
+Payroll Manager New Features and Guides - Moneysoft
+Skip to content
+Moneysoft
+[email protected]
+Facebook page opens in new windowTwitter page opens in new windowLinkedin page opens in new window
+Print
+Home
+Payroll Manager
+Payroll Manager Overview
+Agents & Accountants
+CIS
+Auto Enrolment
+Payslips
+FAQs
+Testimonials
+Money Manager
+Money Manager Overview
+Business Edition
+Personal Edition
+FAQs
+Testimonials
+Prices
+Downloads
+SUPPORT
+Contact
+Buy Online
+Home
+Payroll Manager
+Payroll Manager Overview
+Agents & Accountants
+CIS
+Auto Enrolment
+Payslips
+FAQs
+Testimonials
+Money Manager
+Money Manager Overview
+Business Edition
+Personal Edition
+FAQs
+Testimonials
+Prices
+Downloads
+SUPPORT
+Contact
+Buy Online
+Payroll Manager New Features and Guides
+You are here:
+Home
+Article
+Payroll Manager New Features and…
+Search For
+Search
+Payroll Manager New Features and Guides
+Payroll Manager New Features and Guides
+We list details of new features and software improvements recently implemented in Payroll Manager (via scheduled software updates) below. You will also find details of recently published ‘Support guides’, which you can access via our website.
+You will be automatically prompted to update your copy of Payroll Manager whilst using the software if a scheduled update is due. If you wish to check if there is a software update available click ‘Help‘ then ‘Program Update‘ from the main menu in Payroll Manager.
+June 2026
+News – Mandatory Payrolling of Benefits in Kind (PBIK) 2027
+HMRC have announced that mandatory real-time reporting of Income Tax and Class 1A National Insurance contributions for certain benefits in kind (BiKs) and taxable expenses will now be phased in. Phase 1 will commence from 6 April 2027 and phase 2 will commence from 6 April 2028.
+From 6 April 2027, mandatory payrolling of BiKs will be phased in as part of phase 1 for company cars, car fuel ,vans, van fuel and employer-provided medical benefits.
+Payroll Manager will be updated in due course to be fully compatible with the new requirements from April 2027.
+Mandatory payrolling of benefits in kind and expenses – interim guidance and legislation – The phased introduction of mandatory payrolling for benefits in kind – Guidance – GOV.UK
+Payroll Manager updates
+Software improvement: Some of our users have requested the facilty to set a different ‘default’ payslip layout for each employer / client. As a result of this feedback we have added a tick box on the ‘Tools – Setup – General‘ screen labelled ‘Use a separate payslip layout for each employer‘. If this box is ticked then the software will automatically ‘remember’ the last payslip layout used for each specific employer / client, and use this layout by default when payslips are produced.
+April 2026
+Payroll Manager updates
+Software improvement: We have amended the ‘Employer – Statutory Pay Funding‘ screen to allow users to record and track the amounts of funding received from HMRC. It is now possible to enter allocated amounts and keep track of the remaining funding ‘balance’. See the new Statutory Pay Advanced Funding guide for more details.
+March 2026
+Payroll Manager updates
+Software improvement: We have added a new ‘Department Details’ report to allow uses to report on the pay of employees in a specific department. This report can be accessed by clicking ‘Pay‘ then ‘Department Details‘ from the main menu in Payroll Manager.
+Software update – Expenses and benefits – The Government published the ‘Average Official Rate’ for beneficial loans on 6 March 2026. The rate for 2025-26 is 3.75%. This rate has been added to Payroll manager and affects the calculation of beneficial loans made to emplolyees during the 2025-26 tax year. See Beneficial loan arrangements — HMRC official rates – GOV.UK
+February 2026
+Website support guides
+See our newly published ‘Payroll Year End guides 2025-26‘ for detailed information on what you need to do at payroll year end:
+Year End Summary 2025-26
+Filing the last RTI return for 2025-26
+Creating A Data File For 2026-27
+New for 2026-27
+Issuing P60 Forms for your Employees
+For details of how the new Statutory Sick Pay (SSP) rules will operate from 6 April 2026 please see the following guide:
+Statutory Sick Pay (SSP) from 6 April 2026
+January 2026
+Payroll Manager updates
+Software improvement: We have added a 2026-27 ‘layout’ to the ‘Analysis – Tax & NIC rates‘ report so that you can view the tax, NIC, Student Loan, Minimum wage etc rates that will come into effect from April 2026.
+Software improvement: We have added a ‘Quarterly‘ layout to the ‘CIS – Payment and Deduction statement‘ reoprt for CIS subcontractors.
+Software improvement: A new auto enrolment pensions upload file template has been added for the pension provider ‘True Potential‘.
+Software improvement: A new P60 layout (called ‘P60M’) has been added for tax year 2025-26 onwards for use with pre-printed hand-seal P60 stationery provided by the third party company ‘Hague Direct’.
+November 2025
+Chancellors Budget Statement 26 November 2025
+In the Autumn Budget of 2025 the Chancellor announced a number of changes that will affect payroll calculations for the tax year 2026-27 onwards. There was nothing in the recent budget that will affect payroll calculations in the tax year 2025-26.
+Changes announced include an increase to the various National Minimum Wage rates from April 2026 and a cap on the maximum amount of employer pension contributions that can be made using ‘salary sacrifice’ arrangements, which comes into force in 2029.
+Each of these changes will be implemented via scheduled Payroll Manager software updates closer to the time.
+.
+Payroll Manager updates
+Software minor terminology change – We have renamed what used to be called ‘BACS Payment Files’ within Payroll Manager to ‘Bank Transfer Files‘, as this name better reflects the actual use of these items. For details of how to use this system, click ‘Pay‘ then ‘Payments‘ from the main menu in Payroll Manager, select ‘Bank Transfer File‘ and then press the ‘F1‘ key on your keyboard for further guidance.
+Software improvement: We have added ‘Bank Transfer File’ file layouts in the formats required for Santander Bulk Faster Payments and NatWest Standard Domestic Bulk Payments.
+Software improvement: The ‘Forms – Employer’s Payments P32‘ report now has the National Insurance Contributions broken down into employers and employees amounts (previously these items were grouped together).
+Software improvement: We have changed the colour of the ‘cursor/ highlighted days’ on the ‘Employee – Calendar’ screen from dark blue to gold, making it easier to read the selected date(s) (e.g. below):
+October 2025
+Payroll Manager updates
+Software improvement: Following requests from some of our customers we have added ‘Bank Transfer / BACS Payment’ file layouts in the formats required by Allica, Monzo and Revolut banks. This will enable customers of these organisations to create ‘BACS payment’ files to upload via their online banking systems. Payroll Manager already has built-in formats for many other banks (over 40 in total). For details of how to use this system, click ‘Pay‘ then ‘Payments‘ from the main menu in Payroll Manager, select ‘Bank Transfer File‘ and then press the ‘F1‘ key on your keyboard for further guidance.
+June 2025
+Website support guides
+Microsoft is ending support for Windows 10 on 14 October 2025. We have published a guide on how to upgrade to Windows 11 – End of support for Windows 10
+A new guide to operating a Scottish Earnings Arrestment (EA) has been published.
+The guide Expenses and Benefits – P11D .has been updated with the latest information regarding filing P11d and P11db returns. The deadline for filing P11D submissions to HMRC is 6 July 2025.
+The Useful Links web page in the ‘Support’ section of the Moneysoft website has been updated, providing links to a number useful GOV.UK, ACAS and other pages.
+May 2025
+Payroll Manager updates
+Software improvement: The ‘Click here to show calculation‘ report (accessible via the grey button at the bottom-left of the ‘Pay Details’ screen) now shows a more detailed calculation for ‘Attachment’ deductions (e.g. Direct Earnings Attachments, Council Tax AEO etc.). The report now specifically itemises the ‘Attachable earnings‘ amounts, and also shows the relevant deduction tables for attachment types that use them.
+Software improvement: Entering or editing the Tax code of an employee. Previously when entering a tax code which operates on a ‘week1’ or ‘month 1’ basis it was necessary to tick the ‘week1/month1’ box on the tax code input screen. The software will now allow an ‘X’ to be entered at the end of the tax code instead (e.g. 1257LX), in which case the ‘w1m1’ basis will automatically be applied.
+Software improvement: The ‘Employer PAYE reference‘ (on the ‘Employer – Employer Details – Tax Office’ screen) will now be ‘greyed out’ and non-editable once an RTI return for that employer has been sent by the software and received by HMRC. This change has been implemented because some users were (incorrectly) editing the reference after sending RTI returns, and then sending further RTI returns from the same Payroll Manager data file using a different Employer PAYE reference. This was then causing reconciliation problems with HMRC.
+The correct way to proceed in cases where you realise you have been using an incorrect PAYE reference is to set up a brand new Payroll Manager data file, using the correct PAYE reference, and then to file the appropriate RTI returns using the new file. You should also contact HMRC to inform them of the error.
+Website support guides
+The following new support guides were published in May 2025:
+Direct Earnings Attachment (DEA) A guide on how to process a Direct Earnings Attachment in Payroll Manager.
+Council Tax Attachment of Earnings Order (CTAEO) A guide on how to process a Council Tax Attachment of Earnings Order in Payroll Manager.
+Child Maintenance Deduction from Earnings Order (DEO) A guide on how to process a Child Maintenance Deduction from Earnings Order in Payroll Manager.
+Magistrates Court Attachment of Earnings Order (AEO) A guide on how to process a Magistrates Court Attachment of Earnings Order in Payroll Manager.
+April 2025
+Payroll Manager updates
+Data validation: HMRC RTI rule: A validation was added to check that National Insurance category ‘B’ was not being used for employees born after 5 April 1961. See National Insurance categories and rates – Moneysoft more details.
+Website support guides
+The following new support guides were published in April 2025:
+Payroll ID in this employment A guide to the ‘Payroll ID’ and how it should be used.
+Was this article helpful?
+Yes
+No
+Contents
+Payroll Manager New Features and Guides
+June 2026
+News – Mandatory Payrolling of Benefits in Kind (PBIK) 2027
+Payroll Manager updates
+April 2026
+Payroll Manager updates
+March 2026
+Payroll Manager updates
+February 2026
+Website support guides
+January 2026
+Payroll Manager updates
+November 2025
+Chancellors Budget Statement 26 November 2025
+Payroll Manager updates
+October 2025
+Payroll Manager updates
+June 2025
+Website support guides
+May 2025
+Payroll Manager updates
+Website support guides
+April 2025
+Payroll Manager updates
+Website support guides
+Need Support?
+Can't find the answer you're looking for?
+Contact Support
+Contact Us
+[email protected]
+12 Glasshouse Studios,
+Fryern Court Road,
+Fordingbridge,
+SP6 1QX
+08456 444 555
+Quick Links
+Downloads
+Support
+Buy Online Now
+Prices
+Legal Information
+Privacy Notice
+Terms & Conditions
+Cookie Policy
+GDPR Statement
+What’s New
+Year end summary 2025-26
+New features and guides
+SSP from 6 April 2026
+© 2026 Moneysoft Ltd. All Rights Reserved.
+Test
+Website by EnvisageDigital.co.uk
+Go to Top

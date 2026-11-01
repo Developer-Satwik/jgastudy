@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-29",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0202",
+      "url": "https://kommunikasjon.ntb.no/files/17848729/18969211/335309/no",
+      "locator": "PDF/printed11 B1 bundled strategic/review/investment status;12 E1 management OR investment influences;32 methodology",
+      "review_status": "selected_original_sections_reinspected_for_R07",
+      "review_result": "Bundled status and general influence items do not isolate an approved project, allocated resources, amount/period or delivered result. Commissioned pooled six-market survey, large-employer skew; item bases/routing/weights unknown. Country samples known; not UK item results.",
+      "capture_path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "capture_sha256": "eda4585c95f5faea2294fc182c50515068a1a8b25215bf62e4f896c17aacf17e",
+      "text_path": "03-report/research-notes/r07/priorities/captures/SRC-0202-fulltext.txt",
+      "text_sha256": "5b0affc4de48435715aeb0d908d27196633bba58c3a769d8d9e58c352c0ea429",
+      "visually_inspected_pdf_pages": [
+        11,
+        12,
+        32
+      ]
+    },
+    {
+      "source_id": "SRC-0033",
+      "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+      "locator": "PDF33 Table6 urgent HR challenges and Table7 separate AI employer agreement statements; methods re-read at PDF4/32",
+      "review_status": "selected_original_sections_reinspected_for_R07",
+      "review_result": "Different item frames and separate marginal agreement statements cannot create a respondent-level exploration-to-investment-to-outcome pipeline. HR/workplace AI is not necessarily payroll AI. No percentages or longitudinal transition adopted.",
+      "capture_path": "02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-report.pdf",
+      "capture_sha256": "fec552785e3fae9bda8925bff47784c59957b2949ac401ce2b5ed812e7e73c38",
+      "text_path": "03-report/research-notes/r07/priorities/captures/SRC-0033-fulltext.txt",
+      "text_sha256": "177c16cb43f80eb21f886c476cd2c20a164f8d9a862318b62b7286a69c1f0905",
+      "visually_inspected_pdf_pages": [
+        33
+      ]
+    },
+    {
+      "source_id": "SRC-0034",
+      "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Payroll.pdf",
+      "locator": "PDF2 scope/method;11 payroll-related priorities and separate recommendations",
+      "review_status": "selected_original_sections_reinspected_for_R07",
+      "review_result": "Pooled 16-country HR/employee study. Published payroll priority list lacks the exact underlying question/item valid base in the inspected page. Priorities/recommendations are not approved funding or completed delivery.",
+      "capture_path": "02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-payroll.pdf",
+      "capture_sha256": "5921f07de8e81ffdc09a7097b1144c9e5c83f3da59dab64c9b7cf1bd64fc9f96",
+      "text_path": "03-report/research-notes/r07/priorities/captures/SRC-0034-fulltext.txt",
+      "text_sha256": "7630a5a079fa2c307f81e5d44e8a2fc54bd713b8c38c8bf161cd3cd2bf008647",
+      "visually_inspected_pdf_pages": [
+        2,
+        11
+      ]
+    },
+    {
+      "source_id": "SRC-0011",
+      "url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+      "locator": "Methodology; Chapter2 finding8 exact feature-desire question; original published V2-01 chart",
+      "review_status": "selected_original_sections_reinspected_for_R07",
+      "review_result": "Current feature preferences, not confirmed willingness to pay/approved budgets. New branding/customisation figure discrepancy12chart/13prose held; prior switching/investment conflicts remain. Mixed payroll/HR/finance/bureau respondents and item-valid bases unknown.",
+      "capture_path": "03-report/research-notes/r07/priorities/captures/SRC-0011.html",
+      "capture_sha256": "d8d9a5130e9b6bd3281376de0a604b6c88ac5a3674824d3ee754673518638d07",
+      "text_path": "03-report/research-notes/r07/priorities/captures/SRC-0011.txt",
+      "text_sha256": "430ce149e0dc1f23d0ad9ea6193956a1aeb9a01179d7a30e5a6256150e42e585",
+      "visually_inspected_pdf_pages": [],
+      "published_chart_review": {
+        "id": "MP-feature",
+        "url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-01.png?x99966",
+        "final_url": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-01.png?x99966",
+        "http_status": 200,
+        "retrieved_at_utc": "2026-10-28T23:10:48.209309+00:00",
+        "path": "03-report/research-notes/r07/priorities/captures/MP-feature.png",
+        "sha256": "3240e6b8ed6627bc15f9ab72aa554ffe4897002f3f500e4ddb59f1e9b5b1e973",
+        "kind": "published_chart_asset"
+      }
+    },
+    {
+      "source_id": "SRC-0070",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "locator": "Printed15 employer qualification offer/support;16 personal undertaken/current/planned qualifications; foreword/conclusion sample scope",
+      "review_status": "selected_original_sections_reinspected_for_R07",
+      "review_result": "Employer-reported qualification support and respondent personal qualification status have different units/routes. Personal plans are not employer-funded priorities or successful completion. Mixed in-house/provider professional sample, exact achieved/item bases/fieldwork unknown.",
+      "capture_path": "03-report/research-notes/r07/priorities/captures/SRC-0070.html",
+      "capture_sha256": "ea076cb018593414efdbd6d80498456e1865d3c4c815743fbc488e504b7874b7",
+      "text_path": "03-report/research-notes/r07/priorities/captures/SRC-0070.txt",
+      "text_sha256": "605e76172cd4ad1726e53b3792b6ee0a32cce7033e2618584a9263f25f40cbf1",
+      "visually_inspected_pdf_pages": []
+    }
+  ],
+  "new_independent_datasets": 0
+}

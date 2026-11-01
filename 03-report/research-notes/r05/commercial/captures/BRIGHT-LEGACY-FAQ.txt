@@ -1,0 +1,257 @@
+1: FAQs - Pricing - BrightPay Documentation
+2: Features
+3: BrightPay Cloud
+4: Features
+5: Cloud vs. Desktop
+6: Sign Up
+7: Sign up
+8: Sign up to BrightPay Cloud
+9: Find out more
+10: Book a demo
+11: Start free trial
+12: Pricing
+13: BrightPay Cloud Pricing
+14: Purchase Bright Contracts
+15: Purchase Payslip Stationery
+16: Support
+17: Contact Us
+18: Contact Support Team
+19: Support Documentation
+20: BrightPay (Cloud) Support
+21: BrightCIS Support
+22: BrightPay (Desktop) Support
+23: BrightPay Connect Support
+24: Video Tutorials
+25: BrightPay (Cloud) - Video Tutorials
+26: BrightPay (Desktop) - Video Tutorials
+27: Moving to BrightPay Cloud
+28: Your migration journey
+29: More
+30: About
+31: About Bright
+32: Careers at Bright
+33: Resources
+34: Blogs
+35: Webinars
+36: Guides & eBooks
+37: Log In
+38: BrightPay (Cloud Version)
+39: Log in to BrightPay (2026/27)
+40: Log in to BrightPay (2025/26)
+41: Log in to Employee Portal
+42: BrightPay Connect
+43: Log in to Connect (Employer)
+44: Log in to Connect (Employee)
+45: FAQs - Pricing
+46: Starting in the 2026/27 tax year, BrightPay will be exclusively cloud-based. The desktop version will no longer receive updates, support, or legislative compliance.
+47: Bright’s cloud solutions offer enhanced functionality, security, and a modern payroll experience. To stay at the forefront of innovation, we are focusing our development on advancing the platform, ensuring a seamless transition for users.
+48: Please see our Frequently Asked Questions about moving to BrightPay cloud, feature comparison, Connect and support. Our download our pdf version here.
+49: FAQs: Pricing
+50: Q How much does BrightPay’s cloud software cost?
+51: A With BrightPay’s cloud software, the pricing works off your highest recorded number of employers and employees, so the pricing will be unique to each business. Use our pricing calculator to work out how much you would pay for your 2025/26 BrightPay cloud.
+52: Q How can I pay for BrightPay cloud?
+53: A You have two options to choose from when paying for your BrightPay. You can choose to pay annually or you can choose to be billed monthly.
+54: Monthly subscription
+55: Monthly payments are due and payable monthly in arrears by Direct Debit on the 4th of the following month or the next working day, based on the highest recorded number of employers and employees in that month (starters and leavers included). Payments are taken automatically each month.
+56: Annual payment
+57: Annual payment plans are payable on the 4th of the following month based on the highest recorded number of employers and employees you wish to pre- pay for the next 12 months. A discount will apply to annual payments. Please note your 12-month payment will be automatically renewed each year unless you cancel before the renewal date.
+58: *Additional usage that is higher than the annual payment plan will be charged based on monthly subscription prices with overage payments taken automatically each month.
+59: Q How do I switch to BrightPay cloud if I’ve already purchased a BrightPay for Windows 2025/26 license?
+60: A If you’ve purchased a BrightPay for Windows 2025/26 license but want to move to BrightPay cloud from April, you can request a pro-rata refund for your desktop license. Your BrightPay cloud subscription will then be billed on the 4th of the following month, based on whether you choose to pay monthly or annually.
+61: Need help? Support is available at 0345 9390019 or [email protected].
+62: BrightPay (Cloud) System RequirementsBrightPay's Employer Tax Rate Card 2025-26BrightPay's Employer Tax Rate Card 2026-27BrightPay (Cloud) Service InfrastructureWhat's New in BrightPay?
+63: Logging into BrightPay with your Bright ID
+64: Moving to BrightPay cloud
+65: Why BrightPay cloudFAQs - Feature ComparisonFAQs - Making the MoveFAQs - PricingFAQs - Moving from BrightPay ConnectFAQs - Support for BrightPay
+66: What's happening to BrightPay for Windows?Introduction to BrightPayGetting Started
+67: Getting Set up in BrightPayCreating an OrganisationAdd or Import an Employer
+68: Adding an Employer ManuallyImporting an Employer from BrightPay desktop
+69: Starting the New Tax Year
+70: How do I start processing 2026-27 payroll?Starting the new tax year - FAQsImporting From 24-25 BrightPayImporting From 2025-26 into 2026-27 BrightPay
+71: Importing Into BrightPay from BrightPay for WindowsMoving to BrightPay from another payroll software
+72: Importing into BrightPayMethodology used in BrightPayImporting Employees - List of Employee Data that can be Imported into BrightPayMoving to BrightPay mid-year - Recoverable Amounts to DateMoving to BrightPay mid-year - Employment AllowanceMoving to BrightPay - Continuing Auto Enrolment from a previous softwareMoving to BrightPay mid-year - DirectorsImporting from SAGE
+73: Importing from SAGE 50 Payroll - using a CSV File (start of year)Importing from SAGE 50 Payroll - using a CSV File (mid year)
+74: Importing using a CSV File - Other softwareImporting using an FPS File - Other Software
+75: Organisation Members Management
+76: Overview of Team Members' Roles & PermissionsTeam Member RolesInviting a Team Member
+77: Two Factor Authentication - Users
+78: Enabling Two Factor AuthenticationSelecting Method to Receive Verification CodeTwo Factor Authentication FAQs
+79: Employer Details
+80: Adding a New EmployerAdding/Amending Employer Details
+81: Adding/Amending Employer Basic Information and Registration DetailsAdding/Amending Employer - Typical Employee DetailsAdding/Amending Employer - RTI Details
+82: Adding/Amending DepartmentsAdding/Amending Hourly RatesAdding/Amending Daily RatesAdding/Amending Piece RatesAdding/Amending Deduction TypesAdding/Amending Addition TypesAdding/Amending Savings SchemeAdding/Amending Bank Accounts
+83: Bank Payment File TemplatesCustom Bank Payment File Templates
+84: Employer Calendar
+85: Employer Calendar - Planner ViewEmployer Calendar - Periodic Views
+86: Employee Details
+87: PersonalEmploymentStarter/LeaverPaymentTax, NICs, RTIHRGenerating Employee Works NumbersAdding New Employees from a CSV FileUpdating Existing Employee Details from a CSV FileEmployee Count Report
+88: Coding NoticesPayroll CalendarProcessing Payroll
+89: Setting up your Payment ScheduleWeekly PayrollFortnightly Payroll4-weekly PayrollMonthly PayrollQuarterly PayrollAnnual/Yearly PayrollPeriod Summary View (Payroll Preview)Net to Gross PaymentsAllocating An Employee's Pay across more than one DepartmentAdditions and DeductionsProcessing Pension Deductions (outside of AE)Setting a Pension AVC to repeatAdding a Note to Employee PayslipsPre-Paying an EmployeeZeroising Payslips (Batch Operation)Setting pay items to auto-zeroiseFinalising PayslipsChildcare VouchersPayroll Filters
+90: Importing Pay Data using CSV File
+91: Importing Periodic Payments using CSV fileImporting Daily Payments using CSV FileImporting Hourly Payments using CSV FileImporting Additions using CSV FileImporting Deductions using CSV FileImporting Notes using CSV FileImporting Payments, Additions & Deductions in a single CSV FileCSV Import Preferences
+92: Distributing Payslips
+93: Printing PayslipsEmailing PayslipsExporting PayslipsCustomising PayslipsDownload/Email Multiple Payslips for a single Employee
+94: Paying Employees
+95: Paying Employees by CashPaying Employees by ChequePaying Employees by Credit Transfer & Creating a Bank FilePaying Employees by Modulr
+96: RTI
+97: Reporting Contracted Hours - Hourly Bands for FPSFull Payment Submission (FPS)Additional Full Payment SubmissionEmployer Payment Submission
+98: Declaring No Payment for PeriodEmployer Payment Submission OverviewRecovering Statutory PaymentsNotifying HMRC of your final submission of yearRecovering CIS deductions sufferedReporting Apprentice LevyDeclaring a future period of inactivityNotifying HMRC of Bank DetailsNotifying HMRC that your PAYE scheme has ceasedDeleting an EPS
+99: Common HMRC Error MessagesAnalysis
+100: Saved ReportsCreating a New ReportViewing ReportsEditing ReportsSaving ReportsDownloading/Printing/Emailing ReportsExporting ReportsImporting Saved Reports from another BrightPay employerDownloading/Printing/Emailing Multiple Reports
+101: Payroll Journals
+102: Payroll Journals - OverviewBrightBooksClearBooksQuickbooks
+103: Quickbooks (Desktop version) - CSV uploadQuickbooks Online - using API
+104: QuickFileSage
+105: Sage Accounts - CSV uploadSage Business Cloud Accounting - using API
+106: Xero
+107: Xero - Introduction to using the APIXero - Submitting your journal using APIXero - API FAQsXero - CSV upload
+108: ZohoBooksCreating a Generic Payroll JournalNominal Ledger Mapping - Custom Items (e.g employment allowance)
+109: HMRC
+110: Recording Payments to HMRCP30 & P32Paying HMRC - Useful HMRC GuidancePaying HMRC using Modulr
+111: Making Corrections in Payroll
+112: Re-opening PayslipsEditing a Pay Schedule
+113: Directors
+114: Setting up a DirectorDirectors' NICDirectors appointed during the tax year
+115: Off-Payroll Working (IR35)Starters
+116: Setting up a new employee mid-yearNew Starter Checklist
+117: Leavers
+118: Processing a LeaverProcessing Payments After Leaving
+119: Student Loan DeductionsPostgraduate Loan DeductionsAttachment of Earnings
+120: Attachment of Earnings (Northern Ireland)Child Support Deductions from Earnings Order (DEO)Civil Judgment Debt Attachment of Earnings Order (County Court)Council Tax Attachment of Earnings Order (CTAEO) - EnglandCouncil Tax Attachment of Earnings Order (CTAEO) - WalesCurrent Maintenance Arrestment (CMA)Direct Earnings AttachmentMagistrates Court Attachment of Earnings OrderMaintenance Attachment of Earnings OrderOther Attachment of Earnings Orders
+121: Expenses & Benefits
+122: Expenses & Benefits - OverviewExpenses & Benefits - Setting the Tax Accounting MethodApplying an Expense or Benefit in BrightPayExpenses & Benefits - P11D & P11D(b) End of Year Return
+123: Pensions (outside of Automatic Enrolment)Payroll GivingYear End
+124: Year End - Frequently Asked QuestionsYear End Checklist for Tax Year 2025-26Year End - Support Hub2025-26 Year End - Video TutorialYear-End Procedure for Tax Year 2025-26 - 5 Step Guide
+125: Rates & Thresholds at a Glance
+126: Rates & Thresholds at a Glance 2023-24Rates & Thresholds at a Glance 2024-25Rates & Thresholds at a Glance 2025-26
+127: Tax
+128: Tax Codes - OverviewTax Rates and Thresholds for 2025-26Tax Rates and Thresholds for 2024-25Scottish Rate of Income Tax (SRIT)Welsh Rate of Income Tax50% Overriding Regulatory Limit
+129: National Insurance
+130: NIC Category LettersNIC Thresholds & Rates for 2025-26NIC Thresholds & Rates for 2024-25State Pension Age & BrightPayDirectors' NICDirectors' NIC - where appointed during the Tax Year
+131: National Minimum Living Wage
+132: National Minimum Wage and National Living Wage - April 2025National Minimum Wage and National Living Wage - April 2024
+133: Mileage Allowance Payments (MAPs)Employment AllowanceApprenticeship LevyTermination Awards & Sporting TestimonialsGender Pay Gap ReportingStatutory Payments
+134: Statutory Payment Rates for 2025-26Statutory Payment Rates for 2024-25Statutory Maternity PayStatutory Adoption PayStatutory Paternity Pay (Birth)Statutory Paternity Pay (Adoption)Statutory Shared Parental Pay (Birth)Statutory Shared Parental Pay (Adoption)Statutory Parental Bereavement PayStatutory Neo-Natal Pay
+135: Employee Self Service Portal
+136: BrightPay Employee Self Service Portal - OverviewEnabling Employee Access to Self Service PortalDisabling/Editing Employee Access to Self ServiceInviting Employees to use Self Service
+137: Inviting EmployeesEmployees Registering a Bright ID
+138: Employee Self Service Portal
+139: Employee Portal - DocumentsEmployee Portal - CalendarEmployee Portal - My DetailsEmployee Self Service Portal Information Pack for EmployersEmployees Requesting LeaveEmployees Requesting to Cancel LeaveEmployees Requesting Change of Personal Details
+140: Resources
+141: Add a New ResourceResource Options
+142: Employee Mobile App
+143: Payroll DocumentsCalendarMy DetailsRequesting LeaveRequesting Change of Personal DetailsGeneral
+144: Confidential Employee
+145: Two Factor Authentication - Employees
+146: Enabling Two Factor Authentication for EmployeesSelecting Method to Receive Verification CodeEmployee Two Factor Authentication FAQs
+147: Manager's Portal
+148: Manager's Portal - OverviewManagers
+149: Global ManagersDepartmental ManagersLine Managers
+150: Manager's Portal - Processing RequestsInvitation Template for Managers
+151: BrightPay Client Portal
+152: Client Portal - OverviewAdding Users for the Client PortalOptions for Users on the Client PortalDashboard - Client PortalClient Portal - Employer
+153: Employer InformationEmployer CalendarManage Users
+154: Client Portal - Payroll
+155: Pay PeriodsDue to HMRCExporting Multiple Payslips to a PDF document
+156: Client Portal - Employees
+157: Employees OverviewEmployees - Manage ResourcesEmployee RequestsInviting Employees to access Self Service Portal
+158: Client Portal - Reports
+159: ReportsCreating a ReportViewing ReportsPrint/Email ReportsExporting Reports
+160: Invitation Template for UsersAdding Users for the Client PortalAdding a Departmental User for the Client Portal
+161: Payslip TranslationsAutomatic Enrolment
+162: Automatic Enrolment Journey Report
+163: Employment Verification
+164: About Employment VerificationHow to Opt OutEmployers - Frequently Asked Questions (FAQs)Employees - Frequently Asked Questions (FAQs)
+165: Importing Information From Connect into BrightPay cloud
+166: Importing Information From Connect into BrightPay cloudImport from Connect to BrightPay videoFrequently Asked Questions
+167: Client Payroll Requests
+168: Payroll Entry Requests - Bureau GuidancePayroll Entry Requests - Employer GuidancePayroll Approval Requests - Bureau GuidancePayroll Approval Requests - Employer GuidanceBureau - Audit TrailsBureau - View/Manage an Employer's RequestsBureau - Client Requests Status on Employer Dashboard.Batch Operation for Payroll Approval Requests - Bureau GuidanceBatch Operation for Payroll Entry Requests - Bureau Guidance
+169: TimeKeeper Integration
+170: TimeKeeper Integration with BrightPayTimeKeeper and BrightPay Video Tutorials
+171: Release NotesBureau Enhancement Features - Useful Functionality for Payroll Bureaus or Accountants
+172: Bureau Statistics ReportBatch Processing Payroll
+173: Batch finalise currently open pay periodBatch check for coding noticesBatch send outstanding RTI submissions
+174: Batch Processing Payroll Entry and Approval Requests
+175: Batch Operation of Payroll Entry RequestsBatch Operation of Payroll Approval Requests
+176: About Bright
+177: Cookie Policy
+178: Careers at Bright
+179: Privacy Policy
+180: Copyright © 2026 Thesaurus Software Ltd T/A Bright Software Group.
+181: 1st Floor, Aura Building, Leamington Spa, CV31 3HH
+182: Email us[email protected]
+183: 0345 9390019
+184: ×
+185: Complete the form below to register interest in a BrightPay demo.
+186: Which payroll software do you currently use?
+187: BrightPay
+188: Other
+189: Who do you process payroll for?
+190: Multiple companies (Bureau / Accountant)
+191: Single company (Employer)
+192: Sign up to our newsletter to hear about industry updates, free webinars, CPD events and special offers. You can unsubscribe at any time.
+193: Cancel
+194: Submit
+195: Thanks!
+196: Your request for a BrightPay demo has been sent. We'll be in touch soon.
+197: OK
+198: ×
+199: Complete the form below to register interest in a BrightPay Connect demo.
+200: Which payroll software do you currently use?
+201: BrightPay
+202: Other
+203: Who do you process payroll for?
+204: Multiple companies (Bureau / Accountant)
+205: Single company (Employer)
+206: Sign up to our newsletter to hear about industry updates, free webinars, CPD events and special offers. You can unsubscribe at any time.
+207: Cancel
+208: Submit
+209: Thanks!
+210: Your request for a BrightPay Connect demo has been sent. We'll be in touch soon.
+211: OK
+212: ×
+213: Complete the form below to contact our sales team.
+214: Which payroll software do you currently use?
+215: BrightPay
+216: Other
+217: Who do you process payroll for?
+218: Multiple companies (Bureau / Accountant)
+219: Single company (Employer)
+220: Sign up to our newsletter to hear about industry updates, free webinars, CPD events and special offers. You can unsubscribe at any time.
+221: Cancel
+222: Submit
+223: Thanks!
+224: Your enquiry has been sent.
+225: We'll be in touch soon.
+226: OK
+227: ×
+228: Complete the form below to contact our support team.
+229: Cancel
+230: Submit
+231: Thanks!
+232: Your message has been sent.
+233: We'll be in touch soon.
+234: OK
+235: ×
+236: Complete the form below to sign up to the BrightPay mailing list.
+237: Cancel
+238: Submit
+239: Thanks!
+240: You have been successfully signed up to the BrightPay mailing list.
+241: OK
+242: ×
+243: Complete the form below to refer a friend to BrightPay.
+244: Cancel
+245: Submit
+246: Thanks!
+247: Your referral has been successfully received.
+248: OK
+249: ×
+250: BrightPay desktop licences can be purchased in the Bright ID portal. (If you don't have a Bright ID, sign up here.)
+251: Check out our video tutorial or help documentation which takes you through the ordering process step-by-step. If you have any difficulties, get in touch.
+252: Log In
+253: Before you purchase
+254: BrightPay's new cloud version is the future. If you are a current BrightPay for Windows/Mac customer, you should consider moving to the cloud version.
+255: If you are a new customer, we highly recommend that you sign up for the cloud version instead of purchasing the desktop version. Annual and monthly pricing plans are available.
+256: Help: Cloud vs Desktop
+257: Cloud Pricing

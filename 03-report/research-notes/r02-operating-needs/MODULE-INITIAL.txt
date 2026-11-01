@@ -1,0 +1,51 @@
+# R02 Operational needs and service gaps
+
+Initial evidence assessment • 28 October 2026 • In progress
+
+## Decision this informs
+
+Determine what should count as an unmet payroll need in Part One and what evidence is needed before recommending a response. The goal is to distinguish the desired operational outcome from a presumed technology purchase.
+
+## Questions
+
+1. Which concrete tasks, handoffs, service expectations and consequences appear in the inspected evidence?
+2. What do query, accuracy, clarity and satisfaction measures actually measure?
+3. When might the relevant barrier concern capability, fit, affordability/value, data, readiness, capacity, ownership or service scope?
+4. What evidence challenges a universal dissatisfaction or replacement narrative?
+5. What must original practitioner input establish that public surveys cannot?
+
+## Boundaries
+
+The proposed original cohort remains senior employer-side payroll professionals with UK-relevant responsibilities, subject to Nick's review. Existing sources have different populations: UK in-house teams, a mainly US-located mixed global-payroll cohort and employee/HR online panels. They cannot be pooled or substituted for the planned cohort. This module has no participant observations yet.
+
+## Evidence assessed
+
+The [focused memo](../research-notes/r02-operating-needs/R02-OPERATING-NEEDS.md) contains the detailed appraisal, proposed needs map, counterevidence and remaining questions. Three canonical originals were reused rather than counted as new studies:
+
+- SRC-0020, CIPP in-house report: query wording and challenge word cloud, printed pp11–12. No disclosed report-specific base or reliable word-cloud frequency ranking.
+- SRC-0071, PayrollOrg2025: method and selected accuracy/performance appendix, printed pp3,12,37,40. Supplied-list ranking and self-report do not independently establish causation. The total achieved sample is not an assumed item-valid base.
+- SRC-0033, SD Worx2026: method and appendix tables1/17, PDF pp4,32,36. Positive employee agreement is not audited accuracy; non-agreement is not an error rate. Employee and employer responses are separate groups.
+
+Four retained source-page renders were visually inspected by the researcher and parent reviewer. They support selected extraction checks, not final publication approval or permission to reproduce source graphics. The canonical claim additions link to prior claims and retain the extraction candidates.
+
+## Provisional synthesis
+
+Investigate the task, consequence, workaround, evidence, owner and desired improvement. A technology-connected workflow can still depend on the quality and timing of external inputs. That mechanism should be investigated in actual cases, not asserted to explain all payroll problems.
+
+Preserve adequate arrangements and successful outcomes. Need categories may overlap; unknown availability and no evaluation must not become claims that the market lacks a capability. A delayed or unanswered query is not automatically an incorrect payment.
+
+## Practical implications
+
+For practitioners, identify the condition that needs to change and who controls it before selecting a response. For suppliers, distinguish a feature request from a fit, service-boundary or implementation problem. For JGA, the needs map should lead into concrete decision evidence rather than a generic list of desirable features.
+
+These implications are research interpretations. Their relevance and practical detail need permissioned practitioner examples; neither willingness to fund a response nor a vendor opportunity has been demonstrated.
+
+## Contrary evidence and limits
+
+The reviewed employee agreement measures preserve positive experience. Different appropriate operating arrangements may call for renewal, process improvement or no immediate change. Source populations, item wording, fieldwork and bases differ. Existing Moorepay, Finity and HR.com conflicts remain held; no new universal needs ranking is supported.
+
+## Next work
+
+Complete targeted checks on service scope, capability and consequences where existing evidence leaves a decision-relevant gap. Use the revised guide to obtain original cases after review and collection arrangements. Later synthesis should retain dissent and actual measures, not strengthen claims merely because several publications repeat the same theme.
+
+Status: ready as a bounded initial desktop assessment, not a final report chapter. Original contributions, exact final-use wording, numerical bases and rights remain open. See the candidate and review files in the linked memo folder for audit detail.

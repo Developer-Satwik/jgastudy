@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-31",
+  "status": "optional_separate_unit_candidates_not_core_report_totals",
+  "records": [
+    {
+      "workload_id": "OT01",
+      "task": "Exploratory Table guide/context setup",
+      "proposed_role": "Research lead",
+      "unit": "per_Table_validation_cycle",
+      "planning_hours": {
+        "low": 3,
+        "base": 5,
+        "high": 8
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ],
+      "basis": "Prepare exact tested concept/version and separate buyer/member route.",
+      "boundary": "Distinct from an event programme and not a substitute for report contribution handling.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OT02",
+      "task": "Table conversation scheduling/permission handling",
+      "proposed_role": "Research coordinator",
+      "unit": "per_exploratory_Table_contribution_event",
+      "planning_hours": {
+        "low": 0.5,
+        "base": 0.75,
+        "high": 1.25
+      },
+      "T02_work_ids": [
+        "DW05"
+      ],
+      "basis": "Arrange and document a short introduced research contribution.",
+      "boundary": "Up to four substantive contribution events under current scope; not four future dinners or automatically four report people.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OT03",
+      "task": "Table conversation and structured record",
+      "proposed_role": "Research lead",
+      "unit": "per_exploratory_Table_contribution_event",
+      "planning_hours": {
+        "low": 1.25,
+        "base": 1.75,
+        "high": 2.5
+      },
+      "T02_work_ids": [
+        "DW05"
+      ],
+      "basis": "Context review, short buyer/member input and immediate note.",
+      "boundary": "Credit only demonstrably shared delivery if an eligible permitted report contribution overlaps; Table-specific probes still take time.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OT04",
+      "task": "Table contribution coding",
+      "proposed_role": "Research analyst",
+      "unit": "per_exploratory_Table_contribution_event",
+      "planning_hours": {
+        "low": 0.5,
+        "base": 1,
+        "high": 1.5
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ],
+      "basis": "Separate intended use, objections, interest and commitment states.",
+      "boundary": "Actual input only. Do not recode the same shared account twice without additional work.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OT05",
+      "task": "Table validation synthesis",
+      "proposed_role": "Research lead",
+      "unit": "per_Table_validation_cycle",
+      "planning_hours": {
+        "low": 4,
+        "base": 6,
+        "high": 10
+      },
+      "T02_work_ids": [
+        "DW01"
+      ],
+      "basis": "Compare actual buyer/member evidence and integrate limitations into feasibility.",
+      "boundary": "Not the full six-comparable research, finance model, launch plan or Table package production.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OS01",
+      "task": "Customer reading-path preparation",
+      "proposed_role": "Research analyst",
+      "unit": "per_selected_customer_use",
+      "planning_hours": {
+        "low": 0.5,
+        "base": 1,
+        "high": 2
+      },
+      "T02_work_ids": [
+        "DW02"
+      ],
+      "basis": "Select supported existing sections and tools for one defined use.",
+      "boundary": "No new research or automatic extra charge for an included/bundled benefit.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OS02",
+      "task": "Licence/order fulfilment administration",
+      "proposed_role": "Commercial administrator",
+      "unit": "per_actual_order",
+      "planning_hours": {
+        "low": 0.5,
+        "base": 1,
+        "high": 2
+      },
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "basis": "Document actual allowed use, invoice, delivery and correction route.",
+      "boundary": "Does not include prospecting or failed proposals; an order quantity is not the number of unique customers.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OS03",
+      "task": "Bounded briefing preparation, delivery and follow-up",
+      "proposed_role": "Research/briefing lead",
+      "unit": "per_selected_briefing",
+      "planning_hours": {
+        "low": 2,
+        "base": 3.5,
+        "high": 6
+      },
+      "T02_work_ids": [
+        "DW03"
+      ],
+      "basis": "Prepare one focused existing-evidence discussion and bounded follow-up.",
+      "boundary": "Meeting time alone understates total labour; tailoring does not make new evidence or guarantee a finding.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OS04",
+      "task": "Partner use/recognition asset preparation",
+      "proposed_role": "Commercial/editorial coordinator",
+      "unit": "per_selected_partner_package",
+      "planning_hours": {
+        "low": 1,
+        "base": 2,
+        "high": 4
+      },
+      "T02_work_ids": [
+        "DW04"
+      ],
+      "basis": "Prepare actually selected benefit/recognition/use material.",
+      "boundary": "Do not count included rights/briefing as another sale or automatically include private contact data.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OS05",
+      "task": "Qualified proposal and scope work",
+      "proposed_role": "Commercial lead",
+      "unit": "per_qualified_proposal",
+      "planning_hours": {
+        "low": 2,
+        "base": 4,
+        "high": 8
+      },
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "basis": "Discuss use, prepare scoped proposal, rights/benefit clarification and necessary follow-up.",
+      "boundary": "Count unsuccessful proposals too if performed. General lead generation and sales management require their own programme effort input.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OE01",
+      "task": "Event operational preparation",
+      "proposed_role": "Event coordinator",
+      "unit": "per_selected_gathering",
+      "planning_hours": {
+        "low": 5,
+        "base": 9,
+        "high": 16
+      },
+      "T02_work_ids": [
+        "DW07"
+      ],
+      "basis": "Supplier coordination, practical access/menus/logistics and run-of-show.",
+      "boundary": "No enquiry or booking performed. Hospitality, venue bill, travel and other direct costs excluded here.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OE02",
+      "task": "Additional event member scheduling",
+      "proposed_role": "Participation coordinator",
+      "unit": "per_selected_gathering",
+      "planning_hours": {
+        "low": 6,
+        "base": 12,
+        "high": 24
+      },
+      "T02_work_ids": [
+        "DW05",
+        "DW07"
+      ],
+      "basis": "Incremental event-specific invitation administration, scheduling and attendee logistics.",
+      "boundary": "Do not repeat ordinary research recruitment already costed. No member list, attendance or conversion guarantee.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OE03",
+      "task": "Moderation design and on-site delivery",
+      "proposed_role": "Moderator",
+      "unit": "per_selected_gathering",
+      "planning_hours": {
+        "low": 5,
+        "base": 8,
+        "high": 12
+      },
+      "T02_work_ids": [
+        "DW07"
+      ],
+      "basis": "Prepare the discussion, participate on site and handle immediate records.",
+      "boundary": "Travel time separate. If a host is also moderator, charge actual time once and count one seat.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    },
+    {
+      "workload_id": "OE04",
+      "task": "Optional cycle follow-through note",
+      "proposed_role": "Research/editorial lead",
+      "unit": "per_selected_gathering",
+      "planning_hours": {
+        "low": 4,
+        "base": 7,
+        "high": 12
+      },
+      "T02_work_ids": [
+        "DW06"
+      ],
+      "basis": "Prepare supported aggregate takeaways and disclosure review.",
+      "boundary": "Not automatically a fresh edition; credit any analysis already included in the common report.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "confidence": "untimed_analyst_planning_assumption",
+      "dependencies": "Actual selected unit/scope, permitted inputs, capable available owner and no duplicate cost of reused work."
+    }
+  ],
+  "Table_validation_example": {
+    "contribution_events": 4,
+    "provider_hours_before_overlap_credit": {
+      "low": 16,
+      "base": 25,
+      "high": 39
+    },
+    "overlap_credit_hours": null,
+    "meaning": "All four treated as separate events for this arithmetic illustration; shared actual work may reduce only the corresponding rows. Not an agreed requirement to collect four additional report people."
+  },
+  "actual_selected_quantities": {},
+  "actual_hours": [],
+  "rates": [],
+  "financial_register_rows_added": 0,
+  "external_actions": [],
+  "confidence": "Untimed workload assumptions; exact selected package, actual scope, participant route, owners and capacity are dependencies."
+}

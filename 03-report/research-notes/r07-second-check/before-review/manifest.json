@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "original_path": "03-report/R07-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/01-R07-DESKTOP-READOUT.md.txt",
+      "sha256": "fd2705f45f23147a5c0488a721242b9cc94d8c5cb687003c930dc6aab653bcc7"
+    },
+    {
+      "original_path": "03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/02-R07-CONTEXTUAL-PRIORITIES.md.txt",
+      "sha256": "862ad9e202dfcc4cb6d08639f9beadedaff3c049d15f95d35bc8bb1fd474fe0c"
+    },
+    {
+      "original_path": "03-report/R07-priority-map.json",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/03-R07-priority-map.json.txt",
+      "sha256": "5749dd2e5c94e91695b61dfd8126ce57f4acfd8fd9103a30ddfad952a4a664f7"
+    },
+    {
+      "original_path": "03-report/modules/R07-priorities-and-contextual-differences.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/04-R07-priorities-and-contextual-differences.md.txt",
+      "sha256": "78c9e0557ce1fefc149924c78ddb0235472fa5ca2b08a6ff95f95921ef406863"
+    },
+    {
+      "original_path": "08-qa/R07-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/05-R07-independent-review.md.txt",
+      "sha256": "6cf43cc3d370bb8d9b4407f7b23f6bf8a44a62a2333d4dbd4ed6cac1d983c29b"
+    },
+    {
+      "original_path": "08-qa/R07-record-map.json",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/06-R07-record-map.json.txt",
+      "sha256": "5d26b646937ca489a55c6bd3b1a98fc02561df9a8dc4232bac55070b1db45d9b"
+    },
+    {
+      "original_path": "08-qa/R07-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r07-second-check/before-review/07-R07-completion-check.json.txt",
+      "sha256": "87f54358ecdae45f9d9d07584d694a49dd2a5dc7812eb49937aa68cc3f7815c8"
+    }
+  ]
+}

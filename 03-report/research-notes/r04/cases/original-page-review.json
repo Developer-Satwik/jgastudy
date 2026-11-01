@@ -1,0 +1,59 @@
+{
+  "note": "Researcher review observations, not original-file captures. Web reference IDs support internal audit only; client citations use originalURLs. Null original hashes mean unavailable, not verified retained originals.",
+  "records": [
+    {
+      "source_id": "SRC-0134",
+      "source_date": "2025-10",
+      "reviewed_on": "2026-10-29",
+      "mode": "retained_original_pdf_text_and_png_visual_review",
+      "locators": [
+        "p41 paras117–119 and preceding bullets",
+        "p43 para125",
+        "p46 paras138–141"
+      ],
+      "observations": "Appropriate governance assessment, narrow HR migration signoff, three-stage go-live chronology and separate cutover ownership verified.",
+      "original_path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "original_sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254"
+    },
+    {
+      "source_id": "SRC-0136",
+      "source_date": "2026-03-23",
+      "reviewed_on": "2026-10-29",
+      "mode": "original_web_body_and_retained_html",
+      "locator": "Section 6.0, milestones and recommendation 13 response",
+      "web_reference": "turn503view0",
+      "observations": "External checkpoints/internal stage gates distinguished; later benefits strategy is an approval, not realised benefit."
+    },
+    {
+      "source_candidate_id": "R4CASE-S03",
+      "source_date": "2024-03-22 body;2024-03-26 heading",
+      "reviewed_on": "2026-10-29",
+      "mode": "original_page_opened_via_web_tool",
+      "locator": "Lines29–85, signature inconsistency92",
+      "web_reference": "turn491view0",
+      "observations": "Named delegated decision-maker, HR delegation, reviewed/signed business case, further-competition incumbent-support award. Date discrepancy retained.",
+      "local_original_hash": null
+    },
+    {
+      "source_candidate_id": "R4CASE-S04",
+      "source_date": "2025-05-08 meeting",
+      "reviewed_on": "2026-10-29",
+      "mode": "original_minutes_page_opened_via_web_tool",
+      "locator": "Item 10 lines230–252",
+      "web_reference": "turn491view1",
+      "observations": "Committee resolution separately approves Phase2 continuation and additional funding.",
+      "local_original_hash": null
+    },
+    {
+      "source_candidate_id": "R4CASE-S05",
+      "source_date": "2025-04-03 per minutes;for2025-05-08 meeting",
+      "reviewed_on": "2026-10-29",
+      "mode": "original_report_text_opened_via_web_tool_visual_unavailable",
+      "locator": "PDF pp2–4 sections2.1,3.1,4.2.1–4.2.3; lines33–67,99–123",
+      "web_reference": "turn493view0",
+      "observations": "SRO/project governance, operating resource decisions, recommendation separated from final Committee approval.",
+      "local_original_hash": null,
+      "visual_check": "Unavailable: original screenshot fetch timed out; localPDF returned404."
+    }
+  ]
+}

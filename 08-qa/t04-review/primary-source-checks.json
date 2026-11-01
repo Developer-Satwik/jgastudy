@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-30",
+  "status": "independent_primary_source_screen_complete_for_selected_facts",
+  "scope": "Read-only primary-source and local capture inspection, not supplier quotation or venue selection",
+  "sources": [
+    {
+      "source_id": "T4E-S01",
+      "title": "Hawksmoor Manchester private dining",
+      "url": "https://thehawksmoor.com/locations/manchester/private-dining/",
+      "raw_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S01.html",
+      "raw_sha256": "27fd181c84891bc3086d5e8b5ef7e6557dc316c03f6f36f02cb4c555446c8237"
+    },
+    {
+      "source_id": "T4E-S02",
+      "title": "Hawksmoor Manchester sharing-menu package",
+      "url": "https://thehawksmoor.com/wp-content/uploads/2026/09/MCR_SHARING-MENUS-PACKAGES_140826AK.pdf",
+      "raw_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf",
+      "raw_sha256": "6a48e6e9547b4cff4bed25bf8075db9608c89a992d56528561eafbbac7568255"
+    },
+    {
+      "source_id": "T4E-S03",
+      "title": "Benares private dining",
+      "url": "https://benaresrestaurant.com/private-dining-events/",
+      "raw_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S03.html",
+      "raw_sha256": "678c6f131db1dfc53af4c48cef355a77635ff83d0eb149a5832e4f6c18de1eb8"
+    },
+    {
+      "source_id": "T4E-S04",
+      "title": "Benares Events Guide 2026",
+      "url": "https://benaresrestaurant.com/wp-content/uploads/2026/01/Benares-Events-Guide-2026-WEB.pdf",
+      "raw_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "raw_sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4"
+    },
+    {
+      "source_id": "T4E-S05",
+      "title": "Corrigan’s Mayfair Lindsay Room",
+      "url": "https://www.corrigansmayfair.co.uk/private-dining/private-dining-rooms/lindsay-room",
+      "raw_path": "04-table/research-notes/t04/uk-costs/captures/T4E-S05.html",
+      "raw_sha256": "f439e0c9210433f2b5dd0af65873346f4d4042dfa1ebce573002389567a82e27"
+    }
+  ],
+  "checks": [
+    {
+      "id": "S01",
+      "source_ids": [
+        "T4E-S01",
+        "T4E-S02"
+      ],
+      "finding": "Hawksmoor Manchester Temperance private room seats 10–14. Separate semi-private spaces and menu service quantities are not this room capacity. The menu allows up to 20 individually served, not 20 private-room seats.",
+      "effect": "Do not pass the 15-practitioner-plus-other-distinct-people scenario based on a menu limit. Smaller scenario may remain only if actual total seats fit and privacy is acceptable."
+    },
+    {
+      "id": "S02",
+      "source_ids": [
+        "T4E-S02"
+      ],
+      "finding": "The inspected lunch page gives £40 for two courses and £45 for three, per person. It does not establish a private-room minimum, complete drinks cost, current availability or all-in event budget. Tax/service basis is not stated on the inspected lunch page.",
+      "effect": "Retain as public food-price evidence with all missing terms unknown; not a zero tax/service input."
+    },
+    {
+      "id": "S03",
+      "source_ids": [
+        "T4E-S03",
+        "T4E-S04"
+      ],
+      "finding": "Benares Dover capacity 17–36 and Berkeley 11–16 are consistent in the PDF and website. Berkeley is unsuitable for an illustrative 17-seat total. Tasting menu is limited to 16 and therefore cannot simply price Dover at 17.",
+      "effect": "Keep room and menu applicability separate; a smaller host count is a scenario choice, not a capacity workaround or agreed staffing."
+    },
+    {
+      "id": "S04",
+      "source_ids": [
+        "T4E-S04"
+      ],
+      "finding": "Benares £135 tasting and £78 Bayleaf prices explicitly apply 2 January–30 April 2026. Both are historical as at 30 October 2026. Both are VAT-inclusive with a 5% cover charge and 10% discretionary service described. The actual charging base and any compounding are not established here.",
+      "effect": "Exclude from a current-price budget unless clearly dated historical comparators; do not infer refreshed October rates or add VAT twice."
+    },
+    {
+      "id": "S05",
+      "source_ids": [
+        "T4E-S04"
+      ],
+      "finding": "Benares larger-room minimum spend is on request. Published £800 and £1000 minima belong to smaller Chef/Sommelier rooms, not Dover or Berkeley.",
+      "effect": "Do not transfer small-room minima to selected larger rooms or turn unknown minima into zero."
+    },
+    {
+      "id": "S06",
+      "source_ids": [
+        "T4E-S03",
+        "T4E-S04"
+      ],
+      "finding": "Benares exclusive-hire seated capacity differs: website 100 versus PDF 150. This is outside the selected private-room screen.",
+      "effect": "Do not use the larger value. Log conflict and exclude the full-hire capacity from conclusions."
+    },
+    {
+      "id": "S07",
+      "source_ids": [
+        "T4E-S05"
+      ],
+      "finding": "Corrigan’s Lindsay page records 24 boardroom and 40 reception capacity, no room-hire charge and an applicable food/drink minimum whose amount is on request.",
+      "effect": "Zero room hire is supported for this public mechanism; total room/hospitality cost is not zero and minimum, menu, date, service and tax remain unresolved."
+    },
+    {
+      "id": "S08",
+      "source_ids": [
+        "T4E-S01",
+        "T4E-S02",
+        "T4E-S03",
+        "T4E-S04",
+        "T4E-S05"
+      ],
+      "finding": "A public room or menu page does not prove the chosen date, quote, acoustics, confidentiality, accessibility suitability, host workload, actual attendance or contractual terms.",
+      "effect": "These are discovery screens only. No venue recommended, contacted, held or booked."
+    }
+  ],
+  "visual_pdf_checks": [
+    {
+      "source_id": "T4E-S04",
+      "pages": [
+        4,
+        6
+      ],
+      "renders": [
+        "08-qa/t04-review/renders/benares-p04.png",
+        "08-qa/t04-review/renders/benares-p06.png"
+      ]
+    },
+    {
+      "source_id": "T4E-S02",
+      "pages": [
+        2
+      ],
+      "renders": [
+        "08-qa/t04-review/renders/hawksmoor-p02.png"
+      ]
+    }
+  ],
+  "external_submissions": [],
+  "quotes_obtained": [],
+  "bookings_or_spend": []
+}

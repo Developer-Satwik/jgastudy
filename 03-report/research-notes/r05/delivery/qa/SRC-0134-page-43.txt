@@ -1,0 +1,44 @@
+3. Oracle Cloud implementation | 43 
+ 
+125.  The HR data migration process commenced in summer 2023 with 3 test 
+exercises carried out to better understand the data held within the e-HR system 
+prior to attempting a trial migration. Therefore, the fourth test, completed in 
+October 2023, was the first full test cycle for the HR data migration. Three 
+further test cycles were undertaken before the ‘dress rehearsal’ test migration 
+was completed in July / August 2024, with sign off by the Head of People 
+Strategy / Workforce Planning and the Head of HR Shared Services on 
+14 August 2024 that the process could move to the live system. The data 
+migration from the e-HR system to the Oracle Cloud live environment was 
+completed between 15 September 2024 to 4 October 2024.  
+The Finance and HR-Payroll user acceptance testing plans 
+was sufficient to support the go-live decision, however for 
+HR-Payroll the exit criteria was not fully achieved 
+126.  A key element of the preparations for the Oracle Cloud platform going live 
+on 1 October 2024 was user acceptance testing. This involved a range of 
+testing to provide assurance that the system and processes were workable and 
+fit for purpose. IBM had a key role in supporting this testing and taking the 
+necessary actions to address any defects or system limitations identified. 
+User acceptance testing is the final phase of testing in an IT project, where 
+the end users test the system to ensure it meets their business requirements 
+and is ready for deployment. 
+127.  Separate user acceptance testing plans were developed for the Finance 
+modules and HR-Payroll modules, with the HR-Payroll testing supplemented by 
+a separate Payroll Comparison testing plan. These three testing plans all 
+followed similar formats and covered scope, approach, conditions to be met 
+before testing could commence and criteria for it to be concluded as successful, 
+key risks and issues, and arrangements for reporting the outcome of testing and 
+addressing any defects identified. 
+128.  Our review of the Finance user acceptance testing plan identified that this 
+included an Enterprise Performance Management (EPM) and Integration 
+workstream but this did not identify any planned testing for this module as it 
+showed: “activities to be confirmed”. Management explained that it was 
+originally intended that this module would go-live on implementation. However, 
+it became clear that this module would not be ready for testing and 
+implementation by that date so this workstream was deferred. 
+129.  Based on our review of the Finance and HR-Payroll user acceptance 
+testing plans, and the Payroll Comparison testing plan, we are content that 
+these covered all the elements of the system that were due to go-live on 
+1 October 2024. The planned testing was sufficient to allow management to 
+assess system operation and support the go-live decision. 
+130.  Our review of the outcomes of the Finance and HR-Payroll user 
+acceptance testing and the Payroll Comparison testing process identified that: 

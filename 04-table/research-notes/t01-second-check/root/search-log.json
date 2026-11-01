@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-30",
+  "queries": [
+    "Originator Chatham House Rule current FAQ, recording, publication and identities",
+    "Public employer external hospitality permission and proportionate attendance case"
+  ],
+  "selected_routes": [
+    "https://www.chathamhouse.org/about-us/chatham-house-rule",
+    "https://www.gov.uk/government/publications/acceptance-of-gifts-benefits-and-hospitality/acceptance-of-gifts-benefits-and-hospitality"
+  ],
+  "excluded_leads": [
+    "General criminal-law clauses and old2010 hospitality guidance not used for legal conclusions or pricing.",
+    "No broad competition-law work added without a specific agenda need."
+  ],
+  "browser_status": "Research agent reports local browser tool disabled; primary web reading and raw HTTP used where available. No request to change settings needed for this public research.",
+  "external_contact": false
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "checks": [
+    {
+      "check": "JSON parse: strand-check.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parse: capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parse: claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parse: source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parse: search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S02-cover.png",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S02-page-3.png",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S02-page-4.png",
+      "passed": true
+    },
+    {
+      "check": "Hash: 03-report/research-notes/r06-second-check/market/captures/M6S-S03-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Reuse hash: 03-report/research-notes/r05-second-check/market/captures/R5M-S02.html",
+      "passed": true
+    },
+    {
+      "check": "Reuse hash: 03-report/research-notes/r05-second-check/market/captures/R5M-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Memo link: source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link: claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link: capture-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link: search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "Memo link: strand-check.json",
+      "passed": true
+    },
+    {
+      "check": "No misattributed PDF review: M6S-C01",
+      "passed": true
+    },
+    {
+      "check": "No misattributed PDF review: M6S-C02",
+      "passed": true
+    },
+    {
+      "check": "No misattributed PDF review: M6S-C04",
+      "passed": true
+    },
+    {
+      "check": "No misattributed PDF review: M6S-C05",
+      "passed": true
+    }
+  ],
+  "check_count": 24,
+  "new_source_routes": 3,
+  "reused_canonical_routes": 1,
+  "claim_records": 7,
+  "original_JGA_observations": 0,
+  "external_actions": []
+}

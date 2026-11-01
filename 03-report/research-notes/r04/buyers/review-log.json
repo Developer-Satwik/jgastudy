@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-29",
+  "task": "R04 private/buyer decision evidence and methods",
+  "inputs_read": [
+    "00-control/CURRENT-STATUS.md",
+    "03-report/R03-SECOND-CHECK-READOUT.md",
+    "02-evidence/registers/sources.json",
+    "02-evidence/registers/claims.json"
+  ],
+  "source_review_summary": {
+    "existing_routes_rechecked": 4,
+    "existing_register_only_reviews": 1,
+    "new_buyer_authority_numerical_estimates": 0,
+    "new_JGA_participants": 0,
+    "new_original_routes_reviewed": 3,
+    "new_routes_with_retained_raw_original": 2,
+    "new_routes_with_retained_parsed_reader_extract": 1
+  },
+  "checks": [
+    {
+      "check": "Named role is not formal authority",
+      "result": "Pass: case role/action separated; final signature and unknown rights left undisclosed"
+    },
+    {
+      "check": "Actual decision vs view/recommendation",
+      "result": "Pass: supplier/adviser cases, interview perceptions, publisher recommendations and researcher model labelled separately"
+    },
+    {
+      "check": "Approvals are decision specific",
+      "result": "Pass: CFO agreement on need not final selection; CEO remedial resourcing not original purchase"
+    },
+    {
+      "check": "Geography and product scope",
+      "result": "Pass: Decjuba not UK, T&A not core payroll replacement; EOR criteria not domestic payroll authority"
+    },
+    {
+      "check": "Dates and denominator",
+      "result": "Pass: missing dates/base retained as unknown; no geography or item denominator invented"
+    },
+    {
+      "check": "Case independence and causality",
+      "result": "Pass: no case prevalence, independent observation, outcome causality or representativeness claim"
+    },
+    {
+      "check": "Scope separation",
+      "result": "Pass: no R05 economic model, provider ranking, former AI-count evidence, outreach or client edits"
+    },
+    {
+      "check": "PDF workflow",
+      "result": "Read PDF skill; retained original p26 rendered and visually checked; read-only, no authoring marker required"
+    }
+  ],
+  "discovery_not_adopted": [
+    {
+      "url": "https://www.sdworx.co.uk/en-gb/customers/your-case-study-if-you-moved-to-us",
+      "reason": "Hypothetical marketing story, not observed buyer case; search discovery only"
+    },
+    {
+      "url": "https://www.ciphr.com/blog/implementing-software-for-hr-mid-sized-organisations",
+      "reason": "Supplier implementation guidance naming functions would not establish actual employer decision rights; search discovery only"
+    },
+    {
+      "url": "https://www.sdworx.co.uk/en-gb/tools/managed-services",
+      "reason": "Addressing finance/HR/procurement audiences is not buyer-authority evidence; search discovery only"
+    }
+  ],
+  "external_actions": [],
+  "canonical_edits": [],
+  "client_edits": [],
+  "remaining_limits": [
+    "No new original JGA respondent account; all public cases selected by commercial publisher/adviser",
+    "Neither finance-led nor payroll-led case establishes contract signatory",
+    "No authority percentage from the reviewed market studies accepted",
+    "No full KPMG/UKG report inspection or report-form submission"
+  ]
+}

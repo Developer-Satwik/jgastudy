@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "source_map": {
+    "T5R-S01": "SRC-0263",
+    "T5R-S02": "SRC-0264",
+    "T5R-S03": "SRC-0265",
+    "T5R-S04": "SRC-0266",
+    "T5R-S05": "SRC-0267"
+  },
+  "claim_map": {
+    "T5R-C01": "CLM-0550",
+    "T5R-C02": "CLM-0551",
+    "T5R-C03": "CLM-0552",
+    "T5R-C04": "CLM-0553",
+    "T5R-C05": "CLM-0554",
+    "T5R-C06": "CLM-0555",
+    "T5R-C07": "CLM-0556"
+  },
+  "new_source_routes": 5,
+  "new_claim_records": 7,
+  "canonical_sources": 235,
+  "canonical_claims": 466,
+  "folders": [
+    "benchmarks"
+  ],
+  "commercial_validation": false,
+  "participant_observations": 0,
+  "financial_inputs_added": 33,
+  "component_only": true,
+  "workbook_created": true
+}

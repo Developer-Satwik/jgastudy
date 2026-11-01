@@ -1,0 +1,960 @@
+{
+  "date": "2026-11-01",
+  "status": "candidate_service_sales_workload_taxonomy_for_root_review_not_adopted_budget",
+  "component_id": "T05S-service-sales-workload",
+  "purpose": "A per-unit catalogue for future JGA service/sales resource costing; no actual workload, demand, commercial offer or new signed-project obligation.",
+  "assumption_id_prefix": "T5S-W",
+  "basis_documents": [
+    "04-table/T02-PROPOSITION-PACK.md",
+    "04-table/T02-DELIVERY-AND-VALIDATION.md",
+    "04-table/T02-delivery-map.json",
+    "04-table/T02-BUYER-USES-AND-RIGHTS.md",
+    "04-table/T04-model-design.json",
+    "04-table/T04-input-requirements.json",
+    "04-table/T05-research-cost-map.json",
+    "04-table/T05R-COST-AND-DELIVERY-REFINEMENTS.md"
+  ],
+  "task_count": 21,
+  "family_count": 9,
+  "families": [
+    {
+      "family_id": "campaign_setup",
+      "label": "Campaign setup and common operations"
+    },
+    {
+      "family_id": "sales_effort",
+      "label": "Actual sales attempts and proposals, including unsold work"
+    },
+    {
+      "family_id": "won_customer_setup",
+      "label": "Won-customer setup and additional use preparation"
+    },
+    {
+      "family_id": "partner_obligations",
+      "label": "Explicit partner obligations"
+    },
+    {
+      "family_id": "delivery_distribution",
+      "label": "Customer and free-practitioner fulfilment"
+    },
+    {
+      "family_id": "scoped_briefings",
+      "label": "Optional bounded briefing sessions"
+    },
+    {
+      "family_id": "support_corrections",
+      "label": "Bounded support and correction distribution"
+    },
+    {
+      "family_id": "finance_renewal",
+      "label": "Billing, receipt and actual renewal administration"
+    },
+    {
+      "family_id": "optional_practitioner_followthrough",
+      "label": "Optional practitioner cycle note"
+    }
+  ],
+  "effort_cases": {
+    "low": "Less complex, largely reusable task within the named unit.",
+    "working": "Middle analyst planning allowance for this task/unit.",
+    "high": "More complex within the defined unit; not a cap, forecast, confidence bound or promised service."
+  },
+  "selected_effort_case": null,
+  "hours_status": "Untimed analyst planning assumptions only; no timesheet, supplier capacity, observed conversion or empirical validation.",
+  "unit_schema": {
+    "workload_id": "Stable proposed WS01–WS21 identifier; not an existing canonical input ID.",
+    "family_id": "One of nine comparison families; families are not interchangeable quantity drivers.",
+    "unit_key": "Exact count driver; rows sharing a key must use the same count, except genuinely different scoped selection/reuse adjustments documented against the row.",
+    "planning_hours_per_unit": "Total human person-hours for one stated unit at low/working/high effort; not hours per every listed role.",
+    "unit_quantity": "Null until a deliberate scenario quantity is chosen; null is not zero.",
+    "shared_work_adjustment": "Null until exact reusable work/allocation is evidenced. If used, store asset/version/task, gross hours, actual necessary delta and allocation once.",
+    "role_split": "Null until actual performer/reviewer split is known. Sum allocated hours to total task hours; never apply full total to each role.",
+    "rate_and_cash_basis": "Unchosen; no wages or new cash implied by person-hours.",
+    "selected_scope": "Null until actual service/unit is selected. A deliberate zero or unselected task must have a basis, not silently fill a critical unknown."
+  },
+  "tasks": [
+    {
+      "workload_id": "WS01",
+      "assumption_id": "T5S-W01",
+      "family_id": "campaign_setup",
+      "task": "Reusable commercial pack and campaign readiness",
+      "unit_basis": "per_campaign",
+      "unit_key": "campaign_count",
+      "unit_definition_and_counting_rule": "One explicitly defined selling campaign using a named edition/offer. Confirm actual offered outputs, fulfilment boundaries, commercial description and reusable proposal/entitlement templates.",
+      "T02_work_ids": [
+        "DW02",
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial / service lead",
+      "planning_hours_per_unit": {
+        "low": 3,
+        "working": 6,
+        "high": 12
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "Do not recreate or reprice the complete report, its commercial preview, or initial report use-option analysis already in WR09/WR16. A second campaign reuses the asset and costs only real updating work.",
+      "existing_report_boundary_ids": [
+        "WR09",
+        "WR12",
+        "WR16",
+        "JG01",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS02",
+      "assumption_id": "T5S-W02",
+      "family_id": "campaign_setup",
+      "task": "Campaign administration, pipeline review and close",
+      "unit_basis": "per_campaign",
+      "unit_key": "campaign_count",
+      "unit_definition_and_counting_rule": "One campaign's common scheduling, pipeline status reconciliation, aggregate review and close/archive. Covers common work; individual case activity is in WS03–WS07.",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "role_requirement": "Commercial coordination",
+      "planning_hours_per_unit": {
+        "low": 2,
+        "working": 4,
+        "high": 8
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "No automatic monthly sales team, retainer, CRM purchase or annual campaign count. Distinguish common review from the same customer contact/proposal work.",
+      "existing_report_boundary_ids": [
+        "WR15",
+        "JG04"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS03",
+      "assumption_id": "T5S-W03",
+      "family_id": "sales_effort",
+      "task": "Individually handled prospect contact attempt",
+      "unit_basis": "per_contact_attempt",
+      "unit_key": "contact_attempt_count",
+      "unit_definition_and_counting_rule": "One actual individually handled approach or short follow-up attempt, including no response, decline or failed contact. Record each genuinely separate attempt; a bulk action is not many individually worked attempts.",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "role_requirement": "Commercial / relationship owner",
+      "planning_hours_per_unit": {
+        "low": 0.1,
+        "working": 0.2,
+        "high": 0.4
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "Excludes substantive meeting work in WS04 and preparation/negotiation already in WS05/WS06. Not a lead quota, permission to contact or inferred conversion funnel.",
+      "existing_report_boundary_ids": [
+        "JG02",
+        "WR04",
+        "WR05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS04",
+      "assumption_id": "T5S-W04",
+      "family_id": "sales_effort",
+      "task": "Substantive sales discussion and immediate record",
+      "unit_basis": "per_sales_discussion",
+      "unit_key": "sales_discussion_count",
+      "unit_definition_and_counting_rule": "One actual substantive commercial needs/fit discussion: relevant preparation, discussion and immediate note. Includes discussions that do not lead to a proposal or sale.",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "role_requirement": "Commercial / service lead",
+      "planning_hours_per_unit": {
+        "low": 0.75,
+        "working": 1.25,
+        "high": 2
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "T03 exploratory research is excluded. A no-show records only genuinely incurred preparation/handling, not an invented completed meeting; any real extra effort is retained in the same task record.",
+      "existing_report_boundary_ids": [
+        "WR03",
+        "WR06",
+        "WR07",
+        "JG02"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS05",
+      "assumption_id": "T5S-W05",
+      "family_id": "sales_effort",
+      "task": "Initial scoped proposal preparation",
+      "unit_basis": "per_proposal_attempt",
+      "unit_key": "proposal_attempt_count",
+      "unit_definition_and_counting_rule": "One actual initial written scoped commercial proposal for a named prospect/order, whether won, lost, declined or unanswered. Define edition/use, bundle entitlements, service preparation, price/terms to be agreed and delivery capability.",
+      "T02_work_ids": [
+        "DW03",
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial / service lead",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 6
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "One partner proposal is one attempt, not a separate licence proposal plus briefing proposal for the same combined offer. This is proposal preparation, not new research or current Table feasibility.",
+      "existing_report_boundary_ids": [
+        "WR16",
+        "JG01",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS06",
+      "assumption_id": "T5S-W06",
+      "family_id": "sales_effort",
+      "task": "Additional material proposal or negotiation round",
+      "unit_basis": "per_extra_commercial_round",
+      "unit_key": "extra_commercial_round_count",
+      "unit_definition_and_counting_rule": "One genuinely additional material negotiation/revision round beyond the initial scoped proposal work, including a failed negotiation. An ordinary document save or unchanged resend is not a round.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial / service lead",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1.5,
+        "high": 3
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "If a complete fresh proposal is counted in WS05, do not also count that same writing in WS06. Record preparation, call and revision within one round once.",
+      "existing_report_boundary_ids": [
+        "WR13",
+        "WR16",
+        "JG04"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS07",
+      "assumption_id": "T5S-W07",
+      "family_id": "won_customer_setup",
+      "task": "Won order / agreement and entitlement setup",
+      "unit_basis": "per_won_order",
+      "unit_key": "won_order_count",
+      "unit_definition_and_counting_rule": "One actually agreed customer order or partner bundle: execute/capture agreed terms, record edition/version, recipient/use/service entitlements, delivery route and responsible owner.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial administration / JGA decision owner",
+      "planning_hours_per_unit": {
+        "low": 0.75,
+        "working": 1.5,
+        "high": 3
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "Count the agreement once even if it includes a licence and briefing. Negotiation incurred before a lost order belongs in WS05/WS06. A signature/order record is not receipt of cash or completed fulfilment.",
+      "existing_report_boundary_ids": [
+        "JG05",
+        "WR15",
+        "WR16"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS08",
+      "assumption_id": "T5S-W08",
+      "family_id": "won_customer_setup",
+      "task": "Customer-specific reading path through existing research",
+      "unit_basis": "per_scoped_reading_path",
+      "unit_key": "reading_path_count",
+      "unit_definition_and_counting_rule": "One genuinely requested/scoped task-based route through the already completed full edition and existing tools. Count only actual additional preparation for this user/use.",
+      "T02_work_ids": [
+        "DW02",
+        "DW08"
+      ],
+      "role_requirement": "Research / service lead",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1.25,
+        "high": 3
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "The full free research benefit remains intact. Generic summary/preview and existing reading-path assets are reused; do not re-charge WR09/WR16 or repeat the same path because a bundle has several labels. Fresh evidence collection is outside this task.",
+      "existing_report_boundary_ids": [
+        "WR08",
+        "WR09",
+        "WR16"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS09",
+      "assumption_id": "T5S-W09",
+      "family_id": "won_customer_setup",
+      "task": "Scoped client/public-use asset preparation and context check",
+      "unit_basis": "per_scoped_use_asset_package",
+      "unit_key": "use_asset_package_count",
+      "unit_definition_and_counting_rule": "One defined asset package for an actually agreed client/public use: exact original material/version, relevant contextual/source checks, attribution and necessary adaptation/layout.",
+      "T02_work_ids": [
+        "DW02",
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Research / rights-capable editor or designer",
+      "planning_hours_per_unit": {
+        "low": 0.75,
+        "working": 2,
+        "high": 5
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "Use the existing rights review and original design from WR10/WR12. Charge only the additional permitted adaptation/check; no default third-party chart/identity/quote rights, blanket sublicence or new evidence. Multiple genuinely different agreed packages can require repeated work.",
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR12",
+        "WR16",
+        "JG03",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS10",
+      "assumption_id": "T5S-W10",
+      "family_id": "partner_obligations",
+      "task": "Partner recognition and benefit-register setup",
+      "unit_basis": "per_won_partner_bundle",
+      "unit_key": "partner_bundle_count",
+      "unit_definition_and_counting_rule": "One won partner bundle: accurately describe the funded work, agree/capture recognition and logo permissions where relevant, and record the specific benefits and delivery owner.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial / publication coordination",
+      "planning_hours_per_unit": {
+        "low": 0.75,
+        "working": 1.5,
+        "high": 3
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "If research is already commissioned/complete, do not describe it as a new commission. This task excludes the licence/briefing work counted in WS07–WS09/WS12–WS15. No contact access, seats, exclusivity, favourable conclusions or recurring reporting is presumed.",
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR12",
+        "WR16",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS11",
+      "assumption_id": "T5S-W11",
+      "family_id": "partner_obligations",
+      "task": "Explicit partner benefit fulfilment administration",
+      "unit_basis": "per_won_partner_bundle",
+      "unit_key": "partner_bundle_count",
+      "unit_definition_and_counting_rule": "One won bundle's actual explicitly agreed benefit tracking, progress/closing checks and completion record. The allowance is total person-time for the bundle's chosen scope, not one imposed checkpoint. If repeated checks are agreed, sum their genuine work and override the allowance.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial / service coordination",
+      "planning_hours_per_unit": {
+        "low": 0.25,
+        "working": 0.75,
+        "high": 1.5
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "No default monthly report or newly compulsory partner service. Reuse invoice, delivery and briefing records; do not redo the underlying work. Multiple real checks can create legitimate additional hours within the same bundle; do not remove them merely because the bundle is counted once.",
+      "existing_report_boundary_ids": [
+        "WR15",
+        "JG04",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS12",
+      "assumption_id": "T5S-W12",
+      "family_id": "delivery_distribution",
+      "task": "Full-research fulfilment delivery run",
+      "unit_basis": "per_distribution_run",
+      "unit_key": "distribution_run_count",
+      "unit_definition_and_counting_rule": "One actual prepared distribution run/batch using the named full edition and agreed route: recipient/access list handling, send/access action and basic delivery reconciliation. Paid, bundled and free practitioner copies can share the same run.",
+      "T02_work_ids": [
+        "DW05",
+        "DW08"
+      ],
+      "role_requirement": "Fulfilment coordination",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "A common batch is counted once; no second free-copy charge for the same send. An additional recipient-specific delivery action or separate run is incremental real work, not a second research-production cost. Effort depends on recipient/route complexity; override the hours when material.",
+      "existing_report_boundary_ids": [
+        "WR14",
+        "JG02",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS13",
+      "assumption_id": "T5S-W13",
+      "family_id": "scoped_briefings",
+      "task": "Scoped briefing preparation and scheduling",
+      "unit_basis": "per_scoped_briefing_session",
+      "unit_key": "briefing_session_count",
+      "unit_definition_and_counting_rule": "One actual agreed session, including a partner-bundled session: confirm audience/use/agenda, arrange it and prepare supported existing findings/material. Planning hours are total preparer/coordinator person-hours.",
+      "T02_work_ids": [
+        "DW02",
+        "DW03"
+      ],
+      "role_requirement": "Research presenter / coordination",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 6
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "No new research, unlimited inquiry or promised turnaround. Reuse a prepared briefing and count only the necessary preparation delta for a repeat audience/session. Where WS08 reading-path work is reused, credit only that exact saved task and allocate common person-time once. If an unchanged reusable preparation package supports several sessions, assign it once rather than duplicating full preparation. One joint session serving several entitled customers/partners is one session, not one per attendee or bundle.",
+      "existing_report_boundary_ids": [
+        "WR08",
+        "WR09",
+        "WR12",
+        "WR15"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS14",
+      "assumption_id": "T5S-W14",
+      "family_id": "scoped_briefings",
+      "task": "Live scoped briefing delivery",
+      "unit_basis": "per_scoped_briefing_session",
+      "unit_key": "briefing_session_count",
+      "unit_definition_and_counting_rule": "One delivered session, whether standalone or included in a partner/customer bundle. The illustrative effort cases assume 0.5/1/1.5 total presenter person-hours; actual duration × actual delivery headcount replaces that assumption when scoped.",
+      "T02_work_ids": [
+        "DW03"
+      ],
+      "role_requirement": "Research presenter",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 1.5
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "Duration/headcount are planning choices, not promised session lengths or staffing. A second necessary presenter is real additional person-time; do not multiply the same full task hours by every role. A repeat session is a real repeat unit even if preparation is reused.",
+      "existing_report_boundary_ids": [
+        "WR06",
+        "JG03"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS15",
+      "assumption_id": "T5S-W15",
+      "family_id": "scoped_briefings",
+      "task": "Bounded briefing follow-through",
+      "unit_basis": "per_scoped_briefing_session",
+      "unit_key": "briefing_session_count",
+      "unit_definition_and_counting_rule": "One session's agreed bounded follow-up: route the agreed materials, clarify supported points and capture completion/open questions within the chosen scope.",
+      "T02_work_ids": [
+        "DW03",
+        "DW08"
+      ],
+      "role_requirement": "Research presenter / service coordination",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "No general analyst inquiry desk, compliance advice, bespoke consulting, new study or recurring support is assumed. If one shared follow-up is reused for multiple sessions, allocate the common work once; genuinely different follow-up remains incremental.",
+      "existing_report_boundary_ids": [
+        "WR09",
+        "WR13",
+        "WR14"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS16",
+      "assumption_id": "T5S-W16",
+      "family_id": "support_corrections",
+      "task": "Service-case triage and routing",
+      "unit_basis": "per_service_case",
+      "unit_key": "service_case_count",
+      "unit_definition_and_counting_rule": "One actual access/use/service issue: receive, identify affected edition/entitlement, distinguish an ordinary correction from a new request, assign the appropriate owner and record status. Count the issue once, not every reply.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Service coordination / appropriate subject owner",
+      "planning_hours_per_unit": {
+        "low": 0.1,
+        "working": 0.25,
+        "high": 0.5
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "WS18 contains resolution and closing work for this same case; do not include it here. Paid, bundled and free recipients can create cases. No new support entitlement or participant form is created; fresh research/advice is outside the scope.",
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR13",
+        "WR14",
+        "JG03"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS17",
+      "assumption_id": "T5S-W17",
+      "family_id": "finance_renewal",
+      "task": "Invoice, receipt and fulfilment-status administration",
+      "unit_basis": "per_invoice_cycle",
+      "unit_key": "invoice_cycle_count",
+      "unit_definition_and_counting_rule": "One actual invoice/collection cycle: create/check invoice, routine agreed follow-up, reconcile receipt and link it to the order and fulfilment record. Count additional genuinely separate staged invoices as separate cycles only for their incremental work.",
+      "T02_work_ids": [
+        "DW08"
+      ],
+      "role_requirement": "Finance / commercial administration",
+      "planning_hours_per_unit": {
+        "low": 0.25,
+        "working": 0.75,
+        "high": 1.5
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "Invoice, cash receipt and delivery remain different statuses. Do not count invoice value and receipt as two revenues. Costs already included in supplier/package/admin fees are reconciled once. No tax/recovery/payment-platform rule is presumed.",
+      "existing_report_boundary_ids": [
+        "WR15",
+        "JG04"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS18",
+      "assumption_id": "T5S-W18",
+      "family_id": "support_corrections",
+      "task": "Service-case resolution, correction routing and close",
+      "unit_basis": "per_service_case",
+      "unit_key": "service_case_count",
+      "unit_definition_and_counting_rule": "One triaged case's reasonable existing-material response, access/entitlement fix, correction routing, necessary replacement delivery and closing record. Same case count as WS16; its distinct resolution person-time is recorded here. Additional real handling changes the hours, not the count of the same case.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Fulfilment coordination / publication owner",
+      "planning_hours_per_unit": {
+        "low": 0.25,
+        "working": 0.5,
+        "high": 1.5
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "New source/content correction, narrative revision, QA and ordinary contractual remedy stay in WR10/WR13/WR14 or the appropriate production route; this row contains only incremental customer resolution/routing/redistribution and does not create an extra fee. If several cases share a correction notice/replacement send, prepare/send it once and allocate that common work once; do not also count the same send in WS12. A separately requested new study or advisory service is not included.",
+      "existing_report_boundary_ids": [
+        "WR10",
+        "WR13",
+        "WR14",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS19",
+      "assumption_id": "T5S-W19",
+      "family_id": "finance_renewal",
+      "task": "Actually initiated renewal or expiry administration",
+      "unit_basis": "per_renewal_or_expiry_action",
+      "unit_key": "renewal_action_count",
+      "unit_definition_and_counting_rule": "One actual renewal/expiry case if a defined term or genuinely wanted next edition makes it relevant, including a renewal that does not proceed. Confirm version/entitlements/status and close or route the case.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Commercial administration",
+      "planning_hours_per_unit": {
+        "low": 0.5,
+        "working": 1,
+        "high": 2
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "No auto-renewal, subscription, annual update, future council tenure or new edition is assumed. New prospecting/proposal/research work belongs in the relevant task once; do not add a full second sales cycle here by default.",
+      "existing_report_boundary_ids": [
+        "WR01",
+        "WR16",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS20",
+      "assumption_id": "T5S-W20",
+      "family_id": "optional_practitioner_followthrough",
+      "task": "Optional short cycle follow-through note",
+      "unit_basis": "per_explicitly_scoped_cycle_note",
+      "unit_key": "cycle_note_count",
+      "unit_definition_and_counting_rule": "One separately chosen short note drawing on existing permitted material: useful takeaways, evidence limits, unresolved questions and indirect-identification review. One shared note can serve all permitted recipients.",
+      "T02_work_ids": [
+        "DW06"
+      ],
+      "role_requirement": "Research / editorial or moderation lead",
+      "planning_hours_per_unit": {
+        "low": 1.5,
+        "working": 3,
+        "high": 6
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "This T02 benefit idea is uncommitted. No promised answer to every practitioner question, monthly note, advice desk, new research or event production. Distribution uses WS12 once; the same note is not produced separately for each partner/free recipient.",
+      "existing_report_boundary_ids": [
+        "WR07",
+        "WR08",
+        "WR09",
+        "WR10"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    },
+    {
+      "workload_id": "WS21",
+      "assumption_id": "T5S-W21",
+      "family_id": "delivery_distribution",
+      "task": "Campaign fulfilment readiness and distribution-route setup",
+      "unit_basis": "per_campaign",
+      "unit_key": "campaign_count",
+      "unit_definition_and_counting_rule": "One campaign's additional customer-facing fulfilment-readiness check for its named edition/offer: confirm usable master/notice, agreed delivery/access route, recipient/entitlement handling and a practical send/check procedure. WS01 covers commercial offer assets; this row covers only delivery operation.",
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "role_requirement": "Fulfilment coordination / publication owner",
+      "planning_hours_per_unit": {
+        "low": 1,
+        "working": 2,
+        "high": 4
+      },
+      "hours_evidence_status": "untimed_analyst_effort_assumption_not_measured_or_empirically_validated",
+      "boundary_and_exclusions": "WR14 already covers final report QA and portable JGA handover; do not repeat it. Reuse an existing tested release/route and count only the genuinely necessary readiness check/update. If multiple campaigns share an unchanged configuration, allocate its setup once and retain only actual incremental checks. No new website, platform purchase or access restriction is required.",
+      "existing_report_boundary_ids": [
+        "WR14",
+        "WR15",
+        "JG05"
+      ],
+      "selected_scope": null,
+      "unit_quantity": null,
+      "selected_effort_case": null,
+      "selected_hours_per_unit": null,
+      "shared_work_adjustment": null,
+      "role_split": null,
+      "rate_and_cash_basis": null,
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false
+    }
+  ],
+  "counting_invariants": [
+    "A partner bundle is one commercial order, with explicit entitlements. Do not add its licence again to unbundled licence revenue/units; prepare/deliver its included briefing once under the total session count.",
+    "briefing_session_count includes all actually scoped/delivered sessions, both bundled and standalone, rather than only unbundled paid briefings. Record cancellation/preparation work actually incurred separately against the relevant task, without inventing a live delivery.",
+    "Sales units include lost, declined, unanswered and abandoned attempts where actual work occurred. Do not derive attempt quantities from won counts using an unmeasured conversion rate.",
+    "Count common campaign work once for a shared campaign. One actual prospect may legitimately incur contacts, discussion, proposal and negotiation work; these are different tasks, not duplicate full sales costs.",
+    "An additional discussion, proposal, delivery run, checkpoint or briefing may be legitimate repeated effort. Match actual output/date/scope and remove the same person-time, not all repeated units by name.",
+    "Free full research is preserved. Deliveries to paid, bundled and practitioner recipients can share a common run; charge shared preparation/send once and only genuine incremental extra runs/interventions. Copy count is not a research-production multiplier.",
+    "WR14 covers report final QA and portable JGA handover, not automatic future dispatch to every free or paid customer. Include customer distribution effort where genuinely required; do not charge another full handover for the same work.",
+    "Initial report research, all 21 existing WR/JG tasks, T03 exploratory research and event production remain in their correct components. This catalogue cannot remove or replace them.",
+    "Report production occurs per actual edition, not per customer or partner bundle. A requested new study or substantive new evidence edition must be separately defined and referred to the research component.",
+    "No quantity, calendar cadence, buyer/member quota, demand, conversion, fee, contact permission, supplier capacity, hire or new recurring obligation is established by this catalogue."
+  ],
+  "costing_rules": [
+    "Compute a unit task resource value only when a selected hours case/override and an appropriate selected rate or reconciled package allocation are available. Missing rates remain unavailable rather than zero.",
+    "Quantity × selected total person-hours per unit gives programme task hours only when a deliberate quantity is present. Programme total remains unavailable while applicable required quantities/rates are missing.",
+    "An explicitly selected zero quantity with a recorded reason can deactivate a task; a blank quantity or blank applicable cost is unknown.",
+    "Keep full resource valuation separate from additional cash. Already budgeted JGA salary/opportunity time does not automatically create extra payroll expenditure.",
+    "Choose/reconcile an actual supplier package or scoped task rates. Do not add the same package labour and bottom-up work or overhead twice.",
+    "Use exact recorded reuse credits once; a generic AI saving percentage or existing free article is not a verified reduction.",
+    "Amounts, taxes, supplier minimums, expenses, currency conversion and cash dates are intentionally outside this workload-only candidate file.",
+    "This catalogue does not produce numerical customer-acquisition cost (CAC), a conversion rate, sales forecast or margin. Any later measure requires actual appropriate cost scope, period and genuinely acquired-customer counts, separately evidenced."
+  ],
+  "quantity_inventory": [
+    {
+      "unit_key": "campaign_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "contact_attempt_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "sales_discussion_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "proposal_attempt_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "extra_commercial_round_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "won_order_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "reading_path_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "use_asset_package_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "partner_bundle_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "distribution_run_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "briefing_session_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "service_case_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "invoice_cycle_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "renewal_action_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    },
+    {
+      "unit_key": "cycle_note_count",
+      "quantity": null,
+      "status": "not_selected_not_zero"
+    }
+  ],
+  "current_contract": {
+    "complete_report_preserved": true,
+    "practitioner_free_full_research_preserved": true,
+    "existing_USD_1500_fee_unchanged": true,
+    "new_compulsory_scope": [],
+    "actual_new_fees": [],
+    "no_current_contract_surcharge": true
+  },
+  "actual_customers": [],
+  "actual_partner_orders": [],
+  "actual_proposals": [],
+  "actual_contacts": [],
+  "actual_briefings": [],
+  "actual_service_cases": [],
+  "actual_staffing": [],
+  "actual_timesheets": [],
+  "actual_conversion_rates": [],
+  "external_actions": [],
+  "financial_register_rows_added": 0,
+  "canonical_files_modified": false,
+  "first_workbook_modified": false,
+  "confidence": "Low as a workload prediction. Useful unit definitions and sensitivity suggestions only; validate scope, actual effort, staffing/capacity, reuse and cash basis before selecting a programme budget.",
+  "distinct_quantity_driver_count": 15
+}
+

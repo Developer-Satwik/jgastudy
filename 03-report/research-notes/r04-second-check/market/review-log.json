@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "task": "R04 second challenge: market/employer/organisation context",
+  "sources_promoted": [
+    "SC4-MKT-S01",
+    "SC4-MKT-S02"
+  ],
+  "canonical_reuse": [
+    "SRC-0078"
+  ],
+  "original_JGA_participants": 0,
+  "checks": {
+    "actual_roles_not_inferred_from_audience": true,
+    "operational_permissions_not_purchase_authority": true,
+    "formal_and_de_facto_distinct": true,
+    "public_guidance_not_private_approval_chain": true,
+    "publication_and_event_dates_distinct": true,
+    "no_market_prevalence": true,
+    "no_savings_or_supplier_quality_claim": true,
+    "no_canonical_or_client_edits": true
+  },
+  "discovery_not_promoted": [
+    {
+      "url": "https://www.cloudpay.com/resources/our-customers/datasite-global-payroll-transformation/",
+      "reason": "Earlier original body readable but required country-rollout passage not recovered; later web opens/find timed out and local403. Indexed text is insufficient to promote exact route claim."
+    },
+    {
+      "url": "https://www.cloudpay.com/resources/hr-payroll-harmony-case-study/",
+      "reason": "Named-character narrative may illustrate process but actual-employer provenance not established; not used."
+    },
+    {
+      "url": "https://uk.adp.com/resources/adp-articles-and-insights/articles/c/cost-benefit-analysis-of-in-house-vs-outsourced-payroll.aspx",
+      "reason": "General supplier article, unsupported market prevalence and model-generalisation; no new authority claim accepted."
+    },
+    {
+      "url": "https://www.reddit.com/r/Payroll/comments/1rv7n5m/client_switched_payroll_providers_midyear_and_it/",
+      "reason": "Unverified forum anecdote; discovery only."
+    }
+  ],
+  "external_actions": []
+}

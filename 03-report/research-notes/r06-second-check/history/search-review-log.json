@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Challenge R06 using the changing feasible alternatives, portable conditions and later observation boundary in one programme",
+  "queries": [
+    "payroll system project cancelled replacement audit restarted",
+    "site.gov.uk payroll re-procurement system",
+    "site.london-fire.gov.uk Cyborg2026payroll",
+    "site.london-fire.gov.uk iTrent2026go-live",
+    "site.london.gov.uk iTrent2026",
+    "site.london-fire.gov.uk HRandPayroll2026Replacement"
+  ],
+  "inspected_original_routes": [
+    "https://www.london.gov.uk/decisions/dmfd106-replacement-human-resources-and-payroll-solution",
+    "https://www.london.gov.uk/dmfd282-replacement-hr-and-payroll-system-itrent",
+    "https://www.london-fire.gov.uk/media/jrqngpy0/lfc-25-098-replacement-hr-and-payroll-system-novemberr-2025-update-signed.pdf"
+  ],
+  "screened_not_adopted": [
+    "Oxfordissue41521 ForDetermination planning context: no completed decision inferred",
+    "Aggregated tender and supplier/job listings do not establish later operational LFBresult",
+    "No documented subsequent LFB operational outcome established in targeted search; not proof no event occurred"
+  ],
+  "scope": "One selected programme,2021and2025records; forecasts remain prospective. No longitudinal market cohort or timing/prevalence estimate.",
+  "external_actions": [],
+  "pdf_skill_read": true,
+  "pdf_visual_pages_one_based": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "new_mandatory_questions": 0,
+  "new_original_practitioner_contributions": 0
+}

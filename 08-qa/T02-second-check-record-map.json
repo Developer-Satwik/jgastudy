@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-30",
+  "source_map": {
+    "TH2-S01": "SRC-0256",
+    "TC2-S01": "SRC-0257"
+  },
+  "claim_map": {
+    "TH2-C01": "CLM-0523",
+    "TH2-C02": "CLM-0524",
+    "TH2-C03": "CLM-0525",
+    "TM2-C01": "CLM-0526",
+    "TM2-C02": "CLM-0527",
+    "TM2-C03": "CLM-0528",
+    "TC2-C01": "CLM-0529",
+    "TC2-C02": "CLM-0530",
+    "TC2-C03": "CLM-0531",
+    "TR2-C01": "CLM-0532",
+    "TR2-C02": "CLM-0533"
+  },
+  "new_source_routes": 2,
+  "new_claim_records": 11,
+  "canonical_sources": 225,
+  "canonical_claims": 443,
+  "folders": [
+    "history",
+    "market",
+    "competitors",
+    "root"
+  ],
+  "commercial_validation": false,
+  "participant_observations": 0,
+  "financial_inputs_added": 0
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_parent_review",
+  "source_candidates": 7,
+  "claim_candidates": 8,
+  "original_html_retained_and_hash_checked": 7,
+  "publication_approved": false,
+  "api_or_customer_system_tests": 0,
+  "external_actions": [],
+  "canonical_files_modified": false,
+  "client_files_modified": false,
+  "exclusions": [
+    "JavaScript-only Xero UK overview/employee reader bodies not used",
+    "Australian payroll technical details not transferred to UK",
+    "Indexed Xero webhook body not used for current UK coverage",
+    "No unsupported async general-availability claim; beta notices retained"
+  ],
+  "freshness_note": "Retained live Staffology metadata differs from cached web-reader date headers; retained body dates used."
+}

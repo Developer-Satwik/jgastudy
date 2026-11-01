@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-30",
+  "status": "second_challenge_reviewed_for_internal_design",
+  "first_pass_preserved": true,
+  "selected_model_ids": [
+    "T01-M01",
+    "T01-M02",
+    "T01-M03",
+    "T01-M04",
+    "T01-M05",
+    "T01-M06"
+  ],
+  "model_changes": [
+    {
+      "model_id": "T01-M01",
+      "refinement": "Dated custom-research, recruitment and reader-access statements do not establish one evolving current offer. Sponsor-marked output is a separate observation.",
+      "transfer_limit": "Offer chronology is not a price/evolution or retention study.",
+      "claim_ids": [
+        "CLM-0502",
+        "CLM-0506"
+      ]
+    },
+    {
+      "model_id": "T01-M02",
+      "refinement": "Research users and provider promotional licensees purchase different uses. Any practitioner-free and employer-paid overlap must be resolved in the actual Table bundle.",
+      "transfer_limit": "No import of analyst ratings, licence terms or achieved subscription economics.",
+      "claim_ids": [
+        "CLM-0506",
+        "CLM-0522"
+      ]
+    },
+    {
+      "model_id": "T01-M03",
+      "refinement": "TPC renewal/access terms distinguish a contract mechanism from actual paid/useful continuation, with person/organisation/period boundaries. IPASS and GPA add geographic/task alternatives.",
+      "transfer_limit": "Do not copy auto-renewal, new terms or unlike prices into JGA.",
+      "claim_ids": [
+        "CLM-0504",
+        "CLM-0505",
+        "CLM-0510",
+        "CLM-0501"
+      ]
+    },
+    {
+      "model_id": "T01-M04",
+      "refinement": "Keep research and peer layers distinct; any use of Chatham House language needs a specified meeting/output mode.",
+      "transfer_limit": "No automatic research licence, identifiable publication, recording or meeting-attendance publicity.",
+      "claim_ids": [
+        "CLM-0518",
+        "CLM-0519",
+        "CLM-0522"
+      ]
+    },
+    {
+      "model_id": "T01-M05",
+      "refinement": "CPO’s dated origins, forum and later issues show separate outputs. A May 2026 summit retrospective names Nick as moderator. This is public involvement, not Table access or a partnership agreement.",
+      "transfer_limit": "No same-member retention, formal collaboration, endorsement or free forum access inferred.",
+      "claim_ids": [
+        "CLM-0498",
+        "CLM-0499",
+        "CLM-0500",
+        "CLM-0503"
+      ]
+    },
+    {
+      "model_id": "T01-M06",
+      "refinement": "Keep an event’s approved audience, commercial inventory, research fit, funding and delivery prerequisites distinct. Employer hospitality conditions can constrain who can attend.",
+      "transfer_limit": "Announced London event remains forthcoming on review; no actual attendance, funding timing or JGA sponsor conversion inferred.",
+      "claim_ids": [
+        "CLM-0508",
+        "CLM-0509",
+        "CLM-0520",
+        "CLM-0521"
+      ]
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "TC01",
+      "name": "Actual use and free/paid entitlement",
+      "question": "Who uses the output for which actual decision, and what additional service or use right is being purchased?",
+      "application": "Distinguish employer reading, supplier marketing, adviser client work and the research already promised free to contributors. Define incremental value and count the same entitlement once.",
+      "counterexample": "A contributor receives the report free, then the model assumes their employer buys equivalent access as a separate licence.",
+      "claim_ids": [
+        "CLM-0506",
+        "CLM-0515",
+        "CLM-0522"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "TC02",
+      "name": "Specific relationship and role",
+      "question": "Is this organisation a source, substitute, public collaborator, distributor, service buyer or proposed funder in this particular exchange?",
+      "application": "Use Nick’s documented moderator role and existing recruiter content/events as context. Verify a proposed current relationship or right separately; do not pre-fill a sponsor list.",
+      "counterexample": "A public panel role becomes assumed audience access or a Table partnership, or all six recruiter comparators are treated as paying research prospects.",
+      "claim_ids": [
+        "CLM-0500",
+        "CLM-0511",
+        "CLM-0512",
+        "CLM-0513",
+        "CLM-0514",
+        "CLM-0515"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "TC03",
+      "name": "Programme, cohort and entitlement lifecycle",
+      "question": "Which dated output, cohort, member role and access period are actually observed or agreed?",
+      "application": "Separate a series of publications, an announced event, actual participation, contractual renewal, payment and useful continued engagement. Handle changed role/employer/period proportionately.",
+      "counterexample": "Four different event cohorts become a longitudinal panel, or an auto-renewal clause becomes evidence of achieved retention.",
+      "claim_ids": [
+        "CLM-0498",
+        "CLM-0499",
+        "CLM-0501",
+        "CLM-0502",
+        "CLM-0503",
+        "CLM-0510"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "TC04",
+      "name": "Decision geography, alternatives and permitted participation",
+      "question": "What country/operating scope and decision need does this user have, and can the relevant person participate in this format?",
+      "application": "Compare actual UK/Irish/global support and public/internal alternatives. Event city alone does not determine research need. Separate eligible practitioner, permitted hospitality and useful research contribution.",
+      "counterexample": "Dublin attendance interest becomes demand for global research; a person unable to accept hospitality is assumed irrelevant to remote or written research.",
+      "claim_ids": [
+        "CLM-0504",
+        "CLM-0505",
+        "CLM-0507",
+        "CLM-0508",
+        "CLM-0520",
+        "CLM-0521"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "TC05",
+      "name": "Meeting mode, recognition and publication",
+      "question": "What meeting rule applies, and what specific recognition, research use or publication has been permitted?",
+      "application": "If adopting the named Chatham House Rule, follow its current definition/FAQ. Do not treat optional recording permission or council recognition as permission to record a Rule meeting, identify attendance or attribute others’ comments.",
+      "counterexample": "A consent checkbox silently overrides a no-recording meeting mode, or optional council recognition becomes an attendee list linked to a private remark.",
+      "claim_ids": [
+        "CLM-0518",
+        "CLM-0519"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    },
+    {
+      "condition_id": "TC06",
+      "name": "Delivery-ready value, funds and attribution",
+      "question": "Are the required evidence, people, rights, service capacity and cash available for the benefit actually promised?",
+      "application": "Separate research and commercial-access benefits where combined. Preserve research/member fit beside funder targeting. Model direct licence revenue, servicing/distribution value and event increment separately without invented conversion or cash timing.",
+      "counterexample": "Sponsor interest or payment is treated as proof that a permissioned report, relevant peer group and promised meetings are deliverable.",
+      "claim_ids": [
+        "CLM-0508",
+        "CLM-0509",
+        "CLM-0516",
+        "CLM-0517",
+        "CLM-0522"
+      ],
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_core_questions": 0
+    }
+  ],
+  "original_T02_hypothesis_ids": [
+    "T02-H01",
+    "T02-H02",
+    "T02-H03",
+    "T02-H04"
+  ],
+  "hypotheses_replaced": false,
+  "additional_mandatory_questions": 0,
+  "ranking": false,
+  "commercial_validation": false,
+  "participant_observations": [],
+  "actual_Table_conversations": [],
+  "financial_inputs": [],
+  "new_price_recommendations": [],
+  "prior_model_reruns": false,
+  "prior_recommendation_counts_reused": false,
+  "review_basis": "08-qa/T01-second-check-independent-review.md;1168 independent integrated checks and173rootchecks across9constructed applications. Not empirical validation or final publication approval."
+}

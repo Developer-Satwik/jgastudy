@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-01",
+  "status": "prepared_cash_timing_and_remaining_unit_component_full_programme_pending",
+  "component_id": "T05C-cash-and-obligations",
+  "perspective": "JGA future research/event programme; current Riseklix commission is separate investment context",
+  "route_options": [
+    "A research only",
+    "B with events"
+  ],
+  "default_route": "A",
+  "monthly_capacity": 12,
+  "default_display_months": 12,
+  "cash_leg_capacity": 40,
+  "obligation_capacity": 24,
+  "row_capacities_are_not_activity_forecasts": true,
+  "start_month": null,
+  "opening_cash_gbp": null,
+  "cash_coverage_confirmed": null,
+  "obligation_coverage_confirmed": null,
+  "cash_legs": [],
+  "obligations": [],
+  "foreign_fx_inputs": [],
+  "actual_bank_reconciliation": false,
+  "current_commission_context": {
+    "currency": "USD",
+    "total_fee": 1500,
+    "report_allocation": 1000,
+    "table_allocation": 500,
+    "upfront": 750,
+    "balance": 750,
+    "balance_trigger": "Satisfactory completion and written acceptance under the agreement",
+    "signature_status": "user_reported_signed",
+    "upfront_status": "user_reported_received_and_supplied_email_acknowledgement",
+    "payment_system_independently_checked": false
+  },
+  "private_context_provenance": [
+    {
+      "role": "working_agreement_text",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-agreement-2026-10-27/agreement-text.txt",
+      "sha256": "9857c3f68c6655462a0eb47c03348751924d02235492facad511c9f108f418c0",
+      "independently_verified_executed_contract_or_bank_record": false
+    },
+    {
+      "role": "supplied_payment_acknowledgement",
+      "path": "/Users/satwikkumar/.codex/attachments/733ae05b-08c5-41f6-a5f3-3ce9a9d1a435/Pasted text.txt",
+      "sha256": "fc9407b9b26030af7b863967c85f633fdbf25cc7f6e15bff163ac04905025c79",
+      "independently_verified_executed_contract_or_bank_record": false
+    }
+  ],
+  "commission_is_not_sponsorship_income": true,
+  "conditional_balance_not_scheduled_automatically": true,
+  "views": [
+    "monthly opening, receipts, payments, net and closing cash",
+    "peak additional funding on daily-end basis",
+    "separate same-day payments-first funding stress",
+    "typed remaining units, timing and expiry review",
+    "separate original-currency current commission context"
+  ],
+  "integration_requirements": [
+    "Link each receipt/payment to its order/booking/source without counting deposits twice.",
+    "Keep forecast or reported cash status and source separate; no probability assigned.",
+    "Opening cash includes prior-period legs; do not replay them in the selected horizon.",
+    "Reconcile applicable gross cash, charges, refund and credit terms separately from economic cost.",
+    "Use explicit GBP per original-currency-unit factor/date/basis; fees are additional legs if not included.",
+    "Carry timed/triggered/unknown unfulfilled benefits and work beyond the horizon.",
+    "Join remaining work to actual skill/rate/capacity and avoid package/reuse duplication.",
+    "Check intraday payment ability and readiness before any commitment, not only positive period-end cash.",
+    "The full matched A/B pilot/annual cost/revenue/scenario model is still a separate build."
+  ],
+  "source_ids": [
+    "SRC-0296",
+    "SRC-0297",
+    "SRC-0298",
+    "SRC-0248"
+  ],
+  "claim_ids": [
+    "CLM-0628",
+    "CLM-0629",
+    "CLM-0630",
+    "CLM-0631",
+    "CLM-0632",
+    "CLM-0633",
+    "CLM-0634",
+    "CLM-0635"
+  ],
+  "shared_financial_register_extended": false,
+  "shared_financial_inputs_preserved": 70,
+  "prior_three_workbooks_changed": false,
+  "new_actual_orders_or_quotes": [],
+  "external_actions": [],
+  "fieldwork_activated": false,
+  "current_contract_fee_changed": false,
+  "fourteen_core_questions_unchanged": true,
+  "practitioner_free_full_research_preserved": true,
+  "full_financial_model_complete": false,
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/Cash timing and obligations.xlsx",
+  "workbook_qa_path": "08-qa/t05c-workbook/verification.json",
+  "component_review_path": "08-qa/t05c-review/verification.json"
+}

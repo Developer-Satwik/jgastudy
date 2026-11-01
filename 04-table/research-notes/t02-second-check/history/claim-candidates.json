@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "TH2-C01",
+      "canonical_source_ids": [
+        "SRC-0227",
+        "SRC-0229"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "An edition date, the dates or versions of evidence assessed, and the period or date of a service interaction describe different objects. The ISG annual-access offer and dated Global Payroll2025 assessment illustrate this separation. For a Table edition-context briefing, identify which edition/evidence period is being discussed; a later briefing date does not by itself make the underlying evidence current.",
+      "evidence_class": "researcher_publication_evidence_service_time_condition",
+      "locator": "ISG227 parsed lines119–126; ISG229 heading lines113–114 and Products Evaluated dates/versions at209–237; analyst application to TP01–TP03",
+      "limitations": "No universal expiry date, mandatory refresh cadence, annual JGA subscription, product suitability today or extra briefing fee is inferred. Actual relevant source/case periods still govern applicability. This does not require a separate dated field for every sentence.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "TH2-C02",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "TH2-S01"
+      ],
+      "claim_text": "ONS distinguishes correction of a published mistake from revision using improved methods or information unavailable at first publication. This is a useful change-reason distinction for a research edition, without importing ONS procedures into the JGA project.",
+      "evidence_class": "bounded_official_publisher_method_analogy",
+      "locator": "ONS policy sections1,3 and4; retained numbered text lines76–100",
+      "limitations": "ONS statistics-policy analogy only, not a JGA legal standard, payroll finding or statement that a current error exists. No ONS timetable, exceptions, index methods or thresholds adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "TH2-C03",
+      "canonical_source_ids": [],
+      "source_candidate_ids": [
+        "TH2-S01"
+      ],
+      "claim_text": "For the proposed Table offers, classify a requested change by reason and effect before describing it as an update or extra service: fix an error or scope defect under the current agreement, assess genuinely later evidence/method work separately, and keep a new user task distinct from both. Preserve the edition/change history and what users received. Genuine expanded work can be scoped only through the actual agreement; no change is automatically chargeable.",
+      "evidence_class": "researcher_offer_change_reason_and_contract_boundary_condition",
+      "locator": "Analytical application of ONS sections1,3–4; current working agreement section6 defect-remedy and written-change clauses as internal design constraint",
+      "limitations": "No amendment of current contract, unilateral fee, arbitrary support period, future SLA, retrospective rights change or adoption of an ONS release regime. Current correction obligations remain; the analysis does not classify an actual customer request or add work to the project.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S01.html",
+      "sha256": "7b16a7cc2595cbfdf28371c995fb353627a220c8435ccc26d525bbed1116fa5d"
+    },
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S02.html",
+      "sha256": "8741d29b4e0c11d39b440c9244e1229e74d6afb42fdf367106d5ae1b3d7165ed"
+    },
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S03.html",
+      "sha256": "4618a3def807a7554fac6f386aa58a70f7e78350b251377747e12da713148552"
+    },
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S04.html",
+      "sha256": "23b3a8d4577961ba2f8c620b4e3a75df0cfbf3562f6e09e17807e2a0cf5f856e"
+    },
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S05.html",
+      "sha256": "6a33a8ed4b2a9eca2cba9a56c1360312c10e0f4d927dc5eb97017c1625e26fca"
+    },
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S06.html",
+      "sha256": "fabc0ee479d8409aa30263e8eb24773384e3f6ade7c4fc4ef33481745de6e3af"
+    },
+    {
+      "path": "03-report/research-notes/r03/integration/INT-S07.html",
+      "sha256": "ed524c66bdd81a64ef416a18ea12a90d347b0ba288367e1dc838992a82c1f2d3"
+    },
+    {
+      "path": "03-report/research-notes/r03/delivery/DEL-S01.html",
+      "sha256": "44f6c00c158e7f9d74fde28eee4a5093614b985e67733a73a7a1823cd5170346"
+    },
+    {
+      "path": "03-report/research-notes/r03/delivery/DEL-S02.html",
+      "sha256": "26402df6876e016044d6e49cb25f54e411146b675b95aa21d51154bd0f17761f"
+    },
+    {
+      "path": "03-report/research-notes/r03/delivery/DEL-S03.html",
+      "sha256": "53f6b8d4f41524b44061437baebcce3f6382c2fb34d007c90dddb54070d55cfb"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/fourth-definition-2026.pdf",
+      "sha256": "1303d84fc8ae65afd91927e336d5e3ac4bb94a62606ad6d3f8963e2a1a7ccb6a"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/phase3-gcloud14.html",
+      "sha256": "c5cf1881741877b6934c3a3362cc9562b868938d3a018b58496953087ae9845b"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/phase3-definition-2021-22.pdf",
+      "sha256": "e76118bec938e7b01bc5de6699f66cbd025d18cffbb517d0ca7103205756c2dd"
+    },
+    {
+      "path": "03-report/research-notes/r02-second-check/competitors/COMP-S09.html",
+      "sha256": "72a3900c7d50ade25f25b691651a3e705f2a88bb04290cf35b3e772b7d4c5897"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/parliament-accounts-2024-25.pdf",
+      "sha256": "777ffd7fada746264986c6bb431c7355487867f0f601677c9d00ae6fd524a511"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/sg-closure-post-implementation.html",
+      "sha256": "018b140ffdcb8fafb846bf7c8f432657f04bdb3246668b2dee4c8562fb9f93bc"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/sg-closure-benefits.html",
+      "sha256": "748671f452846dd19858b41425ed23636949c02491d72f0a95423d4f97290251"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/sg-closure-appendices.html",
+      "sha256": "f43c0c04dff9037a2ea826c3f2f14c44c0caed016efa449b121e9ac389ac241f"
+    },
+    {
+      "path": "03-report/research-notes/r03/root/AI-S01.html",
+      "sha256": "8dde7f7348c18814d5fab06022e55673a3ce821a0681bc193dacd958fcfd1b2c"
+    },
+    {
+      "path": "03-report/research-notes/r03/root/AI-S02.html",
+      "sha256": "c373aee02afbaaf4dcc9d5ee32d5f1ef54f5348f503e1d77edbf3a4e455f8706"
+    }
+  ]
+}

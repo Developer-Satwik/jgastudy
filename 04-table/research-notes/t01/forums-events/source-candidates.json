@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "status": "candidate_records_only",
+  "canonical_register_merged": false,
+  "records": [
+    {
+      "source_id": "T1FE-S01",
+      "candidate_id": "T1FE-S01",
+      "title": "About CPO",
+      "publisher": "PayrollOrg / CPO",
+      "url": "https://cpo.org/about/",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Current public explanation of the CPO editorial/forum offer; undated.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/cpo-about.html",
+      "capture_sha256": "3f2cf52c4e43c4746b2a5a77d6bdc76b88e4e974ebbbdfcef3f476e6b5262c8d",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/cpo-about.parsed.txt",
+          "sha256": "9c9499eafe0c3d7304e36584b906e24a554a1d787e69d1479552225dc05eccbf",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Current public explanation of the CPO editorial/forum offer; undated.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S02",
+      "candidate_id": "T1FE-S02",
+      "title": "Forum Helps Communicate Payroll’s Value at Executive Level",
+      "publisher": "PayrollOrg / CPO",
+      "url": "https://cpo.org/forum-helps-communicate-payrolls-value-at-executive-level/",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": "2026-01-12",
+      "accessed_on": "2026-10-29",
+      "date_note": "Dated public editorial account of CPO Forum; launch date is reported retrospectively, not direct fieldwork.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/cpo-forum-review.html",
+      "capture_sha256": "b7728b514baaf7535cce5cc6989f4efee882e994e9154b6081da270384451099",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/cpo-forum-review.parsed.txt",
+          "sha256": "48624ede63e53a83edb1f86587b920c636a29c3d44e7cb1856cb43760ebd1c93",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Dated public editorial account of CPO Forum; launch date is reported retrospectively, not direct fieldwork.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S03",
+      "candidate_id": "T1FE-S03",
+      "title": "Subscribe to CPO",
+      "publisher": "PayrollOrg",
+      "url": "https://pages.payroll.org/subscribe-to-cpo",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Current subscription landing page; no publication/update date displayed.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/cpo-subscribe.html",
+      "capture_sha256": "c122006d80c05afe83a55f3d42d3745cf02b1821a9fa10949ed403deeba36559",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/cpo-subscribe.parsed.txt",
+          "sha256": "807929dcff584d10007d63eab1bd59bf1ab6f0315a283a4f11893bf47959ee7c",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Current subscription landing page; no publication/update date displayed.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S04",
+      "candidate_id": "T1FE-S04",
+      "title": "The Payroll Community Terms and Conditions and Etiquette Policy",
+      "publisher": "PayrollOrg",
+      "url": "https://community.payroll.org/get-started/termsandconditions",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": "2025-10-02",
+      "accessed_on": "2026-10-29",
+      "date_note": "Page explicitly states updated 2 October 2025; broader community terms, not a bespoke confidential research consent.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/payroll-community-terms.html",
+      "capture_sha256": "5ff5ef51f6f93b76201127b2424b3ec3efe24303f9988e8756ba12290fd2b64f",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/payroll-community-terms.parsed.txt",
+          "sha256": "c49e1857d345ceb1596ef75c4c4dded60a68f42572c4ffd67bf7571d3a128e5e",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Page explicitly states updated 2 October 2025; broader community terms, not a bespoke confidential research consent.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S05",
+      "candidate_id": "T1FE-S05",
+      "title": "Learning Futures London, Executive Knowledge Exchange, 17–18 November 2026",
+      "publisher": "iVentiv",
+      "url": "https://www.iventiv.com/events/learning-futures/learning-futures-london-executive-knowledge-exchange-2026",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Future event as of review: advertised for 17–18 November 2026. Announced roles/attendance are not evidence the event has happened.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/iventiv-london-2026.html",
+      "capture_sha256": "0537a342dbf722b2a540944267e2fb1f4fb4baed873bf5126861bec60250213d",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/iventiv-london-2026.parsed.txt",
+          "sha256": "dac30ead125fa2d83f7d25ce9b279e7c8305fa7f701a2e3c6311b6b5b1a5788c",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Future event as of review: advertised for 17–18 November 2026. Announced roles/attendance are not evidence the event has happened.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S06",
+      "candidate_id": "T1FE-S06",
+      "title": "How can we help? FAQs",
+      "publisher": "iVentiv",
+      "url": "https://www.iventiv.com/how-can-we-help",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Current public FAQ; some cumulative history text differs from other pages, so no cumulative results used.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/iventiv-faq.html",
+      "capture_sha256": "2d6e000c7a576f8dd788010cc4bc9c0770fb86e7cca756a938138f1ee4b85229",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/iventiv-faq.parsed.txt",
+          "sha256": "8db095f5be395f531f5ce9fb7cfc1c0d67f5364d3654eeeceb91ec5141e72aaf",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Current public FAQ; some cumulative history text differs from other pages, so no cumulative results used.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S07",
+      "candidate_id": "T1FE-S07",
+      "title": "Sponsors: Business Development, Plenary Session and Annual Sponsorship packages",
+      "publisher": "iVentiv",
+      "url": "https://www.iventiv.com/sponsors",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Live original HTML differs from search-reader cached rendering: use captured live package text. No public money price displayed.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/iventiv-sponsors.html",
+      "capture_sha256": "e2149dbc7df5df7f5cf7f0884d2b21a59e0fdaca64ab6dfc3e168fd6a344bd37",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/iventiv-sponsors.parsed.txt",
+          "sha256": "7a4451a5186a2a2daf3c415e3642a9e81fed3ff7a1647d909d9d7d1db83e6089",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Live original HTML differs from search-reader cached rendering: use captured live package text. No public money price displayed.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S08",
+      "candidate_id": "T1FE-S08",
+      "title": "Privacy Policy",
+      "publisher": "iVentiv",
+      "url": "https://www.iventiv.com/privacy-policy",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Public privacy policy; no version date visible. Registration choices and local applicability not tested.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/iventiv-privacy.html",
+      "capture_sha256": "9051c15cac3a80c37e4c9ea7e5aca9a08d6d88d62e4db5772e96c853736f137f",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/iventiv-privacy.parsed.txt",
+          "sha256": "4ce7a246270782ad7bf6e8ae9492bd6010f69edec659d4c5d55339b209e2b141",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Public privacy policy; no version date visible. Registration choices and local applicability not tested.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S09",
+      "candidate_id": "T1FE-S09",
+      "title": "Event Terms and Conditions",
+      "publisher": "iVentiv",
+      "url": "https://www.iventiv.com/terms-and-conditions",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Generic event terms contain both 21-day and 14-day payment language; cannot establish actual London sponsor contract terms.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/iventiv-event-terms.html",
+      "capture_sha256": "ca01f21d2c5cfcba00c2edefb0361c87a56619bd325d86424f6e7071d30bf8d6",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/iventiv-event-terms.parsed.txt",
+          "sha256": "f9e83b726f93de31494f863bb459b83004d1e0861a54a4d90b1199f57d2e792d",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Generic event terms contain both 21-day and 14-day payment language; cannot establish actual London sponsor contract terms.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    },
+    {
+      "source_id": "T1FE-S10",
+      "candidate_id": "T1FE-S10",
+      "title": "CPO Home Page: public shell of The Payroll Community",
+      "publisher": "PayrollOrg",
+      "url": "https://community.payroll.org/communities/cpo-home?CommunityKey=4b200b82-c712-424b-b25d-0198420667fc",
+      "source_type": "primary_organizer_public_html",
+      "publication_date": null,
+      "accessed_on": "2026-10-29",
+      "date_note": "Public shell checked; announcements require authentication. No private posts accessed or activity ranking interpreted.",
+      "population": "Advertised participants/subscribers; not a sampled population or achieved headcount",
+      "method": "Public desktop review of organizer offer, terms and visible public editorial examples; original HTML captured separately from numbered parsed text",
+      "funding": "Publisher/organizer describing its own offer; iVentiv discloses partner-supported free participation. No financial results audited.",
+      "review_status": "reviewed_original_html_and_separate_parsed_text",
+      "capture_path": "04-table/research-notes/t01/forums-events/captures/cpo-community-home.html",
+      "capture_sha256": "22214727aa4bd94c2bfbf092397f8a2a934459d867c258ac428f88bfccc70607",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/forums-events/captures/cpo-community-home.parsed.txt",
+          "sha256": "e0a34d67426bf4062cbfad4ba18629fad3e2c55d7561168a2522d1ee3f19d30c",
+          "kind": "derived_numbered_text_not_original"
+        }
+      ],
+      "limitations": [
+        "Public shell checked; announcements require authentication. No private posts accessed or activity ranking interpreted.",
+        "No signup, member access, sponsor enquiry, contract or purchase; commercial performance unverified."
+      ],
+      "reuse_status": "Private research retention only; redistribution/publication rights not established",
+      "publication_status": "candidate_for_parent_review_not_final"
+    }
+  ]
+}

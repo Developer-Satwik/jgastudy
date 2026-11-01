@@ -1,0 +1,13 @@
+{
+  "candidate_id": "T4E-S04",
+  "url": "https://benaresrestaurant.com/wp-content/uploads/2026/01/Benares-Events-Guide-2026-WEB.pdf",
+  "final_url": "https://benaresrestaurant.com/wp-content/uploads/2026/01/Benares-Events-Guide-2026-WEB.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-10-30T11:44:38.580672+00:00",
+  "capture_path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.pdf",
+  "capture_sha256": "366d9d28932a76b071d1d9d79c66069abe38c26c78dd22253a7cbdd31e5f0efb",
+  "capture_kind": "retained_original_pdf",
+  "parsed_path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.txt",
+  "parsed_sha256": "4a456275862f888428356195d31d765811782a77435f97e7a29f60725797f890",
+  "pdf_pages": 9
+}

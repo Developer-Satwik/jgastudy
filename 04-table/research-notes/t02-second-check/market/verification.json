@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_for_root_integration_not_independent_review",
+  "check_count": 23,
+  "checks": [
+    {
+      "name": "canonical reuse resolves SRC-0003",
+      "passed": true
+    },
+    {
+      "name": "rawHTTP200 SRC-0003",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0003.html",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0003.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "rawHTTP200 SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0227.html",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0227.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves SRC-0229",
+      "passed": true
+    },
+    {
+      "name": "rawHTTP200 SRC-0229",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0229.html",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0229.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "canonical reuse resolves SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "rawHTTP200 SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0246.html",
+      "passed": true
+    },
+    {
+      "name": "exact file hash 04-table/research-notes/t02-second-check/market/captures/SRC-0246.parsed.txt",
+      "passed": true
+    },
+    {
+      "name": "bounded linked nonnumeric claim TM2-C01",
+      "passed": true
+    },
+    {
+      "name": "bounded linked nonnumeric claim TM2-C02",
+      "passed": true
+    },
+    {
+      "name": "bounded linked nonnumeric claim TM2-C03",
+      "passed": true
+    },
+    {
+      "name": "three focused claims/conditions, no quota expansion",
+      "passed": true
+    },
+    {
+      "name": "conditions selective and nonvalidated",
+      "passed": true
+    },
+    {
+      "name": "analyst note remains blank",
+      "passed": true
+    },
+    {
+      "name": "financial inputs remain empty",
+      "passed": true
+    }
+  ],
+  "new_source_routes": 0,
+  "canonical_reuses": 4,
+  "new_bounded_claim_candidates": 3,
+  "actual_conversations": 0,
+  "financial_inputs_added": 0,
+  "core_questions_added": 0,
+  "external_actions": false,
+  "scope": "Integrity and scope of this author pack only; not validation of the research product or market."
+}

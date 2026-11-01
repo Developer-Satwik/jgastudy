@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-10-28",
+  "timezone": "Asia/Kolkata",
+  "project": "JGA Payroll Investment and Transformation Report 2027 and The Table",
+  "agreement_reference": "RKLX JGA 2027 01",
+  "commercial": {
+    "currency": "USD",
+    "total_fee": 1500,
+    "report_allocation": 1000,
+    "table_allocation": 500,
+    "upfront": 750,
+    "balance": 750,
+    "balance_trigger": "Satisfactory completion and written acceptance under the agreement",
+    "signature_status": "user_reported_signed",
+    "upfront_status": "user_reported_received_and_supplied_email_acknowledgement",
+    "payment_system_independently_checked": false
+  },
+  "documents": {
+    "working_agreement": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-agreement-2026-10-27/JGA Payroll Research Agreement.pdf",
+    "agreement_text": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-agreement-2026-10-27/agreement-text.txt",
+    "executed_copy_local_path": null,
+    "signature_audit_record_path": null,
+    "payment_acknowledgement_source": "/Users/satwikkumar/.codex/attachments/733ae05b-08c5-41f6-a5f3-3ce9a9d1a435/Pasted text.txt"
+  },
+  "timing": {
+    "desktop_work_started_on": "2026-10-28",
+    "formal_kickoff_date": null,
+    "first_week_checkpoint_date": null,
+    "completion_target_date": null,
+    "working_target": "Three working weeks from agreed kickoff, subject to access and feedback",
+    "revision": "One consolidated editorial revision; scope/factual/technical corrections separate"
+  },
+  "research": {
+    "edition": "2027 outlook; retain actual evidence and fieldwork dates",
+    "practitioner_target_min": 6,
+    "practitioner_target_max": 10,
+    "table_conversations_max": 4,
+    "table_conversation_mix": "Ideally two commercial buyers and two prospective council members",
+    "overlap": "Eligible and permissioned practitioner/council contributions may overlap; count each person once",
+    "comparables": 6,
+    "primary_population": "Proposed UK-relevant senior employer-side payroll decision-makers, pending client review",
+    "primary_population_approved": false,
+    "representative_survey": false,
+    "validated_confidence_index": false
+  },
+  "superseded": [
+    "Four conversations total across both workstreams",
+    "Podcast/video work in this engagement",
+    "US$750 allocation for The Table",
+    "Earlier article package or 4–6-page evidence briefing as substitute for finished report",
+    "Earlier AI-prompt benchmark workload"
+  ],
+  "external_actions_this_pass": []
+}

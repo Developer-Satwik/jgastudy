@@ -1,0 +1,7 @@
+Selected original-page reader fragments, not a complete downloaded original.
+Original: https://publications.parliament.uk/pa/cm201617/cmselect/cmpubacc/297/29706.htm
+Reviewed 29 October 2026 through web reader, turn512view0 / turn517view0.
+Paragraph4, web line18: “departments signed individual call-off contracts with the suppliers.”
+Paragraph16, web line39: “did not have a clear mandate to act on behalf of customers.”
+Relevant additional original-body locators inspected: paragraph6/webline23; paragraph16/webline39.
+Local raw request returned403; no complete source-original hash is asserted.

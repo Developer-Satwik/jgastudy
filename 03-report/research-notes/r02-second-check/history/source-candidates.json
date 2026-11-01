@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "HIS-S01",
+      "title": "Real Time Information programme: post implementation review report",
+      "publisher": "HM Revenue and Customs",
+      "url": "https://assets.publishing.service.gov.uk/media/5a821899e5274a2e8ab5778f/Real_Time_Information_programme_-_post_implementation_review_report.pdf",
+      "landing_url": "https://www.gov.uk/government/publications/real-time-information-programme-post-implementation-review",
+      "published_date": "2017-12-07",
+      "source_type": "official_historical_programme_review",
+      "review_status": "relevant_original_sections_inspected_and_selected_page_rendered",
+      "locator": "Executive summary printed pp3\u20135; RTI performance printed pp11\u201313; methods/context printed pp6\u20137",
+      "population": "UK RTI programme and stakeholders, not a representative contemporary payroll needs sample",
+      "sample_size": null,
+      "fieldwork_period": "Programme closed 2015; review describes implementation and 2016\u20132017 evidence; publication 7 December 2017",
+      "funding_or_commercial_interest": "HMRC self-review; internal and external stakeholder inputs",
+      "limitations": "Historical self-evaluation. Do not treat monetary benefits as a current employer ROI benchmark or selected stakeholder feedback as prevalence. Improvement and persistent exception work coexist. No trendline to CIPP selected cases.",
+      "capture_path": "03-report/research-notes/r02-second-check/history/hmrc-rti-2017.pdf",
+      "capture_sha256": "61ad0997641db5449265920d505317aae9854d3c8c8cd8056ca062f508e72073",
+      "accessed_on": "2026-10-28",
+      "reuse_status": "Retained for private verification; final reproduction/rights review outstanding",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "HIS-S02",
+      "title": "Systemic issues in HMRC Real Time Information data collection and customer experience when seeking resolution",
+      "publisher": "Chartered Institute of Payroll Professionals",
+      "url": "https://www.cipp.org.uk/asset/BD7F9AF1-A3BB-4699-8B40DC22737A089E/",
+      "landing_url": "https://www.cipp.org.uk/resources/policy-report/systemic-issues-in-hmrc-rti-data-collection.html",
+      "published_date": "2025-02-28",
+      "date_note": "Date established by publisher release; PDF cover date field is blank.",
+      "source_type": "professional_body_selected_case_report",
+      "review_status": "original relevant cases read; case5 page rendered and visually inspected",
+      "locator": "PDF pp2\u20139 introduction and seven cases; p7 case5; pp11\u201312 conclusion/history",
+      "population": "Seven member/practitioner reported RTI cases deliberately illustrating problems; employers/agents include NHS and other business contexts",
+      "sample_size": 7,
+      "fieldwork_period": "Case accounts span November2020\u2013January2025; not a coherent fieldwork wave",
+      "funding_or_commercial_interest": "Professional body advocacy; published HMRC response is on landing page, not independent case audit",
+      "limitations": "Purposeful adverse-case selection; reported attribution is not an independent root-cause audit. No population error rate, current backlog count or deterioration estimate. Quotes about future expansion are expectations. Preserve positive HMRC response and case-level resolution evidence.",
+      "capture_path": "03-report/research-notes/r02-second-check/history/cipp-rti-cases-2025.pdf",
+      "capture_sha256": "2e379c73c079651391cde9d3ca373280611fe6955444d916532286727098622c",
+      "alias_urls": [
+        "https://www.cipp.org.uk/resources/policy-report/systemic-issues-in-hmrc-rti-data-collection.html"
+      ],
+      "accessed_on": "2026-10-28",
+      "reuse_status": "Retained for private verification; final reproduction/rights review outstanding",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "HIS-S03",
+      "title": "Quality assurance of administrative data used in earnings and employment from PAYE RTI",
+      "publisher": "Office for National Statistics and HMRC",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/qualityassuranceofadministrativedatausedinearningsandemploymentfrompayerti",
+      "published_date": "2025-01-10",
+      "source_type": "official_statistical_methodology",
+      "review_status": "original methodology sections inspected",
+      "locator": "Sections3 operational context,6 producer QA and7 strengths/limitations",
+      "population": "PAYE RTI administrative dataset used for earnings/employment statistics, not an audit of employer payroll accuracy",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Official statistical quality assessment",
+      "limitations": "Statistical processing corrections/revisions must not be relabelled a payroll employer error rate. Enhanced statistical assurance is not certification of every payroll record.",
+      "capture_path": "03-report/research-notes/r02-second-check/history/ons-rti-qa-2025.html",
+      "capture_sha256": "6db38a5476e2ae84ba839a44a160120b47bc4834e1c85315741e0a426b9dd7c8",
+      "accessed_on": "2026-10-28",
+      "reuse_status": "Retained for private verification; final reproduction/rights review outstanding",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    }
+  ],
+  "reused_canonical_source_ids": [
+    "SRC-0068",
+    "SRC-0069",
+    "SRC-0070",
+    "SRC-0092",
+    "SRC-0100",
+    "SRC-0101",
+    "SRC-0103"
+  ]
+}

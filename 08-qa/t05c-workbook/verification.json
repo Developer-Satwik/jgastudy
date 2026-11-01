@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_artifact_engine",
+  "check_count": 65,
+  "tests": [
+    {
+      "id": "blank start prevents cash result",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "blank coverage prevents obligation total",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "explicit complete empty plan ready",
+      "actual": "Ready",
+      "expected": "Ready",
+      "passed": true
+    },
+    {
+      "id": "explicit no-flow plan closes zero",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "empty obligations confirmed zero",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "month net can be zero",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "early-month shortage visible",
+      "actual": 500,
+      "expected": 500,
+      "passed": true
+    },
+    {
+      "id": "same-day end net zero",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "same-day payments-first stress",
+      "actual": 500,
+      "expected": 500,
+      "passed": true
+    },
+    {
+      "id": "opening funds cover same-day stress",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "unsorted rows use dates",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "unused route event unknown ignored",
+      "actual": "Ready",
+      "expected": "Ready",
+      "passed": true
+    },
+    {
+      "id": "event selection exposes unknown",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "foreign FX cannot default to one",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "missing FX date remains unresolved",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "foreign direction GBP per unit",
+      "actual": 80,
+      "expected": 80,
+      "passed": true
+    },
+    {
+      "id": "zero FX rejected",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "future observed cash rejected",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "dated reported observation allowed",
+      "actual": "Ready",
+      "expected": "Ready",
+      "passed": true
+    },
+    {
+      "id": "deposit and balance total1900",
+      "actual": -1900,
+      "expected": -1900,
+      "passed": true
+    },
+    {
+      "id": "deposit not another expense",
+      "actual": 1900,
+      "expected": 1900,
+      "passed": true
+    },
+    {
+      "id": "refund separate receipt",
+      "actual": -1600,
+      "expected": -1600,
+      "passed": true
+    },
+    {
+      "id": "credit does not become cash",
+      "actual": -1600,
+      "expected": -1600,
+      "passed": true
+    },
+    {
+      "id": "credit remaining units",
+      "actual": 500,
+      "expected": 500,
+      "passed": true
+    },
+    {
+      "id": "credit not owed customer benefit",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "id": "credit expiry requires review",
+      "actual": "Review timing",
+      "expected": "Review timing",
+      "passed": true
+    },
+    {
+      "id": "credit review shown",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "id": "expiry does not erase credit amount",
+      "actual": 500,
+      "expected": 500,
+      "passed": true
+    },
+    {
+      "id": "untimed credit requires review",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "id": "unfulfilled benefit stays owed",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "id": "customer benefit counted apart from cash",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "id": "part delivery leaves two",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "id": "over-satisfaction flagged",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "invalid obligation not hidden",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "unknown timing visible",
+      "actual": "Timing unknown",
+      "expected": "Timing unknown",
+      "passed": true
+    },
+    {
+      "id": "missing trigger visible",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "event-only unknown obligation excluded in A",
+      "actual": "Excluded",
+      "expected": "Excluded",
+      "passed": true
+    },
+    {
+      "id": "event unknown obligation exposed in B",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "last day included once",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "id": "next month starts separately",
+      "actual": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "id": "horizon stops at month boundary",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "id": "undisplayed later month blank",
+      "actual": "",
+      "expected": "",
+      "passed": true
+    },
+    {
+      "id": "prior-period leg not replayed",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "id": "opening cash rolled once",
+      "actual": 150,
+      "expected": 150,
+      "passed": true
+    },
+    {
+      "id": "selected outside-window missing leg stays unresolved",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "duplicate leg ID visible",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "fix duplicate restores",
+      "actual": "Ready",
+      "expected": "Ready",
+      "passed": true
+    },
+    {
+      "id": "non-month start rejected",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "zero horizon rejected",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "coverage missing despite valid rows",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "negative original amount rejected",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "explicit zero with basis accepted",
+      "actual": "Ready",
+      "expected": "Ready",
+      "passed": true
+    },
+    {
+      "id": "zero still needs its basis",
+      "actual": "Needs input",
+      "expected": "Needs input",
+      "passed": true
+    },
+    {
+      "id": "fee context preserved",
+      "actual": 1500,
+      "expected": 1500,
+      "passed": true
+    },
+    {
+      "id": "conditional balance not receipt",
+      "actual": 750,
+      "expected": 750,
+      "passed": true
+    },
+    {
+      "id": "last reserved cash row included",
+      "actual": 75,
+      "expected": 75,
+      "passed": true
+    },
+    {
+      "id": "last displayed month included",
+      "actual": 75,
+      "expected": 75,
+      "passed": true
+    },
+    {
+      "id": "exclusive horizon end",
+      "actual": 75,
+      "expected": 75,
+      "passed": true
+    },
+    {
+      "id": "last obligation row and fractional work",
+      "actual": 1.5,
+      "expected": 1.5,
+      "passed": true
+    },
+    {
+      "id": "remaining work counted as open object",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "id": "duplicate obligation ID exposed",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "cash can be valid while obligation coverage unknown",
+      "actual": 75,
+      "expected": 75,
+      "passed": true
+    },
+    {
+      "id": "obligation coverage remains visible",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "restored no cash forecast",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    },
+    {
+      "id": "restored no obligation assertion",
+      "actual": "n.a.",
+      "expected": "n.a.",
+      "passed": true
+    }
+  ],
+  "renders": [
+    {
+      "sheet": "Cash plan",
+      "range": "A1:F26",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-plan.png"
+    },
+    {
+      "sheet": "Cash plan",
+      "range": "H4:I24",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-results.png"
+    },
+    {
+      "sheet": "Cash plan",
+      "range": "A39:I45",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/commission-context.png"
+    },
+    {
+      "sheet": "Cash legs",
+      "range": "A1:J19",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-entry.png"
+    },
+    {
+      "sheet": "Cash legs",
+      "range": "K10:Q19",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-calculation.png"
+    },
+    {
+      "sheet": "Obligations",
+      "range": "A1:H19",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/obligation-entry.png"
+    },
+    {
+      "sheet": "Obligations",
+      "range": "I10:O19",
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/obligation-calculation.png"
+    }
+  ],
+  "native_Excel_tested": false,
+  "defaults_restored": true,
+  "actual_cash_legs": 0,
+  "actual_obligation_records": 0,
+  "full_programme_model_complete": false
+}

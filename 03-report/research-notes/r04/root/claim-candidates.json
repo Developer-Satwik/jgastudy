@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R4ROOT-C01",
+      "source_candidate_ids": [
+        "R4ROOT-S01"
+      ],
+      "claim_text": "ICO describes DPO advice, monitoring and access to senior decision-makers alongside retained controller/processor responsibility. Those descriptions do not themselves identify a payroll purchasing approver or establish universal stop authority.",
+      "locator": "Tasks; support/access to senior managers; responsibility for compliance",
+      "evidence_class": "official_role_boundary_guidance",
+      "population": "Organisational data protection officer functions; not a payroll procurement sample",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance inspected 29 October 2026; no employer time series",
+      "limitations": "Advisory/monitoring duties and retained organisational responsibility do not identify payroll approvers or establish universal presence/absence of veto. Exact legal use needs a final check of the page currently under review.",
+      "review_mode": "Relevant live original sections inspected; complete original HTML retained",
+      "status": "R04_context"
+    },
+    {
+      "candidate_id": "R4ROOT-C02",
+      "source_candidate_ids": [
+        "R4ROOT-S02"
+      ],
+      "claim_text": "Cabinet Office guidance distinguishes an intention-to-contract award notice under the Procurement Act from a later contract-details notice for an entered contract, and explains that the award-notice label had a different function under previous legislation. The applicable regime, date and actual record are needed before interpreting decision milestones.",
+      "locator": "Paragraphs 1–7 and 52",
+      "evidence_class": "official_record_interpretation_guidance",
+      "population": "Procurement Act notice regime; not ordinary private payroll buying practice",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance inspected 29 October 2026; no employer time series",
+      "limitations": "Interpret the applicable date/regime and actual notice. No transplant into earlier or differently governed cases, no universal private workflow or statutory timetable extracted.",
+      "review_mode": "Relevant live original sections inspected; complete original HTML retained",
+      "status": "R04_context"
+    }
+  ]
+}

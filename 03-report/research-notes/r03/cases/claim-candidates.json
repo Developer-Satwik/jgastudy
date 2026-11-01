@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "CASE-C01",
+      "source_candidate_ids": [
+        "CASE-S01"
+      ],
+      "claim_text": "Audit Scotland judged cutover well planned/managed/executed; sampled staff-pay testing found no pay/deduction issues, while known limitations had been assessed for go-live.",
+      "locator": "Printed pp42-47; paragraphs129-145",
+      "evidence_class": "bounded_implementation_case",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Scottish Government and user bodies of one shared HR/finance programme; selected audit tests and questionnaire responses, not market sample",
+      "time_period": "Dated implementation/audit evidence specified in source; not a current market estimate",
+      "limitations": "Positive scoped transition evidence; not every employee or future period, and not a universal go-live tolerance.",
+      "review_mode": "Relevant original sections read; selected PDF pages visually inspected where applicable",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "CASE-C02",
+      "source_candidate_ids": [
+        "CASE-S01"
+      ],
+      "claim_text": "The same audit describes HR/payroll reporting/reconciliation limitations, support pressure and continuing work after go-live.",
+      "locator": "Printed pp48-51; paragraphs149-156",
+      "evidence_class": "bounded_implementation_case",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Scottish Government and user bodies of one shared HR/finance programme; selected audit tests and questionnaire responses, not market sample",
+      "time_period": "Dated implementation/audit evidence specified in source; not a current market estimate",
+      "limitations": "HR/payroll tickets are not pay-error counts; user-body reports concern one programme and dated stage, not current market prevalence.",
+      "review_mode": "Relevant original sections read; selected PDF pages visually inspected where applicable",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "CASE-C03",
+      "source_candidate_ids": [
+        "CASE-S01"
+      ],
+      "claim_text": "Anticipated benefits were often not delivered or demonstrable at the audited stage; later functions and sustained adoption were still relevant.",
+      "locator": "Printed pp55-56; paragraphs171-174",
+      "evidence_class": "bounded_implementation_case",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Scottish Government and user bodies of one shared HR/finance programme; selected audit tests and questionnaire responses, not market sample",
+      "time_period": "Dated implementation/audit evidence specified in source; not a current market estimate",
+      "limitations": "No stable payroll-only cost or achieved savings benchmark; programme-wide expected later gains are not realised payroll ROI.",
+      "review_mode": "Relevant original sections read; selected PDF pages visually inspected where applicable",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "CASE-C04",
+      "source_candidate_ids": [
+        "CASE-S03"
+      ],
+      "claim_text": "Management frames operational necessity and continuity as primary objectives; its March2026 publication also reports progress and a more stable position alongside continuing issues and work.",
+      "locator": "Section4 post implementation",
+      "evidence_class": "bounded_implementation_case",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Same Scottish Government shared-services programme as CASE-S01, with early directorate reflections",
+      "time_period": "Retrospective implementation experience and management assessment in publication dated23March2026; future work remains planned.",
+      "limitations": "Self-review combining retrospective experience and management assessment by publication; not independently confirmed October2026 status, all-issue resolution or causal evaluation.",
+      "review_mode": "Relevant original sections read; selected PDF pages visually inspected where applicable",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "CASE-C05",
+      "source_candidate_ids": [
+        "CASE-S03"
+      ],
+      "claim_text": "The closure report distinguishes early HR cutover/support reflections, later management-reported progress and benefits checkpoint, and future optimisation/benefits plans.",
+      "locator": "Section4 points10-27; Section8 Benefits delivery; Appendix1 HR",
+      "evidence_class": "bounded_implementation_case",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Same Scottish Government shared-services programme as CASE-S01, with early directorate reflections",
+      "time_period": "Early operation, later management assessment/checkpoint and2026/future plans, distinguished by section.",
+      "limitations": "Mixed timeframes within the same programme self-review. Early Appendix1 reflections do not date every statement; later progress is management-reported and neither retroactively realised at go-live nor independently confirmed at access date.",
+      "review_mode": "Relevant original sections read; selected PDF pages visually inspected where applicable",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    },
+    {
+      "candidate_id": "CASE-C06",
+      "source_candidate_ids": [
+        "CASE-S02"
+      ],
+      "claim_text": "The employer reports an October2024 HR/payroll replacement and June2025 internal audit finding no significant issues following planning/design/testing.",
+      "locator": "Printed p37/PDFp38",
+      "evidence_class": "bounded_implementation_case",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "One parliamentary employer; new i-Trent HR/payroll and separate finance replacement",
+      "time_period": "Dated implementation/audit evidence specified in source; not a current market estimate",
+      "limitations": "Full underlying internal audit uninspected; scoped positive account does not demonstrate zero errors, quantified ROI or vendor superiority.",
+      "review_mode": "Relevant original sections read; selected PDF pages visually inspected where applicable",
+      "status": "candidate_for_parent_review_not_publication_approved"
+    }
+  ]
+}

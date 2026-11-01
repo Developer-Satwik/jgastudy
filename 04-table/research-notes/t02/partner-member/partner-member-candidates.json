@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-30",
+  "status": "internal_candidate_drafts_for_root_integration",
+  "scope": "T02 proposition preparation only; no adopted product, prices, current-scope expansion or fieldwork.",
+  "records": [
+    {
+      "status": "internal_candidate_for_root_review",
+      "adopted": false,
+      "commercially_validated": false,
+      "signed_offer": false,
+      "price": null,
+      "currency": null,
+      "actual_customers": [],
+      "actual_participants": [],
+      "actual_commitments": [],
+      "external_actions": [],
+      "core_report_questions_added": 0,
+      "scope_boundary": "These are proposed future Table product designs within the current feasibility work. They do not add delivery, events, ongoing service or advisory commitments to the signed research agreement.",
+      "candidate_id": "T02-PARTNER-01",
+      "audience": "An organisation with an actual use for independent payroll decision evidence and a reason to fund its production. Supplier, adviser or other role must be established for this exchange.",
+      "primary_job": "Support a defined independent research edition and use its findings for a named product, commercial or strategy decision, or an accurately described communication purpose.",
+      "proposed_unit": "One defined research edition with a bounded findings briefing, disclosed recognition and specifically agreed use rights. Event support is an optional separately defined component, not an automatic annual programme.",
+      "minimum_useful_outputs": [
+        {
+          "output_id": "P01",
+          "output": "A defined finished research edition",
+          "purpose": "Bounded original decision evidence, source context, limits and usable implications for the agreed audience.",
+          "scope_dependency": "Actual eligible permissioned input, final method/currentness/rights review and defined edition/release. This is not a guarantee of particular findings, market representation or a bespoke employer solution."
+        },
+        {
+          "output_id": "P02",
+          "output": "One focused findings briefing for a defined use",
+          "purpose": "Explain decision-relevant implications, uncertainty and practical application for the intended team.",
+          "scope_dependency": "Agenda, audience, format, duration, preparation, questions and capacity must be scoped. Not continuing analyst support or payroll advice."
+        },
+        {
+          "output_id": "P03",
+          "output": "A disclosed funding acknowledgement and defined permitted uses",
+          "purpose": "Make the support relationship clear and enable only the report/summary/excerpt uses actually agreed.",
+          "scope_dependency": "Accurate funding statement; brand consent and exact internal/external rights, channels, duration and version. Recognition is not endorsement, exclusivity or guaranteed reach."
+        }
+      ],
+      "free_paid_boundary": "The practitioner-free research benefit stays intact. Funding supports production of an agreed independent asset plus actually additional briefing/recognition/use rights; do not model a second sale of equivalent access or assume a contributor employer must buy a licence.",
+      "editorial_boundary": "Proposed partner funding may help define the agreed topic/intended use before work; it does not buy favourable findings, suppression or a method/results veto. JGA remains responsible for final publication and commercial decisions under the agreement. Any factual check of a partner description is separate from general approval of the research findings.",
+      "optional_branches": [
+        {
+          "branch_id": "P-ACCESS",
+          "purpose": "Separately defined event support, visible partner participation or optional commercial introductions if wanted and permissible",
+          "entry_conditions": [
+            "First establish whether the desired outcome is research, access or a transparent combination.",
+            "Preserve the intended research/member eligibility and independently assess any nominated people.",
+            "Specify who is present, what participants are told, what is voluntary and what rights/permissions actually apply.",
+            "Keep meetings, attendee contacts and private research answers as different objects.",
+            "Check event, staffing, data-use, venue and funding prerequisites before an order or commitment."
+          ],
+          "not_automatic": [
+            "Participant contacts",
+            "Private answer access",
+            "Guaranteed meetings",
+            "A place in a confidential research segment",
+            "Partner veto",
+            "Category exclusivity",
+            "A representative prospect list",
+            "A future annual renewal"
+          ]
+        }
+      ],
+      "proposed_inclusions_not_granted": [
+        "Specified edition and scoped briefing",
+        "Accurate disclosed recognition",
+        "Only actually agreed internal/external uses"
+      ],
+      "not_in_core_by_default": [
+        "Respondent identities or raw answers",
+        "Lead list or guaranteed introductions",
+        "Guaranteed attendance or views",
+        "Suppression of findings or editorial veto",
+        "Unspecified exclusivity",
+        "Ongoing custom analysis/helpdesk",
+        "Automatic reuse in later editions",
+        "Unrestricted resale/sublicensing"
+      ],
+      "delivery_requirements": [
+        "Agreed topic, intended user/decision and edition boundaries",
+        "Actual source and practitioner evidence with appropriate permissions",
+        "Research/editorial owner with method, analysis and conflict-handling capacity",
+        "Briefing preparation and servicing time",
+        "Partner statement and permitted-use record",
+        "Named delivery/approval owners, dependencies and later cost/cash terms",
+        "Separate event/access operating requirements if that component is retained"
+      ],
+      "selective_existing_guide_links": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06"
+      ],
+      "evidence_to_seek": [
+        "An actual recent decision and the participant’s role in it before showing this concept",
+        "How insight was previously obtained and what alternatives already work",
+        "Specific output/application and evidence needed to use it",
+        "Who would review a defined purchase, required rights and timing",
+        "Whether interest survives removal of implied contacts, favourable findings or a guaranteed event",
+        "An explicitly permitted next step, distinguished from contract/order/payment"
+      ],
+      "counter_signals": [
+        "Value depends on private identities/answers or guaranteed meetings without separate participant arrangements",
+        "Demand is for a favourable branded conclusion or suppression right",
+        "Target-audience demands displace the intended research/member fit",
+        "The same useful material is already available and the proposed incremental service adds little",
+        "No actual use, internal decision route or feasible evidence requirement can be identified"
+      ],
+      "next_design_decision": "Retain, revise or drop the funding proposition after actual exploratory evidence; no fee or partner shortlist is chosen here.",
+      "concept_wording_after_unaided_discovery": "One option we are assessing is a founding research partnership for a defined edition on how payroll leaders turn operational needs into investment decisions. The proposed package would fund the research and give your team a focused findings briefing, agreed recognition as a funding partner, and clearly defined rights to use the finished work. Funding would not give a partner control over the findings. Private answers and participant contacts would not be included by default. Any event involvement or commercial introductions would need a separate, transparent scope. We are testing whether that would serve a real decision or communication need for your team.",
+      "claim_ids": [
+        "CLM-0497",
+        "CLM-0508",
+        "CLM-0509",
+        "CLM-0515",
+        "CLM-0516",
+        "CLM-0522"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC02",
+        "TC04",
+        "TC06"
+      ],
+      "assumption_ids": [
+        "PM-A01",
+        "PM-A02",
+        "PM-A03",
+        "PM-A04"
+      ]
+    },
+    {
+      "status": "internal_candidate_for_root_review",
+      "adopted": false,
+      "commercially_validated": false,
+      "signed_offer": false,
+      "price": null,
+      "currency": null,
+      "actual_customers": [],
+      "actual_participants": [],
+      "actual_commitments": [],
+      "external_actions": [],
+      "core_report_questions_added": 0,
+      "scope_boundary": "These are proposed future Table product designs within the current feasibility work. They do not add delivery, events, ongoing service or advisory commitments to the signed research agreement.",
+      "candidate_id": "T02-MEMBER-01",
+      "audience": "A senior payroll practitioner with relevant operating/decision experience, appropriate role and geographic fit, and a practical permitted way to contribute. Final target population remains subject to client review.",
+      "primary_job": "Exchange relevant payroll decision experience and gain useful research/peer perspectives without having to buy the research or accept publicity.",
+      "proposed_unit": "Participation in one defined research/peer cycle, not an assumed recurring membership or a commitment to attend every proposed city event.",
+      "original_concept_preserved": [
+        "Free practitioner attendance",
+        "Free research for practitioners, not a teaser substituted for the promised research",
+        "One industry question contributed by each participant",
+        "Optional council recognition",
+        "Proposed senior practitioner peer group and appropriate aggregate research use"
+      ],
+      "minimum_useful_outputs": [
+        {
+          "output_id": "M01",
+          "output": "The finished research free to participating practitioners",
+          "purpose": "Give contributors access to the work their participation helped inform.",
+          "scope_dependency": "The actual edition, release route and any permitted use must be agreed; this draft does not invent narrower individual-only rights or a new employer restriction."
+        },
+        {
+          "output_id": "M02",
+          "output": "A relevant facilitated peer exchange if the chosen format proceeds",
+          "purpose": "Explore a concrete payroll decision/challenge alongside the shared research core and participant industry questions.",
+          "scope_dependency": "Eligible peers, moderator preparation, practical format, confidentiality rules and participation choices. Contributing a question does not guarantee every question is answered or becomes a new core report item."
+        },
+        {
+          "output_id": "M03",
+          "output": "One short cycle follow-through note",
+          "purpose": "Summarise useful practical takeaways, evidence limits and open questions for participants to keep.",
+          "scope_dependency": "Analyst proposal to test and cost, not an agreed current deliverable or a monthly publication commitment. Must fit the chosen meeting mode and permissioned output; no private case details or implied advice."
+        }
+      ],
+      "participation_burden": [
+        "Contribute one industry question under the proposed concept.",
+        "Choose a practical permitted input mode and level of detail.",
+        "Any optional factual/quotation check is limited and separately arranged; no repeated follow-up obligation.",
+        "No requirement to supply confidential plans, names, budgets or employer documents.",
+        "No automatic future research, marketing, sponsor-contact or multi-event obligation."
+      ],
+      "role_and_count_boundary": "Interest, invitation, recognition, membership, event attendance and an actual usable research contribution are separate. The report requires6–10 distinct verified eligible people with usable permitted report input; Table exploratory work allows up to4 substantive contribution events. An RSVP or industry question alone establishes neither report overlap nor an attended event. Existing WP03 policy governs actual counting.",
+      "meeting_and_publication_boundary": "Choose the actual meeting mode in advance. If the named Chatham House Rule is adopted, its current no-recording/AI/in-room-image restrictions apply. Separate research interviews may use separately agreed terms. Council recognition does not by itself authorise disclosure of attendance or attribution; contextual details can still identify someone; participation, de-identified use, quotes, name/role and employer identification need their relevant specific choices.",
+      "format_alternatives": [
+        "Research-only or written contribution if useful and permitted",
+        "Moderated remote exchange where it meets the actual need",
+        "One-city UK gathering only if the operating/funding case supports it"
+      ],
+      "delivery_requirements": [
+        "Research/member fit and transparent admission decision",
+        "Actual permissioned input and approved collection arrangements",
+        "Moderator and clear agenda linked to practical needs",
+        "Format, employer permission, access, travel and hospitality practicality where relevant",
+        "Research release and brief follow-through ownership/time",
+        "Separate member, event, rights and research-contribution records without collecting unnecessary data",
+        "No continuing expert-advice or member-support service assumed"
+      ],
+      "selective_existing_guide_links": [
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06"
+      ],
+      "evidence_to_seek": [
+        "A recent decision/challenge for which peer research could help before describing this concept",
+        "Specific benefit that would earn the time compared with current alternatives",
+        "Practical input, travel/employer/format constraints and relevant peer mix",
+        "What useful follow-through would be worth keeping without creating a heavy service",
+        "Whether research-only input still has value if no dinner proceeds",
+        "Permission for any next step, distinguished from enrolment or publication"
+      ],
+      "counter_signals": [
+        "Hospitality or recognition is the sole attraction and useful research/peer use cannot be described",
+        "Employer or role constraints make the proposed format inappropriate",
+        "Relevant peer mix or discussion conditions cannot be provided",
+        "The desired output would require identifiable confidential material or advice we cannot appropriately supply",
+        "The recurring burden or follow-through servicing exceeds likely usefulness/capacity"
+      ],
+      "next_design_decision": "Define useful participation and feasible follow-through from actual input before any invitation or launch. No member list or event commitment is created.",
+      "concept_wording_after_unaided_discovery": "We are exploring a small senior payroll peer group built around practical research and useful discussion. The working concept includes free attendance and free research, one industry question from each participant, and an exchange with relevant payroll leaders. One possible extra is a short follow-up separating useful takeaways from questions that still need evidence. Council recognition would be optional and separate from permission to publish a contribution. We are assessing the format and its value before arranging any event or asking anyone to commit.",
+      "claim_ids": [
+        "CLM-0501",
+        "CLM-0503",
+        "CLM-0507",
+        "CLM-0518",
+        "CLM-0519",
+        "CLM-0520",
+        "CLM-0521",
+        "CLM-0522"
+      ],
+      "condition_ids": [
+        "TC01",
+        "TC03",
+        "TC04",
+        "TC05",
+        "TC06"
+      ],
+      "assumption_ids": [
+        "PM-A01",
+        "PM-A03",
+        "PM-A05",
+        "PM-A06"
+      ]
+    }
+  ],
+  "assumptions": [
+    {
+      "assumption_id": "PM-A01",
+      "assumption": "The future Table concept proceeds beyond feasibility and a defined cycle/edition can be scoped.",
+      "status": "untested_design_assumption",
+      "why_needed": "Neither an ongoing programme nor a funded pilot is agreed."
+    },
+    {
+      "assumption_id": "PM-A02",
+      "assumption": "A potential funder has an actual use for the independent research/briefing/recognition combination.",
+      "status": "untested_design_assumption",
+      "why_needed": "No paying partner, decision owner or willingness to pay has been established."
+    },
+    {
+      "assumption_id": "PM-A03",
+      "assumption": "A defined briefing/follow-through output can be staffed, costed and delivered with appropriate evidence/rights.",
+      "status": "untested_operating_assumption",
+      "why_needed": "No future servicing capacity, budget or dates are proved by the current commission."
+    },
+    {
+      "assumption_id": "PM-A04",
+      "assumption": "Intended partner uses can be granted on workable terms without compromising participant choices or editorial control.",
+      "status": "unagreed_rights_design",
+      "why_needed": "No internal/external licence, logo consent, exclusivity or contact rights have been granted."
+    },
+    {
+      "assumption_id": "PM-A05",
+      "assumption": "Relevant practitioners find research and peer/follow-through value sufficient for their time.",
+      "status": "untested_member_value_assumption",
+      "why_needed": "No actual Table exploratory input or member enrolment has been collected."
+    },
+    {
+      "assumption_id": "PM-A06",
+      "assumption": "The intended format is practical and permissible for the eventual participants.",
+      "status": "untested_participation_assumption",
+      "why_needed": "No venue/date, employer approval, collection route or meeting mode is confirmed."
+    }
+  ],
+  "report_core_questions_added": 0,
+  "financial_inputs": [],
+  "actual_conversations": [],
+  "actual_permissions": [],
+  "external_actions": [],
+  "ownership_boundary": "Future partner/member use choices describe JGA’s proposed downstream product terms, not restrictions on JGA imposed by Riseklix. Under the working agreement section7, commissioned assignable original IP transfers to JGA on full payment, subject to contributor and third-party rights. JGA remains responsible for final publication and later licensing/commercial decisions; this draft grants no new customer rights and creates no Riseklix approval veto."
+}

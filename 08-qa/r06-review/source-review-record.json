@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Independent R06 targeted source review, before integrated approval",
+  "reviewed_pdf_visuals": [
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02-cover.png",
+      "sha256": "80a071c298e1490c07d70ae516cfaeb2abfa6c50b37fcd9e5ad1b0e9371dc82c",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02-p8.png",
+      "sha256": "0ba8822a734100b903cf8ac0fb894ab29b5e9bf6bb8794ce982b8a1bbfa54226",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p13.png",
+      "sha256": "cfaada98db296ce253485c85621a4c8dc5428aec1fee1cca452aa78944951f54",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p2.png",
+      "sha256": "96534696cf987f162c74c65d774c184f6d6e3c07e6f0f0b48a3e1388b0a0bf45",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p29.png",
+      "sha256": "e027963e5e5593ce05f27d84c29606b16ff6c5c4e96a4492eea9b181e5a9f5a1",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p30.png",
+      "sha256": "9c44c002107918a6a99d5950c2886981cfcb128c58193e9da6f6179896bd0b04",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p32.png",
+      "sha256": "0bae15e96b505174ca5681ed1615f90c211bafe9ebda0e9be5f67ff9c116dd6b",
+      "reviewer_visually_inspected": true
+    },
+    {
+      "path": "08-qa/r06-review/Azets-p32.png",
+      "sha256": "57e9501cdf8022cfecb8dae143c811ad8857a7eafd3035c227a9abcc88ee695a",
+      "reviewer_visually_inspected": true
+    }
+  ],
+  "original_live_html_source_samples": [
+    {
+      "url": "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501",
+      "scope": "Decision, reasons, alternatives and date; page Implemented not system go-live"
+    },
+    {
+      "url": "https://sandwell.moderngov.co.uk/mgAi.aspx?ID=10328",
+      "scope": "Same14October2026agenda, full resolutions; renewal/alternatives and final-entry conditions, no new financial figures adopted"
+    },
+    {
+      "url": "https://schools.westsussex.gov.uk/Article/184856",
+      "scope": "10March2026implementation rescheduling and stated reasons; not investment proposal deferred"
+    },
+    {
+      "url": "https://schools.westsussex.gov.uk/Article/194014",
+      "scope": "13October2026self-service availability; not whole payroll performance"
+    },
+    {
+      "url": "https://www.niauditoffice.gov.uk/publications/civil-service-human-resource-management-system-cancellation-payroll-project",
+      "scope": "Historical payroll component cancellation and reported contract/equipment dependency; not full report audited"
+    },
+    {
+      "url": "https://www.gets.govt.nz/EPL/ExternalTenderDetails.htm?id=34909219",
+      "scope": "Cancelled portal status, NOI type and non-commencement disclaimer; no whole-upgrade conclusion"
+    }
+  ],
+  "warwickshire_review": "Main decision/meeting reader timed out; original published decision-list search result supplied purpose/date and differing call-in labels. Restricted report uninspected. Author notes remain distinct from raw original.",
+  "substantive_correction_raised": {
+    "source": "BUY6-S01 Azets",
+    "issue": "Country counts/researcher/method demographic context available on PDF32 omitted while initial metadata said country bases unavailable",
+    "raised_to_root_and_author": true,
+    "independent_render": "08-qa/r06-review/Azets-p32.png",
+    "country_counts": {
+      "UK": 52,
+      "Ireland": 30,
+      "Denmark": 31,
+      "Norway": 31,
+      "Finland": 31,
+      "Sweden": 30
+    },
+    "item_bases_routing_microdata_still_unestablished": true,
+    "source_stated_researcher": "Reputation Leaders",
+    "commissioner": "Azets",
+    "large_employer_skew": "Method reports66%>500employees and75%turnover>EUR50m; context only, no new JGA finding",
+    "separate_qualitative_component": 4,
+    "status": "resolved_author_metadata_and_claims_verified"
+  },
+  "external_actions": []
+}

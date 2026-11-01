@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "T01-M03",
+      "model_type": "PAYROLL_DECISION_SUPPORT_MEMBERSHIP",
+      "provider": "The Payroll Centre",
+      "selected_offer": "Corporate Payroll Membership",
+      "status": "public_desktop_comparison_only",
+      "offer_source_candidates": [
+        "T1MC-S10",
+        "T1MC-S11"
+      ],
+      "claim_candidates": [
+        "T1MC-C01",
+        "T1MC-C02",
+        "T1MC-C03",
+        "T1MC-C04",
+        "T1MC-C05",
+        "T1MC-C06",
+        "T1MC-C07",
+        "T1MC-C08",
+        "T1MC-C09",
+        "T1MC-C10"
+      ],
+      "selection_reason": "A concrete annual organisation-wide payroll support bundle, with public fee unit and business terms. Closer to employer purchase/account budgeting than CIPP individual professional grades. Distinct from event sponsorship and research licensing.",
+      "buyer_decision": "Whether continuing payroll guidance, team training and shared practical resources justify an organisation-funded annual subscription. Actual payer/decision maker not validated; payroll lead with finance/L&D procurement is a buyer hypothesis.",
+      "audience": "Payroll, HR and finance teams and organisations running payroll in house; all experience levels are described. Not restricted to senior payroll directors.",
+      "admission": "Public plan application; provider discretion to accept or decline. No verified senior-only practitioner screening.",
+      "benefit_value_unit": "Annual team-support access. Entitlements depend on plan; neither a research publication right nor ownership of materials.",
+      "revenue_funding": "Subscription fees are publicly offered. Overall revenue mix, cross-subsidy, realised retention and profitability unknown.",
+      "public_price": {
+        "value": 1122,
+        "currency": "GBP",
+        "period": "year",
+        "unit": "organisation / named Corporate plan",
+        "vat": "exclusive unless otherwise stated in business terms clause 3.1.3",
+        "status": "public list price observed 2026-10-29; not a quote",
+        "source_candidates": [
+          "T1MC-S10",
+          "T1MC-S11"
+        ],
+        "jga_forecast_input": false
+      },
+      "restrictions_rights": "Named member and authorised-user boundaries, limited non-transferable materials licence, restrictions on third-party use and republication. Membership is not a research resale licence.",
+      "research_and_editorial": "Primarily ongoing advice/training/resource access. Public offer does not disclose a paid original-research sample, recruitment method or sponsor editorial rights. Any policy/market research claim would need separate source review.",
+      "contact_access": "No automatic sponsor or prospect contact access inferred. This is not a supplier lead-list purchase.",
+      "operating_workload_inference": [
+        "Maintain and review time-sensitive payroll content and resources.",
+        "Staff and triage technical queries with clear limits and expert escalation.",
+        "Produce and host live/on-demand learning; administer users, support and renewals."
+      ],
+      "free_alternatives": "Official employer guidance and publicly discoverable professional-body research/news can answer routine information needs. They do not replicate a staffed, scoped helpdesk or guarantee an answer to a specific case. SRC-0010 remains discovery-only, with no upgrade of its status.",
+      "jga_lessons_inference": [
+        "Make the paid unit explicit: organisational research-use rights, individual council participation and advisory work are different products.",
+        "State a recurring decision/use case and delivery cadence beyond hospitality.",
+        "Cost research upkeep and member-service time; do not assume a recruiter can supply technical payroll advice."
+      ],
+      "jga_limits": [
+        "Does not validate willingness to buy The Table.",
+        "Fee includes materially different services from a JGA research licence, so no price anchoring.",
+        "No achieved retention or profitability data adopted, even though promotional pages contain such claims.",
+        "Actual buyer/member interviews and T03 remain open."
+      ],
+      "screened_alternatives": [
+        {
+          "name": "CIPP professional membership",
+          "why_not_primary": "Real technical-advice and professional-recognition bundle, but individual grade rather than corporate support unit. Current tariff is unconfirmed and benefit-frequency wording differs across captured pages. No CIPP price is a current financial input.",
+          "source_candidates": [
+            "T1MC-S01",
+            "T1MC-S02",
+            "T1MC-S03",
+            "T1MC-S09"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": "T01-M04",
+      "model_type": "PRACTITIONER_RESEARCH_COMMUNITY",
+      "provider": "The Conference Board",
+      "selected_offer": "Human Capital Center Europe research community, with Council membership recorded as a separate peer layer",
+      "status": "public_desktop_comparison_only",
+      "offer_source_candidates": [
+        "T1MC-S04",
+        "T1MC-S05",
+        "T1MC-S06",
+        "T1MC-S08"
+      ],
+      "claim_candidates": [
+        "T1MC-C11",
+        "T1MC-C12",
+        "T1MC-C13",
+        "T1MC-C14",
+        "T1MC-C15",
+        "T1MC-C16",
+        "T1MC-C17"
+      ],
+      "selection_reason": "A current EMEA research-led leadership offer with expert access and programming, plus explicitly distinct vetted peer-council membership. Stronger comparison for research/community architecture than selecting a second dinner club.",
+      "buyer_decision": "Whether senior leaders or employers should fund recurring research, expert interpretation and relevant peer exchange. Any exact business case, renewal motive or buyer authority is unvalidated.",
+      "audience": "Center Europe names CHROs across EMEA; broader membership paths address executives and leadership teams. Council eligibility is vetted and role-specific; not a claim that payroll directors automatically qualify.",
+      "admission": "Council is invitation-only and vetted. Center membership enquiry is not equivalent to Council admission. No application or private membership reviewed.",
+      "benefit_value_unit": "Center/organisation research and team support depends on membership path; Council is a distinct individual peer-seat unit. No standard bundle assumed.",
+      "revenue_funding": "Public membership architecture and annual fee for Council seats. Nonprofit status is provider-declared. Exact fee schedule, funding mix, sponsorship contribution and margins unknown.",
+      "public_price": {
+        "value": null,
+        "currency": null,
+        "period": null,
+        "unit": "Center membership terms unknown; Council seat annual fee, amount undisclosed",
+        "vat": "not published in inspected pages",
+        "status": "request/negotiation required; no enquiry made",
+        "source_candidates": [
+          "T1MC-S05",
+          "T1MC-S06"
+        ],
+        "jga_forecast_input": false
+      },
+      "restrictions_rights": "Website material remains rights-controlled; separate permission is needed beyond the stated licence. Internal member access or Council participation does not grant a commercial research republication or resale licence.",
+      "research_and_editorial": "Research catalogue, experts and programmes coexist with member-led Council topics. No universal claim that councils provide representative research data, that all members are study respondents, or that agenda influence is editorial control. Specific sampling and publication consents remain unknown.",
+      "contact_access": "Vendor-free, confidential peer exchange is not sponsor lead access. No automatic direct contact or commercial solicitation rights inferred.",
+      "operating_workload_inference": [
+        "Editorial research programme and experienced analysts/moderators, separate from event operations.",
+        "Peer eligibility screening, agenda development, preparation and between-meeting support.",
+        "Member onboarding, engagement, publication rights, consent and archive administration."
+      ],
+      "free_alternatives": "Public research summaries, podcasts and professional-body/vendor publications offer low-cost discovery. Availability of complete access varies. The paid differentiation must be specific applicability, interpretation, peer contribution or use rights, not a generic payroll summary.",
+      "jga_lessons_inference": [
+        "Separate member-led questions from editorial findings, methodology and publication decisions.",
+        "Create between-event practical outputs and a clear reason to return.",
+        "Specify internal reading rights separately from partner publication/excerpt/redistribution rights.",
+        "Write different consent rules for confidential meetings, research interviews, anonymised findings and attributable quotes."
+      ],
+      "jga_limits": [
+        "Does not validate demand for The Table or fund premium dining.",
+        "Established cross-functional institutional offering is not a startup operating-cost benchmark.",
+        "No disclosed price supports a JGA fee assumption.",
+        "Meetings under Chatham House Rule are not by themselves an anonymisation protocol, research licence or consent to publish quotes.",
+        "Actual buyer/member interviews and T03 remain open."
+      ],
+      "screened_alternatives": [
+        {
+          "name": "Fosway Corporate Research Network",
+          "why_not_primary": "Plausible analyst-network lead only. Public reader screening did not establish a concrete fee/admission/entitlement schedule; original retrieval returned HTTP403. Excluded from substantive source candidates and canonical evidence.",
+          "source_candidates": [],
+          "screened_lead_id": "T1MC-L01"
+        },
+        {
+          "name": "PayrollOrg research council",
+          "why_not_primary": "Candidate named at assignment, but no sufficiently clear distinct current research-community package was established in the bounded primary-route search. Not counted, priced or described as a validated competitor.",
+          "source_candidates": []
+        }
+      ]
+    }
+  ],
+  "boundary": "T01 public desktop comparison only. No private access, signups, outreach, forms, purchases or contract acceptance. No T03 buyer/member validation has occurred."
+}

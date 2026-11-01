@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC4-MKT-S01",
+      "url": "https://payfit.com/founders/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:29:02.110567+00:00",
+      "http_status": 200,
+      "final_url": "https://payfit.com/founders/",
+      "content_type": "text/html",
+      "capture_path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S01.html",
+      "capture_sha256": "d79ab6a1ec0038474eff5882c397f3020ef4e408c17810f179f2ef44f97cfdbf",
+      "capture_status": "retained_original_html",
+      "bytes": 488651,
+      "text_path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S01.txt",
+      "text_sha256": "08906364bc4cc1394e2871b8903518c7234b7a5ae3c886d0f37a5272d387798d"
+    },
+    {
+      "candidate_id": "SC4-MKT-S02",
+      "url": "https://chazeypartners.com/project/global-payroll-transformation-journey-with-chazey-overcoming-challenges-to-achieve-success/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:29:02.110974+00:00",
+      "capture_status": "local_capture_unavailable",
+      "capture_path": null,
+      "capture_sha256": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "candidate_id": "SC4-MKT-S03",
+      "url": "https://www.cloudpay.com/resources/our-customers/datasite-global-payroll-transformation/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:29:02.111073+00:00",
+      "capture_status": "local_capture_unavailable",
+      "capture_path": null,
+      "capture_sha256": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "candidate_id": "SRC-0078",
+      "url": "https://www.gov.uk/paye-for-employers/choose-payroll",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:29:02.111156+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/paye-for-employers/choose-payroll",
+      "content_type": "text/html; charset=utf-8",
+      "capture_path": "03-report/research-notes/r04-second-check/market/captures/SRC-0078.html",
+      "capture_sha256": "0cc9734d14f6986715407395816bb189c01d7ead85eaeec697d7aada715c9cb9",
+      "capture_status": "retained_original_html",
+      "bytes": 84647,
+      "text_path": "03-report/research-notes/r04-second-check/market/captures/SRC-0078.txt",
+      "text_sha256": "2c17b48bda0b75310412289877938e35e5bcfaf47ea9e3ed286d2b7edb293bf6"
+    },
+    {
+      "candidate_id": "SC4-MKT-S02-reader",
+      "url": "https://chazeypartners.com/project/global-payroll-transformation-journey-with-chazey-overcoming-challenges-to-achieve-success/",
+      "accessed_on": "2026-10-29",
+      "capture_kind": "selected_original_page_reader_extract_not_raw_original",
+      "path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S02-selected-reader-extract.md",
+      "sha256": "a157b8fc5161ad24db5859b876fc56baf216e925b208d0c5419b8f5cadeddc14",
+      "method": "Selected verbatim fragment and bounded paraphrase from successful original-body web read; not a downloaded HTML/PDF"
+    }
+  ]
+}

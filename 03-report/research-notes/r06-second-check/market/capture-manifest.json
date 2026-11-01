@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "M6S-S01",
+      "url": "https://bpop.brightsg.com/",
+      "http_status": 200,
+      "final_url": "https://bpop.brightsg.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-10-28T22:58:28.561315+00:00",
+      "capture_path": "03-report/research-notes/r06-second-check/market/captures/M6S-S01.html",
+      "capture_sha256": "cce1ec3d0b331c25881d959e24df38194c0401e68c8d471b41eb05989971fe0c",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06-second-check/market/captures/M6S-S01.txt",
+      "text_sha256": "b1d3b7f39564b69f598d83cfea3e60d34c2090a7ca1c0b38304c1250cd618e8b"
+    },
+    {
+      "candidate_id": "M6S-S02",
+      "url": "https://help.staffology.co.uk/payroll/projectfiles/files/eol-and-dataexport/Earnie__incl_Basics__End_of_Life_Doc_-_Sep_2025.pdf",
+      "http_status": 200,
+      "final_url": "https://help.staffology.co.uk/payroll/projectfiles/files/eol-and-dataexport/Earnie__incl_Basics__End_of_Life_Doc_-_Sep_2025.pdf",
+      "content_type": "application/pdf",
+      "retrieved_at_utc": "2026-10-28T22:58:30.778264+00:00",
+      "capture_path": "03-report/research-notes/r06-second-check/market/captures/M6S-S02.pdf",
+      "capture_sha256": "19f37c1e8bd960fea735bf8fa5ae7355915178abe388abb8d4c145d82a11b1f5",
+      "capture_kind": "retained_original_pdf",
+      "text_path": "03-report/research-notes/r06-second-check/market/captures/M6S-S02.txt",
+      "text_sha256": "c67c9cbf46dbaabfae4ca722d542f622d956d5056fcc3b2bda142960ef7380fb",
+      "pdf_page_count": 5,
+      "visually_reviewed_pdf_pages": [
+        1,
+        3,
+        4
+      ],
+      "rendered_pages": [
+        {
+          "page_one_based": 1,
+          "path": "03-report/research-notes/r06-second-check/market/captures/M6S-S02-cover.png",
+          "sha256": "dee03dc906248372603526b6fcd91ff1a3c4b59ac4ab332e05dadcc54564d0be",
+          "visually_reviewed": true
+        },
+        {
+          "page_one_based": 3,
+          "path": "03-report/research-notes/r06-second-check/market/captures/M6S-S02-page-3.png",
+          "sha256": "cc7821c107e80cde5c988b68faf9416b615b15c4693d90046d7f667a3b529a05",
+          "visually_reviewed": true
+        },
+        {
+          "page_one_based": 4,
+          "path": "03-report/research-notes/r06-second-check/market/captures/M6S-S02-page-4.png",
+          "sha256": "a39bd42d168ff22d42a7942f85ec8214add802e5dad2a07d33c30db63fba4436",
+          "visually_reviewed": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "M6S-S03",
+      "url": "https://www.sage.com/en-gb/support/cancel-account/",
+      "http_status": 403,
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06-second-check/market/captures/M6S-S03-selected-reader-notes.txt",
+          "sha256": "33eae62c95fc811235c475dff198160ae4b2b4622269887c5670e35b1c2b42d2",
+          "kind": "paraphrased_selected_original_reader_notes_not_raw_capture"
+        }
+      ]
+    }
+  ]
+}

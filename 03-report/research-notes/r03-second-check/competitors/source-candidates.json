@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R3COMP-S01",
+      "title": "The growing role of technology in payroll and HR",
+      "publisher": "JGA Recruitment",
+      "url": "https://jgarecruitment.com/blog/the-growing-role-of-technology-in-payroll-and-hr/",
+      "accessed_on": "2026-10-29",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "source_type": "company_editorial_and_recruitment_context",
+      "published_date": "2025-11-19",
+      "date_note": "Date displayed on article; revision date not established.",
+      "review_status": "relevant_original_body_inspected_through_web",
+      "locator": "Opening/HRIS positions; technology themes; platform list/FAQs excluded as unverified comparative advice",
+      "population": "JGA editorial/recruitment positioning, not an independent employer or technology evaluation",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "limitations": "Article establishes published topic/HRIS recruitment context only. Platform-fit, accuracy, savings, retention and AI-reliability claims are not adopted as facts.",
+      "funding_or_commercial_interest": "Publisher describes its own positioning or commercial services",
+      "reuse_status": "Private verification only; final reproduction/quotation review pending"
+    },
+    {
+      "candidate_id": "R3COMP-S02",
+      "title": "Project Services: Project Delivery and SOW Solutions",
+      "publisher": "Hays UK",
+      "url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "capture_path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S02.html",
+      "capture_sha256": "2a05b3b2882ed093bcd27016284bf964536d38a5f40b4c9b10a013586abcedd6",
+      "capture_status": "retained_original_html",
+      "bytes": 243432,
+      "source_type": "supplier_project_delivery_declaration",
+      "published_date": null,
+      "date_note": "Publication/revision date unknown; original live inspected29October2026.",
+      "review_status": "relevant_original_body_inspected_through_web",
+      "locator": "Delivery models; Managed Projects; approach: SOW, onboarding/offboarding, reviews/knowledge transfer",
+      "population": "Technology project service declaration, not payroll-specific outcomes",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "limitations": "Published delivery models and knowledge-transfer promise are not a signed payroll scope, verified performance, typical cost, guaranteed capacity or payroll processing service.",
+      "funding_or_commercial_interest": "Publisher describes its own positioning or commercial services",
+      "reuse_status": "Private verification only; final reproduction/quotation review pending"
+    },
+    {
+      "candidate_id": "R3COMP-S03",
+      "title": "Consulting Services, Project Staffing and Managed Solutions",
+      "publisher": "Robert Half UK / Protiviti",
+      "url": "https://www.roberthalf.com/gb/en/consulting",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/consulting",
+      "capture_path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S03.html",
+      "capture_sha256": "2c77573fdc9734f6c05b9e3375d0f2e338bde9bee3672819e5cf64d139c8b383",
+      "capture_status": "retained_original_html",
+      "bytes": 318813,
+      "source_type": "supplier_blended_consulting_staffing_declaration",
+      "published_date": null,
+      "date_note": "Publication/revision date unknown; original live inspected29October2026.",
+      "review_status": "relevant_original_body_inspected_through_web",
+      "locator": "Consulting from Protiviti; Flex and scale staffing; Strategy/advisory; Process and technology implementation; Optimised operations",
+      "population": "Cross-function consulting and staffing declaration, not a payroll implementation evaluation",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "limitations": "No payroll-specific success, universal managed-payroll entitlement or independent outcome inferred. Omnissa finance/deal-management testimonial and superlatives are not adopted.",
+      "funding_or_commercial_interest": "Publisher describes its own positioning or commercial services",
+      "reuse_status": "Private verification only; final reproduction/quotation review pending"
+    }
+  ],
+  "reused_canonical_source_ids": [
+    "SRC-0113",
+    "SRC-0114",
+    "SRC-0115",
+    "SRC-0116",
+    "SRC-0117",
+    "SRC-0118",
+    "SRC-0119",
+    "SRC-0120"
+  ],
+  "excluded_discovery": [
+    {
+      "url": "https://oakleaftct.com/digital-transformation/",
+      "reason": "Live redirect to homepage; cached historic reader body excluded from current scope.",
+      "status": "discovery_only_not_eligible_for_canonical_scope_claim"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-29",
+  "file_count_excluding_manifest": 19,
+  "all_capture_hashes_verified": true,
+  "capture_file_checks": 15,
+  "files": [
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/BUYER-AUTHORITY-EVIDENCE.md",
+      "bytes": 13652,
+      "sha256": "b658ff38d93ff51a3c9236f9bf7562f049b8ce8872c16f424365d8c9a9fdcaea"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/capture-log.json",
+      "bytes": 7098,
+      "sha256": "473ed6b5e7633c69a90e86277820c21a903e156f26a9181a2d365413b55230f9"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S01-purplebricks-web-reader.txt",
+      "bytes": 9801,
+      "sha256": "953a251f430f7f2a5a80d305d24341a039202ac3b5b68cfcd46bf7e7c37ac464"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S01-purplebricks.html",
+      "bytes": 450,
+      "sha256": "4de6e3ea59490e736da048fc7f4f5bdfa9b5a8e8d7e51782b16a7a68b7e64de0"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S01-purplebricks.txt",
+      "bytes": 293,
+      "sha256": "f27d8083731530a830a24cf6c6878dbb1e10019830016d99ebc7adf049b40101"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S02-cipp-post-migration.html",
+      "bytes": 42031,
+      "sha256": "9f0ffc5cf7fca71b40641c97dd0eea2bc7cb7f54644a5b52b0543176225b1a87"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S02-cipp-post-migration.txt",
+      "bytes": 3942,
+      "sha256": "8480fbc6a7e1bfff2bedc15fd26b8e8c4f7d033e037f52aacad39044c8f8a068"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S03-decjuba.html",
+      "bytes": 44615,
+      "sha256": "eae5652079efe38094b3d6ace63785a32a36663dbb588f72b4a4552543250c4e"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/BUY-S03-decjuba.txt",
+      "bytes": 3841,
+      "sha256": "b4842a2068828950deed9e5eecd385b7419f24d4bb464301526d0a1d9820e6d0"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0060-g2-paycom-buyer-logic.html",
+      "bytes": 270871,
+      "sha256": "1e14795cc6a4465741e77ef28d4a73044245a5bef530215d1674bb1c8f08473a"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0060-g2-paycom-buyer-logic.txt",
+      "bytes": 34005,
+      "sha256": "16ce22b2dbdc09fe35b017f1fc35379516ba29a153b18529c4dc4abf1418951a"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0061-g2-methodology.html",
+      "bytes": 79790,
+      "sha256": "165443f35a938de94c593d1a17a004d28c4bc61cf1e620cf58fedc14040e581d"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0061-g2-methodology.txt",
+      "bytes": 15018,
+      "sha256": "36608e1ac80c08370a1a36a3b77c44e96a3aab1c1a99be4bae9575717118dcec"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0065-page-26.png",
+      "bytes": 283388,
+      "sha256": "ff64a2afbdbc79e125a7a2eac59054e4a034585132e095daed5c86067a8aea89"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0066-kpmg-ukg-landing.html",
+      "bytes": 309543,
+      "sha256": "f19ee303dfebcafcdd049ea9f707ad11cbf78854583755092ddd8ca41ceeabea"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/captures/SRC-0066-kpmg-ukg-landing.txt",
+      "bytes": 21891,
+      "sha256": "52e378be214ecf085035aa572c151b06e08fdf887fd7d140badc76ac91e43676"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/claim-candidates.json",
+      "bytes": 6269,
+      "sha256": "c6ff054b578193d7b6f52f60f023ffb90dfa1c97839b7861189b5ac3bdfe1231"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/review-log.json",
+      "bytes": 3142,
+      "sha256": "f8c12cde2393819bb575a1b2987f42f1b2f218db91f8abc22ab0f329dc3c502b"
+    },
+    {
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r04/buyers/source-candidates.json",
+      "bytes": 10803,
+      "sha256": "f5e08db26e6bef4b789eec1cf2267b4676ab4faa86731ff12eb3c4459db7012e"
+    }
+  ]
+}

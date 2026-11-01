@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-30",
+  "status": "completed_internal_T01_second_challenge_T02_refinement_pending",
+  "selected_models_preserved": 6,
+  "original_hypotheses_preserved": 4,
+  "new_selective_conditions": 6,
+  "new_source_routes": 6,
+  "new_primary_originals": 5,
+  "new_reader_only_sources": 1,
+  "new_claim_records": 25,
+  "canonical_source_routes": 223,
+  "canonical_claims": 432,
+  "source_records_with_primary_originals": 151,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 131,
+  "independent_preliminary_checks": 471,
+  "independent_integrated_checks": 1168,
+  "prior_study_questions": 3,
+  "prior_saved_answers": 24,
+  "prior_exact_lineage_checks": 126,
+  "prior_semantic_rereads": 3,
+  "prior_model_reruns": 0,
+  "constructed_analyst_cases": 9,
+  "root_walkthrough_checks": 173,
+  "empirical_validation": false,
+  "actual_participant_observations": 0,
+  "actual_Table_conversations": 0,
+  "additional_mandatory_report_questions": 0,
+  "financial_inputs_added": 0,
+  "price_recommendations_added": 0,
+  "external_messages_sent": 0,
+  "purchases_or_bookings": 0,
+  "fieldwork_activated": false,
+  "final_client_delivery": false,
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-30",
+    "checks": 4793,
+    "json_files": 481,
+    "source_records": 223,
+    "claim_records": 432,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 413,
+    "scope": "T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01–R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  },
+  "artifacts": [
+    {
+      "path": "04-table/T01-SECOND-CHECK-READOUT.md",
+      "sha256": "6c5369eb9cf7c191935c2d3213a05abb5a4b18bf347d3a831bcb90ea2ee1251a"
+    },
+    {
+      "path": "04-table/T01-SECOND-CHECK-MATRIX.md",
+      "sha256": "1625433eea6472290fa3554288f1ba591ad7a54f730056c39c45fe4f584dd14a"
+    },
+    {
+      "path": "04-table/T01-second-challenge-map.json",
+      "sha256": "07c9811e338f5f9a8246336d91fb36da669589bd428e79a9ab6f78e6d1570820"
+    },
+    {
+      "path": "04-table/T02-SECOND-CHECK-REFINEMENTS.md",
+      "sha256": "adbd874f106a1f91856eb46692f5509d62c675f7a3d3f1e7efd45f1fd3fdacdf"
+    },
+    {
+      "path": "08-qa/T01-second-check-record-map.json",
+      "sha256": "8ef34431b6552710141296423529c5fab2c0110627cecb8d95cdaa1e04996109"
+    },
+    {
+      "path": "08-qa/T01-second-check-captures.json",
+      "sha256": "1976b81f7fb1de6faa78dce3046969881ad9685afeb8f2e681570cbf17211ad5"
+    },
+    {
+      "path": "08-qa/T01-second-routing-walkthrough.json",
+      "sha256": "79335068424a3e384e6a0abe46aae3d659fb3710b47f68feb92b5e4f8c3c6f6f"
+    },
+    {
+      "path": "08-qa/T01-second-check-independent-review.md",
+      "sha256": "237bef5d2bbad5a529e64b01e1a724c7a19f07c6661c508f0c40111d16f42e49"
+    },
+    {
+      "path": "08-qa/t01-second-review/integration-checks.json",
+      "sha256": "af4fa1cec88d92fbbcd21efb3d6ee59cac4698806d403bdf073dbe8822aefd29"
+    },
+    {
+      "path": "08-qa/T01-second-check-baseline.json",
+      "sha256": "04cbf4edf2f289adbfe73d6e5646a45cc6cd4823a45cf200f930aa4af629395a"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "d14fcf451ee8e0ee6e256af800d6e3b6a33abe2d5854cf3e9c760b96f6abc7e3"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "03fbc49f549f522c7081ebc6ada231ace8ac48ab6cb16b97c6910a3e62c33af7"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "49f9ef8e58c7d48df5aa5ee2f13326d9c191b1e46e7fd2ebc0cd77369961e697"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "978a3a5934f3da622556a44503ab0859bfd8bf472657e0318b606f678666ddce"
+    },
+    {
+      "path": "README.md",
+      "sha256": "83728e85b3cf43e8b48de296f508e08b5d15988bfa3c7a61af6be8e6e7aa93d3"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "bc07d39ccf458a1c37693f4448d63a538f30c99cd88c293ed9d5a5ba87f28236"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "78f28eeb2a19e5c5268c23fd6464e19a44878372eb864848bf01cd4bb2396ecc"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "7797ef341330e5396d8ab74096a9632478c93d8bff88bb50611aedf803af6a11"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "fee12c495065ed7e5c41b92341e9a15dbfb966f012384d4c9fbbd22395a98a86"
+    },
+    {
+      "path": "02-evidence/registers/source-aliases.json",
+      "sha256": "68d4a5b27dae041b80b558076d56422cc8b0d4133ced870d65825fdfdd241446"
+    }
+  ],
+  "completion_artifact_hashes_verified": true
+}

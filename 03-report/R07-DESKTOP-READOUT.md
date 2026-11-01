@@ -1,0 +1,72 @@
+# R07: from stated priority to a practical decision
+
+29 October 2026. Internal desktop research and independent integrated review completed. This is the report module's evidence and analysis design, not completed practitioner research.
+
+## What this step adds
+
+The useful question is not simply which payroll themes sound important. It is what an organisation expects to do, what supports that expectation, and which conditions affect the next decision. A desired feature, a personal training plan, approved resources and an operating improvement can all be relevant, but they describe different things.
+
+The inspected public evidence does not supply a common ranking of funded UK payroll priorities. The report can instead connect priority, operating context, authority, resources and result. This gives practitioners a clearer way to explain a need and suppliers a more accurate basis for understanding it. It does not assume that every priority needs a new system, provider or hire. CLM-0393, CLM-0398, CLM-0405, CLM-0408–0409.
+
+## Findings that change how we use the evidence
+
+| Evidence | What the original item supports | Consequence for this report |
+| --- | --- | --- |
+| Azets B1 and E1, original pages 11–12 | B1 bundles strategic importance, active review and investment; E1 asks about managing **or** investing in payroll. | Retain the exact frame. Neither identifies a separately approved project, allocation or purchase driver. CLM-0386–0387. |
+| SD Worx full report, page 33 | Separate employer agreement statements concern exploring, investing, scaling and significant HR-AI outcomes. | No subtraction into a conversion funnel or assumption that the same organisations passed through stages. CLM-0388. |
+| SD Worx payroll thematic report, page 11 | A payroll-priority list differs from broad urgent HR challenges and publisher advice. | Do not merge the lists into one ranking or call different question frames a numeric contradiction. CLM-0389. |
+| Moorepay feature question | Respondents describe what they would most like from a provider. | Use as a hypothesis after unaided priorities, not a purchase, price acceptance or provider-change plan. CLM-0390. |
+| CIPP qualification items, printed pages 15–16 | Employer support and personal undertaken/current/planned qualifications are separate measures. | Separate resources, personal intent, completed learning and usable capability. CLM-0391. |
+| Published Synergy account | Reported approval/contract and funding responsibilities coexist with prospective gaps and benefits. | Funding, spend, delivery and realised benefit require their own scope and evidence. One programme remains one context. CLM-0404. |
+
+No item percentages, cross-study averages, funded-market shares or forecasts are adopted. Published populations, fieldwork, interests and item/base limits remain in the linked strand notes and canonical records.
+
+## A simpler analytical approach
+
+Under the unchanged Q005, obtain up to two expected organisational priorities over 12–24 months before offering examples. For each, establish the specific task/outcome and whose priority it is. Then clarify only what is relevant and known: evaluation/plan/authority, money and practical capacity, actual commitment/delivery, intended and assessed result, and what might move the priority forward or reduce its importance.
+
+These are parallel facts, not a mandatory ladder or a maturity score. Approved and being delivered can coexist; a useful improvement can use existing operating resources; an undisclosed amount is not proof of no funding. Unknown, not measured, not applicable and not disclosed remain distinct. No confidential budget document, precise headcount or complete committee map is required. CLM-0393, CLM-0408.
+
+The [priority and context guide](R07-CONTEXTUAL-PRIORITIES.md) explains the selective record, comparison rules and reader use. The [structured map](R07-priority-map.json) keeps templates blank until original evidence exists.
+
+## Context worth understanding
+
+The actual payroll population, work/pay arrangements, relevant jurisdictions, retained service tasks, change stage and timing can make an issue relevant. A simple employer-size, sector or country label cannot establish what is funded or which response is suitable.
+
+Official holiday-pay guidance illustrates dependence on the actual contractual pattern and applicable period. Cross-border guidance distinguishes territory, duration and coverage circumstances. Basic PAYE Tools has a bounded own-employer task scope. West Sussex's dated communication illustrates one employer's scale, reliable-payroll and school-calendar considerations. These support conditional explanations, not demonstrated sector/size investment differences or a universal complexity score. No calculation, individual classification or legal advice is adopted. CLM-0394–0398.
+
+## Planning needs a date and an applicability check
+
+HMRC and Acas guidance describe SSP changes effective on 6 April 2026. In this October review they are current operating context, not a new 2027 ambition. Eligibility and transitional conditions remain; guidance does not show what an employer implemented. CLM-0402–0403.
+
+The inspected HMRC benefits-in-kind manual is draft/interim. It describes specified first-phase benefits from April 2027, most others from April 2028, with loans/accommodation voluntary. Data ownership, software, provider handoffs, training, communication and transition cash timing can matter. Its November 2026 service and April 2027 tools statements describe future availability as of this review; no launch or product test is assumed. This is conditional planning context, not full enacted-law assurance, a budget estimate or a mandate for a new hire/provider. Recheck applicable current detail before publication or action. CLM-0399–0401, CLM-0405.
+
+## One additional number held back
+
+Moorepay's annual prose and original feature chart disagree on branding/customisation: 13% versus 12%. CLM-0392 is held from numerical reuse; neither value is selected or averaged. The question's qualitative meaning remains usable. Existing Moorepay, Deloitte and UI-behaviour holds remain unchanged. This narrow conflict is not a claim that every value in the source is wrong.
+
+## How this becomes valuable to JGA
+
+The report can help a practitioner explain a concrete priority in organisational terms: what needs to improve, for whom, what is already supported, the remaining dependency and evidence needed for a decision. Suppliers can distinguish a general preference from a defined opportunity and show which actual work their offer addresses. JGA can connect capability and leadership to a specific evidenced gap without treating recruitment as the default answer.
+
+Six to ten purposive contributions can support careful case explanations and contrasts, including contrary cases. They cannot supply representative UK sector rankings or national percentages of approved investment. No original contributions have yet been collected. The proposed cohort remains subject to client confirmation; public international examples do not expand it. CLM-0406–0409.
+
+## Evidence trail and completion boundary
+
+This pass adds four official source routes and 24 bounded claim/method/hold records, alongside explicit canonical reuses. Reused studies and programmes do not become new independent datasets. Original captures, selected extracts, PDF page renders and review logs remain distinct. Empty/blocked legislation and Powys attempts are excluded, not inspected source evidence.
+
+- [Survey/item review](research-notes/r07/priorities/PRIORITY-EVIDENCE.md)
+- [Context mechanisms](research-notes/r07/context/CONTEXT-EVIDENCE.md)
+- [Dated planning signals](research-notes/r07/signals/PLANNING-SIGNALS.md)
+- [Comparison method](research-notes/r07/root/PRIORITY-AND-COMPARISON-METHOD.md)
+- [Canonical mapping](../08-qa/R07-record-map.json) and [capture hashes](../08-qa/R07-captures.json)
+
+Next is R08 preparatory synthesis of the completed desktop modules. Final findings/framework still require permissioned practitioner integration and final-use checks. Fourteen core questions, eight client checkpoint files, scope and prior modules remain unchanged. Nothing has been sent.
+
+Verification: [independent integrated review](../08-qa/R07-independent-review.md) and [completion record](../08-qa/R07-completion-check.json). Final-use checks and practitioner integration remain separate.
+
+## User-requested second challenge
+
+Historical, segmented-market, all-six-comparator/JGA, prior-prompt and affected-user checks add five selective conditions: priority origin/revision, sequence beside ongoing work, actual usable capability/access, needed work before a chosen response, and whose outcome/action matters. First-pass dimensions, blank templates and fourteen questions remain unchanged. No original observations, market estimates or model reruns. Independent integrated desktop second-challenge review passed.
+
+[Second-challenge findings](R07-SECOND-CHECK-READOUT.md) give the evidence, specific competitor distinctions and saved-study boundaries.

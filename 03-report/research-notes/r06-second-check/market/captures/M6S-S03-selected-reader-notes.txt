@@ -1,0 +1,9 @@
+Selected paraphrased notes from original Sage UK public cancellation page, inspected29October2026 through web reader. Not raw HTML capture. Direct original request returnedHTTP403.
+
+Title: Thinking about leaving us? / Cancel Sage Business Cloud Accounting or Payroll.
+URL:https://www.sage.com/en-gb/support/cancel-account/
+Locator:FAQ Howlongdoesittaketocancel; differentproduct; finalpayment; whathappensaftercancel (readerlines135–152).
+
+The page describes keeping the applicable subscription active until its next billing date when cancellation is requested sufficiently in advance, and says access to data through the Sage solution ends on subscription expiry. It directs users of other Sage products, including Sage50/200/X3, to product/location-specific support rather than applying this route universally.
+
+These are supplier declarations for the named cancellation context. Actual subscription/contract, expiry, productconfiguration, downloadcompleteness, reactivation and successful receiving-system handback were not inspected. No instruction was executed. A separate UKknowledgebase article was inspected as a discoverycrosscheck; it distinguishes app-store billing and accountant-managed client routes, but is not adopted as an additional source or current UI verification. SouthAfrica/Ireland/US articles are not UKrules.

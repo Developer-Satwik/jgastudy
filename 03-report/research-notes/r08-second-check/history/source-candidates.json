@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-29",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0205",
+      "url": "https://www.london.gov.uk/decisions/dmfd106-replacement-human-resources-and-payroll-solution",
+      "locator": "Retained selected original-reader notes: executive summary;1.3,1.5,1.7,2.3",
+      "review_status": "prior_inspected_selected_reader_notes_reused_fresh_route_blocked",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+          "sha256": "368e25ed0837504ca0391f787b364b386415a84d2196cd38cb029e8e8bcbc0fd",
+          "kind": "prior_selected_reader_notes_not_raw_original"
+        }
+      ],
+      "review_result": "Earlier authorisation/options account retained in its2021 scope; compared with2025event account without treating either as later outcome evidence.",
+      "limitations": "Fresh primary reader returned403; not a fresh full-page reinspection or original capture. Existing selected notes are paraphrases. One LFBprogramme, not a new employer. No amounts, optimality, complete option audit, contract execution or2026outcome."
+    },
+    {
+      "source_id": "SRC-0206",
+      "url": "https://www.london-fire.gov.uk/media/jrqngpy0/lfc-25-098-replacement-hr-and-payroll-system-novemberr-2025-update-signed.pdf",
+      "locator": "PDF2–4, especially1.1–1.5,2.1–2.8",
+      "capture_path": "03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "capture_sha256": "27329a0fd6977d885425dd528af239ad8340513ff87b354e780efca64d784609",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r08-second-check/history/captures/SRC-0206-selected-text.txt",
+          "sha256": "ad0363abe1e866c44f73c755fdddd34a0fd6d2d2f763a891ba51ae7fe3276651",
+          "kind": "selected_pdf_text_extract"
+        }
+      ],
+      "review_status": "retained_original_PDF_reinspected_and_primary_reader_revisited",
+      "visually_inspected_pdf_pages": [
+        3,
+        4
+      ],
+      "review_result": "Report narrates prior decisions, sponsor change, the assessed release alternatives and reset measures within one programme; later explanations and dates need their own scope.",
+      "limitations": "Report itself is an employer account with retrospective narrative, not raw minutes or an independently tested option/risk audit. No go-live outcome after prospective dates, payroll-only cost, source-wide run-count rule, current2026status or supplier fault/ranking."
+    },
+    {
+      "source_id": "SRC-0134",
+      "url": "https://audit.scot/uploads/2025-10/aar_2425_scottish_government.pdf",
+      "locator": "PDF/printed43para125;46paras137–141",
+      "capture_path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "capture_sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r08-second-check/history/captures/SRC-0134-selected-text.txt",
+          "sha256": "e609540947bad06681edac374ba9f03e9cd81e5c2d0225896981cec193ffdc4f",
+          "kind": "selected_pdf_text_extract"
+        }
+      ],
+      "review_status": "retained_original_PDF_reinspected_and_primary_reader_revisited",
+      "visually_inspected_pdf_pages": [
+        46
+      ],
+      "review_result": "Later external audit describes separate migration signoff, conditional committee recommendations, final go-live decision with known issues and audit appraisal of particular processes.",
+      "limitations": "One2024/25combined HR/finance programme, linked to SRC0067, not a new employer or current2026assurance. Audit reporting of minutes/management reasoning is not full independent validation of all contemporary beliefs or universal payroll accuracy. No percentages, defect threshold, staffing size, cost or generic acceptable-risk standard adopted."
+    }
+  ],
+  "new_independent_datasets": 0
+}

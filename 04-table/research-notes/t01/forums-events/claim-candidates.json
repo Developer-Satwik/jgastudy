@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "status": "candidate_records_only",
+  "canonical_register_merged": false,
+  "records": [
+    {
+      "claim_id": "T1FE-C01",
+      "candidate_id": "T1FE-C01",
+      "source_candidate_ids": [
+        "T1FE-S01"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "CPO targets senior corporate payroll leadership and links a public editorial offer with an invite-only leadership group in The Payroll Community.",
+      "evidence_class": "published_source_context",
+      "locator": "cpo-about.parsed.txt lines 6–10; Our Story",
+      "limitations": "Positioning and access description, not evidence of membership scale or private activity.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C02",
+      "candidate_id": "T1FE-C02",
+      "source_candidate_ids": [
+        "T1FE-S02"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "PayrollOrg’s January 2026 public article reports the CPO Forum launched in October 2025 and describes peer questions about communicating payroll value and choosing leadership metrics.",
+      "evidence_class": "published_source_context",
+      "locator": "cpo-forum-review.parsed.txt lines 7–25",
+      "limitations": "Selected organizer-published examples; no private answers or independently measured contribution rate.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C03",
+      "candidate_id": "T1FE-C03",
+      "source_candidate_ids": [
+        "T1FE-S03"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "The CPO subscription page advertises quarterly executive payroll content by email at no cost, including strategic payroll, leadership and operational topics.",
+      "evidence_class": "published_source_context",
+      "locator": "cpo-subscribe.parsed.txt lines 2–15",
+      "limitations": "Free subscription is not proof that CPO Forum access is free or automatically granted.",
+      "value": "quarterly",
+      "unit": "advertised email publication cadence",
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C04",
+      "candidate_id": "T1FE-C04",
+      "source_candidate_ids": [
+        "T1FE-S04"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "The broader Payroll Community terms describe a members’ peer community and prohibit product solicitation and advertisements, with removal or access suspension possible.",
+      "evidence_class": "published_source_context",
+      "locator": "payroll-community-terms.parsed.txt lines 29–43",
+      "limitations": "Broader platform rules; no separate CPO invitation agreement was visible. Not a documented sponsor-access package.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C05",
+      "candidate_id": "T1FE-C05",
+      "source_candidate_ids": [
+        "T1FE-S04"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "The broader community terms caution against confidential posting, request permission before republishing, and contain a broad licence allowing PayrollOrg and community users to reuse posted material.",
+      "evidence_class": "published_source_context",
+      "locator": "payroll-community-terms.parsed.txt lines 45–53 and 61",
+      "limitations": "Licence and etiquette coexist. No legal interpretation or assurance of confidentiality; do not borrow as consent to JGA confidential research.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C06",
+      "candidate_id": "T1FE-C06",
+      "source_candidate_ids": [
+        "T1FE-S10"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "The public CPO community shell requires login for announcements; its visible editorial feed is not equivalent to access to member discussion.",
+      "evidence_class": "published_source_context",
+      "locator": "cpo-community-home.parsed.txt CPO Home Page / Announcements; lines 27–51",
+      "limitations": "No authentication attempted. Public activity rankings were not used to infer demand or engagement.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C07",
+      "candidate_id": "T1FE-C07",
+      "source_candidate_ids": [
+        "T1FE-S05"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "Learning Futures London is advertised as a two-day Executive Knowledge Exchange on 17–18 November 2026 at Lloyds Banking Group, for CLOs and Global Heads of Learning.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-london-2026.parsed.txt lines 15–22",
+      "limitations": "Future announced event at 29 October 2026; venue, facilitators and registrations are not achieved attendance. L&D comparator, not payroll-specific.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C08",
+      "candidate_id": "T1FE-C08",
+      "source_candidate_ids": [
+        "T1FE-S05"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "The London event page promises interactive discussion, problem-solving breakouts, peer coaching and networking, with free places for senior multinational-company leaders.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-london-2026.parsed.txt lines 41–47",
+      "limitations": "Advertised participant value, not measured outcomes. No formal guaranteed research deliverable established.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C09",
+      "candidate_id": "T1FE-C09",
+      "source_candidate_ids": [
+        "T1FE-S06"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "The iVentiv FAQ makes free admission subject to organizer approval for VP/Director or other senior corporate delegates, describing a company-size threshold and global/regional responsibilities; travel and accommodation are excluded.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-faq.parsed.txt lines 17–31",
+      "limitations": "The cost answer says 10,000 or more employees; audience answer says more than 10,000. Preserve boundary discrepancy; not a universal free offer or payroll eligibility rule.",
+      "value": 10000,
+      "unit": "employees, advertised qualifying threshold (boundary wording differs)",
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C10",
+      "candidate_id": "T1FE-C10",
+      "source_candidate_ids": [
+        "T1FE-S06"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "iVentiv says event partners support free attendance; delegates may have scheduled partner conversations and can indicate preferred partners. The FAQ caps these at two or three sessions per day.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-faq.parsed.txt lines 32–36",
+      "limitations": "Organizer offer only; preference does not establish unrestricted refusal rights or private research access. No achieved meetings inferred.",
+      "value": {
+        "maximum_daily_sessions": "two or three"
+      },
+      "unit": "advertised 1-to-1 sessions",
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C11",
+      "candidate_id": "T1FE-C11",
+      "source_candidate_ids": [
+        "T1FE-S06"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "The FAQ describes a maximum of 40 executive-level participants and says pre-event questions help shape discussion topics.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-faq.parsed.txt lines 37–42",
+      "limitations": "Format cap and agenda input, not actual headcount, representative sample, or mandatory research contribution.",
+      "value": 40,
+      "unit": "advertised maximum executive participants per event",
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C12",
+      "candidate_id": "T1FE-C12",
+      "source_candidate_ids": [
+        "T1FE-S07"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "The live iVentiv Business Development package advertises two sponsor delegate passes, nine pre-selected individual meetings, an exhibition area, logos, delegate contacts and invitations to a sponsor target list.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-sponsors.parsed.txt lines 44–50",
+      "limitations": "Public package inventory, not a signed London order or guarantee delivered meetings. Contact sharing is disclosed elsewhere; legal basis and contract conditions require event-specific review.",
+      "value": {
+        "sponsor_delegate_passes": 2,
+        "preselected_meetings": 9,
+        "exhibition_areas": 1
+      },
+      "unit": "advertised package inclusions",
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C13",
+      "candidate_id": "T1FE-C13",
+      "source_candidate_ids": [
+        "T1FE-S07"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "The live Plenary package adds a sponsor-led 60-minute session, with sponsor choice of topic and format. Annual sponsorship is advertised from support of eight or more in-person events with extra promotional benefits.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-sponsors.parsed.txt lines 51–61",
+      "limitations": "No public price, VAT basis, actual sponsor revenue, event capacity sold or renewal rate verified. Does not establish independent research governance.",
+      "value": {
+        "plenary_minutes": 60,
+        "annual_sponsor_event_minimum": 8
+      },
+      "unit": "advertised package thresholds",
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C14",
+      "candidate_id": "T1FE-C14",
+      "source_candidate_ids": [
+        "T1FE-S08"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "iVentiv’s policy discloses attendee contact sharing with participants at the event and says pre-event inputs may be anonymised in aggregate reports; participants can decline surveys or request exclusion from reports.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-privacy.parsed.txt lines 25, 31 and 55",
+      "limitations": "Published general policy, not our consent or JGA rights. Does not confer permission to identify private respondents or transfer their answers to sponsors.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C15",
+      "candidate_id": "T1FE-C15",
+      "source_candidate_ids": [
+        "T1FE-S09"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "iVentiv’s generic event terms require payment before the event but contain both 21-day and 14-day invoice provisions, with limited credits rather than broad cancellation refunds.",
+      "evidence_class": "published_source_context",
+      "locator": "iventiv-event-terms.parsed.txt lines 17–33",
+      "limitations": "Ambiguous applicability to free delegates or exact sponsor package; no chosen invoice interval or sponsor cash-flow figure can be used.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C16",
+      "candidate_id": "T1FE-C16",
+      "source_candidate_ids": [
+        "T1FE-S01",
+        "T1FE-S03",
+        "T1FE-S04"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-05",
+      "claim_text": "A digital senior-payroll forum plus free editorial stream is a direct low-travel substitute for some peer learning benefits of The Table; a dinner needs a distinct confidential research and decision-support return.",
+      "evidence_class": "analytical_interpretation",
+      "locator": "Analyst synthesis from CPO offer and community rules",
+      "limitations": "Inference about product design, not demonstrated buyer preference, willingness to pay or substitution behaviour.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    },
+    {
+      "claim_id": "T1FE-C17",
+      "candidate_id": "T1FE-C17",
+      "source_candidate_ids": [
+        "T1FE-S06",
+        "T1FE-S07",
+        "T1FE-S08"
+      ],
+      "canonical_source_ids": [],
+      "model_id": "MODEL-06",
+      "claim_text": "iVentiv separates a free executive seat from a commercial sponsor-access package. JGA should not promise that access by default while presenting The Table as confidential independent research.",
+      "evidence_class": "analytical_interpretation",
+      "locator": "Analyst synthesis: iVentiv FAQ, package and privacy policy",
+      "limitations": "Design implication, not a finding that JGA participants would reject sponsorship. JGA participant contacts and research answers remain outside sponsor rights unless separately agreed.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "accessed_on": "2026-10-29",
+      "status": "candidate_for_parent_review"
+    }
+  ]
+}

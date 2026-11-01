@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "T1R-C01",
+      "canonical_source_ids": [
+        "SRC-0010"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "CIPP makes three payroll report routes visible in its public catalogue, addressing in-house payroll, outsourced payroll and payroll professionals. The conflicting catalogue and link edition labels prevent using this page alone to establish a new edition.",
+      "evidence_class": "publisher_catalogue_availability_context",
+      "locator": "Catalogue heading and report links",
+      "limitations": "Public catalogue only. Heading says 2026 but individual links say 2027; retain the existing edition-label discrepancy. Do not infer a new dataset, released 2027 results, unrestricted reuse, current downloads or commercial licence rights. Earlier underlying report reviews remain the substantive evidence.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Public offer/catalogue context or explicit researcher interpretation; not collected payroll participants",
+      "time_period": "Public pages rechecked 29 October 2026; no new longitudinal findings",
+      "status": "T01_desktop_context"
+    },
+    {
+      "candidate_id": "T1R-C02",
+      "canonical_source_ids": [
+        "SRC-0013"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Payroll Influences publicly describes a catalogue of reports, white papers, buyer cases and pulse research, with named partner collaborations. This establishes competing public research formats and declared partner involvement, not the terms or success of those arrangements.",
+      "evidence_class": "publisher_declared_product_catalogue",
+      "locator": "Pi Research introduction; named ADP, Workday, UKG and OneSource Virtual entries",
+      "limitations": "Publisher catalogue and partnership declarations only. No claim of independent effectiveness, contract price, achieved revenue, editorial control, redistribution licence or permission to reuse underlying case outcomes. No catalogue listing proves current audience demand.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Public offer/catalogue context or explicit researcher interpretation; not collected payroll participants",
+      "time_period": "Public pages rechecked 29 October 2026; no new longitudinal findings",
+      "status": "T01_desktop_context"
+    },
+    {
+      "candidate_id": "T1R-C03",
+      "canonical_source_ids": [
+        "SRC-0010",
+        "SRC-0013"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "A paid Table proposition needs a specific decision use and an evidence, service or permission advantage over public payroll material. Potential differentiators include a carefully bounded decision-case comparison, implementation-use templates and a relevant private briefing; willingness to pay for any combination remains untested.",
+      "evidence_class": "researcher_comparative_design_hypothesis",
+      "locator": "Analytical application to public alternatives, not a publisher claim",
+      "limitations": "Not a proven market gap, unique capability, demand estimate, price recommendation or permission to collect/republish data. Test against an actual buyer decision and accessible substitutes in T02/T03.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Public offer/catalogue context or explicit researcher interpretation; not collected payroll participants",
+      "time_period": "Public pages rechecked 29 October 2026; no new longitudinal findings",
+      "status": "T01_desktop_context"
+    },
+    {
+      "candidate_id": "T1R-C04",
+      "canonical_source_ids": [
+        "SRC-0013"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Research funding, research-use licensing, practitioner participation and optional commercial follow-up are different exchanges. Their deliverables and rights should be specified separately rather than treating a public partner credit as proof that private answers, participant contacts or editorial control are included.",
+      "evidence_class": "researcher_product_rights_design_guardrail",
+      "locator": "Analytical application to partnership declarations; Table design brief",
+      "limitations": "Public catalogue does not expose partner contracts. No claim about unpublished terms of a named provider; Table terms and any participant permissions are not yet agreed.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Public offer/catalogue context or explicit researcher interpretation; not collected payroll participants",
+      "time_period": "Public pages rechecked 29 October 2026; no new longitudinal findings",
+      "status": "T01_desktop_context"
+    }
+  ]
+}

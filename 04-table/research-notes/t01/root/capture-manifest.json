@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "source_id": "SRC-0010",
+      "url": "https://www.cipp.org.uk/resources/payroll-insights-survey-series-section-landing/view-the-survey-reports.html",
+      "retrieved_at_utc": "2026-10-29T14:01:09.884963+00:00",
+      "http_status": 200,
+      "final_url": "https://www.cipp.org.uk/resources/payroll-insights-survey-series-section-landing/view-the-survey-reports.html",
+      "capture_path": "04-table/research-notes/t01/root/captures/SRC-0010.html",
+      "capture_sha256": "dfe305e93b3b02c00ef8184778f05a9bd0a63c3088a4a8419b6729fea9ddfab5",
+      "text_path": "04-table/research-notes/t01/root/captures/SRC-0010.txt",
+      "text_sha256": "4ed62600df0946d005d8976f831ef028f5c612ae592f93f35812c32d4bed2967",
+      "kind": "retained_original_html"
+    },
+    {
+      "source_id": "SRC-0013",
+      "url": "https://www.payrollinfluences.com/research",
+      "retrieved_at_utc": "2026-10-29T14:01:11.918427+00:00",
+      "http_status": 200,
+      "final_url": "https://www.payrollinfluences.com/research",
+      "capture_path": "04-table/research-notes/t01/root/captures/SRC-0013.html",
+      "capture_sha256": "3a656a72aebbf43c796b23fec9f646c7101258425bb5219db84496f0d30dcabe",
+      "text_path": "04-table/research-notes/t01/root/captures/SRC-0013.txt",
+      "text_sha256": "2c6d2f3e68769a5bbb45abb28be0b5de46dfd4443faa60ed8ca9050d5039fb25",
+      "kind": "retained_original_html"
+    }
+  ]
+}

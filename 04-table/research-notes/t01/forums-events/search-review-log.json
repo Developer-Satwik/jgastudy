@@ -1,0 +1,66 @@
+{
+  "review_date": "2026-10-29",
+  "scope": "T01 public desktop model comparison only. No T03 participant/sponsor demand validation.",
+  "queries": [
+    {
+      "query": "site.globalpayrollassociation.com payroll leaders summit 2026 forum sponsorship",
+      "outcome": "Older association-domain results and broad summit offers; subsequent search identified current gpa.net route."
+    },
+    {
+      "query": "site.iventiv.com payroll transformation 2026 participation free sponsor",
+      "outcome": "No payroll-specific product verified. Primary iVentiv offer is Learning/Talent/Executive Development. Do not invent Payroll Transformation product."
+    },
+    {
+      "query": "site.iventiv.com payroll transformation executive knowledge exchange free attendance 2026",
+      "outcome": "Found organizer About, FAQ and current/future L&D event catalogue."
+    },
+    {
+      "query": "\"Payroll Leaders\" \"Summit\" 2026 \"Global Payroll\"; site.cipp.org.uk payroll forum 2026 leadership; site.payroll.org Payroll Leaders Conference 2026",
+      "outcome": "Screened broad payroll conferences and public-sector forum; found organizer PayrollOrg senior Executive Summit account."
+    },
+    {
+      "query": "site.payrollcongress.com Executive Summit; site.payroll.org Executive Summit invitation; site.globalpayrollassociation.com leadership forum; GPA Payroll Leaders Summit",
+      "outcome": "Discovered precise CPO invite-only forum and editorial offer; selected as Model 05."
+    },
+    {
+      "query": "site.iventiv.com Learning Futures London 17 Nov 2026; site.iventiv.com sponsor privacy terms partners data",
+      "outcome": "Found concrete future event, sponsor package, privacy and event terms; selected Model 06."
+    },
+    {
+      "query": "site.quartznetwork.com events executive summit qualified free attendance meetings; site.gpa.net payroll summit 2026",
+      "outcome": "Primary screening confirms Quartz as alternative and GPA Summit date/format; no deeper price/demand assessment. iVentiv retained for clearer package/privacy detail."
+    }
+  ],
+  "route_review": [
+    {
+      "url": "https://cpo.org/about/",
+      "note": "First web-reader fetch timed out; later linked fetch and direct original HTML succeeded. No data filled from timeout."
+    },
+    {
+      "url": "https://community.payroll.org/communities/cpo-home?CommunityKey=4b200b82-c712-424b-b25d-0198420667fc",
+      "note": "Public shell reviewed only. Authentication boundary respected. Selected public activity scores not used."
+    },
+    {
+      "url": "https://www.iventiv.com/sponsors",
+      "note": "Cached web reader includes virtual package wording; direct live original HTML does not. Findings use captured live HTML only."
+    },
+    {
+      "url": "https://www.iventiv.com/terms-and-conditions",
+      "note": "Both 21-day and 14-day payment periods printed; no chosen terms or signed commercial interpretation assumed."
+    }
+  ],
+  "not_used": [
+    "Sponsor/attendee testimonials as outcome evidence",
+    "Third-party conference roundups as final factual support",
+    "PayrollOrg/GPA 2025 PDFs as current offers",
+    "Cumulative organizer satisfaction/attendance numbers",
+    "Search appearances or public rankings as proof of demand"
+  ],
+  "no_actions": [
+    "No forms completed",
+    "No contacts or messages",
+    "No signups or private posts",
+    "No spend or event/venue enquiry",
+    "No canonical/client artifact mutation"
+  ]
+}

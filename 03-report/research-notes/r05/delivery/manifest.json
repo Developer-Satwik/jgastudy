@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r05/delivery/DELIVERY-READINESS-EVIDENCE.md",
+      "sha256": "407016c845ef7bce843693c7912be283bba29e4ef8f3b76a42375ac51830dfa4",
+      "bytes": 9224
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/capture-log.json",
+      "sha256": "3c97714c4c23ce91f6f385dc9eb46b3e91df8ae681cee0946ee483ea4cedf8e0",
+      "bytes": 4092
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.html",
+      "sha256": "9d31cb9c1e2b73380063967db02a9dccdb6b39f9a194658389bdfc6dd242bdb8",
+      "bytes": 66309
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.txt",
+      "sha256": "bf5abcc73140001863f3f580b0aad39de1daadb72345a0f6038edd7a0dfaebb2",
+      "bytes": 14703
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.html",
+      "sha256": "4d8a429ad79c435a1a8a6c4f0bdaa3a06bd6c9dcd92d4ae0f4e53ca74bbda4f8",
+      "bytes": 79178
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.txt",
+      "sha256": "dae4e164fb6f20d0d2470af48a110ac428e3046eeeb36ca6c306e2706c659778",
+      "bytes": 8708
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0075.html",
+      "sha256": "6fc07b7c779faadfeaedce2de0eeec233e181b558885488794ba95fbd3cc6c1f",
+      "bytes": 176184
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0075.txt",
+      "sha256": "e7a9630e8ea0de829213d5b38ba45eac30349301da4fb06a1372457eba699de9",
+      "bytes": 35275
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0076.pdf",
+      "sha256": "1eb78842927f9ca9e1c7c24e281a1c30fac9e510b6d12f6fc70d6532c3199ea8",
+      "bytes": 423078
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/claim-candidates.json",
+      "sha256": "38808806cde230798c4d5864f45e50e9dc16678f0a877748bafcad03e038ef06",
+      "bytes": 9325
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-21.png",
+      "sha256": "39149751997a2026960caccb4f3dc2ec23ec99cc8b3b14ac5385fd38d3b77dc5",
+      "bytes": 302547
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-21.txt",
+      "sha256": "8a10df881f2fd97e1c3d79cb43bc49ae64dc0a95a6a15dfcb3fdcd1fbd034d5a",
+      "bytes": 3308
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-27.txt",
+      "sha256": "7b0c66d5950ff657a72a8443b7836fb1b4c69156a50bc5cb1a9db071f926dc70",
+      "bytes": 3328
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-40.txt",
+      "sha256": "fa2f67ef59e91ef63944be6cb668443239357818f1ae8e050525810c203e8109",
+      "bytes": 2367
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-41.png",
+      "sha256": "ee9b389e6d4e48ad3c51468048c675c6c83d6cbcbb218ca58e56dbe2a35390b9",
+      "bytes": 181476
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-41.txt",
+      "sha256": "104ec5eee7af198835db5872ce6199bf5dc6f4bdebf0de0636cb14e71c4dd962",
+      "bytes": 1871
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-43.txt",
+      "sha256": "064bd891356cd9035eacebb92487e162d132187d753e63576152bae163e57446",
+      "bytes": 3060
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-46.txt",
+      "sha256": "1114291d05b710e3af7ca46ab9198a7c0487694e503181c4550e13cf6e9df8b4",
+      "bytes": 3093
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-47.png",
+      "sha256": "64bbc3a01dc9b11ad2bd355edbe3b2c9884c236177eef1574d2c85696031c2bc",
+      "bytes": 394057
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-47.txt",
+      "sha256": "a2c8c24a5bdb1cf2c3ae137e4142b1b135e0dba07cd12447679f4b9642ec3527",
+      "bytes": 2788
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-48.png",
+      "sha256": "958c303fe95acfbc0d7e86ddd69420952b569a4567921f47cbeb4df1f152ebc6",
+      "bytes": 395012
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-48.txt",
+      "sha256": "bee8777dac22ceb4567d93200d502e5679d3de35cd6fa699b4f6a37775f3bf5d",
+      "bytes": 2866
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-50.txt",
+      "sha256": "ba64149cae723fdbe9ef3717c915af33218186fed00f308de6880dc594272744",
+      "bytes": 2727
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-55.png",
+      "sha256": "6abf5389fd90560dba3a96f42c3884b4f1c60783c4d5fd33eddedf81535fe829",
+      "bytes": 342485
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-55.txt",
+      "sha256": "2b12bf9a1e47759171ea620f68a4baa942daf3867ff7291bfdb7370b9ba6a7c4",
+      "bytes": 2389
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0135-page-38.png",
+      "sha256": "de6eafda1e365d792e128c0d02d5a34b6868dafa6046059102fb9267d2975c9f",
+      "bytes": 423616
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0135-page-38.txt",
+      "sha256": "2b9f05c076a6c78196345f9bb75202328e68ed12a7014821f09529780a6174f5",
+      "bytes": 3726
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/review-log.json",
+      "sha256": "a0f7cea5f77c4a354ae7bdf454a4f13c99fa500104138861211024720ed9bb74",
+      "bytes": 2636
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/source-candidates.json",
+      "sha256": "8511bbda4f2f66447f197cc4e1a3a8f0bf4bbb774c84e5c2880c7a7e91a83f2e",
+      "bytes": 6560
+    }
+  ]
+}

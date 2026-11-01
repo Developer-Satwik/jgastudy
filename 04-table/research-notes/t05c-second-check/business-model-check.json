@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-01",
+  "model_count": 6,
+  "original_model_map_preserved": true,
+  "records": [
+    {
+      "model_id": "T01-M01",
+      "mechanism": "Sponsored research",
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0224",
+        "SRC-0225",
+        "SRC-0226"
+      ],
+      "cash_obligation_implication": "A sponsored report order can combine outputs and rights; recognition is neither payment nor editorial control. No public fee/receipt schedule was established.",
+      "jga_financial_input": false,
+      "actual_demand_validated": false
+    },
+    {
+      "model_id": "T01-M02",
+      "mechanism": "Licensed analyst intelligence",
+      "source_ids": [
+        "SRC-0227",
+        "SRC-0228",
+        "SRC-0229"
+      ],
+      "cash_obligation_implication": "Licensed access and provider marketing assets need exact term, asset, user and use rights. One package receipt must not be counted again for included rights.",
+      "jga_financial_input": false,
+      "actual_demand_validated": false
+    },
+    {
+      "model_id": "T01-M03",
+      "mechanism": "Payroll support membership",
+      "source_ids": [
+        "SRC-0231",
+        "SRC-0232",
+        "SRC-0238",
+        "SRC-0239"
+      ],
+      "cash_obligation_implication": "Annual service access can leave work and named-user obligations beyond the cash window. Comparator auto-renewal is not adopted for JGA.",
+      "jga_financial_input": false,
+      "actual_demand_validated": false
+    },
+    {
+      "model_id": "T01-M04",
+      "mechanism": "Research and practitioner community",
+      "source_ids": [
+        "SRC-0233",
+        "SRC-0234",
+        "SRC-0235",
+        "SRC-0236"
+      ],
+      "cash_obligation_implication": "Organisational access and a vetted peer seat are different benefits. Payment for one does not satisfy or sell the other by assumption.",
+      "jga_financial_input": false,
+      "actual_demand_validated": false
+    },
+    {
+      "model_id": "T01-M05",
+      "mechanism": "Senior payroll peer forum",
+      "source_ids": [
+        "SRC-0240",
+        "SRC-0241",
+        "SRC-0242",
+        "SRC-0243",
+        "SRC-0249"
+      ],
+      "cash_obligation_implication": "A senior-payroll forum or public research is an alternative; public access does not establish Table admission price or paid conversion.",
+      "jga_financial_input": false,
+      "actual_demand_validated": false
+    },
+    {
+      "model_id": "T01-M06",
+      "mechanism": "Sponsor-funded executive events",
+      "source_ids": [
+        "SRC-0244",
+        "SRC-0245",
+        "SRC-0246",
+        "SRC-0247",
+        "SRC-0248"
+      ],
+      "cash_obligation_implication": "Approved attendee and sponsor benefits have different payers/obligations. Actual booking terms govern credits, cancellation and excluded travel.",
+      "jga_financial_input": false,
+      "actual_demand_validated": false
+    }
+  ]
+}

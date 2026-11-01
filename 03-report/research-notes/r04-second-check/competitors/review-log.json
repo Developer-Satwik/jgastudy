@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-29",
+  "status": "strand_complete_for_parent_review",
+  "source_summary": {
+    "new_original_routes_reviewed": 2,
+    "new_routes_with_retained_raw_original": 2,
+    "reused_canonical_routes_assessed": 8,
+    "all_six_comparators_assessed": true,
+    "new_practitioner_observations": 0
+  },
+  "checks": [
+    {
+      "check": "All six firms have explicit source/disposition and authority limit",
+      "passed": true
+    },
+    {
+      "check": "JGA context is not assumed need to hire",
+      "passed": true
+    },
+    {
+      "check": "Role advert is prospective mandate rather than observed delegation",
+      "passed": true
+    },
+    {
+      "check": "CPO reported mandate does not establish full buying chain",
+      "passed": true
+    },
+    {
+      "check": "Time approval not project-output acceptance or investment authority",
+      "passed": true
+    },
+    {
+      "check": "Alternate approval scoped to published portal function",
+      "passed": true
+    },
+    {
+      "check": "All selected prompt texts exact and consistent within question",
+      "passed": true
+    },
+    {
+      "check": "All96 exported fullAnswer hashes match recorded hashes",
+      "passed": true
+    },
+    {
+      "check": "All96 saved index prompt/fullAnswer texts match",
+      "passed": true
+    },
+    {
+      "check": "CFO anchoring in constructed prompts explicitly rejected as market evidence",
+      "passed": true
+    },
+    {
+      "check": "No recommendation counts transferred",
+      "passed": true
+    },
+    {
+      "check": "Global source completeness limits retained",
+      "passed": true
+    },
+    {
+      "check": "Two raw original new pages present and hashed",
+      "passed": true
+    },
+    {
+      "check": "403 reader and raw distinctions explicit",
+      "passed": true
+    },
+    {
+      "check": "Redirected Portfolio job body excluded",
+      "passed": true
+    },
+    {
+      "check": "No canonical/client/previous-study/core-instrument changes",
+      "passed": true
+    },
+    {
+      "check": "No external contact form account or fieldwork actions",
+      "passed": true
+    }
+  ],
+  "screened_not_adopted": [
+    {
+      "url": "https://www.theportfoliogroup.com/payroll/jobs/payroll-senior-26/",
+      "reason": "Former indexed body redirected to listing. No body claim promoted."
+    },
+    {
+      "url": "https://uk.linkedin.com/jobs/view/global-benefits-payroll-implementation-lead-at-hays-4418593016",
+      "reason": "Search discovery of role wording only; not promoted because original Hays body unavailable and exact status/date not established."
+    },
+    {
+      "url": "https://www.roberthalf.com/gb/en/jobs/all/payroll",
+      "reason": "Dynamic multiposting discovery not needed for authority claims; no role-selection claim promoted."
+    }
+  ],
+  "capture_files_hash_checked": 13,
+  "previous_provenance_files_hash_checked": 6,
+  "external_actions": [],
+  "client_files_changed": [],
+  "canonical_files_changed": [],
+  "independence_limit": "This is strand author self-check. Root arranges separate integrated review; history strand will independently validate the frozen prior-study bridge."
+}

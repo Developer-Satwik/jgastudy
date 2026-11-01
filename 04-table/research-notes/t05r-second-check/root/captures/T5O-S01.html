@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.19">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Planning and designing – JSNA Hub</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../../guidance/qualitative-methods/talk-based-methods/accessibility-and-inclusion/index.html" rel="next">
+<link href="../../../../guidance/qualitative-methods/talk-based-methods/getting-started/index.html" rel="prev">
+<link href="../../../../images/favicon.ico" rel="icon">
+<script src="../../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-e51efa623bf8d177d7a5ce694b440cbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap-1d1abb4c467be111c0d7b82e78decddd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": true,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css">
+<script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K7ZG9GFG');</script>
+
+
+<link rel="stylesheet" href="../../../../styles/styles.css">
+</head>
+
+<body class="nav-sidebar floating nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../images/camden-logo-white.png" alt="Camden Council logo, return to the JSNA home page" class="navbar-logo light-content">
+    <img src="../../../../images/camden-logo-white.png" alt="Camden Council logo, return to the JSNA home page" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../../../../index.html">
+    <span class="navbar-title">JSNA Hub</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../data/index.html"> 
+<span class="menu-text">Data</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../reports/index.html"> 
+<span class="menu-text">Reports</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../../../guidance/index.html" aria-current="page"> 
+<span class="menu-text">Guidance</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../about/index.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <a class="flex-grow-1 no-decor" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+          <h1 class="quarto-secondary-nav-title">Planning and designing</h1>
+        </a>     
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../../../guidance/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Guidance</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/concepts/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Concepts</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/finding-literature/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finding literature</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/finding-data/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finding data</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/evaluation/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Evaluation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/research/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research</span></a>
+  </div>
+</li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Qualitative Methods</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/introduction/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction to qualitative methods in public health</span></a>
+  </div>
+</li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Surveys</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/introduction/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/planning/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Planning your survey</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/getting-started/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Getting started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/designing/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Designing your survey</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/accessibility-and-inclusion/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Accessibility and inclusion</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/ethics/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ethics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/data-collection-and-quality/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data collection and quality</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/tools-and-software/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tools and software</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/surveys/analysis-and-reporting/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Analysis and reporting</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Talk Based Methods</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth3 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/introduction/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/getting-started/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Getting started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/planning-and-design/index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Planning and designing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/accessibility-and-inclusion/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Accessibility and inclusion</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/ethics/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ethical considerations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/topic-guides/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Developing topic guides</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/interviews/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Conducting interviews</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/focus-groups/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Running focus groups</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/analysis/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Analysis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/write-up/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Writing up your findings</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/qualitative-methods/talk-based-methods/tools-and-software/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tools and software</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+ <span class="menu-text">Quantitative Methods</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/quantitative-methods/introduction/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Quantitative methods</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/quantitative-methods/comparisons/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Comparisons</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/quantitative-methods/trends/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Trends</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false">
+ <span class="menu-text">Working with Different Populations</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../guidance/working-with-different-populations/ethnicity/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ethnicity</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#scoping-existing-knowledge-research-and-literature" id="toc-scoping-existing-knowledge-research-and-literature" class="nav-link active" data-scroll-target="#scoping-existing-knowledge-research-and-literature">Scoping existing knowledge, research, and literature</a>
+  <ul class="collapse">
+  <li><a href="#where-should-i-look-for-existing-evidence" id="toc-where-should-i-look-for-existing-evidence" class="nav-link" data-scroll-target="#where-should-i-look-for-existing-evidence">Where should I look for existing evidence?</a></li>
+  <li><a href="#some-practical-tips-for-scoping-existing-evidence" id="toc-some-practical-tips-for-scoping-existing-evidence" class="nav-link" data-scroll-target="#some-practical-tips-for-scoping-existing-evidence">Some practical tips for scoping existing evidence:</a></li>
+  </ul></li>
+  <li><a href="#time-and-resource-planning" id="toc-time-and-resource-planning" class="nav-link" data-scroll-target="#time-and-resource-planning">Time and resource planning</a>
+  <ul class="collapse">
+  <li><a href="#researcher-capacity-and-skills" id="toc-researcher-capacity-and-skills" class="nav-link" data-scroll-target="#researcher-capacity-and-skills">Researcher capacity and skills</a></li>
+  <li><a href="#sample-size" id="toc-sample-size" class="nav-link" data-scroll-target="#sample-size">Sample size</a></li>
+  <li><a href="#recruiting-participants" id="toc-recruiting-participants" class="nav-link" data-scroll-target="#recruiting-participants">Recruiting participants</a></li>
+  <li><a href="#transcribing-your-interview-or-focus-group-data" id="toc-transcribing-your-interview-or-focus-group-data" class="nav-link" data-scroll-target="#transcribing-your-interview-or-focus-group-data">Transcribing your interview or focus group data</a></li>
+  <li><a href="#analysing-your-data" id="toc-analysing-your-data" class="nav-link" data-scroll-target="#analysing-your-data">Analysing your data</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<script type="module" src="../styles/cookieconsent-config.js"></script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7ZG9GFG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Planning and designing</h1>
+<p class="subtitle lead">Talk based methods</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Thoughtful planning and design are essential for the effective, ethical, and proportionate use of interviews and focus groups in public health research, evaluation and engagement. Decisions made at this stage will play a big part in shaping the quality of your data, the safety and experience of participants, and how confidently your findings can be used to inform services, policy, or decision-making.</p>
+<p>Too often, projects begin with a decision to “do some interviews” or “run a few focus groups” without fully considering why that method is (or is not) appropriate, what it is intended to achieve, or what it requires in terms of time, skills, and resources.</p>
+<p>Key phases of planning and design include:</p>
+<ul>
+<li><p>Scoping existing knowledge, research and evidence to understand what we already know about the topic, what methods have been used before, and where your work can add value</p></li>
+<li><p>Considering accessibility and inclusion including who might be excluded by your design and how barriers to participation can be removed</p></li>
+<li><p>Confirming time and resources, for activities such as recruitment, transcription, analysis, or facilitation</p></li>
+</ul>
+<p>Investing time upfront to plan and design your project helps avoid common pitfalls later on and increases the likelihood that talk-based methods will generate meaningful, robust and actionable insights.</p>
+<p>The following sections in this chapter explore each of these phases in more detail to support careful, reflective and proportionate planning before you start collecting your data.</p>
+<section id="scoping-existing-knowledge-research-and-literature" class="level2">
+<h2 class="anchored" data-anchor-id="scoping-existing-knowledge-research-and-literature">Scoping existing knowledge, research, and literature</h2>
+<p>An essential early stage in planning talk-based methods is scoping what is already known about your topic. This includes understanding:</p>
+<ul>
+<li><p>What research, evaluation, engagement, or consultation work has been done already (internally and externally)</p></li>
+<li><p>What methods have been used to understand your topic area before</p></li>
+<li><p>What gaps exist in the evidence</p></li>
+</ul>
+<p>It is important not to skip this step, even if our timelines are tight. Failing to scope existing knowledge can lead to duplication of work, poorly focused &nbsp;research questions, or the collection of data that does not meaningfully add to the evidence base.</p>
+<p>Scoping existing knowledge can help you to:</p>
+<ul>
+<li><p>Refine your research question(s) so it is focused, relevant, and proportionate</p></li>
+<li><p>Learn from how similar topics have been explored elsewhere, including what worked well and what did not</p></li>
+<li><p>Design better topic guides - if you know what others have already said about a topic, you can ask participants better questions</p></li>
+<li><p>Avoid over-researching communities or groups who may already be frequently consulted or involved in research</p></li>
+<li><p>Strengthen the credibility and usefulness of your findings</p></li>
+</ul>
+<p>In most cases, scoping does not need to be a full systematic literature review. Instead, it should be a proportionate and purposeful exploration of existing evidence and learning to inform the choices you make about your project.</p>
+<section id="where-should-i-look-for-existing-evidence" class="level3">
+<h3 class="anchored" data-anchor-id="where-should-i-look-for-existing-evidence">Where should I look for existing evidence?</h3>
+<p>There are various places to look for existing evidence. Depending on your topic, useful sources may include:</p>
+<ul>
+<li><p><a href="https://jsna.camden.gov.uk/">Camden’s JSNA Hub</a></p></li>
+<li><p>Databases such as <a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>, <a href="https://www.sciencedirect.com/">ScienceDirect</a>, <a href="https://scholar.google.com/">Google Scholar</a>, <a href="https://www.cochranelibrary.com/">Cochrane Library</a> (for published academic research, systematic reviews)</p></li>
+<li><p>Public health and social care repositories, including <a href="https://www.nice.org.uk/">NICE</a>, <a href="https://www.gov.uk/guidance/access-journals-and-articles-ukhsa-knowledge-and-library-services">UK Health Security Agency</a>, or <a href="https://www.local.gov.uk/">Local Government Association</a> resources</p></li>
+<li><p>Charities, voluntary sector organisations, and think tanks (e.g., Health Foundation, Nuffield Trust, Nesta, The King’s Fund) with expertise in your topic area</p></li>
+<li><p>Local Authority and NHS websites (e.g., <a href="https://library.nhs.uk/">NHS Knowledge and Library Hub</a>) which often publish evaluations and insight reports</p></li>
+<li><p>Health &amp; Wellbeing internal SharePoint, intranet pages, or documents from previous projects</p></li>
+<li><p>Informal conversations with colleagues in your department or across the organisation who may be aware of relevant work</p></li>
+</ul>
+<p>Using a small number of well-chosen search terms and scanning abstracts or executive summaries is usually sufficient at this stage.</p>
+<p>Understanding how talk-based methods have been used before can help you make an informed decision about whether to adopt, adapt, or avoid certain approaches altogether</p>
+</section>
+<section id="some-practical-tips-for-scoping-existing-evidence" class="level3">
+<h3 class="anchored" data-anchor-id="some-practical-tips-for-scoping-existing-evidence">Some practical tips for scoping existing evidence:</h3>
+<ul>
+<li><p>Be clear about what you are trying to learn from the scoping exercise (e.g., gaps in evidence, appropriate methods, populations studied)</p></li>
+<li><p>Keep a record of what you have looked at and what it tells you (you might want to make a table to do this)</p></li>
+<li><p>Be critical - note down any limitations in existing research that your project could address</p></li>
+<li><p>Save relevant papers using a citation management software like <a href="https://www.zotero.org/">Zotero</a> to keep track of what you have read and to help you cite later on</p></li>
+</ul>
+<p>Scoping existing knowledge is a foundational step that will strengthen your approach. Taking time at this stage supports more efficient and meaningful research and helps ensure that your work genuinely adds value.</p>
+<p><strong>For more detailed information on literature and evidence searching, take a look at the <a href="https://lbcamden.sharepoint.com/:f:/r/sites/PublicHealth148/Shared%20Documents/HWB%20DEPARTMENT%20FOLDERS/HWB%20Teams/Public%20Health%20Intelligence/Guidance%20%26%20Training/Training/HWB%20PLT%20-%20PHI%20Literature%20Searches?d=w8fcb9c5e3a694f2f93af7aa25c6c9c32&amp;csf=1&amp;web=1&amp;e=mgbCmo">‘Finding and Evaluating Evidence’</a> Protected Learning Session delivered by UKHSA (this resource internal to HWB).</strong></p>
+</section>
+</section>
+<section id="time-and-resource-planning" class="level2">
+<h2 class="anchored" data-anchor-id="time-and-resource-planning">Time and resource planning</h2>
+<p>Talk-based methods can generate rich and valuable insights, but they require a lot of time and resource.</p>
+<p>Careful planning helps ensure that interviews or focus groups are feasible, proportionate, and deliverable within available capacity.</p>
+<p>Underestimating the time, skills, and resources you need can lead to rushed data collection, incomplete analysis and result in findings that are difficult to use with confidence.</p>
+<section id="researcher-capacity-and-skills" class="level3">
+<h3 class="anchored" data-anchor-id="researcher-capacity-and-skills">Researcher capacity and skills</h3>
+<p>Talk-based methods require specific skills at multiple stages. Whilst we’re all able to have conversations in everyday life, using talk-based methods requires a very specific set of skills.</p>
+<p>Talk-based methods rely on trust between you and the participant, and between organisations and the communities they serve. Participants give their time and often share personal experiences on the basis that their contributions will be handled with care and used meaningfully. Rushed or poorly facilitated interviews and focus groups can damage that trust, making it harder to engage communities in future research and evaluation work.</p>
+<p>Here are a few questions you can ask to assess the capacity and skills needed to deliver your project:</p>
+<ol type="1">
+<li><p><strong>Who will design and deliver the talk-based methods, and do they have relevant experience?</strong> Think about whether they have designed topic guides, conducted interviews or facilitated focus groups before, particularly on similar topics or with similar populations.</p></li>
+<li><p><strong>Do we have the skills to facilitate safely and effectively?</strong> This includes building rapport, probing appropriately, managing group dynamics, and responding to distress or unexpected disclosures.</p></li>
+<li><p><strong>Is there enough time and capacity for the full process, not just data collection?</strong> You will need to allow time for taking notes or reflective memos, transcription, analysis, sense-checking or QA, and writing up your findings.</p></li>
+<li><p><strong>If we are using external facilitators, do we have capacity to brief and quality assure their work?</strong> This involves setting clear expectations, providing context, and reviewing materials and outputs to ensure they meet the project’s aims.</p></li>
+<li><p><strong>Is the approach we’re using proportionate to the skills, capacity, and timelines available?</strong> If capacity is limited, you might want to consider a smaller scope, a different method, or whether you can access some additional support.</p></li>
+</ol>
+</section>
+<section id="sample-size" class="level3">
+<h3 class="anchored" data-anchor-id="sample-size">Sample size</h3>
+<p>Qualitative sample sizes require justification and careful consideration. It is not just about recruiting as many participants as you can.</p>
+<ul>
+<li><p>Your sample size should be driven by your research aims and questions, the diversity of perspectives required to fully answer your questions, as well as more practical considerations (e.g., time, resource, budget).</p></li>
+<li><p>More participants are not always better! A smaller number of well-conducted interviews or focus groups can generate rich data and can be more manageable to analyse in a way that prioritises depth of analysis rather than description.</p></li>
+<li><p>Consider whether you need to prioritise breadth (e.g., multiple stakeholder groups) or depth (e.g., detailed individual experiences to really understand what’s going on).</p></li>
+</ul>
+<p>Be realistic about how many interviews or focus groups you can carry out and analyse. What capacity do you have within your project team and what are their skills/experience.</p>
+</section>
+<section id="recruiting-participants" class="level3">
+<h3 class="anchored" data-anchor-id="recruiting-participants">Recruiting participants</h3>
+<p>It can be a big ask for residents, professionals, or other stakeholders to take part in an interview or focus group, and recruiting participants can be one of the most time-consuming elements of using talk-based methods.</p>
+<ul>
+<li><p>Think about whether you have budget for incentives or to cover expenses to encourage and enable participation</p></li>
+<li><p>Build time in your project plan for non-response, cancellations, or if participants drop out</p></li>
+<li><p>Factor in time for identifying participants, developing your recruitment materials, sending invitations, follow-ups, and scheduling your activities</p></li>
+<li><p>Consider whether you’ll ask for support from partners (e.g., services, schools, community organisations)</p></li>
+</ul>
+</section>
+<section id="transcribing-your-interview-or-focus-group-data" class="level3">
+<h3 class="anchored" data-anchor-id="transcribing-your-interview-or-focus-group-data">Transcribing your interview or focus group data</h3>
+<p>After you have completed your interview or focus group, you will need to transcribe your data into something you can use to analyse.</p>
+<ul>
+<li><p>Decide whether you will record your interview or focus group, or whether you will just take notes<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p></li>
+<li><p>If you are transcribing from an audio recording, it typically takes 3 to 5 hours for every 1 hour of audio<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>. This can vary depending on the complexity, quality of the recording, and your typing speed.</p></li>
+<li><p>Consider whether you have budget to outsource your transcription (e.g., through using a professional transcription service) but consider any data and security requirements. For specific queries, ask <a href="https://lbcamden.sharepoint.com/sites/InformationSecurity/SitePages/Information-Security-Compliance-Requirements.aspx">Camden’s InfoSec</a> team.</p></li>
+<li><p>Build in time for checking transcripts for accuracy and anonymisation</p></li>
+</ul>
+<p><strong>If you are doing online or virtual interviews or focus groups via Microsoft Teams, there is a built-in transcription function. However, it is not a perfect tool so you will need to build in time to review and correct the transcript.</strong></p>
+</section>
+<section id="analysing-your-data" class="level3">
+<h3 class="anchored" data-anchor-id="analysing-your-data">Analysing your data</h3>
+<p>Qualitative analysis is not a quick or automatic process.</p>
+<ul>
+<li><p>Analysis takes time, and the amount of time will vary depending on the method you choose.</p></li>
+<li><p>Consider which analytical approach you will use and whether the team has the necessary skills. More detail is provided in the <a href="../../../../guidance/qualitative-methods/talk-based-methods/analysis/index.html">analysis</a> section.</p></li>
+<li><p>Plan time for reflection, discussions with colleagues, and sense-checking your findings – this is especially important if multiple people in your team are analysing the data.</p></li>
+</ul>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Caution</span>Proportionality and feasibility are key!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Carefully consider whether your design is proportionate to the aims of the project and any available resources. If your resources are limited, consider narrowing your research question or changing the scope of your project.</p>
+<p>Be cautious about committing to using methods that will produce data you won’t have enough to time to analyse well. Reflect on whether alternative or existing data sources could meet the same aims.</p>
+</div>
+</div>
+
+
+</section>
+</section>
+
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Recording and transcribing is often most suitable when the detail, nuance or exact wording of what participants say is analytically important. Note-taking alone may be sufficient for more structured or exploratory conversations where you are capturing key points or themes rather than analysing language and meaning in depth.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>McMullin, C., 2023. Transcription and qualitative methods: Implications for third sector research.&nbsp;<em>VOLUNTAS: International journal of voluntary and nonprofit organizations</em>,&nbsp;<em>34</em>(1), pp.140-153. Available from: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8432276/pdf/11266_2021_Article_400.pdf">Transcription and Qualitative Methods: Implications for Third Sector Research</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/jsna\.camden\.gov\.uk");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../../../guidance/qualitative-methods/talk-based-methods/getting-started/index.html" class="pagination-link" aria-label="Getting started">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Getting started</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../../../guidance/qualitative-methods/talk-based-methods/accessibility-and-inclusion/index.html" class="pagination-link" aria-label="Accessibility and inclusion">
+        <span class="nav-page-text">Accessibility and inclusion</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><a data-cc="show-consentModal">Manage cookies</a></p>
+<p><img src="../../../../images/camden-logo-black.png" class="img-fluid" width="150"></p>
+<p>© Camden Health &amp; Wellbeing</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ 10.14-14:36
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

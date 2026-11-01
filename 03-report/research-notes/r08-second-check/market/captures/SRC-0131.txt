@@ -1,0 +1,54 @@
+In-house vs outsourced payroll
+Documentation Index
+Fetch the complete documentation index at: https://help.cintra.co.uk/llms.txt
+Use this file to discover all available pages before exploring further.
+Cintra People
+Cintra People HR
+Cintra People Payroll
+Cintra iQ
+Capture Expense
+Search
+CTRL+K
+Press CTRL+K to open search
+Powered by
+In-house vs outsourced payroll
+Updated on  Sep 24, 2026
+Published on Jul 7, 2026
+1 minute(s) read
+Focus
+RH
+Print
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this pageArticle summary Prev  Next
+Cintra People supports two ways of running payroll, and you will see them referred to by the following names:
+SaaS: Where your organisation processes its own payroll.
+Source: Where a bureau supports you with more complex payroll tasks.
+This article explains the difference between the two, and how it affects what you'll see during the payroll cycle.
+SaaS customers
+If you are a SaaS customer, you are generally responsible for the entire payroll cycle, although you may still outsource BACS payments.
+If you have full payroll access, you can calculate the payroll directly within Cintra People Payroll.
+As calculation now takes place within Cintra People, you can view the current status of each payroll with payroll status symbols:
+Authorise payments
+If the bureau processes BACS payments on your behalf, you will receive a notification that you need to review and authorise the payment.
+If you process your own BACS payment, you won't see a "Payment authorisation required" banner and you won't be required to authorise anything.
+Source customers
+Source customers use Cintra People for payroll processing, supported by a bureau (such as Cintra Outsourced Services) for more complex payroll tasks.
+You can view the current status of each payroll with payroll status symbols:
+Authorise payments
+As a Source customer, your BACS payments will usually be made by the bureau. Therefore, you will be required to review and authorise the payments.
+If you are a Source customer but your BACS payment payment is made elsewhere (e.g. internally or by a bank), then you will still be required to submit and approve the payroll to the bureau, but not authorise the payment. You will instead receive a payment file from the bureau.
+Related articles
+Overview of Payroll functionality
+Understanding the payroll cycle
+Was this article helpful?
+Yes  No
+Related articles
+Calculate Payroll available to SaaS customers (16 Sep 2026)
+Release notes
+Understanding the payroll cycle
+Payroll > Running the payroll
+Overview of Payroll functionality
+Payroll
+© Cintra HR & Payroll
+0191 478 7000
+www.cintra.co.uk

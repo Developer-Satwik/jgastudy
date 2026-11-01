@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-29",
+  "queries": [
+    {
+      "query": "HR.com Research Institute sponsorship/custom research",
+      "route": "web search and primary Help Center links",
+      "result": "Initial site query returned weak/irrelevant discovery results. Help Center identified custom offer and method/access FAQs; linked commercial page blocked."
+    },
+    {
+      "query": "NelsonHall NEAT payroll services licensing report",
+      "route": "web search",
+      "result": "Screened vendor reprint/award announcements and an older NelsonHall newsletter. Not selected as primary licensed model because accessible discovery did not establish a clear current offer/licence unit."
+    },
+    {
+      "query": "ISG payroll buyers guide 2026",
+      "route": "web search and primary guide/service links",
+      "result": "Public catalogue and Global Payroll 2025 executive summary; enterprise subscription and software-provider licence pages read. Guide edition/date retained as 2025."
+    }
+  ],
+  "screened_not_selected": [
+    {
+      "name": "NelsonHall payroll NEAT",
+      "reason": "Vendor announcements/reprints demonstrate publication visibility, not analyst commercial rights/price. Canonical SRC-0017 remains queued; not newly marked reviewed."
+    },
+    {
+      "name": "Investments & Wealth Institute 2026 custom research sponsorship guide",
+      "reason": "Discovery-level alternative only; financial-adviser association audience is less close than HR.com. No PDF facts/prices used."
+    },
+    {
+      "name": "HR.com general consultant branding subscription",
+      "reason": "Different subscription/advertising product; does not prove custom research sponsorship unit or price."
+    }
+  ],
+  "reviewed_primary_urls": [
+    "https://hrcom.kb.help/whats-included-in-hrcoms-custom-research/",
+    "https://hrcom.kb.help/how-does-hrcom-collect-data-for-their-research/",
+    "https://hrcom.kb.help/does-it-cost-money-to-download-hrcom-research/",
+    "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+    "https://research.isg-one.com/research/buyers-guides/services/software-providers",
+    "https://research.isg-one.com/buyers-guide/business-technologies/employees-and-hcm/global-payroll/2025",
+    "https://www.irisglobal.com/wp-content/uploads/2025/05/2-26-25-HRdotcom-Future-of-Payroll-2025-Research-Report-IRIS_V3.pdf"
+  ],
+  "not_done": [
+    "No contact, inquiry, form submission, gated account or paid access",
+    "No original buyer interviews or T03 validation",
+    "No price quote or new contractual rights",
+    "No source percentages or public prices imported into a JGA forecast"
+  ],
+  "coverage_boundary": "Focused commercial-product review, not a technical audit or representative demand survey."
+}

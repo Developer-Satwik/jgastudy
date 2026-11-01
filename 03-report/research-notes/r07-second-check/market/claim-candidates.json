@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "M7S-C01",
+      "source_candidate_ids": [
+        "M7S-S01",
+        "M7S-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "FreeAgent advertises integrated monthly payroll at no extra cost, while its setup guide makes availability depend on account context and requires access/user/configuration prerequisites.",
+      "evidence_class": "supplier_declared_inclusion_and_setup_boundary",
+      "locator": "Featuremainheading/monthlyparagraph and setupPleaseNote/headings",
+      "limitations": "A declared included feature is not proof of the customer’s entitlement, usable configuration, zero operating cost or completed payroll. No tariff/saving, account test or legal advice adopted.",
+      "review_mode": "Relevant original HTML or explicitly labelled original-route reader paraphrase; not a product trial or actual employer decision.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated source statements inspected29October2026; June2026 labels retain their actual status",
+      "population": "Specific supplier declaration or explicit researcher application, not a representative market sample"
+    },
+    {
+      "candidate_id": "M7S-C02",
+      "source_candidate_ids": [
+        "M7S-S03"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "Moneysoft describes scheduled update prompts and a check-for-update route, while its June2026 section describes later BiK compatibility as a future update.",
+      "evidence_class": "supplier_declared_release_versus_future_roadmap",
+      "locator": "Opening update paragraphs; June2026 NewsPBIK paragraph",
+      "limitations": "Declared release availability, local installation and successful task use are different. The future statement is not observed shipment, legal assurance, customer readiness or funded employer work. No amount/rate, time estimate or forced upgrade adopted.",
+      "review_mode": "Relevant original HTML or explicitly labelled original-route reader paraphrase; not a product trial or actual employer decision.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated source statements inspected29October2026; June2026 labels retain their actual status",
+      "population": "Specific supplier declaration or explicit researcher application, not a representative market sample"
+    },
+    {
+      "candidate_id": "M7S-C03",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0207"
+      ],
+      "claim_text": "BrightPay’s migration hub describes own-employer payroll work separately from multiple-client bureau work, including the latter’s client relationships and collaboration.",
+      "evidence_class": "supplier_declared_customer_and_work_boundary",
+      "locator": "Findyourmigrationpath: PayrollBureau and BusinessOwner descriptions",
+      "limitations": "Declared route/work context, not proof of every bureau’s duties, a size segment, common priorities, actual customer decision or successful migration. Canonical reuse, not an independent case.",
+      "review_mode": "Relevant original HTML or explicitly labelled original-route reader paraphrase; not a product trial or actual employer decision.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated source statements inspected29October2026; June2026 labels retain their actual status",
+      "population": "Specific supplier declaration or explicit researcher application, not a representative market sample"
+    },
+    {
+      "candidate_id": "M7S-C04",
+      "source_candidate_ids": [
+        "M7S-S01",
+        "M7S-S02",
+        "M7S-S03"
+      ],
+      "canonical_source_ids": [
+        "SRC-0207"
+      ],
+      "claim_text": "For a priority involving a feature or update, establish the actual account/service and task, known entitlement/access, available versus future capability, configuration/use and who must act, rather than infer a new purchase from the theme.",
+      "evidence_class": "researcher_selective_priority_action_design",
+      "locator": "Analyticalapplication underexistingQ002/Q005 andrecentcase probes",
+      "limitations": "Optional aid, not new mandatory questions, a fixed acceptance ladder or validated implementation checklist. Several states can coexist by task. Unknown remains unknown; no supplier ranking or assumed replacement.",
+      "review_mode": "Relevant original HTML or explicitly labelled original-route reader paraphrase; not a product trial or actual employer decision.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated source statements inspected29October2026; June2026 labels retain their actual status",
+      "population": "Specific supplier declaration or explicit researcher application, not a representative market sample"
+    },
+    {
+      "candidate_id": "M7S-C05",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0207"
+      ],
+      "claim_text": "A provider or bureau’s planned improvement and an employer/client’s priority can refer to different work, owners and beneficiaries even when they share the same broad theme.",
+      "evidence_class": "researcher_priority_owner_and_beneficiary_application",
+      "locator": "Analyticalapplication of declared ownemployer/multiclient scopes; existingR07whoseprioritydimension",
+      "limitations": "Plausible contextual distinction to establish in cases, not observed misalignment or market prevalence. Do not infer disagreement, commercial demand, contract scope or expand the practitioner cohort to suppliers.",
+      "review_mode": "Relevant original HTML or explicitly labelled original-route reader paraphrase; not a product trial or actual employer decision.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Dated source statements inspected29October2026; June2026 labels retain their actual status",
+      "population": "Specific supplier declaration or explicit researcher application, not a representative market sample"
+    }
+  ]
+}

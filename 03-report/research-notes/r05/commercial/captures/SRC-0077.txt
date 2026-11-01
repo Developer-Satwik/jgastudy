@@ -1,0 +1,977 @@
+1: The Sourcing Playbook (HTML) - GOV.UK
+2: Cookies on GOV.UK
+3: We use some essential cookies to make this website work.
+4: We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+5: We also use cookies set by other sites to help us deliver content from their services.
+6: You have accepted additional cookies. You can change your cookie settings at any time.
+7: You have rejected additional cookies. You can change your cookie settings at any time.
+8: Accept additional cookies
+9: Reject additional cookies
+10: View cookies
+11: Hide cookie message
+12: Skip to main content
+13: GOV.UK
+14: Navigation menu
+15: Menu
+16: Menu
+17: Services and information
+18: Benefits
+19: Births, death, marriages and care
+20: Business and self-employed
+21: Childcare and parenting
+22: Citizenship and living in the UK
+23: Crime, justice and the law
+24: Disabled people
+25: Driving and transport
+26: Education and learning
+27: Employing people
+28: Environment and countryside
+29: Housing and local services
+30: Money and tax
+31: Passports, travel and living abroad
+32: Visas and immigration
+33: Working, jobs and pensions
+34: Government activity
+35: Departments
+36: Departments, agencies and public bodies
+37: News
+38: News stories, speeches, letters and notices
+39: Guidance and regulation
+40: Detailed guidance, regulations and rules
+41: Research and statistics
+42: Reports, analysis and official statistics
+43: Policy papers and consultations
+44: Consultations and strategy
+45: Transparency
+46: Data, Freedom of Information releases and corporate reports
+47: Search GOV.UK
+48: ×
+49: Search GOV.UK
+50: Search
+51: Search GOV.UK
+52: Search
+53: Home
+54: Government
+55: The Sourcing Playbook
+56: Government
+57: Commercial
+58: Agency
+59: Government Commercial Function
+60: Guidance
+61: The Sourcing Playbook (HTML)
+62: Updated 30 September 2026
+63: Contents
+64: Foreword by Alex Chisholm
+65: Introduction – Right at the start
+66: Contacts
+67: Summary of the 11 key policies
+68: About this document
+69: 1. Pipelines and market management
+70: 2. Approval process
+71: 3. Delivery model assessments
+72: 6 When is a delivery model assessment required?
+73: 5./6. Conduct the evaluation and align the analysis
+74: 4. Piloting first generation outsourcing
+75: 5. Preparing to go to market
+76: 6. Routes to market
+77: 7. Model Services Contract
+78: 8. Formal engagement with the market
+79: 9. Due diligence during selection
+80: 10. Evaluating bids and contract award
+81: 11. Resolution planning and ongoing financial monitoring
+82: 12. Building and maintaining successful relationships
+83: 13. Expiry, extension, transition and termination
+84: Print this page
+85: © Crown copyright 2026
+86: This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+87: Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+88: This publication is available at https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html
+89: Foreword by Alex Chisholm
+90: Delivering outstanding public services is a critical function of government.
+91: The introduction of the Outsourcing Playbook in 2019 set out a series of simple guidelines and rules to achieve this by improving our decision making and how we deliver public services.
+92: Through the publication of version two of the Playbook in June 2020, the playbook was rebranded as the ‘Sourcing Playbook’, and through continued updates we are committed to ensuring they are successfully embedded in everything we do.
+93: The fourth update of the Sourcing Playbook continues to focus on the same key commercial principles and is focused on choosing the best model for delivering public services. The Sourcing Playbook now includes updates and renewed focus on themes where consultations with industry and contracting authorities identified updated content would prove most useful, including managing inflation.
+94: The Cabinet Office has acted together with colleagues across the Civil Service to strengthen capability, provide additional support and hold projects to account through stronger governance frameworks and controls processes. More needs to be done but there are positive signs of progress.
+95: Practical guidance to support delivery and drive improvement on the following key policies remains:
+96: Publication of Commercial/ procurement Pipelines
+97: Market Health and Capability Assessments
+98: Project Validation Reviews (PVR)
+99: Delivery Model Assessments (also known as ‘Make versus Buy assessments’)
+100: Should Cost Modelling and Estimating
+101: Requirement for Pilots
+102: Key Performance Indicators (KPIs)
+103: Risk Allocation
+104: Pricing and payment mechanisms
+105: Assessing the Economic and Financial Standing of Suppliers
+106: Resolution Planning
+107: The updated Sourcing Playbook continues to emphasise that the delivery of public services is a collaborative endeavour involving colleagues from Commercial/ Procurement, Finance, Project Delivery, Policy and other professions. Embedding the Sourcing Playbook into our ways of working is a journey the whole of government must continue to walk together.
+108: As Chief Operating Officer of the Civil Service I am delighted to support the Sourcing Playbook and its continued implementation.
+109: Introduction – Right at the start
+110: The original Outsourcing Playbook, and its subsequent iterations, were endorsed by Ministers, industry and senior civil servants as crucial steps to improve both our decision making and the quality of contracts we place with industry. Importantly, implementation activities continue at pace.
+111: For this fourth iteration, we continue to focus on the 11 key policies to get projects right at the start. This applies whether we decide to outsource and deliver a service in partnership with the private and third sector, insource and use in‑house resources, or a mix of both. The Playbook supports a range of delivery models that should be carefully considered as part of a ‘mixed economy’ approach to service delivery.
+112: We have continued our joint working with suppliers, including small businesses, voluntary and community sector organisations, and colleagues across central government to capture further best practice and lessons learnt. This feedback has driven how we have refined our approach and policies in this iteration of the playbook, focusing on key challenges for contracting authorities and suppliers, whilst maintaining focus on achieving better outcomes and greater value for money.
+113: When we do decide to work with the market, including small businesses, voluntary and community sector organisations, we will build successful relationships to drive innovation and maximise social value. By following the guidance, rules and principles set out in this Playbook we can expect to:
+114: get more projects right from the start
+115: develop robust procurement strategies
+116: engage with healthy markets
+117: contract with suppliers that want to work with us
+118: be ready for the rare occasions when things go wrong
+119: And in doing so, we will continue to build the trust between the government, suppliers and the public. Both suppliers and departments are encouraged to highlight if either party falls short of the expectations in the Supplier Code of Conduct or this Playbook which has been updated and refreshed as part of the most recent iteration of the Sourcing playbook.
+120: The Sourcing Playbook is aimed at Commercial/Procurement, Finance,
+121: Project Delivery, Policy, and any professionals across the public sector who are responsible for the planning and delivery of insourcing and outsourcing services. It sets out how we make sourcing decisions, and deliver public services in partnership with the private and third sectors.
+122: What is new?
+123: Version 4 of the Sourcing Playbook builds on previous iterations to provide refreshed and refined content on:
+124: TUPE
+125: Embedding Playbook Policies in Frameworks and Guidance for Call‑offs
+126: Making the Playbook more accessible to Local Government and Wider Public Sector colleagues
+127: Pipelines and the impact of bid delays
+128: Refreshed Supplier Code of Conduct
+129: Financial Viability Assessments
+130: How to deal with inflation, including Contract Indexation
+131: Procurement Reform
+132: The new rules that will be introduced as a result of the enactment of the Procurement Bill and its associated regulations (which is currently going through Parliament) will have implications for the policies set out within this Playbook for contracting authorities in England, Wales and Northern Ireland, and reserved procurements undertaken in Scotland. The details of these changes cannot be known until that process has completed (likely to be towards the end of 2023) but we have attempted here to highlight what effect the proposed rule changes may have. Please note that this is still subject to change. The Playbooks will be updated to reflect the new regulations in due course.
+133: Contacts
+134: For further information or to provide feedback on the Sourcing Playbook please contact the Markets, Sourcing and Suppliers team at markets-sourcing-suppliers@cabinetoffice.gov.uk
+135: Playbook flow diagram
+136: Figure 1: Where this Playbook fits within a typical procurement process
+137: Summary of the 11 key policies
+138: Publication of commercial / procurement pipelines
+139: All central government departments shall publish their commercial pipelines.
+140: This helps suppliers to understand the public sector’s long‑term demand for services and prepare themselves to respond to contract opportunities and allow the time and confidence to invest in innovative solutions.
+141: Market health and capability assessments
+142: All potential outsourcing projects shall conduct an assessment of the health and capability of the market early on during the preparation and planning stage. This will enable project teams to identify potential limitations in the market and consider whether actions such as contract disaggregation could increase competition and improve market health or whether better outcomes can be achieved through economies of scale.
+143: Project Validation Review (PVR)
+144: Previously only government major projects required a PVR assurance review.
+145: Now, all complex outsourcing projects shall go through this important ‘policy to delivery’ gateway.
+146: Brings together the full weight of functional expertise at the early stages of the project to help assure deliverability, affordability and value for money.
+147: Delivery model assessments
+148: (Previously known as the ‘make versus buy assessments’)
+149: Central government departments should conduct a proportional delivery model assessment before deciding to outsource, insource or re‑procure a service.
+150: They are mandatory in certain scenarios, as outlined on page 22.
+151: This drives evidence‑based, analytical decisions and can help address the different challenges that come from outsourcing or insourcing a service, or one of its components.
+152: Should Cost Modelling and Estimating
+153: In central government, all complex outsourcing projects shall produce a Should Cost Model Estimate as part of the delivery model assessment.
+154: Outside of central government, production of a Should Cost Model is considered best practice.
+155: A Should Cost Model Estimate provides a better understanding of the costs associated with different service delivery models and helps to protect government from ‘low cost bid bias’.
+156: Requirement for pilots
+157: Where a service is being outsourced for the first time, a pilot should be run as part of a programme of testing.
+158: Piloting a service delivery model is the best way to understand the environment, constraints, requirements, risks and opportunities relating to a procurement.
+159: Pilots also provide a wealth of quality data and can help inform technical specifications.
+160: Key Performance Indicators (KPIs)
+161: All new projects should include performance measures that are relevant and proportionate to the size and complexity of the contract.
+162: In line with the government’s transparency agenda, three KPIs from each of the government’s most important contracts shall be made publicly available.
+163: Getting this right will form the foundation of smarter contracts that are designed to incentivise delivery of the things that matter and provide clarity to the public about how the service is working for them.
+164: Risk allocation
+165: Proposals for risk allocation shall be subject to consideration and scrutiny to ensure they have been informed by genuine and meaningful market engagement.
+166: Inappropriate risk allocation has been a perennial concern of suppliers looking to do business with the public sector and a more considered approach will make us a more attractive client to do business with and allow the public sector to achieve greater value for money.
+167: Pricing and payment mechanisms
+168: The pricing and payment mechanism approach goes hand in hand with risk allocation and should similarly be subject to greater consideration and scrutiny to ensure it incentivises the desired behaviours or outcomes.
+169: This change is fundamental to making the outsourcing sector a thriving and dynamic market that is sustainable in the long term.
+170: Assessing the economic and financial standing of suppliers
+171: All outsourcing projects should comply with a minimum standard when assessing the risk of a supplier going out of business during the life of a contract.
+172: Consistently applying a minimum standard of testing will provide a better understanding of financial risk and leave us better able to safeguard the delivery of public services.
+173: Resolution planning
+174: Suppliers of critical public service contracts shall be obliged by their contracts to provide resolution planning information. Although major insolvencies are infrequent, resolution planning information will help to ensure government is prepared for any risk to the continuity of critical public services posed by the insolvency of critical suppliers.
+175: About this document
+176: Key terms
+177: Outsourced service means any public service obtained by contract from an outside supplier.
+178: Outsourcing project refers to the project to outsource a service or any project considering an alteration to an existing delivery model.
+179: Complex outsourcing refers to any of the following: first generation outsourcing; significant transformation of service delivery; obtaining services from markets with limited competition or where government is the only customer; and any service obtained by contract that is considered novel or contentious.
+180: Department refers to any central government department or arm’s length body (ALB).
+181: ‘Contracting authority’ refers to any public sector organisation with a contractual relationship with a supplier. This could include, for example, a government department or local authority.
+182: Critical service contracts are contracts for outsourced services where significant disruption would occur should services be interrupted. These can be identified using the Cabinet Office Contract Tiering Tool, which considers factors such as the potential impact of service failure; service continuity; the speed and ease of switching suppliers; and the contract value.
+183: Critical suppliers are providers of critical service contracts. Critical suppliers are required to provide resolution planning information (see Chapter 11).
+184: Public sector dependent suppliers are supplier groups with over £50 million pa revenue of which over 50% is derived from public sector work. They may also be required to provide resolution planning information (see Chapter 11).
+185: Should, as defined in the government commercial functional standard, denotes a recommendation: an advisory element.
+186: Shall, as defined in the government commercial functional standard, denotes a requirement: a mandatory element to be implemented by departments and associated ALBs on a comply or explain basis.
+187: What is the purpose of the Sourcing Playbook?
+188: The Sourcing Playbook aims to provide commercial/procurement, legal, finance, project delivery, policy and other professionals with guidelines, rules and principles that will help them to avoid the most common errors observed in sourcing services, and get more projects right from the start.
+189: The Sourcing Playbook describes what should or shall be done. How things should be done is described in a series of supporting guidance notes referenced out from this document. The refreshed guidance notes are:
+190: delivery model assessments
+191: bid evaluation
+192: Should Cost Modelling and Estimating
+193: These complement the second addition Outsourcing Playbook guidance notes, which remain up to date and provide the latest guidance on:
+194: market management
+195: risk allocation and pricing approaches
+196: benefit measurement
+197: resolution planning
+198: testing and piloting services
+199: competitive dialogue and competitive procedure with negotiation
+200: assessing and monitoring the economic and financial standing of suppliers
+201: approvals
+202: The standards that people should work to are specified within GovS 008 Commercial, GovS 002 Project Delivery and GovS 006 Finance respectively.
+203: Who is the Sourcing Playbook for?
+204: The Sourcing Playbook is aimed at commercial, finance, project delivery, policy and any professionals across the public sector who are responsible for the planning and delivery of insourcing and outsourcing services.
+205: The Sourcing Playbook has been co‑developed with input from public officials and industry stakeholders, and is aimed primarily at central government departments and associated ALBs, who shall always apply the Playbook’s principles, guidelines and rules when considering service delivery. Nevertheless, the policies and principles are relevant to and should be considered by all public sector contracting authorities, who will need to apply judgment in adopting the Playbook based on the scale, scope, complexity, novelty and risk attached to their procurements.
+206: Sourcing a service has in many cases been seen as an entirely commercially‑led enterprise. Experience has shown us that the delivery of a successful project whether in‑house, in partnership with the private and third sector, or a mix of the two requires appropriate cross‑functional expertise. It is expected that a number of the policies in this Playbook will be led by non‑commercial/procurement professionals. The key is ensuring we have joined‑up teams with the right functions inputting early into policy and projects.
+207: Pipeline reviews can help to facilitate early planning and identify opportunities for more collaborative working.
+208: Figure 2 provides an analysis of the 11 key policies mapped against functional groups. This should be considered a guide to support department’s in implementing the Sourcing Playbook and may vary in different organisations depending on their structure.
+209: Permanent secretaries, accounting officers, commercial directors, project sponsors and senior responsible owners will also find the guidance useful when acting as decision makers or approvers, or when conducting checks within the capacity of scrutiny and assurance. OKUA stands for:
+210: Ownership. Individuals within the function lead the activity and have overall responsibility for it.
+211: Knowledge. Individuals within the function are the subject matter experts on at least one element of the activity.
+212: Understanding. Individuals within the function understand what the activity is and what good looks like.
+213: Awareness. Individuals within the function know what activities are required and who is responsible.
+214: Figure 2: Analysis of roles and responsibilities across the 11 key policies
+215: What is the scope of the Sourcing Playbook?
+216: The Sourcing Playbook shall always be applied by central government departments and ALBs when sourcing or contracting for services. All public sector contracting authorities should consider the Playbook’s guidelines, rules and principles, which can be considered good practice for any procurement.
+217: Additionally, the Government Digital Service sets out in the service manual how to deliver IT and digital services. The DDaT Playbook provides guidance when sourcing and contracting for these digital services.
+218: The Construction Playbook shall be considered when sourcing and contracting public works projects and programmes.
+219: The Consultancy Playbook shall be considered when considering going to market for any consultancy services.
+220: Framework agreements (and dynamic purchasing systems) for outsourced services are in‑scope of the Sourcing Playbook, and should be set up in accordance with the guidelines, rules and principles. Call‑off contracts from frameworks (and dynamic purchasing systems) need to be fully understood for complex outsourced services and the Crown Commercial Service can provide advice on whether a framework is suitable. Guidance on how the playbook policies apply to framework providers and contracting authorities.
+221: This guidance details where there is responsibility for ensuring compliance with Playbook policies when a framework is being used to provide public services.
+222: For setting up and managing government grants in central government, the Cabinet Office’s Grants Centre of Excellence provides expert advice.
+223: The diagram in Table 1 summarises the key principles that apply to all services and the additional requirements that apply to complex outsourced services.
+224: Compliance with the Sourcing Playbook for central government departments and associated ALBs is being assured through departments’ governance processes and central Cabinet Office controls (projects over £20 million total value). Where a supplier has any concerns about public procurement practice or compliance with government policy, the Public Procurement Review Service is available.
+225: The Public Procurement Review Service (PDF, 115 kb) provides a clear, structured and direct route for suppliers to raise concerns anonymously about public procurement practice and provides feedback to enquirers on their concerns.
+226: Table 1: Scope of the Sourcing Playbook
+227: The Sourcing Playbook guidelines, rules and principles
+228: All sourcing projects
+229: Are included in published departmental pipelines.
+230: Complete a market health and capability assessment.
+231: Conduct early market engagement
+232: Undertake a proportional delivery model assessment.
+233: Engage with end‑users, have clear aims and understand long‑term implications of decisions.
+234: Consider the value of running an initial pilot.
+235: Collect and maintain quality and data and allow subsequent validation of that data.
+236: Provide bidders with a clear articulation of the service in a well‑written technical specification.
+237: Design KPIs that are relevant and proportionate to the contract and make three of them publicly available.
+238: Conduct meaningful formal engagement of the market.
+239: Allocate risk to the party best able to manage it.
+240: Adopt a pricing and payment mechanism that complements the approach to risk transfer.
+241: Assess and monitor the economic and financial standing of bidders.
+242: Follow resolution planning guidance to help ensure continuity of critical public services.
+243: Plan early for what happens at the end of the contract.
+244: Ensure suppliers warrant data back to the contracting authority.
+245: Complex outsourcing projects
+246: Go through a Project Validation Review (PVR) for central government. Outside of central government an independent peer review is considered best practice.
+247: Include embedded support from the Complex Transactions Team (CTT), or other Cabinet Office commercial team.
+248: Produce a Should Cost Model Estimate.
+249: Are subject to a pilot before full procurement.
+250: Consider the need for dialogue and negotiation.
+251: Apply low cost bid bias criteria.
+252: 1. Pipelines and market management
+253: Getting it right starts by having clear and transparent commercial/procurement pipelines and a good understanding of the market.
+254: Pipelines
+255: One of the most important things we can do is prepare and maintain comprehensive pipelines of current and future government contracts and commercial/ procurement activity.
+256: The expectation of commercial/procurement practitioners is set out in section 3.3 of the government commercial functional standard. Publishing commercial/procurement pipelines enables suppliers to understand the likely future demand across government. This is particularly important for Small and medium‑sized enterprises (SMEs), and Voluntary, Community and Social Enterprises (VCSEs) who may have fewer procurement resources. By sharing early insights on planned activities, we can attract a greater range of suppliers, creating more competitive pricing and greater value for money. Pipelines allow suppliers to forecast investment decisions they need to take in advance of demand. Suppliers will look across all the pipelines published by all their target clients to spot trends that might signpost emergent areas to focus on. Additionally, publishing pipelines can lead to greater innovation as the more notice that is given by the buyer, then the more likely it is that suppliers can start investing in relevant innovation ahead of the procurement coming to market in order to position themselves to win it.
+257: Moreover, If suppliers know there are opportunities continuing into the future they will have confidence to invest in apprenticeship provision and other training, and in wider priorities specified in contracts, such as social value and building long‑term relationships with SME supply chains.
+258: Suppliers understand that early‑stage pipelines are subject to change, However, the pipeline should be updated and enriched as the contracting authority moves through the business case and procurement process.
+259: Published commercial/procurement pipelines should look ahead three to five years to be truly effective, but Central Government Departments must ensure their pipelines meet the minimum requirement of 18 months in length. At a minimum, pipelines should be updated every 6 months. However, contracting authorities should strive to update pipelines as frequently as possible to allow better signposting for any sudden and immediate work requirements.
+260: Complex outsourcing projects can require at least this period in preparation and planning to get them right. Allowing insufficient time for commercial activities is frequently flagged by the National Audit Office (NAO) as an indicator of project failure.
+261: Procurement Reform
+262: The current intention under the Procurement Bill is that the requirement to publish information on governmental procurement pipelines will be expanded to all government bodies who expect to spend over £100million in a financial year for all contracts (exemptions apply, such private utilities and national security contracts) over £2million within 56 days of the start of the relevant financial year. It is envisaged that this information will be provided on a pipeline notice and be available on the single, central platform.
+263: Market management
+264: Healthy, competitive markets matter because they support our ability to achieve value for money for taxpayers and drive innovation in delivering public services.
+265: Good market management is about looking beyond individual contracts and suppliers. It is about designing commercial strategies and contracts that promote healthy markets over the short, medium and long term.
+266: First generation outsourcing decisions can have a profound effect on market development. For example, those winning early contracts may acquire first mover incumbency advantages, accepting that they also take on increased risk. We should adopt models that promote competition and contestability over time, so that those that win the initial contracts know that they must deliver value for money and perform to the standards required for the delivery of the service or risk contracting authorities taking their business elsewhere in future.
+267: Mixed economies represent one way of broadening competition in a market and can therefore help drive value for money.
+268: However, where mixed economies are used, care is required to create a level playing field between public, private and third sector providers. The expectation of commercial practitioners for managing markets is set out in section 5.1.3 of the government commercial functional standard.
+269: All potential outsourcing projects should include an assessment of the market early on during the preparation and planning stage. These assessments should then be kept under review through the life of a contract. Where potential weaknesses are identified, consider whether actions such as contract disaggregation could increase competition and improve market health.
+270: Guidance for how to do this is contained within the market management guidance note. Contracting authorities can also request access to supplementary market intelligence collected by commercial teams in the Cabinet Office and Crown Commercial Service (CCS). Advice can also be sought from the Competition and Market Authority (CMA) in relation to more complex or substantial competition issues.
+271: Innovation and social value
+272: Adopting innovative solutions and emerging technologies enables the government to improve our ways of working and achieve better public service outcomes. Innovation comes in a number of forms and starts with being open to new ways of thinking and creating forums where these ideas can be considered and assessed. Projects should engage in innovative thinking from the start through early dialogue with potential suppliers and understanding new technologies.
+273: Projects should also consider research and innovation‑based procedures which go beyond market engagement into inviting the market to suggest novel solutions to problems.
+274: Social value can promote innovation in the way contracts are delivered, through encouraging inclusive employment and supply chain practices, addressing skills gaps, promoting co‑design and community integration, and improving environmental sustainability. The public sector shall maximise social value effectively and comprehensively through its procurement and account for social value in the evaluation criteria. Furthermore, by valuing the social, economic and environmental benefits that the UK’s small businesses, voluntary, community and social enterprise organisations and responsible businesses can offer, we can contribute to further diversifying public supply chains. In central government and ALBs, the Social Value Model should be used to explore and identify social value opportunities during early engagement with supply markets and service users. It sets out government’s social value priorities for procurement across five key themes: COVID‑19 recovery, tackling economic inequality, fighting climate change, equal opportunity and wellbeing. Considering these key themes in our procurements will allow us to mitigate against the risk of modern slavery in our supply chains, contribute to our 2050 net zero commitment and further our wider ‘levelling up’ agenda.
+275: Procurement Reform
+276: The Procurement Bill requires that all contracting authorities have due regard to a set of national strategic priorities set out in a published National Procurement Policy Statement. The first version was published in PPN 05/21 and set out national priority actions for Social Value. It places emphasis on creating new businesses, new jobs and new skills; tackling climate change and reducing waste, and improving supplier diversity, innovation and resilience, all themes within the social value model.
+277: Early engagement
+278: We aren’t afraid to talk to the market. We do it regularly – recognising the benefits to both contracting authorities and suppliers. It can help promote forthcoming procurement opportunities and provide a forum to discuss delivery challenges and risks associated with the project. Through this process, we are able to understand the deliverability of our requirements, the feasibility of alternative options and whether there is appetite (within the market and the public sector) to consider innovative solutions that could help us deliver better public services.
+279: Preliminary market engagement should actively seek out suppliers that can help to improve service delivery, including Small and medium-sized enterprises (SMEs) and Voluntary, Community and Social Enterprises (VCSEs) who are experts in the needs of service users and widely involved in the delivery of public services across the country.
+280: When carrying out early market engagement it is recommended that the proposed approach to inflation is clearly articulated.
+281: This is especially important as this will directly impact risk allocation and pricing.
+282: To enable inclusive economic growth that works for all, assessments of the market and pre‑market engagement should consider opportunities for wider social, economic and environmental ‘social value’ benefits to staff, supply chains and communities that can be achieved through the performance of the contract.
+283: Early market engagement should also be used to inform the development of the delivery model assessment approach, testing and pilots, the potential procurement procedure, possible bid evaluation criteria, and overall project timetable to ensure that when going to the market, potential suppliers have sufficient time to respond to tenders.
+284: Potential outsourcing and IT services are tested at the Strategic Outline Case (SOC) stage to ensure that engagement has been sufficiently early for suppliers to understand the requirement and for the contracting authority to reflect on any feedback received.
+285: All preliminary market consultation shall observe the principles of public procurement and be handled in such a way that no supplier gains a preferential advantage.
+286: In practice, this means not setting the technical specification to suit a particular bidder and making sure any information shared is also available during the tender procedure. It is good practice to openly announce any preliminary market consultation by publishing a Prior Information Notice (PIN) and early market engagement notice or future opportunity notice on Contracts Finder.
+287: Procurement Reform
+288: The principles around early engagement with the market ‑ to improve understanding of suppliers’ capabilities and risk appetite, and to identify new potential suppliers ‑ remain the same under the Procurement Bill. However, the introduction of the Preliminary Market Engagement Notice makes it clear that the assumption is that this market engagement will take place, with contracting authorities required to note any decision not to publish a PME notice within their Tender Notice. Contracting authorities will also be required to actively consider whether there are any barriers to small and medium sized enterprises bidding for a particular contract and assess how these can be overcome.
+289: Transparency
+290: Transparency and accountability of public service delivery data and information builds public trust and confidence in public services.
+291: It enables citizens to see how taxpayers’ money is being spent and allows the performance of public services to be independently scrutinised. It also supports the functioning of competitive, innovative and open markets by providing all businesses with information about public sector purchasing and service providers’ performance.
+292: Buyers should explain transparency requirements to potential suppliers as early as possible in the procurement process, and set out clearly in tender documentation the types of information to be disclosed on contract award and thereafter.
+293: Procurement Reform
+294: Transparency is a stated objective of the new regime and it is embedded by default throughout the Bill. With the new rules, the government is committed to increasing transparency within public procurement, for suppliers, buyers and the general public alike. This is intended to improve competition, widen the supplier base and to hold contracting authorities and suppliers to account for their actions and performance.
+295: As a result, you will notice many changes to the required notices (and their names) as follows. Further detail on what information each notice must contain will be included within the detailed secondary legislation which is yet to be published:
+296: Pipeline Notice ‑ a contracting authority anticipating spending over £100million in the following financial year is statutorily obliged to publish a notice setting out all of its planned contracts over £2million within the next 18 months. This must be published within 56 days of the start of the financial year.
+297: Planned Procurement Notice ‑ this provides suppliers with advance notice that a contracting authority intends to run a competition and, like the current PIN, allows timescales to be reduced.
+298: PME Notice ‑ the preliminary market engagement notice is to be published before the Tender Notice and used by contracting authorities to provide information on upcoming or past preliminary market engagement.
+299: Tender Notice ‑ this notice invites suppliers to either submit a tender or a request to participate in a competitive procurement process.
+300: Transparency Notice ‑ a new notice requiring contracting authorities to inform the market and the public of their intention to direct award a contract (this isn’t applicable for user choice contracts).
+301: Assessment Summary ‑ this is provided to bidders at the end of a competitive process and will contain information about the winning bid and the assessment of the bid of the supplier who is receiving the summary. This will help suppliers improve their bids in future and increase the quality of the market
+302: Award Notice ‑ the Award Notice is notification that a contract is about to be entered into. It is required for competitive and non‑competitive contracts and will usually mark the start of an 8 working day standstill period before which the contract can not be entered into.
+303: Contract Change Notice ‑ a new notice which is to be published advertising the contracting authority’s intention to modify an existing contract.
+304: Contract Details Notice ‑ to be published within 30 days of the contract being entered into.
+305: Key points
+306: Publish commercial/procurement pipelines so suppliers understand likely future demand for services across government.
+307: Assess the health and capability of the market you will be dealing with and consider how your commercial strategy and contract design can be adapted to address potential weaknesses.
+308: Consult widely and encourage broad participation, particularly with SMEs and VCSEs.
+309: Engage early with the market and be ready to demonstrate in your Strategic Outline Case (SOC) that your proposals have been informed by both your market health and capability assessment and feedback from potential suppliers.
+310: Consider how you will drive innovation and social value through the procurement.
+311: Want to know more?
+312: 1. GovS008 Commercial Functional Standard.
+313: 2. Market management guidance note.
+314: 3. Procurement Policy Note 06/20 – taking account of social value in the award of central government contracts (PDF, 53.5 kb).
+315: 4. For civil servants, weekly newsletters on government strategic suppliers can be requested from marketsandsuppliers@cabinetoffice.gov.uk.
+316: Supplier factsheets and market reports for common goods and services can be requested from ci@crowncommercial.gov.uk.
+317: 5. Advice from the CMA can be sought by contacting advocacy@cma.gov.uk.
+318: 6. Guidance on transparency and the publication of tender and contract documents.
+319: 7. Procurement Policy Note 02/17: Promoting Greater Transparency and in Procurement Policy Note 01/17: Update to Transparency Principles.
+320: 8. Commercial Pipeline Guidance.
+321: 9. Procurement Policy Note 05/21: National Procurement Policy Statement.
+322: 2. Approval process
+323: To ensure a smooth transition through the approval process, it is critical to engage early with assurance teams and processes.
+324: Project Validation Reviews
+325: Any new initiative that is likely to result in a major project, shall go through a Project Validation Review (PVR). This also now applies to all complex outsourcing projects.
+326: If the value of a standard outsourcing project is greater than the departmental delegated expenditure limit or it is considered to be strategically significant, then a PVR may still be required. Departments should consult the Cabinet Office Commercial Continuous Improvement Team.
+327: The PVR shall occur during the early stages of preparation and planning, and before any public commitment is made. It consists of independent peer reviews that take place ahead of the transition from policy to delivery. Further information can be found in the approvals guidance.
+328: For all projects over £20 million (total contract value), additional controls are applied by the Cabinet Office. Departments are encouraged to engage with the Cabinet Office Commercial Continuous Improvement team (controls) as early as possible.
+329: If the outsourcing project is considered to be complex, a member of the Complex Transactions Team, or another Cabinet Office team, should also be embedded.
+330: At the Outline Business Case (OBC) stage, senior responsible owners should also have identified KPIs that align with and will support delivery of overarching project goals. These can then be further refined through piloting and market engagement (see later sections).
+331: The benefit of applying the full weight of cross-government expertise to outsourcing projects is realised in the deliverability, affordability and value for money of the project. Getting all teams on the same page from day one puts us in a position to make good decisions, right from the start. The expectation of commercial practitioners is set out in section 3.4 of the government commercial functional standard.
+332: The commercial conversation continues after the PVR and SOC. Departments are encouraged to make use of available resources and knowledge from across their own organisation, wider government and in the central commercial teams throughout the approval process.
+333: Figure 3: Typical approval process
+334: Key points
+335: All complex outsourcing projects shall go through a Project Validation Review (PVR).
+336: The benefit of applying the full weight of cross‑government expertise to outsourcing projects is realised in the deliverability, affordability and value for money of the project.
+337: Contracting authorities are encouraged to continue the commercial conversation through Outline Business Case (OBC) and Final Business Case (FBC) approval stages.
+338: Want to know more?
+339: 1. A short ‘plain English’ guide to assessing business cases.
+340: 2. Approvals process guidance note.
+341: 3. For advice on engaging the HMT Spending Teams, contact your departmental approval and scrutiny lead.
+342: 4. If you have any questions regarding Cabinet Office controls, contact
+343: commercialcontinuousimprovement@cabinetoffice.gov.uk.
+344: 5. For central commercial support on a complex outsourcing project in central government, contact the Complex Transactions team: cttbusinessoperations@cabinetoffice.gov.uk.
+345: 6. Contact the Crown Commercial Service if you wish to procure common goods and services.
+346: 3. Delivery model assessments
+347: A delivery model assessment can help address the different challenges that come from outsourcing or insourcing a service, or one of its components.
+348: A delivery model assessment (formerly known as a ‘make versus buy assessment’) is an analytical, evidenced‑based approach to reach a recommendation on whether a contracting authority should deliver a service or part of a service in‑house, procure from the market or adopt a hybrid solution.
+349: It is a strategic decision that should be given consideration with an appropriate level of attention and foresight. This should take place early enough to inform the Strategic Outline Case (SOC).
+350: How the decision should be made
+351: To determine which service delivery model offers best value for money, a detailed analysis of the costs and benefits of each option is required. This should include a comprehensive evaluation of the risks, and the possible consequences – economic, human and technological – of outsourcing, insourcing, and / or adopting a mixed economy approach. The Orange Book provides further detail on how to assess and manage risks.
+352: Figure 4 provides a structured framework to assess these factors, consistent with the options appraisal approach prescribed in the Green Book. For complex projects, departments should consult the Cabinet Office before beginning the delivery model assessment for expert support and independent facilitation.
+353: 6 When is a delivery model assessment required?
+354: Delivery model assessments are mandatory in the following scenarios and are generally good practice for all projects:
+355: Upon the introduction of new public services.
+356: Where the identification of a significant new development to an existing service (such as a new technology requirement) has been identified.
+357: Where there is a need to re‑evaluate the delivery model of existing services, for example because of deteriorating quality of delivery, a major policy or regulatory change, departmental cost reduction, technological advancement, significant change in strategic direction or transformation programmes.
+358: Figure 4: Delivery model assessment approach
+359: 1. Frame the challenge
+360: Clarify the programme objectives, timescales and drivers of change. Identify stakeholders and set up working teams and governance approach.
+361: 2. Define the service, delivery model options and data inputs
+362: Identify the service components and the options for how they might be delivered, including how service components might be combined or disaggregated to best deliver the desired outcomes.
+363: 3. Establish strategic and operational evaluation criteria
+364: There are many potential issues to consider in the selection of a delivery model. Evaluation criteria will be specific to each programme but the following areas give some examples of the potential key issues that might determine the most appropriate strategic approach for delivery and the relationships you will need to develop with the supply chain.
+365: Strategy and policy
+366: Consider how well the delivery model aligns with departmental and government strategies and policies. How will it ensure delivery of strategic objectives, such as SME engagement, equalities or social value?
+367: Transition and mobilisation
+368: Consider how easy it will be to transfer existing services into the new model.
+369: If this is a new service, what challenges will you face setting up and mobilizing the service? Consider issues such as recruitment (or TUPE implications), timescales and systems developments.
+370: People and assets
+371: Consider the capabilities and skillsets needed and existing capacity (internal or in the external market). What flexibility will you need (e.g. if volumes change) and how well can the delivery option meet these needs? What will the training and recruitment impact be? What other investments may be required and who will own any assets (including intellectual property)?
+372: Service delivery
+373: Consider how the delivery model will guarantee ongoing service quality, innovation and continuous improvement. What management structures will be required, whether insourced or outsourced? How will you manage SLAs and KPIs?
+374: Risk and impact profile
+375: Identify the commercial and operational risks that may impact the delivery of services.
+376: Who is best placed to manage these risks and how might they be mitigated by the delivery option?
+377: 4. Assess the whole life cost of the project
+378: Use your strategic approach and service definition to identify the cost drivers for the transition and mobilisation phase and a period of running.
+379: All projects should develop an appropriate Should Cost Model.
+380: 5./6. Conduct the evaluation and align the analysis
+381: The cross-functional team should assess each of the evaluation criteria against the agreed weightings.
+382: Learn from objective evidence, past projects and colleagues across the public and private sector (this may include engaging with the market) to test and sense-check your findings.
+383: Consider a red team review to validate your findings.
+384: 7. Recommendations and approvals
+385: Develop and document your recommendations and ensure approval via the project board.
+386: 8. Piloting and implementation
+387: Build your commercial strategy and identify any requirements to pilot the outcome of your assessment (see guidance note).
+388: The delivery model assessment should be proportional to the criticality, complexity and size of the project, and completed early in the preparation and planning stage in order to inform the development and recommendation of options in the SOC.
+389: Delivery model assessments are expected to be iterated over time in‑line with the business case development process set out in the Green Book. The contracting authority should then reassess the delivery model assessment ahead of the Outline Business Case and ensure that any assumptions have been validated and factored into the Full Business Case.
+390: The process to run a delivery model assessment is set out in detail in the additional Guidance Note.
+391: Using Should Cost Model Estimates to understand whole life costs
+392: Having a clear understanding of the whole life cost of delivering a service, and/or the cost of transforming a service is best achieved by producing a Should Cost Model Estimate.
+393: As summarised below, a Should Cost Model Estimate can be used to help evaluate different delivery model options:
+394: In‑house – This is the whole life cost to deliver a service in‑house using internal resources and expertise. It includes the cost of acquiring assets and the necessary capability. This should be used early in the procurement to compare costs against the ‘expected market cost’ and / or ‘mixed economy’ options at a high level to inform your delivery model assessment.
+395: Expected Market Cost ‑ This is the expected whole life cost of procuring a service from an outside supplier. It includes the cost of additional market factors such as risk and profit. Use early market engagement to help ensure that the model structure can be evolved to enable comparison to the bids you expect to receive from the market.
+396: Mixed economy – A delivery model will often be a combination of insourcing and outsourcing different components of the service. In these cases, a combination of the ‘in‑house’ and ‘expected market cost’ options, referred to as a ‘mixed economy’ option, can be used to calculate the cost of the service.
+397: It is good practice to produce a Should Cost Model Estimate for all procurements. Where a complex service is being considered, a Should Cost Model shall be produced.
+398: Should Cost Model Estimates should be used early in the procurement process to:
+399: inform the delivery model assessment (initial Should Cost Model Estimates may be at high level)
+400: drive a better understanding of the financial risks and opportunities associated with different service delivery options and scenarios
+401: drive more realistic budgets by providing greater understanding of the impact of risk and uncertainty
+402: inform the first business case (SOC for departments and ALBs)
+403: inform engagement with bidders and the appropriate commercial strategy, including methods to incentivise the supply chain to deliver whole life value
+404: Should Cost Model Estimates can be used throughout the procurement lifecycle and can help to support wider requirements, such as demonstrating value for money or helping to protect government from ‘low cost bid bias’. As requirements change and more information becomes available, for example, the anticipated costs linked to the proposed KPI targets, they will evolve and the level of detail, which can vary significantly, should be iteratively developed over time. Further information is available in the Should Cost Modelling guidance note and HM Treasury’s guidance on producing quality analysis for government.
+405: Inflation and Indexation
+406: It is essential that contracting authorities assess and manage the risk of inflation and look to implement an agreed approach at the pre‑procurement stage to maximise value for money. Using indexation is a transparent way of allowing calculations and reimbursements to be made in line with the underlying costs of a project. This will avoid suppliers pricing in an expensive risk premium due to the risk of inflation, resulting in poor value for money.
+407: The starting point is understanding the cost drivers of a contract and developing a Should Cost Model Estimate will be central to this.
+408: The contracting authority should consider the supplier’s ability to manage these costs, and only consider indexing costs that are outside the control of the supplier. The resulting contractual index should be the index that best represents the cost drivers subject to inflation. In services with several cost drivers, the contractual index may be a ‘composite index’ that is a weighted average of the individual indices of those specific cost drivers, weighted according to the proportion of their contribution to the total cost of the good or service.
+409: Alternatively contracting authorities can apply indices to specific cost lines within their pricing schedule. Either of these approaches should be used to ensure that the impact the index has on a contract’s pricing is proportional to the contract’s exposure to the costs that the index is linked to. This contractual index will shield suppliers from costs outside their control and incentivise them to manage costs that they can control. Contracting authorities should use indices from published and reputable sources, such as the ONS, government departments and potentially other bodies aligned to specific commodities or industries.
+410: Open Book Contract Management (OBCM) can complement the operation of a contractual index. It is a structured process for the sharing and management of charges and costs and operational and performance data between the supplier and the authority.
+411: The use of OBCM, provided that it is proportionate to do so, will provide transparency that the chosen indexation approach is appropriate such that inflationary increases do not either unfairly penalise the supplier or enable them to make excessive profits.
+412: When considering insourcing a service
+413: Insourcing commonly refers to the process of transferring part or all of a service that was previously outsourced to an in‑house service delivery model. Insourcing is a substantial transformation in service delivery model, and should have additional care and consideration applied before being undertaken.
+414: There are a number of specific considerations before insourcing a service including:
+415: ability to acquire or build and maintain the required expertise and assets
+416: impact of TUPE regulations and pension liabilities
+417: organisational governance, processes and capability, including senior management and backroom functions
+418: potential increase to risk exposure
+419: impact on market health and other public services
+420: interdependencies with other public services
+421: accessing required service information and intellectual property
+422: Characteristics of services that may be particularly challenging to insource include where:
+423: there is a lack of required specialist capability internally (e.g. specific technical capabilities) or assets
+424: there is reliance on specific intellectual property that sits with a supplier (or number of suppliers)
+425: the market has scale that is driving greater efficiencies
+426: the market is continuously innovating and an in‑house solution may not have the scale or expertise to replicate that
+427: there is currently a lack of senior management capacity or capability to transition, integrate and manage the insourced services
+428: When delivering a service in‑house
+429: Delivering a service using internal resources and expertise should be based on the same robust expectations set out in the Playbook for outsourced services.
+430: This includes setting and monitoring performance against clear objectives and outcomes managed by appropriately qualified individuals. This is set out in detail in the government’s project delivery standards.
+431: To help achieve these standards, you should consult the following sections in the Playbook:
+432: Piloting the delivery of a service (see Chapter 4: Piloting delivery of a Service): Testing a service on a small scale before full‑scale implementation can provide organisations with valuable data on a service and / or test best practice approaches.
+433: Quality data and asset registers (see Preparing to go to market): We should be collecting and maintaining data about our assets and services to enable us to make informed decisions when we need to.
+434: KPIs and baselines (see Chapter 5: Preparing to go to market): Ongoing monitoring linked to intended benefits in a proportionate and appropriate way is essential for all public services.
+435: Where similar services are insourced and outsourced by a contracting authority, comparable KPIs should be set to enable fair and consistent comparison of delivery models and service levels.
+436: The Infrastructure and Projects Authority offers expertise in all aspects of project delivery including training, guidance and resources.
+437: When considering outsourcing a service
+438: Some services will carry more risk than others when outsourcing, for example, complex outsourcing services present the contracting authorities with more commercial, operational and reputational risk, not all of which can or should be transferred to the supplier (see risk allocation guidance note).
+439: It can be more challenging to fully outsource services that have any of the following characteristics:
+440: are core to your organisation’s purpose and objectives
+441: are complex (as defined on page 13) or high‑risk services where there is limited or no proven market capability
+442: are novel services that have a limited market to source from
+443: have experienced many operational difficulties in the past
+444: are poorly understood and / or not well defined
+445: there will be disproportionate effort and cost to bring services back in‑house in future
+446: TUPE
+447: TUPE stands for the Transfer of Undertakings (Protection of Employment) Regulations 2006. TUPE can apply in instances where there is a requirement to outsource, reprocure or insource a service. Where TUPE applies, the employment of those employees doing work that is outsourced or insourced will transfer automatically by operation of law from their current employer to the new supplier (on an outsourcing or reprocurement) or to the Department or other public sector organisation (on an insourcing), if a number of conditions specified under TUPE are satisfied. Those employees who transfer under TUPE will do so on their pre‑existing contractual terms and conditions of employment, which generally cannot be changed by the new employer if the sole or principal reason for the change is the transfer itself.
+448: Whether TUPE applies, and the protection it affords to employees where it does apply, can give rise to complex legal, commercial, HR, pensions and operational challenges, so obtaining specialist advice and support at the earliest opportunity is vital. TUPE is not discretionary and contracting authorities should strive wherever possible, to keep clear, accurate and detailed information on employee roles to ensure that if a TUPE action were to take place, there is a clear set of reliable data to inform the process. TUPE is particularly important for labour intensive contracts. It should be considered throughout the whole commercial lifecycle.
+449: In particular, whether TUPE applies or not and the current quality and availability of the data should be considered in the early, planning phases of a procurement, re‑procurement or insourcing process. It can take significant time for data to be in a usable and reliable state for a tender.
+450: There are many advantages to both buyers and suppliers of collating and updating TUPE information. For example, if bidders are not provided with accurate and appropriately detailed information, they may include risk pricing within their bids. This is because they cannot be confident that the information presented to them reflects the reality of the situation when the service goes live. Suppliers may add in initial costs to protect their bottom line. For example, in the event that TUPE costs are higher than the data provided by the authority at bid stage suggested. By providing accurate TUPE information, buyers will be able to limit supplier risk pricing. This means bidders can compete on the basis of their actual price for providing the goods or service and results in better value for money outcomes for the taxpayer.
+451: Full and accurate TUPE information should be shared with bidders at the tender stage of the procurement phase. Buyers should note that updating TUPE information too late during the procurement process can be unhelpful to bidders as they may not have the time to amend their bid before it is due to be submitted. This is where tools, such as allowable assumptions, could be used to allow bidders to update their TUPE costs in light of new information, as detailed below.
+452: Seek TUPE Guidance from Suitability Qualified People
+453: TUPE is a highly complex and specialised area and requires a collaborative approach where, for example, commercial, legal, commercial finance, strategic finance and HR all may need to be involved. Consequently, you should seek advice from suitably qualified personnel as early as possible and before taking any action. In the first instance, departmental or equivalent internal specialists should be contacted. For central government departments and some other public bodies, the GLD Employment Group’s TUPE Hub can be contacted for additional support and expert advice in relation to complex or difficult matters. The TUPE Hub can be reached at: EmploymentGroupTupe@ Governmentlegal.gov.uk
+454: Additional guidance on how to get high quality data from incumbent suppliers
+455: It is important that bidders are provided with accurate and suitably detailed TUPE information to use in their bids. This enables a better transition of suppliers and will mitigate risks associated with risk pricing.
+456: Commercial/procurement professionals should be aware of the exit provisions provided under the Model Services Contract (MSC) which should be consulted when considering appropriate TUPE related clauses when contracting.
+457: Data should be entered into a template to aid in completion. An example template for TUPE information is provided under the Model Services Contract. However, buyers may need to tailor this information based on their individual contractual needs. Alternatively, suppliers will likely have their own templates for TUPE data to be entered into. Buyers could use early market engagement to test this and devise an appropriate template for TUPE data to be entered into and shared with the bidders at tender stage.
+458: Exit provisions should be used in contracts to require the outgoing supplier to provide accurate and up to date information required for retendering. This will aid in the exit phase from contracts as the incumbent supplier is contractually bound to provide TUPE data in instances of a new supplier taking over the service. Buyers should ensure that contractual mechanisms or obligations do not prevent TUPE information from being shared with bidders. For example, if relevant TUPE data is covered by a confidentiality obligation. Further clauses relating to TUPE can be found in the Model Services Contract. In cases of first generation outsourcing, the contracting authority is solely responsible for the quality of the TUPE data and cannot rely on exit provisions within an existing contract.
+459: GDPR should be always considered when contracting with suppliers, however, GDPR considerations should not prevent contracting authorities from sharing relevant and accurate TUPE information with suppliers and bidders. For example, TUPE data can be anonymised.
+460: Mitigating Risk Pricing
+461: Contracting authorities should consider using allowable assumptions to mitigate the risk of supplier’s risk pricing. These can be defined as assumptions which allow the Supplier to set out any identifiable risks and ensures that the contract price changes only if those risks materialise. When considering allowable assumptions, buyers should consult the Model Services Contract (MSC).
+462: The Cabinet Office produces template contracts for use by contracting authorities during their procurements and one of these is the Model Services Contract. This document is a set of standard terms and conditions for service contracts which can be a useful reference in the context of TUPE. The MSC Section 6 (Allowable Assumptions) of
+463: Schedule 15 (Charges and Invoicing) permits suppliers to submit a register of allowable assumptions. In relation to TUPE information, this allows suppliers to clearly outline the potential impact of inaccuracy in the TUPE data and a defined period of verification.
+464: Section 6 also clearly outlines the process for assessment and implementation of allowable assumptions if they occur, including ensuring that any allowable assumption which is exceeded is subject to the change control procedure. This enables contracting authorities to have a clear view of any assumptions around TUPE inaccuracy and to financially assess TUPE data impact within their financial model more accurately. It also enables suppliers to manage risk transparently with the authority, and ensures that any material inaccuracies are subject to the same requirements as any change within the contract terms. Lastly, the allowable assumptions mechanism is already integrated within the Model Services Contract, ensuring that the obligations and rights of contracting authorities and suppliers operate without conflict.
+465: Another way to manage the risk of suppliers risk pricing is to include a specific TUPE true up mechanism as part of the procurement, whereby actual TUPE data is assessed against that provided during the procurement. This is not recommended policy in most cases. But if contracting authorities wish to include a true‑up mechanism, it is key that they take legal advice to ensure that the TUPE true up approach properly integrates into the contract mechanisms, obligations and rights, reducing the risk of a conflict in terms.
+466: Asset Condition Handover
+467: Additionally, commercial professionals should ensure that accurate asset data is available to bidders during the procurement process. The principles set out above in relation to TUPE data apply to asset data also. Contracting authorities should provide accurate data to bidders to avoid them risk pricing and provide means to update data should it be found to be inaccurate.
+468: Key points
+469: The delivery model assessment should take place early in the preparation and planning stage of an outsourcing project before the Strategic Outline Case.
+470: Conduct a thorough analysis of value for money to determine whether services are best delivered ‘in‑house’, with the support of an outsourcer or through a mixed model.
+471: All complex outsourcing projects shall produce a Should Cost Model Estimate.
+472: Put in place the right resources and engage with key stakeholders to fully understand the environment, constraints, requirements, risks and opportunities.
+473: Consider the additional challenges on insourcing a previously outsourced service and the expectations when delivering a service ‘in‑house’.
+474: Want to know more?
+475: The Green Book: appraisal and evaluation in central government.
+476: Review of quality assurance of government models.
+477: The Aqua Book: guidance on producing quality analysis for government.
+478: Market management guidance note.
+479: Delivery model assessment guidance note.
+480: Should Cost Model Estimating guidance note.
+481: For central commercial support on a complex outsourcing project, contact the Complex Transactions team: cttbusinessoperations@cabinetoffice.gov.uk.
+482: For advice on potential commercial models for your service, contact the Commercial Models team: commercialmodels@cabinetoffice.gov.uk.
+483: 4. Piloting first generation outsourcing
+484: When we choose to outsource something for the first time, we treat it as a special case and apply additional scrutiny and assurance.
+485: Piloting delivery of a service
+486: Where government is outsourcing a service for the first time, a pilot should be run first as part of a robust programme of testing, in recognition of the inherent uncertainty of first‑generation outsourcing, before deciding on a long‑term delivery model. We will take a pragmatic approach to this presumption and exemptions can be agreed where it isn’t practical or beneficial to run a pilot.
+487: Options for running pilots
+488: Across the public sector, the concept of ‘piloting’ new services has come to mean many different things. We recognise that pilots are only one form of a range of testing approaches which provide insight and evidence into what works. Other methods of testing include:
+489: Trial programmes and proofs of concept: The theoretical or live testing of policies or processes to check that they will deliver their intended outcomes.
+490: Scoping phases, agile approach and innovation partnerships: Processes that help to develop and build the final requirements using structured, iterative ways of working. These may involve theoretical testing or take place in a live environment.
+491: Test and learns: The testing of one or more delivery options to identify which will best achieve the objectives.
+492: Pilots: The final stages of testing a preferred option usually on a small scale to ensure that all the ‘rough edges’ and logistical issues can be addressed before a full‑scale rollout.
+493: In many instances it will be appropriate for contracting authorities to use one or more testing approaches at earlier stages of project development, with the pilot being the final testing stage prior to a full‑scale rollout of services. The testing and piloting services guidance note sets out when certain tests may be more appropriate in a project lifecycle.
+494: Early testing enables contracting authorities to understand the viability of a project or outcome at its various stages of development. This allows the contracting authority the opportunity to change the course of action, limiting cost and time where it becomes apparent that the project will not deliver the required outcome. Tests can also be used to explore new technologies and delivery innovations for services that are already outsourced.
+495: When to test and pilot
+496: Not all testing approaches will be required for every project. Testing approaches should be proportionate to the size, complexity and level of uncertainty in delivering a service.
+497: Planning which testing approaches to include and whether to include a pilot should begin at the earliest strategic stages of a project, before the start of any procurement process, and should be incorporated into the delivery model assessment, sourcing strategy, bid documents and evaluation processes.
+498: Ensure you communicate the likelihood that a pilot phase will be used through early market engagement to seek feedback from the market to inform the procurement.
+499: The testing programme should align to key project milestones throughout the lifecycle of the project up to full implementation.
+500: Designing effective tests and pilots
+501: Tests, including pilots, should be developed to ensure success and the most value is obtained to mitigate potential risks prior to scaled implementation. There are a number of factors to take into consideration in designing effective tests and pilots, and detailed guidance is provided in the testing and piloting services guidance note.
+502: Key considerations include:
+503: set clear, measurable objectives and success criteria
+504: identify the scope and scale of what will be tested, and where they will be run
+505: put in place the right resources
+506: establish clear timescales and embed these in the overall project plan
+507: ensure the right commercial mechanisms are in place
+508: allow sufficient time at the end of tests for due consideration of the results
+509: Procurement Reform
+510: The Bill does not change the policy on testing and piloting but the new Competitive Flexible Procedure will provide greater flexibility for contracting authorities to design procedures which use testing and piloting as formal parts of the procurement and to set out clear rules in advance about how the results of any pilots will be used and down‑select decisions made.
+511: Key points
+512: Services that are being outsourced for the first time that are considered complex should be subject to a pilot before advancing to full procurement.
+513: Pilots may also be helpful where an outsourced service is undergoing a transformation, where there is poor competition in the market and / or to test new technology or innovation.
+514: Pilots are one form of test, and other testing approaches should also be considered as part of a robust testing programme.
+515: Want to know more?
+516: Testing and piloting guidance note.
+517: The Magenta Book: Guidance for evaluation.
+518: 5. Preparing to go to market
+519: Preparation is the key to achieving flexible and efficient procurement processes that encourage broad participation and are open and accessible to all.
+520: Publication
+521: Make use of the options available to publicise your early engagement activity. This can be done via a Prior Information Notice on Find a Tender Service (FTS), or a future opportunity or early engagement notice on Contracts Finder, as appropriate.
+522: If calling off a framework, Crown Commercial Service can support early engagement activity.
+523: Ensure that legal and policy requirements for advertising your procurement are met. This includes the publication of the tender documents.
+524: Procurement Reform
+525: Under the future regime, contracting authorities will be able to publicise new opportunities and engage with the market through a Planned Procurement Notice or a Preliminary Market Engagement Notice (or both).
+526: Quality data and asset registers
+527: We should be collecting and maintaining sufficient data and information about our assets and services to enable us to make informed decisions when we need to.
+528: This includes early delivery model assessments; those that shape commercial strategies; decisions that promote market health; and designing fair contracts and making good deals. All of these depend on the quality of information and data.
+529: Suppliers are dependent on us having good data. The only way they can assess whether the delivery model and pricing structure that we take to market is deliverable and sustainable is if it is based on quality data.
+530: We are committed to providing accurate data and / or building in flexibility to allow for subsequent validation of data (consistent with procurement legislation), particularly with first generation contracts, and expect pilots to be used to generate this information.
+531: Where we are carrying out second (or subsequent) generation procurements, we rely on data provided by the incumbent.
+532: Good contract management throughout the life of the contract is essential to ensure that the incumbent consistently provides and updates this information.
+533: It is only once we have these elements in place that we can engage the market in a fair and open way and provide sufficient information for bidders to make an informed decision about whether they want to bid.
+534: Clear specifications
+535: A precursor to fair and open market engagement is a clear technical specification, which shall provide sufficient information for bidders to make an informed decision about whether they want to bid.
+536: Without this shared understanding, we cannot expect to be able to relate the price offered by bidders to our own understanding of costs. And if we cannot do that, then we will always be open to risk that we will not get the outcomes we want at the price we need.
+537: Contracting authorities shall ensure compliance with the Equality Act 2010 and its associated Public Sector Equality Duty. This should include consideration of the end‑user early in the preparation and planning stage of procurement to ensure the service being specified is fit‑for‑purpose and promotes equality of opportunity in a way that is consistent with the government’s value for money policy and relevant public procurement law.
+538: KPIs and baselines
+539: KPIs stands for key performance indicators, a measure of performance for a specific objective. Appropriate specifications and performance measures are the foundation of a good contract. With the right KPIs in place, it should follow that contracts are designed to incentivise delivery of the things that matter, to minimise perverse or unintended incentives and to promote good relationships.
+540: In preparing to go to market, contracting authorities should develop a robust set of well‑structured KPIs that are relevant and proportionate to the size and complexity of the contract. Getting this wrong can create confusion and tension. For instance, having too many KPIs (i.e. more than 10 to 15 per service) will lead to overcomplicated contracts and ambiguity with suppliers. KPIs should also be set to align with the intended benefits to be realised during contract delivery (e.g. working within cost thresholds; achieving minimum performance outputs; and / or maintaining a minimum level of customer satisfaction).
+541: Misunderstandings about how KPIs work or how they are measured can make it difficult for bidders to price them, and can result in unintended outcomes and / or service failures. It is important to work closely with your bidders and suppliers to ensure KPIs are jointly shaped and understood.
+542: In line with the government’s transparency agenda, four KPIs from each of the government’s most important contracts shall be made publicly available.
+543: This includes, but is not limited to, services contracts. These should be the three most relevant to demonstrating whether the contract is delivering its objectives and one social value KPI, and they should be measured regularly.
+544: A specific review of the benefits being realised during contract delivery should be initially done at the 12‑month stage of a contract, and every 12 months thereafter on a ‘comply or explain’ basis. A sample of projects are routinely checked by central approvals and scrutiny. KPIs should also be developed to align with the project’s broader social value outcomes to help ensure that identified social, economic and environmental benefits are delivered through the contract. (For specific guidance on social value KPIs, see Guide to using the Social Value Model, section 4 (PDF, 279 kb).)
+545: Procurement Reform
+546: The Bill states that all contracting authorities (i.e. including local authorities) will be required to publish 3 KPIs and associated performance annually on all contracts with a value, or expected value, over £5million. (This will not apply to overarching frameworks, private utilities, concession contracts and those covered by Light Touch rules.) The plan is that this will be published on the single, central platform. The focus on setting appropriate KPIs and properly monitoring and recording performance will intensify because the performance data could grant contracting authorities discretionary rights to exclude suppliers who are perennial poor performers and have not responded to calls to improve.
+547: Designing evaluation criteria and avoiding a bias towards low cost bids
+548: To help avoid a bias towards low cost bids, the following should be considered when designing evaluation criteria:
+549: Pre‑market engagement to test that suppliers can deliver the required services at an affordable cost.
+550: A ‘Should Cost Model’ has been developed to help understand what the right cost (or cost‑range) is and what financial elements should form the whole life cost calculation.
+551: The approach to evaluating quality, including objective criteria that are relevant to the service requirement, weightings applied according to the importance of the criteria and a scoring approach that promotes effective differentiation.
+552: The evaluation model should be developed iteratively by refining versions over time, with outline evaluation criteria tested with potential bidders as part of early market engagement. See the bid evaluation guidance note for further information.
+553: Resolution planning
+554: Standard clauses dealing with resolution planning should be included in draft contracts.
+555: Where we are procuring a critical service contract, we will want the successful bidder to provide us with resolution planning information during the life of the contract and should make this clear in the contract notice.
+556: More information on resolution planning can be found on pages 68 to 71.
+557: Protecting against supply chain risk
+558: The Model Services Contract (MSC) includes various protections against supply chain risk.
+559: These include step‑in rights, the approval of key sub‑contractors and assignment and novation provisions.
+560: When planning a procurement, we should consider whether to incorporate additional protection. For example, we could require that the supplier use a ring‑fenced (or partially ring‑fenced) entity to insulate us to some extent from the impact of adverse events elsewhere in a supplier’s business. (Note, however, that complete ring‑fencing can be difficult and expensive to achieve and limit bidder appetite.)
+561: Protecting against costs arising from supplier insolvency
+562: As part of procurement planning, we should consider how best to protect ourselves against costs arising from supplier insolvency.
+563: In most cases the optimal approach will be through self‑insurance, although performance bonds are common in construction contracts and should be used where they provide value for money. Where we self‑insure, we should recognise the risk in the business case, agree who is carrying it and include a notional cost in the delivery model assessment.
+564: Prompt payment
+565: The government understands the importance of prompt, fair and effective payment in all businesses. Being paid promptly for work done ensures businesses have a healthy cash flow.
+566: When procuring services (or goods / works) with an anticipated contract value above £5 million per annum, departments shall include an assessment of a supplier’s payment systems to demonstrate it has a reliable supply chain, and determine when it would be appropriate to exclude those suppliers that cannot demonstrate they have effective systems in place. Additional guidance can be found in PPN 08/21. This is a central government requirement that could be applied across the wider public sector to encourage prompt payment across the public sector supply chain.
+567: Procurement Reform
+568: The Bill establishes prompt payment provisions as implied terms in all public contracts, excluding private utility and concession contracts, and those awarded by a school.
+569: Key points
+570: Invest time in preparing to go to market in order to conduct procurements that encourage broad participation and are open and accessible to all.
+571: Collect and maintain quality data and accurate asset registers.
+572: Consider the need to build in flexibility to allow for post‑contract validation of data (consistent with procurement legislation).
+573: Offer potential suppliers a clear articulation of the service being procured so they can make an informed decision about whether they want to bid.
+574: Design KPIs that are relevant and proportionate to the size and complexity of the contract and select three to be made publicly available.
+575: Plan for an annual review of benefits realisation after contract signature.
+576: Design contracts that set reasonable expectations of suppliers and offer a fair return.
+577: Consider the criticality of the service contract and determine whether resolution planning information will be required.
+578: Consider supply chain risk and whether to require any additional protections. When procuring services (or goods / works) with an anticipated contract value above £5 million per annum, departments should include an assessment of a supplier’s payment systems.
+579: Consider how best to protect against costs arising from supplier insolvency.
+580: Want to know more?
+581: Onerous practices in procurement and contracting PPN10/16.
+582: Benefits measurement guidance note.
+583: Resolution planning guidance note.
+584: The Public Contracts Regulations 2015, Regulation 69: Abnormally low tenders.
+585: Guidance on taking account of a supplier’s approach to payment in the procurement of major contracts is available in Procurement Policy Note 04/19.
+586: 6. Routes to market
+587: When outsourcing more complex services, it is important to pick a procurement procedure that allows for appropriate dialogue and negotiation.
+588: Which procurement procedure?
+589: Cabinet Office policy on the choice of procurement procedure can be found in the Availability of Procurement Procedures PPN 12/15. This policy note includes a procurement decision tree showing a general preference for the open procedure to be used, with other procedures shown as exceptions.
+590: An exception is the use of competitive dialogue (CD) or competitive procedure with negotiation (CPN), which allow for a reduction in the number of suppliers to be invited to tender and the ability to dialogue and negotiate about complex issues and areas of risk.
+591: A number of approaches, including pre‑commercial procurement and innovation partnerships, can be used where the services to be procured are entirely novel, or being applied in a new industry or policy theme for the first time. They allow for a combination of research and development, and the subsequent procurement of the developed solution within a competitive and transparent process. For example, in an innovation partnership, the service that is to be outsourced is piloted but is gradually contractualised throughout the pilot.
+592: Early market engagement will inform the choice of procurement procedure. If, as an outcome of this engagement, the contracting authority identifies areas of complexity and risk that will benefit from dialogue and / or negotiation, it should select the CD (or CPN). PCR Regulation 26 sets out the circumstances when the CD (or CPN) procedure can be used.
+593: Using dialogue and negotiation
+594: Meaningful formal engagement is critical to the successful outcome of any dialogue/ negotiation. When used correctly, both CD and CPN offer significant and clear benefits, in particular, enabling risk and assumptions to be thoroughly tested, solutions to evolve and the foundations established for ensuring a successful contractual outcome for all parties and stakeholders.
+595: The cost of carrying out either CD or CPN is likely to be significant for both the contracting authority and bidders, but if done well, represents a good investment.
+596: A successful dialogue / negotiation strategy will:
+597: be commercially and business driven
+598: enable the early identification of areas of complexity and risk that would benefit from dialogue or negotiation
+599: restrict dialogue / negotiation to areas that will benefit from this process
+600: identify a strong chair to lead dialogue / negotiations, supported by a team with defined roles and appropriate skills and experience
+601: be based on pre‑agreed negotiation positions
+602: adopt an appropriate and clear timetable, coupled with strong programme and project management disciplines to mitigate the risk of cost and time overruns
+603: Further detail on how to run a CD or CPN process is set out in the Guidance Note.
+604: Procurement Reform
+605: The new regime will streamline the number of available procurement procedures to 3. The open procedure will remain as much as it is now, although there may be changes to noticing, timescales and the selection process, and the use of this procedure will be expanded to sectors which could not use it previously (such as Defence). The Direct
+606: Award procedure replaces the old Negotiation Procedure without Prior Publication but with greater transparency and a new limb which allows for use of direct award in a crisis (when declared by a Minister). The new Competitive Flexible procedure will allow contracting authorities to design their own procedure within the parameters of a fair and transparent process. This will allow, for example, for multiple stages of dialogue or negotiation, for the use of Best and Final Offers (BAFO) and for technical demonstrations and piloting/testing to be built into the procedure.
+607: Use of frameworks
+608: Frameworks (and dynamic purchasing systems) are an efficient method for the public sector to procure common goods and services. They provide the opportunity for contracting authorities to access economies of scale and benefit from greater value for money. Crown Commercial Service provides a range of frameworks (and dynamic purchasing systems) to central government and the public and third sectors to purchase common goods and services, from locum doctors and laptops to police cars and electricity. See the full list of categories and agreements.
+609: This includes a number of frameworks aimed at innovative solutions:
+610: The ‘Spark’ DPS (RM6094) provides a route to market for new technology products including technologies such as AI and virtual reality. Spark will help enable growth in the UK technology sector, making it easier for SMEs to access public sector customers and improve the ease and speed at which the public sector can access proven new technology.
+611: The new ‘Automation Marketplace’ is a Dynamic Purchasing System that offers a wide range of automation services aiming to unlock business and social value with creative and innovative approaches to problems.
+612: However, using frameworks inappropriately can have negative consequences for contracting authorities, markets and suppliers, and can unintentionally inflate prices. Any services that are not common across government should be subject to the full procurement process, including meaningful engagement with bidders.
+613: To ensure a framework is appropriate for your requirements, buyers should read all the framework documents before selecting it as your route to market. Buyers should check with the framework provider that it meets your requirements, provides the necessary, relevant and proportionate protections and is suitable for the criticality and value of the product or service. Keeping up to date pipelines, as per Chapter 1, will avoid the time pressures that can lead to inappropriate framework selection.
+614: In addition, where possible and appropriate, dynamic purchasing systems should be used so that other suppliers can be added during the life of the arrangement, in order to maintain an open and competitive market (subject to them meeting the same objective criteria as existing suppliers).
+615: Guidance on how the playbook policies apply to framework providers and contracting authorities can be found here. This guidance details where there is responsibility for ensuring compliance with Playbook policies when a framework is being used to provide public services
+616: Procurement Reform
+617: Dynamic Purchasing Systems will be replaced by Dynamic Markets in the new regime. Their use will be expanded beyond common goods and services. The operation of frameworks will also be different, with changes to notices, duration and the ability to bring new suppliers onto the framework during its term.
+618: Keeping bid costs down
+619: The cost of bidding for public sector contracts is frequently cited as a reason for not bidding and as a barrier to entry for SMEs and VCSEs. Procurement processes should be of proportionate duration and effort to the size and complexity of the contract opportunity. By making our procurement processes unnecessarily complicated or protracted, we risk minimising the pool of bidders and stifling competition.
+620: Procurement Reform
+621: The Procurement Bill intends to introduce new measures to make it easier for SMEs to bid for public sector contracts. In addition to a duty placed upon contracting authorities to consider whether there are any such barriers in place, contracting authorities will not be able to request the submission of audited annual accounts as part of a selection/ award process, except from suppliers who are required to have their accounts audited by the Companies Act. In addition, suppliers will not be expected to have contract‑ specific insurance policies in place before the award of a contract. This reduces nugatory costs that may prohibit smaller suppliers from bidding.
+622: Key points
+623: All complex outsourcing projects should consider the need for dialogue and negotiation to achieve the desired outcomes.
+624: Common goods and services should be purchased through a government framework.
+625: Bespoke services should be subject to a full procurement process that allows for appropriate dialogue with the market.
+626: Procurement processes should be of proportionate duration and effort to the size and complexity of the contract opportunity so as not to create a barrier to entry for SMEs and VCSEs.
+627: Want to know more?
+628: Availability of Procurement Procedures (Decision Tree) PPN 12/15.
+629: The Public Contracts Regulations 2015, Regulation 26: Choice of procedures.
+630: 7. Model Services Contract
+631: The latest Model Services Contract (MSC) is a great starting point for a wide range of public sector services, and provides contractual clauses to support the policies set out in the Playbook.
+632: The latest MSC is a great starting point for a wide range of government services, and provides contractual clauses to support the policies set out in the Playbook.
+633: The MSC is published by the Cabinet Office and the Government Legal Department (GLD), and comprises a set of model terms and conditions for major services contracts. It is intended for use by commercial specialists and lawyers and aims to aid assurance and reduce administration, legal costs and negotiation time.
+634: Where the MSC is not appropriate in its entirety, departments should still consider including in their contracts the provisions in the MSC that support the policies set out in this Playbook. These include:
+635: corporate resolution planning schedules
+636: appropriate allocation of risk
+637: allowable assumptions schedules
+638: publication of Key Performance Indicators
+639: Using the Model Services Contract
+640: The whole of the MSC should be reviewed to ensure it meets the needs of the project.
+641: Some of the schedules require detailed input to make sure they reflect the specific services being procured. For example, the Services Description (Schedule 2.1), the Standards (Schedule 2.3) and Testing (Schedule 6.2).
+642: There are other areas that are already populated, but these may also benefit from tailoring to suit any unique requirements of the project.
+643: In particular, users of the MSC should think about how to make the following areas to reflect their priorities, and the capability and appetite of the market:
+644: performance management: number and type of performance indicators, service credits and service points
+645: insurance levels and parent company guarantees
+646: charges and invoicing: use of milestones, appropriate indexation
+647: pricing mechanism
+648: benchmarking
+649: financial distress
+650: governance and contract management structure
+651: Seek assistance from the GLD or your in‑house legal team when changing contract terms, and make sure that any risks are assessed and recorded.
+652: You should also consider what level of review and approval is required within your department for any changes made to the MSC, and that the government’s wider procurement policies are delivered through the contract.
+653: Formal and informal engagement with potential suppliers will also help determine whether standardised terms are appropriate for the industry. This will help structure the contract to balance risk between parties fairly and appropriately. Sensible, flexible and appropriate use of the MSC will help to demonstrate where priorities lie and encourage suppliers to deliver them.
+654: Key points
+655: The Model Services Contract (MSC) is a convenient and flexible starting point for a wide range of government services.
+656: Some areas of the MSC require tailoring to reflect priorities and the capability and appetite of particular markets – this should be completed with the aid of legal advice and support.
+657: Users should seek assistance from Government Legal Department when changing contract terms.
+658: Want to know more?
+659: Model Services Contract.
+660: 8. Formal engagement with the market
+661: Suppliers have a choice whether to work with us or not. Genuine and meaningful formal market engagement helps to ensure that more suppliers want to work with government and the public sector more widely.
+662: Setting the tone
+663: All outsourcing projects should be run in accordance with the Supplier Code of Conduct. This recognises the joint nature of public service delivery and sets out how we achieve constructive and collaborative engagement with suppliers. The contract notice and tender documentation should carry a statement to indicate that the procurement will be run in the spirit of the Supplier Code of Conduct. This also helps to ensure that government is seen as an attractive client to do business with.
+664: Procurement timelines
+665: Suppliers need sufficient time to develop and price solutions, raise clarifications and respond with high‑quality responses to tender documentation. Experience tells us that inadequate timescales can result in rushed solutions, which may miss opportunities to innovate or deliver better solutions.
+666: Additionally, changes to procurement timelines should be avoided as far as possible once the procurement is in flight. Changes to timelines can incur great costs for suppliers and damage the credibility and reputation of the buyer, and provide a disincentive to bid. Moreover as delays add costs to suppliers, this raises prices unnecessarily across the board.
+667: In cases where delays are unavoidable, this should be communicated promptly to the market.
+668: Early engagement with the market will help to inform what time is appropriate for a specific procurement and this should be set out in the procurement and project timelines.
+669: Risk allocation
+670: Ensuring that risks sit with the party best able to manage them is central to the government’s approach to delivering value for money and partnering with the private sector.
+671: Inappropriate allocation of risk remains one of the main concerns of suppliers looking to do business with the public sector. It is also one of the most frequent issues raised by the NAO in their audits of government contracts. It will therefore be a key area of discussion with prospective suppliers. Proposals for risk allocation shall be subject to extensive scrutiny prior to going to market. Formal engagement should include the sharing of risk registers with prospective suppliers. Formal engagement should include the sharing of the risk allocation matrix which sets out which risk sits with the supplier or the contracting authority.
+672: A good approach is to apply appropriate focus during commercial strategy development to agree the balance of risk between the supplier and the contracting authority. This should then be iterated through dialogue with potential bidders, and then managed proactively during the life of the contract.
+673: Contracting authorities should also use market engagement to understand prospective suppliers’ views of proposed KPIs, address any concerns around KPI validity and price sensitivity through clarification, and recalibrate as required.
+674: Ultimately, we aim to get three things right:
+675: Identification, by studying the nature of the market, risk registers and lessons learned documents from related projects.
+676: Quantification, by assessing how likely, for example, based on past experience, an event is to occur and what the impact might be.
+677: Allocation, by compiling a risk allocation matrix that considers who is best placed to manage the risk (i.e. whether it is a supplier, contracting authority or joint risk).
+678: Getting risk allocation right in our contracts will lead to:
+679: Optimal pricing from the bidders.
+680: Suppliers being paid a fairer profit margin in return for the risk they are accepting and the commitments and investments they make in order to deliver better public services.
+681: Fewer performance and commercial issues during the life of the contract.
+682: Reduced likelihood that the contract fails completely, and the supplier prematurely exits the contract or becomes insolvent.
+683: The government’s approach to managing risk is set out more fully in the Green and Orange Books, and the additional risk allocation guidance note.
+684: When outsourcing, departments are expected to:
+685: Not ask suppliers to take unlimited liabilities, other than the small number of incidences where this would not be lawful or where a commercial cross‑government policy has been agreed. For example, there is an agreed policy that a supplier’s liability should be unlimited for a breach of a third party’s intellectual property rights, but the agreed policy for costs relating to civil claims for data protection law breaches is that a supplier’s liability should be subject to a cap. In capping liabilities, a contingent liability may be created. Contracting authorities should refer to HMT’s Contingent Liability Approval Framework for guidance on the approval process for contingent liabilities.
+686: Where not addressed through the payment mechanism, ensure that applicable contracts include appropriate indexation (i.e. using an index or basket of indices or measures that reflect the underlying costs of delivering the service) where the supplier is managing estimating and pricing risks outside their control. Contracts that do not require a mechanism to deal with inflation include contracts with lower price volatility, or where the supplier is best placed to manage the risk, such as shorter term contracts. In other contracts, the absence of a mechanism to manage inflation will essentially transfer the risk to the supplier, which can make the opportunity unattractive to the market.
+687: Additionally, transferring the risk of inflation can create inflated bid costs as suppliers look to protect their profitability in the presence of inflation, unsustainable bids or the need to review service charges during the contract term. This cost increase may escalate to the point where the contract becomes financially unviable or the service quality is impacted.
+688: Share and mutually agree appropriate risk registers with bidders.
+689: Share all data (that is appropriate to do so) relating to the procurement.
+690: Not hold incoming suppliers responsible for errors in data (excluding forecasts) where they are unable to complete due diligence. Where data turns out to be incorrect, subject to procurement law, there should be a contractual mechanism for reflecting this adjusting for errors. Any renegotiation should take place no more than a year after service commencement.
+691: Procurement Reform
+692: A new ‘safe harbour’ for contract amendments will allow contracting authorities to amend contracts for risks that have materialised that were identified up front in tender documents but that could not be managed through e.g. drafting contract options. This will facilitate more appropriate risk allocation and therefore improve value for money.
+693: Fair return
+694: Short‑term thinking can reduce the value for money that government as a whole is able to derive from markets. There are many examples where we have mandated unreasonable payment mechanisms, applied unreasonable terms and conditions and/or sought unsustainable cost reductions. This can create a bias towards low quality and can increase the probability of contract failures. In addition, suppliers may exit the market to the point where competition is severely weakened.
+695: While it is important to guard against firms making excessive profits, the fundamental principle is that contracts need to be profitable and expectations need to be reasonable for suppliers to remain interested.
+696: Payment mechanisms
+697: The pricing approach and the approach to risk transfer go hand‑in‑hand. If your organisation wishes to control how the services are delivered, it should adopt an input‑based pricing model and transfer no or minimal risk to the suppliers. This normally means procuring resources on a ‘cost plus’ or ‘time and materials’ basis. The pricing and supplier margins should only reflect the input costs and scarcity of those inputs, i.e. there is no ‘risk premium’.
+698: If your organisation considers that the supply market is best placed to determine the solution, it should specify the required solution or services outputs – i.e. what to deliver. It is the supplier’s responsibility to find the optimum way to deliver those outputs.
+699: In this scenario the contracting authority should also ensure that the supplier takes any risks associated with delivering this output.
+700: It is accepted that margins will be higher for contracts where suppliers take on the risk of delivery. In theory, this is more than offset by greater expertise in delivery and greater efficiencies.
+701: Contracting authorities should avoid fixed price payment mechanisms where the scope of the contract is not fixed (and relevant volume risks are outside the control of the supplier).
+702: Onerous contracts
+703: A possible consequence of getting risk allocation and payment mechanisms wrong is that contracts can become onerous (loss making) for a supplier.
+704: When a contract is publicly designated by a supplier as onerous, this should prompt a root cause analysis and a conversation with the supplier about the options available to address this.
+705: Other barriers to entry and competition
+706: Market engagement can also be used to understand other barriers that may be stopping suppliers from entering a market or competing on a level playing field.
+707: These barriers may include overly restrictive participation criteria, overly aggregated contracts, use of disproportionate liability clauses, or lack of access to certain information that is only held by incumbent suppliers.
+708: Once these barriers are understood, an assessment can be made as to whether they can be reduced without compromising other objectives.
+709: Further guidance is available in the market management guidance note. Advice can also be sought from the Competition and Market Authority (CMA) in relation to more complex or substantial competition issues. Concerns about any suspected cartel activity should be reported to the CMA cartels hotline on 02037386888 or by email: cartelshotline@cma.gov.uk
+710: Key points
+711: Set a collaborative tone and provide clear escalation routes for suppliers.
+712: Conduct meaningful formal engagement with the market to help ensure that suppliers want to work with us.
+713: Risk should be allocated to those best placed to manage them.
+714: The pricing and payment mechanism should go hand‑in‑hand with the approach to risk transfer and will be subject to greater scrutiny.
+715: Where your organisation wishes to control how the services are delivered, it should adopt an input‑based model and transfer no or minimal risk to the suppliers.
+716: Where it is left to the supplier to determine the optimum way to deliver, the associated risks should also be with the supplier.
+717: Avoid fixed price payment mechanisms where the scope of work is not fixed.
+718: When a contract is publicly designated as onerous, this should automatically prompt a root cause analysis and conversation with the supplier.
+719: Want to know more?
+720: Supplier Code of Conduct.
+721: The Green Book: appraisal and evaluation in central government.
+722: Orange Book: Management of risk – Principles and concepts.
+723: Risk allocation and pricing approaches guidance note.
+724: Market management guidance note.
+725: NAO Commercial and contract management: insights and emerging best practice (PDF, 8.7 MB).
+726: Lean sourcing: guidance for public sector buyers.
+727: Advice from the CMA can be sought by email: advocacy@cma.gov.uk. See also: Bid-rigging: guidance for public sector procurers on GOV.UK.
+728: 9. Due diligence during selection
+729: We have a responsibility to assure ourselves of the solvency and competency of suppliers that bid for our contracts.
+730: In return, we shall prepare accurate specifications for suppliers to bid against and offer a fair deal.
+731: The selection process
+732: The selection process is used to determine whether bidders are able to comply with exclusion grounds and demonstrate suitability to carry out the contract.
+733: The Standard Selection Questionnaire (SQ) shall always be used, and some standard information may be obtainable through the Supplier Registration Service.
+734: Part 2 of the SQ comprises a self‑declaration regarding whether or not any of the exclusion grounds set out in PCR 2015 apply (further detail on mandatory and discretionary grounds for exclusion under PCR Regulation 57).
+735: Part 3 of the SQ comprises a set of standard questions relating to suitability to pursue a professional activity; economic and financial standing; and technical and professional ability (further detail on selection criteria under PCR Regulation 58).
+736: Procurement Reform
+737: The new regime will no longer use selection questionnaires as suppliers will submit all of their information on the central system.
+738: Contracting authorities will set conditions of participation which will filter out those suppliers who do not meet the conditions.
+739: This is likely to include exclusion criteria and economic and financial standing testing.
+740: This process can be supplemented with additional conditions which test the supplier’s legal and financial capacity as well as their technical ability to undertake the procurement.
+741: Economic and financial standing
+742: It is particularly important that we get our assessments of economic and financial standing right. The key principle is to safeguard the delivery of public services, while being proportionate, fair and not overly risk averse. The assessment of a bidder’s EFS should be conducted by staff with a financial background, calling on specialist in‑house or external expertise as necessary. Guidance on how to do this is included in assessing and monitoring the economic and financial standards of suppliers guidance note.
+743: The key principles of appropriate financial testing are:
+744: objective is to determine bidders’ financial capacity to perform the contract
+745: mitigations should be considered.
+746: forms part of the overall judgement of suitability during selection
+747: assessments shall be proportionate to the size and nature of the contract, flexible and not overly risk averse
+748: all bidders, whatever their size or constitution, should be treated fairly and not inadvertently disadvantaged by the tests employed
+749: the Contract Tiering Tool should be used to determine criticality of the contract and the stringency to which bidders are tested
+750: Procurement Reform
+751: The introduction of a single supplier platform in which suppliers will input standard financial and descriptive information that will be stored on the system and pulled through into multiple procurements will make it easier for contracting authorities to undertake economic and financial standing assessments and for this information to be validated if required before contract award. There are also changes proposed to the rules on excluding suppliers (both mandatory and discretionary) which may change what needs to be taken into account from a qualitative perspective at this point in the procurement process.
+752: Technical and professional ability
+753: The skills, efficiency, experience and reliability of suppliers should also be taken into account when selecting bidders. The standard set of questions in this section of the SQ can be augmented to include criteria for human and technical resources and experience. These requirements shall focus on the bidder itself and its past experience.
+754: Key points
+755: The selection process is used to determine whether bidders are able to comply with exclusion grounds and demonstrate suitability to carry out the contract.
+756: The selection stage is an assessment of the suppliers themselves, as opposed to the Evaluation and Award stage, which is an assessment of their bids.
+757: The key principle of assessing the economic and financial standing of bidders is to safeguard the delivery of public services.
+758: Observe the principles of public procurement: equal treatment, non‑discrimination, proportionality and transparency.
+759: Want to know more?
+760: Standard Selection Questionnaire (SQ) PPN 8/16.
+761: Supplier Registration Service for Government.
+762: The Public Contracts Regulations 2015, Regulation 57: Exclusion Grounds.
+763: The Public Contracts Regulations 2015, Regulation 58: Selection Criteria.
+764: Assessing and monitoring the economic and financial standards of suppliers guidance note.
+765: Public procurement – Guidance for practitioners (2018).
+766: 10. Evaluating bids and contract award
+767: Encouraging the market to compete on price alone can create false economies and unhealthy markets and should be avoided.
+768: Encouraging the market to compete on price alone can create false economies and unhealthy markets and should be avoided.
+769: The purpose of the evaluation is to determine the most economically advantageous tender based on the published award criteria. It is not to identify the cheapest bid. Section 4.2.2 of the government commercial functional standard sets the expectation of commercial practitioners within departments and other public sector organisations.
+770: Contracting authorities should conduct robust evaluation processes that comply with the public procurement rules and best practice.
+771: Evidence suggests that, although complex outsourcing projects can be inherently difficult to cost, on occasions there has been a bias towards low cost bids rather than the best value for money in terms of cost and quality. One of the reasons for this could be the use of relative evaluation models where the bidders’ scores for pricing are ‘pinned’ against the lowest price bid. This type of scoring can have many unintended consequences and should not be used unless there is a specific business reason. More information can be found in Section 7 of the Bid Evaluation Guidance Note.
+772: Contracting authorities should use bid evaluation to satisfy themselves that bidders’ have understood, and adequately priced in, the cost of meeting project KPI targets. They should also look to add in suitable flexibility in the bid process to allow KPIs to be adjusted, if it becomes clear that related cost implications will be too high. Any attempt to allow for KPI adjustment in the bidding process shall be agreed with GLD before tender release and the procurement documentation will need to describe what is intended.
+773: Procurement Reform
+774: The Bill set out that contracting authorities should assess bids to determine the Most Advantageous Tender (MAT). In practice, there is no change from the current regime, but the removal of the word ‘economic’ emphasises that contracting authorities should be seeking value and not the lowest price. This is particularly relevant where relative scoring mechanism have been used (see above).
+775: Low cost bid referrals
+776: Where services are complex, there is a risk of low cost bias, even if evaluation criteria are designed to balance quality and cost.
+777: Departments shall refer any abnormally low bid that is more than 10% lower than either the average of all bids or the Should Cost Model Estimate to the Commercial Strategy, Assurance and Standards Team in Cabinet Office. The team will do a review at their discretion to assess if there are concerns that could render the bid as abnormally low in accordance with the PCR regulations and if so a detailed review of the bid will be undertaken.
+778: This is to be done in accordance with Regulation 69 of the Public Contracts Regulations 2015.
+779: Cost vs quality
+780: It is government policy to award contracts on the basis of value for money. See Annex 4.6 of HM Treasury’s Managing Public Money and the Green Book. Value for money is defined as securing the best mix of quality and effectiveness for the least outlay over the period of use of the goods/ services bought. It is not about minimising up‑front costs.
+781: When considering ‘outlay’, the key factor is whole life cost, not lowest purchase price. Whole life cost takes into account the total cost over the life of a contract, including capital, maintenance, management, operating and disposal costs, and can be very different from initial price. Paying more for higher quality may be justified if the whole life cost is advantageous. Contracting authorities should determine whether increased benefits justify higher costs.
+782: While cost will always be an important evaluation criterion, the expectation is that the expectation is that it will be secondary to quality in a complex outsourcing, recognising the importance of delivering quality public services.
+783: Evaluating social value
+784: Taking account of social value in the award of contracts when it is done well can achieve significant benefits for our communities.
+785: This could include helping to tackle regional inequality with new jobs and skills, including in clean growth sectors; helping disadvantaged communities and enabling users to co‑design services; enabling SMEs, VCSEs and start‑ ups to lead or be part of public sector supply chains; supporting physical and mental health of the staff delivering public services; and ensuring those in disadvantaged groups have equal opportunity to become part of a diverse, resilient workforce.
+786: Social value outcomes should be applied consistently to make it easier to clearly and systematically understand and evaluate the social value in the award of a contract.
+787: Central government, executive agencies and non‑departmental bodies shall use the Social Value Model to achieve this. Under the model, a minimum overall weighting for social value of 10% of the overall score shall be adopted whenever any of the social value policy outcomes are included in a procurement.
+788: Detailed guidance on how to evaluate social value can be found on GOV.UK.
+789: Key points
+790: Value for money is defined as securing the best mix of quality and effectiveness for the least outlay over the period of use.
+791: Evaluate tenders based on price and quality, including social value impacts.
+792: Relative price scoring should be treated with caution and not be used unless there is a specific business reason which has been approved by the Commercial Lead and the project SRO.
+793: For complex outsourcing, any winning bids that are 10% lower than either the average cost of all the bids or the Should Cost Model Estimate are referred to central scrutiny.
+794: Want to know more?
+795: GovS008 Commercial Functional Standard.
+796: The Green Book: appraisal and evaluation in central government.
+797: The Public Contracts Regulations 2015, Regulation 67: Contract award criteria.
+798: Procurement Policy Note 06/20 – taking account of social value in the award of central government contracts (PDF, 53.5 KB).
+799: Evaluating bids guidance note.
+800: 11. Resolution planning and ongoing financial monitoring
+801: Although major insolvencies are infrequent, we need to be prepared for the risk to continuity of critical public services posed by the insolvency of critical suppliers.
+802: Resolution planning
+803: If a supplier becomes insolvent, services may be affected. Where these are critical public services, any interruption is likely to be unacceptable or create significant risk.
+804: Resolution planning can help to mitigate the impacts of insolvency and support the continued delivery of critical services contracts.
+805: The best time to put this in place is when contracts become effective, with regular updates thereafter.
+806: All new critical service contracts require resolution planning information from suppliers. This requirement applies throughout the life of the contract. This will allow us to:
+807: understand better the potential impact of a supplier’s failure and key risks to continued service provision
+808: work with suppliers (and/or insolvency practitioners) to develop mitigations to limit the risk to critical public services
+809: We should include supplier insolvency as a risk when reviewing suppliers’ business continuity and disaster recovery (BCDR) and exit plans for critical service contracts.
+810: Our own contingency plans for these contracts also need to be in place and subject to regular refresh. A template is referenced below.
+811: Guidance on resolution planning is available in the supplementary resolution planning guidance note.
+812: Public sector dependent suppliers
+813: We also work jointly across government to manage risks to the delivery of public services posed by public sector dependent suppliers. The Cabinet Office Markets and Suppliers team should be consulted whenever departments are planning to terminate a service contract worth £5 million pa or above with a public sector dependent supplier.
+814: Standard clauses are available in the updated Model Services Contact (MSC) for inclusion in future service contracts. These require suppliers to confirm annually whether they are public sector dependent suppliers.
+815: Ongoing financial monitoring
+816: Although the financial standing of suppliers is assessed during procurement, it can deteriorate subsequently either suddenly or over time. Early recognition of the risk of supplier financial failure gives us more time to prepare for that failure, should it occur, and mitigate the risk to continuity of critical public services.
+817: We shall therefore monitor the financial standing of our key suppliers on an ongoing basis.
+818: Monitoring should normally be performed in the first instance by a function or team that is independent of the day‑to‑day contract management role. Its frequency should reflect the frequency of the supplier’s own financial reporting regime and the perceived risk of failure. Ongoing ‘alert’ systems should be established to monitor company announcements and other information sources.
+819: The outcome of financial monitoring should be discussed with contract managers and, where appropriate, reassurance sought from the supplier. Where monitoring and follow‑up suggest a raised level of concern, contract managers should ensure their contingency plans are up to date and consider what further action or monitoring is required.
+820: Guidance on ongoing financial monitoring is available in assessing and monitoring the economic and financial standing of suppliers.
+821: Guidance on ongoing financial monitoring is available in Assessing and Monitoring the Economic and Financial Standing of Suppliers Guidance Note.
+822: Compliance confirmation
+823: In future, the financial thresholds we require suppliers to meet during the lifetime of new critical contracts will include some of the financial tests conducted on procurement. We will also require the boards of suppliers of new critical contracts to confirm annually that they continue to meet these thresholds.
+824: Financial distress
+825: Guidance on supplier financial distress is available in Corporate Financial Distress guidance note. The guidance sets out common signs of potential distress, how financial distress can lead to insolvency, the different forms of insolvency, the steps that you should take and the additional support available.
+826: Consequences of supplier insolvency
+827: A supplier’s insolvency can adversely affect the profitability and cash characteristics of its contracts. An administrator or liquidator may choose not to continue with a contract that is or becomes loss‑making or cash‑negative or carries significant risk. In such circumstances, we will need to consider how best to maintain service continuity.
+828: We may also experience re‑procurement or other costs on switching suppliers and the cost of the new service may change.
+829: Key points
+830: Resolution planning helps ensure continuity of critical public services and their orderly transfer to a new supplier or in‑house, in the event of supplier insolvency.
+831: When reviewing suppliers’ BCDR plans for critical contracts, include supplier insolvency as a risk. Make sure exit plans and exit information cover emergency exit arising from supplier insolvency.
+832: Contracting authorities should put in place their own contingency plans for all critical services contracts, putting these in place at the earliest stage possible and keeping them regularly refreshed. Guidance on how to do this is included in the resolution planning guidance note (PDF, 832 KB).
+833: Ongoing financial monitoring enables early identification of possible problems and the opportunity to test contingency plans before they are needed.
+834: Want to know more?
+835: Resolution planning guidance note.
+836: Contingency plan template.
+837: Contract Tiering Tool.
+838: Model Services Contract.
+839: Assessing and Monitoring the Economic and Financial Standing of Suppliers Guidance Note.
+840: Corporate Financial Distress Guidance Note.
+841: 12. Building and maintaining successful relationships
+842: We need to consider how we will work with suppliers and manage our contracts to achieve contractual outcomes.
+843: Mobilisation
+844: Immediately following contract award and prior to the contract start date, mobilisation is a key phase in setting up an outsourcing project for success.
+845: Adequate time should be set aside for mobilisation activities in the planning of a procurement to make sure that the right contract management processes and relationship can be developed prior to contract going live.
+846: Contracting authorities should consider how performance and a service may benefit from a phased introduction rather than a day one step change. If a phased introduction is required, this should be made clear in the procurement documents.
+847: Effective contract management
+848: All outsourced services should be built on a robust contractual relationship overseen by an appropriately qualified contract manager with a clear operational understanding of the contract.
+849: How a contract will be managed is a key strategic decision that needs adequate consideration early in the procurement process and shall be reflected in the contractual agreement. Good contract management will involve a wide range of activities, including:
+850: understanding the practicalities of how the service is delivered
+851: oversight, approvals and / or governance across the contract lifecycle
+852: specification, preparing the business case and policy development
+853: day‑to‑day management including robust administration
+854: conducting risk assessments
+855: effectively managing disputes and resolutions using appropriate contractual and non‑contractual levers
+856: reviewing and managing performance
+857: strategic relationship and / or supply chain management
+858: Government’s most important contracts should be managed by an expert or practitioner accredited contract manager as set out in contract management professional standards framework.
+859: Working together
+860: As outlined in the Supplier Code of Conduct, acting together with suppliers drives mutual understanding, improves service delivery and helps to solve problems more effectively.
+861: The nature of the relationship between a contracting authority and supplier should be tailored to the individual service and can vary depending on the specification, outcomes and complexity of the service being delivered. It is important to engage early with the market to understand what type of relationship, from transactional to partnership model, may be most appropriate for your service.
+862: A good approach is to consider the following questions:
+863: What type of relationship have you had previously with suppliers for similar services? Did it drive the intended outcomes?
+864: Have you engaged with the market and senior internal stakeholders to understand what type of relationship may be most appropriate for your service?
+865: Does your evaluation strategy align with the intended supplier relationship?
+866: Do your contract terms, including risk allocation, liabilities, payment and incentive structure, and SMART KPIs align with the relationship you want to achieve? Is there flexibility within the contract to enable the type of relationship to change if required?
+867: For complex projects, experience has demonstrated that a partnership model with the principles of collaboration, openness, transparency and flexibility based on contractual delivery can be beneficial in driving successful outcomes.
+868: Critical success factors of a partnership model include a focus on service delivery by both partners, clear roles and responsibilities, a shared understanding of how to effectively resolve disputes, and a collaborative culture. This could include:
+869: the co‑location of employees
+870: developing joint‑partnership principles and adopting a one‑team ‘win‑together, fail‑together’ approach
+871: having a service delivery manager working alongside the contract manager
+872: Contractual flexibility should also enable periodic review and update to relevant contract provisions and KPI targets. KPI adjustments shall only be undertaken with GLD advice.
+873: Strategic supplier relationship management
+874: Where a department has several important contracts with a single supplier, they should adopt a strategic supplier relationship management approach. This can be defined as the practices and behaviours adopted to engage more collaboratively with strategic suppliers to improve delivery of government objectives and increase mutual value beyond that originally contracted.
+875: In addition to a contracting authority’s own management of its suppliers, the Markets, Sourcing and Suppliers team in the Cabinet Office is responsible for maintaining the government’s strategic suppliers, spanning a number of departments, to improve supplier relationships and create value. The Markets, Sourcing and Suppliers team also regularly engages across the wider public sector, such as with local authorities and the NHS.
+876: If you have contracts with government strategic suppliers, you should engage with the Markets, Sourcing and Suppliers team regularly to ensure that you are aligned with government’s overall objectives.
+877: Key points
+878: Effective contract management is essential to drive value for money and deliver successful contractual outcomes.
+879: Government’s most important contracts should be managed by an expert or practitioner accredited contract manager as set out in contract management professional standards framework.
+880: Engage with the market and senior stakeholders to consider what type of relationship is most appropriate for your service and use this to inform your choice of procurement procedure and contractual model.
+881: A strategic supplier relationship management approach can improve the delivery of government objectives and increase mutual value beyond that originally contracted.
+882: Want to know more?
+883: Contract management standards.
+884: Access to the Foundation level Contract Management Training and Accreditation is available for public sector contracting authorities at www.mycmlearning.co.uk/authentication/registration.
+885: Strategic supplier relationship management guide tools.
+886: Information on Crown Representatives and the government’s strategic suppliers programme can be found on GOV.UK and accessed by emailing markets-sourcing- suppliers@cabinetoffice.gov.uk.
+887: 13. Expiry, extension, transition and termination
+888: Early planning puts us in a position to conduct orderly transitions to new contract arrangements, whether extending, re‑tendering or bringing delivery back in‑house.
+889: Early planning for contract end
+890: The first chapter set the expectation that all outsourcing projects should assess the market during the preparation and planning phase. This guiding principle equally applies when we are approaching the end of an existing contract. The market may have changed sufficiently to alter the basis of previous decisions and the market health and capability assessment should therefore be updated.
+891: We should also have thought about how to ensure, under any circumstances, a smooth transition to new arrangements. The contract should have been written to include clear expectations for exit and transition arrangements, including obligations on the supplier to warrant data and information back to the contracting authority at the end of the contract.
+892: In practice, contracts should include a requirement to develop an exit plan that joins together the exit strategy of the outgoing supplier with the mobilisation of the incoming supplier (or in‑house provision).
+893: Preparing for exit takes time and needs to be allocated sufficient time. The exit plan may be separate or included in the contract management plan, and should include:
+894: clear outline of activities, milestones and required resources
+895: roles, responsibilities and accountabilities for each activity
+896: joint risk register
+897: defined timelines, criteria and standards that each activity is required to meet
+898: relationship and behavioural expectations
+899: key interfaces and dependencies
+900: TUPE information (if applicable)
+901: asset registers and transfers
+902: And where a contract runs its full course, there should be sufficient means within the contract to incentivise the incumbent supplier to maintain both resources and performance up to the end of the contract.
+903: The contracting authority should ensure clear protocols are in place detailing the format and content of contract data, including whole life KPI performance, to inform the baselining process for future procurements. Sufficient time should be allocated to knowledge transfer and lessons learned analysis. Did the KPIs drive the required behaviours and outcomes from the contract? How can they be improved for any successor contract, to improve outcomes?
+904: It is also important to remember, and plan for, the additional burden on operational and commercial/procurement staff of simultaneously managing an existing contract, tendering a replacement contract, on‑boarding a new supplier and off‑boarding an incumbent.
+905: Extensions
+906: Some contracts contain an option to extend. Whether to take up this option or not should be considered well in advance of when notice needs to be served. Effective management of our commercial/procurement pipelines helps to ensure we are prepared for this decision.
+907: See also section 4.3.5 of the government commercial functional standard.
+908: Where we have failed to plan early enough in the past, we have been left in the very weak position of having inadequate time to carry out a re‑procurement.
+909: We shall plan early and set out our requirements for any extension to the contract. Some contracts provide for an extension to be on the same terms and conditions, while others rely on a review clause that, if it is to be relied upon, should set out a clear, precise and unequivocal review process. If we decide not to extend the contract, this decision shall be taken far enough in advance to allow for a re‑procurement.
+910: Key points
+911: Plan early for what happens at the end of a contract.
+912: There should be sufficient means within the contract to incentivise the incumbent supplier to maintain both resources and performance up to the end of the contract.
+913: Suppliers are expected to warrant data and information back to contracting authorities at the end of a contract.
+914: Be prepared for the additional burden on operational and commercial/ procurement staff of simultaneously managing an existing contract, tendering a replacement contract, on‑boarding a new provider and off‑boarding an incumbent.
+915: Allow sufficient time to decide whether or not to extend a contract (where contract provisions allow).
+916: Review benefits realisation on an annual basis.
+917: Want to know more?
+918: GovS008 Commercial Functional Standard (PDF, 929 KB).
+919: Approvals process guidance note.
+920: Market management guidance note.
+921: Delivery model assessment guidance note.
+922: Benefits measurement guidance note.
+923: Back to top
+924: Is this page useful?
+925: Maybe
+926: Yes this page is useful
+927: No this page is not useful
+928: Thank you for your feedback
+929: Report a problem with this page
+930: Help us improve GOV.UK
+931: Do not include personal or financial information like your National Insurance number or credit card details.
+932: This field is for robots only. Please leave blank
+933: What were you doing?
+934: What went wrong?
+935: Send
+936: Cancel
+937: Help us improve GOV.UK
+938: To help us improve GOV.UK, we’d like to know more about your visit today.
+939: Please fill in this survey (opens in a new tab and requires JavaScript).
+940: Cancel
+941: Services and information
+942: Benefits
+943: Births, death, marriages and care
+944: Business and self-employed
+945: Childcare and parenting
+946: Citizenship and living in the UK
+947: Crime, justice and the law
+948: Disabled people
+949: Driving and transport
+950: Education and learning
+951: Employing people
+952: Environment and countryside
+953: Housing and local services
+954: Money and tax
+955: Passports, travel and living abroad
+956: Visas and immigration
+957: Working, jobs and pensions
+958: Government activity
+959: Departments
+960: News
+961: Guidance and regulation
+962: Research and statistics
+963: Policy papers and consultations
+964: Transparency
+965: How government works
+966: Get involved
+967: Support links
+968: Help
+969: Privacy
+970: Cookies
+971: Accessibility statement
+972: Contact
+973: Terms and conditions
+974: Rhestr o Wasanaethau Cymraeg
+975: Government Digital Service
+976: All content is available under the Open Government Licence v3.0, except where otherwise stated
+977: © Crown copyright

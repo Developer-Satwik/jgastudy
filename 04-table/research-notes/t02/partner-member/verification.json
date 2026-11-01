@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_local_candidate_checks_not_independent_review",
+  "checks": [
+    {
+      "name": "T02-PARTNER-01 linked claims resolve",
+      "passed": true
+    },
+    {
+      "name": "T02-PARTNER-01 concept contains no em dash or asterisk",
+      "passed": true
+    },
+    {
+      "name": "T02-PARTNER-01 no price/adoption/actual contact",
+      "passed": true
+    },
+    {
+      "name": "T02-PARTNER-01 core unchanged",
+      "passed": true
+    },
+    {
+      "name": "T02-MEMBER-01 linked claims resolve",
+      "passed": true
+    },
+    {
+      "name": "T02-MEMBER-01 concept contains no em dash or asterisk",
+      "passed": true
+    },
+    {
+      "name": "T02-MEMBER-01 no price/adoption/actual contact",
+      "passed": true
+    },
+    {
+      "name": "T02-MEMBER-01 core unchanged",
+      "passed": true
+    },
+    {
+      "name": "JGA ownership/decisions preserved; no Riseklix veto or rights grant",
+      "passed": true
+    }
+  ],
+  "source_expansion": false,
+  "shared_edits": false,
+  "external_actions": false,
+  "financial_inputs": 0,
+  "core_questions_added": 0,
+  "artifacts": [
+    {
+      "path": "04-table/research-notes/t02/partner-member/PARTNER-AND-MEMBER-DRAFTS.md",
+      "sha256": "1183928040ef56126d50f0ea45c5c76c5d05e5bfcba27417342e7f909659e4bb"
+    },
+    {
+      "path": "04-table/research-notes/t02/partner-member/partner-member-candidates.json",
+      "sha256": "0a462abc8ef11f17cb9edd368731be439ea8a59575cce8fa85546383d33176a3"
+    }
+  ],
+  "root_wording_refinements": [
+    "Recognition not automatic authorisation; contextual identification remains possible.",
+    "Exact member concept marks follow-through as optional to match integrated reviewed pack."
+  ]
+}

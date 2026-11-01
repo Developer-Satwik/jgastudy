@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R6R-S01",
+      "title": "Retiring your service",
+      "publisher": "Government Digital Service / Agile delivery community",
+      "url": "https://www.gov.uk/service-manual/agile-delivery/retiring-your-service",
+      "source_type": "official_service_retirement_guidance",
+      "accessed_on": "2026-10-29",
+      "published_date": "2016-08-04",
+      "updated_date": "2025-08-26",
+      "date_note": "The displayed 26 August 2025 update changes a contact email; it does not establish a substantive 2025 revision of retirement guidance.",
+      "population": "Government service retirement; transferable user-transition questions, not employer payroll observations",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Official guidance; no supplier success marketing",
+      "review_status": "relevant_original_html_sections_inspected",
+      "reuse_status": "Private verification; final source wording, rights and version review pending",
+      "capture_path": "03-report/research-notes/r06-second-check/root/captures/R6R-S01.html",
+      "capture_sha256": "85957d9299931d1ab78b7375d920ab47c27fc06b3605e9626e50fef632ae111c",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06-second-check/root/captures/R6R-S01.txt",
+      "text_sha256": "af6cd18b52024c9564add4bb9aceac373e8d0ec2e87abcc7dc5bc2d5348fdaee",
+      "locator": "Consider user needs; Telling your users including API/assisted channels; Protecting information",
+      "limitations": "Public-service guidance, not a mandatory private-employer retirement process or an actual payroll outcome. No government redirect, contact or SSL-duration rules transferred; no presumed legal retention period or interpretation of staff rights."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0199",
+      "url": "https://schools.westsussex.gov.uk/Article/194014",
+      "locator": "Viewing payslips from October2026; historic payslips unavailable in Oracle; access/navigation guides and technical/support query routes",
+      "review_result": "Re-read retained dated employer communication: new self-service availability coexists with absent historic payslips and support routes. This does not establish that every worker retained copies, accessed the portal or had an alternative archive available.",
+      "capture_path": "03-report/research-notes/r06/stalls/captures/STL6-S02.html",
+      "capture_sha256": "1c5ec4d12670308871a2760feebc823f07ff71f08de08734ae36fab4e230a1f5",
+      "text_path": "03-report/research-notes/r06/stalls/captures/STL6-S02.txt",
+      "text_sha256": "17d2d14e568d3d0722d4cadc8454d5d99eef18376b452b4bb31cba88c06e099e"
+    }
+  ]
+}

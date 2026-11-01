@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Challenge fixed-hours and relevant-cost inference, not repeat cash/capacity distinction",
+  "queries": [
+    "site.accaglobal.com relevant costs labour spare capacity opportunity cost decision making",
+    "site.gov.uk business case benefits disbenefits who bears costs distribution review reappraisal"
+  ],
+  "inspected": [
+    "ACCA relevant costs concepts1\u20135 and Example2",
+    "GreenBook2026 proportionality and appraisal context, reused current R05 capture"
+  ],
+  "selected_new_routes": 1,
+  "exclusions": [
+    "No illustrative amounts/formula transferred",
+    "No grant-specific process imported",
+    "No university/aggregator copies used"
+  ],
+  "external_actions": []
+}

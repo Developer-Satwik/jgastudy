@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "M8S-C01",
+      "canonical_source_ids": [
+        "SRC-0131",
+        "SRC-0132"
+      ],
+      "claim_text": "Cintra documentation distinguishes payroll submission/report approval/payment authorisation according to the declared processing/payment route, and describes a payroll cycle that recurs by period rather than a one-off investment approval.",
+      "evidence_class": "supplier_declared_recurring_operating_action_boundary",
+      "locator": "In-house: SaaS/Source Authorise payments; Cycle: four-scenario table, FAQs submit/approve/authorise and roll-forward",
+      "limitations": "Use only the common distinction between action objects and period context. Status-visibility/payment-stage descriptions still differ, so no exact UI rule, automatic progression, successful run, actual payment or account readiness is asserted. Supplier documentation is not observed employer implementation or the investment-decision disposition.",
+      "source_candidate_ids": [],
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance or supplier operational declaration; explicit analyst application. Not original JGA practitioners or a representative market population.",
+      "time_period": "Dated source versions inspected29October2026; no employer time series.",
+      "review_mode": "Fresh original HTML sections inspected with parsed text retained separately. No UI trial, account access, private contract, payment execution or independent compliance assurance."
+    },
+    {
+      "candidate_id": "M8S-C02",
+      "canonical_source_ids": [
+        "SRC-0078"
+      ],
+      "claim_text": "HMRC guidance describes different levels of purchased payroll support while retaining employer record/input and PAYE responsibilities; paying a provider does not by itself establish that every task or accountability has moved to that provider.",
+      "evidence_class": "official_guidance_on_delegation_and_retained_work",
+      "locator": "Choose how to run payroll: Paying a payroll provider",
+      "limitations": "Source-scoped official PAYE guidance, not a full legal audit, individual liability/enforceability advice, executed service contract, current compliance finding or evidence of how any specific employer allocates or performs work. No mandate for a provider or hire.",
+      "source_candidate_ids": [],
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance or supplier operational declaration; explicit analyst application. Not original JGA practitioners or a representative market population.",
+      "time_period": "Dated source versions inspected29October2026; no employer time series.",
+      "review_mode": "Fresh original HTML sections inspected with parsed text retained separately. No UI trial, account access, private contract, payment execution or independent compliance assurance."
+    },
+    {
+      "candidate_id": "M8S-C03",
+      "canonical_source_ids": [
+        "SRC-0131",
+        "SRC-0132"
+      ],
+      "claim_text": "The freshly retained cycle page displays an October2026 update label, while its status-visibility and payment-stage wording still differs from the in-house article. The prior Cintra universal-UI hold remains unresolved rather than being silently replaced with one current universal behaviour.",
+      "evidence_class": "source_version_and_conflict_boundary",
+      "locator": "Cycle metadata/status paragraph/scenario table/payment-stage paragraph versus In-house SaaS calculation/status paragraph",
+      "limitations": "No software was run, customer configuration tested or policy-change chronology established. A later displayed document date does not identify actual account behaviour or reconcile inconsistent descriptions. This preserves CLM-0218; it is not an additional numerical estimate or a product-defect claim.",
+      "status": "context_existing_UI_hold_preserved",
+      "source_candidate_ids": [],
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance or supplier operational declaration; explicit analyst application. Not original JGA practitioners or a representative market population.",
+      "time_period": "Dated source versions inspected29October2026; no employer time series.",
+      "review_mode": "Fresh original HTML sections inspected with parsed text retained separately. No UI trial, account access, private contract, payment execution or independent compliance assurance."
+    },
+    {
+      "candidate_id": "M8S-C04",
+      "canonical_source_ids": [
+        "SRC-0078",
+        "SRC-0131",
+        "SRC-0132"
+      ],
+      "claim_text": "For the R08 canvas, distinguish a change/investment decision from a recurring operating approval, authorisation or accepted handoff. Where material, attach the latter to its actual task/run/period and scope, then keep remaining operation, payment, continuing responsibility and future-period evidence separate.",
+      "evidence_class": "researcher_selective_action_unit_and_continuing_operation_design",
+      "locator": "Explicit analytical application to R08 V03/V04/V05/V06 and existing Q002/Q007/Q009/Q013",
+      "limitations": "Selective interpretation aid, not extra mandatory questions, a prescribed payroll workflow, perpetual monitoring obligation or a required new investment. One report approval or provider handoff does not prove employees were paid, all services worked, next-period readiness or transferred accountability. Unknown and non-disclosure remain usable.",
+      "source_candidate_ids": [],
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific official guidance or supplier operational declaration; explicit analyst application. Not original JGA practitioners or a representative market population.",
+      "time_period": "Dated source versions inspected29October2026; no employer time series.",
+      "review_mode": "Fresh original HTML sections inspected with parsed text retained separately. No UI trial, account access, private contract, payment execution or independent compliance assurance."
+    }
+  ]
+}

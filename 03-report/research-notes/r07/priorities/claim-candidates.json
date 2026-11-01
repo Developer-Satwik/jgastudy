@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "PRI7-C01",
+      "source_ids": [
+        "SRC-0202"
+      ],
+      "claim_text": "Azets B1 presents a response combining strategic priority, active review and investment. That composite status does not separately establish which specific proposal was approved or what funding, resource amount or delivery followed.",
+      "evidence_class": "survey_item_definition_boundary",
+      "locator": "PDF/printed11 B1; methodology32",
+      "limitations": "Pooled commissioned sample; country sample counts do not establish UK item results or item-valid bases. No composite percentage becomes a funded share.",
+      "review_mode": "Original Azets PDF11/12/32 rendered and visually inspected; existing raw retained and hashes checked. No employer funding or budget document.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    },
+    {
+      "candidate_id": "PRI7-C02",
+      "source_ids": [
+        "SRC-0202"
+      ],
+      "claim_text": "Azets E1 asks what factors influence how the organisation currently manages OR invests in payroll. It identifies reported influences on a broad activity, not a ranking of approved investment projects, budget allocation or causal purchase drivers.",
+      "evidence_class": "survey_item_definition_boundary",
+      "locator": "PDF/printed12 E1; methodology32",
+      "limitations": "Do not label all respondents as currently investing or all selected factors as actual deal triggers. No amount, project or funded decision is identified by the item.",
+      "review_mode": "Original Azets PDF11/12/32 rendered and visually inspected; existing raw retained and hashes checked. No employer funding or budget document.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    },
+    {
+      "candidate_id": "PRI7-C03",
+      "source_ids": [
+        "SRC-0033"
+      ],
+      "claim_text": "SD Worx reports exploring, investing, scaled deployment and significant HR-AI outcomes as separate employer-agreement statements. Their marginal percentages cannot reconstruct a respondent-level sequential investment pipeline or quantify conversion/loss between stages.",
+      "evidence_class": "survey_measure_and_unit_boundary",
+      "locator": "PDF33 Table7; methods4/32",
+      "limitations": "The broader workplace/HR AI wording is not a common payroll deployment definition. Respondent links, item-valid bases/weights and independently assessed outcomes not inspected. No numerical difference or causal conversion adopted.",
+      "review_mode": "Original SDWorx full PDF33 rendered and visually inspected; methods4/32 text re-read. Separate marginal statements, no participant linkage.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    },
+    {
+      "candidate_id": "PRI7-C04",
+      "source_ids": [
+        "SRC-0033",
+        "SRC-0034"
+      ],
+      "claim_text": "SD Worx distinguishes urgent HR challenges from a separate payroll-priority list and from publisher recommendations. Those question frames cannot be combined into one funded payroll investment ranking.",
+      "evidence_class": "survey_frame_and_prescription_boundary",
+      "locator": "FullreportPDF32–33 Table6; payrollthematicPDF10–11, method2",
+      "limitations": "Pooled study contexts, not a UK approved-spend ranking. Exact underlying payroll-priority wording/item valid base not shown on inspected list. A narrative/category difference across different frames is not automatically a numeric inconsistency.",
+      "review_mode": "Original SDWorx fullPDF33 and thematic2/11 rendered and visually inspected; full32 and thematic10 text re-read. No underlying questionnaire or microdata inspected.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    },
+    {
+      "candidate_id": "PRI7-C05",
+      "source_ids": [
+        "SRC-0011"
+      ],
+      "claim_text": "Moorepay asks what respondents would most like to see from their payroll provider. Feature-desire responses can inform hypotheses for questions about automation, reporting and self-service, but do not establish a purchase, available budget or need to change provider.",
+      "evidence_class": "survey_preference_not_commitment",
+      "locator": "AnnualsurveyChapter2 finding8; publishedV2-01chart and methodology",
+      "limitations": "Mixed professional/buyer/provider roles, item base/routing unestablished. No feature percentages, change forecast or supplier-caused outcome adopted. Existing numerical quarantines remain.",
+      "review_mode": "Fresh original annual HTML/body and published V2-01 chart captured; chart visually inspected. No actual buyer or funding verification.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    },
+    {
+      "candidate_id": "PRI7-C06",
+      "source_ids": [
+        "SRC-0070"
+      ],
+      "claim_text": "CIPP distinguishes organisations offering qualification-related support from respondents having undertaken, currently taking or planning qualifications. Employer support, personal career intent and completed training are different claims.",
+      "evidence_class": "survey_unit_and_time_boundary",
+      "locator": "Originalhostedtext printed15–16; sample contextforeword/conclusion",
+      "limitations": "Mixed professional sample and reported practices; no verified payment, amount, completion or usable capability. No planned qualification automatically becomes organisational approved training investment.",
+      "review_mode": "Fresh original CIPP hosted HTML text inspected at printed15/16; no PDF visual-inspection claim or employer payment verification.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    },
+    {
+      "candidate_id": "PRI7-C07",
+      "source_ids": [
+        "SRC-0011"
+      ],
+      "claim_text": "The current Moorepay annual prose says branding/customisation13%, while the original V2-01 feature chart labels12%. The exact branding/customisation value should not be reused until reconciled.",
+      "evidence_class": "source_conflict_numeric_hold",
+      "locator": "Annualfinding8 branding/customisationprose and V2-01chart",
+      "limitations": "New targeted conflict; do not average, select a preferred value, or treat other known conflicts as resolved. This is not evidence the whole study is false or feature priorities are funded.",
+      "review_mode": "Fresh original annual HTML/body and published V2-01 chart captured; chart visually inspected. No actual buyer or funding verification.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast",
+      "recommended_canonical_status": "hold_numeric_reuse",
+      "status": "hold_numeric_reuse",
+      "numeric_reuse": "hold_until_source_reconciliation"
+    },
+    {
+      "candidate_id": "PRI7-C08",
+      "source_ids": [
+        "SRC-0202",
+        "SRC-0033",
+        "SRC-0034",
+        "SRC-0011",
+        "SRC-0070"
+      ],
+      "claim_text": "For R07, preserve the priority’s actual unit, wording, timeframe and evidence status; separately establish organisational approval, funding/resources, delivery and observed result where known. A theme can be relevant without a funded project, and planned/approved/delivered statuses need not be a single linear ladder.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-source application of item/actor/time boundaries; existingQ005 provides interview basis",
+      "limitations": "No new compulsory questions or stage score. Up to two unaided priorities under unchangedQ005; preserve no priority, not known, not applicable and non-disclosure. No market-wide ranking or forecast populated.",
+      "review_mode": "Source-specific original item text inspected; Azets11/12/32, SDWorxfull33 and thematic2/11 visually checked; CIPP hosted HTML and Moorepay body/chart separately inspected. No funding document, employer interview or product trial.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific reported measures; not a new JGA practitioner sample",
+      "time_period": "Each original publication/fieldwork/item timeframe preserved; no 2027 forecast"
+    }
+  ]
+}

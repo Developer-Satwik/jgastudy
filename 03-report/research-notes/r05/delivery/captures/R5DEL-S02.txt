@@ -1,0 +1,179 @@
+0001 How the live phase works - Service Manual - GOV.UK
+0002 Cookies on GOV.UK
+0003 We use some essential cookies to make this website work.
+0004 We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+0005 We also use cookies set by other sites to help us deliver content from their services.
+0006 You have accepted additional cookies. You can change your cookie settings at any time.
+0007 You have rejected additional cookies. You can change your cookie settings at any time.
+0008 Accept additional cookies
+0009 Reject additional cookies
+0010 View cookies
+0011 Hide cookie message
+0012 Skip to main content
+0013 GOV.UK
+0014 Navigation menu
+0015 Menu
+0016 Menu
+0017 Services and information
+0018 Benefits
+0019 Births, death, marriages and care
+0020 Business and self-employed
+0021 Childcare and parenting
+0022 Citizenship and living in the UK
+0023 Crime, justice and the law
+0024 Disabled people
+0025 Driving and transport
+0026 Education and learning
+0027 Employing people
+0028 Environment and countryside
+0029 Housing and local services
+0030 Money and tax
+0031 Passports, travel and living abroad
+0032 Visas and immigration
+0033 Working, jobs and pensions
+0034 Government activity
+0035 Departments
+0036 Departments, agencies and public bodies
+0037 News
+0038 News stories, speeches, letters and notices
+0039 Guidance and regulation
+0040 Detailed guidance, regulations and rules
+0041 Research and statistics
+0042 Reports, analysis and official statistics
+0043 Policy papers and consultations
+0044 Consultations and strategy
+0045 Transparency
+0046 Data, Freedom of Information releases and corporate reports
+0047 Search GOV.UK
+0048 ×
+0049 Search GOV.UK
+0050 Search
+0051 Search GOV.UK
+0052 Search
+0053 Service manual
+0054 Agile delivery
+0055 Agile delivery
+0056 How the live phase works
+0057 From:
+0058 Agile delivery community
+0059 Give feedback about this page
+0060 Contents
+0061 Running your service during live
+0062 Meeting the standard to move into live
+0063 Other things to consider before you move into live
+0064 When you need to retire your service
+0065 Related guides
+0066 The live phase is about supporting the service in a sustainable way, and continuing to iterate and make improvements. You’ll also:
+0067 continue to address any constraints you identified at beta
+0068 continue to develop the service and work with other organisations providing services that are part of the same journey, so that you’re iterating towards solving a whole problem for users
+0069 transition or integrate any existing transactions that meet a similar need to yours - making sure that what you end up with has a scope that makes sense to users
+0070 You’ll have your live assessment at the end of the public beta phase. Spend public beta preparing for live.
+0071 You can download a poster that explains what the live phase is for.
+0072 Running your service during live
+0073 You’ll need to work out how to manage and improve your service during live. This does not necessarily mean having an agile team on the service 100% of the time. Spend time during public beta working out what level of continuous improvement it makes sense to support, and who you’ll need on the team.
+0074 As in beta, improvements you make during live should be:
+0075 based on user research
+0076 tested to make sure they work with different browsers and devices
+0077 tested for accessibility
+0078 quality assured
+0079 You should also make sure you are clear on the effects that changes will have on offline channels, or any related services - and make sure none of your changes will have a negative impact.
+0080 You’ll also need to spend time during public beta reviewing the performance metrics you set to check the data you’re collecting will tell you whether your service is performing as it should.
+0081 Meeting the standard to move into live
+0082 Before the service moves into the live phase, you’ll need to show that you’ve used the beta phase to build a service that meets the needs you identified at discovery and alpha, testing and iterating based on what you learn.
+0083 Solving a whole problem for users
+0084 Once you’re in live, you’ll need to continue to develop your service so it forms an intuitive part of the user’s wider journey.
+0085 This means continuing to work with teams responsible for related services, and continuing to address any constraints affecting how you can iterate the service.
+0086 During public beta, start developing a roadmap for this work. Items in your roadmap should be ambitious, at the level of things like:
+0087 continuing to make sure that transactions are scoped in a way that makes sense to users
+0088 starting a service community (or joining an existing one) to support others working in your problem space
+0089 continuing to address any constraints you identified at beta (for example, with legacy technology)
+0090 Providing a joined up experience across channels
+0091 Before you move into live, you’ll need to make sure the people who support your users understand the online part of the service.
+0092 This might involve things like updating call centre scripts, providing training or finding a way for operations staff to walk through or familiarise themselves with the service.
+0093 Other things to consider before you move into live
+0094 Before the service goes live, you’ll also need to make sure:
+0095 you’re securing the service’s information
+0096 you’ve got appropriate metrics in place to measure the success of the service, based on what you’ve learned during beta
+0097 the service meets accessibility requirements
+0098 you’re able to maintain uptime and availability and monitor the status of the service
+0099 you’re able to continue with vulnerability and penetration testing
+0100 you’re able to continue testing service performance
+0101 you’re able to maintain quality assurance
+0102 you have addressed, or have plans to address, any pain points that might lead to people being excluded
+0103 If you’ve created any new design patterns - or learned anything useful about an existing design pattern - you should share what you’ve learned through the GOV.UK Design System.
+0104 When you need to retire your service
+0105 You need to retire your service if you find out users do not need it anymore - or that so few users need it that it’s not cost effective to keep running it in its current form.
+0106 Related guides
+0107 You may find these guides useful:
+0108 How the discovery phase works
+0109 How the alpha phase works
+0110 How the beta phase works
+0111 Retiring your service
+0112 Updates to this page
+0113 Published:
+0114 4 August 2016
+0115 Last updated:
+0116 8 May 2019
+0117 Show all updates
+0118 8 May 2019
+0119 Updated to match the requirements outlined in the new standard.
+0120 3 October 2017
+0121 Added guidance on how to meet government accessibility requirements in live.
+0122 3 April 2017
+0123 Added the need to continue doing user research in live.
+0124 4 August 2016
+0125 Guidance first published
+0126 Is this page useful?
+0127 Maybe
+0128 Yes this page is useful
+0129 No this page is not useful
+0130 Thank you for your feedback
+0131 Report a problem with this page
+0132 Help us improve GOV.UK
+0133 Do not include personal or financial information like your National Insurance number or credit card details.
+0134 This field is for robots only. Please leave blank
+0135 What were you doing?
+0136 What went wrong?
+0137 Send
+0138 Cancel
+0139 Help us improve GOV.UK
+0140 To help us improve GOV.UK, we’d like to know more about your visit today.
+0141 Please fill in this survey (opens in a new tab and requires JavaScript).
+0142 Cancel
+0143 Services and information
+0144 Benefits
+0145 Births, death, marriages and care
+0146 Business and self-employed
+0147 Childcare and parenting
+0148 Citizenship and living in the UK
+0149 Crime, justice and the law
+0150 Disabled people
+0151 Driving and transport
+0152 Education and learning
+0153 Employing people
+0154 Environment and countryside
+0155 Housing and local services
+0156 Money and tax
+0157 Passports, travel and living abroad
+0158 Visas and immigration
+0159 Working, jobs and pensions
+0160 Government activity
+0161 Departments
+0162 News
+0163 Guidance and regulation
+0164 Research and statistics
+0165 Policy papers and consultations
+0166 Transparency
+0167 How government works
+0168 Get involved
+0169 Support links
+0170 Help
+0171 Privacy
+0172 Cookies
+0173 Accessibility statement
+0174 Contact
+0175 Terms and conditions
+0176 Rhestr o Wasanaethau Cymraeg
+0177 Government Digital Service
+0178 All content is available under the Open Government Licence v3.0, except where otherwise stated
+0179 © Crown copyright

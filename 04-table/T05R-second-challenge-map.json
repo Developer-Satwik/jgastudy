@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-01",
+  "source_collection_date": "2026-10-31",
+  "status": "second_challenge_reviewed_internal_design",
+  "conditions": [
+    {
+      "condition_id": "RC01",
+      "name": "Match rate definitions before using a trend",
+      "applies_when": "Comparing years, geographies, roles or fee statistics.",
+      "check": "Keep actual year/evidence period, currency, role/discipline, mean/median/minimum and supplier scope explicit. A dated comparison needs matching units.",
+      "model_implication": "Retain dated reference values; select execution-date terms or labelled later scenarios. No automatic 2027 inflation or role-to-discipline decline.",
+      "source_ids": [
+        "SRC-0268",
+        "SRC-0269",
+        "SRC-0270",
+        "SRC-0263",
+        "SRC-0264",
+        "SRC-0265",
+        "SRC-0266"
+      ],
+      "claim_ids": [
+        "CLM-0557",
+        "CLM-0558",
+        "CLM-0559",
+        "CLM-0560",
+        "CLM-0561",
+        "CLM-0562"
+      ],
+      "related_workload_ids": [
+        "WR02",
+        "WR09",
+        "WR11",
+        "WR12",
+        "WR15"
+      ]
+    },
+    {
+      "condition_id": "RC02",
+      "name": "Specify the delivery and billing unit",
+      "applies_when": "Considering a supplier package, separate roles, marketplace sourcing or internal/hybrid delivery.",
+      "check": "Define scope, capability, booked hours/days/minimum, inclusions, currency, fee/tax and payment terms, and retained JGA work. Map each actual hour once.",
+      "model_implication": "Choose a package, task costs or reconciled split. Normalisation is a comparison, not purchasing terms. Worldwide USD range does not establish an Indian discount or GBP budget.",
+      "source_ids": [
+        "SRC-0271",
+        "SRC-0272",
+        "SRC-0263"
+      ],
+      "claim_ids": [
+        "CLM-0563",
+        "CLM-0564",
+        "CLM-0565",
+        "CLM-0566"
+      ],
+      "related_workload_ids": [
+        "WR01",
+        "WR04",
+        "WR10",
+        "WR12",
+        "WR15",
+        "JG01",
+        "JG03"
+      ]
+    },
+    {
+      "condition_id": "RC03",
+      "name": "Allow for work beyond usable contributions",
+      "applies_when": "Recruitment, participant handling, repeat review or capacity differs from the selected scenario.",
+      "check": "Identify unsuccessful contact/cancellation/extra clarification or rework not already inside an allowance. Separate work hours from waiting time, staff availability and calendar sequencing.",
+      "model_implication": "Reforecast only actual/explicit additional work without a fabricated success rate or duplicate handling. Preserve distinct-person and up-to-four Table event counting.",
+      "source_ids": [
+        "SRC-0273"
+      ],
+      "claim_ids": [
+        "CLM-0571",
+        "CLM-0572"
+      ],
+      "related_workload_ids": [
+        "WR03",
+        "WR04",
+        "WR05",
+        "WR06",
+        "WR07",
+        "WR10",
+        "WR13",
+        "WR15",
+        "JG02",
+        "JG04"
+      ]
+    },
+    {
+      "condition_id": "RC04",
+      "name": "Identify the reusable asset and remaining work",
+      "applies_when": "A prior report, framework, podcast, guide, public expert content or existing relationship is proposed to lower effort.",
+      "check": "Record exact asset/version, task/country/evidence-date fit, applicable rights and the remaining validation, collection, handoff, editing and publication work.",
+      "model_implication": "A genuine saved task can be credited once. Public content does not become new permissioned practitioner input, current evidence or free full production.",
+      "source_ids": [
+        "SRC-0190",
+        "SRC-0221",
+        "SRC-0222",
+        "SRC-0116",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0088",
+        "SRC-0257"
+      ],
+      "claim_ids": [
+        "CLM-0567",
+        "CLM-0568",
+        "CLM-0569",
+        "CLM-0570"
+      ],
+      "related_workload_ids": [
+        "WR01",
+        "WR02",
+        "WR03",
+        "WR06",
+        "WR07",
+        "WR08",
+        "WR09",
+        "WR10",
+        "WR12",
+        "WR16"
+      ]
+    },
+    {
+      "condition_id": "RC05",
+      "name": "Verify assisted work before crediting savings",
+      "applies_when": "Software or AI assistance is proposed for transcription, extraction, coding, writing or production.",
+      "check": "Define permitted task/data/tool and capable delivery route, keep input/currentness/interpretation/output review, and observe the actual change in work before claiming a saving.",
+      "model_implication": "Planned external AI projects and earlier generated answers do not prove JGA productivity or supplier capability. No percentage saving or tool activation adopted.",
+      "source_ids": [
+        "SRC-0273",
+        "SRC-0274"
+      ],
+      "claim_ids": [
+        "CLM-0573",
+        "CLM-0574",
+        "CLM-0570"
+      ],
+      "related_workload_ids": [
+        "WR02",
+        "WR03",
+        "WR06",
+        "WR07",
+        "WR08",
+        "WR09",
+        "WR10",
+        "WR14",
+        "JG03"
+      ]
+    }
+  ],
+  "first_component_map_path": "04-table/T05-research-cost-map.json",
+  "original_workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+  "original_workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "original_financial_inputs_sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509",
+  "financial_inputs_changed": false,
+  "workbook_changed": false,
+  "new_financial_inputs": 0,
+  "first_component_workload_tasks": 21,
+  "first_component_input_records": 33,
+  "prior_study_bridge_path": "04-table/research-notes/t05r-second-check/competitors/prior-study-bridge.json",
+  "constructed_applications_path": "04-table/research-notes/t05r-second-check/root/constructed-cost-applications.json",
+  "fourteen_core_questions_unchanged": true,
+  "current_contract_fee_changed": false,
+  "practitioner_free_full_research_preserved": true,
+  "new_case_or_geography_quota": false,
+  "actual_quotes": [],
+  "actual_suppliers": [],
+  "actual_staffing": [],
+  "actual_participants": [],
+  "actual_buyer_member_validation": [],
+  "external_actions": [],
+  "full_financial_model_complete": false,
+  "source_ids": [
+    "SRC-0268",
+    "SRC-0269",
+    "SRC-0270",
+    "SRC-0271",
+    "SRC-0272",
+    "SRC-0273",
+    "SRC-0274"
+  ],
+  "claim_ids": [
+    "CLM-0557",
+    "CLM-0558",
+    "CLM-0559",
+    "CLM-0560",
+    "CLM-0561",
+    "CLM-0562",
+    "CLM-0563",
+    "CLM-0564",
+    "CLM-0565",
+    "CLM-0566",
+    "CLM-0567",
+    "CLM-0568",
+    "CLM-0569",
+    "CLM-0570",
+    "CLM-0571",
+    "CLM-0572",
+    "CLM-0573",
+    "CLM-0574"
+  ],
+  "independent_review_path": "08-qa/t05r-second-review/integration-checks.json"
+}

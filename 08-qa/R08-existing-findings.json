@@ -1,0 +1,1808 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "finding_id": "FND-001",
+      "topic_ids": [
+        "R01"
+      ],
+      "statement": "The broad subjects in JGA's brief already have substantial published coverage.",
+      "supporting_claim_ids": [
+        "CLM-0022",
+        "CLM-0050",
+        "CLM-0081",
+        "CLM-0087",
+        "CLM-0120",
+        "CLM-0125",
+        "CLM-0127"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Coverage across different populations is established; this is not an estimate of market demand.",
+      "decision_implication": "Retain the two-part brief, but do not rely on broad subject novelty.",
+      "confidence_rationale": "Working interpretation from inspected source families; access and method limits remain in source/claim records.",
+      "outstanding_questions": [],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-002",
+      "topic_ids": [
+        "R01"
+      ],
+      "statement": "Buying decisions and delays are already examined; a more specific case-based contribution needs testing.",
+      "supporting_claim_ids": [
+        "CLM-0087",
+        "CLM-0120",
+        "CLM-0122",
+        "CLM-0128"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "The proposed contribution is an analytical hypothesis about depth and audience, not an absence claim.",
+      "decision_implication": "Design recent-case questions linking need, authority, evidence, constraints and outcome.",
+      "confidence_rationale": "Working interpretation from inspected source families; access and method limits remain in source/claim records.",
+      "outstanding_questions": [],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-003",
+      "topic_ids": [
+        "R01"
+      ],
+      "statement": "The reviewed sources use different respondent units and populations.",
+      "supporting_claim_ids": [
+        "CLM-0029",
+        "CLM-0080",
+        "CLM-0083",
+        "CLM-0085",
+        "CLM-0120"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Operational, provider, mixed HR/Finance and enterprise evidence cannot be pooled as one population.",
+      "decision_implication": "Keep sample and measure context beside each relevant finding.",
+      "confidence_rationale": "Working interpretation from inspected source families; access and method limits remain in source/claim records.",
+      "outstanding_questions": [],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-004",
+      "topic_ids": [
+        "R01"
+      ],
+      "statement": "Some source displays conflict or invite an invalid transformation.",
+      "supporting_claim_ids": [
+        "CLM-0051",
+        "CLM-0052",
+        "CLM-0059",
+        "CLM-0084",
+        "CLM-0126"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Issues are recorded and affected values held or qualified. A claim can support topic coverage without supporting a headline number.",
+      "decision_implication": "Do not silently choose a version or infer errors from non-agreement.",
+      "confidence_rationale": "Working interpretation from inspected source families; access and method limits remain in source/claim records.",
+      "outstanding_questions": [],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-005",
+      "topic_ids": [
+        "R01"
+      ],
+      "statement": "Positive experiences and sensible continuation must be investigated alongside friction.",
+      "supporting_claim_ids": [
+        "CLM-0053",
+        "CLM-0056",
+        "CLM-0058",
+        "CLM-0123",
+        "CLM-0129"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Source-attributed positive cases counter a blanket failure story; they do not establish overall market satisfaction.",
+      "decision_implication": "Include approval, successful implementation and renewal/no-change routes.",
+      "confidence_rationale": "Working interpretation from inspected source families; access and method limits remain in source/claim records.",
+      "outstanding_questions": [],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-006",
+      "topic_ids": [
+        "R01"
+      ],
+      "statement": "A useful inaugural product could connect concrete practitioner cases with an actionable evidence framework.",
+      "supporting_claim_ids": [
+        "CLM-0087",
+        "CLM-0120",
+        "CLM-0122",
+        "CLM-0128"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "This is a proposed design, not validated usefulness, uniqueness, representative evidence or willingness to pay.",
+      "decision_implication": "Review the focus with Nick; test through permissioned practitioner input and separate commercial conversations.",
+      "confidence_rationale": "Working interpretation from inspected source families; access and method limits remain in source/claim records.",
+      "outstanding_questions": [
+        "Which cases and audience are accessible?",
+        "Will the intended reader find this useful?",
+        "Will a defined commercial buyer pay for this product?"
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-007",
+      "topic_ids": [
+        "R01",
+        "R08"
+      ],
+      "statement": "JGA has a documented public research and guidance lineage relevant to this report.",
+      "supporting_claim_ids": [
+        "CLM-0130",
+        "CLM-0131",
+        "CLM-0149",
+        "CLM-0152"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Sponsorship, forewords and announced education are positioning context, not proof of market demand or programme results.",
+      "decision_implication": "Investigate changed conditions and actual decisions rather than duplicate broad AI/strategy guidance.",
+      "confidence_rationale": "Second independent design challenge against original public sources and the actual instrument; not practitioner or buyer validation.",
+      "outstanding_questions": [
+        "Actual practitioner evidence and/or commercial usefulness remain to be tested where relevant."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-008",
+      "topic_ids": [
+        "R01",
+        "R02",
+        "R04"
+      ],
+      "statement": "The current guide needs to capture needs that have not become proposals and distinguish different gap mechanisms.",
+      "supporting_claim_ids": [
+        "CLM-0144",
+        "CLM-0133",
+        "CLM-0155"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "This is an instrument-design inference, not evidence of how often pre-proposal barriers occur.",
+      "decision_implication": "Add a selective no-case probe and classify supported explanations without treating perceived gaps as verified absence of supply.",
+      "confidence_rationale": "Second independent design challenge against original public sources and the actual instrument; not practitioner or buyer validation.",
+      "outstanding_questions": [
+        "Actual practitioner evidence and/or commercial usefulness remain to be tested where relevant."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-009",
+      "topic_ids": [
+        "R05",
+        "R06",
+        "R08"
+      ],
+      "statement": "Intended value, affordability, implementation and realised benefits need separate treatment.",
+      "supporting_claim_ids": [
+        "CLM-0136",
+        "CLM-0137",
+        "CLM-0138",
+        "CLM-0139"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Public guidance and a large shared-services case inform analytical distinctions; they are not ordinary private-employer payroll benchmarks.",
+      "decision_implication": "Add selective intended-outcome, baseline, cost-scope, benefit-owner and observed-result probes.",
+      "confidence_rationale": "Second independent design challenge against original public sources and the actual instrument; not practitioner or buyer validation.",
+      "outstanding_questions": [
+        "Actual practitioner evidence and/or commercial usefulness remain to be tested where relevant."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-010",
+      "topic_ids": [
+        "R03",
+        "R07",
+        "R08"
+      ],
+      "statement": "A dated conditional outlook is more defensible than extrapolating unlike surveys into a numerical adoption forecast.",
+      "supporting_claim_ids": [
+        "CLM-0132",
+        "CLM-0145",
+        "CLM-0154"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Historical themes, current interim policy milestones and possible futures are different evidence classes; no probabilities are estimated.",
+      "decision_implication": "Use a short history element and a signal-condition-decision table within existing chapters, with final date checks.",
+      "confidence_rationale": "Second independent design challenge against original public sources and the actual instrument; not practitioner or buyer validation.",
+      "outstanding_questions": [
+        "Actual practitioner evidence and/or commercial usefulness remain to be tested where relevant."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-011",
+      "topic_ids": [
+        "R01",
+        "T01",
+        "T02"
+      ],
+      "statement": "The Table must demonstrate a defined decision use and distinct licensed value against existing research alternatives.",
+      "supporting_claim_ids": [
+        "CLM-0142",
+        "CLM-0143",
+        "CLM-0144"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Product descriptions establish alternatives, not JGA willingness to pay, price or conversion.",
+      "decision_implication": "Keep buyer, member, event and practitioner evidence separate; preserve the existing financial specification and test actual rights/use cases.",
+      "confidence_rationale": "Second independent design challenge against original public sources and the actual instrument; not practitioner or buyer validation.",
+      "outstanding_questions": [
+        "Actual practitioner evidence and/or commercial usefulness remain to be tested where relevant."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-012",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Information handoffs and approval can create consequential rework before or around processing.",
+      "supporting_claim_ids": [
+        "CLM-0178",
+        "CLM-0164",
+        "CLM-0158"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Source attribution and bounded audits support investigating the mechanism; no national causal rate is estimated.",
+      "decision_implication": "Locate task, input, owner, cutoff and known downstream consequence before diagnosing a product gap.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-013",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Service response targets, full resolution and corrected employee outcome are different measures.",
+      "supporting_claim_ids": [
+        "CLM-0170",
+        "CLM-0165"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Declared scope and self-reported target evidence do not demonstrate achieved service performance.",
+      "decision_implication": "Separate acknowledgement, updates, resolution and the affected outcome in case analysis.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-014",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "A payroll service gap may concern scope or retained duties rather than an absent market capability.",
+      "supporting_claim_ids": [
+        "CLM-0169",
+        "CLM-0171",
+        "CLM-0172",
+        "CLM-0173"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Supplier examples establish published scope only; the older Phase3 definition is dated explicitly.",
+      "decision_implication": "Establish entitlement, ownership and actual case performance; do not claim all providers lack a capability.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-015",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Payroll capacity needs a task, complexity and support boundary rather than a headcount ratio alone.",
+      "supporting_claim_ids": [
+        "CLM-0160",
+        "CLM-0162",
+        "CLM-0163"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Different populations and task definitions prevent a universal staffing norm or inferred understaffing.",
+      "decision_implication": "Include queries, controls, projects and technical/retained work when examining capacity and desired improvement.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-016",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Payment, statutory reporting, records and employee explanation are separate protected outcomes.",
+      "supporting_claim_ids": [
+        "CLM-0180",
+        "CLM-0181",
+        "CLM-0182",
+        "CLM-0183"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Official guidance identifies responsibilities and possible consequences, not their market incidence.",
+      "decision_implication": "Investigate each outcome explicitly where relevant and avoid turning payslip confusion into an error rate.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-017",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Operating continuity and improvement needs can coexist.",
+      "supporting_claim_ids": [
+        "CLM-0177",
+        "CLM-0159"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "A bounded audit and unrelated employee agreement data support balanced inquiry, not a pooled performance claim.",
+      "decision_implication": "Preserve functioning controls and positive cases while checking the effort, cover and unresolved conditions behind continuity.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-018",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Remedial payment principal and gross recoverable overpayments are not measured administrative cost or written-off loss.",
+      "supporting_claim_ids": [
+        "CLM-0176",
+        "CLM-0174"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "The cases do not establish a transferable payroll correction cost, retention effect or cash ROI.",
+      "decision_implication": "Keep principal, recovery, outstanding amounts, write-offs, staff effort and actual spending separate.",
+      "confidence_rationale": "Desktop synthesis of inspected originals with source-specific limits and contrary/positive evidence; not original fieldwork or population estimation.",
+      "outstanding_questions": [
+        "Actual priorities, recurrence, materiality and observed results in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-019",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Resolution may depend on external institutions, and prevention, legacy correction and consequence closure are distinct stages.",
+      "supporting_claim_ids": [
+        "CLM-0184",
+        "CLM-0185",
+        "CLM-0186"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Historical self-review and selected reported cases establish mechanisms, not present prevalence or deterioration.",
+      "decision_implication": "Map detection, authority, amendment and closure across the relevant parties; distinguish new cases from residual work.",
+      "confidence_rationale": "Source-specific primary context and bounded analytical challenge; not new practitioner evidence or population inference.",
+      "outstanding_questions": [
+        "Actual materiality, context, ownership and observed outcomes in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-020",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Market scope and retained work can explain an unmet outcome even where a named capability is publicly offered.",
+      "supporting_claim_ids": [
+        "CLM-0189",
+        "CLM-0190",
+        "CLM-0191",
+        "CLM-0192",
+        "CLM-0193",
+        "CLM-0194"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Deliberately selected live guidance/product/service pages establish boundaries only; no market census, procurement score or achieved-result inference.",
+      "decision_implication": "Use complexity, footprint, entitlement, readiness and execution/retained duties as context. Keep licence/add-on/transaction/service fees and internal effort separate.",
+      "confidence_rationale": "Source-specific primary context and bounded analytical challenge; not new practitioner evidence or population inference.",
+      "outstanding_questions": [
+        "Actual materiality, context, ownership and observed outcomes in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-021",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Capacity can concern ongoing operations, temporary continuity, specialist change expertise or accountable leadership and oversight.",
+      "supporting_claim_ids": [
+        "CLM-0195",
+        "CLM-0196",
+        "CLM-0197",
+        "CLM-0198",
+        "CLM-0199",
+        "CLM-0200",
+        "CLM-0201",
+        "CLM-0202"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Recruitment offers, a publisher-reported case and a vacancy inform case contrasts; they do not establish shortage, demand or the need to hire.",
+      "decision_implication": "Establish tasks, specialist context, authority, cover and knowledge handback where relevant. Keep recruitment, consultancy and payroll execution distinct.",
+      "confidence_rationale": "Source-specific primary context and bounded analytical challenge; not new practitioner evidence or population inference.",
+      "outstanding_questions": [
+        "Actual materiality, context, ownership and observed outcomes in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-022",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "Safe authorisation, appropriate access, continuity and recoverability qualify the operating outcomes across the needs map.",
+      "supporting_claim_ids": [
+        "CLM-0203",
+        "CLM-0204",
+        "CLM-0205"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Guidance, a payment definition and one dated incident account are distinct evidence; none estimates payroll risk or proves cloud resilience.",
+      "decision_implication": "Distinguish approved calculation, actual payment, information protection and continuity. Investigate only the relevant dependency without collecting sensitive records.",
+      "confidence_rationale": "Source-specific primary context and bounded analytical challenge; not new practitioner evidence or population inference.",
+      "outstanding_questions": [
+        "Actual materiality, context, ownership and observed outcomes in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-023",
+      "topic_ids": [
+        "R02"
+      ],
+      "statement": "The appropriate information-quality test depends on its use, and recurrence of historical themes is not a measured trend.",
+      "supporting_claim_ids": [
+        "CLM-0187",
+        "CLM-0188"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Statistical methodology and unlike historical/selected-case sources cannot supply employer error rates or a comparable time series.",
+      "decision_implication": "State intended user, decision, transformations and timeliness. Present dated context without manufacturing a progress or deterioration curve.",
+      "confidence_rationale": "Source-specific primary context and bounded analytical challenge; not new practitioner evidence or population inference.",
+      "outstanding_questions": [
+        "Actual materiality, context, ownership and observed outcomes in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-28"
+    },
+    {
+      "finding_id": "FND-024",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "A configured connection and technical processing states do not demonstrate complete, authorised and reconciled payroll outcomes.",
+      "supporting_claim_ids": [
+        "CLM-0206",
+        "CLM-0207",
+        "CLM-0208",
+        "CLM-0209",
+        "CLM-0210",
+        "CLM-0211",
+        "CLM-0212",
+        "CLM-0213"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Primary product definitions and official guidance supply operating conditions, not comparative success rates or product tests.",
+      "decision_implication": "Assess the actual handoff, accepted/rejected records, identity/period, source ownership, timing, access, correction authority and downstream result.",
+      "confidence_rationale": "Bounded primary definitions, guidance and dated cases, with explicit alternatives and integrated review; no original fieldwork or evaluated products.",
+      "outstanding_questions": [
+        "Actual task/context, stage, alternatives, retained work, result and materiality in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-025",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Payroll execution, payment execution, authority and retained work must be mapped separately.",
+      "supporting_claim_ids": [
+        "CLM-0214",
+        "CLM-0215",
+        "CLM-0216",
+        "CLM-0217",
+        "CLM-0219",
+        "CLM-0220",
+        "CLM-0221",
+        "CLM-0222"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Official and supplier scope examples establish possible arrangements; they do not show actual service under a particular contract.",
+      "decision_implication": "Compare service components and actual entitlement, keep input/approval/oversight explicit, and test exception closure across boundaries.",
+      "confidence_rationale": "Bounded primary definitions, guidance and dated cases, with explicit alternatives and integrated review; no original fieldwork or evaluated products.",
+      "outstanding_questions": [
+        "Actual task/context, stage, alternatives, retained work, result and materiality in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-026",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Task mechanism, supplier availability, actual use and assessed benefit are distinct in automation and AI analysis.",
+      "supporting_claim_ids": [
+        "CLM-0229",
+        "CLM-0230",
+        "CLM-0231",
+        "CLM-0232",
+        "CLM-0233",
+        "CLM-0234"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Guidance and supplier configuration/release material do not establish cohort adoption, efficacy, uniform deployment or numerical savings.",
+      "decision_implication": "Define the task and permitted action, preserve established alternatives, verify scope and review burden, and assess results separately from deployment.",
+      "confidence_rationale": "Bounded primary definitions, guidance and dated cases, with explicit alternatives and integrated review; no original fieldwork or evaluated products.",
+      "outstanding_questions": [
+        "Actual task/context, stage, alternatives, retained work, result and materiality in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-027",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Controlled transition, continuity, useful outputs, support and demonstrated benefits can have different results and dates.",
+      "supporting_claim_ids": [
+        "CLM-0223",
+        "CLM-0224",
+        "CLM-0225",
+        "CLM-0226",
+        "CLM-0227",
+        "CLM-0228"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Two selected public employers; external audit, employer-reported internal assurance and management self-review have different strength and time scope.",
+      "decision_implication": "Retain positive and mixed evidence; state the assessed outcome, period and limits. Do not make go-live a proxy for every benefit or infer a vendor success rate.",
+      "confidence_rationale": "Bounded primary definitions, guidance and dated cases, with explicit alternatives and integrated review; no original fieldwork or evaluated products.",
+      "outstanding_questions": [
+        "Actual task/context, stage, alternatives, retained work, result and materiality in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-028",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Options can be combined and their suitability depends on the diagnosed gap, existing controls and practical prerequisites.",
+      "supporting_claim_ids": [
+        "CLM-0215",
+        "CLM-0219",
+        "CLM-0220",
+        "CLM-0222",
+        "CLM-0229",
+        "CLM-0231"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Analytical option map informed by primary conditions, not a tested ranking, lowest-cost rule or recommendation to retain an inadequate arrangement.",
+      "decision_implication": "Compare process/configuration, integration, assistance, platform, service and capability changes; preserve no-immediate-purchase where justified and carry unresolved material needs forward.",
+      "confidence_rationale": "Bounded primary definitions, guidance and dated cases, with explicit alternatives and integrated review; no original fieldwork or evaluated products.",
+      "outstanding_questions": [
+        "Actual task/context, stage, alternatives, retained work, result and materiality in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-029",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Continuing readiness is relevant to retained, configured, replaced and delegated arrangements as well as initial go-live.",
+      "supporting_claim_ids": [
+        "CLM-0235",
+        "CLM-0236",
+        "CLM-0237",
+        "CLM-0238",
+        "CLM-0239",
+        "CLM-0249"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Official operating guidance, supplier release conditions and historical context do not establish maintenance burden, realised forecasts or a universal release schedule.",
+      "decision_implication": "Separate transition, ordinary cycle, scheduled updates and exceptional changes; identify the applicable change, owner, relevant check, communication and exception route.",
+      "confidence_rationale": "Targeted second challenge from inspected primary context, bounded reuse and independent integration review; not original fieldwork or validated option scoring.",
+      "outstanding_questions": [
+        "Actual context, retained work, user outcomes, engagement and continuing readiness in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-030",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Self-service can change the distribution of work and benefits across employees, managers and operators.",
+      "supporting_claim_ids": [
+        "CLM-0240",
+        "CLM-0243"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Declared features support a work-journey question, not a measured net saving, increased burden or user-acceptance result.",
+      "decision_implication": "Examine who originates, approves, operates, benefits and obtains support, separating one-off preparation from recurring work and preserving outcome quality.",
+      "confidence_rationale": "Targeted second challenge from inspected primary context, bounded reuse and independent integration review; not original fieldwork or validated option scoring.",
+      "outstanding_questions": [
+        "Actual context, retained work, user outcomes, engagement and continuing readiness in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-031",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "The actual product, package, country/entity, worker/service relationship and underlying parties define the useful comparison.",
+      "supporting_claim_ids": [
+        "CLM-0241",
+        "CLM-0242",
+        "CLM-0243"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Deliberately selected supplier examples are not a market census, service-equivalence test or jurisdictional employment advice.",
+      "decision_implication": "Distinguish software, HR records, payroll, payment, partner coordination and employment-provider roles; check the real case scope without adding an employment-model recommendation.",
+      "confidence_rationale": "Targeted second challenge from inspected primary context, bounded reuse and independent integration review; not original fieldwork or validated option scoring.",
+      "outstanding_questions": [
+        "Actual context, retained work, user outcomes, engagement and continuing readiness in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-032",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Individual capacity, enduring leadership, consulting-led outputs and ongoing payroll execution are distinct engagement questions.",
+      "supporting_claim_ids": [
+        "CLM-0244",
+        "CLM-0245",
+        "CLM-0246",
+        "CLM-0247",
+        "CLM-0248"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Editorial and cross-function service declarations sharpen analysis but do not establish payroll performance, staffing demand, availability or actual engagement terms.",
+      "decision_implication": "Broaden P08 beyond time-bound cover; establish duration, task, work product, completion/acceptance, retained business authority and knowledge handback. Keep operations and change capacity visible together.",
+      "confidence_rationale": "Targeted second challenge from inspected primary context, bounded reuse and independent integration review; not original fieldwork or validated option scoring.",
+      "outstanding_questions": [
+        "Actual context, retained work, user outcomes, engagement and continuing readiness in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-033",
+      "topic_ids": [
+        "R03"
+      ],
+      "statement": "Recoverability and useful delegated capability must be assessed alongside retained configuration and accepted technical dependence.",
+      "supporting_claim_ids": [
+        "CLM-0249",
+        "CLM-0250",
+        "CLM-0251",
+        "CLM-0252"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Guidance supplies conditional design checks, not product certification, a recovery test, a payroll switching cost or a zero-dependence mandate.",
+      "decision_implication": "Distinguish export, backup and a usable restored/receiving service. Preserve managed-service benefits while identifying relevant access, configuration, skills and recovery/handback conditions.",
+      "confidence_rationale": "Targeted second challenge from inspected primary context, bounded reuse and independent integration review; not original fieldwork or validated option scoring.",
+      "outstanding_questions": [
+        "Actual context, retained work, user outcomes, engagement and continuing readiness in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-034",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "Decision authority is most usefully reconstructed for a specified action, object and date rather than inferred from title.",
+      "supporting_claim_ids": [
+        "CLM-0253",
+        "CLM-0256",
+        "CLM-0258",
+        "CLM-0259",
+        "CLM-0261",
+        "CLM-0264",
+        "CLM-0265",
+        "CLM-0266"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Analytical conclusion from source-scoped role guidance and selected published cases, not an observed universal hierarchy or authority-prevalence finding.",
+      "decision_implication": "Record the actual right, scope, knowledge basis and decision event. Allow shared, combined, absent and unknown functions.",
+      "confidence_rationale": "Inspected primary role/record context and selected published cases, with independent integrated review. No original fieldwork or validated framework implied.",
+      "outstanding_questions": [
+        "Actual rights, actions, conditions and pathways in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-035",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "The inspected public cases distinguish recommendations, conditional backing, funding, awards, functional signoff and final release.",
+      "supporting_claim_ids": [
+        "CLM-0269",
+        "CLM-0270",
+        "CLM-0271",
+        "CLM-0272",
+        "CLM-0273",
+        "CLM-0274",
+        "CLM-0275",
+        "CLM-0276"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Three deliberately selected public-employer programmes, with linked publications not independent cases. They do not establish private-employer process or benefits from an approval.",
+      "decision_implication": "Preserve dated decisions, conditions and later states separately. Do not turn an award or go-live into evidence of realised return.",
+      "confidence_rationale": "Inspected primary role/record context and selected published cases, with independent integrated review. No original fieldwork or validated framework implied.",
+      "outstanding_questions": [
+        "Actual rights, actions, conditions and pathways in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-036",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "The UK employer accounts report different relationships between operational input and particular decision stages.",
+      "supporting_claim_ids": [
+        "CLM-0264",
+        "CLM-0265"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Purplebricks is supplier-published named testimony; the construction case is an adviser-reported anonymous account. Undisclosed rights and dates remain unknown; no causal or prevalence inference.",
+      "decision_implication": "Establish actual participation and exclusion in each decision rather than assume payroll always leads or is always excluded. Later resource approval is not original selection authority.",
+      "confidence_rationale": "Inspected primary role/record context and selected published cases, with independent integrated review. No original fieldwork or validated framework implied.",
+      "outstanding_questions": [
+        "Actual rights, actions, conditions and pathways in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-037",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "Advice, assurance, delegated authority and organisational accountability require separate interpretation.",
+      "supporting_claim_ids": [
+        "CLM-0254",
+        "CLM-0256",
+        "CLM-0258",
+        "CLM-0259",
+        "CLM-0260",
+        "CLM-0262",
+        "CLM-0277"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Government, listed-company, privacy-role and supplier-operational sources retain their own scopes. ICO page is under review; no universal CFO or specialist veto is established.",
+      "decision_implication": "Record whether input was a concern, advice, prerequisite, binding condition or formal stop; identify the actual clearance/escalation right. Operational payment authority is not purchasing authority.",
+      "confidence_rationale": "Inspected primary role/record context and selected published cases, with independent integrated review. No original fieldwork or validated framework implied.",
+      "outstanding_questions": [
+        "Actual rights, actions, conditions and pathways in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-038",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "Evidence purpose and record regime determine what can be concluded about the decision route.",
+      "supporting_claim_ids": [
+        "CLM-0263",
+        "CLM-0267",
+        "CLM-0268",
+        "CLM-0278"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Evaluation perceptions, survey selection criteria and leadership recommendations do not reconstruct actual approvals. Notice labels depend on the applicable date/regime; no procurement advice or timetable inferred.",
+      "decision_implication": "Use source-specific locators and limits, distinguish perceived from observed/described authority, and retain missingness and record conflicts without manufacturing a complete chain.",
+      "confidence_rationale": "Inspected primary role/record context and selected published cases, with independent integrated review. No original fieldwork or validated framework implied.",
+      "outstanding_questions": [
+        "Actual rights, actions, conditions and pathways in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-039",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "The relevant authority is the remit effective for the selected event, including any known change.",
+      "supporting_claim_ids": [
+        "CLM-0279",
+        "CLM-0280",
+        "CLM-0281",
+        "CLM-0282",
+        "CLM-0288",
+        "CLM-0289"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Historical parliamentary and current government design are not a private-market trend. Prospective recruitment remit is not effective delegation or a completed appointment.",
+      "decision_implication": "Record requested scope, described delegation, effective period and actual exercise; preserve interim, succession or handover conditions where relevant.",
+      "confidence_rationale": "Targeted multi-perspective second challenge, source-specific original inspection and independent integrated review; no original fieldwork or validated authority model.",
+      "outstanding_questions": [
+        "Actual effective rights, actions, context and conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-040",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "Organisational, contractual and service scope matter alongside the authority holder.",
+      "supporting_claim_ids": [
+        "CLM-0279",
+        "CLM-0283",
+        "CLM-0284",
+        "CLM-0286",
+        "CLM-0287"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Selected founder-targeted and global-programme contexts do not establish a simple SME/large-employer hierarchy, verified headcount, sole purchasing power or cross-country rule.",
+      "decision_implication": "Identify employer/external party, broad group/local/entity/country level and relevant service/agreement. Keep operational software access and retained responsibility separate from buying authority.",
+      "confidence_rationale": "Targeted multi-perspective second challenge, source-specific original inspection and independent integrated review; no original fieldwork or validated authority model.",
+      "outstanding_questions": [
+        "Actual effective rights, actions, context and conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-041",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "The mandate described and practical decision-making reported may differ and should remain separate.",
+      "supporting_claim_ids": [
+        "CLM-0285",
+        "CLM-0287",
+        "CLM-0288",
+        "CLM-0289"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Adviser diagnosis and recruiter cases/briefs are bounded source accounts, not independent delegation records, legal judgments or causal verification. Missing powers remain unknown.",
+      "decision_implication": "Preserve what should happen as understood, what was directly done/observed, any reported difference and the knowledge basis; do not manufacture a complete chain or resolve by seniority.",
+      "confidence_rationale": "Targeted multi-perspective second challenge, source-specific original inspection and independent integrated review; no original fieldwork or validated authority model.",
+      "outstanding_questions": [
+        "Actual effective rights, actions, context and conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-042",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "Acceptance and approval require an explicit object.",
+      "supporting_claim_ids": [
+        "CLM-0284",
+        "CLM-0290",
+        "CLM-0291"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Supplier operational permissions and service declarations are not tested corporate controls, signed scopes or proof of authority to buy or accept another work product.",
+      "decision_implication": "Distinguish hours for payment/invoicing, deliverables, handover, payroll output, supplier selection and contractual commitment; establish each actual remit.",
+      "confidence_rationale": "Targeted multi-perspective second challenge, source-specific original inspection and independent integrated review; no original fieldwork or validated authority model.",
+      "outstanding_questions": [
+        "Actual effective rights, actions, context and conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-043",
+      "topic_ids": [
+        "R04"
+      ],
+      "statement": "Relevant affected-party input or external conditions are distinct from internal investment approval.",
+      "supporting_claim_ids": [
+        "CLM-0292",
+        "CLM-0293",
+        "CLM-0294"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Employment-term and monitoring guidance are conditional contexts, not a universal worker veto or compulsory consultation route for software changes. ICO guidance is under review; no employer-specific legal advice inferred.",
+      "decision_implication": "Establish what actually changes, which relevant condition was identified, its basis, owner and state. Consultation, contract agreement and processing consent are not interchangeable.",
+      "confidence_rationale": "Targeted multi-perspective second challenge, source-specific original inspection and independent integrated review; no original fieldwork or validated authority model.",
+      "outstanding_questions": [
+        "Actual effective rights, actions, context and conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-044",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Whole-life resources, future incremental cash and funding affordability answer different questions.",
+      "supporting_claim_ids": [
+        "CLM-0295",
+        "CLM-0296",
+        "CLM-0300",
+        "CLM-0302"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Government social appraisal and educational financial principles are source-scoped; no private rate, horizon, tax treatment or employer forecast is prescribed.",
+      "decision_implication": "Define actual decision, perspective, realistic evolving counterfactual and feasible alternatives. Reconcile resource/cash/funding views; do not confuse historic accountability with forward cash.",
+      "confidence_rationale": "Targeted primary guidance, supplier-declaration and bounded published-case review with independent integrated challenge. No original fieldwork, employer forecast or validated score.",
+      "outstanding_questions": [
+        "Actual requested/supplied evidence, costs, benefits, funding and delivery conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-045",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Benefit type and realisation conditions matter as much as a headline saving.",
+      "supporting_claim_ids": [
+        "CLM-0298",
+        "CLM-0299",
+        "CLM-0301",
+        "CLM-0302",
+        "CLM-0319",
+        "CLM-0320"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Guidance is not an observed payroll saving. Time valued at salary is not automatic cash release; cost avoidance requires an evidenced counterfactual. No fabricated fines or causal attribution.",
+      "decision_implication": "Record baseline, benefit type/status, owner, dependencies, period and overlapping claims. Keep cash, capacity and nonmonetary outcomes distinct.",
+      "confidence_rationale": "Targeted primary guidance, supplier-declaration and bounded published-case review with independent integrated challenge. No original fieldwork, employer forecast or validated score.",
+      "outstanding_questions": [
+        "Actual requested/supplied evidence, costs, benefits, funding and delivery conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-046",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "A public price structure does not establish a customer-specific quote or total relevant cost.",
+      "supporting_claim_ids": [
+        "CLM-0303",
+        "CLM-0304",
+        "CLM-0305",
+        "CLM-0306",
+        "CLM-0307",
+        "CLM-0308"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Selected supplier declarations, dated billing context and public sourcing design are not a negotiated rate, market average, guaranteed remedy, product trial or private procurement mandate.",
+      "decision_implication": "Establish service/unit/quantity and included or unknown work, promotion/renewal, transition/retained resources and exit obligations. Empty calculator zero and conditional credit are not free service or cash recovery.",
+      "confidence_rationale": "Targeted primary guidance, supplier-declaration and bounded published-case review with independent integrated challenge. No original fieldwork, employer forecast or validated score.",
+      "outstanding_questions": [
+        "Actual requested/supplied evidence, costs, benefits, funding and delivery conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-047",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Deliverability includes continuing payroll, usable skills and support as well as project milestones.",
+      "supporting_claim_ids": [
+        "CLM-0309",
+        "CLM-0310",
+        "CLM-0311",
+        "CLM-0312",
+        "CLM-0313",
+        "CLM-0314",
+        "CLM-0315",
+        "CLM-0316",
+        "CLM-0317",
+        "CLM-0318"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Supplier/government design and selected public cases do not prescribe universal gates, a parallel-run duration, staffing need or pay-error tolerance. Positive scoped evidence and dated limitations coexist.",
+      "decision_implication": "Link relevant scope, executed checks, practical learning, capacity, exceptions, ownership and support transition to the actual decision. Keep planned readiness, release and benefit separate.",
+      "confidence_rationale": "Targeted primary guidance, supplier-declaration and bounded published-case review with independent integrated challenge. No original fieldwork, employer forecast or validated score.",
+      "outstanding_questions": [
+        "Actual requested/supplied evidence, costs, benefits, funding and delivery conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-048",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Uncertainty and audit scope limit what a forecast or risk summary can establish.",
+      "supporting_claim_ids": [
+        "CLM-0297",
+        "CLM-0300",
+        "CLM-0301",
+        "CLM-0302",
+        "CLM-0313",
+        "CLM-0314"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "A positive forecast metric is not funding or approval. NAO did not replicate or assure published business-case figures; its March report is not a later assessment of the April-published Synergy summary.",
+      "decision_implication": "Identify decision-changing assumptions, supported sensitivity, material unmonetised conditions and risk owners/mitigations/interactions. Preserve source assurance boundaries and unknowns.",
+      "confidence_rationale": "Targeted primary guidance, supplier-declaration and bounded published-case review with independent integrated challenge. No original fieldwork, employer forecast or validated score.",
+      "outstanding_questions": [
+        "Actual requested/supplied evidence, costs, benefits, funding and delivery conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-049",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Evidence should fit the benefit claim and operating context, with assessment planned before needed data disappears.",
+      "supporting_claim_ids": [
+        "CLM-0299",
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0321",
+        "CLM-0322"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Monitoring is not alone causal attribution; a selected pilot or demonstration is not generalised live performance or cash saving. Magenta/NIST guidance is not an employer impact evaluation or product certification.",
+      "decision_implication": "Track claim provenance/status, baseline/owner/period, deployment conditions and evidence actually requested/supplied/influential. For relevant AI tasks retain quality and review/correction work; no forced experiment or AI audit.",
+      "confidence_rationale": "Targeted primary guidance, supplier-declaration and bounded published-case review with independent integrated challenge. No original fieldwork, employer forecast or validated score.",
+      "outstanding_questions": [
+        "Actual requested/supplied evidence, costs, benefits, funding and delivery conditions in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-050",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "A business case needs a dated option and scope boundary, including its place within a wider programme.",
+      "supporting_claim_ids": [
+        "CLM-0324",
+        "CLM-0325",
+        "CLM-0326",
+        "CLM-0327",
+        "CLM-0340"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Historical public programme findings and adviser guidance are scoped context, not a market trend or retrospective proof that a prior decision was irrational.",
+      "decision_implication": "Record version, material changes, component/wider boundary and next reconsideration point; no universal expiry or reapproval rule.",
+      "confidence_rationale": "User-requested multi-lens primary-source challenge and independent integrated review; bounded qualitative design, not validation or commercial demand proof.",
+      "outstanding_questions": [
+        "Actual evidence, costs, timing, parties and effects in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-051",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Aggregate value does not settle who bears the work or has funds to deliver it.",
+      "supporting_claim_ids": [
+        "CLM-0324",
+        "CLM-0326",
+        "CLM-0328"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Public customer/centre and Synergy arrangements illustrate distribution, not a private-employer transfer mandate or evidence of conflict.",
+      "decision_implication": "Where material identify cost/work/risk bearer, benefit recipient/timing and actual allocation/shortfall authority.",
+      "confidence_rationale": "User-requested multi-lens primary-source challenge and independent integrated review; bounded qualitative design, not validation or commercial demand proof.",
+      "outstanding_questions": [
+        "Actual evidence, costs, timing, parties and effects in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-052",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Service unit, retained work and commitment timing can alter a payroll option without changing its headline label.",
+      "supporting_claim_ids": [
+        "CLM-0329",
+        "CLM-0330",
+        "CLM-0331",
+        "CLM-0332",
+        "CLM-0333",
+        "CLM-0334",
+        "CLM-0335",
+        "CLM-0336",
+        "CLM-0341"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Supplier declarations/terms are not customer quotes, enforceability advice, tested UI or whole-market rules. Version/quantity conflicts remain held; no amounts adopted.",
+      "decision_implication": "Establish actual billable population/transaction, retained work, lifecycle obligation and handback. Separate fees, wage principal and any changed funding timing.",
+      "confidence_rationale": "User-requested multi-lens primary-source challenge and independent integrated review; bounded qualitative design, not validation or commercial demand proof.",
+      "outstanding_questions": [
+        "Actual evidence, costs, timing, parties and effects in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-053",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Existing paid hours and usable decision-critical expertise are different resource claims.",
+      "supporting_claim_ids": [
+        "CLM-0342",
+        "CLM-0343",
+        "CLM-0323"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Educational cash examples and public retained-capability context do not prescribe staffing, a contribution formula or a payroll savings rate.",
+      "decision_implication": "Clarify skill, usable window, extra cover and displaced work rather than infer peak readiness from annual hours or cash savings from salary allocations.",
+      "confidence_rationale": "User-requested multi-lens primary-source challenge and independent integrated review; bounded qualitative design, not validation or commercial demand proof.",
+      "outstanding_questions": [
+        "Actual evidence, costs, timing, parties and effects in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-054",
+      "topic_ids": [
+        "R05"
+      ],
+      "statement": "Benchmarks and elicited model advice must match the evidence claim they can support.",
+      "supporting_claim_ids": [
+        "CLM-0337",
+        "CLM-0338",
+        "CLM-0339",
+        "CLM-0341"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Salary methods/populations and declared services differ. Prior C prompts ask for evidence, so repeated verification advice is not independent buyer-priority corroboration.",
+      "decision_implication": "Retain edition/period/role/geography/pay basis/population and actual assignment evidence. Keep salary, resource, output, availability, funding and realised benefit separate; unaided cases first.",
+      "confidence_rationale": "User-requested multi-lens primary-source challenge and independent integrated review; bounded qualitative design, not validation or commercial demand proof.",
+      "outstanding_questions": [
+        "Actual evidence, costs, timing, parties and effects in permissioned practitioner cases."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-055",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Staying and changing require the actual product/service/route/organisational object, rather than a binary supplier label.",
+      "supporting_claim_ids": [
+        "CLM-0344",
+        "CLM-0346",
+        "CLM-0347",
+        "CLM-0364",
+        "CLM-0365"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Selected public employer contexts do not establish private-market prevalence, complete contract execution or general supplier outcomes.",
+      "decision_implication": "Record the relevant changed and retained components; keep selected/retained option separate from dated disposition, delivery and benefit.",
+      "confidence_rationale": "Targeted primary employer/notice/guidance and method-scoped survey review with independent integrated challenge; selected desktop contexts, no original fieldwork or validated taxonomy/remedy.",
+      "outstanding_questions": [
+        "Original permissioned recent cases, including explicit private-employer decline/withdrawal, actual alternatives and effect of adopted responses."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-056",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Continuity can reflect service merit, constraints or both without establishing irrational inertia or permanent lock-in.",
+      "supporting_claim_ids": [
+        "CLM-0345",
+        "CLM-0346",
+        "CLM-0348",
+        "CLM-0355",
+        "CLM-0356"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Employer rationales and survey labels do not expose every internal alternative/preference or prove an optimal choice.",
+      "decision_implication": "Obtain unaided reason, feasible alternatives, timing and next review if known; preserve satisfactory/no-material-gap and smaller-change routes.",
+      "confidence_rationale": "Targeted primary employer/notice/guidance and method-scoped survey review with independent integrated challenge; selected desktop contexts, no original fieldwork or validated taxonomy/remedy.",
+      "outstanding_questions": [
+        "Original permissioned recent cases, including explicit private-employer decline/withdrawal, actual alternatives and effect of adopted responses."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-057",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Approval, postponed release, scoped access and observed processing are different dated states.",
+      "supporting_claim_ids": [
+        "CLM-0344",
+        "CLM-0345",
+        "CLM-0346",
+        "CLM-0349",
+        "CLM-0350",
+        "CLM-0364",
+        "CLM-0365"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Public decision labels and management announcements are not signed commitments, complete operational assurance, cash savings or causal benefit evidence.",
+      "decision_implication": "Use the relevant event/object/as-of date. A rollout delay does not automatically change proposal disposition; source silence does not establish pending or no approval required.",
+      "confidence_rationale": "Targeted primary employer/notice/guidance and method-scoped survey review with independent integrated challenge; selected desktop contexts, no original fieldwork or validated taxonomy/remedy.",
+      "outstanding_questions": [
+        "Original permissioned recent cases, including explicit private-employer decline/withdrawal, actual alternatives and effect of adopted responses."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-058",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "A stopped component or cancelled advance notice does not establish abandonment of the whole payroll need.",
+      "supporting_claim_ids": [
+        "CLM-0351",
+        "CLM-0352",
+        "CLM-0353",
+        "CLM-0354",
+        "CLM-0362"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "NICS2001 is historical component context outside recent fieldwork; NZ advance-notice status has unknown cancellation date/reason and does not commence a tender. Guidance is not an observed employer stop.",
+      "decision_implication": "Establish exact object, what continued, remaining obligations and later state. A reasoned stop can be legitimate, but no hindsight or guaranteed remedy is inferred.",
+      "confidence_rationale": "Targeted primary employer/notice/guidance and method-scoped survey review with independent integrated challenge; selected desktop contexts, no original fieldwork or validated taxonomy/remedy.",
+      "outstanding_questions": [
+        "Original permissioned recent cases, including explicit private-employer decline/withdrawal, actual alternatives and effect of adopted responses."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-059",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Exact survey question, route and population determine whether evidence describes current operation, intent, stated value or reported experience.",
+      "supporting_claim_ids": [
+        "CLM-0355",
+        "CLM-0356",
+        "CLM-0357",
+        "CLM-0358",
+        "CLM-0359",
+        "CLM-0360",
+        "CLM-0361"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "No stated trigger, preferred model or conditional premium establishes an actual switch/funded purchase. Overall country samples differ from item-valid bases; conflicts and source interests remain.",
+      "decision_implication": "Keep current/preferred delivery, satisfaction, exploration, tendering, experience and hypothetical trigger distinct. Do not derive buyer outcome prevalence/conversion or causal barriers from mixed populations.",
+      "confidence_rationale": "Targeted primary employer/notice/guidance and method-scoped survey review with independent integrated challenge; selected desktop contexts, no original fieldwork or validated taxonomy/remedy.",
+      "outstanding_questions": [
+        "Original permissioned recent cases, including explicit private-employer decline/withdrawal, actual alternatives and effect of adopted responses."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-060",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Possible responses, actual actions and assessed effects need separate evidence.",
+      "supporting_claim_ids": [
+        "CLM-0354",
+        "CLM-0363",
+        "CLM-0365",
+        "CLM-0366"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Specific guidance can identify a relevant control without proving actual employer reason or successful mitigation. Selected public contexts do not validate a sales-conversion recipe.",
+      "decision_implication": "Link response to the actual condition/object/authority/timing, respect legitimate stop/retention and preserve missingness. Original private-employer decline/withdrawal and remedy-effect cases remain required evidence gaps.",
+      "confidence_rationale": "Targeted primary employer/notice/guidance and method-scoped survey review with independent integrated challenge; selected desktop contexts, no original fieldwork or validated taxonomy/remedy.",
+      "outstanding_questions": [
+        "Original permissioned recent cases, including explicit private-employer decline/withdrawal, actual alternatives and effect of adopted responses."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-061",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Feasible alternatives and shared upstream conditions need the actual dated decision context.",
+      "supporting_claim_ids": [
+        "CLM-0367",
+        "CLM-0368",
+        "CLM-0369",
+        "CLM-0370",
+        "CLM-0378"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "One continuing public programme and supplier declarations do not prove a market trend, earlier irrationality or that another supplier could not resolve the condition.",
+      "decision_implication": "Identify actual available alternatives, conditions that persist across options and what maintaining service during change requires.",
+      "confidence_rationale": "User-requested targeted primary-source challenge with scoped peer review and root checks; no independent full integration audit, original fieldwork, forecast or validated remedy.",
+      "outstanding_questions": [
+        "Actual permissioned recent choices, later outcomes, counterpart commitments, retained knowledge and usable user continuity."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-062",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "The last evidenced state is not an ultimate or automatically current outcome.",
+      "supporting_claim_ids": [
+        "CLM-0368",
+        "CLM-0371"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "A forecast whose date passed is not observed completion, continued delay or abandonment. Document dates and public authorisations are not independent employers.",
+      "decision_implication": "Record the last substantive event, event/publication/knowledge dates and observation boundary; add later outcomes only when supported.",
+      "confidence_rationale": "User-requested targeted primary-source challenge with scoped peer review and root checks; no independent full integration audit, original fieldwork, forecast or validated remedy.",
+      "outstanding_questions": [
+        "Actual permissioned recent choices, later outcomes, counterpart commitments, retained knowledge and usable user continuity."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-063",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Live operation, historical evidence access and usable receiving arrangements have different lifecycle conditions.",
+      "supporting_claim_ids": [
+        "CLM-0372",
+        "CLM-0373",
+        "CLM-0374",
+        "CLM-0375",
+        "CLM-0376",
+        "CLM-0377",
+        "CLM-0378"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Supplier declarations are not actual customer migrations, permanent secure archives, tested exports, universal notice periods or legal obligations to buy a promoted replacement.",
+      "decision_implication": "Clarify applicable product and support, commitment, access/export, receiving setup/permissions and first live run with relevant dates/owners. Same supplier need not mean same product.",
+      "confidence_rationale": "User-requested targeted primary-source challenge with scoped peer review and root checks; no independent full integration audit, original fieldwork, forecast or validated remedy.",
+      "outstanding_questions": [
+        "Actual permissioned recent choices, later outcomes, counterpart commitments, retained knowledge and usable user continuity."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-064",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Employer commitment, other-party agreement/start and knowledge retained after a talent engagement are different events.",
+      "supporting_claim_ids": [
+        "CLM-0379",
+        "CLM-0380",
+        "CLM-0381",
+        "CLM-0382"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Declared recruitment process, finance advice and a qualified case reuse do not establish available candidates, actual buyer demand, hiring necessity or effective handover. Prior prompts already assume staffing/change routes.",
+      "decision_implication": "For a relevant talent case identify whose agreement affected progress and what practical knowledge/ownership remained. Do not prescribe a permanent replacement, standard duration or hiring-freeze bypass.",
+      "confidence_rationale": "User-requested targeted primary-source challenge with scoped peer review and root checks; no independent full integration audit, original fieldwork, forecast or validated remedy.",
+      "outstanding_questions": [
+        "Actual permissioned recent choices, later outcomes, counterpart commitments, retained knowledge and usable user continuity."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-065",
+      "topic_ids": [
+        "R06"
+      ],
+      "statement": "Completion should be assessed for the affected user and task as well as the contract or service owner.",
+      "supporting_claim_ids": [
+        "CLM-0383",
+        "CLM-0384",
+        "CLM-0385",
+        "CLM-0377"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "GDS guidance and one scoped self-service declaration do not prove actual access, harm, an available archive or a private-employer mandatory retirement/retention policy.",
+      "decision_implication": "Where material establish current task, needed historical evidence, channel and receiving help/ownership. No new user cohort/interviews or unlimited archive required.",
+      "confidence_rationale": "User-requested targeted primary-source challenge with scoped peer review and root checks; no independent full integration audit, original fieldwork, forecast or validated remedy.",
+      "outstanding_questions": [
+        "Actual permissioned recent choices, later outcomes, counterpart commitments, retained knowledge and usable user continuity."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-066",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "Published priority measures do not supply one common ranking of funded payroll investment.",
+      "supporting_claim_ids": [
+        "CLM-0386",
+        "CLM-0387",
+        "CLM-0388",
+        "CLM-0389",
+        "CLM-0390"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Composite status, manages-or-invests framing, separate AI marginal statements and feature desire have different units and populations. No common funding denominator or sequential conversion is established.",
+      "decision_implication": "Preserve the exact measure, unit, horizon and source. Establish the concrete priority and actual commitment separately; do not average lists or infer a buying pipeline.",
+      "confidence_rationale": "Targeted original/item/guidance review, explicit source reuses and independent integrated desktop challenge. No original fieldwork, representative funded-priority ranking, forecast or validated priority score.",
+      "outstanding_questions": [
+        "Actual permissioned priorities, known authority/resources, context and outcomes; achieved and missing case coverage."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-067",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "Personal development, employer support and usable organisational resources are different claims.",
+      "supporting_claim_ids": [
+        "CLM-0391",
+        "CLM-0393",
+        "CLM-0404",
+        "CLM-0408"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "A qualification plan or employer offer does not prove funding paid, completed learning, useful capacity or a successful programme. Undisclosed amounts are not evidence of no funding.",
+      "decision_implication": "Under existing selective probes record whose priority and known recurring/new resources, protected time and dependencies, without requiring confidential documents or a separate project budget.",
+      "confidence_rationale": "Targeted original/item/guidance review, explicit source reuses and independent integrated desktop challenge. No original fieldwork, representative funded-priority ranking, forecast or validated priority score.",
+      "outstanding_questions": [
+        "Actual permissioned priorities, known authority/resources, context and outcomes; achieved and missing case coverage."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-068",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "Context can explain relevant payroll work without establishing a size, sector or country priority ranking.",
+      "supporting_claim_ids": [
+        "CLM-0394",
+        "CLM-0395",
+        "CLM-0396",
+        "CLM-0397",
+        "CLM-0398"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Official conditional guidance and one employer timing account are mechanisms and scoped context, not measured subgroup investment differences, legal determinations or a complexity score.",
+      "decision_implication": "Use six optional context dimensions only where material; preserve contributor remit, actual task and timing rather than infer need from employer labels.",
+      "confidence_rationale": "Targeted original/item/guidance review, explicit source reuses and independent integrated desktop challenge. No original fieldwork, representative funded-priority ranking, forecast or validated priority score.",
+      "outstanding_questions": [
+        "Actual permissioned priorities, known authority/resources, context and outcomes; achieved and missing case coverage."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-069",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "External planning signals and internal organisational commitment require separate dated evidence.",
+      "supporting_claim_ids": [
+        "CLM-0399",
+        "CLM-0400",
+        "CLM-0401",
+        "CLM-0402",
+        "CLM-0403",
+        "CLM-0404",
+        "CLM-0405"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Current guidance, interim future phases, declared service dates and a published programme account do not establish actual employer readiness, resourcing, later spend or realised benefit. No rates, full statute assurance, forecasts or product tests are supplied.",
+      "decision_implication": "Record applicability and operative/interim/future status, then the actual known employer decision/resources/delivery. Recheck current detail before final use and do not sell a mandatory platform/provider/hire from a headline.",
+      "confidence_rationale": "Targeted original/item/guidance review, explicit source reuses and independent integrated desktop challenge. No original fieldwork, representative funded-priority ranking, forecast or validated priority score.",
+      "outstanding_questions": [
+        "Actual permissioned priorities, known authority/resources, context and outcomes; achieved and missing case coverage."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-070",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "A case contrast, contextual mechanism, later hypothesis and unestablished group difference are different analytical claims.",
+      "supporting_claim_ids": [
+        "CLM-0406",
+        "CLM-0407",
+        "CLM-0408",
+        "CLM-0409"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "A small purposive cohort is not a representative subgroup survey; absent coverage is neither zero need nor equality. Mechanisms do not by themselves prove a causal explanation.",
+      "decision_implication": "Compare work, scope, horizon and measure; retain alternative explanations and contrary cases. Preserve empty observation templates until permissioned original contributions exist.",
+      "confidence_rationale": "Targeted original/item/guidance review, explicit source reuses and independent integrated desktop challenge. No original fieldwork, representative funded-priority ranking, forecast or validated priority score.",
+      "outstanding_questions": [
+        "Actual permissioned priorities, known authority/resources, context and outcomes; achieved and missing case coverage."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-071",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "A newly identified feature-chart conflict can be excluded numerically while preserving the question\u2019s qualitative meaning.",
+      "supporting_claim_ids": [
+        "CLM-0390",
+        "CLM-0392"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Moorepay branding/customisation has prose13 versus chart12; neither is reconciled or selected. The narrow conflict does not establish that every other value is incorrect.",
+      "decision_implication": "Keep CLM-0392 on hold_numeric_reuse, use no feature percentages here, and preserve all earlier holds.",
+      "confidence_rationale": "Targeted original/item/guidance review, explicit source reuses and independent integrated desktop challenge. No original fieldwork, representative funded-priority ranking, forecast or validated priority score.",
+      "outstanding_questions": [
+        "Actual permissioned priorities, known authority/resources, context and outcomes; achieved and missing case coverage."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-072",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "A recurring priority or later phase does not by itself establish failed progress, low importance or absent funding.",
+      "supporting_claim_ids": [
+        "CLM-0410",
+        "CLM-0411",
+        "CLM-0412",
+        "CLM-0413"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "CIPP cross-edition measures/populations do not form a matched pipeline. LFB supplies declared phase dependency and sequence within one existing combined programme, not later outcomes or an optimal plan.",
+      "decision_implication": "Selectively retain whether the work is new, continuing, re-scoped or re-timed and the actual last evidenced state/reason. Do not reconstruct history from an old target.",
+      "confidence_rationale": "User-requested multi-lens second challenge with independent integrated desktop review, bounded primary/reader evidence and327 exact earlier-study linkage checks. No original fieldwork, market estimates, tested remedy or final-use approval.",
+      "outstanding_questions": [
+        "Actual eligible permissioned cases, priority origins/sequences/resources/access, chosen alternatives, affected-party evidence and next-action reasons."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-073",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "The next action may depend on sequence and capacity alongside ongoing work rather than importance alone.",
+      "supporting_claim_ids": [
+        "CLM-0412",
+        "CLM-0413",
+        "CLM-0425",
+        "CLM-0427"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "One declared programme sequence and normative government guidance do not prove private-employer practice, a rejected/unfunded priority, a capacity estimate or a universal sequence.",
+      "decision_implication": "Where material establish the actual dependency, controlling party, operating work and next review/decision; no full portfolio or rank required.",
+      "confidence_rationale": "User-requested multi-lens second challenge with independent integrated desktop review, bounded primary/reader evidence and327 exact earlier-study linkage checks. No original fieldwork, market estimates, tested remedy or final-use approval.",
+      "outstanding_questions": [
+        "Actual eligible permissioned cases, priority origins/sequences/resources/access, chosen alternatives, affected-party evidence and next-action reasons."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-074",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "Advertised inclusion, actual account access, released capability and useful operation are different priority facts.",
+      "supporting_claim_ids": [
+        "CLM-0414",
+        "CLM-0415",
+        "CLM-0416",
+        "CLM-0417",
+        "CLM-0418"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Supplier feature/setup/update/route descriptions are not tested entitlement, local setup, zero total cost, shipped future functionality, funded customer work or market prevalence.",
+      "decision_implication": "Define the actual account/service/task, known access and availability/use and whose action/outcome is involved. Preserve future declarations and unknowns.",
+      "confidence_rationale": "User-requested multi-lens second challenge with independent integrated desktop review, bounded primary/reader evidence and327 exact earlier-study linkage checks. No original fieldwork, market estimates, tested remedy or final-use approval.",
+      "outstanding_questions": [
+        "Actual eligible permissioned cases, priority origins/sequences/resources/access, chosen alternatives, affected-party evidence and next-action reasons."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-075",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "Needed work and capability should be separated from a preselected hiring, tool or learning response.",
+      "supporting_claim_ids": [
+        "CLM-0419",
+        "CLM-0420",
+        "CLM-0421",
+        "CLM-0422",
+        "CLM-0423",
+        "CLM-0424"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "Recruiter advice, one hosted account, commentary, salary-input methods and service propositions do not prove funded demand, candidates, salary costs or remedy effectiveness. Four earlier prompts explicitly choose hiring and particular role/geography/team premises.",
+      "decision_implication": "Keep mentoring, process, retention and adequate existing capability among possible case responses. Define actual work/remit, distinguish team/employer and headquarters/workbase/jurisdiction, and obtain unaided priorities before constructed examples.",
+      "confidence_rationale": "User-requested multi-lens second challenge with independent integrated desktop review, bounded primary/reader evidence and327 exact earlier-study linkage checks. No original fieldwork, market estimates, tested remedy or final-use approval.",
+      "outstanding_questions": [
+        "Actual eligible permissioned cases, priority origins/sequences/resources/access, chosen alternatives, affected-party evidence and next-action reasons."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    },
+    {
+      "finding_id": "FND-076",
+      "topic_ids": [
+        "R07"
+      ],
+      "statement": "A contributor\u2019s priority and another party\u2019s task, outcome or control need separate knowledge and evidence.",
+      "supporting_claim_ids": [
+        "CLM-0418",
+        "CLM-0426",
+        "CLM-0428"
+      ],
+      "contradicting_claim_ids": [],
+      "participant_observation_ids": [],
+      "interpretation": "A bureau route or normative service framework does not establish misalignment, user satisfaction, a contractual obligation or independent affected-user evidence.",
+      "decision_implication": "Selectively identify whose outcome and next action matter, retaining direct-knowledge/disclosure boundaries. No additional interviews, cohort expansion or assumed stakeholder conflict.",
+      "confidence_rationale": "User-requested multi-lens second challenge with independent integrated desktop review, bounded primary/reader evidence and327 exact earlier-study linkage checks. No original fieldwork, market estimates, tested remedy or final-use approval.",
+      "outstanding_questions": [
+        "Actual eligible permissioned cases, priority origins/sequences/resources/access, chosen alternatives, affected-party evidence and next-action reasons."
+      ],
+      "publication_status": "internal_research_design",
+      "reviewed_on": "2026-10-29"
+    }
+  ]
+}

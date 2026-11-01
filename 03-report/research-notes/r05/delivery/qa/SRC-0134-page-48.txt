@@ -1,0 +1,43 @@
+3. Oracle Cloud implementation | 48 
+ 
+delivered. This was informed by a training needs analysis to identify user 
+requirements including course content, coverage and delivery methods. 
+147.  Our review of the training and guidance available to users, prior to and 
+since go-live, noted that a significant volume of training was available to users 
+which was widely accessed and attended. Based on feedback obtained by the 
+Scottish Government this was well-received and beneficial to users. However, 
+the feedback also indicated that users would have benefitted from more hands-
+on / practical experience of using the system. This was echoed in the feedback 
+from user bodies collected by the audit team, discussed at paragraphs 154. to 
+156. , which highlighted concerns in respect of the training and guidance 
+available, most notably: 
+• a lack of training provided in specific areas such as the fixed asset 
+module and generating reports 
+• that training was too basic and did not adequately cover the more 
+complex scenarios that user bodies would face  
+• concerns about the ongoing resource impact of staff trying to 
+understand how to perform functions that were not adequately 
+covered by the training or guidance provided. 
+148.  We noted from review of the training plan that there were no forms of 
+training available before 1 August 2024. Given the scale of the change from the 
+old systems to the new Oracle Cloud platform it would have been preferable for 
+users to have a longer period to complete training and familiarise themselves 
+with the requirements of the new system prior to go-live. This would also have 
+helped smaller user bodies manage the resource impact of the volume of 
+training that had to be completed. 
+149.  We are aware that management has committed to improve the online 
+training materials available. Training is also being developed for the roll out of 
+additional features of Oracle Cloud such as the various EPM reporting modules 
+and Oracle Guided Learning for Recruitment. Management also recognise that 
+there is a need for staff to invest time in upskilling themselves on the features of 
+the new system, and the wide range of powerful functions available to users via 
+the self-serve functionality, which will continue to expand over time. 
+The Scottish Government was not prepared for the volume 
+of iFix support tickets raised during implementation and 
+further action is required to clear the backlog of tickets 
+150.  As part of the Oracle Cloud implementation the following process was 
+established for identifying, documenting, and resolving issues: 
+• Platform Management team within the Corporate Hub lead on 
+platform updates, in collaboration with Digital Operations.  
+• Customers who experienced issues raised a support ticket through 
+iFix or HR Online. There were processes in place to manage 

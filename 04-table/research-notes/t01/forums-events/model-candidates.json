@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "status": "candidate_records_only",
+  "records": [
+    {
+      "model_id": "MODEL-05",
+      "category": "Senior payroll forum",
+      "comparable_product": "PayrollOrg CPO Forum within The Payroll Community, with CPO editorial subscription",
+      "selected_reason": "An ongoing invite-only senior-payroll peer mechanism plus a no-cost editorial offer; distinct from a general paid professional association, broad training summit or event-access brokerage.",
+      "core_source_candidate_ids": [
+        "T1FE-S01",
+        "T1FE-S02",
+        "T1FE-S03",
+        "T1FE-S04"
+      ],
+      "verification_source_candidate_ids": [
+        "T1FE-S10"
+      ],
+      "fee": {
+        "forum_fee": null,
+        "forum_unit": "not publicly established",
+        "editorial_subscription_price": 0,
+        "currency": null,
+        "subscription_unit": "quarterly email publication",
+        "vat_status": "not stated; no paid price used"
+      },
+      "current_status": "Live public offer reviewed 29 October 2026; forum launch reported October 2025, public review January 2026.",
+      "financial_inference": "No public funding allocation, sponsor forum-access price, conversion, retention or margin verified. No direct comparator price for The Table.",
+      "research_note": "MODEL-05-SENIOR-PAYROLL-FORUM.md",
+      "claim_candidate_ids": [
+        "T1FE-C01",
+        "T1FE-C02",
+        "T1FE-C03",
+        "T1FE-C04",
+        "T1FE-C05",
+        "T1FE-C06",
+        "T1FE-C16"
+      ],
+      "screened_alternatives": [
+        {
+          "name": "GPA Payroll Summit 2026",
+          "url": "https://gpa.net/pages/gpasummit26",
+          "decision": "Broader payroll/HR conference and exhibition; dated 5 March 2026 (past); less precise evidence for ongoing senior-only peer exchange. Screening only, not fully audited."
+        },
+        {
+          "name": "CIPP Public Sector Pay Forum 2026",
+          "url": "https://www.cipp.org.uk/events/public-sector-pay-forum.html",
+          "decision": "Sector-specific one-day forum dated 16 July 2026 (past), not senior-only; useful learning alternative but weaker match to global payroll leadership."
+        },
+        {
+          "name": "PayrollOrg Executive Summit 2026",
+          "url": "https://payroll.org/news-resources/news/news-detail/2026/08/17/ai-talent-trust-take-center-stage-at-payroll%27s-executive-summit",
+          "decision": "Strong senior-payroll live event but retrospective account, not an ongoing admission/price offer. Used to discover CPO rather than assign an extra dinner/event model."
+        }
+      ],
+      "candidate_id": "MODEL-05"
+    },
+    {
+      "model_id": "MODEL-06",
+      "category": "Sponsor-funded executive event",
+      "comparable_product": "iVentiv Learning Futures London Executive Knowledge Exchange, 17–18 November 2026",
+      "selected_reason": "Concrete forthcoming event plus unusually explicit public free-admission, sponsor meeting/contact, input and privacy mechanics. Audience is L&D, enabling mechanism comparison without claiming a payroll competitor.",
+      "core_source_candidate_ids": [
+        "T1FE-S05",
+        "T1FE-S06",
+        "T1FE-S07",
+        "T1FE-S08"
+      ],
+      "supplemental_terms_source_candidate_ids": [
+        "T1FE-S09"
+      ],
+      "fee": {
+        "qualified_delegate_price": 0,
+        "currency": null,
+        "delegate_unit": "approved event place; excludes travel/accommodation",
+        "sponsor_price": null,
+        "sponsor_unit": "Business Development / Plenary package per event; annual tier requires 8+ in-person events",
+        "vat_status": "No public sponsor amount or VAT basis established"
+      },
+      "current_status": "Future London event announced for 17–18 November 2026 as of 29 October. No delivered attendance or sponsor meetings claimed.",
+      "financial_inference": "Partner support is explicit, price and achieved commercial results are unknown. Generic published event payment intervals conflict and cannot anchor JGA funding timing.",
+      "research_note": "MODEL-06-SPONSOR-FUNDED-EXECUTIVE-EVENT.md",
+      "claim_candidate_ids": [
+        "T1FE-C07",
+        "T1FE-C08",
+        "T1FE-C09",
+        "T1FE-C10",
+        "T1FE-C11",
+        "T1FE-C12",
+        "T1FE-C13",
+        "T1FE-C14",
+        "T1FE-C15",
+        "T1FE-C17"
+      ],
+      "screened_alternatives": [
+        {
+          "name": "Quartz Network HR Leadership Summit / complimentary qualified-executive membership",
+          "url": "https://quartznetwork.com/events",
+          "secondary_url": "https://quartznetwork.com/membership",
+          "decision": "Viable larger cross-functional alternative. iVentiv selected because public package, FAQ, privacy and terms give clearer auditable rights and boundaries for a small facilitated exchange. No assertion Quartz lacks these elsewhere; screening only."
+        },
+        {
+          "name": "iVentiv Payroll Transformation",
+          "url": null,
+          "decision": "Candidate name not verified in current primary event catalogue. No payroll-specific iVentiv product claimed."
+        },
+        {
+          "name": "Australian Payroll Association Payroll Summit Melbourne 2026",
+          "url": "https://austpayroll.com.au/summit-exhibitors-melbourne-2026",
+          "decision": "Explicit paid sponsor inventory, but broad conference/exhibition and dated 8 October 2026 (past), rather than the chosen free-qualified-executive mechanism."
+        }
+      ],
+      "candidate_id": "MODEL-06"
+    }
+  ]
+}

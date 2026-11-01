@@ -1,0 +1,315 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r05/economics/captures/SRC-0005.html",
+      "sha256": "67495ed0ac3518b983a8f7c168db03e66fa21062a9fe811f56b950c4f9424432",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/SRC-0005.txt",
+      "sha256": "33dc05aa41d8d44456f5e33d0fa40cba069b35cdf17f9efdd0a0d4c45d0e38b3",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S01.html",
+      "sha256": "33facbda736b2e661f6466453f21c2502fc35803ce2dd2f7cb77eeb931c08e96",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S01.txt",
+      "sha256": "d3f9863f1b31ac9ca290e41f7fef5228a591b81d3497fa01659baf23070fd5fe",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S02.html",
+      "sha256": "4142147fb9687e8f340d2ebca2555d5c155fe58f877155f4593c53bd70fd7106",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S02.txt",
+      "sha256": "d324f50801b48be5d5bccc9d6d4275253605770db173f719787f10138dca3fea",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S03.html",
+      "sha256": "97fa351ea67ea649697aa533c53b956a19c8297bbecda1bfee7ed4868c04e09d",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/captures/ECO5-S03.txt",
+      "sha256": "355fdb9bb7454bf583ac06e23c88191bf65b905ea7d2f7dba847b82a90bcec87",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/ECONOMICS-EVIDENCE.md",
+      "sha256": "1dc9d3c0aada07d6e912b879dc61a4cdd2ec6bb6a553898d7dd8b181a938f3d5",
+      "kind": "internal_research_note"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/capture-log.json",
+      "sha256": "a8b4ed8902f7bc7e26eb3b9312d42f6343504eb2ae4bfa5289cb0676407e1576",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/claim-candidates.json",
+      "sha256": "c9e7d4bd24cf75b3d02d45173037c2a2e99caf89f900f18038f56c7a30387b4f",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/review-log.json",
+      "sha256": "eab2aa1e241fc03504f2f45144de94fd4444bba8b01a21bda23ea030842d2bc7",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/economics/source-candidates.json",
+      "sha256": "fad3a946295ff8d0df253479c6b54ade0628c6bf5e8240db711ae1bfc50bbd87",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S02.html",
+      "sha256": "c4af381f950d20367f77e50a3fb112c961a766fb27df67ad6552e366b476da81",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S02.txt",
+      "sha256": "25323d776f9eedfc531e76f39d619086b7dbdfd15990856c36e9b37f2d46f944",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S03.html",
+      "sha256": "18cd9dcc8a4ad328ddb8e63f43df5fd6254d6683b213c4b7cc591748fccd0ff7",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S03.txt",
+      "sha256": "5eec71da2b81da64d7b2acc3c579aa95cb92e1ec94fb75de7e23876856031cda",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0109.html",
+      "sha256": "768d87ffcb9f56f94653abef157cff4e5f743784663a252d34cd70b35ddb7f1e",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0109.txt",
+      "sha256": "0a31de72af3fa4752ce8397de986c8ffe27ef546b96f429e4cddef56986f312e",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0077.html",
+      "sha256": "c31e8cdcb1db4d5f2d81c5ac561ff27f68551a9e8c1ee274644549128e65f7a4",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/SRC-0077.txt",
+      "sha256": "d9b230d9f6d4a93d9b3856a322b268ffb03c8c7a22e88c2459f21510a5e51a7a",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/BRIGHT-LEGACY-FAQ.html",
+      "sha256": "bf5d4bc24553be5a3b6224ea8b9bc77cdb38e9431fd2be168d58c6e542b87476",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/BRIGHT-LEGACY-FAQ.txt",
+      "sha256": "27bfbcbfe9473b22348e4c56de89fba6f564ce0b33c946bbf363be3f4b644208",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/captures/R5COM-S01-selected-reader-extract.txt",
+      "sha256": "0c72b4281dc8941e23bea305db9fe202464ebb2e6a2a128718e9bf444de1a914",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/COMMERCIAL-COST-EVIDENCE.md",
+      "sha256": "bd0d65e96d318b15a777f5b6e955537cc42e07e99929374f0ce21810cdabe81d",
+      "kind": "internal_research_note"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/capture-log.json",
+      "sha256": "abf18046034ca0f219625d153cd946fd35b64308d6fbca3983f2278e355c7caf",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/claim-candidates.json",
+      "sha256": "47da4e91d53b14ff1e45dde43b94d80c189879dade3ba8ef796486330e7f4b61",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/review-log.json",
+      "sha256": "cc0f605b9f24445925e7bf419c07074aae8abcff67c71cb78e1e9d1310402cab",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/commercial/source-candidates.json",
+      "sha256": "61a3925e840c14d1260b56ddabf6ce03694744e9c765a3ff55d674d1222cf59b",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.html",
+      "sha256": "9d31cb9c1e2b73380063967db02a9dccdb6b39f9a194658389bdfc6dd242bdb8",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S01.txt",
+      "sha256": "bf5abcc73140001863f3f580b0aad39de1daadb72345a0f6038edd7a0dfaebb2",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.html",
+      "sha256": "4d8a429ad79c435a1a8a6c4f0bdaa3a06bd6c9dcd92d4ae0f4e53ca74bbda4f8",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/R5DEL-S02.txt",
+      "sha256": "dae4e164fb6f20d0d2470af48a110ac428e3046eeeb36ca6c306e2706c659778",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0075.html",
+      "sha256": "6fc07b7c779faadfeaedce2de0eeec233e181b558885488794ba95fbd3cc6c1f",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0075.txt",
+      "sha256": "e7a9630e8ea0de829213d5b38ba45eac30349301da4fb06a1372457eba699de9",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/captures/SRC-0076.pdf",
+      "sha256": "1eb78842927f9ca9e1c7c24e281a1c30fac9e510b6d12f6fc70d6532c3199ea8",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03/cases/parliament-accounts-2024-25.pdf",
+      "sha256": "777ffd7fada746264986c6bb431c7355487867f0f601677c9d00ae6fd524a511",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/DELIVERY-READINESS-EVIDENCE.md",
+      "sha256": "407016c845ef7bce843693c7912be283bba29e4ef8f3b76a42375ac51830dfa4",
+      "kind": "internal_research_note"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/capture-log.json",
+      "sha256": "3c97714c4c23ce91f6f385dc9eb46b3e91df8ae681cee0946ee483ea4cedf8e0",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/claim-candidates.json",
+      "sha256": "38808806cde230798c4d5864f45e50e9dc16678f0a877748bafcad03e038ef06",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-21.png",
+      "sha256": "39149751997a2026960caccb4f3dc2ec23ec99cc8b3b14ac5385fd38d3b77dc5",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-21.txt",
+      "sha256": "8a10df881f2fd97e1c3d79cb43bc49ae64dc0a95a6a15dfcb3fdcd1fbd034d5a",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-27.txt",
+      "sha256": "7b0c66d5950ff657a72a8443b7836fb1b4c69156a50bc5cb1a9db071f926dc70",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-40.txt",
+      "sha256": "fa2f67ef59e91ef63944be6cb668443239357818f1ae8e050525810c203e8109",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-41.png",
+      "sha256": "ee9b389e6d4e48ad3c51468048c675c6c83d6cbcbb218ca58e56dbe2a35390b9",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-41.txt",
+      "sha256": "104ec5eee7af198835db5872ce6199bf5dc6f4bdebf0de0636cb14e71c4dd962",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-43.txt",
+      "sha256": "064bd891356cd9035eacebb92487e162d132187d753e63576152bae163e57446",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-46.txt",
+      "sha256": "1114291d05b710e3af7ca46ab9198a7c0487694e503181c4550e13cf6e9df8b4",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-47.png",
+      "sha256": "64bbc3a01dc9b11ad2bd355edbe3b2c9884c236177eef1574d2c85696031c2bc",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-47.txt",
+      "sha256": "a2c8c24a5bdb1cf2c3ae137e4142b1b135e0dba07cd12447679f4b9642ec3527",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-48.png",
+      "sha256": "958c303fe95acfbc0d7e86ddd69420952b569a4567921f47cbeb4df1f152ebc6",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-48.txt",
+      "sha256": "bee8777dac22ceb4567d93200d502e5679d3de35cd6fa699b4f6a37775f3bf5d",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-50.txt",
+      "sha256": "ba64149cae723fdbe9ef3717c915af33218186fed00f308de6880dc594272744",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-55.png",
+      "sha256": "6abf5389fd90560dba3a96f42c3884b4f1c60783c4d5fd33eddedf81535fe829",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-55.txt",
+      "sha256": "2b12bf9a1e47759171ea620f68a4baa942daf3867ff7291bfdb7370b9ba6a7c4",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0135-page-38.png",
+      "sha256": "de6eafda1e365d792e128c0d02d5a34b6868dafa6046059102fb9267d2975c9f",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0135-page-38.txt",
+      "sha256": "2b9f05c076a6c78196345f9bb75202328e68ed12a7014821f09529780a6174f5",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/review-log.json",
+      "sha256": "a0f7cea5f77c4a354ae7bdf454a4f13c99fa500104138861211024720ed9bb74",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/delivery/source-candidates.json",
+      "sha256": "8511bbda4f2f66447f197cc4e1a3a8f0bf4bbb774c84e5c2880c7a7e91a83f2e",
+      "kind": "internal_record"
+    },
+    {
+      "path": "03-report/research-notes/r05/root/R5ROOT-S01.html",
+      "sha256": "1642a6d1a4ab69fb4ce06943f4c8da8794e715ad62e1ef03b8c3a75f6c333adb",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r05/root/R5ROOT-S02.html",
+      "sha256": "4868c4abbf8ae782a531acfd8225fbd7fcc0944dec4af11b8524a3b5ad2babf7",
+      "kind": "retained_original"
+    }
+  ]
+}

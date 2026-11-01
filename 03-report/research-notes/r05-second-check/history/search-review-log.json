@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R05 historical economic case challenge",
+  "queries": [
+    "site.nao.org.uk shared service centres 2016 business cases benefits investment cost",
+    "site.nao.org.uk government shared services 2022 benefits business case",
+    "site.publications.parliament.uk shared services 2016 business case savings 2015"
+  ],
+  "selected_routes": [
+    "https://www.nao.org.uk/reports/efficiency-and-reform-in-government-corporate-functions-through-shared-service-centres/",
+    "https://www.nao.org.uk/reports/shared-service-centres/",
+    "https://www.nao.org.uk/wp-content/uploads/2022/11/government-shared-services.pdf",
+    "https://www.gov.uk/government/publications/8-april-2026-synergy-programme-summary-business-case/8-april-2026-synergy-programme-summary-business-case"
+  ],
+  "not_selected": [
+    "2016PublicAccountsCommittee conclusions duplicate underlying NAO programme; existing SRC-0165 governance context remains.",
+    "NAO 2026landing failed webreader; existing SRC-0076not reinterpreted as laterSynergyFBC2evaluation."
+  ],
+  "pdf_review": {
+    "skill_read": "/Users/satwikkumar/.codex/plugins/cache/openai-primary-runtime/pdf/26.1025.11240/skills/pdf/SKILL.md",
+    "source": "R5H-S03",
+    "pages_one_based": [
+      29,
+      41,
+      42
+    ],
+    "printed_pages": [
+      28,
+      40,
+      41
+    ],
+    "rendered_and_visually_inspected": true,
+    "extraction": "Poppler text used alongside visual pages; initial PATH invocation failed, bundledPoppler successful.",
+    "warnings": "Poppler emitted font-weight warnings; relevant renderedtext legible."
+  },
+  "new_original_practitioners": 0,
+  "forecast_or_numeric_recalculations": 0,
+  "external_actions": []
+}

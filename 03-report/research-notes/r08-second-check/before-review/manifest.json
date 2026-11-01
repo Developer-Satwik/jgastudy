@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "original_path": "03-report/R08-DECISION-FRAMEWORK.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/01-R08-DECISION-FRAMEWORK.md.txt",
+      "sha256": "598bfd02444b05c6314df67289a69a670b91dc0bd52ef473af00b626fdf2b36b"
+    },
+    {
+      "original_path": "03-report/R08-DESKTOP-SYNTHESIS.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/02-R08-DESKTOP-SYNTHESIS.md.txt",
+      "sha256": "9f539a9cc505ce1659576c4108dc549b2d741184c375c73c0a559b49f4fb6206"
+    },
+    {
+      "original_path": "03-report/R08-REPORT-INTEGRATION.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/03-R08-REPORT-INTEGRATION.md.txt",
+      "sha256": "f292716a759c9d5cc9b9140e09825df9447b7b9a6c1c1b849286bba5e73d75fe"
+    },
+    {
+      "original_path": "03-report/R08-framework-map.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/04-R08-framework-map.json.txt",
+      "sha256": "e049b5ae0610d24349f2691fd85f0482d1cc107e4821c72b9a2c2050b00ffb3b"
+    },
+    {
+      "original_path": "03-report/R08-report-integration-map.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/05-R08-report-integration-map.json.txt",
+      "sha256": "df85967d8ea0ffe67f68d4163ae41f9b28238cde505014919a01f80e2fb926ac"
+    },
+    {
+      "original_path": "03-report/R08-constructed-walkthroughs.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/06-R08-constructed-walkthroughs.json.txt",
+      "sha256": "828d1f58a8e37b337238776a859eee1009d558c5740006501a9397ef7f8bb97a"
+    },
+    {
+      "original_path": "03-report/modules/R08-decision-framework-and-synthesis.md",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/07-R08-decision-framework-and-synthesis.md.txt",
+      "sha256": "c5916c708822d80afb58a266713db5d257e289f13f5048c2bb0f0fae013063b6"
+    },
+    {
+      "original_path": "08-qa/R08-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r08-second-check/before-review/08-R08-completion-check.json.txt",
+      "sha256": "9ff8cbd391e7f4c458260bfdda8ac26817a51f02b0d6c5fb2d5d5e77bd58d303"
+    }
+  ]
+}

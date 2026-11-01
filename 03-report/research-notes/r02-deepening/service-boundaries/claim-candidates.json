@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "SB-C01",
+      "source_ids": [
+        "SRC-0021"
+      ],
+      "locator": "Printedpp8–9",
+      "claim_text": "The provider report separates standard, excluded and extra-charge tasks and distinguishes data-source/processing error and worker impact within its KPI categories.",
+      "evidence_class": "published_self_report_context",
+      "population": "UK outsourced payroll teams/providers",
+      "denominator": null,
+      "question_wording": null,
+      "limitations": "No report-specific base; KPI use is not error incidence or achieved service quality. Page8 layout not visually verified, so no percentages used.",
+      "extends_or_qualifies": [
+        "CLM-0023",
+        "CLM-0024"
+      ],
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "review_mode": "Original relevant sections inspected; selected PDF pages visually checked where recorded"
+    },
+    {
+      "candidate_id": "SB-C02",
+      "source_ids": [
+        "SB-S01"
+      ],
+      "locator": "PDFpp4,9–10,15–19,22,30",
+      "claim_text": "Fourth’s published definition separates customer inputs/approval, package scope and support response/update from full resolution; escalation and access conditions also matter.",
+      "evidence_class": "published_service_scope",
+      "population": null,
+      "denominator": null,
+      "limitations": "A supplier specification, not observed performance. Exact urgent/nonurgent times are not treated as guaranteed resolution.",
+      "capture_checks": [
+        "qa/fourth-p15.png",
+        "qa/fourth-p17.png"
+      ],
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "review_mode": "Original relevant sections inspected; selected PDF pages visually checked where recorded"
+    },
+    {
+      "candidate_id": "SB-C03",
+      "source_ids": [
+        "SB-S02"
+      ],
+      "locator": "Clauses2–5 and7",
+      "claim_text": "The public agreement places information and preview-verification duties on the customer and specifies contingency communication.",
+      "evidence_class": "published_service_scope",
+      "population": null,
+      "denominator": null,
+      "limitations": "Not evidence of actual employer conduct, a recovery test or contractual liability in a specific case.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "review_mode": "Original relevant sections inspected; selected PDF pages visually checked where recorded"
+    },
+    {
+      "candidate_id": "SB-C04",
+      "source_ids": [
+        "SB-S03"
+      ],
+      "locator": "User support, analytics, onboarding/offboarding anddataexport sections",
+      "claim_text": "The listing declares service targets and reporting/export arrangements, providing examples of capabilities already offered.",
+      "evidence_class": "published_service_scope",
+      "population": null,
+      "denominator": null,
+      "limitations": "Supplier-declared offer, not independently measured achievement or evidence all providers offer the same.",
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "review_mode": "Original relevant sections inspected; selected PDF pages visually checked where recorded"
+    },
+    {
+      "candidate_id": "SB-C05",
+      "source_ids": [
+        "SB-S04"
+      ],
+      "locator": "PDFpp3–7; edition2021–2022",
+      "claim_text": "The dated definition offers separate assurance, input and fully managed tiers, with reconciliation/control support within the assurance offer.",
+      "evidence_class": "published_service_scope",
+      "population": null,
+      "denominator": null,
+      "limitations": "Historical commercial scope counterexample, not a2026 current specification or independently verified result.",
+      "capture_checks": [
+        "qa/phase3-p4.png"
+      ],
+      "date": "2026-10-28",
+      "value": null,
+      "unit": null,
+      "status": "candidate_for_parent_review_not_publication_approved",
+      "review_mode": "Original relevant sections inspected; selected PDF pages visually checked where recorded"
+    }
+  ],
+  "reused_claims": [
+    "CLM-0026",
+    "CLM-0141"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "checks": [
+    {
+      "check": "capture-manifest.json parses",
+      "passed": true
+    },
+    {
+      "check": "claim-candidates.json parses",
+      "passed": true
+    },
+    {
+      "check": "source-candidates.json parses",
+      "passed": true
+    },
+    {
+      "check": "verification.json parses",
+      "passed": true
+    },
+    {
+      "check": "search-review-log.json parses",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.html",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.html",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.html",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.html",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.html",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.html",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p2.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p13.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p29.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p30.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-02.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-03.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-05.png",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.txt",
+      "passed": true
+    },
+    {
+      "check": "capture hash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p32.png",
+      "passed": true
+    }
+  ],
+  "check_count": 27,
+  "scope": "JSON parsing and file hashes; visual review is stated separately, not inferred from parse/hash checks"
+}

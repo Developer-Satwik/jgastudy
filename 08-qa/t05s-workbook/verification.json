@@ -1,0 +1,1239 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_calculation_and_visual_review",
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+  "workbook_sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e",
+  "authoring_engine": "@oai/artifact-tool",
+  "native_Excel_application_tested": false,
+  "tests": [
+    {
+      "test_id": "CASE-low-campaign_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          6,
+          138.57,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 6,
+          "reference": 138.57,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-contact_attempt_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.1,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.1,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-sales_discussion_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.75,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.75,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-proposal_attempt_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.5,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 1.5,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-extra_commercial_round_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.5,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.5,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-won_order_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.75,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.75,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-reading_path_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.5,
+          24.8,
+          24.8
+        ],
+        "expected": {
+          "hours": 0.5,
+          "reference": 24.8,
+          "commercial": 0,
+          "combined": 24.8
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-use_asset_package_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.75,
+          37.2,
+          37.2
+        ],
+        "expected": {
+          "hours": 0.75,
+          "reference": 37.2,
+          "commercial": 0,
+          "combined": 37.2
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-partner_bundle_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1,
+          46.19,
+          46.19
+        ],
+        "expected": {
+          "hours": 1,
+          "reference": 46.19,
+          "commercial": 0,
+          "combined": 46.19
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-distribution_run_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.5,
+          23.095,
+          23.095
+        ],
+        "expected": {
+          "hours": 0.5,
+          "reference": 23.095,
+          "commercial": 0,
+          "combined": 23.095
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-briefing_session_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2.5,
+          124,
+          124
+        ],
+        "expected": {
+          "hours": 2.5,
+          "reference": 124,
+          "commercial": 0,
+          "combined": 124
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-service_case_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.35,
+          17.019,
+          17.019
+        ],
+        "expected": {
+          "hours": 0.35,
+          "reference": 17.019,
+          "commercial": 0,
+          "combined": 17.019
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-invoice_cycle_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.25,
+          11.5475,
+          11.5475
+        ],
+        "expected": {
+          "hours": 0.25,
+          "reference": 11.5475,
+          "commercial": 0,
+          "combined": 11.5475
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-renewal_action_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.5,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.5,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-low-cycle_note_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.5,
+          74.4,
+          74.4
+        ],
+        "expected": {
+          "hours": 1.5,
+          "reference": 74.4,
+          "commercial": 0,
+          "combined": 74.4
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-campaign_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          12,
+          277.14,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 12,
+          "reference": 277.14,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-contact_attempt_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.2,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.2,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-sales_discussion_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.25,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 1.25,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-proposal_attempt_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          3,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 3,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-extra_commercial_round_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.5,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 1.5,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-won_order_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.5,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 1.5,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-reading_path_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.25,
+          62,
+          62
+        ],
+        "expected": {
+          "hours": 1.25,
+          "reference": 62,
+          "commercial": 0,
+          "combined": 62
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-use_asset_package_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2,
+          99.2,
+          99.2
+        ],
+        "expected": {
+          "hours": 2,
+          "reference": 99.2,
+          "commercial": 0,
+          "combined": 99.2
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-partner_bundle_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2.25,
+          103.9275,
+          103.9275
+        ],
+        "expected": {
+          "hours": 2.25,
+          "reference": 103.9275,
+          "commercial": 0,
+          "combined": 103.9275
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-distribution_run_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1,
+          46.19,
+          46.19
+        ],
+        "expected": {
+          "hours": 1,
+          "reference": 46.19,
+          "commercial": 0,
+          "combined": 46.19
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-briefing_session_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          5,
+          248,
+          248
+        ],
+        "expected": {
+          "hours": 5,
+          "reference": 248,
+          "commercial": 0,
+          "combined": 248
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-service_case_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.75,
+          36.3475,
+          36.3475
+        ],
+        "expected": {
+          "hours": 0.75,
+          "reference": 36.3475,
+          "commercial": 0,
+          "combined": 36.3475
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-invoice_cycle_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.75,
+          34.6425,
+          34.6425
+        ],
+        "expected": {
+          "hours": 0.75,
+          "reference": 34.6425,
+          "commercial": 0,
+          "combined": 34.6425
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-renewal_action_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 1,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-working-cycle_note_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          3,
+          148.8,
+          148.8
+        ],
+        "expected": {
+          "hours": 3,
+          "reference": 148.8,
+          "commercial": 0,
+          "combined": 148.8
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-campaign_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          24,
+          554.28,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 24,
+          "reference": 554.28,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-contact_attempt_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          0.4,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 0.4,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-sales_discussion_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 2,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-proposal_attempt_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          6,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 6,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-extra_commercial_round_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          3,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 3,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-won_order_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          3,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 3,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-reading_path_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          3,
+          148.8,
+          148.8
+        ],
+        "expected": {
+          "hours": 3,
+          "reference": 148.8,
+          "commercial": 0,
+          "combined": 148.8
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-use_asset_package_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          5,
+          248,
+          248
+        ],
+        "expected": {
+          "hours": 5,
+          "reference": 248,
+          "commercial": 0,
+          "combined": 248
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-partner_bundle_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          4.5,
+          207.855,
+          207.855
+        ],
+        "expected": {
+          "hours": 4.5,
+          "reference": 207.855,
+          "commercial": 0,
+          "combined": 207.855
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-distribution_run_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2,
+          92.38,
+          92.38
+        ],
+        "expected": {
+          "hours": 2,
+          "reference": 92.38,
+          "commercial": 0,
+          "combined": 92.38
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-briefing_session_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          9.5,
+          471.2,
+          471.2
+        ],
+        "expected": {
+          "hours": 9.5,
+          "reference": 471.2,
+          "commercial": 0,
+          "combined": 471.2
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-service_case_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2,
+          97.495,
+          97.495
+        ],
+        "expected": {
+          "hours": 2,
+          "reference": 97.495,
+          "commercial": 0,
+          "combined": 97.495
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-invoice_cycle_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          1.5,
+          69.285,
+          69.285
+        ],
+        "expected": {
+          "hours": 1.5,
+          "reference": 69.285,
+          "commercial": 0,
+          "combined": 69.285
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-renewal_action_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          2,
+          0,
+          "n.a."
+        ],
+        "expected": {
+          "hours": 2,
+          "reference": 0,
+          "commercial": "n.a.",
+          "combined": "n.a."
+        }
+      }
+    },
+    {
+      "test_id": "CASE-high-cycle_note_count",
+      "passed": true,
+      "detail": {
+        "actual": [
+          6,
+          297.6,
+          297.6
+        ],
+        "expected": {
+          "hours": 6,
+          "reference": 297.6,
+          "commercial": 0,
+          "combined": 297.6
+        }
+      }
+    },
+    {
+      "test_id": "DEFAULT-QUANTITIES-BLANK",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a.",
+        15
+      ]
+    },
+    {
+      "test_id": "EXPLICIT-ZERO-ACTIVITY",
+      "passed": true,
+      "detail": [
+        0,
+        0
+      ]
+    },
+    {
+      "test_id": "TWO-BRIEFINGS",
+      "passed": true,
+      "detail": [
+        10,
+        496
+      ]
+    },
+    {
+      "test_id": "UNKNOWN-COMMERCIAL-RATE",
+      "passed": true,
+      "detail": [
+        3,
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "ENTERED-COMMERCIAL-RATE",
+      "passed": true,
+      "detail": 120
+    },
+    {
+      "test_id": "EXPLICIT-ZERO-RATE",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "test_id": "BLANK-IS-NOT-ZERO",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "MISSING-UNSELECTED-EFFORT",
+      "passed": true,
+      "detail": 248
+    },
+    {
+      "test_id": "MISSING-SELECTED-EFFORT",
+      "passed": true,
+      "detail": "n.a."
+    },
+    {
+      "test_id": "ZERO-INCREMENTAL-PREP",
+      "passed": true,
+      "detail": [
+        2,
+        99.2
+      ]
+    },
+    {
+      "test_id": "INVALID-ACTIVITY--1",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "INVALID-ACTIVITY-0.5",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "MISSING-SPECIALIST-RATE",
+      "passed": true,
+      "detail": "n.a."
+    },
+    {
+      "test_id": "INVALID-DAY-NOT-APPLICABLE-TO-ADMIN",
+      "passed": true,
+      "detail": 46.19
+    },
+    {
+      "test_id": "JOINT-SESSION-COUNTED-ONCE",
+      "passed": true,
+      "detail": [
+        9.5,
+        455.855
+      ]
+    },
+    {
+      "test_id": "DISTINCT-SECOND-SESSION",
+      "passed": true,
+      "detail": [
+        14.5,
+        703.855
+      ]
+    },
+    {
+      "test_id": "INVALID-EFFORT-CASE",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "PASTED-TEXT-EFFORT-CASE",
+      "passed": true,
+      "detail": [
+        "n.a.",
+        "n.a.",
+        "n.a."
+      ]
+    },
+    {
+      "test_id": "RESTORED-DELIVERY-DEFAULTS",
+      "passed": true,
+      "detail": {
+        "programme_hours": "n.a.",
+        "programme_value": "n.a.",
+        "blank_quantities": 15
+      }
+    }
+  ],
+  "expected_per_unit": {
+    "low": {
+      "campaign_count": {
+        "hours": 6,
+        "reference": 138.57,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "contact_attempt_count": {
+        "hours": 0.1,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "sales_discussion_count": {
+        "hours": 0.75,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "proposal_attempt_count": {
+        "hours": 1.5,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "extra_commercial_round_count": {
+        "hours": 0.5,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "won_order_count": {
+        "hours": 0.75,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "reading_path_count": {
+        "hours": 0.5,
+        "reference": 24.8,
+        "commercial": 0,
+        "combined": 24.8
+      },
+      "use_asset_package_count": {
+        "hours": 0.75,
+        "reference": 37.2,
+        "commercial": 0,
+        "combined": 37.2
+      },
+      "partner_bundle_count": {
+        "hours": 1,
+        "reference": 46.19,
+        "commercial": 0,
+        "combined": 46.19
+      },
+      "distribution_run_count": {
+        "hours": 0.5,
+        "reference": 23.095,
+        "commercial": 0,
+        "combined": 23.095
+      },
+      "briefing_session_count": {
+        "hours": 2.5,
+        "reference": 124,
+        "commercial": 0,
+        "combined": 124
+      },
+      "service_case_count": {
+        "hours": 0.35,
+        "reference": 17.019,
+        "commercial": 0,
+        "combined": 17.019
+      },
+      "invoice_cycle_count": {
+        "hours": 0.25,
+        "reference": 11.5475,
+        "commercial": 0,
+        "combined": 11.5475
+      },
+      "renewal_action_count": {
+        "hours": 0.5,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "cycle_note_count": {
+        "hours": 1.5,
+        "reference": 74.4,
+        "commercial": 0,
+        "combined": 74.4
+      }
+    },
+    "working": {
+      "campaign_count": {
+        "hours": 12,
+        "reference": 277.14,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "contact_attempt_count": {
+        "hours": 0.2,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "sales_discussion_count": {
+        "hours": 1.25,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "proposal_attempt_count": {
+        "hours": 3,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "extra_commercial_round_count": {
+        "hours": 1.5,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "won_order_count": {
+        "hours": 1.5,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "reading_path_count": {
+        "hours": 1.25,
+        "reference": 62,
+        "commercial": 0,
+        "combined": 62
+      },
+      "use_asset_package_count": {
+        "hours": 2,
+        "reference": 99.2,
+        "commercial": 0,
+        "combined": 99.2
+      },
+      "partner_bundle_count": {
+        "hours": 2.25,
+        "reference": 103.9275,
+        "commercial": 0,
+        "combined": 103.9275
+      },
+      "distribution_run_count": {
+        "hours": 1,
+        "reference": 46.19,
+        "commercial": 0,
+        "combined": 46.19
+      },
+      "briefing_session_count": {
+        "hours": 5,
+        "reference": 248,
+        "commercial": 0,
+        "combined": 248
+      },
+      "service_case_count": {
+        "hours": 0.75,
+        "reference": 36.3475,
+        "commercial": 0,
+        "combined": 36.3475
+      },
+      "invoice_cycle_count": {
+        "hours": 0.75,
+        "reference": 34.6425,
+        "commercial": 0,
+        "combined": 34.6425
+      },
+      "renewal_action_count": {
+        "hours": 1,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "cycle_note_count": {
+        "hours": 3,
+        "reference": 148.8,
+        "commercial": 0,
+        "combined": 148.8
+      }
+    },
+    "high": {
+      "campaign_count": {
+        "hours": 24,
+        "reference": 554.28,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "contact_attempt_count": {
+        "hours": 0.4,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "sales_discussion_count": {
+        "hours": 2,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "proposal_attempt_count": {
+        "hours": 6,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "extra_commercial_round_count": {
+        "hours": 3,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "won_order_count": {
+        "hours": 3,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "reading_path_count": {
+        "hours": 3,
+        "reference": 148.8,
+        "commercial": 0,
+        "combined": 148.8
+      },
+      "use_asset_package_count": {
+        "hours": 5,
+        "reference": 248,
+        "commercial": 0,
+        "combined": 248
+      },
+      "partner_bundle_count": {
+        "hours": 4.5,
+        "reference": 207.855,
+        "commercial": 0,
+        "combined": 207.855
+      },
+      "distribution_run_count": {
+        "hours": 2,
+        "reference": 92.38,
+        "commercial": 0,
+        "combined": 92.38
+      },
+      "briefing_session_count": {
+        "hours": 9.5,
+        "reference": 471.2,
+        "commercial": 0,
+        "combined": 471.2
+      },
+      "service_case_count": {
+        "hours": 2,
+        "reference": 97.495,
+        "commercial": 0,
+        "combined": 97.495
+      },
+      "invoice_cycle_count": {
+        "hours": 1.5,
+        "reference": 69.285,
+        "commercial": 0,
+        "combined": 69.285
+      },
+      "renewal_action_count": {
+        "hours": 2,
+        "reference": 0,
+        "commercial": "n.a.",
+        "combined": "n.a."
+      },
+      "cycle_note_count": {
+        "hours": 6,
+        "reference": 297.6,
+        "commercial": 0,
+        "combined": 297.6
+      }
+    }
+  },
+  "final_saved_effort_case": "working",
+  "all_activity_quantities_blank": true,
+  "commercial_rate_blank": true,
+  "final_programme_hours": "n.a.",
+  "final_programme_labour_GBP": "n.a.",
+  "all_temporary_input_changes_restored": true,
+  "formula_error_scan_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/08-qa/t05s-workbook/formula-error-scan.ndjson",
+  "renders": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/unit-costs.png",
+      "sheet": "Service cost",
+      "range": "B1:I30",
+      "sha256": "8c20a2599ad9c7118420d26fcc55d191bc003bb878c02810e10630f5d2e538c3"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/task-build.png",
+      "sheet": "Service cost",
+      "range": "B31:G59",
+      "sha256": "023e6860b21932180f911b305976672f208cdd18150d7525c34b7febfbd85412"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/input-rates.png",
+      "sheet": "Inputs",
+      "range": "B1:I16",
+      "sha256": "4959d3c5e553dc4843143635d4e024afb87525d99972b5847738edb1bb193434"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/activity-quantities.png",
+      "sheet": "Inputs",
+      "range": "B17:I35",
+      "sha256": "e70d2bae6186150904a840b8e5234809c4543ddef79e5b29d876c47d5619b3f1"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/effort-inputs.png",
+      "sheet": "Inputs",
+      "range": "B36:I59",
+      "sha256": "5ad2e21154ff484257d80c1e95eb235f17308356243860ca8361b840a93d1660"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/sources-and-boundaries.png",
+      "sheet": "Inputs",
+      "range": "B61:I83",
+      "sha256": "4c448b352636a1ecd36c7d72155b75a8528a85be97188b359623ca8c228d15fe"
+    }
+  ],
+  "visual_review_complete": true,
+  "scope": "Future service/sales per-unit labour catalogue, not prices, forecast, cash schedule, all-in budget or complete T05 model.",
+  "visual_regions_reviewed": 6,
+  "visual_review_notes": "Six final regions reviewed. The subsequent pasted-text selector guard changes no final restored values or layout; the same reviewed render files are retained."
+}

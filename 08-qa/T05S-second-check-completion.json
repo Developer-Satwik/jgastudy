@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-01",
+  "status": "completed_internal_T05S_second_challenge_required_programme_refinements_recorded",
+  "scope": "Same-agent second challenge of per-unit service/sales costs, with required incurred-work and remaining-obligation programme refinements recorded. No full-model completion or new independent-agent audit.",
+  "new_source_routes": 2,
+  "new_claim_records": 13,
+  "canonical_sources": 249,
+  "canonical_claims": 508,
+  "source_records_with_primary_originals": 173,
+  "earlier_source_records_preserved": 247,
+  "earlier_claim_records_preserved": 495,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 401,
+  "prechange_file_snapshots": 13,
+  "new_route_originals": 1,
+  "new_route_selected_reader_notes": 1,
+  "reused_route_fresh_originals": 5,
+  "reused_route_current_reader_notes": 2,
+  "prior_context_reused": 1,
+  "unadopted_discovery_routes": 1,
+  "capture_inventory_artifacts": 16,
+  "all_financial_inputs_preserved": 70,
+  "new_financial_inputs": 0,
+  "original_workbooks_changed": false,
+  "original_catalogue_tasks_preserved": 21,
+  "original_catalogue_units_preserved": 15,
+  "programme_refinement_conditions": 6,
+  "programme_noncompletion_and_exception_work_still_required": true,
+  "constructed_applications": 12,
+  "constructed_application_checks": 22,
+  "prior_questions": 4,
+  "saved_answers_linked": 32,
+  "semantic_rereads": 4,
+  "prior_study_exact_checks": 136,
+  "model_reruns": 0,
+  "same_agent_review_checks": 1059,
+  "reviewed_artifact_hashes": 35,
+  "new_independent_agent_review": false,
+  "native_Excel_application_tested": false,
+  "arithmetic_error_identified_in_original_defined_units": false,
+  "fourteen_core_questions_unchanged": true,
+  "current_contract_fee_changed": false,
+  "practitioner_free_full_research_preserved": true,
+  "actual_quotes_customers_or_staffing": 0,
+  "actual_savings_or_timesheets": 0,
+  "actual_practitioner_or_buyer_contributions": 0,
+  "external_messages_or_enquiries": 0,
+  "purchases_hires_or_bookings": 0,
+  "fieldwork_or_campaign_activated": false,
+  "full_financial_model_complete": false,
+  "final_client_delivery": false,
+  "next_step": "Event/participant operations, hosting/moderation and travel, then dated cash and complete matched programme integration. The latter must incorporate the recorded incurred-work and remaining-obligation requirements.",
+  "artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+      "sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "ea73db411ffe307e76843e75053b9a57ab3cef3b817f80d25c6f737357e43285"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "7ddaf14ffa37cba51b96b106078231b288c3832124c316caed30416d1264c529"
+    },
+    {
+      "path": "00-control/decisions.json",
+      "sha256": "e8e2cb9fa416afef4651434b97d1c8791d281915ded569a63e77c200df4da6a8"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "fa98b780b03a3f15fd0066b49333e24d4708c7f53af23fbf165fa7380f40f02f"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "00f3b922057bda6b69183f3fe1cbdb4e822b0c80ffae8d1fce999cd0e1d8356d"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "52feb50928e9ea9640c898e47eb7fff3d7af67a1cc0426127583afce06edb1db"
+    },
+    {
+      "path": "02-evidence/registers/source-aliases.json",
+      "sha256": "944467df602c264af512b44b6eecbdf090a6ac0533bca206d5334fb79ccbfc53"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "b94695e18ce6af6b8254ccf3b9665e13d6dff46200244e3d22ea353634f53f99"
+    },
+    {
+      "path": "04-table/T05S-PROGRAMME-COST-REFINEMENTS.md",
+      "sha256": "fe377fe31fff1b680776b6150256be2f34b7b098758bd6ce39a3b6b1f1a2985f"
+    },
+    {
+      "path": "04-table/T05S-SECOND-CHECK-READOUT.md",
+      "sha256": "fbf6066e1cc5740986999434bde97765bbf0f83c8c868854f166cf8a70ee2e61"
+    },
+    {
+      "path": "04-table/T05S-second-challenge-map.json",
+      "sha256": "57c64a532cf663bcaa4391129f3af4f9cc256fd225a09387c7387a06e2ce4ba3"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/REVIEW-PLAN.md",
+      "sha256": "4c2cedb5521c99409ab09e1e1d2527d770e47e66073c3279d9d6ba9736e6528e"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "44431b4e4f70caceb0f3fedd025664ddf94440ed7966844c520261e24079ed53"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/00-control/changes.json",
+      "sha256": "933d563b2c463f6394970232710638c07d748b1d10e95a77116b31e4e5589d6b"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/00-control/decisions.json",
+      "sha256": "2f2ed3c00e3914924a8ad817a34e8dab4bf023405088452474c58fc44d2db633"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/00-control/work-packages.json",
+      "sha256": "89d6c6bc1e81bb9ac65ee8f240f6c5cc999f11044533fb3f6c14d77558500c14"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/02-evidence/registers/claims.json",
+      "sha256": "3cf5c663f53960b95c6afe75e6eecee12f613878445ec120c8d8fc9b38efb015"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/02-evidence/registers/searches.json",
+      "sha256": "776b041879ed431e77b95415848213178fb7aa4c84388518874cd5c83df88ee3"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/02-evidence/registers/source-aliases.json",
+      "sha256": "944467df602c264af512b44b6eecbdf090a6ac0533bca206d5334fb79ccbfc53"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/02-evidence/registers/sources.json",
+      "sha256": "8d791b9052e30be4b1989f84be00124cd6ee021664f15618d2ee3153b7a2820d"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "59be2e2ae71e6baffdaf837a56d1aad3570e1e0c6caa3a1d83ab06e75b845c0f"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/08-qa/validate_workspace.py",
+      "sha256": "c65e761b8df6445a8dcee230d6cc661c1ff359b090210cbeda4fc7d0e0720518"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/README.md.txt",
+      "sha256": "e9bd7ce1400bfe8e4269ec71634df50a7ec54364fccfb29124dc16542feed1ce"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/before-review/manifest.json",
+      "sha256": "abd86767bdd48c5e0bc9cb7d8f28fffab69393000215837c927fd8534c714bd0"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/comparator-map.json",
+      "sha256": "772475379afce38ae59ebcf148e4ef6f957fa882ef2f28f641db29d600a67e04"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/cost-applications.json",
+      "sha256": "277a94ea97041b63b48dcf1d0cfd02922cb8233f5ae13ab352f719d5aecc5a8c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/capture-attempts.json",
+      "sha256": "ea8e8081f3da4366458f5e9b5b827df4a6e4790626c7847cd7f586e80796b0a7"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S01.html",
+      "sha256": "ac781268eb984f2b9a77aa1a797b3a825a698ed721d9a2aa7aca4708a1c1086c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S02-reader-note.txt",
+      "sha256": "9b8ea18c343e7d234b05f8857484a5f53831e64bfb60ef96d46bb28d16f25226"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S04-reader-note.txt",
+      "sha256": "6380af596e6284ceaa83e4ad0d54ba2c3d022f9726c80023c06b5b738f337449"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S06.html",
+      "sha256": "97a15b91b6a0f21a0ec955f3592ccd95a8a4ec9694b8828e226b2f15c515b32f"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S07.html",
+      "sha256": "aeaf8fd88556c75b6ef7a7f8e399c0b14d14c8f12a37acb38d4bb1724d5bbf15"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S08.html",
+      "sha256": "b23c9bbe42c30e6edbcc2a2826ef98683b653b7f0190947a7e51ea40d2bafae0"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S09.html",
+      "sha256": "cebb4c7f29d72a5b30bd28804683e21ff39a48f304eb62000d03b4b2e48d29de"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S10-reader-note.txt",
+      "sha256": "f0d84a5e369bead9939c36d9564e6bb3a789b03db606c3657ec9c4dc74ddc2aa"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/captures/SS2-S11.html",
+      "sha256": "b3f4e0686c2f458f3d4de5911f408bc025abcfe9b0dc9a92fd8c7b129fd7c4ac"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/claim-candidates.json",
+      "sha256": "e1f1590f268f554850864cdc3e9bb3d9767e0aa1df61f9e8ff25090eb49dfee1"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S01.txt",
+      "sha256": "fc90ac5a182c3c238636e94bfedd66e938a593a69f4914baeb5133be049c90c5"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S06.txt",
+      "sha256": "0bd270a51d0df8c8123dbf302d4a4f0c972960b837f5f786fbf5e63cf07c4a66"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S07.txt",
+      "sha256": "539a72cd34429972700a3c83b7ca3034e51222003f2b160d6602fd9b7167ab76"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S08.txt",
+      "sha256": "028d941c966bd024cd319a61b6bfe64b2c334db6d7d51b6568e6a0b87c7e9780"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S09.txt",
+      "sha256": "a19903c4d38e500f1bba7304ef65566217bc2b219f7a7e70bbdcb029a03ab3b9"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/parsed/SS2-S11.txt",
+      "sha256": "685078dfe286e0a3e1940e93ef87f1b90256e3527a18bb8745b5d3507fd2898d"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/source-candidates.json",
+      "sha256": "dc72eed807f61bd28c690032366b12eb372e68153da607bde4b8df3366977e8b"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/evidence/verification.json",
+      "sha256": "579389826a8922cd4cfdb1454e6d0f2d237b2ed526674c87270a3a5a38fffc9c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S01-D-semantic-note.md",
+      "sha256": "b1e1d39f573a446377fc07d15adba6f0839dac36c969c48f3744e8d0a63ec628"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S02-D-semantic-note.md",
+      "sha256": "9a38fc1a3ef2278ba271b0ce6551f8303697f26dddf9a2c8b3032014cab5b76c"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S08-D-semantic-note.md",
+      "sha256": "7a1e7ac8560256f2dfa0fd49e06d4da0d279c137f745ab6c77e7352c500bf4c7"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/S10-D-semantic-note.md",
+      "sha256": "b0fa41a04dd3816af2efe7b3f7ec48beb5ce42cb79d8be73b75ebde9ca0ba4f7"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/bridge-checks.json",
+      "sha256": "503a9a08e12f01ee6a719ab52f4d3dd324b93d28f2de85cc0cfdcfec63dad4f3"
+    },
+    {
+      "path": "04-table/research-notes/t05s-second-check/prior-study/prior-study-bridge.json",
+      "sha256": "dbf726f3c29251bd3b8d12777d476458d1a27326f164a8896f499360061bbc35"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "df0a90ba1c2ddf06bf3123c3de648957826759a542469e3d3cb2db40b9abd920"
+    },
+    {
+      "path": "05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "08-qa/T05S-second-check-baseline.json",
+      "sha256": "c3d963d03d2200df5b130a72c36dcd7360328ee60b9c145b1d15e20c55c292cb"
+    },
+    {
+      "path": "08-qa/T05S-second-check-captures.json",
+      "sha256": "696147c0d4cca6952f37d62f9f9e9b4967c9d75d2f0192dc0bfcee60897c3530"
+    },
+    {
+      "path": "08-qa/T05S-second-check-record-map.json",
+      "sha256": "63459adac6da0963ebfc9b4d8b26629e1a7cad3698ba3284e3e4fc3a5f586155"
+    },
+    {
+      "path": "08-qa/finalize_t05s_second.py",
+      "sha256": "ad12f2635a721605dbe5313df0c2c714a83f01985ae316647fdc18b9a97672e3"
+    },
+    {
+      "path": "08-qa/merge_t05s_second.py",
+      "sha256": "cf9c3aa1bc45045e346f218a49b312465bdb89b2c0c6008052e23f4614122feb"
+    },
+    {
+      "path": "08-qa/t05s-second-review/cost_applications.py",
+      "sha256": "c3431c33cc48c4abd61d52c2cba3f4f5e0fb0192ac25ca436c05813bb74fc99a"
+    },
+    {
+      "path": "08-qa/t05s-second-review/review-checks.json",
+      "sha256": "52f056f4402947226aba1aa362fbf8242dd2f725626c58ffddb502d71ed7ee52"
+    },
+    {
+      "path": "08-qa/t05s-second-review/validate_second.py",
+      "sha256": "2d1d2a43e65bf8c26485a681c289d11d04ae5542439baf17d244970ad45ac3e2"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "bb0885692e9686b8a344c58f49dfa08fa199d2b61f3dbd377d131ccb34595270"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a9d22e64fe23de44c8fcae58e728a5320c6ab653886cf7aabbf349d4596cba98"
+    }
+  ],
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-11-01",
+    "checks": 11469,
+    "json_files": 705,
+    "source_records": 249,
+    "claim_records": 508,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 547,
+    "scope": "T05 service/sales second challenge with required incurred-work/remaining-obligation programme refinements and original catalogue preserved; T05 per-unit service/sales labour catalogue with blank programme quantities and commercial rate, full event/revenue/cash model pending; T05 research/staffing second challenge across historical/market/competitor/task/delivery perspectives with original component preserved; T05 research/staffing cost component with full event/revenue/cash model pending; T04 commercial route, model-unit/input/formula design and public venue-cost evidence with actual financial model and validation pending; T02 second challenge evidence/use/time/work/fulfilment/concept-state conditions; T02 three concrete internal propositions, use/rights/delivery and inactive draft guide; T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01\u2013R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  },
+  "completion_artifact_hashes_verified": true
+}

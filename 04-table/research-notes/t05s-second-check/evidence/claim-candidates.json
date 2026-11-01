@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "candidate_id": "SS2-C01",
+      "source_candidate_ids": [
+        "SS2-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Publisher timeline:2021May3,2024September4,2025September9",
+      "claim_text": "The timeline describes a2021 research/tools/guidance portfolio, a2024 continuous-guidance model and a2025 self-service AI Access offer.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Historical publisher descriptions, not original entitlement contracts, measured savings, JGA capacity or evidence that service tiers remained unchanged.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C02",
+      "source_candidate_ids": [
+        "SS2-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Form10-K business/accounting narrative, printedp15",
+      "claim_text": "The filing separates research/reprint/advisory fulfilment and production, sales and administrative costs.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Corporate disclosure is an analogy for cost boundaries and timing; no cost ratio, salary, accounting prescription or JGA margin is adopted.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C03",
+      "source_candidate_ids": [
+        "SS2-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Results of Operations, printedp18",
+      "claim_text": "The filing says strategy-consulting sales would stop while backlog work would be fulfilled during2026.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "A company statement of planned fulfilment, not confirmed completion. Ending new sales does not by itself show existing service obligations ended.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C04",
+      "source_candidate_ids": [
+        "SS2-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Primary browser-reader catalogue and request forms",
+      "claim_text": "Portfolio lists country- and edition-specific payroll surveys, hiring guides and templates, with professional-detail request routes.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Catalogue/request route only. Linked reports and underlying data were not inspected; no price, unlimited use or successful conversion is inferred.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C05",
+      "source_candidate_ids": [
+        "SS2-S09"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained raw body:title,customised-insight CTA and guide FAQ",
+      "claim_text": "The current Robert Half page identifies a2027 UK guide and offers customised salary insight and personal support alongside the public resource.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "No separate fee is shown in the inspected copy; that does not establish unlimited free advice, equivalent JGA research, supplier wages or labour cost. Earlier search-reader2026 wording is not the current raw body.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C06",
+      "source_candidate_ids": [
+        "SS2-S07"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Beyond the Shortlist and Post Project Report sections",
+      "claim_text": "Middlemore describes client-specific search advice and a post-search report using recruitment analytics, diversity and brand-perception information.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "A search-related evidence/service object, not a publicly licensed payroll-investment dataset, delivered JGA research or a stand-alone report tariff. Download form unsubmitted.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C07",
+      "source_candidate_ids": [
+        "SS2-S06"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Written webinar follow-through and watch/share section",
+      "claim_text": "Oakleaf publishes written themes and a recording route following a named pensions/payroll webinar.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Format and follow-through only; no recording inspection, technical pension advice, unique market gap or audience conversion is adopted.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C08",
+      "source_candidate_ids": [
+        "SS2-S08"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Public redirect/intro and methodology footnote",
+      "claim_text": "Hays distinguishes the2026 guide label from2025 input periods and includes earlier-period comparison context.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "The inspected page is not the full guide. Country, task, role and evidence period must fit; guide salary figures do not establish sales, analyst or administrative resource rates.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C09",
+      "source_candidate_ids": [
+        "SS2-S05",
+        "SS2-S10"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Prior Frazer written-interview note; current JGA podcast landing copy",
+      "claim_text": "The Frazer context is a dated written expert account; JGA already publishes expert podcast material and archive/subscription routes.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Frazer current retrieval unavailable and prior selected notes reused. No new audio review, participant permission, staffed service, current licence product or prospect availability is implied.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C10",
+      "source_candidate_ids": [
+        "SS2-S11"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Attendance and participation; guidance criteria",
+      "claim_text": "Forrester distinguishes entitled attendees, account context, questions, preparation and custom work in its session policy.",
+      "evidence_class": "primary_publisher_or_prior_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Provider-specific rules are not imposed on JGA. Joint-session efficiency is conditional on actual audience/rights fit, capable people and a defined service.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C11",
+      "source_candidate_ids": [
+        "SS2-S02"
+      ],
+      "canonical_source_ids": [
+        "SRC-0279"
+      ],
+      "locator": "Researcher application to WS04,WS13\u2013WS18 and later programme integration",
+      "claim_text": "Before programme use, distinguish work begun or incurred from completed sales/service units, and retain additional non-completion work that cannot be allocated to a completed unit.",
+      "evidence_class": "researcher_cost_and_service_application",
+      "value": null,
+      "unit": null,
+      "limitations": "Analyst cost-planning refinement, not observed cancellation effort or a new customer fee. The preserved unit catalogue is not a cancellation-state ledger.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C12",
+      "source_candidate_ids": [
+        "SS2-S04",
+        "SS2-S07",
+        "SS2-S11"
+      ],
+      "canonical_source_ids": [
+        "SRC-0279"
+      ],
+      "locator": "Researcher application to WS08\u2013WS15,WS18,WS21",
+      "claim_text": "Shared assets, distribution batches and sessions require exact reuse and audience boundaries; actual separate handling and extra performer time remain real work.",
+      "evidence_class": "researcher_cost_and_service_application",
+      "value": null,
+      "unit": null,
+      "limitations": "Constructed examples illustrate possible allocation only. No automatic saved percentage, rights grant, extra seat entitlement or reduced practitioner benefit follows.",
+      "status": "T05S_second_desktop_context"
+    },
+    {
+      "candidate_id": "SS2-C13",
+      "source_candidate_ids": [
+        "SS2-S01",
+        "SS2-S02",
+        "SS2-S09"
+      ],
+      "canonical_source_ids": [
+        "SRC-0279"
+      ],
+      "locator": "Researcher application to offer/version/period and rate-fit",
+      "claim_text": "Later planning should match the actual offer, task, period, capable owner and remaining obligation before selecting delivery cost, rather than copying a format, headline rate or renewal assumption.",
+      "evidence_class": "researcher_cost_and_service_application",
+      "value": null,
+      "unit": null,
+      "limitations": "Public large-firm or recruitment formats do not validate JGA demand, rates, future staffing or a forecast. Existing commission/correction duties remain unchanged.",
+      "status": "T05S_second_desktop_context"
+    }
+  ]
+}

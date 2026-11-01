@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-31",
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+  "sheets": [
+    "Research cost",
+    "Inputs"
+  ],
+  "case_selector": "Inputs!D4",
+  "case_label": "Inputs!F4",
+  "contributor_target": "Inputs!F7",
+  "contractor_day_hours": "Inputs!F9",
+  "provider_hours": "Research cost!E6",
+  "provider_labour_GBP": "Research cost!E7",
+  "JGA_hours": "Research cost!E8",
+  "JGA_value_GBP": "Research cost!E9",
+  "combined_labour_GBP": "Research cost!E10",
+  "task_input_rows": {
+    "WR01": 22,
+    "WR02": 23,
+    "WR03": 24,
+    "WR04": 25,
+    "WR05": 26,
+    "WR06": 27,
+    "WR07": 28,
+    "WR08": 29,
+    "WR09": 30,
+    "WR10": 31,
+    "WR11": 32,
+    "WR12": 33,
+    "WR13": 34,
+    "WR14": 35,
+    "WR15": 36,
+    "WR16": 37,
+    "JG01": 38,
+    "JG02": 39,
+    "JG03": 40,
+    "JG04": 41,
+    "JG05": 42
+  },
+  "task_input_active_column": "F",
+  "task_input_case_columns": {
+    "low": "G",
+    "base": "H",
+    "high": "I"
+  },
+  "provider_build_range": "Research cost!B16:H31",
+  "JGA_build_range": "Research cost!B36:H40",
+  "JGA_hourly_costs": "Inputs!F46:F50",
+  "rate_rows": {
+    "Research": 13,
+    "Writing": 14,
+    "Editing": 15,
+    "Design": 16,
+    "Management": 17
+  },
+  "published_rate_column": "E",
+  "normalized_hourly_rate_column": "F",
+  "current_contract_context": "Inputs!C55:F59",
+  "source_links": "Inputs!B77:C81",
+  "chart_source": "Research cost!K6:K11 and M6:M11",
+  "chart_position": "Research cost!K14:P31",
+  "renders": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/research-cost.png",
+      "sheet": "Research cost",
+      "range": "B1:H46"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/role-chart.png",
+      "sheet": "Research cost",
+      "range": "K4:P32"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-controls-rates.png",
+      "sheet": "Inputs",
+      "range": "B1:I19"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-workload.png",
+      "sheet": "Inputs",
+      "range": "B20:I43"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-JGA-and-context.png",
+      "sheet": "Inputs",
+      "range": "B44:I73"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-sources.png",
+      "sheet": "Inputs",
+      "range": "B75:I87"
+    }
+  ]
+}

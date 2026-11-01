@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Find actual postponement/component cancellation plus narrow publication status, not generic ERP failure anecdotes",
+  "queries": [
+    "site.find-tender.service.gov.uk payroll cancelled2025/2026",
+    "site.gov.uk payroll system programme paused cancelled",
+    "site.westsussex.moderngov.co.uk programme was paused",
+    "site.schools.westsussex.gov.uk Oracle October2026 go live",
+    "NIAO cancellation payroll project",
+    "GETS EducationPayroll RFPBusinessAnalystServices"
+  ],
+  "selection": [
+    "Official WestSussexMarch andOctober2026 updates",
+    "NIAO2004 original audit-summaryHTML",
+    "EducationPayrollGETS advance notice metadata/body"
+  ],
+  "not_used": [
+    "Secondary dramatic ERP cost headlines and tariff figures",
+    "EastSussex/WestSussex mixed programme labels conflated",
+    "Kent managed-accounts procurement aggregator: primaryroute notestablished, context differs from employer payroll",
+    "NAO2026 ATS recruitment abandonment: adjacentcomponent, not payroll abandonment",
+    "WestSussex modernGov pages returned403 locally/reader; search discovery only, no candidate claims from them",
+    "LinkedNIAO PDF notinspected; summary-only scope explicit"
+  ],
+  "status_limits": [
+    "No published private-employer proposal rejection case established in this strand",
+    "Currentcase states are scoped employer declarations, not independently verified benefits",
+    "Historical NICS cancellation is outside24-month cohort and contextualonly",
+    "GETS cancellation date/reason and whole-programme decision notknown"
+  ],
+  "external_actions": [],
+  "product_tests": 0,
+  "interviews": 0,
+  "financial_estimates": 0,
+  "canonical_files_changed": false
+}

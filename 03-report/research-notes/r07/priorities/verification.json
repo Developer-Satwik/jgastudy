@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 23,
+  "checks": [
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0070.html",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0070.txt",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0011.html",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0011.txt",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/MP-feature.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0202-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Filehash 02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-report.pdf",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0033-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Filehash 02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-payroll.pdf",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0034-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0034-p11.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0202-p32.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0033-p33.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0034-p2.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0202-p12.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0202-p11.png",
+      "passed": true
+    },
+    {
+      "check": "Filehash 03-report/research-notes/r07/priorities/captures/SRC-0040-fulltext.txt",
+      "passed": true
+    },
+    {
+      "check": "No new source routes/datasets claimed",
+      "passed": true
+    },
+    {
+      "check": "Eight bounded claim/design/hold records",
+      "passed": true
+    },
+    {
+      "check": "No item percentage adopted as investment/funded share",
+      "passed": true
+    },
+    {
+      "check": "New branding value conflict explicitly held",
+      "passed": true
+    },
+    {
+      "check": "Claim-specific PDF versus HTML review modes",
+      "passed": true
+    }
+  ],
+  "new_canonical_sources": 0,
+  "reused_canonical_sources": 5,
+  "claim_candidates": 8,
+  "original_practitioner_observations": 0,
+  "external_actions": []
+}

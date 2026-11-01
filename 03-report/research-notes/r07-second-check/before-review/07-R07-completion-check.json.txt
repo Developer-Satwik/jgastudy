@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R07_desktop_synthesis",
+  "review_basis": "Independent integrated desktop review with bounded original/visual source sample, record/hash/core/blank-data checks; final use and fieldwork remain separate.",
+  "new_source_routes": 4,
+  "new_claim_or_guardrail_records": 24,
+  "source_records": 184,
+  "claim_records": 319,
+  "source_records_with_primary_retained_original": 116,
+  "internal_findings": 71,
+  "context_dimensions": 6,
+  "comparison_claim_purposes": 4,
+  "planning_contexts": 3,
+  "checked_capture_files": 42,
+  "preserved_baseline_records": 54,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "numerical_estimates": 0,
+  "product_trials": 0,
+  "extra_mandatory_questions": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R07-DESKTOP-READOUT.md",
+      "sha256": "fd2705f45f23147a5c0488a721242b9cc94d8c5cb687003c930dc6aab653bcc7"
+    },
+    {
+      "path": "03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "sha256": "862ad9e202dfcc4cb6d08639f9beadedaff3c049d15f95d35bc8bb1fd474fe0c"
+    },
+    {
+      "path": "03-report/R07-priority-map.json",
+      "sha256": "5749dd2e5c94e91695b61dfd8126ce57f4acfd8fd9103a30ddfad952a4a664f7"
+    },
+    {
+      "path": "03-report/modules/R07-priorities-and-contextual-differences.md",
+      "sha256": "78c9e0557ce1fefc149924c78ddb0235472fa5ca2b08a6ff95f95921ef406863"
+    },
+    {
+      "path": "08-qa/R07-independent-review.md",
+      "sha256": "6cf43cc3d370bb8d9b4407f7b23f6bf8a44a62a2333d4dbd4ed6cac1d983c29b"
+    },
+    {
+      "path": "08-qa/R07-record-map.json",
+      "sha256": "5d26b646937ca489a55c6bd3b1a98fc02561df9a8dc4232bac55070b1db45d9b"
+    },
+    {
+      "path": "08-qa/R07-captures.json",
+      "sha256": "4f918124057d0bdc1079be2ae981f347f58a6d7afd5e95d1eea5c5c943794c43"
+    },
+    {
+      "path": "08-qa/r07-review/integrated-review-checks.json",
+      "sha256": "0bc5d931cca113166a2dc921fc1e89c25be06ae7ab05c68cb40f32fea2289562"
+    }
+  ],
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 1926,
+    "json_files": 303,
+    "source_records": 184,
+    "claim_records": 319,
+    "question_records": 14,
+    "internal_design_findings": 71,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 230,
+    "scope": "Full current R01–R07 workspace consistency, source/capture and evidence references, prior/client/core preservation, question routing and blank unperformed research. No final publication or fieldwork assurance."
+  },
+  "completion_artifact_hashes_verified": true
+}

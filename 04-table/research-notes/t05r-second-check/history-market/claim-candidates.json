@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5H-C01",
+      "source_candidate_ids": [
+        "T5H-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines83–100, archive table categories/2025/2024 rows",
+      "claim_text": "CIEP currently archives2025 hourly suggested minima of £30.75 proofreading,£35.75 copyediting,£41.10 substantial editing/rewriting and£44.50 project management; the corresponding2024 values are£29.85,£34.70,£39.90 and£43.20.",
+      "evidence_class": "professional_body_historical_suggested_fee_context",
+      "value": {
+        "2025": {
+          "proofreading": 30.75,
+          "copyediting": 35.75,
+          "substantial_editing": 41.1,
+          "project_management": 44.5
+        },
+        "2024": {
+          "proofreading": 29.85,
+          "copyediting": 34.7,
+          "substantial_editing": 39.9,
+          "project_management": 43.2
+        }
+      },
+      "unit": "GBP per hour by named category and year",
+      "denominator": null,
+      "limitations": "Guidance minima only; not observed market inflation, actual supplier prices or an all-in research publication cost.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C02",
+      "source_candidate_ids": [
+        "T5H-S01"
+      ],
+      "canonical_source_ids": [
+        "SRC-0263"
+      ],
+      "locator": "Archive2024/2025 rows versus existing current CIEP2026–27 table",
+      "claim_text": "The same CIEP categories permit comparison of dated suggested minima, but their historical progression does not determine a2027 supplier rate or a universal inflation factor for research, writing and design.",
+      "evidence_class": "researcher_historical_comparability",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Select the actual execution-date quote or a clearly labelled scenario; do not silently escalate the first-pass workbook.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C03",
+      "source_candidate_ids": [
+        "T5H-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained primary reader: respondent/date header and Day rates subsection",
+      "claim_text": "The currently published ProCopywriters2025 summary distinguishes a£480 average freelance day rate from£430 on its median measure, and labels474 overall respondents, February fieldwork and July2025 publication.",
+      "evidence_class": "producer_retrospective_survey_summary",
+      "value": {
+        "average_freelance_day_rate": 480,
+        "retrospective_median_freelance_day_rate": 430,
+        "overall_respondents": 474
+      },
+      "unit": "GBP per day; separate overall respondent count",
+      "denominator": null,
+      "limitations": "Reader extract only, not retained originalHTML. Rate-item base unstated. Retrospective current-page presentation does not prove page wording at original publication.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C04",
+      "source_candidate_ids": [
+        "T5H-S02"
+      ],
+      "canonical_source_ids": [
+        "SRC-0264"
+      ],
+      "locator": "2025readerDayrates versus existing2026producer page median",
+      "claim_text": "Comparing ProCopywriters2025£480average with2026£440median would mix statistics; the current producer summaries present2025£430 and2026£440 on the median measure.",
+      "evidence_class": "researcher_statistical_unit_reconciliation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Not a matched respondent panel or causal explanation. Do not infer a fall in writer rates from a mean-to-median substitution.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C05",
+      "source_candidate_ids": [
+        "T5H-S03"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines117–123, release date/base and discipline rates",
+      "claim_text": "YunoJuno’s release dated6February2025 describes261000+freelance contracts and listsMarketResearch at£491 perday among15disciplines.",
+      "evidence_class": "producer_historical_platform_report_release",
+      "value": {
+        "producer_contract_count_lower_bound": 261000,
+        "market_research_discipline_day_rate": 491
+      },
+      "unit": "Contracts as producer-wide description; GBP per day for named discipline",
+      "denominator": null,
+      "limitations": "Contracttotal is not MarketResearchsample. Historical release data and current individual role definitions are different scopes.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C06",
+      "source_candidate_ids": [
+        "T5H-S03"
+      ],
+      "canonical_source_ids": [
+        "SRC-0265",
+        "SRC-0266"
+      ],
+      "locator": "2025releaseMarketResearchdiscipline versus existing current consultantrole/methodology",
+      "claim_text": "YunoJuno’s2025£491MarketResearch discipline average and the current£372MarketResearchConsultant role reference do not establish a like-for-like rate decline.",
+      "evidence_class": "researcher_role_and_method_reconciliation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "No matched role, base, time window or common calculation is established. Keep separate source definitions and do not infer automation-driven savings.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C07",
+      "source_candidate_ids": [
+        "T5H-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained primary reader opening and final historical-contract footnote",
+      "claim_text": "Upwork’s market-research cost guide publishesUSD25–70 perhour and describes its data as typical ranges of certain historical contracts worldwide, with client prices subject to negotiation.",
+      "evidence_class": "producer_global_marketplace_rate_guide",
+      "value": {
+        "lower": 25,
+        "upper": 70
+      },
+      "unit": "USD per hour",
+      "denominator": null,
+      "limitations": "Substantive primary reader/search extraction only; originalHTTP403. Exact observationperiod/sample/tax/fees and payrollspecialism notestablished. Not India-specific or a full-project quote.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C08",
+      "source_candidate_ids": [
+        "T5H-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Global/historical scope and current T05UK-contractor route",
+      "claim_text": "The worldwide marketplace range identifies another possible sourcing route, but it cannot establish an Indian supplier discount, available skill/capacity or a cheaper equivalent JGA publication without a matched scope, quote and explicit currency/cost basis.",
+      "evidence_class": "researcher_sourcing_route_application",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "NoFXcalculation, seller selection, quality ranking or geographic price discount is adopted. Keep JGA retained review and management work visible.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C09",
+      "source_candidate_ids": [
+        "T5H-S05"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Retained primary reader lines20–39, Basicplan fees and discount conditions",
+      "claim_text": "Upwork’s ClientMarketplaceFee help says Basic-plan client payments can carry a fee up to7.99%, with a3%reduced fee for qualifyingUSbank-accountpayments; it describes the marketplace fee as non-refundable even when payment is reversed or refunded.",
+      "evidence_class": "producer_marketplace_fee_conditions",
+      "value": {
+        "Basic_up_to_percent": 7.99,
+        "qualifying_US_bank_percent": 3
+      },
+      "unit": "Percent subject to named conditions",
+      "denominator": null,
+      "limitations": "Primary reader retained, rawHTTP403. No useraccountplan/paymentqualification or actual checkout confirmed. This is selectedhelpwording, not a complete currentfee schedule or a chosen scenario rate.",
+      "status": "T05R_second_challenge_context"
+    },
+    {
+      "candidate_id": "T5H-C10",
+      "source_candidate_ids": [
+        "T5H-S04",
+        "T5H-S05"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Marketplace rate/fee unit reconciliation",
+      "claim_text": "A marketplace contractor rate and the client’s total cash requirement can differ because platform fees and actual hiring/payment terms are separate; a quoted fee, its currency and cash timing must be recorded for the chosen route.",
+      "evidence_class": "researcher_route_total_and_cash_boundary",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Do not add generic maximum fees to every route, assume USdiscount eligibility or infer missing taxes/refunds as zero. No purchase or contract was opened.",
+      "status": "T05R_second_challenge_context"
+    }
+  ]
+}

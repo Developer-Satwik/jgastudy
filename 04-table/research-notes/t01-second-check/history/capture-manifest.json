@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1H-S01",
+      "url": "https://cpo.org/magazine/",
+      "final_url": "https://cpo.org/magazine/",
+      "retrieved_at_utc": "2026-10-30T01:56:21.337856+00:00",
+      "http_status": 200,
+      "capture_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S01.html",
+      "capture_sha256": "2c22058a432242c9c683adc95fd8739ab5dfc483c1e25bebe2c75f5bd71f3927",
+      "text_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S01.txt",
+      "text_sha256": "325787c739cbcb029974d91047bf0fdef1af75518c5e489625f572dca4175c26",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "T1H-S02",
+      "url": "https://cpo.org/ai-talent-trust-take-center-stage-at-payrolls-executive-summit/",
+      "final_url": "https://cpo.org/ai-talent-trust-take-center-stage-at-payrolls-executive-summit/",
+      "retrieved_at_utc": "2026-10-30T01:56:23.460614+00:00",
+      "http_status": 200,
+      "capture_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S02.html",
+      "capture_sha256": "afd8fb97e43ede11ac17bf4948453c688e3002961fdf68b8de98e8c206901fa2",
+      "text_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S02.txt",
+      "text_sha256": "deda805896ab9cb87655da84166221ad46dec6d4d3d8cd0758980331cfd82237",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "T1H-S03",
+      "url": "https://store.payroll.org/accomplishments",
+      "final_url": "https://store.payroll.org/accomplishments",
+      "retrieved_at_utc": "2026-10-30T01:56:24.268330+00:00",
+      "http_status": 200,
+      "capture_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S03.html",
+      "capture_sha256": "e6a8310b6f3086f89af31e450f19da374977c6640b3382f2d27a2c8f7b3621c1",
+      "text_path": "04-table/research-notes/t01-second-check/history/captures/T1H-S03.txt",
+      "text_sha256": "dc512e08108b971924de158736e1392cb6ce58261d8a557b63677f637093e427",
+      "capture_kind": "excluded_application_shell",
+      "usable_substantive_original": false,
+      "limitations": "HTTP200 application shell contains no substantive Accomplishments body. Browser control disabled. Primary search-index excerpt suggested JGA collaboration but is not adopted as a supported partnership claim."
+    }
+  ]
+}

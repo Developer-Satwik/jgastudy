@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-30",
+  "purpose": "Specific competitor/offer-format and prior-task counterexample challenge",
+  "reviewed_new_route": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+  "fresh_canonical_rechecks": [
+    "SRC-0193",
+    "SRC-0222",
+    "SRC-0116"
+  ],
+  "prior_context_reused": [
+    "SRC-0190",
+    "SRC-0221",
+    "SRC-0192",
+    "SRC-0088"
+  ],
+  "primary_web_reopen": "Oakleaf new route reopened30October2026; relevantformat sections verified against retainedoriginal",
+  "excluded_assertions": [
+    "Pension/tax/legal reform details and savings",
+    "Webinar recording content or attendance",
+    "Reach, paid demand, conversion, partnership or licence rights"
+  ],
+  "model_reruns": 0,
+  "external_actions": false
+}

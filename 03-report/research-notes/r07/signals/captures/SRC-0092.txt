@@ -1,0 +1,165 @@
+Mandatory payrolling of benefits in kind and expenses – interim guidance and legislation - Getting ready for mandatory payrolling of benefits in kind - Guidance - GOV.UK
+Cookies on GOV.UK
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+Accept additional cookies
+Reject additional cookies
+View cookies
+Hide cookie message
+Skip to main content
+GOV.UK
+Navigation menu
+Menu
+Menu
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+Departments, agencies and public bodies
+News
+News stories, speeches, letters and notices
+Guidance and regulation
+Detailed guidance, regulations and rules
+Research and statistics
+Reports, analysis and official statistics
+Policy papers and consultations
+Consultations and strategy
+Transparency
+Data, Freedom of Information releases and corporate reports
+Search GOV.UK
+×
+Search GOV.UK
+Search
+Search GOV.UK
+Search
+Home
+Mandatory payrolling of benefits in kind and expenses – interim guidance and legislation
+From:
+HM Revenue & Customs
+Published:
+26 November 2025
+Updated:
+23 September 2026 - See all updates
+Search this manual
+Search
+Back to contents
+Getting ready for mandatory payrolling of benefits in kind
+Information about how to get ready for mandatory payrolling of benefits in kind (BiKs).
+Preparing as early as possible is key for ensuring a smooth transition to the new system with minimal disruption, cost, and impact on employees. It is important not to underestimate the time it will take to ensure payroll processes are robust enough to handle real time reporting of benefits in kind ( BiKs ).
+The extension to the delivery timeline from April 2026 to April 2027 was to ensure that everyone has more time to prepare.
+This chapter contains some points that need to be considered, by employers, agents, software developers and third party benefit providers, at least a year before the April 2027 introduction of mandatory payrolling of BiKs .
+Registration
+Employers will not need to register in order to payroll mandatory BiKs (company cars, car fuel, vans, van fuel and private medical benefits) from April 2027. However, employers wishing to voluntarily payroll non-mandatory BiKs (including employment related loans and accommodation) will need to register to do so. The service to register to payroll non-mandatory BiKs from April 2027 will go live in November 2026.
+We encourage employers who want to voluntarily register to payroll non-mandatory BiKs to do so as soon as the service goes live in November 2026. The deadline for registering to voluntarily payroll non-mandatory BiKs will be 5 April 2027.
+HMRC will automatically remove the BiKs from employees’ tax codes ready for the start of mandatory payrolling on 6 April 2027. As part of this work HMRC will retain the current process of collecting under payments from a previous year. This means as part of the coding exercise HMRC ’s systems will not remove underpayments of tax from a previous tax year from tax codes (for example, additional tax due on a benefit in kind ( BiK ) or expense). Alternatively, if an employee wants to pay the underpayment they can do so. In some circumstances they may be able to use the personal tax account to do this. There is also an option to send a cheque or postal order to HMRC , as long as the employee has received a P800 which confirms the underpayment.
+Communicating to employees
+It is very important that employees are made aware of the changes to how their BiKs will be taxed from April 2027. Early communication will be key to enable them to understand how this might affect their tax codes and take-home pay.
+It is important that employers explain that:
+those employees who are currently paying tax in arrears on their BiKs will not be doing so from April 2027 onwards – many employees may not realise that this is how they were paying tax on their BiKs , and that they will be paying tax on their BiKs in the year that they receive them
+they may currently have a deduction in their tax code so that they pay tax on an estimated BiK – this will no longer be the case from April 2027
+tax on BiKs will have to be paid in real time in the year that they are received
+Where an employee is also paying tax on a BiK provided in a previous year, it is important that employers explain that it might appear from April 2027 that they are paying tax twice on the BiKs . It will need to be explained that they will be paying tax in real time on the BiKs they receive for that year whilst also catching up with payment of tax for the BiKs from the previous years. Terminology used in any communications to explain this very important distinction will need to be very clear. Find out how tax can be accounted for in this scenario .
+There may be instances where an employee is paying tax in the current year as well as underpayments for previous years which may be related to BiKs . If this causes hardship, the employee should be advised to contact HMRC to discuss options based on their circumstances.
+Preparing for the transition to real time reporting of BiKs
+Here are a few things you can do to ensure your payroll processes are ready to report BiKs in real time:
+1. Make a list of all the BiKs you offer and which would ordinarily be reported to HMRC on a P11D form
+This will help determine which ones will need to be payrolled.
+If you provide employment related loans or accommodation benefits, you will not need to payroll these BiKs but you may decide to voluntarily payroll so that you do not need to operate 2 separate reporting processes.
+You may have employees for whom it may not be possible to report their BiKs in real time. Read Reporting BiKs for employees whose BiKs cannot be payrolled for what to do in this scenario.
+You could consider how your vendors, payroll, HR or finance teams and advisors (if applicable) administer BiKs data currently and how information is sent to those teams.
+Your payroll team or your payroll agent (if you have one) will need information about BiKs routinely, especially if there has been a change to the BiK , in order to report it accurately. The information flow, from the employee or third parties (if applicable) alongside the processes to ensure it gets to the payroll team in a timely manner, would need to be assessed. If your current reporting process cannot handle real time reporting of BiKs , you will need to consider how you will amend your processes to comply with this change from April 2027.
+If you have a benefits provider you will need to consider the information flow between them and your payroll team. Assess how quickly the required changes are sent to your payroll team and what changes will be needed to ensure the new reporting deadlines are not missed. This will need to be aligned with how often your payroll is run in the tax year.
+2. Ensure that your payroll software can handle real time reporting of BiKs and is compliant with HMRC ’s requirements
+Review which software or software changes will be needed along with who will provide this. Early discussions are recommended.
+HR and payroll teams will need to be aware of the upcoming changes and be provided with appropriate training to ensure accurate processing and reporting. HR and payroll teams may be asked queries by employees about the BiKs included in the calculation of their tax.
+3. Consider how you will manage employees who leave or join during the tax year, or benefits that change in value
+This includes changes in company cars, flexible benefit arrangements and salary sacrifice schemes. You will need to ensure that any changes are reported to HMRC as soon as you become aware of them.
+Things to consider
+You need to consider whether your payroll team will be able to handle the reporting of BiKs in real time – for instance if a review of your processes suggests there would be difficulties reporting certain benefits in real time, such as fuel benefit, we recommend early engagement with car fuel suppliers and affected employees to determine payroll cut off dates for information to be provided.
+Consider whether your current payroll processes and records make it easy to calculate payments for employees with variable pay periods – they will need to feed into payroll in time to be able to include correct BiKs amounts for each pay period.
+Consider whether you want to opt to voluntarily payroll all benefits apart from Loans and Accommodation under the existing voluntary payrolling process starting from April 2026. Early adoption allows businesses to familiarise themselves with the process before it becomes mandatory in April 2027. To do so, registration with HMRC must be completed by 5 April 2026 for the 2026 to 2027 tax year. Bear in mind that the current voluntary payroll service will not work in the same way as the new mandatory payroll service. However, early adoption will be a good opportunity to test your systems and processes in readiness for April 2027 and real time reporting. If you decide voluntarily payroll benefits from April 2026, consider registering early as this will allow HMRC enough time to adjust your employees’ tax codes before the tax year begins. Registration for the current voluntary process will not be available after 5 April 2026.
+Consider whether your payroll processes will cope with managing employees on secondment from overseas or handling benefits that other group companies provide – it’s important to be prepared to handle payrolling responsibilities, even when reliant on another company.
+Consider whether the introduction of real time payrolling of Class 1A National Insurance contributions from April 2027 may create cash flow challenges for your business, particularly in the first year of transition. This is because in July 2027, you will still need to pay the Class 1A National Insurance contributions for BiKs provided in the 2026 to 2027 tax year under the current P11D system, while also starting to pay Class 1A National Insurance contributions in real time for BiKs provided from April 2027 onwards. This results in a one-off overlap where 2 sets of Class 1A National Insurance contributions are due in the same financial year. To prepare, ensure your budgets reflect this dual payment obligation.
+Consider whether you have systems in place to share the required information with employees about the BiKs that have been payrolled.
+Voluntary payrolling registration service for the 2027 to 2028 tax year
+The voluntary payrolling registration service will be reopened in November 2026 to register to payroll all non-mandatory BiKs (including loans and accommodation) from April 2027.
+However, be aware that the voluntary payroll service will be very different to the mandatory payroll service. The extra Real Time Information ( RTI ) data fields will not be included in the voluntary service. For this reason, this may have a bearing on how you invest in changing your processes to comply with the voluntary payrolling service.
+Updates to Basic PAYE Tools
+HMRC ’s own payroll software, Basic PAYE Tools, will be updated to deal with the payrolling of benefits in kind from April 2027.
+Reducing costs for business
+We are doing everything we can to minimise the administrative burden on employers during the transition to real time reporting. We are publishing as much information as possible ahead of the introduction of mandatory payrolling in April 2027 to help customers prepare for the changes. We acknowledge that this is a big change for everyone and we are working to ensure that the introduction is as smooth as possible.
+We are working closely with industry experts to understand how our policy changes will affect employers, payroll providers, employees and agents amongst others. We will ensure that guidance is written clearly and fully takes into account the practical application of administering real time reporting of BiKs .
+To support the smooth introduction of this change, customers who have made an error related to mandatory payrolling in their RTI returns for the 2027 to 2028 tax year will not be charged penalties for inaccuracies unless there is evidence of deliberate non-compliance. Late filing and late payment penalties for RTI returns may apply where returns are not sent on time or payment is not made on time, as will statutory late payment interest.
+Print this page
+Is this page useful?
+Maybe
+Yes this page is useful
+No this page is not useful
+Thank you for your feedback
+Report a problem with this page
+Help us improve GOV.UK
+Do not include personal or financial information like your National Insurance number or credit card details.
+This field is for robots only. Please leave blank
+What were you doing?
+What went wrong?
+Send
+Cancel
+Help us improve GOV.UK
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab and requires JavaScript ) .
+Cancel
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+News
+Guidance and regulation
+Research and statistics
+Policy papers and consultations
+Transparency
+How government works
+Get involved
+Support links
+Help
+Privacy
+Cookies
+Accessibility statement
+Contact
+Terms and conditions
+Rhestr o Wasanaethau Cymraeg
+Government Digital Service
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+© Crown copyright

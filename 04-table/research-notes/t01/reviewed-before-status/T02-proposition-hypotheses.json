@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-29",
+  "status": "draft_for_internal_review_not_buyer_validated",
+  "derived_from": "T01 public comparables and existing Table design brief",
+  "hypotheses": [
+    {
+      "hypothesis_id": "T02-H01",
+      "exchange": "Research use",
+      "possible_buyer": "Employer or adviser with a specific payroll investment/change decision",
+      "proposition": "A bounded decision pack using original cases, alternatives, evidence requirements and a practical briefing, with explicit internal-use rights.",
+      "test": "Ask about a recent actual decision, what supported it, what remained unresolved, who owned the budget and what output could have changed the next action. Compare against the buyer’s actual free/internal alternatives.",
+      "counter_signal": "Only general curiosity; free material already sufficient; no decision owner/use; requested evidence cannot be collected or responsibly generalised.",
+      "not_established": "Willingness to pay, price, enterprise licence demand, repeat purchase or measured decision benefit.",
+      "status": "untested_design_hypothesis",
+      "actual_supporting_contributions": [],
+      "validated": false
+    },
+    {
+      "hypothesis_id": "T02-H02",
+      "exchange": "Founding research partnership",
+      "possible_buyer": "Relevant payroll ecosystem organisation funding defined independent work",
+      "proposition": "Disclosed support for a research edition with specific aggregate outputs, recognition and separately defined reuse permissions.",
+      "test": "Establish actual intended use, acceptable evidence and audience, approval/budget route, required rights and editorial expectations. Clarify whether the organisation actually wants research or meetings/contacts.",
+      "counter_signal": "Value depends on default participant identities, guaranteed meetings, favourable findings, veto powers or unachievable exclusivity.",
+      "not_established": "A sponsor commitment, launch funding, acceptable price, editorial independence contract or permission for commercial contact.",
+      "status": "untested_design_hypothesis",
+      "actual_supporting_contributions": [],
+      "validated": false
+    },
+    {
+      "hypothesis_id": "T02-H03",
+      "exchange": "Practitioner participation",
+      "possible_buyer": "No practitioner fee is proposed in the original Table concept; the participant contributes time and knowledge.",
+      "proposition": "Relevant senior peers, useful findings and a practical follow-through benefit, with clear confidentiality and optional recognition.",
+      "test": "Ask which peer/research output would earn their time, what they can appropriately share, existing alternatives, travel/employer constraints and preference for remote/written contribution. Keep research participation separate from future council interest.",
+      "counter_signal": "Hospitality is the sole attraction; employer rules prevent attendance/sharing; peers or topics are irrelevant; little reason to return.",
+      "not_established": "Accepted membership, actual eligible contribution, permission to publish, a continuing engagement pattern or a representative panel.",
+      "status": "untested_design_hypothesis",
+      "actual_supporting_contributions": [],
+      "validated": false
+    },
+    {
+      "hypothesis_id": "T02-H04",
+      "exchange": "Incremental event value",
+      "possible_buyer": "JGA as programme owner and any separately identified funder",
+      "proposition": "A small facilitated UK gathering might add case depth or peer value beyond the same research collected remotely.",
+      "test": "Compare the same intended output with remote/written alternatives, identify what the room uniquely enables and what evidence would show it. Cost all staff, recruitment, hosting, travel and funding timing later.",
+      "counter_signal": "Travel/hospitality add burden without distinct evidence or member value; uncertain funding precedes non-refundable costs; no responsible delivery owner.",
+      "not_established": "Event preference, paid partner return, a venue budget, go/no-go thresholds or four-city viability.",
+      "status": "untested_design_hypothesis",
+      "actual_supporting_contributions": [],
+      "validated": false
+    }
+  ],
+  "actual_interviews": 0,
+  "actual_commitments": [],
+  "price_recommendations": [],
+  "new_report_questions": 0,
+  "fieldwork_activated": false,
+  "T03_validation_complete": false,
+  "validation_scope": "Up to four exploratory Table contribution events, ideally two buyers and two prospective members; selective overlap only with actual eligible permissioned report input. Not a statistical market or pricing study."
+}

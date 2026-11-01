@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "prepared_on": "2026-10-28",
+  "scope": "R01 wider source audits only",
+  "sources": [
+    {
+      "source_id": "SRC-0040",
+      "title": "Deloitte 2025 Payroll Benchmarking Survey",
+      "publisher": "Deloitte",
+      "url": "https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-2025-payroll-benchmarking-survey.pdf",
+      "published_date": "2025-04",
+      "fieldwork_period": "2024; publisher landing page; exact dates unstated",
+      "accessed_on": "2026-10-28",
+      "sample_size": 15,
+      "population": "Multinational mega-enterprises, 25,000\u2013240,000 employees; eight technology firms",
+      "geography": "Global operations; not a UK sample",
+      "source_type": "published_report",
+      "review_status": "original_report_relevant_sections_reviewed",
+      "method_available": true,
+      "funding_or_commercial_interest": "Publisher offers payroll consulting; other funding unknown",
+      "reviewed_locator": "PDF pp3,5,28,34\u201340; landing https://www.deloitte.com/us/en/services/consulting/services/payroll-operations-survey.html",
+      "interpretation_limits": "Variable question bases; small purposive peer group; not national prevalence.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/wider/SRC-0040-Deloitte-2025.pdf",
+      "capture_sha256": "6e6e5c4add17b7fdc94a7da738fa2a0c49a3e58cca2efa88656326eb37e5b714",
+      "reuse_status": "Reference/paraphrase only; redistribution permission not established",
+      "publication_eligibility": "R01 background only; claim/context QA required",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0041",
+      "title": "The State of AI in Payroll",
+      "publisher": "Bright with IPASS and The Payroll Centre",
+      "url": "https://brightsg.com/en-ie/white-paper/ai-payroll-report/",
+      "published_date": "2026-10-02",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "sample_size": null,
+      "population": "More than 300 payroll professionals, as advertised",
+      "geography": "UK and Ireland",
+      "source_type": "study_landing_page",
+      "review_status": "landing_page_only",
+      "method_available": false,
+      "funding_or_commercial_interest": "Payroll software publisher and named professional partners",
+      "reviewed_locator": "Landing sections What is in This Report and Why AI in Payroll Matters Now",
+      "interpretation_limits": "Full report not obtained; exact n, recruitment, field dates and question bases uninspected.",
+      "capture_path": null,
+      "capture_sha256": null,
+      "reuse_status": "Reference/paraphrase only; redistribution permission not established",
+      "publication_eligibility": "R01 background only; claim/context QA required",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0042",
+      "title": "UK Payroll Efficiency Report 2026",
+      "publisher": "Finity",
+      "url": "https://www.finity.co.uk/wp-content/uploads/2026/03/UK-Payroll-Efficiency-Report-2026.pdf",
+      "published_date": "2026-03",
+      "fieldwork_period": "2025-12 to 2026-01",
+      "accessed_on": "2026-10-28",
+      "sample_size": 342,
+      "population": "Finance and payroll professionals; report emphasises recruitment/temp-work context",
+      "geography": "UK-labelled report; exact sample geography breakdown unstated",
+      "source_type": "published_report",
+      "review_status": "original_report_relevant_sections_reviewed",
+      "method_available": true,
+      "funding_or_commercial_interest": "Payroll software supplier; other funding unknown",
+      "reviewed_locator": "PDF pp2,8,12,17 visually inspected; all-page contact sheet reviewed",
+      "interpretation_limits": "Recruitment, weighting and per-question bases unstated; promotional wording varies.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/wider/SRC-0042-Finity-2026.pdf",
+      "capture_sha256": "fa829966b0f5fb1f3d2992168ac145be0f7aa0d981d9d103c414339f3724fb90",
+      "reuse_status": "Reference/paraphrase only; redistribution permission not established",
+      "publication_eligibility": "R01 background only; claim/context QA required",
+      "related_topic_ids": [
+        "R01"
+      ]
+    },
+    {
+      "source_id": "SRC-0043",
+      "title": "Payroll Profession Confidence Index July 2025",
+      "publisher": "Payroll Influences",
+      "url": "https://www.payrollinfluences.com/_files/ugd/7894a1_fce67e03478541c28e4c49afccdb6b3c.pdf",
+      "published_date": "2025-07",
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "sample_size": 638,
+      "population": "Mixed payroll stakeholders including practitioners and executives",
+      "geography": "31 countries; company-headquarters mix reported 70 percent North America",
+      "source_type": "published_report",
+      "review_status": "original_report_relevant_sections_reviewed",
+      "method_available": true,
+      "funding_or_commercial_interest": "Report explicitly describes itself as unsponsored and non-monetised",
+      "reviewed_locator": "PDF pp4\u20135 method; pp8\u20139,14,26 themes; pp37\u201338 demographics",
+      "interpretation_limits": "Self-reported sentiments; non-probability recruitment/weighting not established; associations are not causal effects.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/wider/SRC-0043-PPCI-2025.pdf",
+      "capture_sha256": "b9e0f013b42518dde4ef4cb6dd7720e416a0306f9b1f6481c91ffe3673370e5b",
+      "reuse_status": "Reference/paraphrase only; redistribution permission not established",
+      "publication_eligibility": "R01 background only; claim/context QA required",
+      "related_topic_ids": [
+        "R01"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-0080",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF p3",
+      "claim_text": "The study includes 15 multinational companies, with question-specific participation footnotes.",
+      "evidence_class": "published_finding",
+      "value": 15,
+      "unit": "companies",
+      "denominator": 15,
+      "support_checked": true,
+      "interpretation_limits": "Do not treat each chart as n15.",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0081",
+      "source_ids": [
+        "SRC-0040"
+      ],
+      "locator": "PDF contents p2; sections pp8\u201346",
+      "claim_text": "Contents and reviewed sections focus on staffing, operations, integration and costs.",
+      "evidence_class": "published_finding",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "support_checked": true,
+      "interpretation_limits": "Detailed decision-case evidence was not established in this inspection; this does not prove none exists elsewhere.",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0082",
+      "source_ids": [
+        "SRC-0041"
+      ],
+      "locator": "Landing What is in This Report",
+      "claim_text": "The advertised research covers AI use, trust, pressure and workforce experience.",
+      "evidence_class": "published_finding",
+      "value": "300+",
+      "unit": "advertised respondents",
+      "denominator": null,
+      "support_checked": true,
+      "interpretation_limits": "No unseen adoption percentages extracted.",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0083",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "locator": "PDF p17",
+      "claim_text": "Method describes 342 finance and payroll professionals surveyed during December 2025 and January 2026.",
+      "evidence_class": "published_finding",
+      "value": 342,
+      "unit": "respondents",
+      "denominator": 342,
+      "support_checked": true,
+      "interpretation_limits": "",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0084",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "locator": "PDF p12",
+      "claim_text": "Report states 68 percent experience delays paying workers.",
+      "evidence_class": "published_finding",
+      "value": 68,
+      "unit": "percent",
+      "denominator": null,
+      "support_checked": true,
+      "interpretation_limits": "Exact question/base unavailable; p2 uses broader delivery/reconciliation/reporting wording.",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0085",
+      "source_ids": [
+        "SRC-0043"
+      ],
+      "locator": "PDF p4",
+      "claim_text": "Method reports 638 mixed payroll stakeholders in 31 countries.",
+      "evidence_class": "published_finding",
+      "value": 638,
+      "unit": "stakeholders",
+      "denominator": 638,
+      "support_checked": true,
+      "interpretation_limits": "",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0086",
+      "source_ids": [
+        "SRC-0043"
+      ],
+      "locator": "PDF p5",
+      "claim_text": "Most reported metrics aggregate ratings four or five on a five-point scale.",
+      "evidence_class": "published_finding",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "support_checked": true,
+      "interpretation_limits": "Not interchangeable with conventional 0\u201310 NPS or an approval probability.",
+      "status": "checked_for_R01_not_final_publication"
+    },
+    {
+      "claim_id": "CLM-0087",
+      "source_ids": [
+        "SRC-0043"
+      ],
+      "locator": "PDF pp8\u20139,14,26",
+      "claim_text": "Executive engagement, investment adequacy, strategic value and roadmaps are already investigated themes.",
+      "evidence_class": "published_finding",
+      "value": "theme coverage",
+      "unit": null,
+      "denominator": null,
+      "support_checked": true,
+      "interpretation_limits": "Does not by itself reconstruct rejected investment cases.",
+      "status": "checked_for_R01_not_final_publication"
+    }
+  ],
+  "searches": [
+    {
+      "date": "2026-10-28",
+      "queries": [
+        "site.deloitte.com 2025 payroll benchmarking survey 15 organizations",
+        "site.brightsg.com AI payroll report 2026 IPASS Payroll Centre",
+        "site.finity.co.uk payroll efficiency report 2026",
+        "2025 Payroll Profession Confidence Index report methodology",
+        "site.payrollinfluences.com/researches 2026 Confidence"
+      ],
+      "outcome": "Three original PDFs obtained from public original routes; Bright remains landing-page-only; no forms submitted."
+    }
+  ],
+  "access_notes": [
+    "Bright direct urllib fetch returned 403; web page text readable. No bypass attempted.",
+    "Deloitte PDF URL was present as a public link in original publisher HTML.",
+    "Finity PDF is image-based locally; selected source pages visually checked.",
+    "PPCI original PDF obtained from public Download link. No 2026 results report established."
+  ],
+  "potential_parent_merge_note": "SRC-0041 is a new specific original route. SRC-0040/42/43 are original PDFs, not duplicates of their landing/catalogue pages. Existing SRC-0013 catalogue remains separate; distinguish its sponsored products from unsponsored PPCI."
+}

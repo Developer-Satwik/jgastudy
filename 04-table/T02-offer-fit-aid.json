@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "status": "optional_internal_aid_not_activated",
+  "blank_offer_fit": {
+    "proposition_reference": null,
+    "edition_and_actual_evidence_period": null,
+    "actual_releasable_material_for_use": null,
+    "actual_task_country_role_and_claim": null,
+    "supported_use_and_limits": null,
+    "correction_refresh_or_new_task_context": null,
+    "briefing_work_boundary": null,
+    "benefit_fulfilment_object": null,
+    "exact_concept_stage_or_amendment_reference": null,
+    "actual_feedback_context_and_unknowns": null
+  },
+  "actual_offer_fit_records": [],
+  "new_participant_form": false,
+  "new_case_quota": false,
+  "practitioner_count_rule_changed": false,
+  "actual_concept_exposures": [],
+  "financial_inputs": [],
+  "prices": []
+}

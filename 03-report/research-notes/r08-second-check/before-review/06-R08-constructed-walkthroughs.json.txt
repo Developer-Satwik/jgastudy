@@ -1,0 +1,529 @@
+{
+  "date": "2026-10-29",
+  "status": "completed_internal_constructed_walkthrough_not_practitioner_validation",
+  "framework_version": "0.1",
+  "route_count": 10,
+  "practitioner_validation": false,
+  "actual_case_records": [],
+  "numerical_results": [],
+  "routes": [
+    {
+      "route_id": "R08-T01",
+      "case_route": "adequate_current_no_new_case",
+      "recorded_position": "Adequate scoped current service; no new material priority supplied.",
+      "proposal_decision": null,
+      "selected_response": null,
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Any separate renewal",
+        "Later conditions/review"
+      ],
+      "supported_next_action": null,
+      "owner": null,
+      "view_ids": [
+        "V01",
+        "V02",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No manufactured gap, approval, transaction or compulsory monitoring.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed contributor reports that the current scoped payroll task is adequate and identifies no material improvement they expect the organisation to prioritise.",
+        "No separate renewal, replacement or new investment decision is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0347",
+        "CLM-0348",
+        "CLM-0365",
+        "CLM-0366",
+        "CLM-0408"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T02",
+      "case_route": "pre_proposal_need",
+      "recorded_position": "A stated task/control need has never been raised as a proposal.",
+      "proposal_decision": null,
+      "selected_response": null,
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Organisational awareness",
+        "Feasible alternatives",
+        "Authority/resources"
+      ],
+      "supported_next_action": "A proportionate clarification can be proposed; it is not an actual authorised action or remedy effect.",
+      "owner": null,
+      "view_ids": [
+        "V01",
+        "V02",
+        "V03",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "Not pending, declined or deferred; no new platform/hire inferred.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed contributor identifies a concrete handoff or control problem within their remit.",
+        "They state that it has not been raised as a proposal and provide no organisational approval, funding or selected response."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0362",
+        "CLM-0365",
+        "CLM-0366",
+        "CLM-0393",
+        "CLM-0408"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T03",
+      "case_route": "scoped_operating_action",
+      "recorded_position": "Contributor explicitly supplies no separate formal approval requirement for this scoped action.",
+      "proposal_decision": "No formal approval required for this action, per constructed premise.",
+      "selected_response": "Small process/control change",
+      "resource_basis": "Existing scoped resources, per premise.",
+      "broader_authority": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Wider authority",
+        "Actual operation/result"
+      ],
+      "supported_next_action": null,
+      "owner": null,
+      "view_ids": [
+        "V03",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No committee, new budget, unrestricted authority or success is invented.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed contributor describes a small process/control change within their existing remit and resources.",
+        "They explicitly state that no separate formal approval was required for that particular action.",
+        "No wider purchasing authority, full implementation assurance or assessed benefit is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0255",
+        "CLM-0261",
+        "CLM-0262",
+        "CLM-0287",
+        "CLM-0365",
+        "CLM-0408"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T04",
+      "case_route": "conditional_scoped_phase",
+      "recorded_position": "Initial phase approval/resources supplied; separate release condition and later-phase unknowns.",
+      "proposal_decision": "Initial phase approved only.",
+      "selected_response": null,
+      "resource_basis": "Initial phase only.",
+      "later_phase_resources": null,
+      "release_condition_clearance": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Clearance/execution",
+        "Later phases",
+        "Assessed result"
+      ],
+      "supported_next_action": "The condition/clearance and relevant next decision are the evidence gap, not a claimed completed step.",
+      "owner": null,
+      "view_ids": [
+        "V03",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "Approval/resources do not become live operation; later scope is neither funded nor unfunded by inference.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed account supplies approval and resources for an initial scoped phase.",
+        "A separate clearance condition precedes operational release; a later phase is described but its resources are not supplied.",
+        "No executed release, later-phase approval or assessed benefit is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0255",
+        "CLM-0262",
+        "CLM-0299",
+        "CLM-0302",
+        "CLM-0318",
+        "CLM-0404",
+        "CLM-0408"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T05",
+      "case_route": "explicit_limited_renewal",
+      "recorded_position": "A limited renewal is explicitly selected for continuity and time to prepare an alternative.",
+      "proposal_decision": "Renewal decision supplied.",
+      "selected_response": "Retain scoped arrangement for limited period.",
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Later choice",
+        "Subsequent outcome",
+        "Optimality"
+      ],
+      "supported_next_action": "A relevant later preparation/review condition only if the account supplies it.",
+      "owner": null,
+      "view_ids": [
+        "V01",
+        "V02",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No permanent satisfaction, irrational inertia, guaranteed switch or standard duration.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed decision explicitly renews a scoped current arrangement for a limited period.",
+        "The supplied reason combines service continuity and the practical time needed to prepare a feasible alternative.",
+        "No permanent replacement commitment, optimality proof or subsequent outcome is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0345",
+        "CLM-0346",
+        "CLM-0348",
+        "CLM-0367",
+        "CLM-0370",
+        "CLM-0371",
+        "CLM-0427"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T06",
+      "case_route": "retained_platform_changed_route",
+      "recorded_position": "Platform retained; one commercial/service route change approved.",
+      "proposal_decision": "Approved scoped route change.",
+      "selected_response": "Retain platform, change specified route.",
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Contract execution",
+        "Operational service",
+        "Benefit"
+      ],
+      "supported_next_action": "Confirm the relevant execution/operation evidence if needed; no full replacement conclusion.",
+      "owner": null,
+      "view_ids": [
+        "V02",
+        "V03",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "Retention and change coexist; approval does not imply executed contract or service.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed account retains the payroll platform and supplies approval for a specific change to the commercial/service route.",
+        "The specific authority event is supplied, while contract execution, recurring-service operation and benefit are not."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0215",
+        "CLM-0344",
+        "CLM-0347",
+        "CLM-0365",
+        "CLM-0377",
+        "CLM-0378"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T07",
+      "case_route": "postponed_rollout",
+      "recorded_position": "Earlier authorisation and later declared rollout postponement; target elapsed without a later observation.",
+      "proposal_decision": "Earlier authorisation retained; no new decision event supplied.",
+      "selected_response": null,
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": "Postponed milestone declared in supplied account; later operation unknown.",
+      "benefit_assessment": null,
+      "unknowns": [
+        "Latest operational state",
+        "Realised result"
+      ],
+      "supported_next_action": "A later dated observation would be needed for a current-outcome claim; no automatic nudge/action required.",
+      "owner": null,
+      "view_ids": [
+        "V03",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No inferred deferred investment, current failure or completion from elapsed target.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed record supplies a previously authorised change and a later declared postponement of a rollout milestone.",
+        "It gives a sequencing or continuity reason but no new investment-decision event.",
+        "The target milestone has since passed, with no later observed event supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0349",
+        "CLM-0354",
+        "CLM-0365",
+        "CLM-0371",
+        "CLM-0412",
+        "CLM-0413",
+        "CLM-0427"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T08",
+      "case_route": "scoped_component_stop",
+      "recorded_position": "One component explicitly stops while other work and the underlying need continue.",
+      "proposal_decision": "Explicit stop of this component only.",
+      "selected_response": null,
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": "Other operations/components continue per premise; replacement not supplied.",
+      "benefit_assessment": null,
+      "unknowns": [
+        "Replacement",
+        "Comparative outcome",
+        "Remedy effect",
+        "Handback/dependency detail"
+      ],
+      "supported_next_action": "Describe any actual supported remaining need/handback condition; do not prescribe restart.",
+      "owner": null,
+      "view_ids": [
+        "V01",
+        "V02",
+        "V03",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No whole-need abandonment, failed supplier conclusion or guaranteed alternative.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed account supplies an explicit stop of one scoped project/component at a known stage.",
+        "Other operations/components continue and the underlying payroll need is still described.",
+        "No completed replacement, comparative outcome or alternative remedy effect is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0351",
+        "CLM-0352",
+        "CLM-0353",
+        "CLM-0354",
+        "CLM-0362",
+        "CLM-0366"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T09",
+      "case_route": "capability_access_uncertainty",
+      "recorded_position": "Defined task interest and advertised inclusion; actual entitlement/access/setup/use unknown, plus supplier future statement.",
+      "proposal_decision": null,
+      "selected_response": null,
+      "resource_basis": null,
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "unknowns": [
+        "Actual account entitlement",
+        "Access/setup/use",
+        "Future release"
+      ],
+      "supported_next_action": "A relevant capability/access clarification is a proposed evidence step, not proof a product purchase is needed.",
+      "owner": null,
+      "view_ids": [
+        "V01",
+        "V02",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No free total cost, tested capability, roadmap shipment, customer funding or success.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed contributor wants a defined task to improve and cites advertised inclusion in a current offer.",
+        "Actual account entitlement, permissions, configuration and use are unknown; a supplier also describes a future update.",
+        "No product test, firm quote, employer purchase decision or observed effect is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0414",
+        "CLM-0415",
+        "CLM-0417",
+        "CLM-0418",
+        "CLM-0424"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    },
+    {
+      "route_id": "R08-T10",
+      "case_route": "limited_knowledge_and_disclosure",
+      "recorded_position": "Potential dated external signal; actual applicability and employer states unknown, resources withheld.",
+      "proposal_decision": null,
+      "selected_response": null,
+      "resource_basis": null,
+      "resource_missingness": "not_disclosed",
+      "commitment": null,
+      "implementation": null,
+      "benefit_assessment": null,
+      "applicability_missingness": "not_known",
+      "unknowns": [
+        "Applicability",
+        "Authority",
+        "Operation",
+        "User result"
+      ],
+      "supported_next_action": null,
+      "owner": null,
+      "view_ids": [
+        "V01",
+        "V03",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "boundary_preserved": "No forced owner/date/approval/action, pending default, compulsory disclosure or funded need from external signal.",
+      "evidence_type": "constructed_internal_application",
+      "actual_employer": null,
+      "participant_id": null,
+      "actual_case_id": null,
+      "as_of_date": null,
+      "event_date": null,
+      "numerical_result": null,
+      "original_practitioner_observation": false,
+      "framework_version": "0.1",
+      "framework_path": "03-report/R08-framework-map.json",
+      "supplied_premises": [
+        "The constructed contributor identifies a potentially relevant dated external planning signal but cannot establish its detailed applicability to their actual payroll task.",
+        "They do not know the relevant approval/delivery position and prefer not to disclose resource information.",
+        "No original user outcome or later event is supplied."
+      ],
+      "supporting_claim_ids": [
+        "CLM-0365",
+        "CLM-0366",
+        "CLM-0401",
+        "CLM-0405",
+        "CLM-0408",
+        "CLM-0409",
+        "CLM-0428"
+      ],
+      "executed_against_preparatory_R08_framework": true,
+      "method": "Root-authored manual analytical application to supplied constructed premises; no automatic decision engine or human user test.",
+      "failed_boundary": null
+    }
+  ]
+}

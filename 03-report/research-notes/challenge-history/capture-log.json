@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-28",
+  "purpose": "Private research retention; reuse rights not established",
+  "records": [
+    {
+      "file": "cipp-future-2020.html",
+      "url": "https://online.flippingbook.com/view/903316/",
+      "status": "captured",
+      "sha256": "d766b09b57cd6169e7b7702d20167fe395ad3f9308ece911d0952b003d447dc6",
+      "bytes": 136513
+    },
+    {
+      "file": "cipp-future-2022.html",
+      "url": "https://online.flippingbook.com/view/1017671823/",
+      "status": "captured",
+      "sha256": "3ce83fb18d60dcab1f4dd89addf7b9fcafc04510943d42a93d7df37a1f04ab29",
+      "bytes": 133462
+    },
+    {
+      "file": "cipp-future-2024.html",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "status": "captured",
+      "sha256": "bbdd8da94a6855fa58bd7dccc2812391f3058ccf9a9ea34f7298da70ded8f959",
+      "bytes": 116615
+    },
+    {
+      "file": "payo-2025.pdf",
+      "url": "https://info.payroll.org/pdfs/global/Global-Payroll-Week-2025-survey-results.pdf",
+      "status": "captured",
+      "sha256": "d1657bc5ee01c75465aeb0dd825167b1093bb221609841f7fcecd37a80fb71d4",
+      "bytes": 2456218
+    },
+    {
+      "file": "hmrc-bik-default-2026.html",
+      "url": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-default-operation-of-mandatory-payrolling",
+      "status": "captured",
+      "sha256": "993809c6a7285ac47bba7ff3d17dfbc09c1281b67527cdd1114df98a996b7710",
+      "bytes": 59827
+    },
+    {
+      "file": "hmrc-agent-update-145.html",
+      "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update",
+      "status": "captured",
+      "sha256": "04fcbd7984d82891e2a53b7cc888e53f1e41f66e38781bbe53bc6593cfa270f0",
+      "bytes": 150469
+    }
+  ]
+}

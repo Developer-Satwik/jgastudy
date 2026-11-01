@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-28",
+  "records": [
+    {
+      "canonical_source_id": "SRC-0020",
+      "title": "Payroll Insights Survey Report 2026 In-house",
+      "url": "https://online.flippingbook.com/view/472716226/",
+      "reused": true,
+      "new_dataset": false,
+      "relevant_locators": "Printed pp4,10",
+      "funding_or_commercial_interest": "Professional-body publisher; external funding not identified",
+      "sample_context": "UK in-house payroll teams",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "canonical_source_id": "SRC-0022",
+      "title": "Payroll Insights Survey Report 2026 Pay Professionals",
+      "url": "https://online.flippingbook.com/view/471897251/",
+      "reused": true,
+      "new_dataset": false,
+      "relevant_locators": "Printed p7",
+      "funding_or_commercial_interest": "Publisher also offers the qualifications compared",
+      "sample_context": "UK payroll professionals across seniority levels",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "canonical_source_id": "SRC-0040",
+      "title": "Deloitte 2025 Payroll Benchmarking Survey",
+      "url": "https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-2025-payroll-benchmarking-survey.pdf",
+      "reused": true,
+      "new_dataset": false,
+      "relevant_locators": "PDF pp3,8,12,23–26,40,47",
+      "funding_or_commercial_interest": "Publisher offers payroll consulting; other funding unknown",
+      "sample_context": "Multinational mega-enterprises, 25,000–240,000 employees; eight technology firms",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "canonical_source_id": "SRC-0064",
+      "title": "The potential of payroll in 2026 Global payroll survey",
+      "url": "https://www.adp.com/-/media/adp/resourcehub/pdf/guidebooks/adp_potential_of_payroll_2026_us_optimized1.pdf",
+      "reused": true,
+      "new_dataset": false,
+      "relevant_locators": "Executive summary; official report-summary page",
+      "funding_or_commercial_interest": "Payroll technology and service provider",
+      "sample_context": "Senior payroll stakeholders at organisations with over 1000 employees across 20 countries",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "candidate_id": "CAP-ALIAS01",
+      "title": "What is the potential of your payroll organisation in 2026 official summary",
+      "url": "https://uk.adp.com/resources/adp-articles-and-insights/articles/g/global-payroll-survey.aspx",
+      "publisher": "ADP",
+      "same_dataset_as": "SRC-0064",
+      "new_dataset": false,
+      "review_status": "official_summary_inspected_via_web_reader",
+      "capture_path": null,
+      "capture_note": "Local HTTP 403; no file or hash invented",
+      "publication_date": null,
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "limitations": "Summary has selective findings and commercial framing; not a second independent study. No download form submitted."
+    }
+  ]
+}

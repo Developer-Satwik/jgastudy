@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-29",
+  "source_summary": {
+    "new_routes": 2,
+    "new_raw_original_routes_retained": 2,
+    "reused_canonical_routes": 4,
+    "new_captures_of_reused_originals": 2,
+    "product_tests": 0,
+    "new_JGA_contributors": 0
+  },
+  "pdf_skill_read": true,
+  "pdf_authoring": false,
+  "pdf_visual_reviews": [
+    {
+      "source_id": "SRC-0076",
+      "pdf_page_one_based": 21,
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-21.png",
+      "sha256": "39149751997a2026960caccb4f3dc2ec23ec99cc8b3b14ac5385fd38d3b77dc5",
+      "visually_inspected": true
+    },
+    {
+      "source_id": "SRC-0076",
+      "pdf_page_one_based": 41,
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0076-page-41.png",
+      "sha256": "ee9b389e6d4e48ad3c51468048c675c6c83d6cbcbb218ca58e56dbe2a35390b9",
+      "visually_inspected": true
+    },
+    {
+      "source_id": "SRC-0134",
+      "pdf_page_one_based": 47,
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-47.png",
+      "sha256": "64bbc3a01dc9b11ad2bd355edbe3b2c9884c236177eef1574d2c85696031c2bc",
+      "visually_inspected": true
+    },
+    {
+      "source_id": "SRC-0134",
+      "pdf_page_one_based": 48,
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-48.png",
+      "sha256": "958c303fe95acfbc0d7e86ddd69420952b569a4567921f47cbeb4df1f152ebc6",
+      "visually_inspected": true
+    },
+    {
+      "source_id": "SRC-0134",
+      "pdf_page_one_based": 55,
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0134-page-55.png",
+      "sha256": "6abf5389fd90560dba3a96f42c3884b4f1c60783c4d5fd33eddedf81535fe829",
+      "visually_inspected": true
+    },
+    {
+      "source_id": "SRC-0135",
+      "pdf_page_one_based": 38,
+      "path": "03-report/research-notes/r05/delivery/qa/SRC-0135-page-38.png",
+      "sha256": "de6eafda1e365d792e128c0d02d5a34b6868dafa6046059102fb9267d2975c9f",
+      "visually_inspected": true
+    }
+  ],
+  "checks": {
+    "plans_not_executed_results": true,
+    "no_payroll_only_economics_or_threshold": true,
+    "no_universal_parallel_run_duration": true,
+    "positive_case_preserved": true,
+    "incumbent_alternative_preserved": true,
+    "public_and_supplier_scopes_preserved": true,
+    "no_R06_causal_attribution": true,
+    "fourteen_core_unchanged": true
+  },
+  "method_boundary": "NAO business-case figures descriptive not independently replicated/assured. No numerical economic finding adopted.",
+  "scope_limit": "Published sources and researcher checklist, not original participant evidence. All canonical/client files left untouched.",
+  "external_actions": []
+}

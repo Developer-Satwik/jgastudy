@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-29",
+  "status": "draft_wording_prepared_for_parent_review_not_released",
+  "participant_core_word_count": 192,
+  "purpose": "Participant-facing wording proposals and separate permission choices for the collection pack; not a final notice or evidence of collection.",
+  "message_drafts": [
+    {
+      "draft_id": "W03-D01",
+      "section": "Draft introduction request to Nick",
+      "audience": "JGA commissioning contact",
+      "sent": false,
+      "contact_data_requested_for_immediate_transfer": false
+    },
+    {
+      "draft_id": "W03-D02",
+      "section": "Participant information core",
+      "audience": "Eligible practitioner, only with approved handling/privacy information",
+      "sent": false,
+      "complete_privacy_notice": false
+    },
+    {
+      "draft_id": "W03-D03",
+      "section": "Short invitation once release conditions are met",
+      "audience": "Eligible practitioner through agreed introduction route",
+      "sent": false,
+      "complete_privacy_notice": false
+    }
+  ],
+  "scope_preserved": {
+    "report_target_min": 6,
+    "report_target_max": 10,
+    "table_conversations_max": 4,
+    "ideally_table_buyers": 2,
+    "ideally_table_members": 2,
+    "same_person_counted_once": true,
+    "overlap_requires_eligibility_permission_and_actual_report_input": true,
+    "fourteen_core_questions_changed": false,
+    "new_mandatory_research_questions": 0,
+    "promised_interview_duration_minutes": null,
+    "promised_response_deadline": null,
+    "written_route_available": true
+  },
+  "working_contract_baseline": {
+    "authority": "Generated agreement section12, pending executed-copy reconciliation",
+    "on_behalf_participant_processing_controller": "JGA",
+    "on_behalf_participant_processing_processor": "Riseklix",
+    "document_materially_different_role_before_collection": true,
+    "own_business_contacts_invoices_legal_records_separate": true,
+    "return_or_secure_delete_at_JGA_choice_days_after_completion_or_termination": 30,
+    "remaining_backups_delete_days_where_technically_necessary": 90,
+    "required_legal_records_exception_protected_and_no_other_use": true,
+    "agreement_is_itself_transfer_mechanism": false
+  },
+  "permission_choices": [
+    {
+      "choice_id": "W03-P01",
+      "choice": "participation_and_manual_notes_or_written_input",
+      "scope": "Specific notice/version/mode and research purposes explained; no introduction-implied agreement."
+    },
+    {
+      "choice_id": "W03-P02",
+      "choice": "recording_if_proposed",
+      "scope": "Only approved tool/access/purpose/handling; optional, notes route remains; no inferred AI/transcription permission."
+    },
+    {
+      "choice_id": "W03-P03",
+      "choice": "de_identified_paraphrase",
+      "scope": "Specific report and cleared uses, contextual identification review and any participant restrictions."
+    },
+    {
+      "choice_id": "W03-P04",
+      "choice": "exact_quotation",
+      "scope": "Exact passage/context/use separately recorded and checked; paraphrase is not an exact quotation."
+    },
+    {
+      "choice_id": "W03-P05",
+      "choice": "name_and_role",
+      "scope": "Exact approved display text and use; no answer is not approval."
+    },
+    {
+      "choice_id": "W03-P06",
+      "choice": "employer_identification",
+      "scope": "Separate from personal name, with actual employer restrictions respected."
+    },
+    {
+      "choice_id": "W03-P07",
+      "choice": "contribution_clarification",
+      "scope": "Limited factual/wording follow-up, not future marketing or sponsor contact."
+    },
+    {
+      "choice_id": "W03-P08",
+      "choice": "future_research_invitation",
+      "scope": "Separate optional future invitation; no automatic later-edition reuse."
+    },
+    {
+      "choice_id": "W03-P09",
+      "choice": "table_information_or_exploratory_discussion",
+      "scope": "Interest only, not enrolment/event/hospitality/recognition or sponsor access."
+    }
+  ],
+  "permission_operating_rules": {
+    "preselected_choices": false,
+    "agree_to_all_option": false,
+    "all_prompts_required_every_case": false,
+    "record_actual_wording_scope_response_and_date": true,
+    "ambiguous_choice_defaults_to": "not_yet_agreed",
+    "participation_automatically_data_protection_lawful_basis": false
+  },
+  "open_release_items": [
+    {
+      "item_id": "W03-O01",
+      "item": "JGA focus, eligible introduction route, timetable and guide/information version",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O02",
+      "item": "User approval of a concrete external message before any sending",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O03",
+      "item": "Executed agreement reconciliation and any material role change",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O04",
+      "item": "JGA approved privacy notice, documented lawful collection instructions and actual project contact route",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O05",
+      "item": "Approved tools, restricted storage, authorised recipients and hosting/access locations",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O06",
+      "item": "Any required transfer route/safeguards/assessment before outside-UK access",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O07",
+      "item": "Specific publication/licensing/reuse, attribution/quotation review and correction/withdrawal arrangements",
+      "confirmed": false
+    },
+    {
+      "item_id": "W03-O08",
+      "item": "Practical burden and mode agreed without promising untested30–40minutes",
+      "confirmed": false
+    }
+  ],
+  "prohibited_inferences": [
+    "Introduction means permission",
+    "Participation means attribution or recording",
+    "Consent to research is necessarily UKGDPRconsent",
+    "Related material means unlimited future reuse",
+    "No name means anonymous",
+    "Table interest means membership or hospitality",
+    "Report licensing means access to identifiable participants",
+    "All distributed outputs can always be recalled",
+    "Ordinary workspace is approved secure storage"
+  ],
+  "participant_records": [],
+  "messages_sent": [],
+  "permissions_obtained": [],
+  "source_provenance": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/00-control/scope-baseline.json",
+      "sha256": "d50be13e18d3c76c27dde64eca46c114a4ea90cb8f3f0ac9018a8617f7dab013"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "sha256": "b6ec63f70e3f320a4fc8c40a1b0cab9dee5017288eac5ce40a73203aeeb7f414"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "sha256": "9f6b76002371913fde9501cbc07a40db702972f5812ac15296681f49ab07eded"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/01-method/RESEARCH-PROTOCOL.md",
+      "sha256": "f8319e66debe9ddc3cd269042df3432fc4d896a213c90fddc8deef44fdd2e4f8"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/01-method/FIELDWORK-PLAN.md",
+      "sha256": "42abdb66146c694e45a9ff89530e060c1bf0a47d455fb0dd9e27f06989a9ea43"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/projects/JGA-Payroll-Research-2027/00-control/CLIENT-INPUTS-AND-DECISIONS.md",
+      "sha256": "0bc515cc6b84d09fc8a847dfec1fd1d7bfca8909dafe07d06c3ef5651a1552b4"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-agreement-2026-10-27/agreement-text.txt",
+      "sha256": "9857c3f68c6655462a0eb47c03348751924d02235492facad511c9f108f418c0",
+      "reviewed_section": "12; supportingsections4,5,7,8",
+      "executed_copy_independently_retrieved": false
+    }
+  ],
+  "checks": [
+    {
+      "check": "Core participant information is150–220words",
+      "passed": true
+    },
+    {
+      "check": "Participant core has no emdash or asterisks",
+      "passed": true
+    },
+    {
+      "check": "External draft avoids emdash/asterisks: Draft introduction request to Nick",
+      "passed": true
+    },
+    {
+      "check": "External draft avoids emdash/asterisks: Short invitation once release conditions are met",
+      "passed": true
+    },
+    {
+      "check": "Working contract return/deletion periods with exception preserved",
+      "passed": true
+    },
+    {
+      "check": "Working on-behalf roles preserved with different-role condition",
+      "passed": true
+    },
+    {
+      "check": "Own business/invoicing records distinguished",
+      "passed": true
+    },
+    {
+      "check": "Participation choices not automatically lawful basis",
+      "passed": true
+    },
+    {
+      "check": "Untested discussion burden not promised",
+      "passed": true
+    },
+    {
+      "check": "Unsent and unapproved release status explicit",
+      "passed": true
+    }
+  ],
+  "check_count": 10,
+  "wording_path": "01-method/research-notes/wp03/wording/PARTICIPANT-WORDING.md",
+  "wording_sha256": "4f974914b1edd816c19158636d4340aaa003bb89f9dd18e1f5c13b9476fb5832"
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_parent_review",
+  "source_candidates": 2,
+  "claim_candidates": 5,
+  "original_files_retained_and_hash_checked": 6,
+  "new_PDF_sources": 0,
+  "canonical_files_changed": false,
+  "client_files_changed": false,
+  "external_actions": [],
+  "excluded": [
+    "Mistyped GOV.UK update-payroll-software route was not used; actual linked update-software original inspected.",
+    "SAP dynamic future-dated search release snippet and third-party/member commentary not adopted."
+  ]
+}

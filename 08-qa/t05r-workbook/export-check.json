@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_saved_XLSX_structural_and_cached_value_checks",
+  "workbook_sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677",
+  "restored_working_case": true,
+  "saved_outputs": {
+    "E6": "174",
+    "E7": "8726.14",
+    "E8": "23",
+    "E9": "n.a.",
+    "E10": "n.a."
+  },
+  "saved_JGA_rates_blank": true,
+  "frozen_input_rows": 4,
+  "chart_formula_bindings": [
+    "'Research cost'!$K$7:$K$11",
+    "'Research cost'!$M$7:$M$11"
+  ],
+  "formula_error_cells": [],
+  "native_Excel_application_tested": false
+}

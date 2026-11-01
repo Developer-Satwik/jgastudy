@@ -1,0 +1,44 @@
+3. Oracle Cloud implementation | 46 
+ 
+137.  The organisational readiness questionnaire could have been improved by 
+focusing on the factors within the control of users, and splitting the readiness 
+questions in to “requirements for go-live” and “desirables for go-live” or by 
+weighting the questions based on their significance to the go-live decision. This 
+would have ensured a better quantitative assessment was available to support 
+the conclusion that sufficient readiness had been achieved to go-live. 
+The Steering Committee approved the decision to go-live 
+based on an assessment that the outstanding issues and 
+risks were not significant enough to delay implementation 
+138.  The last meeting of the Shared Services Programme Management Board 
+before the go-live date was held on 19 September 2024. At that meeting the 
+SRO presented a DG Corporate Readiness Closedown Report. This included 
+the business function readiness statistics showing that for the 121 factors 
+considered, 63 were fully satisfied and 58 were in tolerance. It also highlighted 
+that of the 58 factors in tolerance, 25 needed to be fully satisfied for go-live and, 
+subject to this, the board recommended to the Steering Committee that it should 
+approve the decision to proceed with go-live on 1 October 2024. 
+139.  A meeting of the Steering Committee was held on 20 September 2024, the 
+day after the Shared Services Programme Management Board. This considered 
+the same information as the programme board and backed the decision to 
+proceed to go-live, subject to a final go-live meeting being held on 
+30 September 2024 to formally approve the go-live decision. 
+140.  The minutes of the meeting of the Steering Committee on 
+30 September 2024 noted that there were some known issues and risks which 
+would need to be addressed in the Oracle Cloud live environment. This included 
+the HR-Payroll user acceptance testing, payroll comparison testing exit criteria 
+and go-live organisational readiness issues identified above. However, the 
+committee agreed that these issues and risks were not significant enough to 
+delay the implementation of the system as it was assured on the functional 
+responsibilities, assured on behalf of the user bodies, and assured on the 
+overall programme and technology. The committee formally approved the 
+decision to proceed with the Oracle Cloud go-live date of 1 October 2024. 
+We are satisfied that the cutover process was well planned, 
+managed and executed 
+The cutover process in an IT project is the final step in transitioning from an 
+old system or environment to a new one. It involves executing a planned 
+sequence of tasks to ensure a smooth and successful go-live process. 
+141.  The cutover plan for the Oracle Cloud implementation comprised a wide 
+range of activities consistent with our expectations. The activities had owners 
+assigned who were responsible for ensuring successful completion during the 
+cutover process. The cutover manager had overall responsibility for ensuring 
+that all activities in the plan were completed as required. 

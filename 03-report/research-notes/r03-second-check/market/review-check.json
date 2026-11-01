@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_parent_candidate_review",
+  "source_candidates": 3,
+  "claim_candidates": 4,
+  "new_retained_originals_hash_checked": 1,
+  "web_inspected_local_capture_unavailable": 2,
+  "canonical_files_changed": false,
+  "client_files_changed": false,
+  "external_actions": [],
+  "review_scope": "Eight-path market challenge; targeted primary scope examples, no product trial or provider ranking"
+}

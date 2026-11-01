@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC4COMP-C01",
+      "source_ids": [
+        "SRC-0119"
+      ],
+      "claim_text": "Frazer Jones reports that aosphere’s CPO was tasked with building the HR operations and payroll structure during a de-merger, and that the recruiter supplied interim and permanent talent. This is a reported sponsor/mandate context, not a full approval-chain record.",
+      "locator": "The challenge/outcome/attribution, original reader lines184–205",
+      "evidence_class": "recruiter_published_named_case",
+      "population": "One named de-merger case, recruiter-selected account; decision date undisclosed",
+      "time_period": "Sources inspected29October2026; no time-series or prevalence estimate",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Funding release, contract signatory, payroll-platform selection and final acceptance authority are not disclosed. Do not infer universal CPO authority or causal staffing benefits.",
+      "review_mode": "Relevant original HTML/body sections inspected; actual captures/reader extract/reuse distinctions retained in source/capture logs",
+      "status": "R04_second_check_candidate"
+    },
+    {
+      "candidate_id": "SC4COMP-C02",
+      "source_ids": [
+        "SC4COMP-S02"
+      ],
+      "claim_text": "Oakleaf’s advertised UK Services Lead remit includes local resource allocation, provider oversight, performance and continuity through organisational changes. The advert describes requested work, not authority observed after appointment.",
+      "locator": "Advert summary/duties, original reader lines24–48",
+      "evidence_class": "prospective_recruitment_brief",
+      "population": "One unnamed UK energy-company role brief, published23October2026",
+      "time_period": "Sources inspected29October2026; no time-series or prevalence estimate",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Resource allocation language does not establish a spending envelope, supplier selection, contract signature or actual exercise. No salary/demand/availability finding adopted.",
+      "review_mode": "Relevant original HTML/body sections inspected; actual captures/reader extract/reuse distinctions retained in source/capture logs",
+      "status": "R04_second_check_candidate"
+    },
+    {
+      "candidate_id": "SC4COMP-C03",
+      "source_ids": [
+        "SC4COMP-S01"
+      ],
+      "claim_text": "Hays describes client timesheet approval as authorisation for worker payment and invoice generation, and a portal option for an alternate approver for a specified period or indefinitely. This is approval of a defined operational object, not general purchasing or project-output acceptance authority.",
+      "locator": "Employer Approving timesheets, original reader lines557–572; worker lines316–323",
+      "evidence_class": "supplier_operational_workflow_declaration",
+      "population": "Hays UK temporary-worker time/expense workflow",
+      "time_period": "Sources inspected29October2026; no time-series or prevalence estimate",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Portal permissions and published guidance do not prove legal corporate delegation, actual control effectiveness or a payroll-investment mandate. No timetable is transferred as an industry benchmark.",
+      "review_mode": "Relevant original HTML/body sections inspected; actual captures/reader extract/reuse distinctions retained in source/capture logs",
+      "status": "R04_second_check_candidate"
+    },
+    {
+      "candidate_id": "SC4COMP-C04",
+      "source_ids": [
+        "SRC-0116",
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "claim_text": "The rechecked competitor declarations distinguish leadership judgement/influence, PMO-owned defined delivery and combined consulting/staffing. These do not establish the client’s actual investment authority or reserved acceptance rights; the real remit and engagement must be established separately.",
+      "locator": "Middlemore Payroll Search lines18–27; Hays Delivery models/SOW; Robert Half intro and service routes",
+      "evidence_class": "cross_source_analytical_boundary",
+      "population": "Selected service declarations, not payroll programme observations",
+      "time_period": "Sources inspected29October2026; no time-series or prevalence estimate",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "This is an analytical boundary, not measured supplier comparison, independent performance validation, contract interpretation or a requirement to hire. The previous R03 engagement-mode findings remain context.",
+      "review_mode": "Relevant original HTML/body sections inspected; actual captures/reader extract/reuse distinctions retained in source/capture logs",
+      "status": "R04_second_check_candidate"
+    }
+  ]
+}

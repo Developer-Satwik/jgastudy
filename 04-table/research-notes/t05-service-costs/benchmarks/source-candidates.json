@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-01",
+  "scope": "Four bounded primary public service/billing-unit and sales-effort routes; four retained original HTML captures. No monetary rate adopted, no actual JGA rate or supplier quote established.",
+  "records": [
+    {
+      "candidate_id": "T5S-S01",
+      "url": "https://www.nibusinessinfo.co.uk/content/should-you-bid-tender",
+      "final_url": "https://www.nibusinessinfo.co.uk/content/should-you-bid-tender",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.805873+00:00",
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S01.html",
+      "capture_sha256": "193f2645aeb95f095ba383866f3432206cf9d58d9c989cad4bca238b966bbcf3",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S01.txt",
+      "parsed_sha256": "4a907963c087682765720acd3019161851b24dbb6c6621bc79dada2ae7bb45a5",
+      "sample_size": null,
+      "published_date": null,
+      "updated_date": null,
+      "review_status": "relevant_primary_service_and_unit_sections_inspected",
+      "reuse_status": "Private research verification; publication reuse requires appropriate attribution and applicable rights",
+      "benchmark_use_status": "public_service_scope_context_not_adopted_JGA_terms_or_rate",
+      "publication_eligibility": "working_context_final_use_pending",
+      "title": "Should you bid for a tender?",
+      "publisher": "nibusinessinfo.co.uk / Invest Northern Ireland",
+      "source_type": "public_business_guidance_sales_effort",
+      "population": "Businesses considering tender opportunities; Northern Ireland guidance context",
+      "method_available": "Qualitative business guidance; no labour-rate survey, time study or conversion base",
+      "date_note": "No publication or effective date established in inspected page; accessed 1 November 2026.",
+      "limitations": "Tender preparation guidance supports counting bid work even when unsuccessful; it is not evidence of JGA sales hours, win rates, customer demand, pricing or a direct-sales process identical to public procurement.",
+      "funding_or_commercial_interest": "Public business-support guidance; not a JGA cost study or supplier quote"
+    },
+    {
+      "candidate_id": "T5S-S02",
+      "url": "https://www.abiresearch.com/analyst-inquiry-faq/",
+      "final_url": "https://www.abiresearch.com/analyst-inquiry-faq/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.826757+00:00",
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S02.html",
+      "capture_sha256": "bc62d7a0cfba8c2c9ebe82e9cece01908ee352fe7a60e03d807c01f4c15de423",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S02.txt",
+      "parsed_sha256": "6dc4e98e503a1433484bb78bdcb64832d6a28853f477a812282d868e3f014953",
+      "sample_size": null,
+      "published_date": null,
+      "updated_date": null,
+      "review_status": "relevant_primary_service_and_unit_sections_inspected",
+      "reuse_status": "Private research verification; publication reuse requires appropriate attribution and applicable rights",
+      "benchmark_use_status": "public_service_scope_context_not_adopted_JGA_terms_or_rate",
+      "publication_eligibility": "working_context_final_use_pending",
+      "title": "ABI Research Analyst Inquiry FAQ",
+      "publisher": "ABI Research",
+      "source_type": "producer_subscription_service_scope_and_metering",
+      "population": "ABI Research active subscription/service clients, subject to seats, enterprise and metering terms",
+      "method_available": "Provider states inquiry scope, eligibility, scheduling and time tracking; no role-rate method or monetary tariff",
+      "date_note": "No publication or effective date established in inspected page; accessed 1 November 2026.",
+      "limitations": "Provider-specific service boundaries, not a JGA entitlement, staffed capacity, turnaround promise, market average, salary or monetary rate. It does not specify whether preparation time is debited or supply a minimum contractor booking.",
+      "funding_or_commercial_interest": "Research provider describes and sells its own subscriptions and consulting"
+    },
+    {
+      "candidate_id": "T5S-S03",
+      "url": "https://www.forrester.com/policies/analyst-access/",
+      "final_url": "https://www.forrester.com/policies/analyst-access/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.745565+00:00",
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S03.html",
+      "capture_sha256": "7e91e1bad9a035a1e02bb3a84b32fe0b144d2bdf1b5e9b3e3f4d8cdf66fbc2b5",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S03.txt",
+      "parsed_sha256": "f22ca0edf2ebae78f92a3a06ef7d022dbc502d0049bcf873064ce27f724fe344",
+      "sample_size": null,
+      "published_date": null,
+      "updated_date": null,
+      "review_status": "relevant_primary_service_and_unit_sections_inspected",
+      "reuse_status": "Private research verification; publication reuse requires appropriate attribution and applicable rights",
+      "benchmark_use_status": "public_service_scope_context_not_adopted_JGA_terms_or_rate",
+      "publication_eligibility": "working_context_final_use_pending",
+      "title": "Forrester Analyst Access Policy",
+      "publisher": "Forrester",
+      "source_type": "producer_analyst_session_and_preparation_scope",
+      "population": "Eligible Forrester product/license holders; inquiry and guidance entitlements vary by product and contract",
+      "method_available": "Provider defines session, question, preparation, attendance and custom-work limits; no labour-rate survey",
+      "date_note": "No publication or effective date established in inspected page; accessed 1 November 2026. Claims use retained raw original, not potentially lagged reader wording.",
+      "limitations": "Forrester-specific entitlements and scope ceilings, not observed typical effort, a per-session monetary fee, JGA policy, a compulsory briefing duration or available analyst capacity. Do not interpret maximum preparation as time that must be spent or bill it automatically.",
+      "funding_or_commercial_interest": "Research provider describes and sells its own licensed research, advisory and consulting"
+    },
+    {
+      "candidate_id": "T5S-S04",
+      "url": "https://www.forrester.com/policies/citations-policy/",
+      "final_url": "https://www.forrester.com/policies/citations-policy/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-11-01T10:26:25.782845+00:00",
+      "capture_kind": "retained_original_html",
+      "capture_path": "04-table/research-notes/t05-service-costs/benchmarks/captures/T5S-S04.html",
+      "capture_sha256": "8e13fd7ee77729b4e836da0381e6ae614672c2c4baf148ff4dd0d66f17e4bd35",
+      "parsed_path": "04-table/research-notes/t05-service-costs/benchmarks/parsed/T5S-S04.txt",
+      "parsed_sha256": "199c9924599d8280cfed2fb2d30d5ae1e570cc2f9ed6f0abc72a3b07f2c076c6",
+      "sample_size": null,
+      "published_date": null,
+      "updated_date": null,
+      "review_status": "relevant_primary_service_and_unit_sections_inspected",
+      "reuse_status": "Private research verification; publication reuse requires appropriate attribution and applicable rights",
+      "benchmark_use_status": "public_service_scope_context_not_adopted_JGA_terms_or_rate",
+      "publication_eligibility": "working_context_final_use_pending",
+      "title": "Forrester Citation Policy",
+      "publisher": "Forrester",
+      "source_type": "producer_external_use_rights_and_fulfilment_scope",
+      "population": "Forrester clients, reprint licensees and commissioned-research clients subject to contracts and policy exceptions",
+      "method_available": "Provider sets use/approval/reprint/replay distinctions and materials needed for review; no rate study or monetary licence tariff",
+      "date_note": "No publication or effective date established in inspected page; accessed 1 November 2026.",
+      "limitations": "Forrester-specific policy illustrates separable rights and fulfilment work; it creates no new JGA rights, approval duty or licence rate, and does not override JGA commissioned IP. A review-response window is elapsed service timing, not labour effort.",
+      "funding_or_commercial_interest": "Research provider protects and licenses its own research and branded assets"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0263",
+      "claim_ids": [
+        "CLM-0550",
+        "CLM-0551"
+      ],
+      "detail": "Existing CIEP 2026–27 project-management suggested freelance minimum £46.19/hour may be shown only as an explicitly labelled coordination comparison proxy. It is not a JGA customer-success, administration, sales or employee rate; freelance business costs and any actual supplier scope must be reconciled."
+    },
+    {
+      "source_id": "SRC-0265",
+      "claim_ids": [
+        "CLM-0553"
+      ],
+      "detail": "Reuse existing YunoJuno methodology to preserve UK GBP/day versus US USD/hour and directional platform-data limits; no new conversion or observation period inferred."
+    },
+    {
+      "source_id": "SRC-0266",
+      "claim_ids": [
+        "CLM-0554"
+      ],
+      "detail": "Existing Market Research Consultant published role average £372/day may be shown only as a labelled research-skill comparison proxy for a genuinely research-led task. It is not a JGA payroll-specialist briefing quote, sales rate or hourly fee; original 7.5-hour normalisation remains an analyst assumption."
+    }
+  ]
+}

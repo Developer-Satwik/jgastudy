@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "original_path": "00-control/CURRENT-STATUS.md",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "363568a478c830fd6c8579a3c49307a114fb4b7c32e2f295ec22c21b995ae31a"
+    },
+    {
+      "original_path": "README.md",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/README.md.txt",
+      "sha256": "196ab688441593b3be4bea681b4d184f3603d542570270b5c03c1dd639e457f7"
+    },
+    {
+      "original_path": "00-control/work-packages.json",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/00-control/work-packages.json",
+      "sha256": "880d0a804a468e055ddbe3edabfaf053275e0da2cd8f58d6b8dab3a4a372a23a"
+    },
+    {
+      "original_path": "00-control/changes.json",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/00-control/changes.json",
+      "sha256": "89a2c7032c9d176537e4a5a5b2b38a14713ac4a81209fd9c32cfe382ffe14f63"
+    },
+    {
+      "original_path": "00-control/decisions.json",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/00-control/decisions.json",
+      "sha256": "f6f8237a2bdeea87181af258ed1c2f9a53b33b1229726da42c2de19dd4ccc31d"
+    },
+    {
+      "original_path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "125c7d0f6a4cacefabbb710d21af7ade782e8c6419bd355f67243b0856f0394c"
+    },
+    {
+      "original_path": "08-qa/validate_workspace.py",
+      "snapshot_path": "04-table/research-notes/t05-programme/before-build/08-qa/validate_workspace.py",
+      "sha256": "31d8b257a5a581bbed943d5d7c97833f6eb29e8135be78fd1a63ea9556854382"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Internal Error ()
+citeturn507view0 [wordlim: 200] Source: open({"ref_id":"https://moderngov.rotherham.gov.uk/mgDecisionDetails.aspx?IId=96251&Opt=1","lineno":null}); 
+Failed to fetch https://moderngov.rotherham.gov.uk/mgDecisionDetails.aspx?IId=96251&Opt=1: (400) Timeout fetching--------------------------------------------------------------------------------
+Internal Error ()
+citeturn507view1 [wordlim: 200] Source: open({"ref_id":"https://www.argyll-bute.gov.uk/moderngov/ieListDocuments.aspx?MId=16285","lineno":null}); 
+Failed to fetch https://www.argyll-bute.gov.uk/moderngov/ieListDocuments.aspx?MId=16285: (400) Timeout fetching--------------------------------------------------------------------------------
+Internal Error ()
+citeturn507view2 [wordlim: 200] Source: open({"ref_id":"https://www.argyll-bute.gov.uk/moderngov/documents/s219288/ITRENT%20HR%20AND%20PAYROLL%20SYSTEMS%20REPLACEMENT%20PROJECT%20UPDATE.pdf","lineno":null}); 
+Failed to fetch https://www.argyll-bute.gov.uk/moderngov/documents/s219288/ITRENT%20HR%20AND%20PAYROLL%20SYSTEMS%20REPLACEMENT%20PROJECT%20UPDATE.pdf: (400) Timeout fetching

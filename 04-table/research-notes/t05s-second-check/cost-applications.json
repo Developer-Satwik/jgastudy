@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_read_only_constructed_applications",
+  "reviewer": "same_agent_second_check",
+  "independent_agent_review": false,
+  "source_workbook_sha256": "c257b76965c1b4db591d5c0382428c36b9a9b6ad8b0848e6f267f0569f3c620e",
+  "source_financial_inputs_sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d",
+  "cases": [
+    {
+      "case_id": "SA01",
+      "name": "Complete briefing unit",
+      "constructed_assumptions": {
+        "completed_sessions": 1
+      },
+      "result": {
+        "hours": 5.0,
+        "GBP_comparison": 248.0
+      },
+      "programme_implication": "Reconciles the preserved catalogue only; not a quote or observed delivery.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 1,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA02",
+      "name": "Joint audience if eligible",
+      "constructed_assumptions": {
+        "partner_administration_units": 2,
+        "shared_sessions": 1,
+        "audience_fit_and_permissions_confirmed": false
+      },
+      "result": {
+        "hours": 9.5,
+        "GBP_comparison": 455.855
+      },
+      "programme_implication": "Joint delivery is a conditional option. This calculation establishes no permission to combine buyers.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 2,
+        "Inputs!D28": 0,
+        "Inputs!D29": 1,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA03",
+      "name": "Separate confidential or incompatible audiences",
+      "constructed_assumptions": {
+        "partner_administration_units": 2,
+        "sessions": 2,
+        "no_reuse_credit_in_this_case": true
+      },
+      "result": {
+        "hours": 14.5,
+        "GBP_comparison": 703.855
+      },
+      "programme_implication": "One contract or common report does not prove one joint session is appropriate.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 2,
+        "Inputs!D28": 0,
+        "Inputs!D29": 2,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA04",
+      "name": "Exact preparation reused once",
+      "constructed_assumptions": {
+        "sessions": 2,
+        "common_preparation_hours_once": 3,
+        "live_hours_each": 1,
+        "separate_followthrough_hours_each": 1
+      },
+      "result": {
+        "hours": 7.0,
+        "GBP_comparison": 347.20000000000005
+      },
+      "programme_implication": "A conditional three-hour credit, not an automation or general reuse percentage. Necessary new preparation remains.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 2,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0,
+        "Inputs!H50": 1.5
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA05",
+      "name": "Cancelled after preparation, no delivered session",
+      "constructed_assumptions": {
+        "delivered_sessions": 0,
+        "preparation_already_incurred_hours": 3
+      },
+      "result": {
+        "catalogue_delivered_unit_hours": 0.0,
+        "additional_noncompletion_work_hours": 3,
+        "additional_reference_GBP": 148.8
+      },
+      "programme_implication": "The zero delivered-session count cannot represent this incurred work. Before programme use, add a separate exception/state allowance or a supported allocation; no cancellation fee or actual cancellation is inferred.",
+      "saved_formula_overrides_in_memory_only": {},
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA06",
+      "name": "Mixed states with a valid allocation denominator",
+      "constructed_assumptions": {
+        "completed_sessions": 2,
+        "completed_preparation_hours": 6,
+        "cancelled_preparation_hours": 3,
+        "allocated_preparation_hours_per_completed_unit": 4.5
+      },
+      "result": {
+        "hours": 13.0,
+        "GBP_comparison": 644.8000000000001
+      },
+      "programme_implication": "A documented average can reconcile a particular mixed period. It cannot allocate cancellation work when no completed units exist; keep states visible.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 2,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0,
+        "Inputs!H50": 4.5
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA07",
+      "name": "One elapsed hour with two presenters",
+      "constructed_assumptions": {
+        "sessions": 1,
+        "presenters_for_one_live_hour": 2
+      },
+      "result": {
+        "hours": 6.0,
+        "GBP_comparison": 297.6
+      },
+      "programme_implication": "Count actual people-time. Different actual performer rates and availability remain unknown.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 1,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0,
+        "Inputs!H51": 2
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA08",
+      "name": "Shared route configuration",
+      "constructed_assumptions": {
+        "campaigns": 2,
+        "common_route_setup_hours_once": 2,
+        "other_task_hours_unchanged": true
+      },
+      "result": {
+        "hours": 22.0,
+        "GBP_comparison": "n.a."
+      },
+      "programme_implication": "Reuse must identify the exact configuration and remaining checks. A shared asset does not make commercial work or the unknown rate disappear.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 2,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 0,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0,
+        "Inputs!H58": 1
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA09",
+      "name": "One eligible batch for paid and free recipients",
+      "constructed_assumptions": {
+        "paid_or_partner_recipients": 5,
+        "free_practitioner_recipients": 10,
+        "actual_eligible_delivery_runs": 1
+      },
+      "result": {
+        "hours": 1.0,
+        "GBP_comparison": 46.19
+      },
+      "programme_implication": "Fifteen recipients do not automatically mean fifteen runs. Individual handling or different rights can require more work; free access remains intact.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 1,
+        "Inputs!D29": 0,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA10",
+      "name": "No sales with real proposal work",
+      "constructed_assumptions": {
+        "initial_proposals": 5,
+        "won_orders": 0
+      },
+      "result": {
+        "hours": 15.0,
+        "GBP_comparison": "n.a."
+      },
+      "programme_implication": "Do not erase failed commercial effort or divide by zero customers to fabricate an acquisition cost.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 5,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 0,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA11",
+      "name": "Order now, briefing owed later",
+      "constructed_assumptions": {
+        "current_order_setups": 1,
+        "current_delivered_briefings": 0,
+        "future_committed_briefing_hours_illustration": 5
+      },
+      "result": {
+        "hours": 1.5,
+        "GBP_comparison": "n.a.",
+        "separate_future_obligation_hours": 5,
+        "future_reference_GBP": 248
+      },
+      "programme_implication": "Use the actual fulfilment and payment periods. Ending a campaign or ceasing new sales does not discharge existing obligations.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 1,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 0,
+        "Inputs!D28": 0,
+        "Inputs!D29": 0,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0
+      },
+      "actual_activity_or_terms": false
+    },
+    {
+      "case_id": "SA12",
+      "name": "Partner administration over a different scoped term",
+      "constructed_assumptions": {
+        "recognition_setup_hours": 1.5,
+        "separately_required_checks": 3,
+        "constructed_hours_each": 0.75
+      },
+      "result": {
+        "hours": 3.75,
+        "GBP_comparison": 173.21249999999998
+      },
+      "programme_implication": "The original per-bundle allowance is not a promised unlimited term. Reforecast actual included duties; do not add a new compulsory service.",
+      "saved_formula_overrides_in_memory_only": {
+        "Inputs!D19": 0,
+        "Inputs!D20": 0,
+        "Inputs!D21": 0,
+        "Inputs!D22": 0,
+        "Inputs!D23": 0,
+        "Inputs!D24": 0,
+        "Inputs!D25": 0,
+        "Inputs!D26": 0,
+        "Inputs!D27": 1,
+        "Inputs!D28": 0,
+        "Inputs!D29": 0,
+        "Inputs!D30": 0,
+        "Inputs!D31": 0,
+        "Inputs!D32": 0,
+        "Inputs!D33": 0,
+        "Inputs!H48": 2.25
+      },
+      "actual_activity_or_terms": false
+    }
+  ],
+  "checks": [
+    {
+      "passed": true,
+      "detail": "One complete working briefing has five hours",
+      "actual": 5.0,
+      "expected": 5
+    },
+    {
+      "passed": true,
+      "detail": "One complete working briefing comparison",
+      "actual": 248.0,
+      "expected": 248
+    },
+    {
+      "passed": true,
+      "detail": "Joint session with two administration bundles",
+      "actual": 9.5,
+      "expected": 9.5
+    },
+    {
+      "passed": true,
+      "detail": "Joint-session comparison",
+      "actual": 455.855,
+      "expected": 455.855
+    },
+    {
+      "passed": true,
+      "detail": "Separate sessions require more work",
+      "actual": 14.5,
+      "expected": 14.5
+    },
+    {
+      "passed": true,
+      "detail": "Separate-session comparison",
+      "actual": 703.855,
+      "expected": 703.855
+    },
+    {
+      "passed": true,
+      "detail": "One reusable three-hour preparation block over two sessions",
+      "actual": 7.0,
+      "expected": 7
+    },
+    {
+      "passed": true,
+      "detail": "Specific reused-preparation comparison",
+      "actual": 347.20000000000005,
+      "expected": 347.2
+    },
+    {
+      "passed": true,
+      "detail": "Zero delivered units produce zero catalogue labour",
+      "actual": 0.0,
+      "expected": 0
+    },
+    {
+      "passed": true,
+      "detail": "Two completed sessions plus three hours of cancelled preparation",
+      "actual": 13.0,
+      "expected": 13
+    },
+    {
+      "passed": true,
+      "detail": "Mixed completed and noncompleted preparation comparison",
+      "actual": 644.8000000000001,
+      "expected": 644.8
+    },
+    {
+      "passed": true,
+      "detail": "Two presenters add person-time",
+      "actual": 6.0,
+      "expected": 6
+    },
+    {
+      "passed": true,
+      "detail": "Two-presenter comparison using the same illustrative proxy",
+      "actual": 297.6,
+      "expected": 297.6
+    },
+    {
+      "passed": true,
+      "detail": "Shared two-hour route setup allocated once across two campaigns",
+      "actual": 22.0,
+      "expected": 22
+    },
+    {
+      "passed": true,
+      "detail": "Unknown commercial rate remains unavailable after reuse",
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "passed": true,
+      "detail": "One common distribution run",
+      "actual": 1.0,
+      "expected": 1
+    },
+    {
+      "passed": true,
+      "detail": "One distribution-run comparison",
+      "actual": 46.19,
+      "expected": 46.19
+    },
+    {
+      "passed": true,
+      "detail": "Five unsuccessful proposals retain commercial hours",
+      "actual": 15.0,
+      "expected": 15
+    },
+    {
+      "passed": true,
+      "detail": "Lost-sales effort does not invent a wage",
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "passed": true,
+      "detail": "Order setup is not future delivery",
+      "actual": 1.5,
+      "expected": 1.5
+    },
+    {
+      "passed": true,
+      "detail": "Three explicitly assumed benefit checks change bundle effort",
+      "actual": 3.75,
+      "expected": 3.75
+    },
+    {
+      "passed": true,
+      "detail": "Longer scoped administration comparison",
+      "actual": 173.21249999999998,
+      "expected": 173.2125
+    }
+  ],
+  "case_count": 12,
+  "check_count": 22,
+  "workbook_changed": false,
+  "financial_inputs_changed": false,
+  "native_Excel_application_tested": false,
+  "new_observations_or_adopted_inputs": 0,
+  "programme_noncompletion_state_work_still_required": true
+}

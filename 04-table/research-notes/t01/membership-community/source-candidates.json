@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "T1MC-S01",
+      "title": "CIPP payroll membership",
+      "publisher": "CIPP",
+      "url": "https://www.cipp.org.uk/membership.html",
+      "source_type": "provider_public_webpage",
+      "role": "screened_alternative",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/cipp-membership.html",
+      "capture_sha256": "60bcec7833b67e403e1e8c37d55be1f49d5327c3f14a2d60025611b0adce2bf5",
+      "retrieved_at": "2026-10-29T14:02:43.592545+00:00",
+      "final_url": "https://www.cipp.org.uk/membership.html",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/cipp-membership.parsed.txt",
+          "sha256": "c8f1eb645433f9aef166fd7688646fcfd19f73a88c0d3dc086d6ccf3efaa43cb",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    },
+    {
+      "candidate_id": "T1MC-S02",
+      "title": "CIPP membership grades and benefits",
+      "publisher": "CIPP",
+      "url": "https://www.cipp.org.uk/membership/grades.html",
+      "source_type": "provider_public_webpage",
+      "role": "screened_alternative_dated_prices",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/cipp-grades.html",
+      "capture_sha256": "2c646232bedc1ae88fb030742bf835b59f5b0049131ef8426e3bdcfc878e057b",
+      "retrieved_at": "2026-10-29T14:02:45.064178+00:00",
+      "final_url": "https://www.cipp.org.uk/membership/grades.html",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/cipp-grades.parsed.txt",
+          "sha256": "dcc3f1047fef3a0b7af8dcaf43312e70f2984d10e8c3fd2a27e2700b873b3787",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Current tariff and VAT basis are unconfirmed. Retained parsed lines 113,154,203,247,326,374 explicitly say prices valid until 14 June 2026; this source may differ from another capture. Magazine frequency conflicts with the landing page. Not a current price input."
+    },
+    {
+      "candidate_id": "T1MC-S03",
+      "title": "CIPP Advisory Service team",
+      "publisher": "CIPP",
+      "url": "https://www.cipp.org.uk/membership/meet-the-advisory-team.html",
+      "source_type": "provider_public_webpage",
+      "role": "screened_alternative",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/cipp-advisory.html",
+      "capture_sha256": "33c6ffbe7553c987c2c496bb549f23173d14a669bd53a6515c72df42694e3965",
+      "retrieved_at": "2026-10-29T14:02:46.728289+00:00",
+      "final_url": "https://www.cipp.org.uk/membership/meet-the-advisory-team.html",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/cipp-advisory.parsed.txt",
+          "sha256": "7a3f06cd41d2d3a5bbfa8b5e31705f0a3980596fef3c1225e9f76f7cab46f081",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    },
+    {
+      "candidate_id": "T1MC-S04",
+      "title": "Human Capital Center Europe",
+      "publisher": "The Conference Board",
+      "url": "https://www.conference-board.org/eu/human-capital",
+      "source_type": "provider_public_webpage",
+      "role": "selected_model_offer",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.html",
+      "capture_sha256": "092adcf8ed16215d3d5de891cacadffb110de8f2976397aa364dba67cc6c3fb5",
+      "retrieved_at": "2026-10-29T14:02:48.126588+00:00",
+      "final_url": "https://www.conference-board.org/eu/human-capital",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.parsed.txt",
+          "sha256": "6709ae78f05d0d2915aaf2d3c8a2101f2659bc57fd7812f6d10bdea5582df08c",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    },
+    {
+      "candidate_id": "T1MC-S05",
+      "title": "Membership offerings and comparison grid",
+      "publisher": "The Conference Board",
+      "url": "https://www.conference-board.org/membership/",
+      "source_type": "provider_public_webpage",
+      "role": "selected_model_offer",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/tcb-membership.html",
+      "capture_sha256": "a77e07d9aa72dea4b850ef10773ea98d1fd9f897fb1ad6428cda9e2c1c792a0f",
+      "retrieved_at": "2026-10-29T14:02:51.753129+00:00",
+      "final_url": "https://www.conference-board.org/membership/",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/tcb-membership.parsed.txt",
+          "sha256": "841149798daafccc9fc35f24b1177af70159886da0b1a049043f5db06966f3c1",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Membership comparison uses graphical check marks. Research/Center and Council entitlements must not be collapsed into one package; region or negotiated agreement may differ."
+    },
+    {
+      "candidate_id": "T1MC-S06",
+      "title": "Council membership and listings",
+      "publisher": "The Conference Board",
+      "url": "https://www.conference-board.org/councils",
+      "source_type": "provider_public_webpage",
+      "role": "selected_model_adjacent_offer",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/tcb-councils.html",
+      "capture_sha256": "bc25c9d8eb733f1dbe4b635a3b290848151a21bb4440a969ed52fb0d5ad8badd",
+      "retrieved_at": "2026-10-29T14:02:53.788284+00:00",
+      "final_url": "https://www.conference-board.org/councils",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/tcb-councils.parsed.txt",
+          "sha256": "21c3db35b730c8005cc675451accbd964260e254cc2367f958f67bbdcb31a131",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    },
+    {
+      "candidate_id": "T1MC-S08",
+      "title": "Terms of Use",
+      "publisher": "The Conference Board",
+      "url": "https://www.conference-board.org/contact/terms-of-use",
+      "source_type": "provider_public_webpage",
+      "role": "selected_model_public_rights",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/tcb-terms.html",
+      "capture_sha256": "cfd4737f56e511ce664d3e21e41e3b48e6214bd4a97ebacbfac9f9d967712843",
+      "retrieved_at": "2026-10-29T14:04:00.236802+00:00",
+      "final_url": "https://www.conference-board.org/contact/terms-of-use",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/tcb-terms.parsed.txt",
+          "sha256": "41c65748099e15ae566051e8e2a17f000ea558f6311b0b60918d29499a406867",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    },
+    {
+      "candidate_id": "T1MC-S09",
+      "title": "CIPP terms and conditions index",
+      "publisher": "CIPP",
+      "url": "https://www.cipp.org.uk/about-us/terms-conditions.html",
+      "source_type": "provider_public_webpage",
+      "role": "screened_alternative_index_only",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/cipp-terms-index.html",
+      "capture_sha256": "38eb5eb4a768d490dd324de353e8fa03f5ae2fd0bd867ae4782eda1b43be0383",
+      "retrieved_at": "2026-10-29T14:04:02.558389+00:00",
+      "final_url": "https://www.cipp.org.uk/about-us/terms-conditions.html",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/cipp-terms-index.parsed.txt",
+          "sha256": "2fbf02e37748de0b77450526b0ce843f0fb8d7f2203e66ac451f6395f6ddaa88",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "HTML terms index only. Linked PDF terms were not opened or used; no clause or licence claim derived from it."
+    },
+    {
+      "candidate_id": "T1MC-S10",
+      "title": "Payroll Membership",
+      "publisher": "The Payroll Centre",
+      "url": "https://thepayrollcentre.co.uk/membership/",
+      "source_type": "provider_public_webpage",
+      "role": "selected_model_offer",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/tpc-membership.html",
+      "capture_sha256": "549724cd3e69b2cf8da43287b87b20790ef5cf8226f0126b3417f9a070e753aa",
+      "retrieved_at": "2026-10-29T14:05:05.562794+00:00",
+      "final_url": "https://thepayrollcentre.co.uk/membership/",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+          "sha256": "9cc177ae3cf2b73f91e97f0697ba69f5f4edbc17a1d0f1c2a7541cc84367cde9",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    },
+    {
+      "candidate_id": "T1MC-S11",
+      "title": "Terms and Conditions of Business",
+      "publisher": "The Payroll Centre",
+      "url": "https://thepayrollcentre.co.uk/terms-and-conditions-of-business/",
+      "source_type": "provider_public_webpage",
+      "role": "selected_model_public_rights",
+      "accessed_on": "2026-10-29",
+      "review_status": "public_original_and_parsed_text_inspected",
+      "capture_path": "04-table/research-notes/t01/membership-community/captures/tpc-terms.html",
+      "capture_sha256": "98b071f6a3d5d17c22c54a75c7578b86bb51a9f862b41c16d3beba2edf5b53eb",
+      "retrieved_at": "2026-10-29T14:05:07.752335+00:00",
+      "final_url": "https://thepayrollcentre.co.uk/terms-and-conditions-of-business/",
+      "http_status": 200,
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+          "sha256": "a9264dc2c67ecfe14fa6269f287cf10c8e5ae96150896900e8fa00cb3a8760b2",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "published_date": null,
+      "updated_date": null,
+      "limitations": "Provider-declared public offer or terms; no purchase, usage, member-demand, retention or profitability validation."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0010",
+      "url": "https://www.cipp.org.uk/resources/payroll-insights-survey-series-section-landing/view-the-survey-reports.html",
+      "use": "Existing public survey-report index is a free-discovery alternative, not a replacement for bespoke member advice. Canonical status remains discovery-only; no upgraded research finding claimed.",
+      "canonical_reuse_only": true
+    }
+  ]
+}

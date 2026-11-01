@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R6R-C01",
+      "source_ids": [
+        "R6R-S01"
+      ],
+      "claim_text": "GDS retirement guidance distinguishes a user need ending from transfer to a replacement service, and considers communication, API adjustment, assisted support and continued information protection.",
+      "evidence_class": "official_guidance_context",
+      "locator": "Consider user needs; Telling your users; Protecting information",
+      "limitations": "Not payroll fieldwork or a mandatory private-employer workflow; fixed government web, contact or duration rules are not transferred.",
+      "review_mode": "Relevant original HTML sections read and retained; reused dated employer communication re-read against retained text. No product test or end-user interview.",
+      "value": null,
+      "unit": null,
+      "population": "Government guidance plus a single employer publication; researcher application explicit",
+      "time_period": "Dated source context, not a time series"
+    },
+    {
+      "candidate_id": "R6R-C02",
+      "source_ids": [
+        "SRC-0199"
+      ],
+      "claim_text": "West Sussex’s October 2026 declaration offers specified self-service access and current payslips while saying older payslips are unavailable in Oracle and giving separate support/query routes.",
+      "evidence_class": "employer_declared_user_access_boundary",
+      "locator": "Official 13 October 2026 body: payslips, historic records and support",
+      "limitations": "A declaration and instruction to retain copies, not proof staff obtained records, all cohorts could access, an old archive was available or loss/harm occurred. No rights or retention-duration advice.",
+      "review_mode": "Relevant original HTML sections read and retained; reused dated employer communication re-read against retained text. No product test or end-user interview.",
+      "value": null,
+      "unit": null,
+      "population": "Government guidance plus a single employer publication; researcher application explicit",
+      "time_period": "Dated source context, not a time series"
+    },
+    {
+      "candidate_id": "R6R-C03",
+      "source_ids": [
+        "R6R-S01",
+        "SRC-0199"
+      ],
+      "claim_text": "Where material, R06 should assess what remains usable for affected users after a specific change or retirement: current task, historical evidence, supported channel and receiving-service/help ownership. Contract or supplier exit alone does not establish completion for users.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Cross-source guidance/employer-declaration application; no client observations",
+      "limitations": "Optional selective condition, not an additional question, interview cohort or requirement to archive everything indefinitely. No end-user harm, perfect access or validated mitigation inferred.",
+      "review_mode": "Relevant original HTML sections read and retained; reused dated employer communication re-read against retained text. No product test or end-user interview.",
+      "value": null,
+      "unit": null,
+      "population": "Government guidance plus a single employer publication; researcher application explicit",
+      "time_period": "Dated source context, not a time series"
+    }
+  ]
+}

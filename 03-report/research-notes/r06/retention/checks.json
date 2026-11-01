@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "checks": [
+    "parse capture-manifest.json",
+    "parse claim-candidates.json",
+    "parse source-candidates.json",
+    "parse search-review-log.json",
+    "hash 03-report/research-notes/r06/retention/captures/RET6-S01-selected-reader-notes.txt",
+    "hash 03-report/research-notes/r06/retention/captures/RET6-S02-selected-reader-notes.txt",
+    "hash 03-report/research-notes/r06/retention/captures/RET6-S03-selected-reader-notes.txt",
+    "extract boundary RET6-S01",
+    "extract boundary RET6-S02",
+    "extract boundary RET6-S03",
+    "link source-candidates.json",
+    "link claim-candidates.json",
+    "link capture-manifest.json",
+    "link search-review-log.json"
+  ],
+  "scope": "Local JSON/hash/link/extract distinction; not publication approval, commercial validation or outcome assurance"
+}

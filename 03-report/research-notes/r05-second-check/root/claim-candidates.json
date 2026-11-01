@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R5R-C01",
+      "source_ids": [
+        "R5R-S01"
+      ],
+      "claim_text": "The ACCA educational article distinguishes future decision-caused cash changes from already incurred or unavoidable commitments and unchanged overhead allocations. Its labour example distinguishes already-paid available hours, extra labour and displaced work.",
+      "evidence_class": "professional_education_concept_boundary",
+      "locator": "Concepts1\u20135; Example2 labour",
+      "population": "Illustrative short-term financial decision examples, not empirical payroll employer evidence",
+      "limitations": "Educational examples, not payroll staffing requirement or employer convention. No numerical examples or salary/opportunity-cost formula transferred. Article cash lens does not establish free resources, negligible nonfinancial effects or disappearance of existing funding obligations.",
+      "review_mode": "Relevant live original HTML inspected and retained; no employer test, costing model or numerical example adopted",
+      "value": null,
+      "unit": null,
+      "time_period": "Educational concept, accessed29October2026; no observed trend"
+    },
+    {
+      "candidate_id": "R5R-C02",
+      "source_ids": [
+        "R5R-S01"
+      ],
+      "claim_text": "For payroll case analysis, record the specific skill and usable time window, existing paid capacity, extra cover and work displaced before treating effort as incremental spending or monetised opportunity. Paid time and operational availability need separate evidence.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Application of ACCA concepts1\u20135 and Example2; payroll timing/skills application is analyst inference, not an ACCA payroll finding",
+      "population": "Illustrative short-term financial decision examples, not empirical payroll employer evidence",
+      "limitations": "Educational examples, not payroll staffing requirement or employer convention. No numerical examples or salary/opportunity-cost formula transferred. Article cash lens does not establish free resources, negligible nonfinancial effects or disappearance of existing funding obligations.",
+      "review_mode": "Relevant live original HTML inspected and retained; no employer test, costing model or numerical example adopted",
+      "value": null,
+      "unit": null,
+      "time_period": "Educational concept, accessed29October2026; no observed trend"
+    }
+  ]
+}

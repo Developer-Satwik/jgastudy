@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-31",
+  "status": "completed_internal_T04_route_design_and_initial_public_cost_screen_T05_pending",
+  "scope": "Matched commercial route and unit design, input/formula specification and initial UK public venue-cost evidence; not the T05 workbook, full budget, validated sales case or launch recommendation.",
+  "route_cases": 4,
+  "core_revenue_lines": 4,
+  "cost_objects": 7,
+  "model_units": 15,
+  "input_groups": 10,
+  "formula_concepts": 10,
+  "new_source_routes": 5,
+  "new_claim_records": 16,
+  "canonical_sources": 230,
+  "canonical_claims": 459,
+  "source_records_with_primary_originals": 158,
+  "distinct_venue_examples": 3,
+  "earlier_claims_preserved_exactly": 443,
+  "earlier_source_base_records_preserved": 225,
+  "internal_findings_preserved": 81,
+  "protected_baseline_files": 163,
+  "canonical_preservation_mode": "Exact prechange snapshots plus append-only source/claim base; control changes explicitly recorded.",
+  "core_original_captures": 5,
+  "core_parsed_extracts": 5,
+  "core_pdf_page_renders": 7,
+  "excluded_historical_artifacts": 7,
+  "independent_review_status": "passed_for_internal_T04_design_and_public_cost_screen",
+  "independent_grouped_checks": 19,
+  "independent_exact_artifact_hashes": 53,
+  "T05_acceptance_cases_prepared": 15,
+  "T05_workbook_tests_executed": 0,
+  "workbook_created": false,
+  "full_cost_budget_completed": false,
+  "prices_or_published_rates_adopted_as_budget": 0,
+  "actual_quotes": 0,
+  "selected_venues": 0,
+  "financial_inputs_added": 0,
+  "actual_buyer_member_validation": 0,
+  "practitioner_observations": 0,
+  "fieldwork_activated": false,
+  "external_messages_sent": 0,
+  "supplier_enquiries": 0,
+  "purchases_or_bookings": 0,
+  "practitioner_free_full_research_preserved": true,
+  "current_JGA_IP_and_scope_preserved": true,
+  "final_client_delivery": false,
+  "artifacts": [
+    {
+      "path": "04-table/T04-COMMERCIAL-ROUTES-READOUT.md",
+      "sha256": "98f901ec34f398ca5ac15ffd5515b79f04ac0d19742dce1a50c7394d5c73f95d"
+    },
+    {
+      "path": "04-table/T04-PUBLIC-COST-SCREEN.md",
+      "sha256": "0078e8bdabee1b177c0c8e1421df1f533da65f8c3c0563b39506a7711d462351"
+    },
+    {
+      "path": "04-table/T04-model-design.json",
+      "sha256": "6f6c387a2b5d3e4131fc2e90844650a6dfb33316e670dd665d6a8f0ed2d02a26"
+    },
+    {
+      "path": "04-table/T04-cost-evidence-map.json",
+      "sha256": "5f60cf387caff7316fa262eda1c1607f02a92b4be873cfd3b6efae8f6a69591e"
+    },
+    {
+      "path": "04-table/T04-INPUT-AND-MODEL-RULES.md",
+      "sha256": "fc2bb875c941c96fb630cd7c85b35977829b241ddb94720c19f45bca5205c8a1"
+    },
+    {
+      "path": "04-table/T04-input-requirements.json",
+      "sha256": "e0935cb825431eb062822d799dfbfcb3b7e5364ed75f265d9533603f76522981"
+    },
+    {
+      "path": "04-table/T04-formula-design.json",
+      "sha256": "7a7f460ddec531faa31dca1a041cff9e50e2ad9b63889b64f0111e006d81ed5f"
+    },
+    {
+      "path": "08-qa/T04-to-T05-acceptance-cases.json",
+      "sha256": "a5ca861296bc3e393d252067ec700286c36f561df0fa5aa51dc556180f702bd6"
+    },
+    {
+      "path": "08-qa/T04-captures.json",
+      "sha256": "027d695bf04628c4e8249785f8a2bb9a08ac9028e61c9bc97e5ecc9b1552afbe"
+    },
+    {
+      "path": "08-qa/T04-record-map.json",
+      "sha256": "0b9883251393c66084866d7305d9827be50a16bad40f6b3b605bf870e9694914"
+    },
+    {
+      "path": "08-qa/T04-baseline-manifest.json",
+      "sha256": "04740c494c04083ff1940380cf03ee767f6fb4677abc573d71c22d1e9646f8b8"
+    },
+    {
+      "path": "04-table/research-notes/t04/before-review/manifest.json",
+      "sha256": "f5f2676f5115edbfd1202eb4574f766302a635726b09e03810723ba4cca7a444"
+    },
+    {
+      "path": "04-table/research-notes/t04/root/visual-source-review.json",
+      "sha256": "53837f8494b110a82f2af039b472ec9b83d0a9bf9451091bc10bda8c61628da0"
+    },
+    {
+      "path": "08-qa/t04-review/design-checks.json",
+      "sha256": "32f9cab9ce6ff4a186665cd3421c86fa6e93391db992c179f39be0948d478a76"
+    },
+    {
+      "path": "08-qa/t04-review/primary-source-checks-current.json",
+      "sha256": "cb016a9135ea904ab17d8fe6c806a2cf62c8e97129b6e3819a7ad13121e7c94b"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/ROUTES-AND-UNITS.md",
+      "sha256": "9a71ad3703497fa3a524641377c8cff39b9a84a273441dafe278a20766ef6d7f"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/assumptions-and-validation.json",
+      "sha256": "959391afa879f12816d1b77a184f2c4d732fb6259e6ccf4d555aa64a1ed00d13"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/model-unit-spec.json",
+      "sha256": "45823637c589cb597e4afd511fbe038001bdf0b6a6c9386d04c1e8bd7f1f9d7e"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/route-candidates.json",
+      "sha256": "2fc65dd09a6ddf38786a7bc9739ac73a0a9dba61519989fce7fd4b68ff46de67"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/verification.json",
+      "sha256": "eec18a168b6d6fa8e24f8c98db7c3ec0d4720f76bea93f3b1bbec985a9d2e80f"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/PUBLIC-COST-SCREEN.md",
+      "sha256": "7b1470660d3731386c0df6e814c2df2df50ff19138ad758d444f191dbdf80fab"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/build_cost_screen.py",
+      "sha256": "05d15566fb758a5ef358cd4c4631b97a01f81ffe6888d5e28d81cb382e9fb600"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/capture-manifest.json",
+      "sha256": "c080e2aa8e952f8010965a18d19c5a8e2c0f0256121e9c22f67713dcc8ee5f54"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/claim-candidates.json",
+      "sha256": "21bbed81b66534a181df3a6f6e9723b20376ee62247e9169bc1b158cff439721"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/cost-candidates.json",
+      "sha256": "740be7a2143057ce38675c7014229ed2f5f26a958d03162af34f76590e39cfa8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/live-link-checks.json",
+      "sha256": "fb8e74a96da50a719a4aba63edf922f660dadd887585b95a98c3617861e54cd9"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/source-candidates.json",
+      "sha256": "f9256e65a314d9ed9b296a86fd6f72549db5c6b6cec8bdc1faba653ea7460e02"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/verification.json",
+      "sha256": "26155b8e3d4049f2117d69fdbfb5e2e9e40031b9ac55d4e439df26f4a1088905"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/visual-inspection.json",
+      "sha256": "c3ee495e6e3bc1fc40774cb5c0d50109df051f90c9a480bfb8092c22419b430d"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S01.html",
+      "sha256": "27fd181c84891bc3086d5e8b5ef7e6557dc316c03f6f36f02cb4c555446c8237"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S01.txt",
+      "sha256": "b06da4021065f81294fa97593a1ce32c564b449229d6373f0a44eadf83fc886f"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf",
+      "sha256": "6a48e6e9547b4cff4bed25bf8075db9608c89a992d56528561eafbbac7568255"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S02.txt",
+      "sha256": "18de76580ee206ce502c8779909e51dcaac518a355cb98e76b508f8200c1ef73"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S03.html",
+      "sha256": "678c6f131db1dfc53af4c48cef355a77635ff83d0eb149a5832e4f6c18de1eb8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S03.txt",
+      "sha256": "8d5e67842299dd6bd721701fe47add963c735e02fb1ecd2302f6e43a1d749dc5"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt",
+      "sha256": "65be34ac70fc76bde2dc221ef5ebf89f6603ca5fb6aa6671fe524659aef26fb2"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S05.html",
+      "sha256": "f439e0c9210433f2b5dd0af65873346f4d4042dfa1ebce573002389567a82e27"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S05.txt",
+      "sha256": "99e28dd22279cba8e72fda3d0ec21d107f2549c8841a0ebfff9c51c9617fb8a8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-3.png",
+      "sha256": "1ce551d2928d411ead02ce78e8532ea88de3654e7bf97eb0b7ceb02c948f3623"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png",
+      "sha256": "f47435b423234672d8fe4033a91b03899804e54a83c2772c429c2925ea2348f7"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-2.png",
+      "sha256": "d3deecc84952537402a3acbe424866b5aa20ec516c83e5bd56c4e41657a59247"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-4.png",
+      "sha256": "4cf94828a0465db0f331ac7e1918164c3dfff3e1d0c7130db5d5f8ad710f6793"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png",
+      "sha256": "248ec6aed9b6f2b9ae1f9c0ea2afea114493c1cb3c2b3c08b2444daf9518d1c3"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-7.png",
+      "sha256": "71ff5ebd636812efdc88426c9d224b76a37a39d8fa538f3d5e9aaea2d58e977a"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png",
+      "sha256": "0b6c3df984d30e50387e70357964b3b1169e783e78c4d74a77ebccdefbd450a6"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-4.png",
+      "sha256": "b4fce6f34017194a574ba67be1ab25557c84503bcecff63259b1a7022c1c8dca"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-6.png",
+      "sha256": "becf1449697c69c176ede3555a55462be96dc7930ecba7422d08d95b309c9434"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-7.png",
+      "sha256": "74e6e991506e86ccface53eb23c285e12dbd82b4a028b582dbbbeb4878bb3381"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-8.png",
+      "sha256": "71e3fbe17016f06caa8d52bd3acd5670b28f4dd90d4532e2b70693e012aeb0b0"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.pdf",
+      "sha256": "366d9d28932a76b071d1d9d79c66069abe38c26c78dd22253a7cbdd31e5f0efb"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.txt",
+      "sha256": "4a456275862f888428356195d31d765811782a77435f97e7a29f60725797f890"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/january-manifest.json",
+      "sha256": "e4f07b07bfafe7426fc143d9a20894e8b6ef5d2fa5bb7f92148c782a6230fee4"
+    },
+    {
+      "path": "08-qa/t04-review/INTEGRATED-REVIEW.md",
+      "sha256": "f408232c63c7d3540ad05fc01bb881b1e82164a9a9c49d3555ef1ec9e319771a"
+    },
+    {
+      "path": "08-qa/t04-review/integration-checks.json",
+      "sha256": "4174f135f2d0734a023068b487dacfd337b082fe9645aea162b2302c6531251f"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "45e613b7bde4c34e9d86f69b9ecd114a886307bb80076c12606295172e0c0f18"
+    },
+    {
+      "path": "08-qa/build_t04_input_design.py",
+      "sha256": "f1f2eee609ee1cf415c31b72753b3fd12036267c63223fe5d99e8c8221bb0a8f"
+    },
+    {
+      "path": "08-qa/merge_t04.py",
+      "sha256": "1908a22dd9c93f5ca262775d53ee418390a60d7cb2ea1f45c9c3b80508e2e0ac"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "b04f92466d9e45f2251b80cb03d674068fec428920ac62bcdcf11c5707c98c93"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "45d59f8a744a9a53a00fe03f1ebb30cfedce2fd9b233d23b01d60e1914bd7efe"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "ae874c3d2a265381ef184db6fc2a63ea2c9bb381871efb67ba1fa472ae410e73"
+    },
+    {
+      "path": "README.md",
+      "sha256": "82b25da7225de221dfdaee3a7ca96fd24da40a98fd6727d69db38dbc2776829e"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "7870721ff4a1c81aef9382a4dc89821fd5932a6a0103c86ad52b1e1d5a999694"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "87fc74016318aecf25f650fb83e69457d468221ed1698118cf3e869a70e42117"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "6eb00d8621c38c0831d362e5e7e46edb239360917f0affea6fcf531493ee63ca"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "27299c3abb847806743c812135cea8b93887652d3663eca76745965b66bcca1f"
+    },
+    {
+      "path": "02-evidence/registers/source-aliases.json",
+      "sha256": "a90a8ee82dd7a2f7347766771c95c27b457288e5b604e4d17205b21a14dfe77c"
+    }
+  ],
+  "completion_artifact_hashes_verified": true,
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-31",
+    "checks": 6690,
+    "json_files": 585,
+    "source_records": 230,
+    "claim_records": 459,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 493,
+    "scope": "T04 commercial route, model-unit/input/formula design and public venue-cost evidence with actual financial model and validation pending; T02 second challenge evidence/use/time/work/fulfilment/concept-state conditions; T02 three concrete internal propositions, use/rights/delivery and inactive draft guide; T01 second challenge historical/market/comparator/prior-study/participation lenses and selective conditions; T01 six distinct public comparable mechanisms and T02 untested propositions; WP03 prepared inactive collection pack; R01–R07 evidence/capture and synthesis consistency; R08 preparatory linked views, report integration, first-pass and version0.2 fifteen constructed applications, second-challenge evidence/time/object conditions, held claims and original-input dependency; prior/client/core/canonical preservation, WP02 question mapping and blank unperformed research. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  }
+}

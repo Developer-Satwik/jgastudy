@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "TR2-C01",
+      "canonical_source_ids": [
+        "SRC-0003"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Record the exact concept, edition and funding purpose actually presented, including any relevant variant or amendment. Distinguish the proposed future description from an available finished asset, agreed service or newly commissioned study; the current edition is already commissioned under the JGA project.",
+      "evidence_class": "researcher_exact_concept_and_funding_state_condition",
+      "locator": "QQE items14,16,18 as methodological context; researcher application to TP02 and existing T02 funding-purpose boundary",
+      "limitations": "No new participant form, concept exposure, funding arrangement, customer term or promise is created. Existing partner support or later licences can legitimately recover costs or generate revenue; define the purpose accurately rather than prohibit multiple revenues.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    },
+    {
+      "candidate_id": "TR2-C02",
+      "canonical_source_ids": [
+        "SRC-0003"
+      ],
+      "source_candidate_ids": [],
+      "claim_text": "Interpret later feedback against the particular concept and task shown. Keep an unaided need, a reaction to a proposed feature, a conditional request for a scoped proposal and an actual agreed commitment distinct; do not attribute a response to an unshown variant or treat omitted information as a refusal.",
+      "evidence_class": "researcher_feedback_attribution_and_unknown_condition",
+      "locator": "QQE items1,14,16–18; analytical application to existing B/M guide/concept sequence",
+      "limitations": "Not an ordinal sales score, validated willingness-to-pay instrument, mandatory full procurement map or estimate of conversion. Actual records remain empty, and a positive reaction or proposal request does not establish a sale, permission, delivery or recurring use.",
+      "value": null,
+      "unit": null,
+      "denominator": null
+    }
+  ]
+}

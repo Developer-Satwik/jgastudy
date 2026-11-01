@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "R4CASE-S01",
+      "title": "Cumberland permission to procure and award HR/payroll",
+      "url": "https://cumberland.moderngov.co.uk/ieDecisionDetails.aspx?ID=501",
+      "accessed_on": "2026-10-29",
+      "capture_path": null,
+      "sha256": null,
+      "status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "web_original_body_reviewed": true
+    },
+    {
+      "candidate_id": "R4CASE-S02",
+      "title": "West Northamptonshire ERP cloud hosting decision",
+      "url": "https://westnorthants.moderngov.co.uk/mgDecisionDetails.aspx?IId=11441&Opt=1",
+      "accessed_on": "2026-10-29",
+      "capture_path": null,
+      "sha256": null,
+      "status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "web_original_body_reviewed": false
+    },
+    {
+      "candidate_id": "R4CASE-SG-ALIAS",
+      "title": "Scottish Government governance/audit timeline",
+      "url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/7/",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.gov.scot/publications/shared-services-programme-phase-1-programme-closure-report/pages/7/",
+      "capture_path": "03-report/research-notes/r04/cases/R4CASE-SG-ALIAS.html",
+      "sha256": "4a2175dad7e9fb4b7a08131a926bd84a6bef417599712ac9076a20c48d47ff68",
+      "bytes": 45686,
+      "status": "retained_original_html"
+    },
+    {
+      "candidate_id": "R4CASE-S03",
+      "url": "https://moderngov.rotherham.gov.uk/mgDecisionDetails.aspx?IId=96251&Opt=1",
+      "accessed_on": "2026-10-29",
+      "status": "local_capture_unavailable",
+      "capture_path": null,
+      "sha256": null,
+      "error": "<urlopen error timed out>",
+      "web_original_body_reviewed": true
+    },
+    {
+      "candidate_id": "R4CASE-S04",
+      "url": "https://www.argyll-bute.gov.uk/moderngov/ieListDocuments.aspx?MId=16285",
+      "accessed_on": "2026-10-29",
+      "status": "local_capture_unavailable",
+      "capture_path": null,
+      "sha256": null,
+      "error": "HTTP Error 404: Not Found",
+      "web_original_body_reviewed": true
+    },
+    {
+      "candidate_id": "R4CASE-S05",
+      "title": "Argyll and Bute iTrent report",
+      "url": "https://www.argyll-bute.gov.uk/moderngov/documents/s219288/ITRENT%20HR%20AND%20PAYROLL%20SYSTEMS%20REPLACEMENT%20PROJECT%20UPDATE.pdf",
+      "accessed_on": "2026-10-29",
+      "status": "local_capture_unavailable",
+      "capture_path": null,
+      "sha256": null,
+      "error": "HTTP Error 404: Not Found",
+      "web_original_body_reviewed": true
+    },
+    {
+      "candidate_id": "R4CASE-S06",
+      "title": "Argyll and Bute iTrent decision",
+      "url": "https://www.argyll-bute.gov.uk/moderngov/ieDecisionDetails.aspx?AIId=181705",
+      "accessed_on": "2026-10-29",
+      "status": "local_capture_unavailable",
+      "capture_path": null,
+      "sha256": null,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_id": "SRC-0134",
+      "accessed_on": "2026-10-29",
+      "status": "reused_retained_original_pdf",
+      "capture_path": "03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "sha256": "a9f2f90c4f02c2779063dd516f05dfa469dbd244e83a2db61aa953a127c42254",
+      "date_note": "Original document October2025; no exact upload date asserted."
+    },
+    {
+      "record_type": "selected_web_reader_fragments",
+      "source_candidate_ids": [
+        "R4CASE-S03",
+        "R4CASE-S04",
+        "R4CASE-S05"
+      ],
+      "captured_on": "2026-10-29",
+      "capture_path": "03-report/research-notes/r04/cases/web-reader-selected-extracts.md",
+      "sha256": "9af565404726be1751ddf3aecfbe022c9cb8b88b62ed103984b2daa3248f2c82",
+      "status": "retained_selected_web_reader_transcription_not_original_html_pdf",
+      "note": "Selected exact fragments from earlier successful original body opens; not complete source capture."
+    },
+    {
+      "record_type": "repeat_web_reader_request_failed",
+      "source_candidate_ids": [
+        "R4CASE-S03",
+        "R4CASE-S04",
+        "R4CASE-S05"
+      ],
+      "requested_on": "2026-10-29",
+      "capture_path": "03-report/research-notes/r04/cases/failed-web-reader-response.txt",
+      "sha256": "5c2fdc321b8cb41b2ab22e90a60cb12ec0a3db37acf3b75206bfc4862d57b7ca",
+      "status": "failed_response_only_not_source_evidence",
+      "note": "Later repeat original-reader retrieval returned failures. Does not overwrite earlier successful original-body review status."
+    }
+  ]
+}

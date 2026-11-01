@@ -1,0 +1,124 @@
+{
+  "checked_at": "2026-10-29T14:12:42.548814+00:00",
+  "status": "passed",
+  "selected_model_count": 2,
+  "source_candidate_count": 10,
+  "claim_candidate_count": 17,
+  "original_capture_count": 10,
+  "excluded_access_failure_count": 1,
+  "checks": [
+    "Exactly two selected models",
+    "Ten substantive source candidates retain original and parsed hashes",
+    "Fosway403 excluded from source candidates and held only as lead",
+    "Claim references and line bounds valid",
+    "No financial-input array created",
+    "CIPP current tariff unconfirmed; no expired rate promoted",
+    "TPC graphical tier entitlement ambiguity explicit",
+    "TCB website and Council confidentiality conditions distinguished",
+    "No PDF source used",
+    "No shared canonical/core/client edits"
+  ],
+  "hash_checks": [
+    {
+      "source_candidate_id": "T1MC-S01",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-membership.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S01",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-membership.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S02",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-grades.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S02",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-grades.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S03",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-advisory.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S03",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-advisory.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S04",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S04",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-human-capital-europe.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S05",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-membership.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S05",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-membership.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S06",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-councils.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S06",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-councils.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S08",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-terms.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S08",
+      "path": "04-table/research-notes/t01/membership-community/captures/tcb-terms.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S09",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-terms-index.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S09",
+      "path": "04-table/research-notes/t01/membership-community/captures/cipp-terms-index.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S10",
+      "path": "04-table/research-notes/t01/membership-community/captures/tpc-membership.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S10",
+      "path": "04-table/research-notes/t01/membership-community/captures/tpc-membership.parsed.txt",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S11",
+      "path": "04-table/research-notes/t01/membership-community/captures/tpc-terms.html",
+      "sha256_matches": true
+    },
+    {
+      "source_candidate_id": "T1MC-S11",
+      "path": "04-table/research-notes/t01/membership-community/captures/tpc-terms.parsed.txt",
+      "sha256_matches": true
+    }
+  ],
+  "errors": []
+}

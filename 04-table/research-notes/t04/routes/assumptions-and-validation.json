@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-30",
+  "status": "open_design_dependencies_not_scenario_inputs",
+  "records": [
+    {
+      "assumption_id": "A01",
+      "subject": "Matched horizon and selected edition count",
+      "what_needs_evidence": "Actual window/start and edition/release version need agreement; common A/B basis must reconcile.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A02",
+      "subject": "Product, rights and benefit availability",
+      "what_needs_evidence": "A licence/briefing/partner package requires actual releasable evidence, actual user/use and rights/capacity, not a product label.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A03",
+      "subject": "Willingness to pay and quantities",
+      "what_needs_evidence": "All prices/customer/partner quantities remain untested until later evidence or explicitly labelled scenario values; no blank interpreted as zero.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A04",
+      "subject": "Event increment",
+      "what_needs_evidence": "Whether a gathering adds useful research/member or commercial value is unestablished; compare remote/written alternatives.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A05",
+      "subject": "Initial and future research costs",
+      "what_needs_evidence": "Map each work object to current commissioned scope versus genuinely additional/future work. Initial commission is not recurring production cost proof.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A06",
+      "subject": "Labour cash/resource classification",
+      "what_needs_evidence": "Identify role/time, incremental payment and already-paid staff allocation; avoid overlap and invisible unpaid labour.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A07",
+      "subject": "City and seat feasibility",
+      "what_needs_evidence": "UK pilot city/date, actual practitioner/host/moderator mix, private-room capacity and all-in supplier terms remain unresolved; Texas city not chosen.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A08",
+      "subject": "Payment, cancellation and cash timing",
+      "what_needs_evidence": "Actual contract/receipt dates, deposits, refund and cancellation exposure are not supplied by general comparator terms.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A09",
+      "subject": "Currency, tax and service treatment",
+      "what_needs_evidence": "Preserve original amounts/tax/service inclusions and dated FX; no assumed tax recovery or universal service percentage.",
+      "value": null,
+      "validated": false
+    },
+    {
+      "assumption_id": "A10",
+      "subject": "Future periods and repeatability",
+      "what_needs_evidence": "Renewal, later editions, continuing members and recurrent staff capacity are assumptions, not demonstrated by an annual programme.",
+      "value": null,
+      "validated": false
+    }
+  ],
+  "required_boundary_tests": [
+    "No sales/no partner: full costs and funding gap remain visible.",
+    "Equivalent free/bundled licence: no automatic second revenue.",
+    "One partner removed: its revenue/servicing and bundle rights move consistently.",
+    "Receipt delayed: profit semantics and bank cash diverge transparently.",
+    "Higher staffing/event cost: result worsens and funding needs do not improve accidentally.",
+    "Zero/negative licence contribution with positive gap: no false zero break-even.",
+    "Annual shared edition: not multiplied by cities.",
+    "Role overlap host/moderator: no double seat or hours.",
+    "Blank applicable input: visibly unresolved, not silently zero; irrelevant unselected route inputs do not block a valid selected case."
+  ],
+  "no_actual_validation": true,
+  "no_financial_assumptions_populated": true
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_bounded_data_strand_checks",
+  "check_count": 12,
+  "checks": [
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S02.html",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S03.html",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S03.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S04.html",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S04.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S05.html",
+      "passed": true
+    },
+    {
+      "check": "Retained hash matches 01-method/research-notes/wp03/data/captures/WPD-S05.txt",
+      "passed": true
+    },
+    {
+      "check": "Working agreement text exists and contractual roles/30-90timing are actual section12 clauses",
+      "passed": true
+    },
+    {
+      "check": "No actual participant records, approved tool, transfer mechanism or final notice inferred",
+      "passed": true
+    }
+  ],
+  "scope": "Retained original/extract hashes, generated contract locator and empty unperformed records; not independent integration review, legal clearance or tool security audit."
+}

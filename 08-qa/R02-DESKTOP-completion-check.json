@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-28",
+  "status": "passed_for_internal_R02_desktop_synthesis",
+  "source_records": 71,
+  "claim_records": 93,
+  "retained_source_records": 29,
+  "internal_findings": 18,
+  "r02_deepening_new_source_routes": 10,
+  "r02_deepening_claim_and_guardrail_records": 24,
+  "matrix_areas": 9,
+  "independent_review": "08-qa/R02-independent-review.md",
+  "artifacts": [
+    {
+      "path": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "sha256": "793b23eb29152451b0be4a54af4672603722d08c1f78838cb9c60c48dcf5f75e"
+    },
+    {
+      "path": "03-report/R02-DESKTOP-READOUT.md",
+      "sha256": "6fa1689f10687d41c2a8c54b382f06176daace06fa8f0413da3992241aaa00a6"
+    },
+    {
+      "path": "03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "sha256": "e2736b163e1e0aeaf852c5aec12120067714cc5ffde7db003410efd648b36025"
+    },
+    {
+      "path": "08-qa/R02-independent-review.md",
+      "sha256": "ce9c487c2fc06912739c0686e82751900ec306c29f820d30a2c939ca1f9d3421"
+    },
+    {
+      "path": "08-qa/R02-deepening-record-map.json",
+      "sha256": "2db6d621ab1b864e8fe23290be9cb945318be8d93ef8f0625375754505bf0e72"
+    },
+    {
+      "path": "08-qa/R02-deepening-captures.json",
+      "sha256": "2b6f0df546043ebd880032aabdb9a067a7e25a1419ba1234368d845b30778bbd"
+    }
+  ],
+  "preserved_client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    }
+  ],
+  "practitioner_observations": 0,
+  "final_publication_approved": false,
+  "external_actions": [],
+  "next": "R03 desktop assessment of technology, integration and operating-model trade-offs; practitioner integration and publication checks remain open."
+}

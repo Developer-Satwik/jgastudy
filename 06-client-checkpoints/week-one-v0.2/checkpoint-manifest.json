@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "version": "0.2",
+  "date": "2026-10-28",
+  "status": "draft_for_user_review",
+  "sharing_status": "Not authorised for external sending",
+  "external_sent": false,
+  "client_approved": false,
+  "participant_tested": false,
+  "files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "pages": 5,
+      "bytes": 119245,
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "status": "draft_for_user_review"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "pages": 5,
+      "bytes": 42292,
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "status": "draft_for_user_review"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "pages": 2,
+      "bytes": 79054,
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "status": "draft_for_user_review"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "pages": 2,
+      "bytes": 39860,
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "status": "draft_for_user_review"
+    }
+  ],
+  "not_final_delivery": true
+}

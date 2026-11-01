@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC4-MKT-C01",
+      "source_candidate_ids": [
+        "SC4-MKT-S01"
+      ],
+      "claim_text": "Payfit publishes Steve Root of Roots KBB describing the move as his software decision. This supplies a bounded first-person account of involvement, not a complete approval chain or evidence that small employers generally buy without committees.",
+      "locator": "Hear what our customers have to say; local numbered lines218–222; web388–392",
+      "evidence_class": "supplier_selected_named_customer_testimony",
+      "population": "One selected testimonial on a UK founders-targeted page",
+      "limitations": "Exact role here is Partner at Roots KBB. Formal/sole authority, budget, contract signatory and other participants are undisclosed. No time-saving claim adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Relevant original HTML sections read; capture kind and source-specific limitations retained",
+      "status": "R04_second_check_context"
+    },
+    {
+      "candidate_id": "SC4-MKT-C02",
+      "source_candidate_ids": [
+        "SC4-MKT-S01"
+      ],
+      "claim_text": "Payfit describes assigning other staff as software admins to run and approve payroll. This is a declared operational permission, not evidence those users may purchase or replace the service.",
+      "locator": "Tools to delegate / Permissions that are simple to set; local159–164; web200–210",
+      "evidence_class": "supplier_declared_operational_workflow",
+      "population": "Specific product description, not actual purchasing decisions",
+      "limitations": "No product trial, actual configured access or organisational mandate verified. Keep software permission, employer delegation and purchasing rights separate.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Relevant original HTML sections read; capture kind and source-specific limitations retained",
+      "status": "R04_second_check_context"
+    },
+    {
+      "candidate_id": "SC4-MKT-C03",
+      "source_candidate_ids": [
+        "SC4-MKT-S02"
+      ],
+      "claim_text": "Chazey describes reduced Herbalife participation leaving the supplier effectively making implementation calls, then revised client governance, stage criteria and escalation. This supports examining formal rights separately from reported practical decision-making.",
+      "locator": "Original body72–79",
+      "evidence_class": "adviser_reported_decision_practice_and_governance_change",
+      "population": "One global/regional payroll programme, not UK employer prevalence",
+      "time_period": "Described intervention2023 and programme through December2024",
+      "limitations": "Adviser diagnosis/retrospective, not verified contractual delegation, complete approval chain or independent causal proof of outcome. No conclusion that providers generally overstep.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Relevant original HTML sections read; capture kind and source-specific limitations retained",
+      "status": "R04_second_check_context"
+    },
+    {
+      "candidate_id": "SC4-MKT-C04",
+      "source_ids": [
+        "SRC-0078"
+      ],
+      "claim_text": "HMRC states that employers retain responsibility for PAYE tasks when a payroll provider is paid to perform them. Operational outsourcing does not identify which internal function has purchasing authority.",
+      "locator": "Paying a payroll provider; original web68–75; local66–70",
+      "evidence_class": "official_employer_responsibility_guidance",
+      "population": "Employers operating UK PAYE",
+      "limitations": "Do not extend PAYE guidance to every jurisdiction/duty or infer a corporate signature/approval chain. Exact legal use requires a fresh final-use check.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Relevant original HTML sections read; capture kind and source-specific limitations retained",
+      "status": "R04_second_check_context"
+    },
+    {
+      "candidate_id": "SC4-MKT-C05",
+      "source_candidate_ids": [
+        "SC4-MKT-S01",
+        "SC4-MKT-S02"
+      ],
+      "source_ids": [
+        "SRC-0078"
+      ],
+      "claim_text": "R04 case analysis should add the relevant organisational/service level and distinguish a described mandate, software access and actual decision practice. These may align or diverge; a country rollout is not automatically the same decision as group supplier selection.",
+      "locator": "Cross-source analytical application of SC4-MKT-C01–C04",
+      "evidence_class": "researcher_analytical_recommendation",
+      "population": "Proposed qualitative case analysis",
+      "limitations": "Selective analytical fields, not new required functions/questions, a universal SME/large-employer split, evidence of central-local conflict or original fieldwork.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "review_mode": "Relevant original HTML sections read; capture kind and source-specific limitations retained",
+      "status": "R04_second_check_context"
+    }
+  ]
+}

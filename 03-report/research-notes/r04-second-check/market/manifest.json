@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "path": "03-report/research-notes/r04-second-check/market/MARKET-CHALLENGE.md",
+      "sha256": "da68a3531710acb26df97133202b327e7dfe6ec45c6e1fcc53b13da605336383",
+      "bytes": 7314,
+      "kind": "internal_research_record"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/capture-log.json",
+      "sha256": "a46bc93e62ce8c3b2cf824bbb6f5f3e86678e802be1ef51335c5bb4411afb259",
+      "bytes": 3102,
+      "kind": "internal_research_record"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S01.html",
+      "sha256": "d79ab6a1ec0038474eff5882c397f3020ef4e408c17810f179f2ef44f97cfdbf",
+      "bytes": 488651,
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S01.txt",
+      "sha256": "08906364bc4cc1394e2871b8903518c7234b7a5ae3c886d0f37a5272d387798d",
+      "bytes": 19333,
+      "kind": "numbered_text_extraction"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/captures/SC4-MKT-S02-selected-reader-extract.md",
+      "sha256": "a157b8fc5161ad24db5859b876fc56baf216e925b208d0c5419b8f5cadeddc14",
+      "bytes": 936,
+      "kind": "selected_reader_extract_not_original"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/captures/SRC-0078.html",
+      "sha256": "0cc9734d14f6986715407395816bb189c01d7ead85eaeec697d7aada715c9cb9",
+      "bytes": 84647,
+      "kind": "retained_original_html"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/captures/SRC-0078.txt",
+      "sha256": "2c17b48bda0b75310412289877938e35e5bcfaf47ea9e3ed286d2b7edb293bf6",
+      "bytes": 7172,
+      "kind": "numbered_text_extraction"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/claim-candidates.json",
+      "sha256": "5ae7456ddeefc448c15a2330275631ba18a7d4fb24259d943d68f42abf2fcc03",
+      "bytes": 5236,
+      "kind": "internal_research_record"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/review-log.json",
+      "sha256": "dd338f5ac2a2aa87fce1beec8a75056167c28b64f787953020be359c7870fc27",
+      "bytes": 1729,
+      "kind": "internal_research_record"
+    },
+    {
+      "path": "03-report/research-notes/r04-second-check/market/source-candidates.json",
+      "sha256": "5939f7d92e91542065b87ee02eed24315a8b5ca96caff1b9344edabae234cca4",
+      "bytes": 4723,
+      "kind": "internal_research_record"
+    }
+  ],
+  "hashes_verified": true,
+  "new_routes_reviewed": 2,
+  "new_routes_raw_original_retained": 1,
+  "new_routes_reader_extract_retained": 1,
+  "canonical_routes_rechecked": 1,
+  "original_JGA_participants": 0
+}

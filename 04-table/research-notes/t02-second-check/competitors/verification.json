@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_for_parent_integration_only",
+  "checks": [
+    {
+      "name": "six recruiters plus JGA contexts retained",
+      "passed": true
+    },
+    {
+      "name": "three bounded records",
+      "passed": true
+    },
+    {
+      "name": "three questions24answers126exactchecks",
+      "passed": true
+    },
+    {
+      "name": "original capture hash SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "parsed capture hash SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "original capture hash SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "parsed capture hash SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "original capture hash SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "parsed capture hash SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "original capture hash TC2-S01",
+      "passed": true
+    },
+    {
+      "name": "parsed capture hash TC2-S01",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "retained context/extract hash SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "original data provenance all_answers",
+      "passed": true
+    },
+    {
+      "name": "original data provenance final_answer_index",
+      "passed": true
+    },
+    {
+      "name": "no demand/count transfer or reruns",
+      "passed": true
+    },
+    {
+      "name": "local JSON parse",
+      "passed": true
+    }
+  ],
+  "check_count": 22,
+  "new_source_routes": 1,
+  "canonical_reuses": 7,
+  "claim_candidates": 3,
+  "prior_bridge_checks": 126,
+  "selected_saved_records": 24,
+  "semantic_rereads": 3,
+  "actual_buyer_evidence": false,
+  "shared_edits": false,
+  "financial_inputs_added": 0,
+  "external_actions": false
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-29",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0003",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/quality-in-qualitative-evaluation-qqe-html",
+      "final_url": "https://www.gov.uk/government/publications/the-magenta-book/quality-in-qualitative-evaluation-qqe-html",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-29T04:37:18.547122+00:00",
+      "capture_path": "03-report/research-notes/r08-second-check/root/captures/SRC-0003.html",
+      "capture_sha256": "8d21441857e096c4d4ac840e0112e747cb64a840af0c521408d7b97413276615",
+      "text_path": "03-report/research-notes/r08-second-check/root/captures/SRC-0003.txt",
+      "text_sha256": "0ce7cdf6beccf0c8bd43044799e9e66cb4ab08a18dd2f7650386a745a480d0c2",
+      "kind": "retained_original_html",
+      "locator": "Sections2.8,4.6\u20134.8; frameworkitems1,5,9,11\u201312,14,16,18",
+      "review_status": "fresh_relevant_original_html_rechecked",
+      "review_result": "Rechecked purpose-fit judgement, provenance, divergence in appraisals, negative cases/alternative explanations and auditable interpretation. Adapted to analyst evidence qualification, not a quality score.",
+      "limitations": "Normative methodological guidance, not original payroll decision evidence, external validation of this framework or a requirement that all indicators apply. Displayed15May2026 update does not establish a new employer event."
+    }
+  ]
+}

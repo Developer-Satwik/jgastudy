@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "STL6-S01",
+      "url": "https://schools.westsussex.gov.uk/Article/184856",
+      "final_url": "https://schools.westsussex.gov.uk/Article/184856",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:19.746578+00:00",
+      "capture_path": "03-report/research-notes/r06/stalls/captures/STL6-S01.html",
+      "capture_sha256": "d113376f2900f25149f6a4a667a93ee1b2c428326a9786a44a1abc0e3faded2a",
+      "text_path": "03-report/research-notes/r06/stalls/captures/STL6-S01.txt",
+      "text_sha256": "8cec445c5057462cb7bf740faf44c7c8bf3f7567ecbe9d5ee52f94428ac10f8f",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "STL6-S02",
+      "url": "https://schools.westsussex.gov.uk/Article/194014",
+      "final_url": "https://schools.westsussex.gov.uk/Article/194014",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:21.091754+00:00",
+      "capture_path": "03-report/research-notes/r06/stalls/captures/STL6-S02.html",
+      "capture_sha256": "1c5ec4d12670308871a2760feebc823f07ff71f08de08734ae36fab4e230a1f5",
+      "text_path": "03-report/research-notes/r06/stalls/captures/STL6-S02.txt",
+      "text_sha256": "17d2d14e568d3d0722d4cadc8454d5d99eef18376b452b4bb31cba88c06e099e",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "STL6-S03",
+      "url": "https://www.niauditoffice.gov.uk/publications/civil-service-human-resource-management-system-cancellation-payroll-project",
+      "final_url": "https://www.niauditoffice.gov.uk/publications/civil-service-human-resource-management-system-cancellation-payroll-project",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:21.341969+00:00",
+      "capture_path": "03-report/research-notes/r06/stalls/captures/STL6-S03.html",
+      "capture_sha256": "b5ed4f1f46e96ac60979759c67edfc6f737ad5fdac0132fb0806c2f0e368a4bd",
+      "text_path": "03-report/research-notes/r06/stalls/captures/STL6-S03.txt",
+      "text_sha256": "8450ce327be62ad090aa0d30d683dd1f98c875a5b4cdff8b21ac1805d9b32a80",
+      "capture_kind": "retained_original_html"
+    },
+    {
+      "candidate_id": "STL6-S04",
+      "url": "https://www.gets.govt.nz/EPL/ExternalTenderDetails.htm?id=34909219",
+      "final_url": "https://www.gets.govt.nz/EPL/ExternalTenderDetails.htm?id=34909219",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:43:23.875211+00:00",
+      "capture_path": "03-report/research-notes/r06/stalls/captures/STL6-S04.html",
+      "capture_sha256": "e223feb8bca8a7034ef822fb8dbe4c2329ee058ce1e3bdd2be85f1710003c33d",
+      "text_path": "03-report/research-notes/r06/stalls/captures/STL6-S04.txt",
+      "text_sha256": "e343ec2ca04cb44d0edc4a5f16095a6231bcf11084f39238e394e591056a271f",
+      "capture_kind": "retained_original_html"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_component_mapping_and_independent_arithmetic_workbook_pending",
+  "cases": [
+    {
+      "case": "low",
+      "contributors": 6,
+      "provider_hours": 106.0,
+      "JGA_hours": 12.5,
+      "role_hours": {
+        "Research": 58.0,
+        "Coordination": 9.0,
+        "Writing": 23,
+        "Editing": 6,
+        "Design": 10
+      },
+      "role_values": {
+        "Research": 2876.8000000000006,
+        "Coordination": 415.71,
+        "Writing": 1349.3333333333333,
+        "Editing": 222.66,
+        "Design": 464.0
+      },
+      "provider_benchmark_value": 5328.503333333334,
+      "JGA_value": null,
+      "combined_value": null
+    },
+    {
+      "case": "base",
+      "contributors": 8,
+      "provider_hours": 174.0,
+      "JGA_hours": 23,
+      "role_hours": {
+        "Research": 96.0,
+        "Coordination": 16.0,
+        "Writing": 36,
+        "Editing": 10,
+        "Design": 16
+      },
+      "role_values": {
+        "Research": 4761.6,
+        "Coordination": 739.04,
+        "Writing": 2112.0,
+        "Editing": 371.1,
+        "Design": 742.4
+      },
+      "provider_benchmark_value": 8726.14,
+      "JGA_value": null,
+      "combined_value": null
+    },
+    {
+      "case": "high",
+      "contributors": 10,
+      "provider_hours": 285.5,
+      "JGA_hours": 38,
+      "role_hours": {
+        "Research": 157.0,
+        "Coordination": 28.5,
+        "Writing": 58,
+        "Editing": 16,
+        "Design": 26
+      },
+      "role_values": {
+        "Research": 7787.200000000001,
+        "Coordination": 1316.415,
+        "Writing": 3402.666666666666,
+        "Editing": 593.76,
+        "Design": 1206.3999999999999
+      },
+      "provider_benchmark_value": 14306.441666666666,
+      "JGA_value": null,
+      "combined_value": null
+    }
+  ],
+  "assumptions": "7.5hours/day conversion and declared task-to-role mapping from rootmap; figures are comparison values, not quote,cash expense or whole-budget totals.",
+  "financial_record_count": 33,
+  "task_count": 21,
+  "current_commission_not_added": true,
+  "JGA_missing_values_preserved": true,
+  "actuals_authorisation_flags_false": true,
+  "full_financial_model_complete": false
+}

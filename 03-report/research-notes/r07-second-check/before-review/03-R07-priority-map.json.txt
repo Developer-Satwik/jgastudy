@@ -1,0 +1,382 @@
+{
+  "schema_version": "1.0",
+  "module_id": "R07",
+  "date": "2026-10-29",
+  "status": "completed_internal_desktop_synthesis_practitioner_integration_pending",
+  "purpose": "Distinguish what a payroll priority means, its organisational commitment and the defensible context of any comparison.",
+  "current_question_ids": [
+    "Q002",
+    "Q003",
+    "Q005",
+    "Q007",
+    "Q008",
+    "Q009",
+    "Q010",
+    "Q011",
+    "Q012",
+    "Q013"
+  ],
+  "primary_priority_question_id": "Q005",
+  "maximum_selective_priorities": 2,
+  "horizon_months": [
+    12,
+    24
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "extra_mandatory_questions": 0,
+  "unaided_priorities_first": true,
+  "prompted_themes_labelled": true,
+  "ordinal_status_ladder": false,
+  "mandatory_sequence": false,
+  "validated_priority_score": false,
+  "fields_are_selective_analyst_aids": true,
+  "confidential_documents_required": false,
+  "exact_private_amounts_required": false,
+  "original_practitioner_observations": 0,
+  "participant_observations": [],
+  "completed_case_comparisons": [],
+  "forecast_calculations": [],
+  "financial_inputs_populated": false,
+  "subgroup_estimates": [],
+  "market_rankings": [],
+  "new_empirical_datasets": 0,
+  "new_numeric_estimates": 0,
+  "priority_dimensions": [
+    {
+      "dimension_id": "P01",
+      "title": "Whose priority and what work",
+      "record": "Person/team/employer/programme or published respondent population; specific task/outcome and decision unit.",
+      "claim_ids": [
+        "CLM-0393",
+        "CLM-0408"
+      ]
+    },
+    {
+      "dimension_id": "P02",
+      "title": "Time and provenance",
+      "record": "Horizon, as-of date, actual source, direct knowledge, and unaided or prompted origin.",
+      "claim_ids": [
+        "CLM-0393",
+        "CLM-0406",
+        "CLM-0408"
+      ]
+    },
+    {
+      "dimension_id": "P03",
+      "title": "Evaluation, plan and authority",
+      "record": "Known evaluation/plan/approval facts, their exact scope and date. Several can coexist or change; source silence remains unknown.",
+      "claim_ids": [
+        "CLM-0386",
+        "CLM-0393",
+        "CLM-0408"
+      ]
+    },
+    {
+      "dimension_id": "P04",
+      "title": "Funding and practical resources",
+      "record": "Known recurring operating resources, new allocation or proposal, protected time/capacity, owner and any unmet dependency; disclose only what is appropriate.",
+      "claim_ids": [
+        "CLM-0391",
+        "CLM-0404",
+        "CLM-0408"
+      ]
+    },
+    {
+      "dimension_id": "P05",
+      "title": "Commitment, delivery and result",
+      "record": "Actual procurement/other commitment, work delivered, affected users/task and intended versus assessed result, each with its own basis/date.",
+      "claim_ids": [
+        "CLM-0388",
+        "CLM-0403",
+        "CLM-0404",
+        "CLM-0408"
+      ]
+    },
+    {
+      "dimension_id": "P06",
+      "title": "What could change the priority",
+      "record": "Contributor’s stated enabling condition, constraint, alternative or next decision; do not infer a remedy works.",
+      "claim_ids": [
+        "CLM-0405",
+        "CLM-0408",
+        "CLM-0409"
+      ]
+    }
+  ],
+  "context_dimensions": [
+    {
+      "context_id": "C01",
+      "title": "Population and unit",
+      "record": "The payroll population actually within the contributor’s remit; one payroll, entity, country or group where known.",
+      "boundary": "Do not substitute global workforce, headquarters, payroll-team size or an arbitrary size threshold.",
+      "mandatory": false,
+      "scored": false,
+      "claim_ids": [
+        "CLM-0396",
+        "CLM-0398",
+        "CLM-0409"
+      ]
+    },
+    {
+      "context_id": "C02",
+      "title": "Working and pay arrangements",
+      "record": "The relevant contractual pattern, variability and actual data/calculation task, if material.",
+      "boundary": "A sector label cannot classify a worker, establish the applicable calculation or prove an investment need.",
+      "mandatory": false,
+      "scored": false,
+      "claim_ids": [
+        "CLM-0394",
+        "CLM-0398"
+      ]
+    },
+    {
+      "context_id": "C03",
+      "title": "Jurisdiction and remit",
+      "record": "The jurisdictions and responsibilities relevant to this work and the contributor’s knowledge.",
+      "boundary": "Country count and headquarters do not define a common regime, tax outcome or priority ranking.",
+      "mandatory": false,
+      "scored": false,
+      "claim_ids": [
+        "CLM-0395",
+        "CLM-0398"
+      ]
+    },
+    {
+      "context_id": "C04",
+      "title": "Delivery responsibilities and handoffs",
+      "record": "The internal, provided and retained tasks affected by the priority.",
+      "boundary": "In-house or outsourced alone does not establish responsibility, workload, dissatisfaction or the right response.",
+      "mandatory": false,
+      "scored": false,
+      "claim_ids": [
+        "CLM-0396",
+        "CLM-0398",
+        "CLM-0400"
+      ]
+    },
+    {
+      "context_id": "C05",
+      "title": "Decision and change context",
+      "record": "Current service, proposed change and dated evaluation, authority, commitment, delivery and result.",
+      "boundary": "Do not compare a wish with an implemented process as if they were the same outcome.",
+      "mandatory": false,
+      "scored": false,
+      "claim_ids": [
+        "CLM-0393",
+        "CLM-0398",
+        "CLM-0408"
+      ]
+    },
+    {
+      "context_id": "C06",
+      "title": "Relevant timing",
+      "record": "The actual horizon, applicable period, known deadline or operating calendar where it matters to the case.",
+      "boundary": "One employer’s school-calendar account is not a universal sector migration rule or proof that delay was optimal.",
+      "mandatory": false,
+      "scored": false,
+      "claim_ids": [
+        "CLM-0397",
+        "CLM-0401",
+        "CLM-0405"
+      ]
+    }
+  ],
+  "comparison_claim_purposes": [
+    {
+      "claim_type": "observed_case_contrast",
+      "title": "A contrast between actual collected cases",
+      "rule": "Describe the cases, relevant scope, their evidence and alternative explanations. No cases have yet been collected.",
+      "ordinal": false,
+      "claim_ids": [
+        "CLM-0406",
+        "CLM-0407",
+        "CLM-0409"
+      ]
+    },
+    {
+      "claim_type": "source_supported_mechanism",
+      "title": "A source-supported contextual mechanism",
+      "rule": "Explain why a condition can matter; do not infer how often employers prioritise or fund it.",
+      "ordinal": false,
+      "claim_ids": [
+        "CLM-0406",
+        "CLM-0407",
+        "CLM-0409"
+      ]
+    },
+    {
+      "claim_type": "hypothesis_for_case_check",
+      "title": "A hypothesis for later case checking",
+      "rule": "Label the proposed explanation and what would support or challenge it. It is not an observed result.",
+      "ordinal": false,
+      "claim_ids": [
+        "CLM-0406",
+        "CLM-0407",
+        "CLM-0409"
+      ]
+    },
+    {
+      "claim_type": "unestablished_group_difference",
+      "title": "A group difference not established",
+      "rule": "Preserve missing or non-comparable coverage; do not replace it with a stereotype, zero or assumption that groups are identical.",
+      "ordinal": false,
+      "claim_ids": [
+        "CLM-0406",
+        "CLM-0407",
+        "CLM-0409"
+      ]
+    }
+  ],
+  "planning_signals": [
+    {
+      "signal_id": "S01",
+      "title": "SSP changes described as effective 6 April 2026",
+      "source_ids": [
+        "SRC-0215",
+        "SRC-0216"
+      ],
+      "claim_ids": [
+        "CLM-0402",
+        "CLM-0403"
+      ],
+      "external_status": "current_official_guidance_context",
+      "organisation_status": null,
+      "application": "Establish relevant workforce/task, actual changes, present evidence and any unresolved work.",
+      "boundary": "Guidance only; no individual eligibility/rate determination, complete statute audit or observed employer compliance."
+    },
+    {
+      "signal_id": "S02",
+      "title": "Phased benefits-in-kind preparation",
+      "source_ids": [
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0072",
+        "SRC-0092"
+      ],
+      "claim_ids": [
+        "CLM-0399",
+        "CLM-0400",
+        "CLM-0401"
+      ],
+      "external_status": "draft_interim_future_guidance",
+      "organisation_status": null,
+      "application": "Establish relevant benefits/phase, data owners, provider handoffs, capability and next actual decision.",
+      "boundary": "Specified April 2027 and April 2028 phases are future scope, not all benefits on one date, a launched November service or tested software capability. Recheck current detail before final use."
+    },
+    {
+      "signal_id": "S03",
+      "title": "Synergy reported programme commitments",
+      "source_ids": [
+        "SRC-0075"
+      ],
+      "claim_ids": [
+        "CLM-0404"
+      ],
+      "external_status": "one_published_programme_account",
+      "organisation_status": null,
+      "application": "Distinguish the reported approval/contract, funding envelope and departmental responsibilities from prospective gaps and benefits.",
+      "boundary": "Reuse of one combined-function public programme. No monetary value, actual later spend, financial assurance or realised payroll benefit inferred."
+    }
+  ],
+  "blank_priority_template": {
+    "record_id": null,
+    "contribution_id": null,
+    "whose_priority": null,
+    "decision_unit": null,
+    "specific_task_or_outcome": null,
+    "horizon": null,
+    "as_of_date": null,
+    "source_and_direct_knowledge": null,
+    "unaided_or_prompted": null,
+    "evaluation_facts": null,
+    "plan_facts": null,
+    "authority_facts": null,
+    "funding_and_resource_basis": null,
+    "commitment_facts": null,
+    "delivery_facts": null,
+    "intended_result": null,
+    "assessed_result_and_basis": null,
+    "next_condition_or_decision": null,
+    "disclosure_permission": null
+  },
+  "blank_context_template": {
+    "record_id": null,
+    "contribution_id": null,
+    "population_and_unit": null,
+    "working_pay_arrangements": null,
+    "jurisdiction_and_remit": null,
+    "retained_delivery_and_handoffs": null,
+    "decision_change_context": null,
+    "relevant_timing": null,
+    "missingness": null,
+    "publication_detail_permission": null
+  },
+  "blank_comparison_template": {
+    "comparison_id": null,
+    "claim_purpose": null,
+    "cases_or_sources": null,
+    "comparable_work_scope_horizon_measure": null,
+    "observed_contrast": null,
+    "alternative_explanations": null,
+    "contrary_case": null,
+    "missing_coverage": null,
+    "permissible_inference": null,
+    "supporting_evidence": null
+  },
+  "missingness_values": [
+    "not_known",
+    "not_measured",
+    "not_applicable",
+    "not_disclosed"
+  ],
+  "numerical_holds": [
+    {
+      "claim_id": "CLM-0392",
+      "status": "hold_numeric_reuse",
+      "subject": "Moorepay branding/customisation prose13 versus chart12",
+      "client_numeric_reuse": false
+    }
+  ],
+  "existing_holds_preserved": [
+    "CLM-0051",
+    "CLM-0052",
+    "CLM-0167",
+    "CLM-0168",
+    "CLM-0218"
+  ],
+  "supporting_claim_ids": [
+    "CLM-0386",
+    "CLM-0387",
+    "CLM-0388",
+    "CLM-0389",
+    "CLM-0390",
+    "CLM-0391",
+    "CLM-0392",
+    "CLM-0393",
+    "CLM-0394",
+    "CLM-0395",
+    "CLM-0396",
+    "CLM-0397",
+    "CLM-0398",
+    "CLM-0399",
+    "CLM-0400",
+    "CLM-0401",
+    "CLM-0402",
+    "CLM-0403",
+    "CLM-0404",
+    "CLM-0405",
+    "CLM-0406",
+    "CLM-0407",
+    "CLM-0408",
+    "CLM-0409"
+  ],
+  "final_use_requires": [
+    "Eligible permissioned practitioner evidence",
+    "Client confirmation of proposed population and scope",
+    "Factual/currentness, attribution and rights checks",
+    "Disclosure and re-identification review",
+    "Integration and final report review"
+  ],
+  "no_external_sending_without_user_permission": true,
+  "review_basis": "Independent integrated desktop review, targeted original/visual source checks and preservation verification; no final publication or original fieldwork assurance."
+}

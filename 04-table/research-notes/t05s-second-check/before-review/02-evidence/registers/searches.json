@@ -1,0 +1,758 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "search_id": "SCH-0001",
+      "date": "2026-10-28",
+      "purpose": "Method planning",
+      "queries": [
+        "site.mrs.org.uk guidelines business to business research insight data processing activities",
+        "site.analysisfunction.civilservice.gov.uk questionnaire design guidance cognitive testing burden",
+        "site.ons.gov.uk qualitative research interview thematic analysis guidance",
+        "site.gov.uk government social research qualitative quality evaluation framework"
+      ],
+      "action": "Followed original guidance pages; not a substantive payroll evidence review",
+      "related_source_ids": [
+        "SRC-0001",
+        "SRC-0002"
+      ]
+    },
+    {
+      "search_id": "SCH-0002",
+      "date": "2026-10-28",
+      "purpose": "Qualitative appraisal and sensitivity planning",
+      "queries": [
+        "site.gov.uk \"Quality in qualitative evaluation\" framework",
+        "site.cebma.org rapid evidence assessment critical appraisal guide",
+        "site.gov.uk \"The Green Book\" \"sensitivity\" \"optimism bias\""
+      ],
+      "action": "Inspected relevant official guidance; no commercial cost data extracted",
+      "related_source_ids": [
+        "SRC-0003",
+        "SRC-0005"
+      ]
+    },
+    {
+      "audit_record_origin": "03-report/research-notes/cipp-records.json",
+      "date": "2026-10-28",
+      "queries": [
+        "site.cipp.org.uk \"Payroll Insights\" \"2026\" \"responses\"",
+        "site.cipp.org.uk \"Payroll Insights\" \"2026\" \"survey\" \"March\"",
+        "site.cipp.org.uk \"Payroll Insights\" \"2026\" \"respondents\"",
+        "\"Payroll Insights\" \"2026\" \"sample\""
+      ],
+      "result": "Located original recruitment notice and disambiguated separate annual survey.",
+      "search_id": "SCH-0003"
+    },
+    {
+      "audit_record_origin": "03-report/research-notes/moorepay-sdworx-records.json",
+      "date": "2026-10-28",
+      "queries": [
+        "site.moorepay.co.uk \"61%\" \"switching\" \"2025\"",
+        "site.moorepay.co.uk \"61%\" \"staying\"",
+        "site.sdworx.com \"HR & Payroll Pulse\" \"2026\" methodology",
+        "site.sdworx.co.uk \"305\" \"2026\" \"payroll\""
+      ],
+      "purpose": "R01 source audit",
+      "search_id": "SCH-0004"
+    },
+    {
+      "audit_record_origin": "03-report/research-notes/wider-records.json",
+      "date": "2026-10-28",
+      "queries": [
+        "site.deloitte.com 2025 payroll benchmarking survey 15 organizations",
+        "site.brightsg.com AI payroll report 2026 IPASS Payroll Centre",
+        "site.finity.co.uk payroll efficiency report 2026",
+        "2025 Payroll Profession Confidence Index report methodology",
+        "site.payrollinfluences.com/researches 2026 Confidence"
+      ],
+      "outcome": "Three original PDFs obtained from public original routes; Bright remains landing-page-only; no forms submitted.",
+      "search_id": "SCH-0005"
+    },
+    {
+      "audit_record_origin": "03-report/research-notes/root-landscape-records.json",
+      "date": "2026-10-28",
+      "purpose": "Challenge claimed novelty of payroll approval/delay research",
+      "queries": [
+        "payroll investment approval business case delayed abandoned survey 2025 2026 payroll transformation barriers",
+        "payroll research why companies switch provider 2026 business case approval budget survey",
+        "payroll investment approval decision business case research \"budget\" \"rejected\"",
+        "payroll transformation research \"abandoned\" investment",
+        "site.nao.org.uk payroll system implementation business case lessons",
+        "site.audit-scotland.gov.uk payroll oracle implementation lessons business case"
+      ],
+      "result": "Located overlapping buyer research, a delay study and public audit case histories; no market-wide absence claim justified.",
+      "search_id": "SCH-0006"
+    },
+    {
+      "search_id": "SCH-0007",
+      "date": "2026-10-28",
+      "purpose": "Second challenge through historical, economic, method, JGA positioning and future-readiness lenses",
+      "queries": [
+        "CIPP Future of Payroll2020 2022 2024 originals JGA forewords",
+        "PayrollOrg2025 Getting the World Paid original",
+        "HMRC mandatory benefits payrolling phased2027 2028 interim",
+        "JGA own payroll AI ebook and PayrollOrg JGA Ventures announcement",
+        "Government Efficiency Framework2025 and Green Book2026",
+        "Synergy2026 business case and NAO shared-services audit",
+        "Magenta Book case studies and Futures Toolkit2024",
+        "MHR payroll paradox and CIPP2024 roundtable"
+      ],
+      "action": "Inspected original guidance, reports and product descriptions with access limits preserved; no new participants or commercial validation.",
+      "related_source_ids": [
+        "SRC-0005",
+        "SRC-0068",
+        "SRC-0069",
+        "SRC-0070",
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0073",
+        "SRC-0074",
+        "SRC-0075",
+        "SRC-0076",
+        "SRC-0077",
+        "SRC-0078",
+        "SRC-0079",
+        "SRC-0080",
+        "SRC-0081",
+        "SRC-0082",
+        "SRC-0083",
+        "SRC-0084",
+        "SRC-0085",
+        "SRC-0086",
+        "SRC-0087",
+        "SRC-0088",
+        "SRC-0089",
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0093"
+      ]
+    },
+    {
+      "search_id": "SCH-0008",
+      "date": "2026-10-28",
+      "purpose": "R02 targeted needs, service boundary and consequence deepening",
+      "queries": [
+        "CIPP original workload tasks KPIs and complexity; Deloitte original operations support and targets",
+        "Payroll service definition customer approval escalation response resolution reconciliation support",
+        "Primary council payroll audit late inputs overpayment recovery reasonable assurance",
+        "HMRC FPS EPS payroll-ID corrections; employer records; DWP employer Universal Credit reporting"
+      ],
+      "action": "Reused originals and inspected public primary service definitions, employer/audit cases and guidance. Restricted/unavailable routes excluded; no forms or contacts.",
+      "related_source_ids": [
+        "SRC-0020",
+        "SRC-0021",
+        "SRC-0022",
+        "SRC-0040",
+        "SRC-0064",
+        "SRC-0083",
+        "SRC-0094",
+        "SRC-0095",
+        "SRC-0096",
+        "SRC-0097",
+        "SRC-0098",
+        "SRC-0099",
+        "SRC-0100",
+        "SRC-0101",
+        "SRC-0102",
+        "SRC-0103"
+      ]
+    },
+    {
+      "search_id": "SCH-0009",
+      "date": "2026-10-28",
+      "purpose": "R02 second challenge: history, market, recruitment comparators, prior-study bridge and resilience",
+      "queries": [
+        "HMRC RTI historical review; CIPP reported RTI exception cases; ONS RTI statistical QA",
+        "HMRC basic tools and recognised software; Xero software/price scope; ADP managed/global responsibilities",
+        "JGA and six earlier recruitment comparators current primary service scope; interim payroll vacancy and organisational change case",
+        "Government salary-diversion guidance; Bacs payment cycle; British Library incident review and payroll continuity"
+      ],
+      "action": "Primary public originals inspected with bounded scope; local capture limits recorded. Earlier AI study used as discovery leads only; no prompts rerun or external contacts.",
+      "related_source_ids": [
+        "SRC-0104",
+        "SRC-0105",
+        "SRC-0106",
+        "SRC-0107",
+        "SRC-0108",
+        "SRC-0109",
+        "SRC-0110",
+        "SRC-0111",
+        "SRC-0112",
+        "SRC-0113",
+        "SRC-0114",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0117",
+        "SRC-0118",
+        "SRC-0119",
+        "SRC-0120",
+        "SRC-0121",
+        "SRC-0122",
+        "SRC-0123"
+      ]
+    },
+    {
+      "search_id": "SCH-0010",
+      "date": "2026-10-29",
+      "purpose": "R03 task-level technology, integration, delivery and implementation trade-offs",
+      "queries": [
+        "Primary Staffology sync/locks/async/import/webhook docs; Xero permissions; HMRC GfC22",
+        "Cintra processing/payment workflow; Fourth retained scope; Phase3 managed components; official sourcing/choose-payroll guidance",
+        "Audit Scotland SG annual audit; Scottish Parliament HR/payroll assurance; SG dated closure report",
+        "Government AI Playbook; SAP configurable payroll controls; dated ADP variance-agent release and live overview"
+      ],
+      "action": "Relevant primary originals inspected; version, beta, historical and case-selection limits preserved. No API/product trial, client-system access, new prompt test or contact.",
+      "related_source_ids": [
+        "SRC-0077",
+        "SRC-0078",
+        "SRC-0094",
+        "SRC-0096",
+        "SRC-0097",
+        "SRC-0119",
+        "SRC-0120",
+        "SRC-0124",
+        "SRC-0125",
+        "SRC-0126",
+        "SRC-0127",
+        "SRC-0128",
+        "SRC-0129",
+        "SRC-0130",
+        "SRC-0131",
+        "SRC-0132",
+        "SRC-0133",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0136",
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0139",
+        "SRC-0140"
+      ]
+    },
+    {
+      "search_id": "SCH-0011",
+      "date": "2026-10-29",
+      "purpose": "R03 second challenge: historical/lifecycle, segmented market, recruitment/project engagement, prior-study contrasts and recoverability",
+      "queries": [
+        "HMRC annual payroll software updates; SAP HCM release cycle and reused CIPP historical originals",
+        "Xero UK self-service; CloudPay partner coordination; Deel worker/service distinctions; reused provider definitions",
+        "JGA editorial; Hays project/SOW models; Robert Half/Protiviti blended consulting and staffing; six-firm prior scope",
+        "GDS integration/adaptation and technical lock-in; NCSC shared responsibility and SaaS recovery"
+      ],
+      "action": "Bounded current primary inspection and explicit historical reuse; selected prior constructed prompts independently verified, not rerun. Redirected TCT body excluded. No contact or product/API trial.",
+      "related_source_ids": [
+        "SRC-0068",
+        "SRC-0069",
+        "SRC-0070",
+        "SRC-0107",
+        "SRC-0109",
+        "SRC-0110",
+        "SRC-0111",
+        "SRC-0112",
+        "SRC-0113",
+        "SRC-0114",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0117",
+        "SRC-0118",
+        "SRC-0119",
+        "SRC-0124",
+        "SRC-0125",
+        "SRC-0131",
+        "SRC-0132",
+        "SRC-0133",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0136",
+        "SRC-0138",
+        "SRC-0141",
+        "SRC-0142",
+        "SRC-0143",
+        "SRC-0144",
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0147",
+        "SRC-0148",
+        "SRC-0149",
+        "SRC-0150",
+        "SRC-0151",
+        "SRC-0152"
+      ]
+    },
+    {
+      "search_id": "SCH-0012",
+      "date": "2026-10-29",
+      "purpose": "R04 decision objects, actual authority, advice, conditions and dated pathways",
+      "queries": [
+        "GovS 002 sponsoring authority and conditional gates; GovS 008 commercial/signature rights; GovS 006 budget holders; FRC delegation",
+        "G2 HR/payroll buyer methods and roles; employer testimony on payroll selection and finance sponsorship; CIPP selection exclusion; non-UK payroll-led tender",
+        "Scottish audit go-live recommendation/conditional backing/approval; Rotherham incumbent support delegated award; Argyll continued implementation funding",
+        "ICO adviser/accountable organisation boundary; Procurement Act notice labels, date and regime"
+      ],
+      "action": "Relevant primary sections read with explicit source scopes. Six selected published employer cases, including reused Scottish programme, are mechanism examples, not original JGA participants. Blocked fetches and parsed extracts labelled; no contact, accounts, forms, product trial or external send.",
+      "related_source_ids": [
+        "SRC-0060",
+        "SRC-0061",
+        "SRC-0065",
+        "SRC-0066",
+        "SRC-0131",
+        "SRC-0134",
+        "SRC-0136",
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0155",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0158",
+        "SRC-0159",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162",
+        "SRC-0163",
+        "SRC-0164"
+      ]
+    },
+    {
+      "search_id": "SCH-0013",
+      "date": "2026-10-29",
+      "purpose": "R04 second challenge: effective remit, organisation level, practice, acceptance and affected-party conditions",
+      "queries": [
+        "2016 PAC framework/customer mandate; April2026 Digital Assurance Playbook and Treasury delegations",
+        "Payfit founder testimony and admin permissions; Chazey Herbalife practical governance; reused HMRC employer responsibility",
+        "All six recruitment comparator mandates and acceptance boundaries; exact constructed S01/S05/S10 prompt assumptions",
+        "Acas employment-term consultation scope; ICO worker-input, advice and conditional processing considerations"
+      ],
+      "action": "Historical/current originals, segmented-market examples and six-comparator rechecks. Constructed prior prompts used for analyst contrasts only, no reruns or authority/demand inference. Affected-party conditions are selective, not universal compliance gates. Blocked bodies/redirects excluded from unsupported claims. No new fieldwork, contact, accounts, forms or product trial.",
+      "related_source_ids": [
+        "SRC-0078",
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0147",
+        "SRC-0148",
+        "SRC-0154",
+        "SRC-0165",
+        "SRC-0166",
+        "SRC-0167",
+        "SRC-0168",
+        "SRC-0169",
+        "SRC-0170",
+        "SRC-0171",
+        "SRC-0172",
+        "SRC-0173"
+      ]
+    },
+    {
+      "search_id": "SCH-0014",
+      "date": "2026-10-29",
+      "purpose": "R05 business-case evidence: cost, benefits, funding, readiness and evaluation",
+      "queries": [
+        "Current GreenBook appraisal and efficiency definitions; ACCA/AQA metric scope",
+        "Xero price structure; BrightPay billing and calculator; Moorepay conditional pricing/credit; current Sourcing lifecycle scope",
+        "Dynamics365 readiness; sustainable live service; Synergy planned delivery; NAO risk and figure-assurance limits; SG/SPCB case evidence",
+        "MagentaBook evaluation planning and attribution; NIST context-specific AI measurement"
+      ],
+      "action": "Relevant primary guidance, published supplier declarations and bounded actual public cases inspected. Plans, forecasts, quotes, operational evidence and realised benefits remain distinct. No employer forecast, quoted rate, ROI benchmark, private financial data, fieldwork, product trial or external contact.",
+      "related_source_ids": [
+        "SRC-0005",
+        "SRC-0074",
+        "SRC-0075",
+        "SRC-0076",
+        "SRC-0077",
+        "SRC-0109",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0174",
+        "SRC-0175",
+        "SRC-0176",
+        "SRC-0177",
+        "SRC-0178",
+        "SRC-0179",
+        "SRC-0180",
+        "SRC-0181",
+        "SRC-0182"
+      ]
+    },
+    {
+      "search_id": "SCH-0015",
+      "date": "2026-10-29",
+      "purpose": "User-requested R05 second challenge: historical, segmented market, all-six recruitment comparators/prior-study and usable-capacity lenses",
+      "queries": [
+        "Historical NAO and published Synergy costs, baselines, funding/benefit distribution and dated reappraisal",
+        "Current service/unit/volume and retained responsibility/exit conditions across payroll market models",
+        "All six recruitment comparators and JGA primary routes; benchmark population/vintage and four constructed C-question saved answers",
+        "ACCA relevant cost concepts and skilled usable capacity versus incremental spending"
+      ],
+      "action": "Targeted primary-source second challenge, source/version limits and retrospective versus prospective evidence retained. Prior constructed prompts and saved outputs are design leads only, not buyer priorities, actual authority or fieldwork. No employer forecast, cost estimate, product trial or external contact.",
+      "related_source_ids": [
+        "SRC-0075",
+        "SRC-0107",
+        "SRC-0113",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0147",
+        "SRC-0148",
+        "SRC-0183",
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0186",
+        "SRC-0187",
+        "SRC-0188",
+        "SRC-0189",
+        "SRC-0190",
+        "SRC-0191",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0194"
+      ]
+    },
+    {
+      "search_id": "SCH-0016",
+      "date": "2026-10-29",
+      "purpose": "R06 actual staying switching deferral rejection and abandonment: object disposition implementation benefit and stated rationale",
+      "queries": [
+        "Actual public employer retention/renewal and changed commercial/organisational boundaries",
+        "Dated rollout postponement and later progress; cancelled component versus wider programme; cancelled advance-notice status",
+        "Method-scoped CIPP/Moorepay/Azets buyer survey questions and routed populations: behaviour versus prospective triggers",
+        "GDS reasoned discovery stop; HMRC transition linkage; OEP direct employer operational report"
+      ],
+      "action": "Targeted primary contexts and analytical design; dispositions, selected options, implementation and benefits remain separate. Public cases are not original JGA participants or representative outcomes. No price/prevalence/causal remedy, product trial or external contact.",
+      "related_source_ids": [
+        "SRC-0011",
+        "SRC-0012",
+        "SRC-0031",
+        "SRC-0070",
+        "SRC-0130",
+        "SRC-0195",
+        "SRC-0196",
+        "SRC-0197",
+        "SRC-0198",
+        "SRC-0199",
+        "SRC-0200",
+        "SRC-0201",
+        "SRC-0202",
+        "SRC-0203",
+        "SRC-0204"
+      ]
+    },
+    {
+      "search_id": "SCH-0017",
+      "date": "2026-10-29",
+      "purpose": "User-requested R06 second challenge: historical feasible options, market lifecycle, talent/competitor/prior-study and user continuity",
+      "queries": [
+        "Historical and later-state payroll programme decisions: changed feasible options, resets and staged continuation/replacement",
+        "Supplier lifecycle retirement, same-vendor migration, operational versus historical access, cancellation boundaries",
+        "All six recruitment comparators and JGA; talent commitment/knowledge continuity; three constructed questions and24 saved answers",
+        "GDS service retirement and affected user/task/channel continuity; reused West Sussex record-access declaration"
+      ],
+      "action": "Targeted second challenge with dated primary contexts and exact prior-study linkage; no historical outcome rate, hindsight judgement, current candidate availability, vendor ranking, causal remedy, legal interpretation, numerical estimate, original fieldwork or external contact.",
+      "related_source_ids": [
+        "SRC-0113",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0147",
+        "SRC-0187",
+        "SRC-0199",
+        "SRC-0205",
+        "SRC-0206",
+        "SRC-0207",
+        "SRC-0208",
+        "SRC-0209",
+        "SRC-0210",
+        "SRC-0211",
+        "SRC-0212"
+      ]
+    },
+    {
+      "search_id": "SCH-0018",
+      "date": "2026-10-29",
+      "purpose": "R07 priorities and contextual differences: claim status funding delivery, source comparisons and dated planning signals",
+      "queries": [
+        "Original payroll priority questions, respondent populations, funding/approval versus ambition and non-comparable rankings",
+        "Relevant employer working/service/country context mechanisms versus unestablished subgroup differences",
+        "Dated HMRC interim future phases versus currently operative guidance and actual resource commitment",
+        "QQE context, achieved/missing coverage, negative cases and warranted comparison/inference"
+      ],
+      "action": "Targeted original guidance and method-scoped published payroll evidence with explicit researcher comparison rules. No representative subgroup rankings, funded market share, employer forecast, original contribution or external contact. Conflicting numbers remain held.",
+      "related_source_ids": [
+        "SRC-0003",
+        "SRC-0011",
+        "SRC-0033",
+        "SRC-0034",
+        "SRC-0070",
+        "SRC-0072",
+        "SRC-0075",
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0107",
+        "SRC-0198",
+        "SRC-0202",
+        "SRC-0213",
+        "SRC-0214",
+        "SRC-0215",
+        "SRC-0216"
+      ]
+    },
+    {
+      "search_id": "SCH-0019",
+      "date": "2026-10-29",
+      "purpose": "R07 second challenge: priority history sequencing market access skill remit prior-study and affected-user context",
+      "queries": [
+        "Historical priority measures and programme sequences versus repeated cross-sections or unobserved later outcomes",
+        "Actual included/configured/delivered service versus supplier future roadmap; employer/agent/client unit",
+        "All six recruitment comparator and JGA task/skills/remit context; exact prior constructed prompt and saved-text linkage",
+        "Priority beside ongoing work, dependencies, capacity, affected-user evidence and review"
+      ],
+      "action": "Targeted second challenge of R07 with primary material and explicit canonical reuses; conditions remain selective under14core. No original fieldwork, market estimate, salary/pricing arithmetic, model rerun or external contact. Holds retained.",
+      "related_source_ids": [
+        "SRC-0068",
+        "SRC-0070",
+        "SRC-0113",
+        "SRC-0116",
+        "SRC-0153",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0206",
+        "SRC-0207",
+        "SRC-0217",
+        "SRC-0218",
+        "SRC-0219",
+        "SRC-0220",
+        "SRC-0221",
+        "SRC-0222",
+        "SRC-0223"
+      ]
+    },
+    {
+      "search_id": "SCH-0020",
+      "date": "2026-10-29",
+      "purpose": "R08 second challenge: event-time knowledge recurring operational approvals proposition evidence and divergence",
+      "queries": [
+        "Selected event-time alternatives/knowledge versus later audit and observation, without hindsight",
+        "Investment/change approval versus recurring operational-run acceptance, payment authority and retained work",
+        "All six recruitment comparators and JGA: evidence object, firm proposition versus candidate/start/outcome; exact prior-study prompts",
+        "Purpose-fit provenance, evidence acceptance versus qualification, corroboration, divergence and alternative explanation"
+      ],
+      "action": "Targeted second challenge of R08 using primary reinspection and explicit canonical reuses. Analyst conditions remain optional, with no new questions, fieldwork, scores, market estimates, causal recipe or external contact. Existing holds preserved.",
+      "related_source_ids": [
+        "SRC-0003",
+        "SRC-0078",
+        "SRC-0113",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0131",
+        "SRC-0132",
+        "SRC-0134",
+        "SRC-0147",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0205",
+        "SRC-0206",
+        "SRC-0210"
+      ]
+    },
+    {
+      "search_id": "SCH-0021",
+      "date": "2026-10-29",
+      "purpose": "T01 six distinct public comparable business mechanisms for The Table",
+      "queries": [
+        "Sponsored HR/payroll custom research outputs, recruitment and access",
+        "Licensed analyst intelligence: enterprise access versus provider marketing licences",
+        "Corporate payroll support membership and public business terms",
+        "Research community versus separate practitioner council admission/rights",
+        "Ongoing senior-payroll forum versus distinct free editorial stream",
+        "Sponsor-funded executive event: admission, contacts/meetings, input/privacy and terms",
+        "Public payroll research substitutes and decision-specific paid value"
+      ],
+      "action": "Read-only primary public offer/terms and bounded output review. Six selected mechanisms, explicit adjacent audiences, original HTML and prior canonical report reuse. No external contact, pricing request or T03 fieldwork; T02 hypotheses untested.",
+      "related_source_ids": [
+        "SRC-0010",
+        "SRC-0013",
+        "SRC-0065",
+        "SRC-0224",
+        "SRC-0225",
+        "SRC-0226",
+        "SRC-0227",
+        "SRC-0228",
+        "SRC-0229",
+        "SRC-0230",
+        "SRC-0231",
+        "SRC-0232",
+        "SRC-0233",
+        "SRC-0234",
+        "SRC-0235",
+        "SRC-0236",
+        "SRC-0237",
+        "SRC-0238",
+        "SRC-0239",
+        "SRC-0240",
+        "SRC-0241",
+        "SRC-0242",
+        "SRC-0243",
+        "SRC-0244",
+        "SRC-0245",
+        "SRC-0246",
+        "SRC-0247",
+        "SRC-0248",
+        "SRC-0249"
+      ]
+    },
+    {
+      "search_id": "SCH-0022",
+      "date": "2026-10-30",
+      "purpose": "T01 second challenge across historical/lifecycle, segmented-market, specific-comparator/prior-study and participation/output modes",
+      "queries": [
+        "Dated CPO origins, archive and2026Summit: programme, cohort and specific JGA public role",
+        "UK, Ireland and global alternatives; actual payer/user/use-rights units and funding/delivery readiness",
+        "All six recruitment comparators andJGA: existing content, interpretation, events and role-specific value",
+        "Three exact earlier prompts and24savedanswers: source/assumption lineage only, no reruns",
+        "Current Chatham House Rule meeting/output FAQs and employer-specific external hospitality constraints",
+        "Free practitioner research beside paid licence/service: equivalent-entitlement overlap"
+      ],
+      "action": "Focused public desktop challenge, retained original bodies and clearly labelled selected reader notes/application shells;6new routes25bounded records. Firstpass6models4hypotheses preserved;6optional conditions,9constructed applications. No external contact, fieldwork, financial inputs or launch adopted.",
+      "related_source_ids": [
+        "SRC-0088",
+        "SRC-0116",
+        "SRC-0190",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0221",
+        "SRC-0222",
+        "SRC-0224",
+        "SRC-0225",
+        "SRC-0226",
+        "SRC-0227",
+        "SRC-0228",
+        "SRC-0238",
+        "SRC-0239",
+        "SRC-0240",
+        "SRC-0241",
+        "SRC-0245",
+        "SRC-0246",
+        "SRC-0248",
+        "SRC-0250",
+        "SRC-0251",
+        "SRC-0252",
+        "SRC-0253",
+        "SRC-0254",
+        "SRC-0255"
+      ]
+    },
+    {
+      "search_id": "SCH-0023",
+      "date": "2026-10-30",
+      "purpose": "T02 second challenge of concrete research, funding and practitioner offers",
+      "queries": [
+        "Publication/evidence/service dates; official-publisher correction versus newdata/method revision analogy",
+        "Actual releasable evidence and task/country fit without new case quotas",
+        "Published-study briefing context versus new client-specific research",
+        "Specific recruiter/JGA alternatives, expert webinar follow-through and incremental benefit",
+        "S03-C/S08-C/S09-C exact earlier questions24savedanswers, task/remit/country only",
+        "Actual edition/funding purpose, exact concept shown and attribution of feedback"
+      ],
+      "action": "Focused primary reinspection and2newroutes11bounded records. Firstpass3offers4hypotheses5contractsegments+employerextra/14core/6B6M preserved. Five optional conditions/eight constructed applications, no actual exposure, fieldwork, finance or externalaction.",
+      "related_source_ids": [
+        "SRC-0003",
+        "SRC-0088",
+        "SRC-0116",
+        "SRC-0190",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0221",
+        "SRC-0222",
+        "SRC-0227",
+        "SRC-0229",
+        "SRC-0246",
+        "SRC-0256",
+        "SRC-0257"
+      ]
+    },
+    {
+      "search_id": "SCH-0024",
+      "date": "2026-10-31",
+      "purpose": "T04 matched commercial routes, model units and initial UK private-dining cost mechanics",
+      "queries": [
+        "Research-only and event-supported pilot/annual common edition, horizon and entitlement units",
+        "Current official private-room capacity versus generic menu capacity at Hawksmoor Manchester",
+        "Benares live-linked September guide versus excluded January search result: menu validity, guest ceiling, charges, minimum/hire and timing",
+        "Corrigan Lindsay Room configuration, no-hire versus minimum-spend mechanics",
+        "Initial commission versus repeat production, cash-cost contribution, full resources and funding timing"
+      ],
+      "action": "Read-only route design and five official retained source routes across three examples; sixteen bounded records. Source currentness checked separately from future date applicability. No supplier enquiry/quote, venue selection, financial-input adoption, workbook, fieldwork or external sending.",
+      "related_source_ids": [
+        "SRC-0258",
+        "SRC-0259",
+        "SRC-0260",
+        "SRC-0261",
+        "SRC-0262"
+      ]
+    },
+    {
+      "search_id": "SCH-0025",
+      "date": "2026-10-31",
+      "purpose": "First T05 component: future research-production labour and JGA retained effort",
+      "queries": [
+        "CIEP2026–27 editorial suggested hourly minima, freelance overhead and salary distinction",
+        "ProCopywriters2026 median day rate, survey timing and overall versus item base",
+        "YunoJuno2026 report methodology, UK research and graphic-design role rates",
+        "Full commissioned report/summary/preview/editable-assets work decomposition; per-edition versus per-contributor and retained JGA work"
+      ],
+      "action": "Five primary public routes retained, seven bounded records and labelled planning assumptions. Constructed future labour comparison uses explicit7.5-hour day normalisation; no actualtimesheets, suppliers, quote, production spend or extra client charge. First spreadsheet component, not full T05 cash/event model.",
+      "related_source_ids": [
+        "SRC-0263",
+        "SRC-0264",
+        "SRC-0265",
+        "SRC-0266",
+        "SRC-0267"
+      ]
+    },
+    {
+      "search_id": "SCH-0026",
+      "date": "2026-11-01",
+      "source_collection_date": "2026-10-31",
+      "purpose": "Second challenge of first T05 research/staffing component before next cost unit",
+      "queries": [
+        "Historical editorial minima, copywriting average versus median and research discipline versus role definitions",
+        "Worldwide marketplace rate scope and conditional client fee versus an actual country/specialist quote",
+        "Actual booking units, unsuccessful recruitment work, capacity, notes versus transcription and human-reviewed assisted processes",
+        "All six recruiter comparators plus JGA: exact reusable assets, remaining tasks and rights",
+        "Three exact previous questions and24 saved answers: transformation, UK replacement and small-team growth; generated premises versus observed requirements"
+      ],
+      "action": "Read-only public evidence, preserved prior-study bridge and ten constructed applications. Seven new routes/eighteen bounded records; first workbook and33financial inputs unchanged. Four new-route raw originals, three fresh existing-route raw originals and three substantive reader extracts remain distinct from prior notes. Selected primary pages rechecked1November. No new fieldwork, quotes, saving adoption, account/tool activation or external action.",
+      "related_source_ids": [
+        "SRC-0268",
+        "SRC-0269",
+        "SRC-0270",
+        "SRC-0271",
+        "SRC-0272",
+        "SRC-0273",
+        "SRC-0274"
+      ]
+    },
+    {
+      "search_id": "SCH-0027",
+      "date": "2026-11-01",
+      "purpose": "T05 service/sales labour: cost units, lost opportunities, scoped inquiry/briefing, rights fulfilment and shared resource allocation",
+      "queries": [
+        "Official bid preparation and unsuccessful opportunity cost guidance",
+        "Primary ABI inquiry entitlement, request administration, custom work and provider-error correction",
+        "Primary Forrester inquiry/guidance preparation, audience and custom deliverable limits; citation/reprint/replay assets",
+        "Government service-costing boundaries, activity drivers, explicit estimates and proportional assurance",
+        "Map future incremental work against all21 existing WR/JG tasks and draft T02 benefits before choosing activity quantities"
+      ],
+      "action": "Five substantive original HTML routes retained, eleven scoped claims/application records and21 untimed task assumptions. No monetary sales wage or actual supplier cost established. Per-unit catalogue, not sales forecast; all programme quantities and commercial-owner value unresolved. Existing comparison rates reused with explicit role/unit limits. No contact, quote, software activation, purchase or original data collection.",
+      "related_source_ids": [
+        "SRC-0275",
+        "SRC-0276",
+        "SRC-0277",
+        "SRC-0278",
+        "SRC-0279"
+      ]
+    }
+  ],
+  "updated_on": "2026-11-01"
+}

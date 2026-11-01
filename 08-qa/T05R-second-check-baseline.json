@@ -1,0 +1,1066 @@
+{
+  "date": "2026-10-31",
+  "files": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/Research staffing costs.xlsx",
+      "sha256": "b28a46219d4a74fdf49afc35f6f084aaac024ef403d0cc30dc4f683541b36677"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-JGA-and-context.png",
+      "sha256": "79e84f1cc5c41110e94ed2d757386806fd0e5ea9ca90abf4ead436e57de23a12"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-controls-rates.png",
+      "sha256": "57fd374be7666fe0b1be4b20b48b9466c767a783d63269d7a0beb3ca802cae03"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-sources.png",
+      "sha256": "1d523f56ed82f1ecb5c43a4ba0571720d2efe5554d849c0f13bd7e56c67fdfae"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/inputs-workload.png",
+      "sha256": "31c9ab3e4d5a32275c12f37ee7084189cc64e1f62af19112328f462b6dd9aac2"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/research-cost.png",
+      "sha256": "5199aef83e1e10cc15097cc88b333ec767bf190ea5fd4811db9389b74fe14533"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-research-costs-2026-10-31/role-chart.png",
+      "sha256": "fbd8c870cbe14fb088c5dd0ea521111dfe93c714607a319b9f1b4241c309d76a"
+    },
+    {
+      "path": "00-control/scope-baseline.json",
+      "sha256": "d50be13e18d3c76c27dde64eca46c114a4ea90cb8f3f0ac9018a8617f7dab013"
+    },
+    {
+      "path": "01-method/FIELDWORK-PLAN.md",
+      "sha256": "42abdb66146c694e45a9ff89530e060c1bf0a47d455fb0dd9e27f06989a9ea43"
+    },
+    {
+      "path": "01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "sha256": "b6ec63f70e3f320a4fc8c40a1b0cab9dee5017288eac5ce40a73203aeeb7f414"
+    },
+    {
+      "path": "01-method/RESEARCH-PROTOCOL.md",
+      "sha256": "f8319e66debe9ddc3cd269042df3432fc4d896a213c90fddc8deef44fdd2e4f8"
+    },
+    {
+      "path": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "sha256": "9f6b76002371913fde9501cbc07a40db702972f5812ac15296681f49ab07eded"
+    },
+    {
+      "path": "01-method/TABLE-VALIDATION-GUIDES-v0.2.md",
+      "sha256": "c46e6fc83c5a66328e78b5b9aa4887384c07dd25767c1f6cfbaa549cf7ede01e"
+    },
+    {
+      "path": "01-method/TOOLS-AND-FILE-RULES.md",
+      "sha256": "0f017e09e84e80d30e9178f34655bb428a9cffabf8017b6aafd12e81d14f76e4"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "sha256": "07dca419fc092e79a91a6e57eb868e8b912ec991b1bb729ac3e69afc0e736ece"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "sha256": "a57a60a74badde2e5af66e69efc38f44c5bdd8268c2a6e8069844ac547d0c09c"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "sha256": "416a1b32de68c8799fcacce4d782e539948f9984f81696401f60d72f462683d4"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "sha256": "85a485a68f993780925277f9d4ed65be4052aa2570835b86b7ce0a84f3214ec2"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "sha256": "f955287ed8ed250432180592399ef7ce4c7e2ba4006b2f3e3b20f3e8415b62c2"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "sha256": "e0d3026de2002d7c8bdb3370b5536fc266edddb476a4a3a47c3d9cb312f4cbfc"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "sha256": "ee520923baefbadf5e33812cccd10c46a0ced0033158f8a007d4fb0bca72097e"
+    },
+    {
+      "path": "01-method/collection-pack-v0.1/START-HERE.md",
+      "sha256": "20b47309e23bbcc7cdd5796924b37dece896b81029529a622bf9ee12a2047245"
+    },
+    {
+      "path": "01-method/question-map.json",
+      "sha256": "bad8effb5898e40af9cefbb68d104de7730a5fd118eb92c6b1083254bd4036f6"
+    },
+    {
+      "path": "01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "sha256": "779af1ce67f2bb1d68984179bcc6bbe0e8ef36027d22db2d62d9bd685e1c4161"
+    },
+    {
+      "path": "01-method/templates/record-templates.json",
+      "sha256": "036e7d36710849355f1f9406a3173430fd143699e448048b5e0470d4522ac2c9"
+    },
+    {
+      "path": "03-report/R02-DESKTOP-READOUT.md",
+      "sha256": "9a530515772ed2098811a2afb5b47e044f3835a27cf2e16cc524a8761b2962ce"
+    },
+    {
+      "path": "03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "sha256": "d35ee937b483976b14590ce81f40f588a4a17939369ed153a0d80c3a1106cdd1"
+    },
+    {
+      "path": "03-report/R02-SECOND-CHECK-READOUT.md",
+      "sha256": "e283ef8bce39e68a62b3fd32e06dbe6b4526db7384f1d5d860b45f04dfee53d8"
+    },
+    {
+      "path": "03-report/R03-DESKTOP-READOUT.md",
+      "sha256": "876e372d16c4e1d1bf3c88767f3c075d8f61e2c03105b89370463ef60618e934"
+    },
+    {
+      "path": "03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "sha256": "a1d703549e36e0bc2bbf4b478b341c4523202892f2907a9e600140a9fcd73f5c"
+    },
+    {
+      "path": "03-report/R03-SECOND-CHECK-READOUT.md",
+      "sha256": "6a3f82ba480ed90d93d1df94f2ed519cd824a76159c84dd9c257a94cab8c8e1f"
+    },
+    {
+      "path": "03-report/R03-option-map.json",
+      "sha256": "3cbeeb525cf4f6e07c902bb1304b7ac29c1c2eff7afc7684b463bfbdd4ba823a"
+    },
+    {
+      "path": "03-report/R04-DECISION-PATHWAY.md",
+      "sha256": "fc02f630e3353ebacfc49b352c09f03725400ff28087e4a6246cd73a96e58fd5"
+    },
+    {
+      "path": "03-report/R04-DESKTOP-READOUT.md",
+      "sha256": "ac9e0a6a3946b8023b30be04fcce823f2134eaef24cf45aec923af2cf8a1a972"
+    },
+    {
+      "path": "03-report/R04-SECOND-CHECK-READOUT.md",
+      "sha256": "6c08a21ff403c62c41601519d62ebdcb2bf48fcc520398220f5fcf355119d7b3"
+    },
+    {
+      "path": "03-report/R04-decision-map.json",
+      "sha256": "fb2b21afcd725c26b97995fd7f9577536decc1c4169061820411a8eefc43d483"
+    },
+    {
+      "path": "03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "sha256": "e49a437bde52ca70c366085e609b4fd91c74dd792ce7aabefe0fac3ba47bdb7c"
+    },
+    {
+      "path": "03-report/R05-DESKTOP-READOUT.md",
+      "sha256": "5627f8c220752678c4a8482dd109b0084bd192cdfa6d185e5ba99441569c01aa"
+    },
+    {
+      "path": "03-report/R05-SECOND-CHECK-READOUT.md",
+      "sha256": "a752410078c958f576db1d8c04d5259d52be94d338671d121eba6db9a260eb8b"
+    },
+    {
+      "path": "03-report/R05-evidence-map.json",
+      "sha256": "3acfae91802fd4e2da3851b13909529e4680437d64f7476ad8279a9114e3339c"
+    },
+    {
+      "path": "03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "sha256": "e4c9e41262ef449701097c7980e671838f6404ac7eb0ba5ef22c3370d6213862"
+    },
+    {
+      "path": "03-report/R06-DESKTOP-READOUT.md",
+      "sha256": "3d941c5bca02cb323442d1a1cde10095938d1e4037e5f764831dea87aeef9d75"
+    },
+    {
+      "path": "03-report/R06-SECOND-CHECK-READOUT.md",
+      "sha256": "989011205ed086566b04a579c6cac93bebb5ecac93fc972af70a7c836326a053"
+    },
+    {
+      "path": "03-report/R06-outcome-map.json",
+      "sha256": "621b1bd029656a84ee982f340b9519fabe9327f23d4882a0e3c95b97f4fefec9"
+    },
+    {
+      "path": "03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "sha256": "26ec287edf849d07032ee6349e430a0f95ed5772e6b41be12189da719f5c0ccf"
+    },
+    {
+      "path": "03-report/R07-DESKTOP-READOUT.md",
+      "sha256": "2077c94c968e15f758109ada0118c2dbe8ba0357b9fc91a648cd805af2aaf6ff"
+    },
+    {
+      "path": "03-report/R07-SECOND-CHECK-READOUT.md",
+      "sha256": "5556c568e56379ea5ad4857b75bfe9b4b8f13ef7f4d4981af24d5fe89e3f5289"
+    },
+    {
+      "path": "03-report/R07-priority-map.json",
+      "sha256": "73619157fa068ae0551cc65f99e20c26d82ecb4bef9a16802aab5afeba30b47a"
+    },
+    {
+      "path": "03-report/R08-DECISION-FRAMEWORK.md",
+      "sha256": "168c6de5654a83ce747b08e623b06522c420c56a1b416fee52782feb946ca28a"
+    },
+    {
+      "path": "03-report/R08-DESKTOP-SYNTHESIS.md",
+      "sha256": "a8cd1912a2ca83ef3b1d90f779a0400d0ceed55ee47e06273e64175eea359edd"
+    },
+    {
+      "path": "03-report/R08-REPORT-INTEGRATION.md",
+      "sha256": "1e9aadb2bf566f184afd281ce903545768552da9f238e34c60f5b4ad0cc671e3"
+    },
+    {
+      "path": "03-report/R08-SECOND-CHECK-READOUT.md",
+      "sha256": "331d0aad80691fd870c0b49af0f5619f072b1e129ea1f0d5022b248774bd96b2"
+    },
+    {
+      "path": "03-report/R08-constructed-walkthroughs.json",
+      "sha256": "b5f2e0135adea7de0db236e5b0e4ba19fc267e551c7446ff6d77569c4da60e0a"
+    },
+    {
+      "path": "03-report/R08-framework-map.json",
+      "sha256": "c8b309f0d5a0a5c97faa52a966e75bf5d708f46136d3a1eb923e06f47a53fbac"
+    },
+    {
+      "path": "03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "sha256": "ec074db8553311a6bc23aa67f4cf55f887694fe7815293c1995f224bc008c284"
+    },
+    {
+      "path": "03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "sha256": "7994bca53020043d1e39b6ce50b2900b6a73b5a7928bf41c76b24a5b46738136"
+    },
+    {
+      "path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "sha256": "535166df272b4c95dbd9110c728f3c5e697404ac4550e926b261224330dd2fa3"
+    },
+    {
+      "path": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "sha256": "b3a91ed2194e6325a1a35564bc0fda0591208828fbd5b77d0a43b053883c7285"
+    },
+    {
+      "path": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "sha256": "e208597f6d166674aafab5dfe0c0e504e4247578846c9baa5034dca9e902b8e4"
+    },
+    {
+      "path": "03-report/modules/R07-priorities-and-contextual-differences.md",
+      "sha256": "58f2e39ea6ecd38986c88d4a952e7caa448b3aa0d4c19d3124599feeee3abd3f"
+    },
+    {
+      "path": "03-report/modules/R08-decision-framework-and-synthesis.md",
+      "sha256": "e3ea502026b6619837157926d676fcda9d87edfe0d0a84c2d2672ab069d0d084"
+    },
+    {
+      "path": "03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "sha256": "d06ca49611b643c7ecf2eecde27f2249d166531104f328d8bfa5524ec833e911"
+    },
+    {
+      "path": "03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "sha256": "5866a000a16b802609260d1acf2921790d1c0392fff4919d61befcf3d3877b7b"
+    },
+    {
+      "path": "03-report/research-notes/r08/before-completion/manifest.json",
+      "sha256": "eb309c772a397ad9c64863ee7373080d14505f5224cea07bb7268ed5488b61df"
+    },
+    {
+      "path": "03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "sha256": "856ffd178f04d158755d3da145e5290ecb94ba748bdba201724f01ee5fe864c5"
+    },
+    {
+      "path": "03-report/research-notes/r08/evidence/synthesis-links.json",
+      "sha256": "27847786b122924c280f8548d5c56a21a650f4d0aa4df41436c029fc86a534bc"
+    },
+    {
+      "path": "03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "sha256": "002df59ebe8eaa97beab3cb6718c76a9902969ec767ef246d45ba24e7751bb3c"
+    },
+    {
+      "path": "03-report/research-notes/r08/reader-flow/content-map.json",
+      "sha256": "7f847b6775ad60aa6019a240b2d80b98e91a6d064699ff7abc5dc087ae78a881"
+    },
+    {
+      "path": "03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "sha256": "1d4728d9ee4ee33d3890b5c30d675316104118cfd19a452f47a441321a2fa088"
+    },
+    {
+      "path": "03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "sha256": "77880821b088b757aac8fdbbe85a77bfcd27b45a7826b42e554c5b6abdb579ed"
+    },
+    {
+      "path": "04-table/FINANCIAL-MODEL-SPEC.md",
+      "sha256": "df844e2678698d1ea37445c12f4a83d9fa2065b9c5ae95ae1b30ea3f0983565b"
+    },
+    {
+      "path": "04-table/T01-COMPARABLE-MATRIX.md",
+      "sha256": "f22b7df5661ac5bb6e733fd5d37161919b9e2ddc86114d4887e13b6c6c85c0e3"
+    },
+    {
+      "path": "04-table/T01-COMPARABLE-MODELS.md",
+      "sha256": "9bd5d53d1f1bd80552f447cc8bf234029dc46db91d572fcfe2bf1a0116cd4732"
+    },
+    {
+      "path": "04-table/T01-DESKTOP-READOUT.md",
+      "sha256": "0f9c36a334cff936e75bfb0632f5f7f60f88dc5d91c6767624da54f5890e6385"
+    },
+    {
+      "path": "04-table/T01-SECOND-CHECK-MATRIX.md",
+      "sha256": "1625433eea6472290fa3554288f1ba591ad7a54f730056c39c45fe4f584dd14a"
+    },
+    {
+      "path": "04-table/T01-SECOND-CHECK-READOUT.md",
+      "sha256": "6c5369eb9cf7c191935c2d3213a05abb5a4b18bf347d3a831bcb90ea2ee1251a"
+    },
+    {
+      "path": "04-table/T01-model-map.json",
+      "sha256": "05d5b651619070753d770a84e6b567356014134f3c345e92396d7068c400119d"
+    },
+    {
+      "path": "04-table/T01-second-challenge-map.json",
+      "sha256": "07c9811e338f5f9a8246336d91fb36da669589bd428e79a9ab6f78e6d1570820"
+    },
+    {
+      "path": "04-table/T02-BUYER-USES-AND-RIGHTS.md",
+      "sha256": "50e66fc8e8880459ce347cca0d97bd87cc65008313baea298ba2c0200113311a"
+    },
+    {
+      "path": "04-table/T02-DELIVERY-AND-VALIDATION.md",
+      "sha256": "a1f2d399ee74a5f0eb7fe95b74ca9b668a2b5e76d11436f6375d6b3d9bb819a6"
+    },
+    {
+      "path": "04-table/T02-OFFER-FIT-AND-WORDING.md",
+      "sha256": "5e2daec089fc5312ca106a94c7bb7abc665afa844394b1e82bd262393c953226"
+    },
+    {
+      "path": "04-table/T02-PROPOSITION-PACK.md",
+      "sha256": "24e84735d6c0a9d4a168f2854361e04fcdd69229e7b121e013a27de10b7742ca"
+    },
+    {
+      "path": "04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "sha256": "f3e41ac2032485aeb8c5a1f4307f9db41f77a48b20350066566d0b7b23213a7d"
+    },
+    {
+      "path": "04-table/T02-SECOND-CHECK-READOUT.md",
+      "sha256": "97f5beab2ca2a3f987332b26544be94c51c214f42d9f87ff3e144fbbfb0ce3a1"
+    },
+    {
+      "path": "04-table/T02-SECOND-CHECK-REFINEMENTS.md",
+      "sha256": "adbd874f106a1f91856eb46692f5509d62c675f7a3d3f1e7efd45f1fd3fdacdf"
+    },
+    {
+      "path": "04-table/T02-buyer-segments.json",
+      "sha256": "9e4e7c6d6eaafeada2543c6d2aa51f57f154fb3f41fe6983bd5432b1dc2a1000"
+    },
+    {
+      "path": "04-table/T02-delivery-map.json",
+      "sha256": "7b054ccea0e07a83ba0ee5b44a82dc15c37434d210ecb6ff58837eb5ec621d24"
+    },
+    {
+      "path": "04-table/T02-offer-fit-aid.json",
+      "sha256": "fe04060f59e653fbfc062c6822e88300f7fb4dc31de7ae10c876e0782de0376d"
+    },
+    {
+      "path": "04-table/T02-proposition-hypotheses.json",
+      "sha256": "5dd048362835bb9eeb0cd48fbabb1a8b2bbafac5149129edd41c501f19ed107b"
+    },
+    {
+      "path": "04-table/T02-proposition-map.json",
+      "sha256": "dc64bbec0d1c142f9056b1ff561080a352ccb17f17b156629f45759baf763808"
+    },
+    {
+      "path": "04-table/T02-second-challenge-map.json",
+      "sha256": "37fd188abc43391de54ae22e26724e4fff4475ddb0962efa773ab7d19e1c860c"
+    },
+    {
+      "path": "04-table/T02-use-and-entitlement-options.json",
+      "sha256": "a938893e26d20737392a31a6555f2d28b8c4f4f003f55a21a1a09b0fa9ec62e0"
+    },
+    {
+      "path": "04-table/T02-validation-map.json",
+      "sha256": "54f0e3b277a61aadbf1233413fe2ba49f3d0f8de0881d6a295108db059f0512c"
+    },
+    {
+      "path": "04-table/T04-COMMERCIAL-ROUTES-READOUT.md",
+      "sha256": "98f901ec34f398ca5ac15ffd5515b79f04ac0d19742dce1a50c7394d5c73f95d"
+    },
+    {
+      "path": "04-table/T04-INPUT-AND-MODEL-RULES.md",
+      "sha256": "fc2bb875c941c96fb630cd7c85b35977829b241ddb94720c19f45bca5205c8a1"
+    },
+    {
+      "path": "04-table/T04-PUBLIC-COST-SCREEN.md",
+      "sha256": "0078e8bdabee1b177c0c8e1421df1f533da65f8c3c0563b39506a7711d462351"
+    },
+    {
+      "path": "04-table/T04-cost-evidence-map.json",
+      "sha256": "5f60cf387caff7316fa262eda1c1607f02a92b4be873cfd3b6efae8f6a69591e"
+    },
+    {
+      "path": "04-table/T04-formula-design.json",
+      "sha256": "7a7f460ddec531faa31dca1a041cff9e50e2ad9b63889b64f0111e006d81ed5f"
+    },
+    {
+      "path": "04-table/T04-input-requirements.json",
+      "sha256": "e0935cb825431eb062822d799dfbfcb3b7e5364ed75f265d9533603f76522981"
+    },
+    {
+      "path": "04-table/T04-model-design.json",
+      "sha256": "6f6c387a2b5d3e4131fc2e90844650a6dfb33316e670dd665d6a8f0ed2d02a26"
+    },
+    {
+      "path": "04-table/T05-RESEARCH-AND-STAFFING-COSTS.md",
+      "sha256": "7e9fd00717e2193427fe330f9f2397a9bbfc3bd380d135d170e1f734918f2d80"
+    },
+    {
+      "path": "04-table/T05-research-cost-map.json",
+      "sha256": "3e5eedcc809be33ecd5647a972e862b2035d5236de5740a21451adfd75627d02"
+    },
+    {
+      "path": "04-table/TABLE-DESIGN-BRIEF.md",
+      "sha256": "6a45b9e465b1deec978560c7f0f7104796f683640a37da36f50dafed9c22849e"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "acf688c2ac540f32ec63c06e15b7b4077159d89c3b94799b2fd95e8a7de43509"
+    },
+    {
+      "path": "04-table/research-notes/t04/before-review/manifest.json",
+      "sha256": "f5f2676f5115edbfd1202eb4574f766302a635726b09e03810723ba4cca7a444"
+    },
+    {
+      "path": "04-table/research-notes/t04/root/visual-source-review.json",
+      "sha256": "53837f8494b110a82f2af039b472ec9b83d0a9bf9451091bc10bda8c61628da0"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/ROUTES-AND-UNITS.md",
+      "sha256": "9a71ad3703497fa3a524641377c8cff39b9a84a273441dafe278a20766ef6d7f"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/assumptions-and-validation.json",
+      "sha256": "959391afa879f12816d1b77a184f2c4d732fb6259e6ccf4d555aa64a1ed00d13"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/model-unit-spec.json",
+      "sha256": "45823637c589cb597e4afd511fbe038001bdf0b6a6c9386d04c1e8bd7f1f9d7e"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/route-candidates.json",
+      "sha256": "2fc65dd09a6ddf38786a7bc9739ac73a0a9dba61519989fce7fd4b68ff46de67"
+    },
+    {
+      "path": "04-table/research-notes/t04/routes/verification.json",
+      "sha256": "eec18a168b6d6fa8e24f8c98db7c3ec0d4720f76bea93f3b1bbec985a9d2e80f"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/PUBLIC-COST-SCREEN.md",
+      "sha256": "7b1470660d3731386c0df6e814c2df2df50ff19138ad758d444f191dbdf80fab"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/build_cost_screen.py",
+      "sha256": "05d15566fb758a5ef358cd4c4631b97a01f81ffe6888d5e28d81cb382e9fb600"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/capture-manifest.json",
+      "sha256": "c080e2aa8e952f8010965a18d19c5a8e2c0f0256121e9c22f67713dcc8ee5f54"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S01.html",
+      "sha256": "27fd181c84891bc3086d5e8b5ef7e6557dc316c03f6f36f02cb4c555446c8237"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S02.pdf",
+      "sha256": "6a48e6e9547b4cff4bed25bf8075db9608c89a992d56528561eafbbac7568255"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S03.html",
+      "sha256": "678c6f131db1dfc53af4c48cef355a77635ff83d0eb149a5832e4f6c18de1eb8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S04.pdf",
+      "sha256": "84f4b2b0ca5e39b92703302506c28921ff9966190d42f805e030176df972c4a4"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/captures/T4E-S05.html",
+      "sha256": "f439e0c9210433f2b5dd0af65873346f4d4042dfa1ebce573002389567a82e27"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/claim-candidates.json",
+      "sha256": "21bbed81b66534a181df3a6f6e9723b20376ee62247e9169bc1b158cff439721"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/cost-candidates.json",
+      "sha256": "740be7a2143057ce38675c7014229ed2f5f26a958d03162af34f76590e39cfa8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-4.png",
+      "sha256": "b4fce6f34017194a574ba67be1ab25557c84503bcecff63259b1a7022c1c8dca"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-6.png",
+      "sha256": "becf1449697c69c176ede3555a55462be96dc7930ecba7422d08d95b309c9434"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-7.png",
+      "sha256": "74e6e991506e86ccface53eb23c285e12dbd82b4a028b582dbbbeb4878bb3381"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04-8.png",
+      "sha256": "71e3fbe17016f06caa8d52bd3acd5670b28f4dd90d4532e2b70693e012aeb0b0"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.pdf",
+      "sha256": "366d9d28932a76b071d1d9d79c66069abe38c26c78dd22253a7cbdd31e5f0efb"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/T4E-S04.txt",
+      "sha256": "4a456275862f888428356195d31d765811782a77435f97e7a29f60725797f890"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/excluded-historical/january-manifest.json",
+      "sha256": "e4f07b07bfafe7426fc143d9a20894e8b6ef5d2fa5bb7f92148c782a6230fee4"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-3.png",
+      "sha256": "1ce551d2928d411ead02ce78e8532ea88de3654e7bf97eb0b7ceb02c948f3623"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S02-9.png",
+      "sha256": "f47435b423234672d8fe4033a91b03899804e54a83c2772c429c2925ea2348f7"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-2.png",
+      "sha256": "d3deecc84952537402a3acbe424866b5aa20ec516c83e5bd56c4e41657a59247"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-4.png",
+      "sha256": "4cf94828a0465db0f331ac7e1918164c3dfff3e1d0c7130db5d5f8ad710f6793"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-6.png",
+      "sha256": "248ec6aed9b6f2b9ae1f9c0ea2afea114493c1cb3c2b3c08b2444daf9518d1c3"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-7.png",
+      "sha256": "71ff5ebd636812efdc88426c9d224b76a37a39d8fa538f3d5e9aaea2d58e977a"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/inspection/T4E-S04-8.png",
+      "sha256": "0b6c3df984d30e50387e70357964b3b1169e783e78c4d74a77ebccdefbd450a6"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/live-link-checks.json",
+      "sha256": "fb8e74a96da50a719a4aba63edf922f660dadd887585b95a98c3617861e54cd9"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S01.txt",
+      "sha256": "b06da4021065f81294fa97593a1ce32c564b449229d6373f0a44eadf83fc886f"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S02.txt",
+      "sha256": "18de76580ee206ce502c8779909e51dcaac518a355cb98e76b508f8200c1ef73"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S03.txt",
+      "sha256": "8d5e67842299dd6bd721701fe47add963c735e02fb1ecd2302f6e43a1d749dc5"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S04.txt",
+      "sha256": "65be34ac70fc76bde2dc221ef5ebf89f6603ca5fb6aa6671fe524659aef26fb2"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/parsed/T4E-S05.txt",
+      "sha256": "99e28dd22279cba8e72fda3d0ec21d107f2549c8841a0ebfff9c51c9617fb8a8"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/source-candidates.json",
+      "sha256": "f9256e65a314d9ed9b296a86fd6f72549db5c6b6cec8bdc1faba653ea7460e02"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/verification.json",
+      "sha256": "26155b8e3d4049f2117d69fdbfb5e2e9e40031b9ac55d4e439df26f4a1088905"
+    },
+    {
+      "path": "04-table/research-notes/t04/uk-costs/visual-inspection.json",
+      "sha256": "c3ee495e6e3bc1fc40774cb5c0d50109df051f90c9a480bfb8092c22419b430d"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/LABOUR-BENCHMARKS.md",
+      "sha256": "ea9414ef0743e7c67a7fbe780782953c8801d5ea1fdaf2787487f50636f983be"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/build_benchmark_records.py",
+      "sha256": "ca09cf881740e74d30a035ae525ece0c860056d32607878b7945fde6a508d18b"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/capture-manifest.json",
+      "sha256": "1cb48a982f6d521f92826b220275d5f40727a14b538a42bad0d21fe7796c4852"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S01.html",
+      "sha256": "3f1f8d281a06b755182d0e2798d299d1bc588f85ccb9125d61a5e29ecef33a01"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S02.html",
+      "sha256": "ec0707663b1f8d55b0824454e8d4a48ef424b28644b9cfd7041d78f467def7e1"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S03.html",
+      "sha256": "46d2d3cc88c30866b47443b04a672692d75da228f73f5f512c1a0ac9cf654a4b"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S04.html",
+      "sha256": "c8fd3f35c162dbf37ae6be3b49f6a723e24e854c4cd4b4e996ef7aa435429e0a"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S05.html",
+      "sha256": "7e7772506821bb3cbdaaef8b40c1e25d0b7d8bac5846bc08b85db56c16f067c9"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/claim-candidates.json",
+      "sha256": "e2385a7afc5d0ea1f47dba32e7b734a942ab2d41728e4f094cbd72a4fa62e99d"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/labour-benchmark-options.json",
+      "sha256": "3343d584446e616e878b57185aa3f4ce68b5771ef5d864cca776b5d13582662a"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S01.txt",
+      "sha256": "0a9db93b7d3d9c7368aa49ab85edcda07a522fdbde6e31800c17bd14d099d58e"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S02.txt",
+      "sha256": "aa9e9204eddefabfbabe8830c95c359b944489339807168554427884375dc2f7"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S03.txt",
+      "sha256": "cd1ba53c5d630645d0fda891b8cefce46d6d6c9ebb7e33657b6e907c3869343a"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S04.txt",
+      "sha256": "191bacba885d3f8dcb249ff0a5d2375f274c360637756d7dee65a1896e3b5fc6"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S05.txt",
+      "sha256": "0cbae9d88e0872dd1e530cb79299efe63dc52cca1afe51f471fc7edba0e94ebe"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/source-candidates.json",
+      "sha256": "535f6e3292958c5803b8b89a0bed2823abdf4a0368d6613815f6beff649d9596"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/benchmarks/verification.json",
+      "sha256": "8d0cd7cc87ba84d57b7d132bba823d74314314a9ac25ff36d1145c9d877ad65f"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/WORKLOAD-READOUT.md",
+      "sha256": "ced07bab140bff6a7eee19e99b56a5d26f3b76326b041f056020e75acba82349"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/optional-unit-candidates.json",
+      "sha256": "991d8ffbbf7422a78650fc58aab1280d0b0ef06db545150970afe9784e4729f6"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/verification.json",
+      "sha256": "e973ab238174cf00fb2beb68e383f0aada4fc65c8f694de50464f32af252011d"
+    },
+    {
+      "path": "04-table/research-notes/t05-research-costs/workload/workload-candidates.json",
+      "sha256": "829cc33724d0465be8ab98cf71deb2e622a7306befe0528ff33c8f49059e02c0"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d"
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041"
+    },
+    {
+      "path": "08-qa/R02-prior-study-bridge-check.json",
+      "sha256": "f2e54a91359a5f159b749a177485ca77eef434ae14f279f0861909ed993834ab"
+    },
+    {
+      "path": "08-qa/R02-second-check-completion.json",
+      "sha256": "63f54f799c95be8a62de993f350e6bf5385f749243427b2811b0fb72cbd579e8"
+    },
+    {
+      "path": "08-qa/R02-second-check-independent-review.md",
+      "sha256": "e44a57d5618d5502a7a67de047fa34497dca63f3799d7d5b4da5abbf95f08eca"
+    },
+    {
+      "path": "08-qa/R03-prior-study-bridge-check.json",
+      "sha256": "fb9ec2849bc660fae2a627e91aa48076bc3ad20cdf35dec7d8f398f86880669f"
+    },
+    {
+      "path": "08-qa/R03-second-check-completion.json",
+      "sha256": "b52dfdd8702d4a25c49075cde582f44c6d5acd21136bd24416acd41277f3fab9"
+    },
+    {
+      "path": "08-qa/R03-second-check-independent-review.md",
+      "sha256": "50b86dfb23da8f80cc69841f0a13521c3029290294269be9507a92f88f2cc21b"
+    },
+    {
+      "path": "08-qa/R03-second-check-record-map.json",
+      "sha256": "00dc5e604318e58328558dd174b8b7a71c76c14b37d1779e3422f639593244ea"
+    },
+    {
+      "path": "08-qa/R04-prior-study-bridge-check.json",
+      "sha256": "acd73cf1c9d745919c61e91decd2f4f4dd4cca0c26af184feb0733f57ecd5c56"
+    },
+    {
+      "path": "08-qa/R04-second-check-completion.json",
+      "sha256": "0a5d074012464442d3f922186a1a00c641250e09f2ea01fd0dbdba27bb4bda9d"
+    },
+    {
+      "path": "08-qa/R04-second-check-independent-review.md",
+      "sha256": "6e37652e2f377e6789eda88be0c20f177e44225fc08c64052cf94eeeb4d813ed"
+    },
+    {
+      "path": "08-qa/R04-second-check-record-map.json",
+      "sha256": "cb7d5163870fbf3370d8ab4824f1d845dc2f61e7e957a2b4f1b98d726b21781c"
+    },
+    {
+      "path": "08-qa/R05-prior-study-bridge-check.json",
+      "sha256": "70c0a58c08a2672f0fceccfbe8fccd59da24063c497bf580d9246113a779f55e"
+    },
+    {
+      "path": "08-qa/R05-second-check-completion.json",
+      "sha256": "26946b573effab4526e2d291ed6f45dc2acc1baf09bba6419efcdd76d496ab28"
+    },
+    {
+      "path": "08-qa/R05-second-check-independent-review.md",
+      "sha256": "59e68c61d164587da51a974129ccb05fced1d42ded276628f89bcf4fada3e0ad"
+    },
+    {
+      "path": "08-qa/R05-second-check-record-map.json",
+      "sha256": "aae260f54057bdcea085305a4b9636af1b64dc0a44896e4c1557a46d01e9d53a"
+    },
+    {
+      "path": "08-qa/R06-prior-study-bridge-check.json",
+      "sha256": "4ff60ba1044fff65fcd7f046216a1036cbcd795b93463a07c7a3003c71b7dbc0"
+    },
+    {
+      "path": "08-qa/R06-second-check-completion.json",
+      "sha256": "8adeb912b54769ddf470560eec710689d9826d54069b05bb310ebcb48f21951a"
+    },
+    {
+      "path": "08-qa/R06-second-check-peer-review.md",
+      "sha256": "b2f18c143d714c5bce2b36b21f9bb67bcbd28c23cc932a8d7ad48cf8a8844e79"
+    },
+    {
+      "path": "08-qa/R06-second-check-record-map.json",
+      "sha256": "53c50b15eac1edc1687d9713a639dc98e12c780b4ec97b4c54dc14fe43f87677"
+    },
+    {
+      "path": "08-qa/R06-second-check-root-verification.json",
+      "sha256": "ea010abab408944228315a805f95b9173a41d7417b3783da654d05c16819b09b"
+    },
+    {
+      "path": "08-qa/R07-captures.json",
+      "sha256": "4f918124057d0bdc1079be2ae981f347f58a6d7afd5e95d1eea5c5c943794c43"
+    },
+    {
+      "path": "08-qa/R07-completion-check.json",
+      "sha256": "87f54358ecdae45f9d9d07584d694a49dd2a5dc7812eb49937aa68cc3f7815c8"
+    },
+    {
+      "path": "08-qa/R07-independent-review.md",
+      "sha256": "6cf43cc3d370bb8d9b4407f7b23f6bf8a44a62a2333d4dbd4ed6cac1d983c29b"
+    },
+    {
+      "path": "08-qa/R07-prior-study-bridge-check.json",
+      "sha256": "fed8321dfc05fe7f91d60ba121ec514ca87a9e487a514e45a18c273232bf67c7"
+    },
+    {
+      "path": "08-qa/R07-prior-study-bridge-check.md",
+      "sha256": "b1c8ae18329d510024d187fd6695ce6f12818e8bac52244a443cbe08a3347fa3"
+    },
+    {
+      "path": "08-qa/R07-record-map.json",
+      "sha256": "5d26b646937ca489a55c6bd3b1a98fc02561df9a8dc4232bac55070b1db45d9b"
+    },
+    {
+      "path": "08-qa/R07-second-check-captures.json",
+      "sha256": "754a287aeeea8652c6bc8d090bf0a0bd56e941267129165f757059764f430322"
+    },
+    {
+      "path": "08-qa/R07-second-check-completion.json",
+      "sha256": "46e7484fb80a7e341e698e28319756a0c9e2205ca42b40074afa191474cd63de"
+    },
+    {
+      "path": "08-qa/R07-second-check-independent-review.md",
+      "sha256": "5b284b426a187ba0f0ff4abd386aca9861eccd8f043d48a8fe3bcd9516310eed"
+    },
+    {
+      "path": "08-qa/R07-second-check-record-map.json",
+      "sha256": "23be2b7c804cb22a1bc28ff884e18a4dea3bcdc1eb7dfeeaa9519aeb139e1986"
+    },
+    {
+      "path": "08-qa/R08-baseline-manifest.json",
+      "sha256": "b60470ef5a5c2923322df2b396536c980cec16a4806b6afc5bb14cd5298dc727"
+    },
+    {
+      "path": "08-qa/R08-existing-findings.json",
+      "sha256": "e3e216689bb5788d9c3e6838b9d19b3e9f86b84f66c98c91f607201bf8c69cfc"
+    },
+    {
+      "path": "08-qa/R08-independent-review.md",
+      "sha256": "1acfe01b77b119aaed0ddde2b4e0835097f2b43d10f28b3e58d2a99368d59940"
+    },
+    {
+      "path": "08-qa/R08-prior-study-bridge-check.json",
+      "sha256": "521ab3488acb4537273b499a174417f93c5f72627ab8f55e7582c8f0b7402ebe"
+    },
+    {
+      "path": "08-qa/R08-prior-study-bridge-check.md",
+      "sha256": "1620397d1d3746a7c065ea4b665b7ec9dcf66b11d875b1561539dda8157abf1a"
+    },
+    {
+      "path": "08-qa/R08-routing-walkthrough.json",
+      "sha256": "bad0fc5aac4ef8fedbda4b38718038ec5096b386dab8878a3fec5e08e34e3c30"
+    },
+    {
+      "path": "08-qa/R08-second-check-captures.json",
+      "sha256": "57671a5f8d5d1c0fb9602f256333c56e16ff553258d509c67f2992a346c0602a"
+    },
+    {
+      "path": "08-qa/R08-second-check-completion.json",
+      "sha256": "07b40ad4a2bfcd3c933ecd728d6b9ec4d1b430e44fb99bdaf8e06fa128cb310a"
+    },
+    {
+      "path": "08-qa/R08-second-check-independent-review.md",
+      "sha256": "4b8fa3dad4e1d3d77abd58de4c5046331f343b0e439cd8b533475a2c72c8c100"
+    },
+    {
+      "path": "08-qa/R08-second-check-record-map.json",
+      "sha256": "0babef6e1f1f87442b2670acf82165a8e459758a9a56f1e95b1ddbd8e642d9ef"
+    },
+    {
+      "path": "08-qa/R08-second-routing-walkthrough.json",
+      "sha256": "2962098c1d6e3610ce50a7e319d871fa63763790c3c6635ab951b37f4b70aa66"
+    },
+    {
+      "path": "08-qa/T01-captures.json",
+      "sha256": "32b7f176d29d232cdf788ee24b913e88f34b0ad70330833c0bf8a53d83ec06aa"
+    },
+    {
+      "path": "08-qa/T01-completion-check.json",
+      "sha256": "a62edeee5bc07567288ff1b9688c4fe1470935a6c9fcc487066ebba2f9f4de7d"
+    },
+    {
+      "path": "08-qa/T01-independent-review.md",
+      "sha256": "743d4fcb8881ab64ea2fb34cd98a280c5f9490cbcd215e2c56d99a53f7fa0adf"
+    },
+    {
+      "path": "08-qa/T01-record-map.json",
+      "sha256": "759d647dee2b6bb12af6f4c4067c8be7c83d92de663a68ce5ea8ba7c0177a1f7"
+    },
+    {
+      "path": "08-qa/T01-second-check-captures.json",
+      "sha256": "1976b81f7fb1de6faa78dce3046969881ad9685afeb8f2e681570cbf17211ad5"
+    },
+    {
+      "path": "08-qa/T01-second-check-completion.json",
+      "sha256": "0d27bbef753d0f6bc62c699a2ea5ca34f5e336ce48edc47b01c6f242c5170677"
+    },
+    {
+      "path": "08-qa/T01-second-check-independent-review.md",
+      "sha256": "237bef5d2bbad5a529e64b01e1a724c7a19f07c6661c508f0c40111d16f42e49"
+    },
+    {
+      "path": "08-qa/T01-second-check-record-map.json",
+      "sha256": "8ef34431b6552710141296423529c5fab2c0110627cecb8d95cdaa1e04996109"
+    },
+    {
+      "path": "08-qa/T01-second-routing-walkthrough.json",
+      "sha256": "79335068424a3e384e6a0abe46aae3d659fb3710b47f68feb92b5e4f8c3c6f6f"
+    },
+    {
+      "path": "08-qa/T02-completion-check.json",
+      "sha256": "bcf35add5e787795eece6982d7ca19da3588af368509d3dd07e12b68d49ee27f"
+    },
+    {
+      "path": "08-qa/T02-independent-review.md",
+      "sha256": "168a3e7140099891b73ff08bec033749dfc4dccc8517f17ca4e8a0c41435c814"
+    },
+    {
+      "path": "08-qa/T02-second-check-captures.json",
+      "sha256": "594624e318e7275bbc091977590d1c43a1a76c698d8092b20f0e9264e3c9d2f4"
+    },
+    {
+      "path": "08-qa/T02-second-check-completion.json",
+      "sha256": "8742ecd0aa13b3a87a5d5c2c1e73bbd378fe16117c9552d582c7f2f5be6408ea"
+    },
+    {
+      "path": "08-qa/T02-second-check-independent-review.md",
+      "sha256": "83b6e697dcd009e7645de0558ea73141d0bad92d129571b2f06f6a09b2dcde53"
+    },
+    {
+      "path": "08-qa/T02-second-check-record-map.json",
+      "sha256": "67b6886649d9d60b3ddd9bdd4817e9b2ab708d4e1552898b701e634e93f3c7ed"
+    },
+    {
+      "path": "08-qa/T02-second-routing-walkthrough.json",
+      "sha256": "419c3aae18441db702390f56051953f983a7e7037a6bca8912c822d34d311265"
+    },
+    {
+      "path": "08-qa/T04-baseline-manifest.json",
+      "sha256": "04740c494c04083ff1940380cf03ee767f6fb4677abc573d71c22d1e9646f8b8"
+    },
+    {
+      "path": "08-qa/T04-captures.json",
+      "sha256": "027d695bf04628c4e8249785f8a2bb9a08ac9028e61c9bc97e5ecc9b1552afbe"
+    },
+    {
+      "path": "08-qa/T04-completion-check.json",
+      "sha256": "aec68e08c975b6311b45c268f6f5bbbdf9afec76b503bb636b433fefb22faf69"
+    },
+    {
+      "path": "08-qa/T04-record-map.json",
+      "sha256": "0b9883251393c66084866d7305d9827be50a16bad40f6b3b605bf870e9694914"
+    },
+    {
+      "path": "08-qa/T04-to-T05-acceptance-cases.json",
+      "sha256": "a5ca861296bc3e393d252067ec700286c36f561df0fa5aa51dc556180f702bd6"
+    },
+    {
+      "path": "08-qa/T05R-baseline-manifest.json",
+      "sha256": "c99f19d67f9e061a6a0ba165e1524a553b96d93bc5845f49bcb7751134d1ddfe"
+    },
+    {
+      "path": "08-qa/T05R-captures.json",
+      "sha256": "36b1ce9c84517ff397932c31a2a98117c98f393d8a07bc05564f2a3cb7808255"
+    },
+    {
+      "path": "08-qa/T05R-completion-check.json",
+      "sha256": "42fd8a357fdbee3f75de59d997bbb13809759025d8e91624dff41f9dd7ebc5bd"
+    },
+    {
+      "path": "08-qa/T05R-record-map.json",
+      "sha256": "bff0dfee2647a805c154bd4a200e4828e4b37eb9841a0d5a869d5087b927e8d6"
+    },
+    {
+      "path": "08-qa/WP03-completion-check.json",
+      "sha256": "b8177c24d8f001702ee1c5c5425a9732d27759a3ba250ca1cffb840cdbd704fe"
+    },
+    {
+      "path": "08-qa/WP03-independent-review.md",
+      "sha256": "d8526e52961565b0dd22074940c03c23f4481556748678532f339284d5d0e85b"
+    },
+    {
+      "path": "08-qa/WP03-routing-permission-checks.json",
+      "sha256": "05dc787373da231f9717f81c4eb0ad1cb657ea75f9d06f4d6b4c70cf957a706e"
+    },
+    {
+      "path": "08-qa/build_t04_input_design.py",
+      "sha256": "f1f2eee609ee1cf415c31b72753b3fd12036267c63223fe5d99e8c8221bb0a8f"
+    },
+    {
+      "path": "08-qa/merge_t04.py",
+      "sha256": "1908a22dd9c93f5ca262775d53ee418390a60d7cb2ea1f45c9c3b80508e2e0ac"
+    },
+    {
+      "path": "08-qa/r07-review/integrated-review-checks.json",
+      "sha256": "0bc5d931cca113166a2dc921fc1e89c25be06ae7ab05c68cb40f32fea2289562"
+    },
+    {
+      "path": "08-qa/r07-second-review/integration-checks.json",
+      "sha256": "cbd50fdf800e44e5cece834e161d96a924b6fb6389320c35f38aefeb9052adfc"
+    },
+    {
+      "path": "08-qa/r08-review/integration-checks.json",
+      "sha256": "d2648d3895c32f0c6e468e7982c6f6e6c0ecb2a2fe27ec33f55b73ec0a17cc25"
+    },
+    {
+      "path": "08-qa/t01-review/integration-checks.json",
+      "sha256": "c005ed52425b6e9966b5825226d1d16105df339e38cc5b3f33bee4189f85f35e"
+    },
+    {
+      "path": "08-qa/t01-second-review/integration-checks.json",
+      "sha256": "af4fa1cec88d92fbbcd21efb3d6ee59cac4698806d403bdf073dbe8822aefd29"
+    },
+    {
+      "path": "08-qa/t02-review/integration-checks.json",
+      "sha256": "73770eb6c431db29029bde113a66e998b050ab1b8b005223fba549c0ed85d2d4"
+    },
+    {
+      "path": "08-qa/t02-second-review/integration-checks.json",
+      "sha256": "4c39d0ab3600dba0e9bfd18cc3568b80bfe114c6f1dc71ce0bda4a7585537437"
+    },
+    {
+      "path": "08-qa/t04-review/INTEGRATED-REVIEW.md",
+      "sha256": "f408232c63c7d3540ad05fc01bb881b1e82164a9a9c49d3555ef1ec9e319771a"
+    },
+    {
+      "path": "08-qa/t04-review/design-checks.json",
+      "sha256": "32f9cab9ce6ff4a186665cd3421c86fa6e93391db992c179f39be0948d478a76"
+    },
+    {
+      "path": "08-qa/t04-review/integration-checks.json",
+      "sha256": "4174f135f2d0734a023068b487dacfd337b082fe9645aea162b2302c6531251f"
+    },
+    {
+      "path": "08-qa/t04-review/primary-source-checks-current.json",
+      "sha256": "cb016a9135ea904ab17d8fe6c806a2cf62c8e97129b6e3819a7ad13121e7c94b"
+    },
+    {
+      "path": "08-qa/t05r-review/INTEGRATED-REVIEW.md",
+      "sha256": "89a4715175f35104019a0ac3263a6517d32dd56b40fcc3f03894da4c1c6c1c7c"
+    },
+    {
+      "path": "08-qa/t05r-review/input-and-source-review.json",
+      "sha256": "fbddb9b1e3b0dde79ee26da739e38f87e8124e69f0374cc940d63029b375d4d5"
+    },
+    {
+      "path": "08-qa/t05r-review/integration-checks.json",
+      "sha256": "e8898e810577e06e412b6d01ba60ac904c6a484f38235f74ce5131a9de1e005e"
+    },
+    {
+      "path": "08-qa/t05r-review/mapping-arithmetic-review.json",
+      "sha256": "0230cd069b85639b9ff99b0f0a0334f08cfa7eeb4568edf51b5da78a28e8f431"
+    },
+    {
+      "path": "08-qa/t05r-workbook/cell-map.json",
+      "sha256": "5fcb993e6abb8ad8b6e8e2991c49983a12acc33b42a0636b9c170cf27c60e3ab"
+    },
+    {
+      "path": "08-qa/t05r-workbook/export-check.json",
+      "sha256": "87a324ec86710a271a0f5c3d7af3e7b2594c2b8bb60c146e81b4735267c05b30"
+    },
+    {
+      "path": "08-qa/t05r-workbook/formula-error-scan.ndjson",
+      "sha256": "acc0111e19cf44d2753fc9ecd164bf1b27fbd65597463a25cf48bd1c65e90146"
+    },
+    {
+      "path": "08-qa/t05r-workbook/headline-inspection.ndjson",
+      "sha256": "465b01ff75e6540b13d2e03a11319bea4c6a16b1517b081f2c18962ec7bddcbd"
+    },
+    {
+      "path": "08-qa/t05r-workbook/verification.json",
+      "sha256": "acfc46c0ae97c5ed8c80958b37ce7a7f1e2f7a0f42dca71ff6404158a44cc80d"
+    },
+    {
+      "path": "08-qa/wp03-review/integration-checks.json",
+      "sha256": "032f8b0003226aafc02546b35acc39e4c1511e16ae7a58dc06ef3034e83c6ebb"
+    }
+  ],
+  "mutable_paths_snapshotted_in": "04-table/research-notes/t05r-second-check/before-review/manifest.json"
+}

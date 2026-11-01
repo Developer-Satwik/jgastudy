@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H4-S01",
+      "url": "https://publications.parliament.uk/pa/cm201617/cmselect/cmpubacc/297/29706.htm",
+      "accessed_on": "2026-10-29",
+      "requested_at_utc": "2026-10-28T21:28:37.534387+00:00",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_status": "capture_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "candidate_id": "H4-S02",
+      "url": "https://www.gov.uk/government/publications/digital-assurance-playbook/digital-assurance-playbook",
+      "accessed_on": "2026-10-29",
+      "requested_at_utc": "2026-10-28T21:28:37.534842+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/digital-assurance-playbook/digital-assurance-playbook",
+      "content_type": "text/html; charset=utf-8",
+      "capture_path": "03-report/research-notes/r04-second-check/history/H4-S02.html",
+      "capture_sha256": "4e1c14eb3d6340006a421084e49364efc5dc0ddb332f5c60d5f01af868c21139",
+      "bytes": 202396,
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "H4-S03",
+      "url": "https://www.gov.uk/government/publications/dao-0126-letter-reforms-to-the-spending-control-and-accountability-framework/dao-0126-letter-reforms-to-the-spending-control-and-accountability-framework",
+      "accessed_on": "2026-10-29",
+      "requested_at_utc": "2026-10-28T21:28:37.534923+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/dao-0126-letter-reforms-to-the-spending-control-and-accountability-framework/dao-0126-letter-reforms-to-the-spending-control-and-accountability-framework",
+      "content_type": "text/html; charset=utf-8",
+      "capture_path": "03-report/research-notes/r04-second-check/history/H4-S03.html",
+      "capture_sha256": "74b00669421ec58abdf11a4c0425847ca218d3b9519da81f34726c1b3a02ed7f",
+      "bytes": 77561,
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "H4-S01",
+      "url": "https://publications.parliament.uk/pa/cm201617/cmselect/cmpubacc/297/29706.htm",
+      "accessed_on": "2026-10-29",
+      "capture_path": "03-report/research-notes/r04-second-check/history/H4-S01-selected-reader-extract.txt",
+      "capture_sha256": "8a71629649a69f1bf49f3f4f1b2a9637bce1cc4cdcf4430398e9822fb501b51f",
+      "capture_status": "selected_browser_reader_extract_not_raw_original",
+      "notes": "Original body read in web reader; selected fragments only, not full raw source"
+    }
+  ]
+}

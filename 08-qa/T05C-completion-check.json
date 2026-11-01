@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-01",
+  "status": "completed_internal_cash_timing_and_remaining_obligations_component_full_programme_pending",
+  "canonical_sources": 266,
+  "canonical_claims": 545,
+  "preserved_internal_findings": 81,
+  "source_records_with_primary_originals": 187,
+  "new_source_routes": 3,
+  "new_claim_records": 8,
+  "capture_inventory_artifacts": 5,
+  "new_primary_original_routes": 2,
+  "reader_paraphrase_routes": 1,
+  "protected_baseline_files": 1948,
+  "before_snapshots": 12,
+  "all_three_prior_workbooks_preserved": true,
+  "all_shared_financial_inputs_preserved": 70,
+  "new_financial_inputs": 0,
+  "artifact_engine_calculation_tests": 65,
+  "rendered_regions_visually_reviewed": 7,
+  "same_agent_component_review_checks": 2307,
+  "native_Excel_tested": false,
+  "new_independent_agent_review": false,
+  "actual_cash_legs": 0,
+  "actual_obligation_records": 0,
+  "actual_fx_inputs": 0,
+  "cash_scope_unconfigured": true,
+  "current_commission_usd": {
+    "total": 1500,
+    "report": 1000,
+    "table": 500,
+    "upfront_reported_received": 750,
+    "remaining_conditional": 750
+  },
+  "commission_automatically_added_to_programme_receipts": false,
+  "bank_reconciled": false,
+  "executed_agreement_independently_retrieved": false,
+  "cash_views": [
+    "monthly roll-forward",
+    "daily-end funding gap",
+    "separate payments-first same-day stress"
+  ],
+  "remaining_units_separate_from_cash": true,
+  "contract_fee_changed": false,
+  "core_questions_unchanged": 14,
+  "practitioner_free_full_research_preserved": true,
+  "external_messages_or_spend": 0,
+  "actual_participants_or_buyer_validation": 0,
+  "actual_quotes_or_bookings": 0,
+  "full_programme_model_complete": false,
+  "final_client_delivery": false,
+  "next_step": "Join research, service/sales, event, cash and remaining work into matched pilot/annual A/B cases, then scenarios, break-even, capacity and sensitivities. Do not infer activity, prices, funding or fieldwork from reserved rows.",
+  "full_workspace_validation": {
+    "status": "passed",
+    "date": "2026-11-01",
+    "checks": 18095,
+    "json_files": 763,
+    "source_records": 266,
+    "claim_records": 545,
+    "question_records": 14,
+    "internal_design_findings": 81,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 556
+  },
+  "artifacts": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/Cash timing and obligations.xlsx",
+      "sha256": "3b146e997e1d7327fedf0915ff7e8e52216a29071eda8f6d10c1b862c36b52c1"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/build.mjs",
+      "sha256": "eef0d344322c0a07fc188f64d85ace5add17d40db226e97147c5d3229d5f075d"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-calculation.png",
+      "sha256": "f5dd92b98cb4b194537e6c482894655f6276441932b9cdc8ea9395cba6d48474"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-entry.png",
+      "sha256": "5e4c774a089c428bfab4e9f6fa6852eab762c0a410aaeecebdae75fd440b6af2"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-plan.png",
+      "sha256": "4b8dacc7609b86d1acf6fc029eaaa47d94b66b155e15fba17bc97f5013f90bfe"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/cash-results.png",
+      "sha256": "825efca03a84536cb340e4eb1fec32ba6e5fda0f88af4e022732914f4996dd33"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/commission-context.png",
+      "sha256": "b2d00f20b62593f1e894a39bcf18bd943bfe2b2fe1e3374c108c8a5f494217e5"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/obligation-calculation.png",
+      "sha256": "083d62d884463eaf1b23913bd3e89f15234ca858cc7ec867470528934f22f0ae"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-cash-2026-11-01/obligation-entry.png",
+      "sha256": "fac72d00f013b5c2890a3ea5918e35b382c29a1824fddd9b13682d9526e2ea76"
+    },
+    {
+      "path": "00-control/CURRENT-STATUS.md",
+      "sha256": "1a9a85dd3518a9a0d6fbf5921b797396c9365e582c4d768438e3e18907836462"
+    },
+    {
+      "path": "00-control/changes.json",
+      "sha256": "f93832c3f3342a667fb40bada309903955d7f4a68a5b363dd3c89532b7760d08"
+    },
+    {
+      "path": "00-control/decisions.json",
+      "sha256": "89bbd0cf8139986da30cb27a027e1f056b1e8697c8d77cc93c2945667580b062"
+    },
+    {
+      "path": "00-control/work-packages.json",
+      "sha256": "68bbb62cef6963b8b26ac53ab2b0297f2e420b4f400c2156e5df7f8a76925542"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "bdce4f2c40bc94a9fab4514253f10daae2b6bb3ff568667baea6d280e3b2229e"
+    },
+    {
+      "path": "02-evidence/registers/searches.json",
+      "sha256": "226b76a6fffe0829ba62bed327618366111ff6d58acc2dd269871ea42066393c"
+    },
+    {
+      "path": "02-evidence/registers/sources.json",
+      "sha256": "cb7ecdf309e6812458ac0648782a54871614a052fc34e4647560641dce03985b"
+    },
+    {
+      "path": "04-table/T05-CASH-TIMING-AND-OBLIGATIONS.md",
+      "sha256": "6bbca1828285f6243982189f45d14dd7fcb1e4c734bf3d26683e98d0a40316c4"
+    },
+    {
+      "path": "04-table/T05-cash-map.json",
+      "sha256": "ccd97011f42a3aeeaba5baa858bd97adc580aa552f9accedb3edb2c80b4feea4"
+    },
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/WORK-PLAN.md",
+      "sha256": "eef7799cb9eae86acd23a5671a2da6a1c0f58e1b1601705779a71963a0f14bcd"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/00-control/CURRENT-STATUS.md.txt",
+      "sha256": "5fb71ab0f11e1af5212695074610eb821b9a3c4c126a27a8f489c9656aff7478"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/00-control/changes.json",
+      "sha256": "c948f584226b0a65e9c7ca2b431e55a23e045270166ccbfc3c0776a005b98ba3"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/00-control/decisions.json",
+      "sha256": "36438bf6090f0508358c51e3b168a78aad64ec08614d601feb6ae9fb342678d4"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/00-control/work-packages.json",
+      "sha256": "91d929788d7a0396822f6557fa67e7e1f4158e1732e46fb471bfe0299bfa61f7"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/02-evidence/registers/claims.json",
+      "sha256": "391f06859e9572b9838c32e1b0dbdb6e3d681294972045fcf004d3df1e35c07d"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/02-evidence/registers/searches.json",
+      "sha256": "8ba99b09b2f98aa9f7014c4820e575fb612eeb20c6ed43161a9b3ce3f4215107"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/02-evidence/registers/sources.json",
+      "sha256": "e558f29f7b93cd0519fbd1519d1eb6c3769c3d61dd701431ca5d50f06d3b9110"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/05-analysis/CONTRADICTIONS-AND-GAPS.md.txt",
+      "sha256": "8e8d749834f249cc962d15c814e93f49855e6f7b6813f4016df703c6f7c018b0"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/08-qa/validate_workspace.py",
+      "sha256": "1b7670c1aac995d19a0c6143e59e705c7a5cf7a9875b81769f61633e8e19e07a"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/README.md.txt",
+      "sha256": "bca484f5888a9656ee0439154197da44c5538e3efbf8282b59ff4952d003d45f"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/before-review/manifest.json",
+      "sha256": "a035c622944c816c7ed99ea0f9e41e0c98663e06251d9d4e0cae7b3cd498ed66"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/C-S01-selected-reader-paraphrase.txt",
+      "sha256": "43b3587545cb7a03dc286f1c95027ff542dd27dac6a36d4b06d3e72ba9143fc7"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/captures/C-S02.html",
+      "sha256": "1e8cef3b8d52b846a32387c919382c70398a7091378a80557280a4219a69015e"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/captures/C-S03.html",
+      "sha256": "d71fd3467a07ba9c4d443452804ccee52d4adee0aff4b1329d140ea15f3772ea"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/claim-candidates.json",
+      "sha256": "81ab9177b76f8cb2fa236575720952b09ca0259e4aebf808a5f95ec80c252f52"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/parsed/C-S02.txt",
+      "sha256": "534e95ba661a588debc41b8d38863aaf4e7096d042c7bb4915c786cee6d06a53"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/parsed/C-S03.txt",
+      "sha256": "22da48263c5d8eea294bf2bb3913ee0c72bb48661d9fbd97dd70cc6db7149cd5"
+    },
+    {
+      "path": "04-table/research-notes/t05-cash/evidence/source-candidates.json",
+      "sha256": "84de507e94fe5322fdbeb58e61f73ad5f272d54eaa33df1819b0f4cd989b61c2"
+    },
+    {
+      "path": "05-analysis/CONTRADICTIONS-AND-GAPS.md",
+      "sha256": "da54862b74f97a0de64e10b667bd1a7527affe600391fbd1151e4bdda7c5497b"
+    },
+    {
+      "path": "05-analysis/findings.json",
+      "sha256": "0360deb8d5e2442d2940940a3172053e4ae0a8bb009e30116cf462b4e0e820ca"
+    },
+    {
+      "path": "08-qa/T05C-baseline-manifest.json",
+      "sha256": "862bf0021337b11b23cc1e8f0aebefb71ad8245563dc9eed9c2f53fcb9f86aac"
+    },
+    {
+      "path": "08-qa/T05C-captures.json",
+      "sha256": "9832842eb221580cc0689b830c283923917db54c68e78615e7a62d1f0de796d1"
+    },
+    {
+      "path": "08-qa/T05C-full-workspace-check.json",
+      "sha256": "b7d6d4d57860362048be44c646b3a4762edfbfacbe612fde81ad74d5745d80cf"
+    },
+    {
+      "path": "08-qa/T05C-record-map.json",
+      "sha256": "093ea51824a748af4082653ac5811eb6f9dd20f3294a047eea4c08948251aa27"
+    },
+    {
+      "path": "08-qa/build_t05c_records.py",
+      "sha256": "7798fe0ccc3b7596c4a02d1d3a701346fcaa451af89f19ac3ce4019518434e98"
+    },
+    {
+      "path": "08-qa/t05c-review/validate_component.py",
+      "sha256": "0d558401452866a09d8c5bffa61424ebdac20b7662e2714dbf96ad996542ee36"
+    },
+    {
+      "path": "08-qa/t05c-review/verification.json",
+      "sha256": "ebe7b6a90eb54c8e86799e62b39e545ccea886b357a5548610a2d185d310a22a"
+    },
+    {
+      "path": "08-qa/t05c-workbook/formula-error-scan.ndjson",
+      "sha256": "acc0111e19cf44d2753fc9ecd164bf1b27fbd65597463a25cf48bd1c65e90146"
+    },
+    {
+      "path": "08-qa/t05c-workbook/inspection.ndjson",
+      "sha256": "594f037dec522783170056451053369b1b30d015d744552b233ecda7545ac1cc"
+    },
+    {
+      "path": "08-qa/t05c-workbook/verification.json",
+      "sha256": "b65555cf27c109dd9e28fbce2ac12e08054283f4cdb0615314ef21e17face50d"
+    },
+    {
+      "path": "08-qa/validate_workspace.py",
+      "sha256": "813297893e3042c89322deb950bcea4c6a74b82beaed83645f89ba3d2aa3359d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ed08b57020f562a66b061d42e3294719652e4e64d056c7b5d1429afb771e6521"
+    }
+  ]
+}

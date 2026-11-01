@@ -1,0 +1,629 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "module": "R05",
+  "status": "internal_analytical_design_practitioner_integration_pending",
+  "validated_framework": false,
+  "mandatory_sequence": false,
+  "ranking": false,
+  "domains": [
+    {
+      "domain_id": "E01",
+      "name": "Choice and counterfactual",
+      "supporting_claim_ids": [
+        "CLM-0295",
+        "CLM-0296",
+        "CLM-0297",
+        "CLM-0302"
+      ],
+      "establish": "Actual need/scope/result, realistic evolving baseline and feasible alternatives",
+      "inference_limit": "A preferred product, frozen zero-cost BAU or an unestablished mandatory requirement.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E02",
+      "name": "Resource and cost boundary",
+      "supporting_claim_ids": [
+        "CLM-0296",
+        "CLM-0300",
+        "CLM-0303",
+        "CLM-0304",
+        "CLM-0305",
+        "CLM-0306",
+        "CLM-0307",
+        "CLM-0308"
+      ],
+      "establish": "Whole-life scope, existing/additional work, service/volume, transition, recurring and exit resources",
+      "inference_limit": "Headline rate, unchanged allocations as new cash, existing expertise assumed free or unknown cost set to zero.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E03",
+      "name": "Benefit and realisation",
+      "supporting_claim_ids": [
+        "CLM-0298",
+        "CLM-0299",
+        "CLM-0300",
+        "CLM-0301",
+        "CLM-0302",
+        "CLM-0319",
+        "CLM-0320"
+      ],
+      "establish": "Benefit type/status, mechanism, baseline, owner, adoption/dependencies, assessment and overlap",
+      "inference_limit": "Enabled feature as realised benefit; time times salary as automatic cash release; overlapping additive claims.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E04",
+      "name": "Financial view and affordability",
+      "supporting_claim_ids": [
+        "CLM-0295",
+        "CLM-0296",
+        "CLM-0297",
+        "CLM-0298",
+        "CLM-0299",
+        "CLM-0300",
+        "CLM-0301",
+        "CLM-0302"
+      ],
+      "establish": "Resource/TCO, incremental cash and funding/timing perspectives, metric definition and actual remit",
+      "inference_limit": "Forecast return as cash availability or permission; public/social rates as private employer policy.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E05",
+      "name": "Uncertainty and material conditions",
+      "supporting_claim_ids": [
+        "CLM-0297",
+        "CLM-0313",
+        "CLM-0314",
+        "CLM-0318"
+      ],
+      "establish": "Material assumptions, supported scenarios/ranges, unmonetised effects, owner/mitigation/interactions/residual condition",
+      "inference_limit": "Invented fine/likelihood, unexplained risk colour or precision standing in for evidence.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E06",
+      "name": "Operating and change capacity",
+      "supporting_claim_ids": [
+        "CLM-0310",
+        "CLM-0311",
+        "CLM-0312",
+        "CLM-0315",
+        "CLM-0316",
+        "CLM-0317",
+        "CLM-0318"
+      ],
+      "establish": "BAU/change capacity, practical learning, protected time, support and handover",
+      "inference_limit": "Available training, budget or named team as usable capacity; compulsory full team or hire.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E07",
+      "name": "Readiness and continuity",
+      "supporting_claim_ids": [
+        "CLM-0309",
+        "CLM-0310",
+        "CLM-0315",
+        "CLM-0316",
+        "CLM-0317",
+        "CLM-0318"
+      ],
+      "establish": "Relevant data, integrations, tests, exceptions, continuity/recovery and scoped acceptance",
+      "inference_limit": "Plan/demo/upload/date/go-live as executed scope, universal accuracy or financial benefit.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E08",
+      "name": "Commercial and lifecycle obligations",
+      "supporting_claim_ids": [
+        "CLM-0303",
+        "CLM-0304",
+        "CLM-0305",
+        "CLM-0306",
+        "CLM-0307",
+        "CLM-0308"
+      ],
+      "establish": "Entitlement, quantity, price basis, included work, retained work, transition, renewal/change/exit",
+      "inference_limit": "Promotion/empty calculator/unspecified guarantee as quote; export alone as receiving service.",
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "domain_id": "E09",
+      "name": "Measurement and evidence use",
+      "supporting_claim_ids": [
+        "CLM-0299",
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0321",
+        "CLM-0322"
+      ],
+      "establish": "Claim provenance/state, relevant context, baseline/owner/period and actual requested/supplied/influential evidence",
+      "inference_limit": "Monitoring alone as causation; selected pilot as scale proof; request as acceptance/influence.",
+      "mandatory": false,
+      "scored": false
+    }
+  ],
+  "financial_views": [
+    {
+      "view_id": "V01",
+      "name": "Whole-life resources and cost",
+      "purpose": "Relevant resources across scoped lifecycle; existing time and allocated costs distinguished",
+      "private_hurdle_rate_prescribed": false
+    },
+    {
+      "view_id": "V02",
+      "name": "Future incremental cash",
+      "purpose": "Future decision-caused cash against credible alternative, with consistent basis/timing",
+      "private_hurdle_rate_prescribed": false
+    },
+    {
+      "view_id": "V03",
+      "name": "Funding and affordability",
+      "purpose": "Required cash/resources over time and actual authority/availability",
+      "private_hurdle_rate_prescribed": false
+    }
+  ],
+  "benefit_types": [
+    "cash_release",
+    "capacity_or_productivity",
+    "cost_avoidance_against_evidenced_path",
+    "quantifiable_nonmonetary",
+    "qualitative_outcome",
+    "unestablished"
+  ],
+  "cost_states": [
+    "public_declaration",
+    "actual_quote",
+    "budget_or_forecast",
+    "contractual_commitment",
+    "invoice_or_payment",
+    "forecast_to_complete",
+    "unestablished"
+  ],
+  "benefit_states": [
+    "desired_capability",
+    "forecast_effect",
+    "approved_plan",
+    "capability_enabled",
+    "reported_observed_result",
+    "assessed_contribution",
+    "evidenced_cash_effect",
+    "unestablished"
+  ],
+  "readiness_states": [
+    "proposed_plan",
+    "work_underway",
+    "executed_result",
+    "unresolved_exception_with_owner",
+    "accepted_residual_condition",
+    "unestablished",
+    "not_applicable"
+  ],
+  "evidence_state_labels_are_ordinal_score": false,
+  "metric_boundaries": [
+    {
+      "metric": "TCO as scoped",
+      "establish": "Resource/cash scope, horizon, timing and whether discounted",
+      "does_not_establish": "Benefit or available funding"
+    },
+    {
+      "metric": "ROI or ARR as reported",
+      "establish": "Actual definition, numerator/denominator, horizon and cash/profit basis",
+      "does_not_establish": "Comparability or realised cash"
+    },
+    {
+      "metric": "Simple payback",
+      "establish": "Relevant cumulative cash recovery and timing convention; no recovery within period if applicable",
+      "does_not_establish": "Whole-life value or discounted return"
+    },
+    {
+      "metric": "NPV",
+      "establish": "Dated incremental cash, consistent rate/price/tax basis and assumptions",
+      "does_not_establish": "Cash availability, deliverability or permission"
+    }
+  ],
+  "template_fields": [
+    "case_id",
+    "option_and_decision_object",
+    "decision_as_of",
+    "scope_and_service_unit",
+    "perspective",
+    "baseline_and_counterfactual",
+    "comparison_horizon",
+    "claim",
+    "domain_ids",
+    "source_and_locator",
+    "source_interest",
+    "knowledge_basis",
+    "claim_status",
+    "amount_or_quantity_if_disclosed",
+    "unit_and_period",
+    "price_currency_and_timing_basis",
+    "resource_cash_or_funding_view",
+    "benefit_type_and_owner",
+    "realisation_conditions",
+    "evidence_requested",
+    "evidence_available_or_supplied",
+    "reported_influence_and_basis",
+    "assumptions_and_uncertainty",
+    "unmonetised_effect",
+    "readiness_result_and_exception",
+    "condition_owner_and_next_action",
+    "assessment_plan_or_observed_result",
+    "missingness",
+    "permitted_use"
+  ],
+  "blank_evidence_template": {
+    "case_id": null,
+    "option_and_decision_object": null,
+    "decision_as_of": null,
+    "scope_and_service_unit": null,
+    "perspective": null,
+    "baseline_and_counterfactual": null,
+    "comparison_horizon": null,
+    "claim": null,
+    "domain_ids": null,
+    "source_and_locator": null,
+    "source_interest": null,
+    "knowledge_basis": null,
+    "claim_status": null,
+    "amount_or_quantity_if_disclosed": null,
+    "unit_and_period": null,
+    "price_currency_and_timing_basis": null,
+    "resource_cash_or_funding_view": null,
+    "benefit_type_and_owner": null,
+    "realisation_conditions": null,
+    "evidence_requested": null,
+    "evidence_available_or_supplied": null,
+    "reported_influence_and_basis": null,
+    "assumptions_and_uncertainty": null,
+    "unmonetised_effect": null,
+    "readiness_result_and_exception": null,
+    "condition_owner_and_next_action": null,
+    "assessment_plan_or_observed_result": null,
+    "missingness": null,
+    "permitted_use": null
+  },
+  "participant_observations": [],
+  "employer_forecasts": [],
+  "calculations": [],
+  "financial_inputs_populated": false,
+  "new_numeric_estimates": 0,
+  "reference_contexts": [
+    {
+      "context_id": "CTX01",
+      "name": "Synergy planned management case",
+      "source_ids": [
+        "SRC-0075"
+      ],
+      "claim_ids": [
+        "CLM-0312"
+      ],
+      "scope": "Prospective corporate-function programme plan, not executed readiness or payroll-only return",
+      "original_JGA_contribution": false
+    },
+    {
+      "context_id": "CTX02",
+      "name": "NAO shared-services audit",
+      "source_ids": [
+        "SRC-0076"
+      ],
+      "claim_ids": [
+        "CLM-0313",
+        "CLM-0314"
+      ],
+      "scope": "Risk and audit-method context; March2026 report not a later review of April-published Synergy case",
+      "original_JGA_contribution": false
+    },
+    {
+      "context_id": "CTX03",
+      "name": "Scottish Government annual audit",
+      "source_ids": [
+        "SRC-0134"
+      ],
+      "claim_ids": [
+        "CLM-0315",
+        "CLM-0316"
+      ],
+      "scope": "Dated sampled-pay/cutover positives and learning/support/benefit limitations; not October2026 status",
+      "original_JGA_contribution": false
+    },
+    {
+      "context_id": "CTX04",
+      "name": "SPCB reported internal audit",
+      "source_ids": [
+        "SRC-0135"
+      ],
+      "claim_ids": [
+        "CLM-0317"
+      ],
+      "scope": "Separate positive HR/payroll account; underlying audit tests not inspected",
+      "original_JGA_contribution": false
+    }
+  ],
+  "guidance_boundaries": [
+    "Government social appraisal is not private corporate appraisal policy",
+    "Educational definitions do not impose an employer convention or rate",
+    "Public tariff is not an actual quote or full lifecycle cost",
+    "Supplier guidance is not independently tested product behaviour",
+    "NIST framework/playbook update notice retained",
+    "No universal payroll risk score or required number of parallel runs",
+    "Small or no-new-platform choices can be proportionate",
+    "Baseline for comparison is not necessarily feasible recommendation",
+    "Unknown cost or effect is not zero",
+    "No invented fine probability or guaranteed savings"
+  ],
+  "specific_exclusions": [
+    {
+      "name": "AQA worked example arithmetic",
+      "disposition": "not_reused"
+    },
+    {
+      "name": "BrightPay exact billing period across dated guides",
+      "disposition": "confirm_actual_plan_before_numeric_use"
+    },
+    {
+      "name": "Moorepay promotional saving",
+      "disposition": "not_adopted_as_quantified_benefit"
+    },
+    {
+      "name": "Empty BrightPay calculator output",
+      "disposition": "not_quote_or_free_tariff"
+    },
+    {
+      "name": "Redirected Payfit pricing",
+      "disposition": "not_pricing_evidence"
+    }
+  ],
+  "current_question_ids": [
+    "Q008",
+    "Q009",
+    "Q010",
+    "Q011",
+    "Q012",
+    "Q013"
+  ],
+  "extra_mandatory_questions": 0,
+  "fourteen_core_questions_unchanged": true,
+  "unaided_case_first": true,
+  "confidential_documents_required": false,
+  "universal_rate_or_risk_threshold": false,
+  "supporting_claim_ids": [
+    "CLM-0295",
+    "CLM-0296",
+    "CLM-0297",
+    "CLM-0298",
+    "CLM-0299",
+    "CLM-0300",
+    "CLM-0301",
+    "CLM-0302",
+    "CLM-0303",
+    "CLM-0304",
+    "CLM-0305",
+    "CLM-0306",
+    "CLM-0307",
+    "CLM-0308",
+    "CLM-0309",
+    "CLM-0310",
+    "CLM-0311",
+    "CLM-0312",
+    "CLM-0313",
+    "CLM-0314",
+    "CLM-0315",
+    "CLM-0316",
+    "CLM-0317",
+    "CLM-0318",
+    "CLM-0319",
+    "CLM-0320",
+    "CLM-0321",
+    "CLM-0322",
+    "CLM-0323",
+    "CLM-0324",
+    "CLM-0325",
+    "CLM-0326",
+    "CLM-0327",
+    "CLM-0328",
+    "CLM-0329",
+    "CLM-0330",
+    "CLM-0331",
+    "CLM-0332",
+    "CLM-0333",
+    "CLM-0334",
+    "CLM-0335",
+    "CLM-0336",
+    "CLM-0337",
+    "CLM-0338",
+    "CLM-0339",
+    "CLM-0340",
+    "CLM-0341",
+    "CLM-0342",
+    "CLM-0343"
+  ],
+  "next_module": "R06 staying switching deferral rejection and abandonment",
+  "external_actions": [],
+  "second_challenge_date": "2026-10-29",
+  "second_challenge_status": "completed_for_internal_desktop_synthesis",
+  "cross_cutting_conditions": [
+    {
+      "condition_id": "C01",
+      "name": "Dated case and whole-decision boundary",
+      "domain_ids": [
+        "E01",
+        "E04",
+        "E05",
+        "E09"
+      ],
+      "establish": "Appraisal version/date, actual option and payroll component/wider programme, material changes and next reconsideration point.",
+      "inference_limit": "An old approval need not reflect current inputs; a later revision is not proof the earlier decision was irrational. No automatic expiry/full reapproval rule.",
+      "supporting_claim_ids": [
+        "CLM-0324",
+        "CLM-0325",
+        "CLM-0326",
+        "CLM-0327",
+        "CLM-0340"
+      ],
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "condition_id": "C02",
+      "name": "Who bears costs and who receives value",
+      "domain_ids": [
+        "E02",
+        "E03",
+        "E04",
+        "E06",
+        "E08"
+      ],
+      "establish": "Relevant entity/team bearing money, work or risk; benefit recipient, timing, funding control and actual allocation/shortfall arrangement if material.",
+      "inference_limit": "Aggregate net value does not establish each party affordability; do not infer conflict, prescribe equal sharing or invent funding transfers.",
+      "supporting_claim_ids": [
+        "CLM-0324",
+        "CLM-0326",
+        "CLM-0328"
+      ],
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "condition_id": "C03",
+      "name": "Actual unit, retained work and lifecycle cash",
+      "domain_ids": [
+        "E02",
+        "E04",
+        "E06",
+        "E08"
+      ],
+      "establish": "Applicable service/contract version, licence/payroll/employee/payslip/payment unit, task split, commitment/access/handback timing and any changed wage-funding timing.",
+      "inference_limit": "Headcount is not a universal billing unit; ceasing use is not necessarily ceasing payment. Ordinary wage principal is not automatically additional transformation cost. No tariff/notice/credit or legal rule generalised.",
+      "supporting_claim_ids": [
+        "CLM-0329",
+        "CLM-0330",
+        "CLM-0331",
+        "CLM-0332",
+        "CLM-0333",
+        "CLM-0334",
+        "CLM-0335",
+        "CLM-0336",
+        "CLM-0341"
+      ],
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "condition_id": "C04",
+      "name": "Usable skill, time window and displaced work",
+      "domain_ids": [
+        "E02",
+        "E04",
+        "E06",
+        "E07"
+      ],
+      "establish": "Specific expertise and usable time at relevant change/payroll windows, existing paid availability, extra cover and work displaced.",
+      "inference_limit": "Annual hours or unchanged salary do not establish critical-time capacity, zero resource cost or cash release. No wage/contribution formula, permanent hire or staffing ratio imposed.",
+      "supporting_claim_ids": [
+        "CLM-0342",
+        "CLM-0343",
+        "CLM-0323"
+      ],
+      "mandatory": false,
+      "scored": false
+    },
+    {
+      "condition_id": "C05",
+      "name": "Benchmark and evidence fit",
+      "domain_ids": [
+        "E02",
+        "E03",
+        "E04",
+        "E06",
+        "E09"
+      ],
+      "establish": "Edition, underlying period, role/remit, geography, pay/engagement basis, contributing population and evidence actually available for this claim.",
+      "inference_limit": "Starting salary, day rate, survey opinion, advertised capability and delivered output are different inputs; no standard staffing-cost loading, availability or employer benefit inferred. Constructed evidence-request prompts cannot independently corroborate buyer priorities.",
+      "supporting_claim_ids": [
+        "CLM-0337",
+        "CLM-0338",
+        "CLM-0339",
+        "CLM-0341"
+      ],
+      "mandatory": false,
+      "scored": false
+    }
+  ],
+  "second_challenge_reference_contexts": [
+    {
+      "context_id": "SC01",
+      "name": "NAO2012 selected centres, mixed outcomes",
+      "source_ids": [
+        "SRC-0183"
+      ],
+      "claim_ids": [
+        "CLM-0323"
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "context_id": "SC02",
+      "name": "NAO2016 transfer versus transformation and customer/centre business case",
+      "source_ids": [
+        "SRC-0184"
+      ],
+      "claim_ids": [
+        "CLM-0324"
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "context_id": "SC03",
+      "name": "NAO2022 avoided-cost comparison and cluster basis",
+      "source_ids": [
+        "SRC-0185"
+      ],
+      "claim_ids": [
+        "CLM-0325"
+      ],
+      "original_JGA_contribution": false
+    }
+  ],
+  "additional_mandatory_questions_from_second_challenge": 0,
+  "prior_prompt_scenarios_are_constructed": true,
+  "prior_recommendation_counts_reused": false,
+  "unaided_participant_priorities_first": true,
+  "prior_study_bridge": "03-report/research-notes/r05-second-check/competitors/prior-study-bridge.json",
+  "second_challenge_blank_context_template": {
+    "case_version_and_date": null,
+    "payroll_component_and_wider_programme": null,
+    "material_change_and_reconsideration_point": null,
+    "cost_work_risk_bearer": null,
+    "benefit_recipient_and_period": null,
+    "funding_remit_and_actual_allocation": null,
+    "billable_population_or_transaction": null,
+    "retained_work_and_acceptance": null,
+    "use_commitment_and_handback_dates": null,
+    "wage_principal_fee_and_funding_timing": null,
+    "required_skill_and_usable_window": null,
+    "existing_capacity_extra_cover_displaced_work": null,
+    "benchmark_edition_period_role_location_basis_population": null
+  },
+  "second_challenge_specific_exclusions": [
+    "No cross-programme public-audit sequence called a longitudinal employer or payroll-market trend",
+    "No Synergy numeric reconciliation or historical monetary total adopted",
+    "Payfit retained27October2026label versus older reader label: no inferred policy-change chronology or executed-contract applicability",
+    "Modulr repeated bundle quantity conflicts: no tariff or funding/interest estimate",
+    "Hays live2026edition and RobertHalf live2027edition retain own periods and populations; no standard loading or salary quote",
+    "Portfolio/FrazerJones reader extracts are not local raw originals; blocked fetch payloads excluded",
+    "Prior C prompts explicitly request evidence, so repeated verification advice is elicited, not independent demand evidence",
+    "No educational numerical examples or lost-contribution formula applied to payroll control work"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-28",
+  "records": [
+    {
+      "url": "https://online.flippingbook.com/view/472716226/4/",
+      "path": "03-report/research-notes/r02-deepening/capacity/cipp-inhouse-page4.html",
+      "sha256": "efd251fb3cfa5e600ec0e0c8eaa39412f2598f80aa559a393b66e28d2f84c357",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "url": "https://online.flippingbook.com/view/472716226/10/",
+      "path": "03-report/research-notes/r02-deepening/capacity/cipp-inhouse-page10.html",
+      "sha256": "ebc43f1026b023aa71c012946e30af0e977e879e823b11368e8769ac76be5cb7",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "url": "https://online.flippingbook.com/view/471897251/7/",
+      "path": "03-report/research-notes/r02-deepening/capacity/cipp-professionals-page7.html",
+      "sha256": "9d371a554391a4ba0a73bb380c4c7db7b85761f77e7bbb40104055616e9c67a4",
+      "accessed_on": "2026-10-28"
+    },
+    {
+      "url": "https://uk.adp.com/resources/adp-articles-and-insights/articles/g/global-payroll-survey.aspx",
+      "capture_error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-12.png",
+      "sha256": "fac8a83a46d43af1de982c38037ea79c993a9e17596dc623bedf8e736681eaad",
+      "visually_inspected": true,
+      "purpose": "Private source chart verification"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-24.png",
+      "sha256": "c8a8723d42c6464de19cdc39ffab4cbb50e541126cf5289f180780f9ac4e0dd8",
+      "visually_inspected": true,
+      "purpose": "Private source chart verification"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-25.png",
+      "sha256": "c2c1365aa2852a83c5089fd01fcf13356ac32f4793630d0159747d149e57604d",
+      "visually_inspected": true,
+      "purpose": "Private source chart verification"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-26.png",
+      "sha256": "93770eda5818849ec55735020e73665d50c03c2470515852ddd9a917834d89f6",
+      "visually_inspected": true,
+      "purpose": "Private source chart verification"
+    }
+  ]
+}

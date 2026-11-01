@@ -1,0 +1,153 @@
+PDF PAGE1
+   
+ 
+1 
+IRIS. Look forward 
+ 
+ 
+Earnie (incl. Payroll Basics) 
+End of Life Guide 
+Jan 2026 
+
+PDF PAGE2
+  
+ 
+ 
+2 
+IRIS. Look forward 
+Contents 
+Introduction ................................ ................................ ................................ ................................ .... 3 
+Why this change is happening ................................ ................................ ................................ ...... 3 
+What you need to know ................................ ................................ ................................ ................ 3 
+End of payroll processing ....................................................................................................................... 3 
+Producing P60s post-EoL ....................................................................................................................... 3 
+Read-only access ..................................................................................................................................... 3 
+Risk disclaimer ......................................................................................................................................... 4 
+Your responsibilities before 5th April 2026 ................................ ................................ .................. 4 
+Export critical reports and data ............................................................................................................ 4 
+Complete final submissions .................................................................................................................. 4 
+Prepare for transition ............................................................................................................................. 4 
+Frequently asked questions ................................ ................................ ................................ .......... 4 
+Will I still be able to access Earnie after April 2026? ........................................................................... 4 
+Can I still generate reports or Year End documents? ......................................................................... 4 
+Will IRIS offer migration support to a new platform? ......................................................................... 5 
+
+PDF PAGE3
+   
+ 
+3 
+IRIS. Look forward 
+Introduction 
+This guide has been created to support our customers as they prepare for the End-of-Life (EoL) 
+of Earnie Payroll (including IRIS Payroll Basics) software. As of the beginning of the 2026/2027 tax 
+year (6th April 2026), you will no longer be able to process payroll in Earnie (including Payroll 
+Basics). As long as you are on v24.30 or later, you will continue to access Earnie, for compliance 
+and reference purposes, even where your license has expired. You will not be able to run 
+payroll unless with a valid licence.  
+Why this change is happening 
+As part of IRIS Software Group’s ongoing commitment to innovation and delivering the best 
+payroll solutions, we are consolidating our offerings to focus on modern, cloud ready platforms 
+that support current and future business needs. 
+What you need to know 
+End of payroll processing 
+• The last payroll run that is compliant and supported will be up to 5th April 2026 
+• After 5th April 2026, you will no longer be able to process payroll 
+• Whilst users will be able to access the product after the licence expiry date, users cannot 
+run a payroll without a valid licence. 
+Producing P60s post-EoL 
+• For customers closing Tax Year 2025-2026 in Earnie (including IRIS Payroll Basics), you 
+will need to install the final EoL version due in March 2026, in order to produce 2026 
+P60s. 
+Read-only access 
+From 6th April 2026, Earnie (including IRIS Payroll Basics) will remain available but non-compliant, 
+this means you will still be able to access the system after your licence has expired  but the 
+subsequent tax years will not be supported for payroll compliance purposes.  
+ 
+You will be able to: 
+• View historical payslips and employee records 
+• Access year end documents (e.g. P60’s) 
+• Export reports and data 
+
+PDF PAGE4
+  
+ 
+ 
+4 
+IRIS. Look forward 
+Risk disclaimer 
+IRIS will cease to monitor the application for security and vulnerabilities from the 5th of April 
+2026, and the application will likely become more vulnerable shortly thereafter and eventually 
+may become in-operable. Customers and Users who continue to host and access the software, 
+do so at their own risk and IRIS accepts no responsibility or liability for the software .  
+ 
+As a result of this, our recommendation is that any information required for legislative purposes 
+is downloaded and be stored securely elsewhere.   
+Your responsibilities before 5th April 2026 
+To ensure compliance and continuity, we recommend taking the following actions before the 
+End-of-Life date: 
+Export critical reports and data 
+• P60s, P11s, RTI history (FPS/EPS) 
+• Employee payment history 
+• Pension reports, submissions and enrolment status 
+• Payroll Journals if the costing module is activated and audit trails  
+Complete final submissions 
+• Ensure all final payroll adjustments (bonuses, terminations, holiday payouts, etc) are 
+completed 
+• As with a normal Payroll Year End please ensure that all RTI Submissions for tax year 
+2025/2026 are submitted by 5th April 2026 
+Prepare for transition 
+If you are moving to another IRIS solution, such as Staffology Payroll which is our cloud-based 
+payroll software that has enhanced security, improved performance and continued support then 
+please co-ordinate with your Account Manager for migration and onboarding support.  
+Frequently asked questions 
+Will I still be able to access Earnie after April 2026? 
+Yes. You will retain read-only access to historical data after 5th April 2026 
+Can I still generate reports or Year End documents? 
+Yes. You can run and export reports. 
+
+PDF PAGE5
+  
+ 
+ 
+5 
+IRIS. Look forward 
+Will IRIS offer migration support to a new platform? 
+If you are moving to another IRIS Payroll product then absolutely. Please contact your account 
+manager to discuss options. 
+ 
+ 
+ 
+ 
+ 
+IRIS is a trademark.  
+© IRIS Software Group Ltd.  
+All rights reserved. 
+ 
+Useful numbers 
+HMRC online service helpdesk HMRC employer helpline 
+Tel:  0300 200 3600 
+Fax:  0844 366 7828 
+Email:  helpdesk@ir-efile.gov.uk 
+Tel:  0300 200 3200 
+Tel: 0300 200 3211 (new business) 
+ 
+Contact Support 
+Your Product Phone E-mail 
+IRIS PAYE-Master 0344 815 5555 payroll@iris.co.uk 
+IRIS Payroll Business 0344 815 5555 ipsupport@iris.co.uk 
+IRIS Bureau Payroll 0344 815 5555 ipsupport@iris.co.uk 
+IRIS GP Payroll 0344 815 5555 gpsupport@iris.co.uk 
+IRIS GP Accounts 0344 815 5555 gpaccsupport@iris.co.uk 
+Earnie or Earnie IQ 0344 815 5555 earniesupport@iris.co.uk 
+IRIS Payroll Professional (formerly Star) 0344 815 5555 payroll-support@iris.co.uk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

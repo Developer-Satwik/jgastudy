@@ -1,0 +1,1545 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_preliminary_cross_review_integration_pending",
+  "scope": "Independent review of market, competitors and root authored packs only. History author pack excluded from substantive self-review.",
+  "check_count": 382,
+  "checks": [
+    {
+      "name": "market source path/hash T1M-S01 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market explicit selected/parsed extract hash T1M-S01",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash T1M-S02 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market explicit selected/parsed extract hash T1M-S02",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0227 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0227 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0228 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0228 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0238 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0238 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0238",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0239 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0239 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0239",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0245 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0245 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0245",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0246 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0246 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0246",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0248 capture_path",
+      "passed": true
+    },
+    {
+      "name": "market source path/hash SRC-0248 parsed_path",
+      "passed": true
+    },
+    {
+      "name": "market canonical reuse resolves SRC-0248",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C04",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C05",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C06",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1M-C07",
+      "passed": true
+    },
+    {
+      "name": "competitors explicit selected/parsed extract hash SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0190",
+      "passed": true
+    },
+    {
+      "name": "competitors explicit selected/parsed extract hash SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0221",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0222 capture_path",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0222 text_path",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0222",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0116 capture_path",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0116 text_path",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0116",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0192 capture_path",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0192 text_path",
+      "passed": true
+    },
+    {
+      "name": "competitors explicit selected/parsed extract hash SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0192",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0193 capture_path",
+      "passed": true
+    },
+    {
+      "name": "competitors source path/hash SRC-0193 text_path",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0193",
+      "passed": true
+    },
+    {
+      "name": "competitors explicit selected/parsed extract hash SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "competitors canonical reuse resolves SRC-0088",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C04",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C05",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C06",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1C-C07",
+      "passed": true
+    },
+    {
+      "name": "root explicit selected/parsed extract hash T1R2-S01",
+      "passed": true
+    },
+    {
+      "name": "root source path/hash T1R2-S02 capture_path",
+      "passed": true
+    },
+    {
+      "name": "root source path/hash T1R2-S02 parsed_extract_path",
+      "passed": true
+    },
+    {
+      "name": "root canonical reuse resolves SRC-0227",
+      "passed": true
+    },
+    {
+      "name": "root canonical reuse resolves SRC-0228",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1R2-C01",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1R2-C02",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1R2-C03",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1R2-C04",
+      "passed": true
+    },
+    {
+      "name": "no numerical demand/finance estimate T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "claim locator/limits present T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "candidate preserved exactly T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical support exact T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "canonical wording exact T1R2-C05",
+      "passed": true
+    },
+    {
+      "name": "Chatham House selected reader not raw capture",
+      "passed": true
+    },
+    {
+      "name": "Rule scope conditional on adopted meeting mode",
+      "passed": true
+    },
+    {
+      "name": "free/paid overlap does not impose new employer rights",
+      "passed": true
+    },
+    {
+      "name": "free practitioner benefit preserved as analytic design issue",
+      "passed": true
+    },
+    {
+      "name": "six recruiter contexts plus JGA distinct from six mechanisms",
+      "passed": true
+    },
+    {
+      "name": "no invented role Portfolio Payroll",
+      "passed": true
+    },
+    {
+      "name": "no invented role Frazer Jones",
+      "passed": true
+    },
+    {
+      "name": "no invented role Oakleaf Partnership",
+      "passed": true
+    },
+    {
+      "name": "no invented role Middlemore",
+      "passed": true
+    },
+    {
+      "name": "no invented role Hays",
+      "passed": true
+    },
+    {
+      "name": "no invented role Robert Half",
+      "passed": true
+    },
+    {
+      "name": "no invented role JGA",
+      "passed": true
+    },
+    {
+      "name": "Hays substantive reader vs original application shell explicit",
+      "passed": true
+    },
+    {
+      "name": "source review uses bounded observations rather than absence claims",
+      "passed": true
+    },
+    {
+      "name": "prior bridge retained provenance all_answers",
+      "passed": true
+    },
+    {
+      "name": "prior bridge retained provenance final_answer_index",
+      "passed": true
+    },
+    {
+      "name": "prior bridge retained provenance previous_R08_exact_bridge",
+      "passed": true
+    },
+    {
+      "name": "prior bridge three selected questions and24records with3semantic rereads",
+      "passed": true
+    },
+    {
+      "name": "prior bridge not demand, model rerun or fieldwork",
+      "passed": true
+    },
+    {
+      "name": "exact selected prompt hash S01-C",
+      "passed": true
+    },
+    {
+      "name": "four models two repeats S01-C",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "exact selected prompt hash S02-D",
+      "passed": true
+    },
+    {
+      "name": "four models two repeats S02-D",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "exact selected prompt hash S11-C",
+      "passed": true
+    },
+    {
+      "name": "four models two repeats S11-C",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "name": "original/full index exact S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "independent answer text hash S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "original date/source record status preserved S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/FIELDWORK-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/PRACTITIONER-GUIDE-v0.2.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/RESEARCH-PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/TABLE-VALIDATION-GUIDES-v0.1.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/TOOLS-AND-FILE-RULES.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/COUNT-AND-ROUTING-POLICY.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/INTRODUCTION-DRAFTS.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/OPERATOR-RUNBOOK.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/PARTICIPANT-INFORMATION-DRAFT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/PERMISSION-CHOICES.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/RECORD-TEMPLATES.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/REVIEW-DECISIONS.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/collection-pack-v0.1/START-HERE.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/templates/CONTRIBUTION-TEMPLATE.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 01-method/templates/record-templates.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/FINANCIAL-MODEL-SPEC.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/T01-COMPARABLE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/T01-COMPARABLE-MODELS.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/T01-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/T01-model-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/T02-PROPOSITION-WORKING-NOTE.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/T02-proposition-hypotheses.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 04-table/TABLE-DESIGN-BRIEF.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/R08-second-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/T01-captures.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/T01-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/T01-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/T01-record-map.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/WP03-completion-check.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/WP03-independent-review.md",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/WP03-routing-permission-checks.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/t01-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "prior/core/first-pass file preserved 08-qa/wp03-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "name": "unperformed array blank 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "name": "unperformed array blank 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "name": "unperformed array blank 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "name": "fourteen core questions unchanged",
+      "passed": true
+    },
+    {
+      "name": "existing hold preserved CLM-0051",
+      "passed": true
+    },
+    {
+      "name": "existing hold preserved CLM-0052",
+      "passed": true
+    },
+    {
+      "name": "existing hold preserved CLM-0167",
+      "passed": true
+    },
+    {
+      "name": "existing hold preserved CLM-0168",
+      "passed": true
+    },
+    {
+      "name": "existing hold preserved CLM-0218",
+      "passed": true
+    },
+    {
+      "name": "existing hold preserved CLM-0392",
+      "passed": true
+    }
+  ],
+  "open_substantive_issues": [],
+  "followup_integration_focus": [
+    "Preserve promised free practitioner research; do not manufacture paid use rights.",
+    "Meeting mode condition applies only where named Rule adopted.",
+    "Hays shell is not substantive raw method evidence."
+  ],
+  "direct_primary_recheck": "Chatham House official explanation and current FAQ independently reopened; recording/AI/in-room image restrictions and own-attendance disclosure verified. Selected source remains reader-only, not raw.",
+  "fieldwork": false,
+  "commercial_validation": false
+}

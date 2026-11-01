@@ -1,0 +1,195 @@
+Retiring your service - Service Manual - GOV.UK
+Cookies on GOV.UK
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+Accept additional cookies
+Reject additional cookies
+View cookies
+Hide cookie message
+Skip to main content
+GOV.UK
+Navigation menu
+Menu
+Menu
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+Departments, agencies and public bodies
+News
+News stories, speeches, letters and notices
+Guidance and regulation
+Detailed guidance, regulations and rules
+Research and statistics
+Reports, analysis and official statistics
+Policy papers and consultations
+Consultations and strategy
+Transparency
+Data, Freedom of Information releases and corporate reports
+Search GOV.UK
+×
+Search GOV.UK
+Search
+Search GOV.UK
+Search
+Service manual
+Agile delivery
+Agile delivery
+Retiring your service
+From:
+Agile delivery community
+Give feedback about this page
+Contents
+Consider user needs
+Telling your users
+Make a plan to redirect traffic
+Protecting information
+Related guides
+Your service may eventually need to be retired, for example if policies change or if there’s evidence that users’ needs have changed.
+When retiring a service you should consider user needs in the same way you did when you built the service.
+Consider user needs
+You need to consider how the user need your service met will be met after your service is retired.
+It might be the case that:
+the user need no longer exists
+a new government service will meet the user need
+the user need will no longer be met by government
+If a user need no longer exists
+In some cases, policy could change to mean that your service is obsolete, for example when Universal Credit replaced 6 other benefits.
+If a new service will meet the need
+If a new government service or services will meet the user need then you should work with those services’ teams.
+Share your experiences, findings and knowledge of the user with them so that they can learn from them.
+This means you can understand how you’ll support your users through the transition, for example by:
+making sure the new service meets proven user needs
+helping users to find out about the new services in the best way
+If the need will no longer be met by government
+If the needs will no longer be met by government but by the private or voluntary sectors then you must:
+share knowledge and insight with these organisations, like open source elements
+help the private or voluntary team use the knowledge or information you share
+make sure that users who would normally go to GOV.UK are sent to the new service in the best way possible
+Telling your users
+Users who access your service on GOV.UK
+The vast majority of people who use your service will begin and end their journeys on GOV.UK.
+As soon as you know that your service is likely to be retired you should email the GOV.UK team at govuk-enquiries@dsit.gov.uk to make sure that those journeys are amended and appropriate information is supplied.
+You need to tell the GOV.UK team why you’re retiring the service and how its user needs will be met, so that they can help users with information and links.
+Users who access your service directly
+Retiring the service means a significant change for users, but you should try to minimise it by telling them:
+what’s changing and why
+what they’ll have to do to continue to have their needs met in future
+what will happen to their data, whether you’re passing it on to another service and the rights they have under your organisation’s data protection policy
+You can tell people using a notification system if your service has one, otherwise use a GOV.UK content page.
+Users who access your service using APIs
+You need to give users who access your service via an application programming interface ( API ) the time to update their software to use the replacement service’s APIs or make other adjustments.
+Contact these users as soon as possible. Keep in mind that they may have significant lead times for making and distributing changes.
+Users who access your service with assisted digital support
+You must tell users who do not use the digital service or use it with assisted digital support that the service is being retired.
+To do this, use your service’s assisted digital channel and assisted digital support organisations.
+You may need to carry out user research to decide the best way to tell users the service is retiring.
+You could use existing research or talk to teams who’ve retired other services that have similar users and use their research.
+You may need to make sure that contact centres used by your users tell them the service has been retired and about any replacement service.
+You could also put up posters in places that users are likely to visit (for example, in airports for visa or passport services).
+Make a plan to redirect traffic
+Once the GOV.UK content team updates GOV.UK to say that your service has retired, the majority of users will be directed to the new service.
+Some users will still try to access the service at the retired web address.
+You should have a plan for redirecting those users to the new service, or telling them that the service that has permanently retired.
+Make sure your subdomain continues to work
+After your service is retired, you must help users by:
+continuing to use SSL
+serving a redirect from your service to the GOV.UK start page
+If your service has been live for less than 6 months, you must do this until a year after your service went live.
+If your service has been live for longer than 6 months, you must do this for a year after the time it retired or until the current SSL certificate expires, whichever comes first.
+Your GOV.UK start page will be changed to explain that the service is no longer running, and the start button will be removed.
+Protecting information
+You should have a plan for securing the information you’ve got about your users.
+You should already have policies in place to manage that data responsibly, including details of how long it’ll be retained.
+You must make sure that there’s support in place to maintain these policies and protect information.
+If you’re giving data to a new service owner, you must:
+do so in line with your organisation’s data protection policies
+tell your users
+Related guides
+You may also find these guides useful:
+How the discovery phase works
+How the alpha phase works
+How the beta phase works
+How the live phase works
+Updates to this page
+Published:
+4 August 2016
+Last updated:
+26 August 2025
+Show all updates
+26 August 2025
+Changed GOV.UK contact email FROM govuk-enquiries@digital.cabinet-office.gov.uk TO govuk-enquiries@dsit.gov.uk
+4 August 2016
+Guidance first published
+Is this page useful?
+Maybe
+Yes this page is useful
+No this page is not useful
+Thank you for your feedback
+Report a problem with this page
+Help us improve GOV.UK
+Do not include personal or financial information like your National Insurance number or credit card details.
+This field is for robots only. Please leave blank
+What were you doing?
+What went wrong?
+Send
+Cancel
+Help us improve GOV.UK
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab and requires JavaScript ) .
+Cancel
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+News
+Guidance and regulation
+Research and statistics
+Policy papers and consultations
+Transparency
+How government works
+Get involved
+Support links
+Help
+Privacy
+Cookies
+Accessibility statement
+Contact
+Terms and conditions
+Rhestr o Wasanaethau Cymraeg
+Government Digital Service
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+© Crown copyright

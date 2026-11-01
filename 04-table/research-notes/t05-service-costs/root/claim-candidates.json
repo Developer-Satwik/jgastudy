@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "candidate_id": "T5M-C01",
+      "source_candidate_ids": [
+        "T5M-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Sections1.5,2.1 and2.2",
+      "claim_text": "The guidance defines service boundaries, outputs, volumes and enabling activities, and calls for recorded assumptions when operational data are incomplete.",
+      "evidence_class": "primary_method_context",
+      "value": null,
+      "unit": null,
+      "limitations": "The JGA catalogue uses labelled planning effort and unresolved activity volumes. This source does not validate its hours, wages, sales or service usefulness.",
+      "status": "T05S_desktop_method_context"
+    },
+    {
+      "candidate_id": "T5M-C02",
+      "source_candidate_ids": [
+        "T5M-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Sections2.1,2.3 and section8 worked examples",
+      "claim_text": "Service activities and cost pools should use explicit consumption drivers and reconcile without omissions or duplicate allocations.",
+      "evidence_class": "primary_method_context",
+      "value": null,
+      "unit": null,
+      "limitations": "Applied selectively to shared report, customer, partner and event work. No public-sector overhead percentage, salary divisor or worked-example quantity is adopted.",
+      "status": "T05S_desktop_method_context"
+    },
+    {
+      "candidate_id": "T5M-C03",
+      "source_candidate_ids": [
+        "T5M-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Sections1.7,5.1 and glossary unit cost",
+      "claim_text": "The guidance calls for proportionate assurance, consistent unit-cost denominators and transparent uncertainty rather than artificial precision.",
+      "evidence_class": "primary_method_context",
+      "value": null,
+      "unit": null,
+      "limitations": "The workbook is an internal planning component, not an independently validated commercial budget or JGA statutory charging method. No confidence interval or universal contingency is inferred.",
+      "status": "T05S_desktop_method_context"
+    }
+  ]
+}

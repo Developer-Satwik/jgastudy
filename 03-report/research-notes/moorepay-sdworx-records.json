@@ -1,0 +1,356 @@
+{
+  "review_date": "2026-10-28",
+  "researcher": "r01_moorepay_sdworx",
+  "scope": "R01 landscape, not final research findings",
+  "sources": [
+    {
+      "source_id": "SRC-0030",
+      "title": "Annual payroll survey 2025\u201326",
+      "publisher": "Moorepay",
+      "url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+      "source_type": "original_html_report",
+      "study_family": "MOOREPAY-2025",
+      "published_date": null,
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "population": "Payroll, HR and Finance respondents across in-house, outsourced and bureau contexts",
+      "sample_size": 445,
+      "geography": "UK-oriented; precise respondent geography unstated",
+      "method": {
+        "recruitment": "SurveyMonkey; own contacts, CIPP email and targeted LinkedIn/Meta ads",
+        "weighting": null,
+        "question_bases": null
+      },
+      "review_status": "original_reviewed",
+      "funding_or_commercial_interest": "Publisher sells payroll software/services",
+      "notes": "2025 prose and charts conflict; selected figures quarantined.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-annual-payroll-survey-2025-26.html",
+      "capture_sha256": "423d11ba93f9aeab3cd04f3e054142604a334593aaa82540cb1fb8ee77b39ee2",
+      "reuse_status": "Research retention only; reproduction rights not established",
+      "publication_eligibility": "Claim-specific review required",
+      "same_document_as_source_ids": [
+        "SRC-0011"
+      ]
+    },
+    {
+      "source_id": "SRC-0031",
+      "title": "Changing payroll provider guide",
+      "publisher": "Moorepay",
+      "url": "https://www.moorepay.co.uk/the-ultimate-guide-to-changing-your-payroll-provider/",
+      "source_type": "vendor_guide",
+      "study_family": "MOOREPAY-2025",
+      "published_date": null,
+      "fieldwork_period": null,
+      "accessed_on": "2026-10-28",
+      "population": "Guide cites survey; not a separate sample",
+      "sample_size": null,
+      "geography": "Unstated",
+      "method": {
+        "recruitment": null
+      },
+      "review_status": "original_reviewed",
+      "funding_or_commercial_interest": "Publisher sells payroll software/services",
+      "notes": "61% direction agrees with graph, not annual prose; barrier figures differ; version unresolved.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-switching-guide.html",
+      "capture_sha256": "f6939809f77f5adc8d6a24dede47e440dd8b532709fe4bd1001f6a5152419d08",
+      "reuse_status": "Research retention only; reproduction rights not established",
+      "publication_eligibility": "Claim-specific review required"
+    },
+    {
+      "source_id": "SRC-0032",
+      "title": "UK payroll outsourcing release",
+      "publisher": "SD Worx",
+      "url": "https://www.sdworx.co.uk/en-gb/press/2026-04-21-uk-employers-accelerate-move-full-payroll-outsourcing",
+      "source_type": "original_press_release",
+      "study_family": "SDWORX-PULSE-2026",
+      "published_date": "2026-04-21",
+      "fieldwork_period": "2026-01-27 to 2026-02-20",
+      "accessed_on": "2026-10-28",
+      "population": "HR decision-makers",
+      "sample_size": 305,
+      "geography": "UK",
+      "method": {
+        "recruitment": "Underlying Bilendi panel described in thematic report",
+        "weighting": null,
+        "question_bases": null
+      },
+      "review_status": "original_reviewed",
+      "funding_or_commercial_interest": "Publisher sells payroll software/services",
+      "notes": "Future figures describe preferred models, not realised outsourcing.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-uk-payroll-outsourcing-2026-04-21.html",
+      "capture_sha256": "d0777a58194fd6800e4a941d010099da664efc0ff050c9f7de81e04a04d3d463",
+      "reuse_status": "Research retention only; reproduction rights not established",
+      "publication_eligibility": "Claim-specific review required",
+      "same_document_as_source_ids": [
+        "SRC-0012"
+      ]
+    },
+    {
+      "source_id": "SRC-0033",
+      "title": "HR and Payroll Pulse 2026",
+      "publisher": "SD Worx",
+      "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+      "source_type": "original_pdf_report",
+      "study_family": "SDWORX-PULSE-2026",
+      "published_date": null,
+      "fieldwork_period": "January\u2013February 2026; exact dates in UK release",
+      "accessed_on": "2026-10-28",
+      "population": "HR decision-makers and employees",
+      "sample_size": {
+        "hr": 5936,
+        "employees": 16500,
+        "uk_hr": 305,
+        "uk_employees": 998
+      },
+      "geography": "16 European countries",
+      "method": {
+        "recruitment": "Bilendi online panel; see companion payroll report p2",
+        "weighting": null,
+        "question_bases": "Overall samples; item-specific valid n unstated"
+      },
+      "review_status": "original_reviewed",
+      "funding_or_commercial_interest": "Publisher sells payroll software/services",
+      "notes": "38 pages; appendix provides country samples and question-labelled tables.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-report.pdf",
+      "capture_sha256": "fec552785e3fae9bda8925bff47784c59957b2949ac401ce2b5ed812e7e73c38",
+      "reuse_status": "Research retention only; reproduction rights not established",
+      "publication_eligibility": "Claim-specific review required"
+    },
+    {
+      "source_id": "SRC-0034",
+      "title": "HR and Payroll Pulse 2026 payroll thematic report",
+      "publisher": "SD Worx",
+      "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Payroll.pdf",
+      "source_type": "original_pdf_report",
+      "study_family": "SDWORX-PULSE-2026",
+      "published_date": null,
+      "fieldwork_period": "2026",
+      "accessed_on": "2026-10-28",
+      "population": "HR decision-makers and employees",
+      "sample_size": {
+        "hr": 5936,
+        "employees": 16500
+      },
+      "geography": "16 European countries",
+      "method": {
+        "recruitment": "Anonymous online Bilendi panel; analysed by SD Worx",
+        "weighting": null
+      },
+      "review_status": "original_reviewed",
+      "funding_or_commercial_interest": "Publisher sells payroll software/services",
+      "notes": "12 pages; operational experience, providers and priorities; not investment-case interviews.",
+      "capture_path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026-payroll.pdf",
+      "capture_sha256": "5921f07de8e81ffdc09a7097b1144c9e5c83f3da59dab64c9b7cf1bd64fc9f96",
+      "reuse_status": "Research retention only; reproduction rights not established",
+      "publication_eligibility": "Claim-specific review required"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-0050",
+      "source_ids": [
+        "SRC-0030"
+      ],
+      "locator": "Chapter 2 finding 8 and embedded V2-01 chart",
+      "claim_text": "Automation 49%; reporting/analytics 45% among requested capabilities.",
+      "evidence_class": "published_finding",
+      "value": {
+        "automation": 49,
+        "reporting": 45
+      },
+      "unit": "percent",
+      "denominator": "Item base unstated; overall n445",
+      "support_checked": true,
+      "interpretation_limits": "Mixed convenience-recruited roles; not senior-buyer prevalence.",
+      "status": "extracted_for_review",
+      "capture_asset_names": [
+        "moorepay-feature-needs-graph.png"
+      ]
+    },
+    {
+      "claim_id": "CLM-0051",
+      "source_ids": [
+        "SRC-0030",
+        "SRC-0031"
+      ],
+      "locator": "Annual finding 7; V2-03 chart; guide chapter 1",
+      "claim_text": "Switching consideration direction conflicts across publisher text and chart.",
+      "evidence_class": "published_finding",
+      "value": {
+        "chart_considered_but_stayed": 61,
+        "chart_not_considered": 39,
+        "annual_prose_not_considered": 61
+      },
+      "unit": "percent",
+      "denominator": "Exact routing/base unavailable",
+      "support_checked": true,
+      "interpretation_limits": "Guide aligns with chart. Do not publish a clean prevalence headline.",
+      "status": "quarantined_conflicting",
+      "capture_asset_names": [
+        "moorepay-switching-graph.png"
+      ]
+    },
+    {
+      "claim_id": "CLM-0052",
+      "source_ids": [
+        "SRC-0030",
+        "SRC-0031"
+      ],
+      "locator": "Annual finding 7; V2-02 chart; guide chapter 1",
+      "claim_text": "Investment-barrier values disagree: annual prose 8%, chart 10%, guide 22%.",
+      "evidence_class": "published_finding",
+      "value": {
+        "annual_prose": 8,
+        "annual_graph": 10,
+        "guide": 22
+      },
+      "unit": "percent",
+      "denominator": "Item bases/version unresolved",
+      "support_checked": true,
+      "interpretation_limits": "Do not conclude funding is unimportant or reconcile by averaging.",
+      "status": "quarantined_conflicting",
+      "capture_asset_names": [
+        "moorepay-switch-barriers-graph.png"
+      ]
+    },
+    {
+      "claim_id": "CLM-0053",
+      "source_ids": [
+        "SRC-0030"
+      ],
+      "locator": "Chapter 2 finding 6; V2-05 chart, 2025 column",
+      "claim_text": "Switching-ease responses include 24% very easy and 28% quite easy.",
+      "evidence_class": "published_finding",
+      "value": {
+        "very_easy": 24,
+        "quite_easy": 28
+      },
+      "unit": "percent",
+      "denominator": "Switching-experience item n unavailable",
+      "support_checked": true,
+      "interpretation_limits": "Counterevidence to universal difficulty; not all buyers or prospective switchers.",
+      "status": "extracted_for_review",
+      "capture_asset_names": [
+        "moorepay-switch-ease-graph.png"
+      ]
+    },
+    {
+      "claim_id": "CLM-0054",
+      "source_ids": [
+        "SRC-0032"
+      ],
+      "locator": "Opening results and methodology",
+      "claim_text": "Full outsourcing: current 7.8%, preferred in three years 13.8%.",
+      "evidence_class": "published_finding",
+      "value": {
+        "current": 7.8,
+        "future_preference": 13.8
+      },
+      "unit": "percent",
+      "denominator": "UK HR sample305; item-specific n unstated",
+      "support_checked": true,
+      "interpretation_limits": "Preferences are not realised adoption or an independent market forecast.",
+      "status": "extracted_for_review",
+      "capture_asset_names": []
+    },
+    {
+      "claim_id": "CLM-0055",
+      "source_ids": [
+        "SRC-0032"
+      ],
+      "locator": "UK payroll priorities list",
+      "claim_text": "System integration is a stated 2026 priority at 24.4%.",
+      "evidence_class": "published_finding",
+      "value": 24.4,
+      "unit": "percent",
+      "denominator": "UK HR sample305; item-specific n unstated",
+      "support_checked": true,
+      "interpretation_limits": "Stated priority does not establish approved funding or implementation.",
+      "status": "extracted_for_review",
+      "capture_asset_names": []
+    },
+    {
+      "claim_id": "CLM-0056",
+      "source_ids": [
+        "SRC-0033"
+      ],
+      "locator": "PDF p32 Table1; p36 Table17",
+      "claim_text": "UK employee agreement on accurate/reliable payroll is 75.7%.",
+      "evidence_class": "published_finding",
+      "value": 75.7,
+      "unit": "percent agreement",
+      "denominator": "UK employee sample998; item-specific valid n unstated",
+      "support_checked": true,
+      "interpretation_limits": "Agreement measure; non-agreement is not equivalent to experienced error.",
+      "status": "extracted_for_review",
+      "capture_asset_names": []
+    },
+    {
+      "claim_id": "CLM-0057",
+      "source_ids": [
+        "SRC-0034"
+      ],
+      "locator": "PDF p7 sourcing table",
+      "claim_text": "European full BPO: 6.2% current and 10.2% future preference.",
+      "evidence_class": "published_finding",
+      "value": {
+        "current": 6.2,
+        "future_preference": 10.2
+      },
+      "unit": "percent",
+      "denominator": "Overall HR sample5936; item-specific routing unstated",
+      "support_checked": true,
+      "interpretation_limits": "European measure differs from UK subgroup; not a second independent survey.",
+      "status": "extracted_for_review",
+      "capture_asset_names": [
+        "sdworx-payroll-page-7.png"
+      ]
+    },
+    {
+      "claim_id": "CLM-0058",
+      "source_ids": [
+        "SRC-0034"
+      ],
+      "locator": "PDF p8 provider benefits",
+      "claim_text": "22.1% report lower operating costs with their current provider.",
+      "evidence_class": "published_finding",
+      "value": 22.1,
+      "unit": "percent",
+      "denominator": "Provider-benefit response base not stated",
+      "support_checked": true,
+      "interpretation_limits": "Self-reported benefit; not causal proof or typical savings percentage.",
+      "status": "extracted_for_review",
+      "capture_asset_names": []
+    },
+    {
+      "claim_id": "CLM-0059",
+      "source_ids": [
+        "SRC-0034",
+        "SRC-0033"
+      ],
+      "locator": "Thematic p3\u20134; full report p36 Table17",
+      "claim_text": "Do not infer error incidence from a non-agreement remainder.",
+      "evidence_class": "analytical_interpretation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "support_checked": true,
+      "interpretation_limits": "The 67.2% European accuracy/reliability agreement item does not reveal neutral/disagree distribution.",
+      "status": "interpretation_guardrail",
+      "capture_asset_names": []
+    }
+  ],
+  "search_queries": [
+    "site.moorepay.co.uk \"61%\" \"switching\" \"2025\"",
+    "site.moorepay.co.uk \"61%\" \"staying\"",
+    "site.sdworx.com \"HR & Payroll Pulse\" \"2026\" methodology",
+    "site.sdworx.co.uk \"305\" \"2026\" \"payroll\""
+  ],
+  "captures_manifest": "02-evidence/captures/moorepay-sdworx/capture-manifest.json",
+  "additional_captures_manifest": "02-evidence/captures/moorepay-sdworx/additional-captures.json",
+  "independent_study_families": [
+    "MOOREPAY-2025",
+    "SDWORX-PULSE-2026"
+  ],
+  "study_deduplication_note": "Annual/guide belong to one Moorepay study; UK release and both SD PDFs belong to one Pulse study. Do not count republications as independent corroboration."
+}

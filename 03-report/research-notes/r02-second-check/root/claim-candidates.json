@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-28",
+  "records": [
+    {
+      "candidate_id": "SC-ROOT-C01",
+      "source_candidate_ids": [
+        "SC-ROOT-S01"
+      ],
+      "claim_text": "The government guidance describes impersonated bank-detail changes as a salary-diversion mechanism, supporting a distinct authorisation/control need.",
+      "locator": "Payment diversion fraud: Salary diversion fraud; What to look out for; How to protect your business",
+      "evidence_class": "official_guidance_mechanism",
+      "population": "UK business guidance, not a payroll incident survey",
+      "value": null,
+      "unit": null,
+      "limitations": "Guidance mechanism only. No payroll incidence, automatic loss, prescribed payroll delay policy or provider performance inferred.",
+      "review_mode": "Original sections inspected through web; original retained. Relevant PDF pp2/9 visually checked where applicable.",
+      "status": "internal_context"
+    },
+    {
+      "candidate_id": "SC-ROOT-C02",
+      "source_candidate_ids": [
+        "SC-ROOT-S02"
+      ],
+      "claim_text": "The scheme glossary separates Bacs submission, processing and account entry, supporting a distinct payment-interface and cutoff analysis.",
+      "locator": "Glossary: Bacs cycle; Day 1 / Day 2 / Day 3",
+      "evidence_class": "operator_definition",
+      "population": "Bacs payment instructions; not all UK payroll payment methods",
+      "value": null,
+      "unit": null,
+      "limitations": "Three English bank working days is the defined Bacs cycle, not an SLA for every payroll, correction or payment rail.",
+      "review_mode": "Original sections inspected through web; original retained. Relevant PDF pp2/9 visually checked where applicable.",
+      "status": "internal_context"
+    },
+    {
+      "candidate_id": "SC-ROOT-C03",
+      "source_candidate_ids": [
+        "SC-ROOT-S03"
+      ],
+      "claim_text": "The dated incident account reports normal payroll/finance operation during wider disruption and staff/user data exfiltration; continuity and information harm must be assessed separately.",
+      "locator": "Printed pp2 and9: Executive Summary; Impact on systems and services",
+      "evidence_class": "bounded_organisation_case",
+      "population": "One British Library incident beginning October 2023, position described March 2024",
+      "value": null,
+      "unit": null,
+      "limitations": "Self-published incident account, not a comparative audit or current recovery status. Staff/user data exposure is not established as payroll-data exposure. No causal proof of cloud resilience or payroll-specific losses.",
+      "review_mode": "Original sections inspected through web; original retained. Relevant PDF pp2/9 visually checked where applicable.",
+      "status": "internal_context"
+    }
+  ]
+}

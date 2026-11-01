@@ -1,0 +1,534 @@
+{
+  "status": "passed",
+  "check_count": 132,
+  "checks": [
+    {
+      "check": "S02-D eight original saved answers",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "S04-C eight original saved answers",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S04-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S04-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S04-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S04-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "S09-D eight original saved answers",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S09-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S09-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S09-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S09-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "S11-D eight original saved answers",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt original hash S11-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index full text matches S11-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Final index prompt matches S11-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Metadata matches S11-D-perplexity-r2",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "SC4-ROOT-S01",
+      "title": "Acas: Consulting about employment contract changes",
+      "url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities/consulting-about-employment-contract-changes",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:30:01.852038+00:00",
+      "http_status": 200,
+      "final_url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities/consulting-about-employment-contract-changes",
+      "capture_path": "03-report/research-notes/r04-second-check/root/SC4-ROOT-S01.html",
+      "capture_sha256": "8ee3663efa328a7a50fa4c5e6ffbee94ee8cdd0d135b409791ef7203f860c6e3",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "SC4-ROOT-S01-context",
+      "title": "Acas: Considering changes to employment contracts",
+      "url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:30:01.852497+00:00",
+      "http_status": 200,
+      "final_url": "https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities",
+      "capture_path": "03-report/research-notes/r04-second-check/root/SC4-ROOT-S01-context.html",
+      "capture_sha256": "35e7ee592f31fb9e0c69bd310d504d48276701f6083ca73d2b5c58b82e3f5e64",
+      "capture_status": "retained_original_html"
+    },
+    {
+      "candidate_id": "SC4-ROOT-S02",
+      "title": "ICO: Data protection and monitoring workers",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/monitoring-workers/data-protection-and-monitoring-workers/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T21:30:01.852588+00:00",
+      "http_status": 200,
+      "final_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/monitoring-workers/data-protection-and-monitoring-workers/",
+      "capture_path": "03-report/research-notes/r04-second-check/root/SC4-ROOT-S02.html",
+      "capture_sha256": "10a27ea8abae94dbf8cb64971f48a4330a07f8c9673791266632cc24384c066b",
+      "capture_status": "retained_original_html"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "candidate_id": "CS-S01",
+      "publisher": "Department for Business and Trade / IFF Research",
+      "title": "Late payment practices, 2024 executive summary",
+      "url": "https://www.gov.uk/government/publications/late-payments-research-performance-and-practices-across-business/late-payments-research-understanding-variations-in-payment-performance-and-practices-across-business-sectors-and-sizes-html-executive-summary",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-S02",
+      "publisher": "Department for Business and Trade / London Economics",
+      "title": "Late payments research: impact on the UK economy, July 2025",
+      "url": "https://assets.publishing.service.gov.uk/media/688a089a6478525675738ff9/late_payments_research_impact_on_uk_economy.pdf",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-S03",
+      "publisher": "Gartner Inc.",
+      "title": "2024 Form 10-K, filed 13 February 2025",
+      "url": "https://investor.gartner.com/static-files/ce1f14c0-f496-4672-85d0-c663ed815341",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-S04",
+      "publisher": "Gartner Inc.",
+      "title": "2025 Form 10-K, filed 12 February 2026",
+      "url": "https://investor.gartner.com/static-files/ba7bf87c-2680-4780-a345-8679d232b8a6",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-S05",
+      "publisher": "HM Revenue & Customs",
+      "title": "Sponsorship VAT Notice 701/41",
+      "url": "https://www.gov.uk/guidance/sponsorship-and-vat-notice-70141",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-S06",
+      "publisher": "HM Revenue & Customs",
+      "title": "VATTOS5120: deposits and pre-payments",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/vat-time-of-supply/vattos5120",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-S07",
+      "publisher": "HM Revenue & Customs",
+      "title": "VATTOS5135: security deposits",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/vat-time-of-supply/vattos5135",
+      "canonical_reuse": null
+    },
+    {
+      "candidate_id": "CS-R01",
+      "publisher": "iVentiv",
+      "title": "Event terms and conditions",
+      "url": "https://www.iventiv.com/terms-and-conditions",
+      "canonical_reuse": "SRC-0248"
+    },
+    {
+      "candidate_id": "CS-R02",
+      "publisher": "The Payroll Centre",
+      "title": "Terms and conditions of business",
+      "url": "https://thepayrollcentre.co.uk/terms-and-conditions-of-business/",
+      "canonical_reuse": "SRC-0239"
+    },
+    {
+      "candidate_id": "CS-R03",
+      "publisher": "ISG",
+      "title": "Software provider services and licensing",
+      "url": "https://research.isg-one.com/research/buyers-guides/services/software-providers",
+      "canonical_reuse": "SRC-0228"
+    },
+    {
+      "candidate_id": "CS-R04",
+      "publisher": "The Conference Board",
+      "title": "Membership offerings",
+      "url": "https://www.conference-board.org/membership/",
+      "canonical_reuse": "SRC-0234"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "change_id": "CHG-001",
+      "date": "2026-10-28",
+      "type": "Research progress, no commercial scope change",
+      "description": "Completed R01 for initial design, merged sources with aliases/dataset caution, added selected claims/findings, prepared WP02 as next. No interviews or final client outputs completed."
+    },
+    {
+      "change_id": "CHG-002",
+      "date": "2026-10-28",
+      "description": "Prepared WP02 review draft and editable client files; mapped fourteen core questions and separate Table guides; recorded synthetic routing and rendered-file checks. No external sending, client approval or fieldwork."
+    },
+    {
+      "change_id": "CHG-003",
+      "date": "2026-10-28",
+      "type": "Additional internal research challenge; no commercial scope change",
+      "description": "Reviewed history, economic value, method and JGA/policy context; reconciled27 candidate records, adding26 source routes. Prepared second readout and proposed refinements. Client Word/PDF files unchanged; nothing sent."
+    },
+    {
+      "change_id": "CHG-004",
+      "date": "2026-10-28",
+      "type": "Checkpoint refinement within existing scope",
+      "description": "Applied second-review refinements into version0.2, preserving version0.1 client-file hashes and core wording. Revised routes/probes, guide and clientpack; structural and rendered checks passed; nothing sent."
+    },
+    {
+      "change_id": "CHG-005",
+      "date": "2026-10-28",
+      "type": "R02 initial desktop research",
+      "description": "Assessed operational needs through three reused original sources, added three contextual claim extractions, and inspected four source renders. No new sources or participant observations; R02 remains in progress."
+    },
+    {
+      "change_id": "CHG-006",
+      "date": "2026-10-28",
+      "type": "R02 desktop research completion",
+      "description": "Deepened capacity/control, service boundary and business consequences. Reconciled ten new source routes and twenty-four additional claim/guardrail records; retained numeric holds, wrote nine-area matrix/readout, and preserved client-file hashes. No participant data or external sending."
+    },
+    {
+      "change_id": "CHG-007",
+      "date": "2026-10-28",
+      "type": "User-requested second challenge of R02",
+      "description": "Tested R02 through historical, market, recruitment-competitor, employee, institutional, payment, resilience and evidence-quality lenses. Twenty new primary routes and twenty-two contextual claim records; five internal findings. Updated needs map/readout, preserved first-pass snapshots and unchanged client/core-question files. Prior AI-study bridge independently checked; no new prompts or external actions."
+    },
+    {
+      "change_id": "CHG-008",
+      "date": "2026-10-29",
+      "type": "R03 desktop research completion",
+      "description": "Assessed integration, delivery components, task-level automation/AI and two employer implementation cases; reconciled seventeen new primary routes and twenty-nine contextual records, with eight combinable response paths and five internal findings. Preserved beta/UI/date/performance limits, client drafts, questionnaire and R02 outputs. No product/API trials or external actions."
+    },
+    {
+      "change_id": "CHG-009",
+      "date": "2026-10-29",
+      "type": "User-requested second challenge of R03",
+      "description": "Historical/lifecycle, market, specific competitor/prior-study and dependency/recovery checks. Twelve new primary routes and eighteen contextual records, five internal findings; broadened P08 to enduring capability/leadership and added five cross-cutting conditions. First-pass snapshots, original constructed-prompt bridge limits and client/core files preserved. No product/API trial, new original fieldwork or external action."
+    },
+    {
+      "change_id": "CHG-010",
+      "date": "2026-10-29",
+      "type": "R04 decision authority and pathways desktop research",
+      "description": "Twelve new source routes, twenty-six bounded claim/method records and five internal findings. Twelve optional analytical functions, six secondary employer examples, scope/date/knowledge/conditions and separate decision/result states. Integrated review and preservation checks completed. No change to fourteen core questions, client files, scope or fieldwork status; no external action."
+    },
+    {
+      "change_id": "CHG-011",
+      "date": "2026-10-29",
+      "type": "User-requested R04 second challenge",
+      "description": "Historical/effective-mandate, market/service-level, all-six-comparator/prior-study and affected-party checks. Nine new source routes, sixteen bounded claim/method records and five internal findings. Five optional conditions supplement unchanged twelve functions and fourteen core questions. Constructed CFO/leader premises explicitly cannot validate authority or demand; 243 independent bridge checks passed. First-pass snapshots, prior topics and client files preserved. No original fieldwork or external action."
+    },
+    {
+      "change_id": "CHG-012",
+      "date": "2026-10-29",
+      "type": "R05 business-case evidence and implementation-risk desktop research",
+      "description": "Nine new canonical routes plus explicit reuses, twenty-eight bounded claim/method records and six internal findings. Nine optional evidence domains and three financial views, with no values/forecasts populated. Independent integrated review and preservation checks completed. Fourteen core questions, client files and earlier topic artifacts preserved. No external action, original fieldwork, financial workbook or product trial."
+    },
+    {
+      "change_id": "CHG-013",
+      "date": "2026-10-29",
+      "type": "User-requested R05 second challenge",
+      "description": "Historical, segmented service-market, all-six recruitment comparator/JGA, prior-study and usable-capacity checks. Twelve new primary routes, twenty-one bounded claim/method records and five internal findings. Five optional conditions supplement unchanged nine domains/three views/fourteen questions. Four constructed prompts and 32 saved answers independently linked; no buyer-priority inference. Independent integrated review and first-pass/prior-topic/client preservation passed. No employer forecast, numerical input, product trial, fieldwork or sending."
+    },
+    {
+      "change_id": "CHG-014",
+      "date": "2026-10-29",
+      "type": "R06 staying switching deferral rejection and abandonment desktop research",
+      "description": "Ten new primary routes and explicit reuses,23 bounded claim/method records and6 internal findings. Six selected public employer contexts plus one narrow notice-status context; exact survey measures/populations, nine optional response-matrix rows and blank event template. Independent integrated review and preservation completed. Azets full method metadata corrected before merge. No original fieldwork, numerical outcome estimates, product trial, core/client change or external sending."
+    },
+    {
+      "change_id": "CHG-015",
+      "date": "2026-10-29",
+      "type": "User-requested R06 second challenge",
+      "description": "Historical/later-state, segmented market lifecycle, all-six recruitment comparator/JGA/prior-study and affected-user checks. Eight new primary routes, nineteen claim/method records and five internal findings; five optional conditions supplement unchanged nine rows/fourteen questions. Three constructed prompts and24 saved texts passed250 root linkage checks. Scoped peer review excludes reviewer own competitor inputs, separately verified byroot; no fully independent integrated audit claimed. First-pass snapshots, prior topics, client/core preserved. No fieldwork, numerical estimate, product trial or sending."
+    },
+    {
+      "change_id": "CHG-016",
+      "date": "2026-10-29",
+      "type": "R07 priorities and contextual differences desktop research",
+      "description": "Four new official routes,24 bounded claim/method/hold records and6 internal findings; survey item/status audit, six optional context dimensions, four nonordinal comparison claim purposes and dated planning contexts. Existing Q005/fourteen questions unchanged, blank templates and empty fieldwork/financial arrays. Moorepay branding/customisation numeric conflict held. Independent integrated review corrected chart-asset provenance;54 prior/client/core preservation hashes checked. No original fieldwork, estimates, legal calculation, product test or sending."
+    },
+    {
+      "change_id": "CHG-017",
+      "date": "2026-10-29",
+      "type": "User-requested R07 second challenge",
+      "description": "Historical/sequence, segmented-market actual capability, all-six recruitment comparator/JGA, prior-study and portfolio/affected-user lenses. Seven new primary routes,19 bounded claim/design records and5 internal findings; five optional conditions preserve first-pass dimensions/templates and14core. Four constructed prompts/32savedtexts passed327 root exact checks; independent integrated review passed. Selected reader notes retained separately from failed raw retrieval. First-pass snapshots/prior/client/core preserved. No fieldwork, numerical estimates, model reruns, product trials or sending."
+    },
+    {
+      "change_id": "CHG-018",
+      "date": "2026-10-29",
+      "type": "R08 preparatory desktop synthesis",
+      "description": "Six optional linked framework views, evidence traceability and preserved proposed two-part/eight-chapter report integration. Ten expressly constructed routes manually applied to actualdraft and133root checks; independent integrated review passed. Accepted evidence split from perceived influence; chapter-heldclaim use separated as guardrail.76baseline hashes preserve prior/client/core/registers/findings. No new canonical sources/claims/findings, original fieldwork, scores/forecasts/questions or sending. FinalWP15 remains dependent on WP11coded original contributions and final-use review."
+    },
+    {
+      "change_id": "CHG-019",
+      "date": "2026-10-29",
+      "type": "User-requested R08 preparatory second challenge",
+      "description": "Historical event-time, market recurring-approval/task-period, all-six-comparator/JGA evidence-object, prior-study and methodological qualification/divergence lenses. Zero new source routes;17bounded claims and5internal design findings. Frameworkv0.2 preserves6views/selectivefields/14Q/outline, logs2text refinements, adds5optionalconditions and blankqualificationnote. Tenoriginalconstructedroutesreapplied+5new;197checks and327exact32textbridgechecks. Independent integrated review and85preservationhashes passed. No originalfieldwork/scores/forecasts/questions/sending; finalWP15open."
+    },
+    {
+      "change_id": "CHG-020",
+      "date": "2026-10-29",
+      "type": "WP03 collection/permission pack preparation",
+      "description": "Eight-file local review pack: operatorrunbook, unsentintro/invitation, participantinfo/choice drafts, blankrecordschemas, counting/routingpolicy and5groupedrelease decisions. Workingagreementon-behalfroles/30-90closureterms preserved, actualtool/storage/notice/access/lawfulinstructions/requiredtransferroute unconfirmed. Eightconstructedcountapplications+3releasecases passed199rootchecks; independent integrated review and111preservationhashes passed. Employer-namingpermission clarified from indirectidentification. No14Q/core/client/sourceclaimfindings changes, actualparticipantdata, fieldworktoolactivation, contact or sending."
+    },
+    {
+      "change_id": "CHG-021",
+      "date": "2026-10-29",
+      "type": "T01 six-model desktop comparison and T02 hypothesis preparation",
+      "description": "Six distinct selected public business mechanisms;26 primary source routes and52 bounded claim/guardrail records appended,26 original HTML captures plus explicit prior-report/catalogue reuses. Detailed reviews, matrix, canonical model map, public-alternatives analysis and4untested propositions retained. Independent417preliminary/1110integrated checks passed;120baselinefiles, old355claims/191sourcebase/81findings preserved. Wording refined: public offer is not viable economics; research/access can be a separately defined combination without default data/meeting rights. No fieldwork, JGA pricing/financial inputs, new core questions, sponsor/venue enquiries, purchases, final publication or external sends."
+    },
+    {
+      "change_id": "CHG-022",
+      "date": "2026-10-30",
+      "type": "T01 second challenge and selective T02 refinements",
+      "description": "Historical/lifecycle, segmentedmarket, all6recruitmentcomparators+JGA/priorstudy andmeeting/output challenge;6newroutes25bounded records=>223sources432claims81unchangedfindings. Firstpass6models/4hypotheses and131baselinefiles preserved.6optional unscored conditions sharpen free-paid entitlement, exactroles, continuity, geography/participation, meeting/publication and delivery/funding.3exactquestions24savedanswers/126checks,3semanticrereads;9constructed rootapplications173checks; independentintegrated1168checks. Captureinventory corrected to separate shells/readerparaphrases. No core14Qchange, fieldwork, JGAprice, financialinput, externalcontact or launchdecision."
+    },
+    {
+      "change_id": "CHG-023",
+      "date": "2026-10-30",
+      "type": "T02 concrete internal proposition and discovery-design preparation",
+      "description": "Three draftfutureproducts:research-usepack,foundingpartnerandpractitionercycle;fivecontractsegments+employeradditionalhypothesis,eightopenuseoptions,eightuncosted/unassignedworkobjects. ProposedTableguidev0.2retains6B/6MwithneutralB01/unaideddiscoveryfirst, inactiveoriginalWP03guide unchanged. Fullcontractreport/JGAIP/practitionerfreeresearchpreserved;optionalbriefing/followthrough/eventaccess separatelyscoped. Accurateedition/fundingpurposeclarifiesalreadycommissionedresearchandseparatecost/revenueaccounting. Independent331checks,146protectedfiles;zero newcanonicalrecords,prices,financialinputs,fieldworkorcontact. Currentstepdesignreviewednotbuyer/membervalidated."
+    },
+    {
+      "change_id": "CHG-024",
+      "date": "2026-10-30",
+      "type": "T02 second challenge of concrete propositions",
+      "description": "Historical/time/change-reason, market/evidence-fit, all6recruiter+JGA and exactpriorprompt/context challenge;2newprimaryroutes11bounded records=>225sources443claims81unchangedfindings. Five optional conditions supplement3offers4hypotheses without altering158protected firstpass/core/client files (canonical asof snapshotted, old432claims223sourcebase preserved). Actual released-use fit distinct from eligible contributor count/no namedcasequota; currentcontract correction remedies preserved; briefing/newwork and benefit/effect separate; exactconcept/fundingstage andfeedback context.3q24answers126lineagechecks/3semanticrereads,8constructedrootcases199checks,1011independentintegratedchecks. No actualbuyers/participants/prices/financialinputs/rightsgrants/collection/externalactions."
+    },
+    {
+      "change_id": "CHG-025",
+      "date": "2026-10-31",
+      "type": "T04 commercial route and public cost-screen preparation",
+      "description": "Four matched pilot/annual A/B cases, four revenue lines, seven cost objects and fifteen model units. Separate incremental operating, full-resource and initial-investment views; ten input groups and calculation rules with correct covered-gap break-even branch. Five official routes and sixteen bounded records append to230sources459claims81preservedfindings. Three UKvenue examples; published prices/date/capacity/charge units preserved, no budgetadoption. Current SeptemberBenares guide replaces staleJanuary selection; historicaloriginal retainedexcluded. Fifteen T05acceptancecases are unexecuted workbooktestdesign. Independent integrated review and priorartifact preservation checked. T05Excel/fullbudget and actualT03/practitioner input stillpending; no contact, quotes, financialinputs, spend orbooking."
+    },
+    {
+      "change_id": "CHG-026",
+      "date": "2026-10-31",
+      "type": "T05 first research/staffing model component",
+      "description": "Complete-report workload split into16producer and5JGAtasks;6/8/10-contributor effort cases are untested analyst assumptions. Five primary benchmark routes/sevenbounded records append to235sources466claims81preservedfindings. Sharedfinancialregister gains33component-only reference/assumption/unresolved inputs, not adopted programmebudget oractualspend. UK dayratehour-normalisation7.5isexplicitassumption; broadrole/combinededitingproxies retained. FiveJGArates unknown, combinedlabourvalue unavailableuntilentered. Currentcommissionnotchangedoraddedtorepeat labourvaluation. FirsteditableExcelcomponent prepared with case/input/missing-versuszero checks; remaining sales/service/event/cash/fullprogramme model pending. No contact, hires, quotes, collections orspend."
+    },
+    {
+      "change_id": "CHG-027",
+      "date": "2026-11-01",
+      "type": "T05 research/staffing second challenge",
+      "description": "Historical/statistical comparability, worldwide sourcing and conditional fees, billing units, recruitment/capacity/rework, all six recruiter/JGA assets and exact prior answers, and assisted-process challenge. Seven routes/eighteen bounded records append to242 sources/484 claims/81 preserved findings. Five selective conditions and ten read-only constructed applications; no original workbook or33input changes. Three questions/24saved answers/three semantic rereads/102 strand lineage checks. Four new-route originals, three reused-route fresh originals and three new-route reader extracts remain distinct from prior notes.265protected files and13prechange snapshots preserved. No actual quote, supplier, staff, participant, saving, client-file change, sending or spend; full T05 model pending."
+    },
+    {
+      "change_id": "CHG-028",
+      "date": "2026-11-01",
+      "type": "T05 service and sales labour component",
+      "description": "Reviewed 21-task/15-activity-unit labour catalogue with three untimed effort cases, existing research/coordination proxies and an unknown commercial-owner rate. Five primary routes and eleven bounded records append to 247 sources, 495 claims and 81 preserved findings. Thirty-seven labelled financial inputs append to the original thirty-three; all fifteen activity quantities start blank. The standalone editable workbook passed 64 calculation tests, six visual regions and twelve saved-file checks; independent content/formula review passed. Shared, bundled and free fulfilment, lost-sales work and ordinary correction boundaries are preserved. All 333 protected files and 13 snapshots preserve previous client/core artifacts. No actual demand, price, customer, quote, supplier, briefing, campaign, collection, contact or spend. Full event/cash/A-B model remains pending."
+    },
+    {
+      "change_id": "CHG-029",
+      "date": "2026-11-01",
+      "type": "T05 service/sales second challenge",
+      "description": "Historical lifecycle, task/market alternatives, six recruiter contexts plus JGA, four prior questions/32 saved answers and adverse-state/capacity/shared-work challenge. Two new routes and thirteen bounded records append to 249 sources, 508 claims and 81 preserved findings. Both workbooks and all 70 inputs are unchanged. Six programme refinements require incurred/noncompleted work, remaining obligations, suitable audiences/people-time, exact reuse/handling, dated task fit and an applicable capable rate/cost basis. Twelve constructed applications/22 read-only checks and 136 exact prior-study checks; originals, readers and prior context distinguished. All 401 protected files and 13 snapshots preserved. Same-agent review; no new independent-agent audit, actual data, price, saving, staffing, sending or spend. Full programme model remains open."
+    }
+  ],
+  "updated_on": "2026-11-01"
+}

@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "T1H-C01",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0240",
+        "SRC-0241"
+      ],
+      "claim_text": "PayrollOrg describes CPO as continuing conversations from its2024/2025 Executive Summits; a January 2026 article reports the invite-only online forum launched in October 2025. This is a publisher-described multi-format development, not a measured event-to-community conversion effect.",
+      "evidence_class": "publisher_described_historical_format_development",
+      "locator": "CPO About retained lines5–9; Forum article launch paragraphs",
+      "limitations": "No evidence that a dinner caused repeat engagement, that the same people attended each format, that members renewed, or that JGA can reproduce the sequence.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/output context or explicit researcher application; no original participant data",
+      "time_period": "Dated public materials reviewed30 October 2026; actual event/issue/update dates retained",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1H-C02",
+      "source_candidate_ids": [
+        "T1H-S01"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The retained CPO magazine archive lists dated issues from July 2025 through October 2026. Editorial continuity is publicly observable as listed outputs, while forum activity, readership and returning-member behaviour remain different and unmeasured here.",
+      "evidence_class": "observed_publisher_archive_context",
+      "locator": "T1H-S01.txt lines9–24; RecentIssues",
+      "limitations": "Archive presence is not verified publication consumption, participant retention, fresh research input or a guaranteed future quarterly commitment. Web reader returned an older archive; original live HTML retained for this claim.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/output context or explicit researcher application; no original participant data",
+      "time_period": "Dated public materials reviewed30 October 2026; actual event/issue/update dates retained",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1H-C03",
+      "source_candidate_ids": [
+        "T1H-S02"
+      ],
+      "canonical_source_ids": [],
+      "claim_text": "The9 October 2026 CPO retrospective describes the third Executive Summit held in May 2026 as PayrollOrg-hosted and Strada-sponsored, with peer panels and discussion. It identifies Nick Day of JGA as a panel moderator.",
+      "evidence_class": "publisher_reported_event_and_public_role",
+      "locator": "T1H-S02.txt lines7–10,26 and40–45",
+      "limitations": "A public role in this past event does not establish a current formal partnership, Table endorsement, access to participants, distribution rights, sponsor appetite, payment or event economics. The article’s valuation/tax/benefit claims are not used.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/output context or explicit researcher application; no original participant data",
+      "time_period": "Dated public materials reviewed30 October 2026; actual event/issue/update dates retained",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1H-C05",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0239"
+      ],
+      "claim_text": "The Payroll Centre’s materials rules restrict carrying access/materials to a new employer and limit access after membership expiry. This demonstrates that person, organisation, service period and reuse permission can have separate lifecycles.",
+      "evidence_class": "published_access_lifecycle_context",
+      "locator": "Business terms clauses9.3.3 and9.5.1–9.5.3; retained parsed rights section",
+      "limitations": "Specific provider terms, not a universal rule for councils orJGA. No inference that a practitioner changing jobs necessarily loses professional relevance, or that previously granted publication consent automatically expires.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/output context or explicit researcher application; no original participant data",
+      "time_period": "Dated public materials reviewed30 October 2026; actual event/issue/update dates retained",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1H-C06",
+      "source_candidate_ids": [],
+      "canonical_source_ids": [
+        "SRC-0224",
+        "SRC-0225",
+        "SRC-0226"
+      ],
+      "claim_text": "HR.com’s retained custom-research, recruitment and free-access help articles carry different 2021, 2024 and 2023 update dates. Their chronology supports separate dated statements, not a verified history of offer changes or confirmation of one current combined package.",
+      "evidence_class": "researcher_temporal_comparability_guardrail",
+      "locator": "Displayed last-update dates and relevant bodies in the three retained help articles",
+      "limitations": "Do not infer a launch, cancellation, price change or current contract from access/update dates. The concrete2025 sponsored report remains a separate observed output, with no exact-package relationship inferred.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/output context or explicit researcher application; no original participant data",
+      "time_period": "Dated public materials reviewed30 October 2026; actual event/issue/update dates retained",
+      "status": "T01_second_challenge_context"
+    },
+    {
+      "candidate_id": "T1H-C07",
+      "source_candidate_ids": [
+        "T1H-S01",
+        "T1H-S02"
+      ],
+      "canonical_source_ids": [
+        "SRC-0240",
+        "SRC-0241",
+        "SRC-0239"
+      ],
+      "claim_text": "For The Table, distinguish the lifecycle of a named programme, a particular event cohort, a continuing member relationship and a versioned research-use right. Planned repeat outputs, contract renewal, actual payment, useful participation and permissioned contribution should remain separate evidence states.",
+      "evidence_class": "researcher_design_application",
+      "locator": "Analytical application of dated CPO formats and Payroll Centre lifecycle terms",
+      "limitations": "An optional design condition, not a new mandatory questionnaire, retention score, automatic-renewal recommendation or proven causal model. No new Table participant, paid commitment or rights policy is established.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Published offer/output context or explicit researcher application; no original participant data",
+      "time_period": "Dated public materials reviewed30 October 2026; actual event/issue/update dates retained",
+      "status": "T01_second_challenge_context"
+    }
+  ],
+  "deduplication_note": "Direct contractual auto-renewal claim T1H-C04 withdrawn before canonical merge because market pack T1M-C07 covers it. History retains distinct access/role lifecycle and analytical continuity condition."
+}

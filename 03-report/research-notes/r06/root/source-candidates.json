@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Official source; not a supplier success story",
+      "review_status": "relevant_original_sections_inspected",
+      "reuse_status": "Private verification; final-use paraphrase/rights/version review pending",
+      "candidate_id": "ROOT6-S01",
+      "title": "How the discovery phase works",
+      "publisher": "Government Digital Service / Agile delivery community",
+      "url": "https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works",
+      "source_type": "official_service_discovery_guidance",
+      "published_date": "2016-08-04",
+      "updated_date": "2021-06-21",
+      "locator": "Define the problem; Understanding constraints; alternatives; How you know discovery is finished",
+      "population": "Government service discovery, not an empirical payroll buyer study",
+      "limitations": "Public-sector guidance supports proportionate investigation and a reasoned stop; it is not proof any employer actually stopped, that all non-purchase is rational, or a mandatory private-employer phase/timebox.",
+      "capture_path": "03-report/research-notes/r06/root/captures/ROOT6-S01.html",
+      "capture_sha256": "ef5958935c136cd852b5b38ae5e06db73b2365a3c8c5888dcb860bd42746df30",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06/root/captures/ROOT6-S01.txt",
+      "text_sha256": "7d3c41ecb5caab14c77a5d8f22fd2d90d17e204501c570bd4b9ef25d6c72565e",
+      "date_note": "Displayed initial publication4August2016 and lastupdate21June2021; accessed2026 is not a new policy date.",
+      "method_available": true
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "funding_or_commercial_interest": "Official source; not a supplier success story",
+      "review_status": "relevant_original_sections_inspected",
+      "reuse_status": "Private verification; final-use paraphrase/rights/version review pending",
+      "candidate_id": "ROOT6-S02",
+      "title": "Report of the Chief Executive, Paper25.03",
+      "publisher": "Office for Environmental Protection",
+      "url": "https://www.theoep.org.uk/sites/default/files/reports-files/OEP%20Board%2029%20January%20-%20CEO%20Report.pdf",
+      "source_type": "employer_board_report_self_reported_operational_update",
+      "published_date": null,
+      "updated_date": null,
+      "locator": "PDF1 printed1 date22January2025; PDF8 printed8 paragraph37",
+      "population": "One UK public body staff-record/payroll transition, December2024",
+      "limitations": "Employer management report, not independently inspected payroll testing, comparative procurement decision or quantified benefit. Transition and one reported payroll run do not prove zero errors, all refinement complete, savings or October2026performance. Original reason/approval/date and actual new provider identity beyond text are unestablished.",
+      "capture_path": "03-report/research-notes/r06/root/captures/ROOT6-S02.pdf",
+      "capture_sha256": "e6b99f5672202487ce54bcff55b06b4e833c319097991887a16ed15d187be66e",
+      "capture_kind": "retained_original_pdf",
+      "text_path": "03-report/research-notes/r06/root/captures/ROOT6-S02.txt",
+      "text_sha256": "a2951953a9618c008b8e84fd8f5f4a8004318624b7120e68b5744ad7a3543947",
+      "document_date": "2025-01-22",
+      "date_note": "Report date printed on cover. Filename refers to29January meeting; no publication date inferred.",
+      "document_version": "Paper25.03",
+      "method_available": false,
+      "visually_reviewed_pdf_pages": [
+        1,
+        8
+      ]
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0130",
+      "url": "https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22",
+      "locator": "Purpose/scope; Payroll ID subsection under duplication of employee records",
+      "review_result": "Current22October2026guidance makes identifier/linkage a bounded transition condition, not an observed buyer reason or universal delay.",
+      "capture_path": "03-report/research-notes/r06/root/captures/SRC-0130.html",
+      "capture_sha256": "73736c1d16aa64b7e18c1d3f1171815d7ccc30d645ae40324678d7dfcee1010d",
+      "text_path": "03-report/research-notes/r06/root/captures/SRC-0130.txt",
+      "text_sha256": "07ac71b1ed953c1ad7fec1e00127120719c4c973c97939a175c2b673b4109d23"
+    }
+  ]
+}

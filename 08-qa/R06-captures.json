@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r06/retention/captures/RET6-S01-selected-reader-notes.txt",
+      "sha256": "db1a8e66ccfc2cd76aa9109cca698e4403ca9f3058aee01d665ed6cb3eaacac8",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/retention/captures/RET6-S02-selected-reader-notes.txt",
+      "sha256": "ab6760b1d1701dd55f2e06ea3d73b2d5acf2d46fb72a451ff62c597e93372599",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/retention/captures/RET6-S03-selected-reader-notes.txt",
+      "sha256": "c2623518516f592f28f915a363a874dddebb260d644a4a347f8a4f3b60c5309f",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S01.html",
+      "sha256": "d113376f2900f25149f6a4a667a93ee1b2c428326a9786a44a1abc0e3faded2a",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S01.txt",
+      "sha256": "8cec445c5057462cb7bf740faf44c7c8bf3f7567ecbe9d5ee52f94428ac10f8f",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S02.html",
+      "sha256": "1c5ec4d12670308871a2760feebc823f07ff71f08de08734ae36fab4e230a1f5",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S02.txt",
+      "sha256": "17d2d14e568d3d0722d4cadc8454d5d99eef18376b452b4bb31cba88c06e099e",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S03.html",
+      "sha256": "b5ed4f1f46e96ac60979759c67edfc6f737ad5fdac0132fb0806c2f0e368a4bd",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S03.txt",
+      "sha256": "8450ce327be62ad090aa0d30d683dd1f98c875a5b4cdff8b21ac1805d9b32a80",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S04.html",
+      "sha256": "e223feb8bca8a7034ef822fb8dbe4c2329ee058ce1e3bdd2be85f1710003c33d",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/stalls/captures/STL6-S04.txt",
+      "sha256": "e343ec2ca04cb44d0edc4a5f16095a6231bcf11084f39238e394e591056a271f",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.pdf",
+      "sha256": "eda4585c95f5faea2294fc182c50515068a1a8b25215bf62e4f896c17aacf17e",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.html",
+      "sha256": "b713c8197007713169b7ecc1da0ad3f8f15c968f692782cdbb38e00e126b2959",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.html",
+      "sha256": "c526f8d4e3d30ee8f9883c9dc726fb27d536b79e0eec2148f29fdcb6d2bf98f3",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.html",
+      "sha256": "d8d9a5130e9b6bd3281376de0a604b6c88ac5a3674824d3ee754673518638d07",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.html",
+      "sha256": "f46eddb44c39d33b5e9962a2b9cfa4acaf418a4d9c7de1c7958f87e85e0d4aba",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.html",
+      "sha256": "d0777a58194fd6800e4a941d010099da664efc0ff050c9f7de81e04a04d3d463",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.html",
+      "sha256": "8b16a45216ddc2d0a44ae553bc3a6288c8555f8ba335534938621416d93360d2",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p2.png",
+      "sha256": "96534696cf987f162c74c65d774c184f6d6e3c07e6f0f0b48a3e1388b0a0bf45",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p13.png",
+      "sha256": "cfaada98db296ce253485c85621a4c8dc5428aec1fee1cca452aa78944951f54",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p29.png",
+      "sha256": "e027963e5e5593ce05f27d84c29606b16ff6c5c4e96a4492eea9b181e5a9f5a1",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p30.png",
+      "sha256": "9c44c002107918a6a99d5950c2886981cfcb128c58193e9da6f6179896bd0b04",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-02.png",
+      "sha256": "3b920677a66b635f401a2099d919dde37bbd18495dd05fab31a0e45b7483e8dc",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-03.png",
+      "sha256": "9fe89b2a62646d7107a2d1f85b2160217cb1ec4e96078b216bf053218dc6f1b6",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011-V2-05.png",
+      "sha256": "612f6acb022eb921bf5812ef859ae353a4502cde7a6f75fd465a8330f3a34820",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01.txt",
+      "sha256": "41930c5d91e2046e7db6f98d541c5002d2a3584e044c0b375a9bbe3277c53886",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-article.txt",
+      "sha256": "d73a7104f3a58ca372860228c3b85dd7f5afbfaf4f61ddc1165e5fd01a5695ce",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/AZETS-landing.txt",
+      "sha256": "16a9396d22b27f928f6d2957261b8e9dbd780163c3617ab62dc6a09fea0ef2b4",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0011.txt",
+      "sha256": "94e9e9f04eff41327349e14eb0203feacc22c8b0a4abeedf54c095e3706d718b",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0012.txt",
+      "sha256": "f8ebb1243b1bc0193855325f8bd1eb490b448132d88c3d17f3ee87fbe0e7bea4",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0031.txt",
+      "sha256": "3637aa47b27b85bb39d3a35e2abcfe3520bd7a4f342db74fa5448cbe9571c9ea",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/SRC-0070.txt",
+      "sha256": "fdcd91e8badd293b20a0f95affd405b44583f0bdaada8db558e39c20fa012c93",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/buyer-evidence/captures/BUY6-S01-p32.png",
+      "sha256": "0bae15e96b505174ca5681ed1615f90c211bafe9ebda0e9be5f67ff9c116dd6b",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S01.html",
+      "sha256": "ef5958935c136cd852b5b38ae5e06db73b2365a3c8c5888dcb860bd42746df30",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S01.txt",
+      "sha256": "7d3c41ecb5caab14c77a5d8f22fd2d90d17e204501c570bd4b9ef25d6c72565e",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/SRC-0130.html",
+      "sha256": "73736c1d16aa64b7e18c1d3f1171815d7ccc30d645ae40324678d7dfcee1010d",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/SRC-0130.txt",
+      "sha256": "07ac71b1ed953c1ad7fec1e00127120719c4c973c97939a175c2b673b4109d23",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02.pdf",
+      "sha256": "e6b99f5672202487ce54bcff55b06b4e833c319097991887a16ed15d187be66e",
+      "kind": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02.txt",
+      "sha256": "a2951953a9618c008b8e84fd8f5f4a8004318624b7120e68b5744ad7a3543947",
+      "kind": "parsed_or_selected_extract"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02-cover.png",
+      "sha256": "80a071c298e1490c07d70ae516cfaeb2abfa6c50b37fcd9e5ad1b0e9371dc82c",
+      "kind": "rendered_page"
+    },
+    {
+      "path": "03-report/research-notes/r06/root/captures/ROOT6-S02-p8.png",
+      "sha256": "0ba8822a734100b903cf8ac0fb894ab29b5e9bf6bb8794ce982b8a1bbfa54226",
+      "kind": "rendered_page"
+    }
+  ]
+}

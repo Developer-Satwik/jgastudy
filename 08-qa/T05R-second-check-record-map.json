@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-31",
+  "source_map": {
+    "T5H-S01": "SRC-0268",
+    "T5H-S02": "SRC-0269",
+    "T5H-S03": "SRC-0270",
+    "T5H-S04": "SRC-0271",
+    "T5H-S05": "SRC-0272",
+    "T5O-S01": "SRC-0273",
+    "T5O-S02": "SRC-0274"
+  },
+  "claim_map": {
+    "T5H-C01": "CLM-0557",
+    "T5H-C02": "CLM-0558",
+    "T5H-C03": "CLM-0559",
+    "T5H-C04": "CLM-0560",
+    "T5H-C05": "CLM-0561",
+    "T5H-C06": "CLM-0562",
+    "T5H-C07": "CLM-0563",
+    "T5H-C08": "CLM-0564",
+    "T5H-C09": "CLM-0565",
+    "T5H-C10": "CLM-0566",
+    "T5C-C01": "CLM-0567",
+    "T5C-C02": "CLM-0568",
+    "T5C-C03": "CLM-0569",
+    "T5C-C04": "CLM-0570",
+    "T5O-C01": "CLM-0571",
+    "T5O-C02": "CLM-0572",
+    "T5O-C03": "CLM-0573",
+    "T5O-C04": "CLM-0574"
+  },
+  "new_source_routes": 7,
+  "new_claim_records": 18,
+  "canonical_sources": 242,
+  "canonical_claims": 484,
+  "folders": [
+    "history-market",
+    "competitors",
+    "root"
+  ],
+  "commercial_validation": false,
+  "participant_observations": 0,
+  "financial_inputs_added": 0
+}

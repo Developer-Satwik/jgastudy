@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_targeted_root_verification",
+  "reviewer": "Root integration author; competitor strand/bridge drafted by another researcher",
+  "independence_limit": "Root verification is separate from competitor authorship but not independent of the final integration. Scoped peer review of history, market, user-continuity and integration is recorded separately.",
+  "tool_constraint": "A new independent-review agent and a resumed prior reviewer both returned agent thread limit reached. Active competitor researcher was asked to peer-review other strands and integration, excluding independent verification of its own inputs.",
+  "source_sample": [
+    {
+      "source_id": "SRC-0210",
+      "url": "https://www.theportfoliogroup.com/payroll/why-use-us/",
+      "mode": "Fresh original web-reader inspection",
+      "locator": "Our process, manage offer/keep in contact/aftercare; reader234\u2013255",
+      "assessment": "Separates employer offer, verbal acceptance, contracts/start and aftercare. No availability, retention, cost or actual client-result claims adopted."
+    },
+    {
+      "source_id": "SRC-0211",
+      "url": "https://www.roberthalf.com/gb/en/insights/management-tips/how-retain-legacy-knowledge-interim-financial-consultants",
+      "mode": "Fresh original web-reader inspection and retained original review",
+      "locator": "Legacy knowledge; best-practice headings and paragraphs14\u201333 in reader",
+      "assessment": "Finance advice on milestones, mentoring/shadowing and debrief, not empirically validated payroll transfer or universal required roles. Hiring-intention figures not adopted."
+    },
+    {
+      "source_id": "SRC-0119",
+      "mode": "Prior canonical record and current strand provenance review; not fresh full original retrieval",
+      "assessment": "Prior original review plus fresh indexed same-case body remains a qualified re-use; no new case or independent delivery proof."
+    }
+  ],
+  "bridge_check_path": "08-qa/R06-prior-study-bridge-check.json",
+  "checks": [
+    {
+      "check": "Eight new routes and nineteen claims mapped",
+      "passed": true
+    },
+    {
+      "check": "Canonical counts reconcile after merge",
+      "passed": true
+    },
+    {
+      "check": "CLM-0379 remains working contextual evidence",
+      "passed": true
+    },
+    {
+      "check": "CLM-0380 remains working contextual evidence",
+      "passed": true
+    },
+    {
+      "check": "CLM-0381 remains working contextual evidence",
+      "passed": true
+    },
+    {
+      "check": "CLM-0382 remains working contextual evidence",
+      "passed": true
+    },
+    {
+      "check": "Portfolio selected reader note not raw original",
+      "passed": true
+    },
+    {
+      "check": "Robert Half retained original exists",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preserved 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preserved 08-qa/R05-second-check-completion.json",
+      "passed": true
+    }
+  ],
+  "check_count": 52,
+  "no_external_action": true
+}

@@ -1,0 +1,2609 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R08_second_challenge",
+  "check_count": 646,
+  "checks": [
+    {
+      "check": "85 fixed prior/core/client/first-pass baseline records",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R02-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 01-method/question-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 00-control/scope-baseline.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R02-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R02-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R02-NEEDS-CONSEQUENCES-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R02-operational-needs-and-service-gaps.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R02-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R02-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-OPTIONS-AND-TRADEOFFS.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R03-option-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R03-technology-and-operating-model-tradeoffs.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R03-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-DECISION-PATHWAY.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R04-decision-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R04-decision-authority-and-pathways.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R04-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R05-evidence-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R05-business-case-evidence-and-risks.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R05-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R06-outcome-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-peer-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-root-verification.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R06-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/r07-review/integrated-review-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-DESKTOP-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-CONTEXTUAL-PRIORITIES.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/R07-priority-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/modules/R07-priorities-and-contextual-differences.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-completion.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-record-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-second-check-captures.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-prior-study-bridge-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-prior-study-bridge-check.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/r07-second-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R07-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-independent-review.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-routing-walkthrough.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/r08-review/integration-checks.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/evidence/EVIDENCE-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/evidence/synthesis-links.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/reader-flow/READER-FLOW.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/reader-flow/content-map.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/route-challenge/COUNTEREXAMPLE-PLAN.md",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/route-challenge/constructed-routes.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/before-completion/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/before-completion/R08-framework-map.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 03-report/research-notes/r08/before-completion/R08-constructed-walkthroughs.json.txt",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-baseline-manifest.json",
+      "passed": true
+    },
+    {
+      "check": "Preservation hash: 08-qa/R08-existing-findings.json",
+      "passed": true
+    },
+    {
+      "check": "Eight first-pass R08 synthesis/application/completion snapshots",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-framework-map.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-report-integration-map.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/R08-constructed-walkthroughs.json",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "check": "First-pass snapshot: 08-qa/R08-completion-check.json",
+      "passed": true
+    },
+    {
+      "check": "Five shared canonical byte snapshots retained",
+      "passed": true
+    },
+    {
+      "check": "Canonical snapshot bytes preserved: 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical first-pass hash reconciles: 02-evidence/registers/sources.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical snapshot bytes preserved: 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical first-pass hash reconciles: 02-evidence/registers/claims.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical snapshot bytes preserved: 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical first-pass hash reconciles: 02-evidence/registers/searches.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical snapshot bytes preserved: 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical first-pass hash reconciles: 02-evidence/registers/source-aliases.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical snapshot bytes preserved: 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "check": "Canonical first-pass hash reconciles: 05-analysis/findings.json",
+      "passed": true
+    },
+    {
+      "check": "191 canonical sources355 claims120 primary-original captures",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0001",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0002",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0003",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0004",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0005",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0006",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0010",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0011",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0012",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0013",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0014",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0015",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0016",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0017",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0018",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0019",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0020",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0021",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0022",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0023",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0024",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0031",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0033",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0034",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0040",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0041",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0042",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0043",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0060",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0061",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0062",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0064",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0065",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0066",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0067",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0068",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0069",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0070",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0071",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0072",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0073",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0074",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0075",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0076",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0077",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0078",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0079",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0080",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0081",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0082",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0083",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0084",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0085",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0086",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0087",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0088",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0089",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0090",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0091",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0092",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0093",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0094",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0095",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0096",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0097",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0098",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0099",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0100",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0101",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0102",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0103",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0104",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0105",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0106",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0107",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0108",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0109",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0110",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0111",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0112",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0113",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0114",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0115",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0116",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0117",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0118",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0119",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0120",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0121",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0122",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0123",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0124",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0125",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0126",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0127",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0128",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0129",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0130",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0131",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0132",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0133",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0134",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0135",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0136",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0137",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0138",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0139",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0140",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0141",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0142",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0143",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0144",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0145",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0146",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0147",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0148",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0149",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0150",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0151",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0152",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0153",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0154",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0155",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0156",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0157",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0158",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0159",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0160",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0161",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0162",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0163",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0164",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0165",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0166",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0167",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0168",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0169",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0170",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0171",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0172",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0173",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0174",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0175",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0176",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0177",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0178",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0179",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0180",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0181",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0182",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0183",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0184",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0185",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0186",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0187",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0188",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0189",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0190",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0191",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0192",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0193",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0194",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0195",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0196",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0197",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0198",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0199",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0200",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0201",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0202",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0203",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0204",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0205",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0206",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0207",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0208",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0209",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0210",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0211",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0212",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0213",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0214",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0215",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0216",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0217",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0218",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0219",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0220",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0221",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0222",
+      "passed": true
+    },
+    {
+      "check": "Prior source identity/capture/method retained: SRC-0223",
+      "passed": true
+    },
+    {
+      "check": "All338 earlier claims preserved exactly",
+      "passed": true
+    },
+    {
+      "check": "All76 earlier findings preserved exactly",
+      "passed": true
+    },
+    {
+      "check": "Held claim remains excluded: CLM-0051",
+      "passed": true
+    },
+    {
+      "check": "Held claim remains excluded: CLM-0052",
+      "passed": true
+    },
+    {
+      "check": "Held claim remains excluded: CLM-0167",
+      "passed": true
+    },
+    {
+      "check": "Held claim remains excluded: CLM-0168",
+      "passed": true
+    },
+    {
+      "check": "Held claim remains excluded: CLM-0218",
+      "passed": true
+    },
+    {
+      "check": "Held claim remains excluded: CLM-0392",
+      "passed": true
+    },
+    {
+      "check": "Exact14-question version0.2 unchanged",
+      "passed": true
+    },
+    {
+      "check": "No invented actual input: 05-analysis/observations.json",
+      "passed": true
+    },
+    {
+      "check": "No invented actual input: 05-analysis/charts.json",
+      "passed": true
+    },
+    {
+      "check": "No invented actual input: 04-table/financial-inputs.json",
+      "passed": true
+    },
+    {
+      "check": "No new source route/dataset counted",
+      "passed": true
+    },
+    {
+      "check": "Seventeen bounded additional claim/application records resolve",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: H8S-C01",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: H8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: H8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: H8S-C02",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: H8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: H8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: H8S-C03",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: H8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: H8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: H8S-C04",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: H8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: H8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: M8S-C01",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: M8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: M8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: M8S-C02",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: M8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: M8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: M8S-C03",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: M8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: M8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: M8S-C04",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: M8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: M8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: C8S-C01",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: C8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: C8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: C8S-C02",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: C8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: C8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: C8S-C03",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: C8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: C8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: C8S-C04",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: C8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: C8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: C8S-C05",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: C8S-C05",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: C8S-C05",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: R8R-C01",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: R8R-C01",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: R8R-C01",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: R8R-C02",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: R8R-C02",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: R8R-C02",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: R8R-C03",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: R8R-C03",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: R8R-C03",
+      "passed": true
+    },
+    {
+      "check": "Candidate exact text/locator mapped: R8R-C04",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate adopted: R8R-C04",
+      "passed": true
+    },
+    {
+      "check": "Claim references bounded working evidence: R8R-C04",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/history/captures/SRC-0206-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/history/captures/SRC-0206-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/history/captures/SRC-0134-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/history/captures/SRC-0134-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/history/captures/LFB-03.png",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/history/captures/LFB-04.png",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/history/captures/SG-46.png",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0078.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0078.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/market/captures/SRC-0078.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0132.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0132.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/market/captures/SRC-0132.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0131.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/market/captures/SRC-0131.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/market/captures/SRC-0131.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r07-second-check/competitors/prior-study-bridge.json",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0210-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0210-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0119-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0119-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r04-second-check/competitors/captures/SRC-0119-reader-extract.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r04-second-check/competitors/captures/SRC-0119-reader-extract.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0115.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0115.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0115.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0116.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0116.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0116.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0147.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0147.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0147.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0192.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0192.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0192.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0193.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0193.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0193.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/root/captures/SRC-0003.html",
+      "passed": true
+    },
+    {
+      "check": "Source/review capture hash: 03-report/research-notes/r08-second-check/root/captures/SRC-0003.txt",
+      "passed": true
+    },
+    {
+      "check": "Text/note is an extract, not original or raw error: 03-report/research-notes/r08-second-check/root/captures/SRC-0003.txt",
+      "passed": true
+    },
+    {
+      "check": "Version0.2 preserves six linked views",
+      "passed": true
+    },
+    {
+      "check": "No sequence score validated prediction or approval recipe",
+      "passed": true
+    },
+    {
+      "check": "Partial/no-case/non-disclosure route retained",
+      "passed": true
+    },
+    {
+      "check": "No compulsory sensitive data or pending-by-default",
+      "passed": true
+    },
+    {
+      "check": "Original-input/final-use dependency retained",
+      "passed": true
+    },
+    {
+      "check": "No additional mandatory questions",
+      "passed": true
+    },
+    {
+      "check": "Zero first-pass canonical count distinguished from17 second-challenge records",
+      "passed": true
+    },
+    {
+      "check": "Only two view-text refinements declared",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view: V01",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/view_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/title",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/instruction",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/boundary",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/selective_record_fields",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/mandatory",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/sequence_required",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/scored",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/validated",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/synthesis_link_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/topic_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/finding_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/claim_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/source_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V01/existing_question_ids",
+      "passed": true
+    },
+    {
+      "check": "No held value used as positive view support: V01",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view: V02",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/view_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/title",
+      "passed": true
+    },
+    {
+      "check": "Exact justified view edit: V02/instruction",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/boundary",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/selective_record_fields",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/mandatory",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/sequence_required",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/scored",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/validated",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/synthesis_link_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/topic_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/finding_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/claim_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/source_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V02/existing_question_ids",
+      "passed": true
+    },
+    {
+      "check": "No held value used as positive view support: V02",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view: V03",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/view_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/title",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/instruction",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/boundary",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/selective_record_fields",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/mandatory",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/sequence_required",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/scored",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/validated",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/synthesis_link_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/topic_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/finding_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/claim_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/source_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V03/existing_question_ids",
+      "passed": true
+    },
+    {
+      "check": "No held value used as positive view support: V03",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view: V04",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/view_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/title",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/instruction",
+      "passed": true
+    },
+    {
+      "check": "Exact justified view edit: V04/boundary",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/selective_record_fields",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/mandatory",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/sequence_required",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/scored",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/validated",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/synthesis_link_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/topic_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/finding_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/claim_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/source_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V04/existing_question_ids",
+      "passed": true
+    },
+    {
+      "check": "No held value used as positive view support: V04",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view: V05",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/view_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/title",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/instruction",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/boundary",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/selective_record_fields",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/mandatory",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/sequence_required",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/scored",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/validated",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/synthesis_link_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/topic_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/finding_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/claim_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/source_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V05/existing_question_ids",
+      "passed": true
+    },
+    {
+      "check": "No held value used as positive view support: V05",
+      "passed": true
+    },
+    {
+      "check": "Optional nonordinal view: V06",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/view_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/title",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/instruction",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/boundary",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/selective_record_fields",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/mandatory",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/sequence_required",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/scored",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/validated",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/synthesis_link_id",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/topic_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/finding_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/claim_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/source_ids",
+      "passed": true
+    },
+    {
+      "check": "First-pass view field preserved: V06/existing_question_ids",
+      "passed": true
+    },
+    {
+      "check": "No held value used as positive view support: V06",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: blank_scope_template",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: blank_canvas",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: blank_decision_brief",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: states_are_separate",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: evidence_claims_are_separate",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: missingness_values",
+      "passed": true
+    },
+    {
+      "check": "First-pass reusable structure retained: held_claim_ids_not_positive_support",
+      "passed": true
+    },
+    {
+      "check": "New evidence-qualification note remains blank",
+      "passed": true
+    },
+    {
+      "check": "Five selective conditions retained",
+      "passed": true
+    },
+    {
+      "check": "Bounded optional condition: C01",
+      "passed": true
+    },
+    {
+      "check": "Bounded optional condition: C02",
+      "passed": true
+    },
+    {
+      "check": "Bounded optional condition: C03",
+      "passed": true
+    },
+    {
+      "check": "Bounded optional condition: C04",
+      "passed": true
+    },
+    {
+      "check": "Bounded optional condition: C05",
+      "passed": true
+    },
+    {
+      "check": "Prior-study reuse does not alter questionnaire or demand evidence",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: participant_observations",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: actual_case_records",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: completed_framework_use_tests",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: causal_effect_estimates",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: employer_forecasts",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: chart_data",
+      "passed": true
+    },
+    {
+      "check": "No invented empirical output: financial_inputs",
+      "passed": true
+    },
+    {
+      "check": "Unapproved report structure/map preserved exactly",
+      "passed": true
+    },
+    {
+      "check": "Two parts/eight chapters remain proposed; finaldeliverables not complete",
+      "passed": true
+    },
+    {
+      "check": "Root197 checks pass15 constructed applications",
+      "passed": true
+    },
+    {
+      "check": "Rootwalkthrough hashes match reviewed draft/application",
+      "passed": true
+    },
+    {
+      "check": "Original ten-route design unchanged",
+      "passed": true
+    },
+    {
+      "check": "Rootwalkthrough is not practitioner validation",
+      "passed": true
+    },
+    {
+      "check": "Fifteen applications all belong to preparatoryv0.2",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Original bounded application preserved/reapplied: R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Reassessment explicitly attributed: R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T01",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T02",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T03",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T04",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T05",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T06",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T07",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T08",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T09",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T10",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T10",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T11",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T11",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T11",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T11",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T12",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T12",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T12",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T12",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T13",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T13",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T13",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T13",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T14",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T14",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T14",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T14",
+      "passed": true
+    },
+    {
+      "check": "Constructed not actual employer/case: R08-T15",
+      "passed": true
+    },
+    {
+      "check": "No invented real date or numeric output: R08-T15",
+      "passed": true
+    },
+    {
+      "check": "Applied to actual six-viewv0.2: R08-T15",
+      "passed": true
+    },
+    {
+      "check": "Traceable bounded partial output: R08-T15",
+      "passed": true
+    },
+    {
+      "check": "T11 no later-knowledge backfill or forcedaction",
+      "passed": true
+    },
+    {
+      "check": "T12 one report acceptance does not establish payment/continuingrun readiness",
+      "passed": true
+    },
+    {
+      "check": "T13 firm material not candidate/engagement/outcome proof",
+      "passed": true
+    },
+    {
+      "check": "T14 acceptance remains separate from verification/influence/unresolved accounts",
+      "passed": true
+    },
+    {
+      "check": "T15 repeatedrecommendations and addedassumptions do not establish demand/independentproof",
+      "passed": true
+    },
+    {
+      "check": "Root327 exact prior-study checks passed",
+      "passed": true
+    },
+    {
+      "check": "Four constructed prompts32savedtexts with no reruns",
+      "passed": true
+    },
+    {
+      "check": "Rootverified bridge hash unchanged",
+      "passed": true
+    },
+    {
+      "check": "Priorbridge selection/premises/demand boundaries preserved",
+      "passed": true
+    },
+    {
+      "check": "Original global source-capture limits preserved",
+      "passed": true
+    },
+    {
+      "check": "Four semantic samples distinguished from other integrity-only checks",
+      "passed": true
+    },
+    {
+      "check": "Canonicalclaimrefsresolve: 03-report/R08-SECOND-CHECK-READOUT.md",
+      "passed": true
+    },
+    {
+      "check": "Canonicalclaimrefsresolve: 03-report/R08-DECISION-FRAMEWORK.md",
+      "passed": true
+    },
+    {
+      "check": "Canonicalclaimrefsresolve: 03-report/R08-DESKTOP-SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "Canonicalclaimrefsresolve: 03-report/R08-REPORT-INTEGRATION.md",
+      "passed": true
+    },
+    {
+      "check": "Canonicalclaimrefsresolve: 03-report/modules/R08-decision-framework-and-synthesis.md",
+      "passed": true
+    },
+    {
+      "check": "Readout keeps final practitioner dependency explicit",
+      "passed": true
+    }
+  ],
+  "reviewer_authored_no_strands": true,
+  "review_scope": "Independent integrated preparatory desktop/source/preservation review; root327exact saved-study checks and197constructed-route checks are separately attributed. Not original fieldwork, user comprehension, model-advice validation, causality, commercial demand or final publication assurance.",
+  "source_sample": [
+    "LFB2025 renderedPDF3–4 and Scottish2024/25auditPDF46 visually inspected",
+    "Retained fresh CintraSRC0131/0132 currenttext and HMRCchoosepayrollSRC0078",
+    "QQEsource0003 original relevant sections; independently reopened primary route",
+    "Portfolio0210 and Middlemore0116 primary original web reader independently reopened",
+    "Retained HaysProjectServices/Oakleaf/guide methods; Portfolio/JGA/Frazer source-specific reader notes/alias limits",
+    "Four exact prompt premises and selected savedChatGPTr1sections inspected; generatedscores/assumptions not adopted"
+  ],
+  "framework_version": "0.2",
+  "source_records": 191,
+  "claim_records": 355,
+  "source_records_with_primary_original": 120,
+  "prior_findings_preserved": 76,
+  "final_WP15_complete": false,
+  "new_practitioner_observations": 0,
+  "external_actions": []
+}

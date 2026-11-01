@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "DEL-C01",
+      "source_ids": [
+        "SRC-0078"
+      ],
+      "locator": "Paying a payroll provider; Running payroll yourself",
+      "claim_text": "HMRC distinguishes employer-operated software and provider execution while retaining employer responsibility for PAYE tasks.",
+      "evidence_class": "official_operating_guidance",
+      "limitations": "Official boundary guidance, not organisation-specific advice, a performance comparison or proof of the practical division under a particular contract.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C02",
+      "source_ids": [
+        "SRC-0077"
+      ],
+      "locator": "Sections3 Delivery model assessments and4 Piloting first generation outsourcing",
+      "claim_text": "The Sourcing Playbook considers in-house, market and hybrid delivery at component level, with proportionate testing and transition/resource conditions.",
+      "evidence_class": "official_public_procurement_guidance",
+      "limitations": "Public-procurement guidance, not a private-employer mandate or payroll option outcome study. Full costs and approval mechanics remain later modules.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C03",
+      "source_ids": [
+        "SRC-0094"
+      ],
+      "locator": "PDF pp10,17\u201318,22: Knowledge Service; Responsibilities; BACS Processing Services",
+      "claim_text": "Fourth separates guidance from self-managed execution and separately opted-in BACS submission from payroll processing, while retaining customer data, check and approval duties.",
+      "evidence_class": "published_service_definition",
+      "limitations": "Declared supplier scope in retained 2026-path definition; actual contract/package and achieved performance not established. No statutory rule or guaranteed result inferred.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C04",
+      "source_candidate_ids": [
+        "DEL-S01",
+        "DEL-S02"
+      ],
+      "locator": "SaaS/Source authorise-payment sections; four-scenario table; FAQs",
+      "claim_text": "Cintra documentation separates who processes payroll from who makes payments, including employer processing with bureau BACS and bureau processing with employer/bank payment.",
+      "evidence_class": "supplier_workflow_documentation",
+      "limitations": "Specific documentation example, not a universal workflow or observed market distribution. In-product banners do not define all organisational controls.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C05",
+      "source_candidate_ids": [
+        "DEL-S01",
+        "DEL-S02"
+      ],
+      "locator": "SaaS customers (24 September 2026 article) versus introductory status/cycle statements (23 June 2026 article)",
+      "claim_text": "Dated Cintra articles differ on in-house calculation and status visibility. Preserve version/configuration uncertainty rather than combine both as current UI behaviour.",
+      "evidence_class": "source_freshness_or_version_conflict",
+      "limitations": "Document wording difference, not proof of a defect or its resolution. Hold universal UI/status claims; processing/payment distinction is separately supported.",
+      "status": "hold_universal_ui_behaviour",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded"
+    },
+    {
+      "candidate_id": "DEL-C06",
+      "source_ids": [
+        "SRC-0097"
+      ],
+      "locator": "PDF pp3\u20138: Month End, Payroll Input, Fully Managed services; optional support",
+      "claim_text": "The explicitly dated 2021\u20132022 Phase3 definition describes modular input, month-end and full-service activities, with some support as optional.",
+      "evidence_class": "dated_supplier_service_scope",
+      "limitations": "Historical declared offer, not current package entitlement, guaranteed accuracy or measured compliance. Page3 tier label inconsistency is avoided by using named detailed sections.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C07",
+      "source_candidate_ids": [
+        "DEL-S03"
+      ],
+      "locator": "Ensuring high quality; Flexible and accurate services; Software Optimisation; Supporting Services",
+      "claim_text": "Phase3 currently describes individual-process to full-operation support and existing-system optimisation/client-side support as offer routes.",
+      "evidence_class": "supplier_service_declaration",
+      "limitations": "Published capability counterexample only, not realised benefits or independent verification. Accuracy percentages, volume, award, savings and strategic-time claims not adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C08",
+      "source_ids": [
+        "SRC-0096"
+      ],
+      "locator": "Description; Service constraints; End-of-contract extraction",
+      "claim_text": "Phase3 GCloud14 listing combines UK/ROI description with UK-only constraint and declares end-of-contract data extraction. Geography and usable handback cannot be inferred from the label alone.",
+      "evidence_class": "service_scope_conflict_and_declared_exit",
+      "limitations": "Listing/attached historical definition require case-specific current scope verification; export availability is not tested migration completeness or reconciliation. API assessment belongs to integration strand.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    },
+    {
+      "candidate_id": "DEL-C09",
+      "source_ids": [
+        "SRC-0119",
+        "SRC-0120"
+      ],
+      "locator": "Frazer Jones aosphere challenge/solution; Oakleaf interim payroll/pensions role duties",
+      "claim_text": "Previously verified recruiter case/request examples distinguish time-bound continuity/change skills from permanent operations; R03 should test task, authority and handback rather than presume a hire is the solution.",
+      "evidence_class": "bounded_publisher_reported_case_and_request_interpretation",
+      "limitations": "Reuses R02 inspection and provenance; not new independent outcome evidence, a skills shortage measure or evidence of availability. Alternatives may include development, process or service change.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": "Source-specific operating guidance, supplier scope or bounded publisher case; not a market sample",
+      "accessed_on": "2026-10-29",
+      "review_mode": "Relevant original sections read; selected retained PDF pages rendered/visually checked where recorded",
+      "status": "internal_R03_context"
+    }
+  ]
+}

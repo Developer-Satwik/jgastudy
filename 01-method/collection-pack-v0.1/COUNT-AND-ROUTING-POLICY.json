@@ -1,0 +1,157 @@
+{
+  "version": "0.1",
+  "status": "prepared_policy_not_activated",
+  "report_target_min": 6,
+  "report_target_max": 10,
+  "report_unit": "distinct_verified_eligible_person_with_actual_usable_permitted_report_input",
+  "table_event_cap": 4,
+  "table_ideal_mix": {
+    "buyers": 2,
+    "members": 2
+  },
+  "mix_is_not_a_fixed_quota": true,
+  "participant_id_prefix": "P",
+  "contribution_id_prefix": "INT",
+  "one_person_reference_across_modes_and_streams": true,
+  "report_count_rule": "Count once only after relevant eligibility/verification, actual usable input and permitted analysis are established. No fixed number of answered questions; preserve no-case and written routes.",
+  "Table_count_rule": "Count actual substantive exploratory conversation/contribution events, not role labels. One combined event is one event; repeated substantive sessions remain separate events within cap. Log factual clarifications honestly with scope, not a blanket exemption.",
+  "overlap_rule": "A prospective member/buyer counts once toward report only if independently report-eligible and supplies actual relevant permitted report input; an RSVP or question suggestion alone does not establish that.",
+  "publication_base_rule": "Analysis usability, named/quote release and question-specific reporting bases differ; publication permission is item/output-specific.",
+  "routes": [
+    {
+      "route_id": "recent_case",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q007",
+        "Q008",
+        "Q009",
+        "Q010",
+        "Q011",
+        "Q012",
+        "Q013",
+        "Q014"
+      ],
+      "rule": "Confirm qualifying recent event/direct involvement; use selective case probes, preserving event/programme dates."
+    },
+    {
+      "route_id": "pre_proposal",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q014"
+      ],
+      "rule": "Only never-raised need is pre-proposal; if qualifying case emerges, confirm and resume recent-case route."
+    },
+    {
+      "route_id": "no_recent_case",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q014"
+      ],
+      "rule": "Useful operating/priorities input may remain; do not invent approval/transaction."
+    },
+    {
+      "route_id": "older_or_uncertain_context",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q014"
+      ],
+      "rule": "Keep older/uncertain account separately labelled; substantive recent event inside older programme can qualify only when established."
+    },
+    {
+      "route_id": "declined_detail",
+      "existing_question_ids": [],
+      "rule": "Stop declined request; participant may choose to continue a remaining permitted route. No repeated pressure."
+    },
+    {
+      "route_id": "written",
+      "existing_question_ids": [
+        "Q001",
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q005",
+        "Q006",
+        "Q007",
+        "Q008",
+        "Q009",
+        "Q010",
+        "Q011",
+        "Q012",
+        "Q013",
+        "Q014"
+      ],
+      "rule": "Same guide/version with relevant selected coverage; no guarantee all items answered or equivalent depth."
+    },
+    {
+      "route_id": "table_buyer",
+      "existing_question_ids": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06"
+      ],
+      "rule": "Disclose commercial feasibility purpose; unaided real need/alternatives before proposition; interest is not commitment."
+    },
+    {
+      "route_id": "table_member",
+      "existing_question_ids": [
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06"
+      ],
+      "rule": "Proposed council not booked event or membership; relevant report overlap separately established."
+    }
+  ],
+  "missingness_values": [
+    "not_asked",
+    "not_answered",
+    "not_known",
+    "not_applicable",
+    "not_measured",
+    "not_yet_assessed",
+    "prefer_not_to_disclose"
+  ],
+  "guide_references": {
+    "report": "01-method/PRACTITIONER-GUIDE-v0.2.md",
+    "report_question_map": "01-method/question-map.json",
+    "table": "01-method/TABLE-VALIDATION-GUIDES-v0.1.md"
+  },
+  "core_question_version": "0.2",
+  "report_core_questions": 14,
+  "new_core_questions": 0,
+  "extra_optional_framework_fields_are_not_compulsory_probes": true,
+  "recording_default_enabled": false,
+  "external_AI_transcription_default_enabled": false,
+  "written_equivalent_allowed": true,
+  "duration_tested": false,
+  "fixed_duration_promised": false,
+  "actual_report_contributor_count": 0,
+  "actual_Table_event_count": 0,
+  "actual_records": [],
+  "external_actions": []
+}

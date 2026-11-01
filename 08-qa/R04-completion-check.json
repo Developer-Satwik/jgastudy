@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R04_desktop_synthesis",
+  "new_source_routes": 12,
+  "new_claim_or_guardrail_records": 26,
+  "source_records": 132,
+  "claim_records": 188,
+  "source_records_with_retained_original": 75,
+  "internal_findings": 38,
+  "analytical_functions": 12,
+  "selected_published_employer_cases": 6,
+  "new_practitioner_observations": 0,
+  "fourteen_core_questions_unchanged": true,
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    }
+  ],
+  "prior_topic_artifacts": [
+    {
+      "check": "R02-second-check-completion.json",
+      "all_artifacts_unchanged": true
+    },
+    {
+      "check": "R03-second-check-completion.json",
+      "all_artifacts_unchanged": true
+    }
+  ],
+  "capture_files_hash_checked": 55,
+  "final_publication_approved": false,
+  "product_or_API_tests": 0,
+  "external_actions": [],
+  "artifacts": [
+    {
+      "path": "03-report/R04-DESKTOP-READOUT.md",
+      "sha256": "099a1626703b54ba9f0cd978e0225c549b5797cb7893597c310cc86f1683470c"
+    },
+    {
+      "path": "03-report/R04-DECISION-PATHWAY.md",
+      "sha256": "cdbb593591d7b8001117cc4be79ae8c9572a1f1695ff0b2d064ed51a9e03b828"
+    },
+    {
+      "path": "03-report/R04-decision-map.json",
+      "sha256": "bc20567fd0c66ff95af7369d4715152da733bb874b9330d3155b98794dece653"
+    },
+    {
+      "path": "03-report/modules/R04-decision-authority-and-pathways.md",
+      "sha256": "8cbb5061fb8906a705bec8c9192c58f6a1c94a7008004c58b927020a909f4006"
+    },
+    {
+      "path": "08-qa/R04-independent-review.md",
+      "sha256": "f13ebfbde2e6d58f6b46dbe5f8bb5e6c391a6976f14d5e65011f82f4f192d0f0"
+    },
+    {
+      "path": "08-qa/R04-record-map.json",
+      "sha256": "25cdce753e1f64330727d04cf8f3cebf15753ff2cce762abba4a16eda8afe497"
+    }
+  ],
+  "next": "R05 business-case evidence, funding and implementation risks. No sending without user permission.",
+  "workspace_validation": {
+    "status": "passed",
+    "checks": 747,
+    "json_files_at_validation": 147,
+    "local_markdown_links_checked": 91,
+    "original_question_records": 14,
+    "scope": "Structural linkage, record boundaries, preservation and capture checks; not fieldwork or final publication approval"
+  }
+}

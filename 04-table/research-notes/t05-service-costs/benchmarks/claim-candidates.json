@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "candidate_id": "T5S-C01",
+      "source_candidate_ids": [
+        "T5S-S01"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 51–60, preparation cost and go/no-go questions",
+      "claim_text": "nibusinessinfo advises assessing bid-preparation cost, contract-fulfilment cost and effects on staffing/other work; time and money spent on an unsuccessful tender are usually lost.",
+      "evidence_class": "public_business_guidance_sales_effort",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Apply as a planning distinction: count actual qualification/proposal/follow-up work for pursued opportunities, including those not won, without inventing a JGA hours-per-lead, tender frequency or conversion rate.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C02",
+      "source_candidate_ids": [
+        "T5S-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 205–206 and 224–227, unit and entitlement",
+      "claim_text": "ABI describes inquiry as 30-minute calls or equivalent email exchanges, often within a subscription/consulting agreement. Metered subscriptions allocate hours over the subscription term to seat holders; one-off report purchase does not include inquiry.",
+      "evidence_class": "producer_subscription_service_scope_and_metering",
+      "value": {
+        "call_minutes": 30
+      },
+      "unit": "Minutes per call; metered entitlement in hours per subscription term",
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "A provider example of edition/report access versus service entitlement. No stand-alone monetary price, JGA session unit or billing treatment for preparation is established.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C03",
+      "source_candidate_ids": [
+        "T5S-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 219–223, extra documentation/custom work and correction",
+      "claim_text": "ABI generally supplies no extra documentation beyond existing research. Longer or custom work may become an additional-fee engagement; custom data cuts have an exception only when the information is already known and the analyst can address the request in under half an hour. ABI says inquiry caused by its error is corrected without charging inquiry time.",
+      "evidence_class": "producer_service_boundary_and_error_correction",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Do not turn ordinary corrections into paid new consulting. The time limit and exceptions are ABI terms, not adopted JGA rules or measured delivery hours.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C04",
+      "source_candidate_ids": [
+        "T5S-S02"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 207–213 and 228–233, request/usage administration",
+      "claim_text": "ABI routes requests through account or Client Success staff and tracks both interaction counts and time. Metered clients cannot book after exhausting allotted time.",
+      "evidence_class": "producer_service_administration_and_tracking",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Supports making scheduling, entitlement checks and usage administration visible; does not quantify those staff hours. Published response/scheduling windows are elapsed time, not person-hours.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C05",
+      "source_candidate_ids": [
+        "T5S-S03"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 182–194 and 204–213, inquiry scope",
+      "claim_text": "Forrester licenses grant product-specific benefits. Inquiry uses one analyst, a 30-minute audio/video session or email, and at most three questions; detailed custom feedback is directed to advisory services.",
+      "evidence_class": "producer_analyst_session_scope",
+      "value": {
+        "call_minutes": 30,
+        "maximum_questions": 3
+      },
+      "unit": "Minutes per inquiry session; questions per session",
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Forrester product/contract terms only. Not JGA prices, average service effort, an unrestricted briefing or a per-minute monetary tariff.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C06",
+      "source_candidate_ids": [
+        "T5S-S03"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 229–269, guidance criteria/document-review limits",
+      "claim_text": "Forrester guidance addresses 1–3 questions within 50 minutes, allows about an hour or less of analyst preparation and excludes client-specific deliverables. Document review is limited to one review of up to 20 pages with 1–3 questions and no more than an hour of prep; broader needs go to advisory/consulting.",
+      "evidence_class": "producer_preparation_and_custom_work_scope",
+      "value": {
+        "maximum_session_minutes": 50,
+        "approximate_prep_hours_upper_limit": 1,
+        "maximum_document_pages": 20,
+        "maximum_document_reviews": 1
+      },
+      "unit": "Scope ceilings for named guidance service, not monetary billing units",
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "These are scope limits, not observed typical work or instructions to adopt maxima. Session time alone understates preparation; no JGA prep ratio, booking minimum, price, attendee entitlement or capacity is established.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C07",
+      "source_candidate_ids": [
+        "T5S-S04"
+      ],
+      "canonical_source_ids": [],
+      "locator": "Parsed original lines 219–246, 387–391 and 532–543, rights/approval and fulfilment materials",
+      "claim_text": "Forrester distinguishes licensed research, reprint rights and approved commissioned deliverables. External/commercial citation needs approval subject to policy; recorded analyst engagements need replay rights. Its review checklist requests the exact research, proposed uses and full promotional materials.",
+      "evidence_class": "producer_external_use_rights_and_fulfilment_scope",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "Illustrates rights/use fulfilment separate from report access and speaking. No JGA legal condition, IP restriction, approval turnaround, licence price or incremental labour amount is adopted; existing JGA agreement governs commissioned IP.",
+      "status": "T05_service_sales_scope_context"
+    },
+    {
+      "candidate_id": "T5S-C08",
+      "source_candidate_ids": [
+        "T5S-S01",
+        "T5S-S02",
+        "T5S-S03",
+        "T5S-S04"
+      ],
+      "canonical_source_ids": [
+        "SRC-0263",
+        "SRC-0265",
+        "SRC-0266"
+      ],
+      "locator": "Researcher mapping to T02 DW02/DW03/DW04/DW08 and preserved T05R units",
+      "claim_text": "For a future JGA offer, define the edition, customer/audience, allowed use and bounded service before costing it; count bundled rights/briefing/administration once. Sales effort and service fulfilment need their own work and resource basis. JGA sales, customer-service, administrative and employee rates remain unknown.",
+      "evidence_class": "researcher_cost_application",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "population": null,
+      "time_period": null,
+      "limitations": "No universal hours, realised demand, conversion rate, price, Indian/UK saving or all-in project fee follows. £372/day research and £46.19/hour coordination are different existing comparison proxies, not interchangeable roles; no salary/day/hour or mean/median conversion is made. Shared work already in T05R must be credited once, not recosted.",
+      "status": "T05_service_sales_scope_context"
+    }
+  ]
+}

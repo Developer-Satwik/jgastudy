@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "INT-S01",
+      "title": "How data syncs with Staffology Payroll",
+      "url": "https://help.staffology.co.uk/hr/system/utilities/data-sync-hr-payroll.htm",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://help.staffology.co.uk/hr/system/utilities/data-sync-hr-payroll.htm",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S01.html",
+      "sha256": "7b16a7cc2595cbfdf28371c995fb353627a220c8435ccc26d525bbed1116fa5d",
+      "bytes": 27082
+    },
+    {
+      "candidate_id": "INT-S02",
+      "title": "Manage your Staffology Payroll integrations",
+      "url": "https://help.staffology.co.uk/hr/system/utilities/landing-staffology-payroll.htm",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://help.staffology.co.uk/hr/system/utilities/landing-staffology-payroll.htm",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S02.html",
+      "sha256": "8741d29b4e0c11d39b440c9244e1229e74d6afb42fdf367106d5ae1b3d7165ed",
+      "bytes": 42138
+    },
+    {
+      "candidate_id": "INT-S03",
+      "title": "Async Jobs",
+      "url": "https://app.staffology.co.uk/api/docs/guides/intro/asyncjobs",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://app.staffology.co.uk/api/docs/guides/intro/asyncjobs",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S03.html",
+      "sha256": "4618a3def807a7554fac6f386aa58a70f7e78350b251377747e12da713148552",
+      "bytes": 531339
+    },
+    {
+      "candidate_id": "INT-S04",
+      "title": "ImportResultDetails",
+      "url": "https://app.staffology.co.uk/api/docs/models/importresultdetails",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://app.staffology.co.uk/api/docs/models/importresultdetails",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S04.html",
+      "sha256": "23b3a8d4577961ba2f8c620b4e3a75df0cfbf3562f6e09e17807e2a0cf5f856e",
+      "bytes": 535764
+    },
+    {
+      "candidate_id": "INT-S05",
+      "title": "Webhooks",
+      "url": "https://app.staffology.co.uk/api/docs/guides/intro/webhooks",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://app.staffology.co.uk/api/docs/guides/intro/webhooks",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S05.html",
+      "sha256": "6a33a8ed4b2a9eca2cba9a56c1360312c10e0f4d927dc5eb97017c1625e26fca",
+      "bytes": 532134
+    },
+    {
+      "candidate_id": "INT-S06",
+      "title": "Permissions FAQ",
+      "url": "https://developer.xero.com/faq/permissions",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://developer.xero.com/faq/permissions",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S06.html",
+      "sha256": "fabc0ee479d8409aa30263e8eb24773384e3f6ade7c4fc4ef33481745de6e3af",
+      "bytes": 248338
+    },
+    {
+      "candidate_id": "INT-S07",
+      "title": "Help to prevent payroll errors and PAYE RTI disputed charges GfC22",
+      "url": "https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22",
+      "accessed_on": "2026-10-29",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22",
+      "status": "retained_original_html",
+      "capture_path": "03-report/research-notes/r03/integration/INT-S07.html",
+      "sha256": "ed524c66bdd81a64ef416a18ea12a90d347b0ba288367e1dc838992a82c1f2d3",
+      "bytes": 130317
+    }
+  ]
+}

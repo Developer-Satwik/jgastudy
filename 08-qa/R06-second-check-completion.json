@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_for_internal_R06_second_challenge",
+  "review_basis": "Scoped peer review plus root verification of separately authored competitor input and exact saved-data bridge; not fully independent integrated audit",
+  "supersedes_for_current_synthesis": "08-qa/R06-completion-check.json",
+  "new_source_routes": 8,
+  "new_claim_or_guardrail_records": 19,
+  "source_records": 180,
+  "claim_records": 295,
+  "source_records_with_primary_retained_original": 112,
+  "internal_findings": 65,
+  "optional_matrix_rows": 9,
+  "selective_conditions": 5,
+  "new_public_employer_histories": 1,
+  "selected_prior_questions": 3,
+  "selected_saved_answer_texts": 24,
+  "prior_bridge_checks_passed": 250,
+  "peer_checks_passed": 25,
+  "root_targeted_checks_passed": 52,
+  "checked_capture_files": 36,
+  "preserved_baseline_records": 44,
+  "first_pass_R06_snapshots": [
+    {
+      "original_path": "03-report/R06-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/01-R06-DESKTOP-READOUT.md.txt",
+      "sha256": "fce9fa91bc3d551da54340a834fb41ff0617675b3f09e1d19a7005c92573d132"
+    },
+    {
+      "original_path": "03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/02-R06-BARRIER-RESPONSE-MATRIX.md.txt",
+      "sha256": "3656471a73892cc8a101200dea28e07750dba6819e8f11de1a28474ee0925d9a"
+    },
+    {
+      "original_path": "03-report/R06-outcome-map.json",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/03-R06-outcome-map.json.txt",
+      "sha256": "09cf79993124f5290dc5bbc1bc41007ea67fbe55282a944cee4ecb20df6fd38a"
+    },
+    {
+      "original_path": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/04-R06-staying-switching-delay-and-abandonment.md.txt",
+      "sha256": "e2abfffce21c48d5d13f2fb694477232906b03341b28966120a9aa0b9e760337"
+    },
+    {
+      "original_path": "08-qa/R06-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/05-R06-independent-review.md.txt",
+      "sha256": "c1f964afd090a178ee889ace02432030156b9b45900e9c31c17bf1743f209e71"
+    },
+    {
+      "original_path": "08-qa/R06-record-map.json",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/06-R06-record-map.json.txt",
+      "sha256": "0690080f0883294bbc511fea7f1d75198af46016492b8f9077d133d7b5eebdad"
+    },
+    {
+      "original_path": "08-qa/R06-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r06-second-check/before-review/07-R06-completion-check.json.txt",
+      "sha256": "115239b584401d437c0c250d6795d03891c49e2e955520a897ea0d4b629d2026"
+    }
+  ],
+  "client_files": [
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.docx",
+      "sha256": "fea09a1b220872e9b676737ef4aced39f08b6ae1fca359f479a90c2a8174e33a",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Payroll Research Prospectus.pdf",
+      "sha256": "03e23822e830cce306841cd48d9395f3aa53051556d44e2ce680f21385a03e4f",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "282d622f97a87545eebb9d31f2a718e66a1acf1bcafdd39aa25909eb5a2871fe",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.1/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "64212b854932859c11a9b2a918efd89eb6394a07d6ca51f595421eaa8c71179d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.docx",
+      "sha256": "6f31508f6f6f0a8d80af42c2dd7a694d5a72a3b59ea3111d1c0ccdea2ac36adb",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Payroll Research Prospectus.pdf",
+      "sha256": "e69912bd7a3b5f08d8921ff30e2b11d544afaddb1cc68603d69cdf90d70d80ef",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.docx",
+      "sha256": "8ff6ded436cbfe7af520613dcf6a725bd00ea86bbee19cb1a44b372c8021a64d",
+      "unchanged": true
+    },
+    {
+      "path": "06-client-checkpoints/week-one-v0.2/JGA Research Plan and Practitioner Questions.pdf",
+      "sha256": "fd7203b59a50f0401da0e9d211bbd0bc2a79b3672202199047f747503ac2f041",
+      "unchanged": true
+    }
+  ],
+  "fourteen_core_questions_unchanged": true,
+  "new_practitioner_observations": 0,
+  "numerical_estimates": 0,
+  "product_trials": 0,
+  "causal_remedies_tested": 0,
+  "external_actions": [],
+  "final_publication_approved": false,
+  "artifacts": [
+    {
+      "path": "03-report/R06-SECOND-CHECK-READOUT.md",
+      "sha256": "989011205ed086566b04a579c6cac93bebb5ecac93fc972af70a7c836326a053"
+    },
+    {
+      "path": "03-report/R06-DESKTOP-READOUT.md",
+      "sha256": "3d941c5bca02cb323442d1a1cde10095938d1e4037e5f764831dea87aeef9d75"
+    },
+    {
+      "path": "03-report/R06-BARRIER-RESPONSE-MATRIX.md",
+      "sha256": "e4c9e41262ef449701097c7980e671838f6404ac7eb0ba5ef22c3370d6213862"
+    },
+    {
+      "path": "03-report/R06-outcome-map.json",
+      "sha256": "621b1bd029656a84ee982f340b9519fabe9327f23d4882a0e3c95b97f4fefec9"
+    },
+    {
+      "path": "03-report/modules/R06-staying-switching-delay-and-abandonment.md",
+      "sha256": "e208597f6d166674aafab5dfe0c0e504e4247578846c9baa5034dca9e902b8e4"
+    },
+    {
+      "path": "08-qa/R06-second-check-record-map.json",
+      "sha256": "53c50b15eac1edc1687d9713a639dc98e12c780b4ec97b4c54dc14fe43f87677"
+    },
+    {
+      "path": "08-qa/R06-second-check-peer-review.md",
+      "sha256": "b2f18c143d714c5bce2b36b21f9bb67bcbd28c23cc932a8d7ad48cf8a8844e79"
+    },
+    {
+      "path": "08-qa/R06-second-check-root-verification.json",
+      "sha256": "ea010abab408944228315a805f95b9173a41d7417b3783da654d05c16819b09b"
+    },
+    {
+      "path": "08-qa/R06-prior-study-bridge-check.json",
+      "sha256": "4ff60ba1044fff65fcd7f046216a1036cbcd795b93463a07c7a3003c71b7dbc0"
+    }
+  ],
+  "next": "R07 priorities and defensible contextual differences; no external sending.",
+  "workspace_validation": {
+    "status": "passed",
+    "date": "2026-10-29",
+    "checks": 1630,
+    "json_files": 277,
+    "source_records": 180,
+    "claim_records": 295,
+    "question_records": 14,
+    "internal_design_findings": 65,
+    "deliverable_records": 22,
+    "work_packages": 20,
+    "local_markdown_links_checked": 196,
+    "scope": "R01–R06 record linkage and captures; synthesis references, R03 options, R04 authority/pathways and R05 cost/benefit/funding/readiness and second-challenge scope/distribution/market/capacity/evidence boundaries; R06 option/disposition/delivery/benefit, buyer-method and second-challenge lifecycle/observation/talent/user boundaries; WP02 question mapping and project consistency. No final publication, participant testing, commercial validation, product trial, employer forecast or human fieldwork implied."
+  }
+}

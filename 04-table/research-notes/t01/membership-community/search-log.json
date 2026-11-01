@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-29",
+  "purpose": "T01 membership and practitioner-community bounded primary research",
+  "queries": [
+    {
+      "query": "site.cipp.org.uk business membership benefits payroll advisory membership price",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.conference-board.org human capital center membership councils research price",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.cipp.org.uk \"business membership\"",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.conference-board.org \"Human Capital Center\" \"membership\"",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.fosway.com \"HR Research Network\"",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.conference-board.org/councils \"Human Capital Analytics\" Europe membership",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.conference-board.org \"Human Capital Center Europe\" membership research",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.cipp.org.uk \"corporate\" \"membership\" payroll",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.payrollcentre.co.uk corporate membership payroll annual membership",
+      "engine": "web__run",
+      "status": "executed"
+    },
+    {
+      "query": "site.payroll.org research council membership research center",
+      "engine": "web__run",
+      "status": "executed"
+    }
+  ],
+  "primary_routes_inspected": [
+    "https://www.cipp.org.uk/membership.html",
+    "https://www.cipp.org.uk/membership/grades.html",
+    "https://www.cipp.org.uk/membership/meet-the-advisory-team.html",
+    "https://www.conference-board.org/eu/human-capital",
+    "https://www.conference-board.org/membership/",
+    "https://www.conference-board.org/councils",
+    "https://www.fosway.com/hrd/",
+    "https://www.conference-board.org/contact/terms-of-use",
+    "https://www.cipp.org.uk/about-us/terms-conditions.html",
+    "https://thepayrollcentre.co.uk/membership/",
+    "https://thepayrollcentre.co.uk/terms-and-conditions-of-business/"
+  ],
+  "additional_public_reader_route": {
+    "url": "https://www.gov.uk/running-payroll",
+    "use": "Context-only free official guidance alternative; no numeric/regulatory claim promoted and no separate source record created."
+  },
+  "screening_notes": [
+    "An overlong three-query reader output was truncated; selected primary pages were subsequently inspected and archived directly.",
+    "Fosway original retrieval returned HTTP403; do not treat as original capture.",
+    "Current primary package for PayrollOrg research council not established; not counted.",
+    "CIPP terms PDF linked from HTML index was not used.",
+    "No quote enquiries, private access, contact, account creation, forms or purchases."
+  ]
+}

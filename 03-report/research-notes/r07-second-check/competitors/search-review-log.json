@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-29",
+  "purpose": "All-six recruitment comparator and sponsor challenge of priority meaning/capability/remit rather than recruitment default",
+  "queries": [
+    "site.frazerjones.com payroll2026 skills future leadership careerdevelopment",
+    "site.oakleafpartnership.com MarketInsights PayrollReward2026",
+    "site.theportfoliogroup.com payroll2026 skills retention",
+    "site.middlemore.co.uk payroll upskilling retention priorities2026"
+  ],
+  "inspected": [
+    "Portfolio indexed primary article body with Canadian-author context; raw403 and later reader timeouts",
+    "FrazerJones written interview summary; originalreader180–225; raw403",
+    "Oakleaf17March2026 original MarketOverview; HTMLretained",
+    "Middlemore originalPayrollSearch25–39;HTMLretained",
+    "Hays live2026/2025methodology;HTMLincludingnoscript retained",
+    "RobertHalf live2027FAQ/method;HTMLretained",
+    "JGA originalreader2–13;raw403",
+    "Four exact prompts and ChatGPT repeat1 fullanswers;32text linkage checks"
+  ],
+  "screened_not_adopted": [
+    "CIPDnewHRpulse report indexnotfullmethod inspected",
+    "VistraUK-US survey pressrelease, not fulloriginalquestion/method",
+    "Oakleafaggregatedjobs list notcurrentvalidatedmandates or payrollinvestment",
+    "Frazer departmentstereotype article notused",
+    "No PDF, gatedreports, forms, contacts or modelreruns"
+  ],
+  "external_actions": []
+}

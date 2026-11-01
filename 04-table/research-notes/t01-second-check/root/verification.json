@@ -1,0 +1,14 @@
+{
+  "status": "passed_focused_primary_review",
+  "date": "2026-10-30",
+  "checked_paths": [
+    "04-table/research-notes/t01-second-check/root/captures/T1R2-S01-selected-reader.md",
+    "04-table/research-notes/t01-second-check/root/captures/T1R2-S02.html",
+    "04-table/research-notes/t01-second-check/root/captures/T1R2-S02.txt"
+  ],
+  "raw403_not_promoted": true,
+  "selected_reader_notes_not_original": true,
+  "actual_participant_records": 0,
+  "financial_inputs": 0,
+  "external_contact": false
+}

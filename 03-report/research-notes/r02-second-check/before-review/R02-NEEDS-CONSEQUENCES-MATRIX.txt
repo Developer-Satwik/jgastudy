@@ -1,0 +1,48 @@
+# Payroll operating needs and business consequences
+
+28 October 2026. R02 desktop synthesis. This is an evidence-informed analytical map, not a ranking of market demand or a table of new practitioner findings. Measures below are suggestions to investigate where already available; no values have been collected from JGA contributors.
+
+## The outcome distinctions
+
+Evaluate correct/timely employee payment, correct statutory reporting, reliable records/reconciliation and understandable employee service separately. A case can work well on one dimension and need improvement on another. Responsibility may span payroll, HR, managers, finance and providers.
+
+## Needs map
+
+| Need | Documented support and consequence | Desired outcome | Evidence or indicator to seek in a case | Claim references |
+| --- | --- | --- | --- | --- |
+| Timely complete authorised inputs | Employer audit evidence describes late/incomplete forms, advances and recovery work; the survey evidence reports perceived input problems. | Inputs arrive fit for use before the relevant cutoff, with a named owner for exceptions. | Input/approval timestamps, late amendments, rejected files and their actual downstream effect. | CLM-0158, CLM-0164, CLM-0178 |
+| Clear validation and payment approval | A service definition allocates customer checking/sign-off; employer records describe tightened approval and reconciliation activity. | Checks have clear owners and exceptions are acted on before release where possible. | Preview reviews, authorisation records, exception resolution and the point of detection. | CLM-0170, CLM-0171, CLM-0175 |
+| Correction and recovery capacity | Recorded underpayments required supplementary routes; advances and debtor recovery created additional tasks in another audit. | Correct the affected outcome, reconcile related records and learn from recurrence. | Correction events, age of unresolved items, time/effort estimates and completed recovery status. Principal payments are not administrative costs. | CLM-0174, CLM-0176, CLM-0178 |
+| Correct reporting identity and payment information | HMRC describes duplicate/wrong employment records and manual correction. DWP links inaccurate/late reporting with unexpected benefit payments. | Employee payment and statutory records are both correct; downstream exceptions are resolved. | Identifier/change controls, reconciled totals, correction records and a known consequence. No employee benefit-status collection is needed. | CLM-0179, CLM-0180, CLM-0182 |
+| Employee explanation and useful resolution | CIPP captures query types; service terms distinguish response/update from resolution; Acas recognises communication and correction needs. | The employee receives an understandable answer and the underlying issue is closed appropriately. | Query type, repeat contacts, response versus resolution timestamps, confirmed correction. Query count alone is not error incidence. | CLM-0157, CLM-0165, CLM-0170, CLM-0183 |
+| Reliable records and reconciliation | HMRC describes necessary supporting records; actual audits identify reconciliation/control work. | Information can be retrieved, explained and reconciled by the responsible person. | Records accessible to authorised roles, completed reconciliations, unresolved exceptions and follow-through. A report produced is not a control performed. | CLM-0175, CLM-0178, CLM-0181 |
+| Sustainable skills and operating coverage | Task/peer-benchmark evidence includes controls, analysis, projects and specialist support; one audit praises maintained service alongside capacity pressure. | Routine pay and essential controls do not depend on unplanned extra work or one unavailable skill. | Task mix, complexity, cover arrangements, overtime/interruptions where known and work displaced. Headcount ratio alone is insufficient. | CLM-0160, CLM-0162, CLM-0163, CLM-0177 |
+| An explicit employer/provider service boundary | Public definitions describe packages, exclusions, employer duties and escalation. Dated assurance tiers show some control support is already offered. | Both sides understand included work, retained work, access and exception ownership. | Actual scope/entitlement, input duties, authorised contacts, handoffs and the observed gap. Published scope is not delivered performance. | CLM-0169, CLM-0170, CLM-0171, CLM-0172, CLM-0173 |
+| Reporting that answers a real decision | Surveys describe performance tracking, technical support and visibility needs. Their measures do not show what a particular buyer should purchase. | A responsible user can answer a defined question in time to act. | The decision, its user, required information, freshness, data owner and action taken. A dashboard is only one possible response. | CLM-0158, CLM-0163, CLM-0166 |
+
+## Identify the kind of gap before the response
+
+For every concrete need, distinguish not-known-to-be-available capability, unsuitable fit, excluded scope, affordability/value, data/readiness, capacity/skills, unclear ownership, not evaluated/proposed, or an adequate arrangement. Explanations can overlap. A participant's belief that something is unavailable is not an audit of the market.
+
+Potential responses include clearer ownership, changing the input/control process, adjusting configuration or service scope, better evidence/communication, additional capability or a different technology/service. These are conditional options for later investigation. R03 will examine trade-offs; R02 does not choose suppliers or establish that a purchase is warranted.
+
+## How to assess materiality without an invented score
+
+Ask what is actually affected: people or records, timing, recurrence, worker consequence, control exposure, effort and displaced work. Record whether the account is measured, estimated or an impression, and what remains unknown. A rare serious payment issue and a frequent routine query need different treatment.
+
+Do not manufacture weights or rank the profession's needs from these sources. Evidence of actual harm or a time-critical obligation warrants investigation in the relevant case; frequency, scale, remedy and ownership still require context. A published staffing ratio or response target does not supply a universal threshold.
+
+## Quantities to keep separate
+
+- Gross overpayment, amount recovered, amount outstanding and written-off loss.
+- Remedial advance/supplementary payment principal and the resource cost of administering it.
+- An internal charge or policy rate and a measured economic cost.
+- A service target, achieved response, achieved resolution and corrected employee outcome.
+- Time released, use of the released capacity and an actual reduction in expenditure.
+- Self-reported agreement, audited performance and absence of an adverse incident.
+
+This protects both the business case and the practical recommendation. No quantified retention ROI, national error rate, universal staffing norm or cost-per-error estimate is established by this module.
+
+## Source use
+
+The canonical source and claim registers retain original routes, populations, dates, locators and numerical holds. The two new employer examples are public-sector cases, not a representative private-market sample. Service documents establish declared scope; guidance establishes mechanisms/responsibilities; surveys describe answers from their stated populations. Original practitioner input will add the case-specific need, consequence, response and result.

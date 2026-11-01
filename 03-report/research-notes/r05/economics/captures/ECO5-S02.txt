@@ -1,0 +1,511 @@
+1: Investment appraisal | ACCA Global
+2: The global body for professional accountants
+3: About us
+4: Search jobs
+5: Find an accountant
+6: Technical resources
+7: Help & support
+8: Apply now
+9: MyACCA
+10: Global
+11: Americas
+12: Europe
+13: Middle East
+14: Africa
+15: Asia
+16: Americas
+17: Canada
+18: USA
+19: Bahamas
+20: Barbados
+21: Bermuda
+22: Cayman Islands
+23: Guyana
+24: Jamaica
+25: OECS
+26: Trinidad & Tobago
+27: Virgin Islands (British)
+28: Europe
+29: United Kingdom
+30: Ireland
+31: Armenia
+32: Azerbaijan
+33: Belarus
+34: Czech Republic
+35: Estonia
+36: Georgia
+37: Hungary
+38: Latvia
+39: Lithuania
+40: Poland
+41: Russia
+42: Slovakia
+43: Ukraine
+44: Middle East
+45: United Arab Emirates
+46: Oman
+47: Bahrain
+48: Kuwait
+49: Saudi Arabia
+50: Egypt
+51: Jordan
+52: Iran
+53: Yemen
+54: State of Palestine
+55: Iraq
+56: Lebanon
+57: Syrian Arab Republic
+58: Africa
+59: Nigeria
+60: South Africa
+61: Zambia
+62: Zimbabwe
+63: Mauritius
+64: Ghana
+65: Uganda
+66: Kenya
+67: Malawi
+68: Botswana
+69: Africa (other)
+70: Asia
+71: Australia
+72: Bangladesh
+73: China
+74: Hong Kong SAR of China
+75: India
+76: Malaysia
+77: New Zealand
+78: Pakistan
+79: Singapore
+80: Sri Lanka
+81: Vietnam
+82: Can't find your location/region listed?
+83: Please visit our global website instead
+84: Begin your accountancy journey
+85: Getting started.
+86: Find your starting point
+87: Discover our qualifications
+88: Taking exams
+89: Learn how to apply
+90: Tuition options
+91: Approved learning partners
+92: University options
+93: Free and affordable tuition
+94: Tuition styles
+95: Your career
+96: Why choose accountancy?
+97: Explore sectors and roles
+98: Why ACCA?
+99: Student stories and guides
+100: Sign-up to our industry newsletter
+101: Our qualifications
+102: The future ACCA Qualification
+103: Apply to become an ACCA student
+104: Why choose to study ACCA?
+105: Where can I study ACCA?
+106: How can I study ACCA?
+107: ACCA Membership and Fellowship
+108: Career Navigator
+109: ACCA Advantage: UK university programme
+110: ACCA accountancy qualifications
+111: Getting started with ACCA
+112: Early careers
+113: AAT to ACCA
+114: Foundations in accountancy
+115: Working and studying internationally
+116: Fees and charges
+117: ACCA Learning
+118: Sustainability and ESG training courses
+119: Data and digital finance courses
+120: Public sector accounting courses
+121: Audit and assurance courses online
+122: Financial management and leadership training
+123: ACCA Learning ezine
+124: Learning advice
+125: Sign-up to our industry newsletter
+126: Employers
+127: Why train your staff with ACCA?
+128: Benefits of training with ACCA
+129: Recruit finance talent with ACCA Careers
+130: What is ACCA Careers?
+131: Key features of ACCA Careers
+132: Virtual careers fairs
+133: Train and develop finance talent
+134: Expert-led, In-house, customised training solutions for employers
+135: Cost-effective finance learning with ACCA-X
+136: Accountancy qualifications for your business
+137: What skills does the ACCA Qualification develop?
+138: CPD for your ACCA members
+139: ACCA Apprenticeships
+140: About apprenticeships
+141: Our apprenticeships
+142: Costs and funding
+143: Recruiting an apprentice
+144: FAQs
+145: Resource centre
+146: ACCA Approved Employer programme
+147: What is the Approved Employer programme?
+148: Structure of the ACCA Approved Employer programme
+149: Benefits of becoming an ACCA Approved Employer
+150: Start your application
+151: Help with your ACCA Approved Employer application
+152: Find an ACCA Approved Employer in our directory
+153: Approved Employer testimonials
+154: Mergers, acquisitions and your ACCA Approved Employer status
+155: Employer support | Employer support services
+156: Future-proof your organisation with ACCA training
+157: Resources for ACCA members and students
+158: Disability and inclusion
+159: Resources to help your organisation stay one step ahead | ACCA
+160: Learn how we help businesses
+161: What do employers think about ACCA?
+162: Sector resources | ACCA Global
+163: Public Sector Employers | ACCA Global
+164: SMP Employers | ACCA Global
+165: SSO Employers | ACCA Global
+166: BFSI Employers | ACCA Global
+167: Learning providers
+168: The future ACCA Qualification
+169: Support for Approved Learning Partners
+170: Course management
+171: Delivering a quality student experience
+172: Sales and marketing support
+173: Becoming an ACCA Approved Learning Partner
+174: Silver Learning Partner
+175: Gold Approved Learning Partner
+176: Platinum Approved Learning Partner
+177: Support for Approved Learning Partners
+178: Tutor support
+179: Global Educator Conference 2026
+180: CBE Practice Platform
+181: Digital Train the Trainer
+182: Digital Train the Marker
+183: Educator Hub
+184: English and maths skills
+185: PER guidance and resources
+186: Teach Accounting e-Magazine
+187: June 2026 support roundup
+188: ACCA Study Hub for learning providers
+189: Computer-Based Exam (CBE) centres
+190: CBE (Computer-Based-Exam) Licence details and fee
+191: Applying for a CBE (Computer-Based Exam) Licence
+192: Renew your Computer-Based Exam (CBE) Licence
+193: The CBE Lounge - support resources for licensed CBE centres
+194: ACCA Content Partners
+195: Teaching resources
+196: Registered Learning Partner
+197: Exemption accreditation
+198: Information about the exemption accreditation programme
+199: Benefits of exemption accreditation and resources to help
+200: Apply for exemption accreditation
+201: Recognition of ACCA qualifications
+202: University partnerships
+203: Benefits of an ACCA partnership
+204: Tuition options
+205: Approved learning partners
+206: University options
+207: Free and affordable tuition
+208: Tuition styles
+209: Members
+210: CPD events and resources
+211: Your CPD
+212: Your guide to CPD
+213: Find CPD resources
+214: Managing your CPD
+215: Your membership
+216: Managing your membership
+217: Your place on the register
+218: Lifetime membership (retirement)
+219: Fellowship
+220: Member recognition agreements for ACCA members
+221: Apply for ACCA membership from other bodies
+222: Our Benevolent Fund
+223: Qualifications from our partners
+224: Membership certificate
+225: Are you ready for membership
+226: New to membership?
+227: Membership benefits
+228: Professional qualification recognition
+229: Member networks
+230: AB magazine
+231: Sectors and industries
+232: Big 4 and Mid-tiers
+233: Public practice and SMP
+234: Internal audit
+235: Public sector
+236: Financial services sector
+237: Corporate and SME sector
+238: Practising certificates and licences
+239: Do I need a practising certificate?
+240: Become a registered auditor in South Africa
+241: Sustainability Assurance Service Provider (Ireland)
+242: Other licences and practice information
+243: Practising certificate and licensing renewals
+244: Preparing to become a UK statutory auditor
+245: Exempt regulated activities (UK)
+246: Practice information handbook
+247: Practitioner forms
+248: Practising certificate and licensing fees and charges
+249: Regulation and standards
+250: Auditing and reporting standards
+251: Factsheets and guidelines
+252: Monitoring and statutory regulation
+253: Advocacy and mentoring
+254: Early Careers Ambassador Hub
+255: Become an advocate
+256: Become a PER practical experience supervisor
+257: ACCA Mentoring Programme
+258: Council, elections and AGM
+259: The role of Council
+260: Today's Council
+261: Standing for election to Council
+262: Annual General Meeting (AGM)
+263: Wellbeing
+264: Mental health
+265: Lifestyle
+266: Wellbeing at work
+267: External resources
+268: Career support services
+269: Unlock career success webinar series
+270: Your membership
+271: Students
+272: The future ACCA Qualification
+273: Getting started with ACCA
+274: On Your Marks Podcast
+275: Student readmission
+276: Connect with ACCA
+277: MyACCA - your personalised ACCA account
+278: Qualification structure
+279: Important dates and exam entry deadlines
+280: Fees
+281: Exemptions
+282: Rules and standards for students
+283: Student Accountant app: your essential guide to your ACCA journey
+284: Moving to the ACCA Qualification
+285: Administration applications and forms - students
+286: Welcome to ACCA
+287: Preparing for exams
+288: Planning your route
+289: Getting started with exams
+290: Establishing good study habits
+291: Returning to study
+292: Preparing for exams
+293: Study support resources
+294: Exams
+295: About our exams
+296: Preparing for exams
+297: Book an exam
+298: Exam attendance docket
+299: Exam results
+300: Exam timetables
+301: Rules and regulations
+302: Bad weather arrangements
+303: Practical experience
+304: 36 months' practical experience
+305: Performance objectives
+306: Practical experience supervisors
+307: Recording experience
+308: Approved Employers
+309: Students' FAQs on the PER (Practical Experience Requirement)
+310: Practical experience for Foundation Level
+311: Our ethics modules
+312: Ethics and professional skills module
+313: Foundations in professionalism
+314: Ethics module rules
+315: Student Accountant
+316: Study skills
+317: Professional skills
+318: null
+319: Features
+320: Subscribe to Student Accountant Direct
+321: Student podcasts and vodcasts
+322: Regulation and standards for students
+323: Qualification integrity
+324: Wellbeing
+325: Mental health
+326: Lifestyle
+327: Community support
+328: Study well
+329: Coping with exams
+330: Wellbeing at work
+331: Career support resources
+332: Affiliates
+333: The future ACCA Qualification
+334: Completing your EPSM
+335: Completing your PER
+336: Changes to PER
+337: Finding a great supervisor
+338: Remote practical experience supervisor programme
+339: Choosing the right objectives for you
+340: Mapping performance objectives to exams
+341: Regularly recording your PER
+342: The next phase of your journey
+343: Apply for membership
+344: Your future once qualified
+345: Your subscription
+346: Reduced subscriptions
+347: Mentoring and networks
+348: Advance e-magazine
+349: Features and profiles
+350: Careers advice
+351: PER progress
+352: Soft skills
+353: Affiliate video support
+354: Career support resources
+355: Policy and insights
+356: Key focus areas
+357: Finance transformation and risk
+358: Audit, assurance and reporting
+359: Public sector
+360: SMEs and small practices
+361: Skills and talent
+362: Global economy and tax
+363: Sustainability and ESG
+364: AI and technology
+365: Explore ACCA policy and insights
+366: Policy and public affairs
+367: ACCA identifies opportunities to enhance EU skills portability
+368: Strengthening skills and governance in Bangladesh
+369: Collaboratively advancing sustainability in Nigeria
+370: Driving forward sustainability in Africa
+371: Driving the AI assurance conversation at Global AI summit
+372: Helping ASEAN shape sustainability reporting
+373: ACCA drives focus on UK late payment rules
+374: Driving the ESG conversation at an international conference
+375: Policy and insights reports
+376: 2026 reports
+377: 2025 reports
+378: 2024 reports
+379: 2023 reports
+380: 2022 reports
+381: 2021 reports
+382: 2020 reports
+383: Global economic conditions survey
+384: Global talent trends
+385: Our Policy and insights team
+386: ACCA global forums
+387: The ACCA Accountancy Futures Academy
+388: Accountants for Business Global Forum
+389: ACCA Global Forum for Audit and Assurance
+390: ACCA Global Forum for Business Law
+391: ACCA Global Forum for Corporate Reporting
+392: ACCA Global Forum for Education
+393: ACCA Global Forum for Ethics
+394: ACCA Global Forum for Governance, Risk and Performance
+395: ACCA Global Forum for the Public Sector
+396: ACCA Global Forum for SMEs
+397: ACCA Global Forum for Sustainability
+398: ACCA Global Forum for Taxation
+399: ACCA Global Forum for Technology
+400: Take part in our research
+401: Sustainability reporting hub
+402: Overview guidance - creating sustainability information
+403: Sustainability reporting: the guide to preparation
+404: Sustainability reporting: SME guide to preparation
+405: Workshops to help implement the sustainability information production cycle
+406: IFRS Sustainability Disclosure Standards: video explainers
+407: Making information connections for sustainable value creation
+408: Sustainability reporting: risk and materiality
+409: Q&A - The EU Omnibus Package
+410: Sustainability reporting: track your progress to create decision-useful information
+411: The SDGs: redefining context, risk and opportunity
+412: Investment appraisal.
+413: Home
+414: Students
+415: Study resources
+416: Professional Diploma in Sustainability
+417: Technical articles
+418: Investment appraisal
+419: Investment appraisal is fundamental area in accounting. The methods of investment appraisal are payback, accounting rate of return and the discounted cash flow methods of net present value (NPV) and internal rate of return (IRR).
+420: The most important of these methods, both in the real world and in the Professional Diploma in Sustainability, is NPV.
+421: The aim of this article is to briefly discuss the key areas to look out for in an NPV and then work a comprehensive example which builds them all in. Technically the example is likely harder than any examination question is likely to be. It does demonstrate as many of the issues that ProDipSust candidates might face as is possible, however it is important to note that examination questions will be in a scenario format and hence finding the information required may be slightly more challenging than in the example shown.
+422: Key areas
+423: Relevant/irrelevant cashflows
+424: Candidates should remember the ‘Golden Rule’ which states that to be a relevant cash flow an item must be a future, incremental cash flow. Irrelevant items to look out for are sunk costs such as amounts already spent on research and apportioned or allocated fixed costs or notional costs such as depreciation. Equally all financing costs should be ignored as the cost of financing is accounted for in the discount rate used.
+425: Inflation
+426: Candidates must be aware of the two different methods of dealing with inflation and when they should be used. The money method is where inflation is included in both the cash flow forecast and the discount rate used while the real method is where inflation is ignored in both the cash flow forecast and the discount rate. The money method should be used as soon as a question has cash flows inflating at different rates or where a question involves both tax and inflation. Because of this the money method is commonly required.
+427: Taxation
+428: Building taxation into a discounted cash flow answer involves dealing with ‘the good, the bad and the ugly’! The good news with taxation is that tax relief is often granted on the investment in assets which leads to tax saving cash flows. The bad news is that where a project makes net revenue cash inflows the tax authorities will want to take a share of them. The ugly issue is the timing of these cash flows as this is an area which often causes confusion.
+429: Working capital
+430: The key issue that must be remembered here is that an increase in working capital is a cash outflow. If a company needs to buy more inventories, for example, there will be a cash cost. Equally a decrease in working capital is a cash inflow. Hence at the end of a project when the working capital invested in that project is no longer required a cash inflow will arise. Candidates must recognise that it is the incremental change in working capital that is the cash flow.
+431: Having reminded you of the key areas let us now consider a comprehensive example:
+432: CBS Co
+433: CBS Co is considering a new investment which would start immediately and last four years.
+434: The company has gathered the following information:
+435: The cost of the asset will be Asset $160,000.
+436: Annual sales are expected to be 30,000 units in Years 1 and 2 and will then fall by 5,000 units per year in both Years 3 and 4.
+437: The selling price in the first year is expected to be $4.40 per unit and this is then expected to inflate by 3% per annum.
+438: The variable costs are expected to be $0.70 per unit in current terms and are expected to inflate at 5% per annum.
+439: Incremental fixed costs in the first year are expected to be $0.30 per unit in current terms and are expected to inflate at 5% per annum.
+440: The asset is expected to have a residual value (RV) of $40,000 in money terms.
+441: The project will require working capital investment equal to 10% of the expected sales revenue. This investment must be in place at the start of each year.
+442: Corporation tax is 30% per annum and is paid one year in arrears. 25% reducing balance writing-down allowances are available on the asset cost.
+443: The money cost of capital is 12%.
+444: $12,000 has already been spent on initial research.
+445: Required: Calculate the NPV of the proposed investment.
+446: Solution and explanatory notes:
+447: Many candidates can fall into the trap of starting the NPV too quickly. Initially there are a number of workings or ‘thinkings’ that should be carried out. These workings can generally be carried out in any order. Once they are completed it will be possible to prepare the NPV calculation quickly and accurately.
+448: Before going further candidates must understand the difference between a ‘T’ and a Year. A ‘T’ is a point in time and hence T0 is now and T1 is in one year’s time. A year is a period of time and hence Year 1 is the period between T0 and T1 and Year 2 is the period between T1 and T2. Please note T1 is both the end of Year 1 and the start of Year 2.
+449: Working 1 – Tax benefits on tax allowable depreciation (TAD)
+450: The usual assumption is that an asset is bought at the start of the first year of the project and, hence, the first TAD is available for Year 1.
+451: The allowance and tax saving for Year 1 will be calculated at the end of Year 1 which is T1 and as tax is paid one year in arrears the timing of the cash flow will be one year later which is T2.
+452: Rounding is a key technique in your exam as it saves time and by keeping the numbers simple fewer mistakes will be made. Here it has been decided to round in thousands and use one decimal place.
+453: Candidates must ensure that they can calculate tax savings using different tax regimes. For instance the next problem you face may have tax allowances granted on a straight-line basis and the tax could be payable immediately at each year end.
+454: Working 2 – Working capital (WC)
+455: Notes:
+456: As the investment in working capital is based on the expected sales revenue this has to be calculated first. Please note how the price per unit was given in first-year terms and hence that figure has been used for Year 1. In the following years, the forecast inflation has been included. You should note the cumulative nature of inflation.
+457: The working capital need is simply calculated as the stated % of sales revenue. When calculating the working capital cash flows it is the change in the working capital need which is the cash flow. Hence for Year 1 the need is 13.2 and as nothing has previously been invested the cash flow is an outflow of 13.2. In Year 2 the need has risen to 13.6 but as 13.2 has already been invested the cash flow is just an outflow of 0.4 – the increase in the need. In Years 3 and 4 the need decreases and hence cash inflows arise.
+458: As the working capital is required at the start of each year the cash flow for Year 1 will occur at T0 and the cash flow for Year 2 will occur at T1, etc. Finally at the end of the project any remaining investment in working capital is no longer required and generates a further cash inflow at T4. The sum of the working capital cash flow column should total zero as anything invested is finally released and turns back into cash.
+459: Other potential workings:
+460: A working could be shown for the variable and fixed costs. However, this can be time consuming, and enough detail can often be shown on the face of the NPV proforma.
+461: The $12,000 of initial research cost is ignored as it has already been spent. Hence it is a sunk cost and is not relevant to the analysis of the future project.
+462: The NPV proforma
+463: Click to enlarge
+464: It is estimated that the project has a positive NPV of $88,300 and hence it should be accepted as it will add to shareholder wealth.
+465: Notes:
+466: As tax is paid one year in arrears the years in the NPV proforma are taken to T5 even though it is only a four-year project. The NPV proforma should be split into a ‘Revenue’ section and a ‘Capital’ section. In the ‘Revenue’ section all the taxable revenues and tax allowable costs are shown. In the ‘Capital’ section all the cash flows relating to the asset purchase and other cash flows which have no impact on tax are shown. Candidates should ensure that they put brackets around negative cash flows as otherwise negative items may be treated as if they are positive when the cash flows are totalled.
+467: The annual sales revenue figures are brought forward from Working 2. Note the normal assumption that the revenue for a year arises at the end of the year – hence the revenue for Year 1 is shown at T1. This assumption also applies to the variable and fixed costs.
+468: The variable costs for each year are based on the sales units for the year, the price per unit and the inflation rate for costs. Note that as the cost was given in current terms, which is as at T0 and the first costs are recorded at T1, the inflation rate at 5% has to be accounted for immediately. You should contrast this with the inflation of the sales revenue in Working 2.
+469: The fixed costs are relevant as they are said to be incremental. The cost per unit for the first year has been given and this is multiplied by the forecast sales in Year 1 to give the total incremental fixed costs. Like the variable costs the cost per unit was given in current terms and hence inflation must be accounted for immediately. From Year 1 onwards the fixed costs have continued to be inflated by the relevant inflation rate of 5%. You must remember that fixed costs are fixed and do not change as the activity level changes. In this way you will avoid the common error which is to treat the fixed costs as though they were variable.
+470: The tax is calculated at 30% of the net revenue cash flows. As tax is paid one year in arrears the tax for Year 1 which is calculated at the end of Year 1 (T1) will become a cash flow at T2. This pattern continues in the following years.
+471: The residual value was given in money terms and hence already reflects the impact of inflation. The normal assumption is that the asset is disposed of on the last day of the last year of the project and hence the cash inflow is shown at T4.
+472: The tax benefits on TAD are brought forward from Working 1. Please be careful to show them in the correct column given their respective timings. Also please remember that these are the ‘good news of tax’ and so are cash inflows.
+473: The working capital cash flows are brought forward from Working 2. They are shown in the ‘Capital’ section as they do not have any tax impact. If they were put in the ‘Revenue’ section, they would change the net revenue cash flows, and this would impact on the tax calculated which would be incorrect.
+474: The discount factors are found in the tables provided. The money cost of capital has been given as 12%.
+475: The present values are found by multiplying the total net money cash flows by the discount factors shown.
+476: The NPV is simply the sum of the present values calculated. You should always comment on what the NPV calculated is indicating about the viability of the project.
+477: As indicated previously this is a very comprehensive example which includes many of the key matters which could be presented.
+478: Adapted from an article by William Parrott for the Financial Management exam
+479: Advertisement
+480: Our sites
+481: Our sites
+482: MyACCA
+483: ACCA Learning
+484: ACCA Careers
+485: ACCA Career Navigator
+486: Useful links
+487: Useful links
+488: ACCA-X online courses
+489: Find an accountant
+490: ACCA Rulebook
+491: News
+492: Work for us
+493: Most popular
+494: Most popular
+495: Policy and insights
+496: ACCA Qualification
+497: Member events and CPD
+498: Supporting Ukraine
+499: Past exam papers
+500: ACCA Mail
+501: Join us on LinkedIn
+502: Follow us on Twitter
+503: Follow us on YouTube
+504: TikTok
+505: Find us on Facebook
+506: Accessibility
+507: Legal policies
+508: Data protection & cookies
+509: Advertising
+510: Site map
+511: Contact us

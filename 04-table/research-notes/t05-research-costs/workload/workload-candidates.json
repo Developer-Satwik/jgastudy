@@ -1,0 +1,653 @@
+{
+  "date": "2026-10-31",
+  "status": "independent_workload_candidates_for_root_review_not_adopted_budget",
+  "purpose": "First T05 research/staffing module, future equivalent complete report only.",
+  "assumption_id_prefix": "T5R-W",
+  "basis_documents": [
+    "00-control/scope-baseline.json",
+    "04-table/T02-delivery-map.json",
+    "04-table/T04-INPUT-AND-MODEL-RULES.md",
+    "01-method/FIELDWORK-PLAN.md",
+    "03-report/R08-REPORT-INTEGRATION.md"
+  ],
+  "current_contract": {
+    "currency": "USD",
+    "total": 1500,
+    "report": 1000,
+    "Table_feasibility": 500,
+    "user_reported_upfront": 750,
+    "remaining_completion_triggered": 750,
+    "not_future_rate_quote": true
+  },
+  "scenario_definitions": [
+    {
+      "scenario": "low",
+      "usable_contributors": 6,
+      "meaning": "Reusable method/design; readily available primary evidence and introduced participants; lower within-scope complexity."
+    },
+    {
+      "scenario": "base",
+      "usable_contributors": 8,
+      "meaning": "Middle planning case; moderate evidence updating, coordination and editorial work."
+    },
+    {
+      "scenario": "high",
+      "usable_contributors": 10,
+      "meaning": "Greater within-scope complexity, conflicting evidence, participant handling and revisions; not an upper limit."
+    }
+  ],
+  "report_provider_tasks": [
+    {
+      "workload_id": "WR01",
+      "task": "Scope, reader and method update",
+      "proposed_role": "Research lead",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 4,
+        "base": 6,
+        "high": 10
+      },
+      "T02_work_ids": [
+        "DW01"
+      ],
+      "basis": "Adapt an existing usable research structure, confirm reader/decision scope and plan the evidence work.",
+      "boundary": "Reusing a framework does not make old findings current. No client approval or completed future edition assumed.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR02",
+      "task": "Desktop evidence collection and screening",
+      "proposed_role": "Research analyst",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 16,
+        "base": 24,
+        "high": 36
+      },
+      "T02_work_ids": [
+        "DW01"
+      ],
+      "basis": "Focused new/update search, primary-source reading, extraction, contrary evidence and reference maintenance.",
+      "boundary": "Includes useful evidence work, not repeating every internal check/file from the present project; paid datasets excluded unless separately selected.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP02"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR03",
+      "task": "Guide and record preparation",
+      "proposed_role": "Research lead/coordinator",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 3,
+        "base": 5,
+        "high": 8
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ],
+      "basis": "Refresh the stable 14-question core/routing, forms, participant information and structured note/coding records for this edition.",
+      "boundary": "Does not change the core or authorise data collection. New material method changes may need more effort.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP03"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR04",
+      "task": "Research recruitment setup and coordination",
+      "proposed_role": "Research coordinator",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 2,
+        "base": 4,
+        "high": 6
+      },
+      "T02_work_ids": [
+        "DW05"
+      ],
+      "basis": "Plan introduction handoff, calendar, reminders and status review using JGA-provided routes.",
+      "boundary": "Not a recruitment guarantee. Variable individual handling is WR05; unsuccessful chasing beyond this assumed effort requires reforecast.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP03"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR05",
+      "task": "Individual scheduling, permission administration and clearance routing",
+      "proposed_role": "Research coordinator",
+      "unit": "per_usable_contributor",
+      "planning_hours": {
+        "low": 0.5,
+        "base": 0.75,
+        "high": 1.25
+      },
+      "T02_work_ids": [
+        "DW05"
+      ],
+      "basis": "Allow individual arrangements, eligibility record handling, permission choices and necessary review routing.",
+      "boundary": "Model completed usable contributors as a workload driver only; this is not a conversion-rate assumption. Extra unsuccessful attempts remain additional work if incurred.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP03"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR06",
+      "task": "Contribution collection and structured note",
+      "proposed_role": "Research lead/interviewer",
+      "unit": "per_usable_contributor",
+      "planning_hours": {
+        "low": 1.25,
+        "base": 1.75,
+        "high": 2.5
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ],
+      "basis": "Preparation, a short structured interview or equivalent written handling, prompt note completion and clarifying follow-up.",
+      "boundary": "Not a promised interview duration. No recording/transcription or identifiable-data AI service assumed.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP03"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR07",
+      "task": "Contribution coding and comparison preparation",
+      "proposed_role": "Qualitative analyst",
+      "unit": "per_usable_contributor",
+      "planning_hours": {
+        "low": 0.75,
+        "base": 1.25,
+        "high": 2
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW05"
+      ],
+      "basis": "Code usable material, record missing/contrary input and prepare cross-case comparison.",
+      "boundary": "Do not add a second full coding charge merely because the same permitted account informs Table analysis; extra Table-specific work stays separate.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP03",
+        "DEP04"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR08",
+      "task": "Cross-case synthesis and Decision Framework",
+      "proposed_role": "Research lead",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 8,
+        "base": 14,
+        "high": 22
+      },
+      "T02_work_ids": [
+        "DW01"
+      ],
+      "basis": "Integrate desktop and original input, test contradictions, construct the supported Decision Framework and chapter logic.",
+      "boundary": "Small purposive input is not representative benchmarking. This is synthesis effort, with prose drafting in WR09.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP02",
+        "DEP04"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR09",
+      "task": "Full narrative, executive summary and commercial preview",
+      "proposed_role": "Research writer",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 18,
+        "base": 28,
+        "high": 44
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW02"
+      ],
+      "basis": "Draft the complete agreed report, concise summary and two-page preview using the working two-part/eight-chapter structure.",
+      "boundary": "No arbitrary report word/page ceiling; changed agreed length or evidence complexity requires reforecast. Research collection/synthesis are separate rows.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP04"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR10",
+      "task": "Substantive fact, source, quotation and rights check",
+      "proposed_role": "Research/editorial reviewer",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 8,
+        "base": 12,
+        "high": 18
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW04"
+      ],
+      "basis": "Check consequential statements, reference links, participant/publication limits, exact quotations and evidence-to-claim fit.",
+      "boundary": "Not legal advice or a new ownership veto. WR05 administration and this publication review are distinct tasks; do not repeat the same clearance effort.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP02",
+        "DEP03",
+        "DEP04"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR11",
+      "task": "Copyediting and proofreading",
+      "proposed_role": "Editor",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 6,
+        "base": 10,
+        "high": 16
+      },
+      "T02_work_ids": [
+        "DW01"
+      ],
+      "basis": "Improve language, consistency, tables and references; proof the final narrative/layout.",
+      "boundary": "Editorial hours are a separate work package, not a second full research rewrite.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP04"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR12",
+      "task": "JGA design and editable report assets",
+      "proposed_role": "Report/graphic designer",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 10,
+        "base": 16,
+        "high": 26
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW04"
+      ],
+      "basis": "Design report PDF/Word, reusable original graphic assets and report chart-data files; incorporate summary and preview consistently.",
+      "boundary": "Uses reusable design system and evidence-supported graphics. Excludes a website, Table financial workbook and invented quantitative charts.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP04",
+        "DEP06"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR13",
+      "task": "One consolidated editorial revision allowance",
+      "proposed_role": "Research/editorial lead",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 5,
+        "base": 8,
+        "high": 14
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ],
+      "basis": "Process one coordinated feedback set, revise within the agreed outline and propagate affected files.",
+      "boundary": "Included contractual remedy work is not a new billable service. Allowance is planning effort, not a cap on corrections or an automatic surcharge.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR14",
+      "task": "Final format/data QA and portable handover",
+      "proposed_role": "Production analyst",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 4,
+        "base": 6,
+        "high": 10
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ],
+      "basis": "Check exports, links, reusable chart data, editable assets, evidence/method templates and handover index.",
+      "boundary": "Report supporting Excel data only; no duplicate charge for separate Table financial-model production.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP05",
+        "DEP06"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR15",
+      "task": "Provider project coordination",
+      "proposed_role": "Project coordinator",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 4,
+        "base": 6,
+        "high": 10
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ],
+      "basis": "Manage actual dependencies, client checkpoints, issue tracking and final handover coordination.",
+      "boundary": "Own labour only. JGA-side decision/review time is retained resource cost, not the same person charged twice.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP03",
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "WR16",
+      "task": "First-edition research pricing and use-option preparation",
+      "proposed_role": "Research/commercial analyst",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 3,
+        "base": 5,
+        "high": 8
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW04",
+        "DW08"
+      ],
+      "basis": "Prepare evidence-supported report pricing/licensing options and appropriate commercial preview use.",
+      "boundary": "Count a common analysis once if it also informs Table feasibility. This row is not the full six-comparable Table assessment, sponsor sales or contract advice.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP04",
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    }
+  ],
+  "JGA_retained_tasks": [
+    {
+      "workload_id": "JG01",
+      "task": "Reader scope, context and priorities",
+      "proposed_role": "JGA project sponsor",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 1.5,
+        "base": 3,
+        "high": 5
+      },
+      "T02_work_ids": [
+        "DW01"
+      ],
+      "basis": "Provide operating context, decide focus and resolve questions.",
+      "boundary": "Proposed retained time, no named person or date assigned.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "JG02",
+      "task": "Introductions, eligibility context and follow-through",
+      "proposed_role": "JGA relationship/recruitment owner",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 4,
+        "base": 7,
+        "high": 12
+      },
+      "T02_work_ids": [
+        "DW05"
+      ],
+      "basis": "Identify suitable introductions, provide relevant role context and assist when contact stalls.",
+      "boundary": "Planning block, not an assumed conversion funnel or guaranteed number of recruitable contacts. More chasing can increase actual effort.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP03"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "JG03",
+      "task": "Subject-matter and factual review",
+      "proposed_role": "JGA subject-matter reviewer",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 4,
+        "base": 7,
+        "high": 12
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW04"
+      ],
+      "basis": "Review consequential payroll/employer interpretation and JGA supplied material.",
+      "boundary": "Retained expertise does not replace independent fact checking. Review time can overlap with other JGA tasks only if actual work is the same.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "JG04",
+      "task": "Consolidated feedback and decisions",
+      "proposed_role": "JGA review coordinator",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 2,
+        "base": 4,
+        "high": 6
+      },
+      "T02_work_ids": [
+        "DW01",
+        "DW08"
+      ],
+      "basis": "Coordinate Nick/Mark feedback and agreed within-scope decisions.",
+      "boundary": "Client time alongside provider WR13, not an extra provider invoice.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    },
+    {
+      "workload_id": "JG05",
+      "task": "Publication approval and handover decisions",
+      "proposed_role": "JGA publication owner",
+      "unit": "per_edition",
+      "planning_hours": {
+        "low": 1,
+        "base": 2,
+        "high": 3
+      },
+      "T02_work_ids": [
+        "DW04",
+        "DW08"
+      ],
+      "basis": "Confirm final publication/rights choices and practical receipt of assets.",
+      "boundary": "No approval, acceptance or publication permission presumed by the hours.",
+      "actual_hours": null,
+      "staff_assigned": false,
+      "capacity_confirmed": false,
+      "market_rate": null,
+      "evidence_status": "analyst_effort_assumption_not_observed_work",
+      "dependency_ids": [
+        "DEP01",
+        "DEP05"
+      ],
+      "confidence": "untimed_analyst_planning_assumption"
+    }
+  ],
+  "actual_timesheets": [],
+  "actual_staffing": [],
+  "rates": [],
+  "new_commission_price": null,
+  "financial_register_rows_added": 0,
+  "new_signed_deliverables": [],
+  "external_actions": [],
+  "scope_guards": [
+    "Current agreed ordinary research, analysis, writing, design and handover are included in the existing fixed fee; these hours do not authorise an extra charge.",
+    "For current JGA cash cost, use the applicable commission allocation once. Producer bottom-up hours are a future resource scenario/possible sourcing alternative, not an amount to add on top for the same contracted work.",
+    "For a future edition, select an actual supplier fee or bottom-up priced production tasks as the external-cost method, or clearly reconcile the actual subcontracted split; never blindly add both.",
+    "JGA retained time is additional full-resource effort and may be existing salary rather than extra cash. Rates/cash classification remain unchosen.",
+    "Contributor target is not the number of introductions, attempts, responses, permission clearances or selected citations. Distinct actual people count once.",
+    "The working eight-chapter structure and final length remain subject to the existing outline agreement; no fixed new word/page promise.",
+    "No participant incentive, tool purchase, paid dataset, bespoke legal review, translation or travel is included as a verified zero. These remain applicable-scope decisions.",
+    "Effort can exceed the high case. No timed pilot, supplier capacity, staffing or resource availability validates these assumptions."
+  ],
+  "illustrative_rollup_hours": {
+    "low": {
+      "provider_fixed": 91,
+      "provider_per_contributor_total": 15.0,
+      "provider_total": 106.0,
+      "JGA_retained_total": 12.5,
+      "combined_person_hours": 118.5,
+      "elapsed_calendar_duration": null
+    },
+    "base": {
+      "provider_fixed": 144,
+      "provider_per_contributor_total": 30.0,
+      "provider_total": 174.0,
+      "JGA_retained_total": 23,
+      "combined_person_hours": 197.0,
+      "elapsed_calendar_duration": null
+    },
+    "high": {
+      "provider_fixed": 228,
+      "provider_per_contributor_total": 57.5,
+      "provider_total": 285.5,
+      "JGA_retained_total": 38,
+      "combined_person_hours": 323.5,
+      "elapsed_calendar_duration": null
+    }
+  },
+  "confidence": "Low as a prediction: no timed delivery, observed case throughput, staffing or future final length validates these analyst assumptions. Ranges are workload alternatives, not probability/confidence intervals.",
+  "dependency_definitions": {
+    "DEP01": "Agreed reader/focus, outline/length and available brand inputs",
+    "DEP02": "Accessible current primary evidence and actual permission to reuse required third-party material",
+    "DEP03": "Approved collection/data route, actual JGA introductions, consent and usable eligible contributions",
+    "DEP04": "Coded actual input and supported synthesis; no assumed representative result",
+    "DEP05": "Coordinated JGA feedback and publication decisions",
+    "DEP06": "Actual appropriately skilled capacity and portable final-file checks"
+  }
+}

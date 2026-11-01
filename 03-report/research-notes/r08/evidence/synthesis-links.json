@@ -1,0 +1,564 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-29",
+  "module_id": "R08",
+  "status": "preparatory_evidence_synthesis_proposal_for_root_integration",
+  "purpose": "Ground a compact nonordinal framework in existing R01–R07 evidence while preserving practitioner-dependent gaps.",
+  "records": [
+    {
+      "link_id": "SYN8-L01",
+      "title": "Define the work and intended outcome",
+      "purpose": "What specific work, consequence and affected outcome make attention worthwhile, within whose remit and as of when?",
+      "record_role": "proposed_nonordinal_framework_view",
+      "topic_ids": [
+        "R02",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-012",
+        "FND-013",
+        "FND-014",
+        "FND-016",
+        "FND-019",
+        "FND-022",
+        "FND-068",
+        "FND-076"
+      ],
+      "claim_ids": [
+        "CLM-0164",
+        "CLM-0170",
+        "CLM-0178",
+        "CLM-0180",
+        "CLM-0182",
+        "CLM-0183",
+        "CLM-0184",
+        "CLM-0186",
+        "CLM-0203",
+        "CLM-0205",
+        "CLM-0398",
+        "CLM-0428"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0083",
+        "SRC-0094",
+        "SRC-0099",
+        "SRC-0101",
+        "SRC-0103",
+        "SRC-0104",
+        "SRC-0105",
+        "SRC-0107",
+        "SRC-0121",
+        "SRC-0123",
+        "SRC-0198",
+        "SRC-0213",
+        "SRC-0214",
+        "SRC-0223"
+      ],
+      "existing_question_ids": [
+        "Q002",
+        "Q003",
+        "Q004",
+        "Q008"
+      ],
+      "existing_evidence_support": "Source-specific operating and consequence evidence supports distinguishing payment, reporting, records/control and useful resolution; scope, external dependencies and direct knowledge can change the need.",
+      "inference_limit": "No common severity score, employer error rate, unmet-market share, individual worker impact or final organisational priority is established for this commission.",
+      "practitioner_dependent_gap": "Permissioned case-specific need, consequence, current adequate performance and whose outcome matters; preserve measured versus reported/impression bases.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "sequence_required": false
+    },
+    {
+      "link_id": "SYN8-L02",
+      "title": "Compare feasible ways of meeting it",
+      "purpose": "Which feasible routes were available at that date, including retaining or improving what already works?",
+      "record_role": "proposed_nonordinal_framework_view",
+      "topic_ids": [
+        "R03",
+        "R06",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-020",
+        "FND-024",
+        "FND-025",
+        "FND-026",
+        "FND-028",
+        "FND-029",
+        "FND-031",
+        "FND-032",
+        "FND-033",
+        "FND-061",
+        "FND-074",
+        "FND-075"
+      ],
+      "claim_ids": [
+        "CLM-0215",
+        "CLM-0219",
+        "CLM-0220",
+        "CLM-0222",
+        "CLM-0229",
+        "CLM-0231",
+        "CLM-0241",
+        "CLM-0244",
+        "CLM-0249",
+        "CLM-0368",
+        "CLM-0417",
+        "CLM-0424"
+      ],
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0097",
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0120",
+        "SRC-0133",
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0144",
+        "SRC-0146",
+        "SRC-0149",
+        "SRC-0206",
+        "SRC-0207",
+        "SRC-0217",
+        "SRC-0218",
+        "SRC-0219",
+        "SRC-0220",
+        "SRC-0221",
+        "SRC-0222"
+      ],
+      "existing_question_ids": [
+        "Q002",
+        "Q004",
+        "Q012"
+      ],
+      "existing_evidence_support": "Delivery components, actual account/service/task, retained responsibility and continuing capability provide concrete comparison dimensions; options can combine and adequate retention is legitimate.",
+      "inference_limit": "No product, supplier, technology, outsourcing or hiring route is shown to be best; declared availability is not a tested entitlement, local configuration or delivered benefit.",
+      "practitioner_dependent_gap": "Actual alternatives considered and rejected/selected, their feasibility at the event and whether upstream conditions persisted under each route.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "sequence_required": false
+    },
+    {
+      "link_id": "SYN8-L03",
+      "title": "Establish who can authorise what",
+      "purpose": "For the specific action and date, whose authority, advice, agreement or condition mattered?",
+      "record_role": "proposed_nonordinal_framework_view",
+      "topic_ids": [
+        "R04",
+        "R06"
+      ],
+      "finding_ids": [
+        "FND-034",
+        "FND-035",
+        "FND-037",
+        "FND-039",
+        "FND-040",
+        "FND-041",
+        "FND-042",
+        "FND-043",
+        "FND-064"
+      ],
+      "claim_ids": [
+        "CLM-0261",
+        "CLM-0262",
+        "CLM-0278",
+        "CLM-0279",
+        "CLM-0283",
+        "CLM-0288",
+        "CLM-0290",
+        "CLM-0291",
+        "CLM-0292",
+        "CLM-0294",
+        "CLM-0379"
+      ],
+      "source_ids": [
+        "SRC-0116",
+        "SRC-0119",
+        "SRC-0131",
+        "SRC-0147",
+        "SRC-0148",
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0155",
+        "SRC-0156",
+        "SRC-0164",
+        "SRC-0165",
+        "SRC-0168",
+        "SRC-0170",
+        "SRC-0172",
+        "SRC-0173",
+        "SRC-0210"
+      ],
+      "existing_question_ids": [
+        "Q001",
+        "Q006",
+        "Q007",
+        "Q009"
+      ],
+      "existing_evidence_support": "The inspected public rules/cases distinguish recommendation, delegated authority, funding, contracting, operational acceptance, external agreement and final release.",
+      "inference_limit": "Public governance roles, notices and service declarations cannot establish a universal private-employer approval chain. Title and practical influence do not prove authority; silence is not pending approval.",
+      "practitioner_dependent_gap": "Actual effective remit and knowledge for a recent event, including who could clear or escalate a material condition and what the contributor did not know.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "sequence_required": false
+    },
+    {
+      "link_id": "SYN8-L04",
+      "title": "Match value, resources and delivery evidence",
+      "purpose": "What support is appropriate for this decision, and can the scoped option be afforded and delivered while payroll continues?",
+      "record_role": "proposed_nonordinal_framework_view",
+      "topic_ids": [
+        "R05",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-044",
+        "FND-045",
+        "FND-047",
+        "FND-049",
+        "FND-051",
+        "FND-053",
+        "FND-067",
+        "FND-073"
+      ],
+      "claim_ids": [
+        "CLM-0298",
+        "CLM-0302",
+        "CLM-0310",
+        "CLM-0318",
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0322",
+        "CLM-0328",
+        "CLM-0343",
+        "CLM-0408",
+        "CLM-0427"
+      ],
+      "source_ids": [
+        "SRC-0003",
+        "SRC-0005",
+        "SRC-0074",
+        "SRC-0075",
+        "SRC-0076",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0153",
+        "SRC-0174",
+        "SRC-0175",
+        "SRC-0179",
+        "SRC-0180",
+        "SRC-0181",
+        "SRC-0182",
+        "SRC-0184",
+        "SRC-0194",
+        "SRC-0223"
+      ],
+      "existing_question_ids": [
+        "Q010",
+        "Q011",
+        "Q013"
+      ],
+      "existing_evidence_support": "The evidence supports keeping whole-life resources, future incremental cash and funding/timing separate, with benefit type, owner, baseline, uncertainty, usable skills and continuity conditions.",
+      "inference_limit": "No supplied ROI, payback, salary-based saving, discount rate, staffing ratio, private hurdle rate or cash budget is established. Requested evidence, supplied evidence and believed influence are not a proven causal approval mechanism.",
+      "practitioner_dependent_gap": "Actual evidence requested/supplied/accepted and the contributor's attributed account of its influence; costs/resources/funding and delivery conditions known in that case.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "sequence_required": false
+    },
+    {
+      "link_id": "SYN8-L05",
+      "title": "Record the last evidenced position",
+      "purpose": "What was decided, committed, delivered and assessed, for which object and at which dates?",
+      "record_role": "proposed_nonordinal_framework_view",
+      "topic_ids": [
+        "R03",
+        "R06",
+        "R07"
+      ],
+      "finding_ids": [
+        "FND-027",
+        "FND-055",
+        "FND-057",
+        "FND-058",
+        "FND-060",
+        "FND-062",
+        "FND-063",
+        "FND-065",
+        "FND-069"
+      ],
+      "claim_ids": [
+        "CLM-0225",
+        "CLM-0228",
+        "CLM-0349",
+        "CLM-0350",
+        "CLM-0364",
+        "CLM-0365",
+        "CLM-0366",
+        "CLM-0371",
+        "CLM-0385",
+        "CLM-0405"
+      ],
+      "source_ids": [
+        "SRC-0075",
+        "SRC-0090",
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0130",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0198",
+        "SRC-0199",
+        "SRC-0203",
+        "SRC-0204",
+        "SRC-0206",
+        "SRC-0212",
+        "SRC-0215",
+        "SRC-0216"
+      ],
+      "existing_question_ids": [
+        "Q006",
+        "Q007",
+        "Q013"
+      ],
+      "existing_evidence_support": "Selected dated cases support separating option/object, decision disposition, contractual or other commitment, operational work and observed benefit; a stopped component and postponed rollout can coexist with continuation elsewhere.",
+      "inference_limit": "No representative outcome rates, optimality, current status from a passed target or source silence, or causal remedy effect is established. Operation is not universal accuracy or realised financial value.",
+      "practitioner_dependent_gap": "Original and revised dates, last evidenced event, actual later outcome where known, missingness and permissioned contributor knowledge.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "sequence_required": false
+    },
+    {
+      "link_id": "SYN8-L06",
+      "title": "Identify the next supported action or review",
+      "purpose": "What is the material unresolved question or condition, who can act, and what evidence or review would be useful next?",
+      "record_role": "proposed_nonordinal_framework_view",
+      "topic_ids": [
+        "R05",
+        "R06",
+        "R07",
+        "R08"
+      ],
+      "finding_ids": [
+        "FND-049",
+        "FND-060",
+        "FND-070",
+        "FND-072",
+        "FND-073",
+        "FND-074",
+        "FND-076"
+      ],
+      "claim_ids": [
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0366",
+        "CLM-0407",
+        "CLM-0409",
+        "CLM-0413",
+        "CLM-0417",
+        "CLM-0427",
+        "CLM-0428"
+      ],
+      "source_ids": [
+        "SRC-0003",
+        "SRC-0068",
+        "SRC-0070",
+        "SRC-0130",
+        "SRC-0153",
+        "SRC-0181",
+        "SRC-0203",
+        "SRC-0206",
+        "SRC-0207",
+        "SRC-0217",
+        "SRC-0218",
+        "SRC-0219",
+        "SRC-0223"
+      ],
+      "existing_question_ids": [
+        "Q005",
+        "Q011",
+        "Q013",
+        "Q014"
+      ],
+      "existing_evidence_support": "Dated dependencies, observation limits, affected-party control, suitable evaluation and explicit alternative explanations support a proportionate next-evidence/action record.",
+      "inference_limit": "This is an analyst application, not a validated action recommendation or promise to secure approval. Waiting, retaining an adequate arrangement, revising or stopping may be legitimate; no universal review cadence is prescribed.",
+      "practitioner_dependent_gap": "Actual next decision/owner/time window if known, what would change the priority and later evidence about whether an action was adopted or helped.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "sequence_required": false
+    }
+  ],
+  "hypotheses": [
+    {
+      "hypothesis_id": "SYN8-H01",
+      "proposition": "A compact set of linked views helps readers turn a need into a more useful next-decision explanation.",
+      "status": "untested_framework_usefulness",
+      "needed_evidence": "Permissioned practitioner use/comprehension and case review; record contrary/unused views without inventing a usability test."
+    },
+    {
+      "hypothesis_id": "SYN8-H02",
+      "proposition": "Specific evidence or a clarified condition affected a particular investment decision.",
+      "status": "original_cases_pending",
+      "needed_evidence": "Separate requested, supplied and accepted evidence from the contributor's belief about influence; seek supported actual events without claiming causal proof from recollection."
+    },
+    {
+      "hypothesis_id": "SYN8-H03",
+      "proposition": "A suggested action can remove or reduce a material barrier.",
+      "status": "remedy_unvalidated",
+      "needed_evidence": "Actual adopted response and later effect in its context. An externally suggested response or plausible mechanism is not proof."
+    },
+    {
+      "hypothesis_id": "SYN8-H04",
+      "proposition": "The case-to-decision contribution is useful and differentiated enough for a paid JGA research product.",
+      "status": "commercial_value_unvalidated",
+      "needed_evidence": "Specific buyer use, alternatives/free substitutes, approval/funding and credible next step in The Table work; public evidence volume and practitioner interest alone are insufficient."
+    },
+    {
+      "hypothesis_id": "SYN8-H05",
+      "proposition": "Themes transfer between employer sizes, sectors or places.",
+      "status": "transferability_case_specific",
+      "needed_evidence": "Relevant work, remit, horizon and measure; achieved/missing coverage, negative cases and alternative explanations. No subgroup percentages or representative ranking from6–10purposive contributions."
+    }
+  ],
+  "collisions": [
+    {
+      "collision_id": "SYN8-C01",
+      "issue": "Repeated sources and programme documents across modules can look like repeated independent support.",
+      "control": "Use canonical sources and one programme/case identity, with event/component/date distinctions. Synergy, LFB, ScottishGovernment and WestSussex are not a new employer each time cited.",
+      "relevant_topic_ids": [
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C02",
+      "issue": "Decision, authority, commitment, release, operation and assessed benefit overlap in casual wording.",
+      "control": "Retain the exact object, action/date and actual knowledge. Do not compress these fields into one approval/progress stage or an ordinal ladder.",
+      "claim_ids": [
+        "CLM-0261",
+        "CLM-0262",
+        "CLM-0365",
+        "CLM-0371",
+        "CLM-0408"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C03",
+      "issue": "Approval evidence can be confused with proof of why a decision happened.",
+      "control": "Q010 requested evidence,Q011 believed influence, observed decision events and causal effect remain different. Public appraisal guidance is a design principle, not a validated sales recipe.",
+      "claim_ids": [
+        "CLM-0319",
+        "CLM-0320",
+        "CLM-0366"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C04",
+      "issue": "Resources, cash, funding, capacity release, efficiency and workforce pay principal can be counted twice or treated as interchangeable.",
+      "control": "Keep the three R05 financial views and benefit types, the actual cost unit/lifecycle and usable-time window. A common cost can inform multiple views without being added twice.",
+      "claim_ids": [
+        "CLM-0298",
+        "CLM-0302",
+        "CLM-0328",
+        "CLM-0336",
+        "CLM-0343"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C05",
+      "issue": "Personal desire, organisation priority, provider roadmap and affected-user value can be conflated.",
+      "control": "Record whose claim/outcome, the actual service/task and owner; importance, access, resources and delivery remain separate.",
+      "claim_ids": [
+        "CLM-0391",
+        "CLM-0408",
+        "CLM-0417",
+        "CLM-0418",
+        "CLM-0428"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C06",
+      "issue": "Historical expectations, present guidance and future policy/service plans invite false trends or completion claims.",
+      "control": "Retain original measure/date/status. Old forecast dates do not become later results; conditional policy applicability is checked before final use.",
+      "claim_ids": [
+        "CLM-0371",
+        "CLM-0405",
+        "CLM-0410",
+        "CLM-0413"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C07",
+      "issue": "Constructed recruitment prompts can anchor the final framework on hiring or predetermined routes.",
+      "control": "Use prior study only to challenge researcher premises and locate source leads. Preserve unaided case routes and adequate retention/process/learning options; no recommendation count transfer.",
+      "claim_ids": [
+        "CLM-0424"
+      ]
+    },
+    {
+      "collision_id": "SYN8-C08",
+      "issue": "A desired clean chart can hide incompatible populations, missingness or held values.",
+      "control": "No synthetic pooled prevalence, market funnel, priority score or cost forecast. Keep held claims excluded, empty original-data arrays intact and unknown/notmeasured/notapplicable/notdisclosed distinct.",
+      "claim_ids": [
+        "CLM-0388",
+        "CLM-0389",
+        "CLM-0409"
+      ]
+    }
+  ],
+  "held_claim_ids_not_used_as_positive_framework_support": [
+    "CLM-0051",
+    "CLM-0052",
+    "CLM-0167",
+    "CLM-0168",
+    "CLM-0218",
+    "CLM-0392"
+  ],
+  "source_register_path": "02-evidence/registers/sources.json",
+  "claim_register_path": "02-evidence/registers/claims.json",
+  "finding_register_path": "05-analysis/findings.json",
+  "original_practitioner_observations": 0,
+  "completed_framework_use_tests": [],
+  "new_source_routes": 0,
+  "new_canonical_claims": 0,
+  "new_market_estimates": 0,
+  "questionnaire_changes": 0,
+  "external_actions": [],
+  "report_table_boundary": {
+    "public_report": "Cleared contextual research, actual permissioned practitioner case synthesis, method/limits and framework; practical leader/supplier implications that do not assume a hire.",
+    "confidential_table": "Comparables, buyer/member reservations and commitment, licence/use proposition, JGA costs/revenue/cash/launch choices and recommendation. Public report findings do not prove willingness to pay.",
+    "restricted_inputs": "Identity/consent/linkage and unredacted contributor or buyer material stay in the approved restricted arrangement; no new storage or collection occurs in this task."
+  },
+  "provenance": [
+    {
+      "path": "00-control/scope-baseline.json",
+      "sha256": "d50be13e18d3c76c27dde64eca46c114a4ea90cb8f3f0ac9018a8617f7dab013"
+    },
+    {
+      "path": "05-analysis/findings.json",
+      "sha256": "90e177cc93ae4c141b78b41e8fdd2d38852d871a546071615bbea6e6b2cab101"
+    },
+    {
+      "path": "02-evidence/registers/claims.json",
+      "sha256": "1933d7fc0267134af7deb0e9a51631215d5f60ca1bb51aae026dddfe0f61a60c"
+    },
+    {
+      "path": "01-method/question-map.json",
+      "sha256": "bad8effb5898e40af9cefbb68d104de7730a5fd118eb92c6b1083254bd4036f6"
+    },
+    {
+      "path": "03-report/R07-SECOND-CHECK-READOUT.md",
+      "sha256": "5556c568e56379ea5ad4857b75bfe9b4b8f13ef7f4d4981af24d5fe89e3f5289"
+    }
+  ]
+}

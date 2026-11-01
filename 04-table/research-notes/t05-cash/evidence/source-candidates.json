@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "candidate_id": "C-S01",
+      "publisher": "British Business Bank",
+      "title": "Cash flow and profit",
+      "url": "https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/what-is-cash-flow-how-do-you-manage-it",
+      "accessed_on": "2026-11-01",
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "reader_note_path": "04-table/research-notes/t05-cash/evidence/C-S01-selected-reader-paraphrase.txt",
+      "reader_note_sha256": "43b3587545cb7a03dc286f1c95027ff542dd27dac6a36d4b06d3e72ba9143fc7",
+      "capture_kind": "browser_reader_paraphrase_not_original"
+    },
+    {
+      "candidate_id": "C-S02",
+      "publisher": "Bank of England",
+      "title": "Exchange rates publication context",
+      "url": "https://www.bankofengland.co.uk/statistics/exchange-rates",
+      "accessed_on": "2026-11-01",
+      "http_status": 200,
+      "final_url": "https://www.bankofengland.co.uk/statistics/exchange-rates",
+      "capture_path": "04-table/research-notes/t05-cash/evidence/captures/C-S02.html",
+      "capture_sha256": "1e8cef3b8d52b846a32387c919382c70398a7091378a80557280a4219a69015e",
+      "parsed_path": "04-table/research-notes/t05-cash/evidence/parsed/C-S02.txt",
+      "parsed_sha256": "534e95ba661a588debc41b8d38863aaf4e7096d042c7bb4915c786cee6d06a53"
+    },
+    {
+      "candidate_id": "C-S03",
+      "publisher": "Australian Government business.gov.au",
+      "title": "Set up a cash flow statement",
+      "url": "https://business.gov.au/finance/cash-flow/set-up-a-cash-flow-statement",
+      "accessed_on": "2026-11-01",
+      "http_status": 200,
+      "final_url": "https://business.gov.au/finance/cash-flow/set-up-a-cash-flow-statement",
+      "capture_path": "04-table/research-notes/t05-cash/evidence/captures/C-S03.html",
+      "capture_sha256": "d71fd3467a07ba9c4d443452804ccee52d4adee0aff4b1329d140ea15f3772ea",
+      "parsed_path": "04-table/research-notes/t05-cash/evidence/parsed/C-S03.txt",
+      "parsed_sha256": "22da48263c5d8eea294bf2bb3913ee0c72bb48661d9fbd97dd70cc6db7149cd5"
+    }
+  ]
+}

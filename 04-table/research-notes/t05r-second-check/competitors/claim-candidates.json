@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5C-C01",
+      "canonical_source_ids": [
+        "SRC-0190",
+        "SRC-0221",
+        "SRC-0222",
+        "SRC-0116",
+        "SRC-0192",
+        "SRC-0193",
+        "SRC-0088",
+        "SRC-0257"
+      ],
+      "source_candidate_ids": [],
+      "locator": "Seven-context source/format map; source-specific review boundaries",
+      "claim_text": "Existing recruiter resources and expert formats are potential desktop inputs or alternatives. Their existence does not establish reuse permission, adequate decision-case coverage, lower JGA production hours or a supplier fee.",
+      "evidence_class": "researcher_comparator_to_workload_application",
+      "limitations": "Any actual reuse must identify the asset, task/country/date fit, rights and remaining research/editorial work; no saving applied to the first component.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "status": "T05R_second_comparator_context"
+    },
+    {
+      "candidate_id": "T5C-C02",
+      "canonical_source_ids": [
+        "SRC-0116",
+        "SRC-0193"
+      ],
+      "source_candidate_ids": [],
+      "locator": "Middlemore PostProjectReport; RobertHalf guide/consultation and method sections",
+      "claim_text": "The inspected Middlemore and Robert Half routes describe different output and evidence units: client search analytics versus projected salary/compensation guidance with personalised support. Neither supplies the cost of an equivalent original JGA research edition.",
+      "evidence_class": "researcher_evidence_and_service_unit_reconciliation",
+      "limitations": "Do not infer a price, comparative quality, validated demand, actual available staffing or a right to redistribute their material.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "status": "T05R_second_comparator_context"
+    },
+    {
+      "candidate_id": "T5C-C03",
+      "canonical_source_ids": [
+        "SRC-0221",
+        "SRC-0257",
+        "SRC-0088"
+      ],
+      "source_candidate_ids": [],
+      "locator": "Named interview summary; webinar-to-article/recording format; podcast/archive proposition",
+      "claim_text": "Public expert conversations can inform background review but do not become newly collected permissioned JGA practitioner contributions or remove collection, coding, synthesis and publication-review work by default.",
+      "evidence_class": "researcher_reuse_and_work_boundary",
+      "limitations": "No audio/recording reviewed for this pass. Existing relationships/guests are not confirmed introductions or participant permission; do not reduce the six-to-ten target.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "status": "T05R_second_comparator_context"
+    },
+    {
+      "candidate_id": "T5C-C04",
+      "canonical_source_ids": [
+        "SRC-0190",
+        "SRC-0192",
+        "SRC-0193"
+      ],
+      "source_candidate_ids": [],
+      "locator": "Compensation/hiring-resource catalogue and method/period context; local prior-study bridge S04-C/S07-C/S11-C",
+      "claim_text": "Research staffing should reflect the actual task and complexity. A transformation-leadership brief, ordinary UK replacement and small-team hands-on growth hire are different constructed tasks; geographic presence, job title or a generic resource does not determine the work or specialist capability needed.",
+      "evidence_class": "researcher_task_fit_challenge",
+      "limitations": "The earlier questions were authored research scenarios and the saved answers are model outputs. They do not establish observed buyer need, actual capability, candidate availability, rates or production hours. No new quota or promise.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "status": "T05R_second_comparator_context"
+    }
+  ]
+}

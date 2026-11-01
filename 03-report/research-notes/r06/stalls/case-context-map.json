@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-29",
+  "original_JGA_contributors": 0,
+  "records": [
+    {
+      "case_id": "STL6-CASE01",
+      "name": "West Sussex HR/payroll timing and later self-service availability",
+      "source_candidate_ids": [
+        "STL6-S01",
+        "STL6-S02"
+      ],
+      "claim_candidate_ids": [
+        "STL6-C01",
+        "STL6-C02"
+      ],
+      "object": "HR/payroll implementation timing; later employee self-service availability",
+      "dated_states": [
+        {
+          "as_of": "2026-03-10",
+          "reported_position": "Implementation moved from plannedApril toOctober2026",
+          "reported_reason": "Scale and safe/reliable payroll, particularly school/term-time users"
+        },
+        {
+          "as_of": "2026-10-13",
+          "reported_position": "Self-service declared live",
+          "reported_reason": null
+        }
+      ],
+      "not_established": [
+        "Full HR/payroll delivery completion",
+        "Accuracy or assessed benefits",
+        "Effect attributable to delaying",
+        "Formal contract/funding approval rights"
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "case_id": "STL6-CASE02",
+      "name": "Historical NICS payroll component cancellation",
+      "source_candidate_ids": [
+        "STL6-S03"
+      ],
+      "claim_candidate_ids": [
+        "STL6-C03",
+        "STL6-C04"
+      ],
+      "object": "Payroll project component within integratedHRMS",
+      "dated_states": [
+        {
+          "as_of": "1991-12",
+          "reported_position": "Payroll contract signed",
+          "reported_reason": null
+        },
+        {
+          "as_of": "2001-05",
+          "reported_position": "Payroll project cancelled without workable system",
+          "reported_reason": "Audit summary reports software, contractual and management problems"
+        }
+      ],
+      "reported_exit_condition": "Potential effect on equipment used for working personnel/pensions components",
+      "not_established": [
+        "Current employer circumstances",
+        "Full linked report/underlying contract review",
+        "Alternative outcome if stopped earlier",
+        "General supplier/country prevalence"
+      ],
+      "original_JGA_contribution": false
+    },
+    {
+      "context_id": "STL6-CONTEXT03",
+      "name": "Education Payroll NZ advance-notice cancellation label",
+      "source_candidate_ids": [
+        "STL6-S04"
+      ],
+      "claim_candidate_ids": [
+        "STL6-C05"
+      ],
+      "object": "Business-analysis advance information noticeRFx34909219",
+      "observed_status_on": "2026-10-29",
+      "reported_position": "Portal labelled TenderCancelled; typeNOI; explicit non-commencement/non-commitment disclaimer",
+      "event_date": null,
+      "reported_reason": null,
+      "not_established": [
+        "ActualRFP issued/cancelled",
+        "Whole upgrade stopped",
+        "Cancellation date",
+        "Procurement future/award",
+        "UK buyer behaviour"
+      ],
+      "original_JGA_contribution": false
+    }
+  ]
+}

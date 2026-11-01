@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-01",
+  "workbook_path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/Service and sales costs.xlsx",
+  "sheets": [
+    "Service cost",
+    "Inputs"
+  ],
+  "case_selector": "Inputs!D4",
+  "case_label": "Inputs!F4",
+  "day_normalisation": "Inputs!F8",
+  "rate_rows": {
+    "Specialist": 12,
+    "Coordination": 13,
+    "Commercial": 14
+  },
+  "rate_input_column": "E",
+  "normalised_rate_column": "F",
+  "task_build_rows": {
+    "WS01": 33,
+    "WS02": 34,
+    "WS03": 35,
+    "WS04": 36,
+    "WS05": 37,
+    "WS06": 38,
+    "WS07": 39,
+    "WS08": 40,
+    "WS09": 41,
+    "WS10": 42,
+    "WS11": 43,
+    "WS12": 44,
+    "WS13": 45,
+    "WS14": 46,
+    "WS15": 47,
+    "WS16": 48,
+    "WS17": 49,
+    "WS18": 50,
+    "WS19": 51,
+    "WS20": 52,
+    "WS21": 53
+  },
+  "task_input_rows": {
+    "WS01": 38,
+    "WS02": 39,
+    "WS03": 40,
+    "WS04": 41,
+    "WS05": 42,
+    "WS06": 43,
+    "WS07": 44,
+    "WS08": 45,
+    "WS09": 46,
+    "WS10": 47,
+    "WS11": 48,
+    "WS12": 49,
+    "WS13": 50,
+    "WS14": 51,
+    "WS15": 52,
+    "WS16": 53,
+    "WS17": 54,
+    "WS18": 55,
+    "WS19": 56,
+    "WS20": 57,
+    "WS21": 58
+  },
+  "task_active_column": "F",
+  "task_case_columns": {
+    "low": "G",
+    "working": "H",
+    "high": "I"
+  },
+  "unit_output_rows": {
+    "campaign_count": 10,
+    "contact_attempt_count": 11,
+    "sales_discussion_count": 12,
+    "proposal_attempt_count": 13,
+    "extra_commercial_round_count": 14,
+    "won_order_count": 15,
+    "reading_path_count": 16,
+    "use_asset_package_count": 17,
+    "partner_bundle_count": 18,
+    "distribution_run_count": 19,
+    "briefing_session_count": 20,
+    "service_case_count": 21,
+    "invoice_cycle_count": 22,
+    "renewal_action_count": 23,
+    "cycle_note_count": 24
+  },
+  "quantity_input_rows": {
+    "campaign_count": 19,
+    "contact_attempt_count": 20,
+    "sales_discussion_count": 21,
+    "proposal_attempt_count": 22,
+    "extra_commercial_round_count": 23,
+    "won_order_count": 24,
+    "reading_path_count": 25,
+    "use_asset_package_count": 26,
+    "partner_bundle_count": 27,
+    "distribution_run_count": 28,
+    "briefing_session_count": 29,
+    "service_case_count": 30,
+    "invoice_cycle_count": 31,
+    "renewal_action_count": 32,
+    "cycle_note_count": 33
+  },
+  "quantity_input_column": "D",
+  "output_catalogue": "Service cost!B10:I24",
+  "task_build": "Service cost!B33:G53",
+  "programme_hours": "Service cost!E6",
+  "programme_labour_GBP": "Service cost!E7",
+  "programme_total_hours": "Service cost!H26",
+  "programme_total_labour": "Service cost!I26",
+  "source_links": "Inputs!B63:C69",
+  "renders": [
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/unit-costs.png",
+      "sheet": "Service cost",
+      "range": "B1:I30"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/task-build.png",
+      "sheet": "Service cost",
+      "range": "B31:G59"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/input-rates.png",
+      "sheet": "Inputs",
+      "range": "B1:I16"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/activity-quantities.png",
+      "sheet": "Inputs",
+      "range": "B17:I35"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/effort-inputs.png",
+      "sheet": "Inputs",
+      "range": "B36:I59"
+    },
+    {
+      "path": "/Users/satwikkumar/Documents/Codex/2026-10-09/oka/outputs/jga-t05-service-costs-2026-11-01/sources-and-boundaries.png",
+      "sheet": "Inputs",
+      "range": "B61:I83"
+    }
+  ]
+}

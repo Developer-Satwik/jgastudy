@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    {
+      "path": "03-report/research-notes/r03-second-check/history/H3-S01.html",
+      "sha256": "892dd2cb4b6033dc0b6103b3a1dc710f38fc09ce4ce6ac86a1f455d0ec4a3df6",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/history/H3-S02.html",
+      "sha256": "0baa196f57eaf8d1006acfc80693a6489b2d97b1ddf4f03393055da4056c9778",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/history/REUSE-CIPP2020.html",
+      "sha256": "1357838bdf4fda8995ce3c0880e454b181b48bc225944d8b0ad5e2ed2b12c761",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/history/REUSE-CIPP2022.html",
+      "sha256": "eef0dbd3d155d42bbdec5e770570cf33bbeca71ce61f9534de60e05625f6ba2e",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/history/REUSE-CIPP2024.html",
+      "sha256": "d563f78062f3175fcb78f325ac4097cdee2bfc396b1c19a44557610ab0ce005a",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/history/H3-S01-update.html",
+      "sha256": "3095add8d7b49c47b51ec473316f75359c59afde40adce1ce2b2b80908162616",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/market/MKT2-S01.html",
+      "sha256": "76c3601254bbb5a00a724fd78a9fb2858525fc93107a3af617fa0bf6946f110a",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S02.html",
+      "sha256": "2a05b3b2882ed093bcd27016284bf964536d38a5f40b4c9b10a013586abcedd6",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S03.html",
+      "sha256": "2c77573fdc9734f6c05b9e3375d0f2e338bde9bee3672819e5cf64d139c8b383",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/competitors/R3COMP-S04.html",
+      "sha256": "0272e2e6ba2cc31b5d6e8122856723b8a1d1c2bd6066412a04ce170d28ca6095",
+      "scope": "excluded_redirect_response"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S01.html",
+      "sha256": "b852e147a086b4dfedd4c65ad3ae15e146a34eb8550672ea8b285470574527e1",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S02.html",
+      "sha256": "a879b8f69ee559a8cdff46bea25d17aa81ecd42e8e8ba905d66b66257c4384be",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S03.html",
+      "sha256": "2a4bc19a70e2f8e254c02a063ffad591377bcd48f2f865e911599b5d89a142c5",
+      "scope": "retained_original"
+    },
+    {
+      "path": "03-report/research-notes/r03-second-check/root/SC3-ROOT-S04.html",
+      "sha256": "5a49f0d28e2fd35dfc2bd04cda7385a25b23bedd3c78bb5601521ad0ac849db2",
+      "scope": "retained_original"
+    }
+  ]
+}

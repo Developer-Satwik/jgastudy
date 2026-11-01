@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "check_count": 13,
+  "checks": [
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S01.html",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S01.txt",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S02.html",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S02.txt",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S03.html",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S03.txt",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S04.html",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r06/stalls/captures/STL6-S04.txt",
+      "passed": true
+    },
+    {
+      "check": "JSON parses source-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses claim-candidates.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses case-context-map.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses search-review-log.json",
+      "passed": true
+    },
+    {
+      "check": "JSON parses capture-manifest.json",
+      "passed": true
+    }
+  ],
+  "scope": "Original/parsed-file hashes and record parse only; no independent case audit or financial assurance"
+}

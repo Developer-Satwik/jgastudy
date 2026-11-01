@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H4-S01",
+      "title": "Shared service centres: chapter1 Governance and collaboration",
+      "publisher": "House of Commons Committee of Public Accounts",
+      "url": "https://publications.parliament.uk/pa/cm201617/cmselect/cmpubacc/297/29706.htm",
+      "source_type": "historical_parliamentary_committee_evidence_report",
+      "published_date": "2016-10-14",
+      "updated_date": null,
+      "locator": "Chapter 1 paragraphs 4, 6, 16; original web lines18,23,39",
+      "population": "Specific historical central-government shared-service arrangements; not a private payroll sample",
+      "limitations": "Historical committee report drawing on oral evidence and audit. No current-policy, employer-prevalence, performance-trend or economic claim. Framework and call-off scopes retained.",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "selected_browser_reader_extract_not_raw_original",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r04-second-check/history/H4-S01-selected-reader-extract.txt",
+          "sha256": "8a71629649a69f1bf49f3f4f1b2a9637bce1cc4cdcf4430398e9822fb501b51f",
+          "kind": "selected_browser_reader_extract"
+        }
+      ],
+      "original_capture_status": "local403_original_body_read_through_web",
+      "accessed_on": "2026-10-29",
+      "review_status": "relevant_original_body_sections_inspected",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Parliamentary or official government source, not supplier outcome marketing",
+      "reuse_status": "Private verification; final paraphrase/rights/freshness review pending",
+      "publication_eligibility": "internal_R04_second_challenge_context"
+    },
+    {
+      "candidate_id": "H4-S02",
+      "title": "Digital Assurance Playbook",
+      "publisher": "Government Digital Service / UK government",
+      "url": "https://www.gov.uk/government/publications/digital-assurance-playbook/digital-assurance-playbook",
+      "source_type": "official_public_sector_digital_assurance_guidance",
+      "published_date": "2026-04-01",
+      "updated_date": null,
+      "locator": "Sections 2 and 9.2; original web lines103–125 and455–459; source scope sections1–2",
+      "population": "Source-scoped government digital assurance and approval arrangements",
+      "limitations": "Formal current design, not observed universal implementation, private payroll practice, achieved speed or reduced risk. No monetary or statutory approval threshold copied.",
+      "capture_path": "03-report/research-notes/r04-second-check/history/H4-S02.html",
+      "capture_sha256": "4e1c14eb3d6340006a421084e49364efc5dc0ddb332f5c60d5f01af868c21139",
+      "capture_kind": "retained_original_html",
+      "original_capture_status": "retained",
+      "accessed_on": "2026-10-29",
+      "review_status": "relevant_original_body_sections_inspected",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Parliamentary or official government source, not supplier outcome marketing",
+      "reuse_status": "Private verification; final paraphrase/rights/freshness review pending",
+      "publication_eligibility": "internal_R04_second_challenge_context"
+    },
+    {
+      "candidate_id": "H4-S03",
+      "title": "DAO 01/26 letter: Reforms to the spending control and accountability framework",
+      "publisher": "HM Treasury",
+      "url": "https://www.gov.uk/government/publications/dao-0126-letter-reforms-to-the-spending-control-and-accountability-framework/dao-0126-letter-reforms-to-the-spending-control-and-accountability-framework",
+      "source_type": "official_accounting_officer_policy_correspondence",
+      "published_date": "2026-04-16",
+      "updated_date": null,
+      "locator": "Action and Context; original web lines89–110",
+      "population": "UK central-government accounting-officer and departmental arrangements",
+      "limitations": "Formal policy context. A new delegation letter or intended faster decisions is not evidence of actual local implementation or an achieved payroll result. No monetary threshold or private mandate.",
+      "capture_path": "03-report/research-notes/r04-second-check/history/H4-S03.html",
+      "capture_sha256": "74b00669421ec58abdf11a4c0425847ca218d3b9519da81f34726c1b3a02ed7f",
+      "capture_kind": "retained_original_html",
+      "original_capture_status": "retained",
+      "accessed_on": "2026-10-29",
+      "review_status": "relevant_original_body_sections_inspected",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": null,
+      "funding_or_commercial_interest": "Parliamentary or official government source, not supplier outcome marketing",
+      "reuse_status": "Private verification; final paraphrase/rights/freshness review pending",
+      "publication_eligibility": "internal_R04_second_challenge_context"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0154",
+      "locator": "Introduction: v2.2 replacing v2.1; 4.4.3 Commercial assurance",
+      "review_result": "Existing raw original reread for version/reform context; no additional study or employer",
+      "fresh_network_request": false
+    }
+  ]
+}

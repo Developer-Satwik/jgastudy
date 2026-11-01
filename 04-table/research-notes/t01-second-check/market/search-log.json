@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-30",
+  "purpose": "Segmented market and purchaser-economics challenge of T01; direct country/global substitutes and actual use/rights/delivery.",
+  "queries": [
+    "Global payroll association current membership country resources",
+    "Irish payroll corporate overseas payroll bureau membership",
+    "Existing ISG enterprise vs software-provider research services and iVentiv sponsor/admission terms"
+  ],
+  "reviewed_urls": [
+    "https://research.isg-one.com/research/buyers-guides/services/enterprise-and-service-providers",
+    "https://research.isg-one.com/research/buyers-guides/services/software-providers",
+    "https://thepayrollcentre.co.uk/membership/",
+    "https://thepayrollcentre.co.uk/terms-and-conditions-of-business/",
+    "https://www.iventiv.com/how-can-we-help",
+    "https://www.iventiv.com/sponsors",
+    "https://www.iventiv.com/terms-and-conditions",
+    "https://ipass.ie/membership/",
+    "https://gpa.net/"
+  ],
+  "screened_not_used": [
+    {
+      "name": "GPA become-a-member price grid",
+      "url": "https://www.becomeagpamember.com/",
+      "reason": "Search discovery only; not needed for the bounded global catalogue finding. Grid/price units not adopted."
+    },
+    {
+      "name": "IPASS search-result tariff",
+      "reason": "Search snippet differed from opened page/live HTML. Do not treat snippet as current rate or dated historical change; no price entered."
+    }
+  ],
+  "external_actions": "Read-only public page retrieval only. No form, contact, registration, quote, purchase or terms acceptance."
+}

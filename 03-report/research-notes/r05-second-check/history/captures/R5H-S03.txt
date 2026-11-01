@@ -1,0 +1,2055 @@
+                             A picture of the National Audit Office logo
+
+
+
+
+ REPORT
+
+
+Government shared services
+Cabinet Office
+
+
+
+
+                               SESSION 2022-23
+                               30 NOVEMBER 2022
+                               HC 921
+We are the UK’s                       We support Parliament
+independent                           in holding government
+public spending                       to account and we
+watchdog.                             help improve public
+                                      services through our
+                                      high-quality audits.
+
+
+
+
+The National Audit Office (NAO) scrutinises public spending
+for Parliament and is independent of government and the civil
+service. We help Parliament hold government to account and
+we use our insights to help people who manage and govern
+public bodies improve public services.
+
+The Comptroller and Auditor General (C&AG), Gareth Davies,
+is an Officer of the House of Commons and leads the NAO.
+We audit the financial accounts of departments and other
+public bodies. We also examine and report on the value for
+money of how public money has been spent.
+
+In 2021, the NAO’s work led to a positive financial impact
+through reduced costs, improved service delivery, or other
+benefits to citizens, of £874 million.
+Government shared services
+Cabinet Office
+
+
+
+
+Report by the Comptroller and Auditor General
+Ordered by the House of Commons
+to be printed on 28 November 2022
+This report has been prepared under Section 6 of the
+National Audit Act 1983 for presentation to the House of
+Commons in accordance with Section 9 of the Act
+
+
+
+Gareth Davies
+Comptroller and Auditor General
+National Audit Office
+25 November 2022
+
+
+
+
+HC 921 | £10.00
+                               Value for money reports
+                               Our value for money reports examine government
+                               expenditure in order to form a judgement on whether
+                               value for money has been achieved. We also make
+                               recommendations to public bodies on how to
+                               improve public services.
+
+
+
+
+                               The material featured in this document is subject to National Audit
+                               Office (NAO) copyright. The material may be copied or reproduced
+                               for non-commercial purposes only, namely reproduction for research,
+                               private study or for limited internal circulation within an organisation
+                               for the purpose of review.
+
+                               Copying for non-commercial purposes is subject to the material
+                               being accompanied by a sufficient acknowledgement, reproduced
+                               accurately, and not being used in a misleading context. To reproduce
+                               NAO copyright material for any other use, you must contact
+                               copyright@nao.org.uk. Please tell us who you are, the organisation
+                               you represent (if any) and how and why you wish to use our material.
+                               Please include your full contact details: name, address, telephone
+                               number and email.
+
+
+
+
+© National Audit Office 2022
+                               Please note that the material featured in this document may not
+                               be reproduced for commercial gain without the NAO’s express and
+                               direct permission and that the NAO reserves its right to pursue
+                               copyright infringement proceedings against individuals or companies
+                               who reproduce material for commercial gain without our permission.
+
+                               Links to external websites were valid at the time of publication of
+                               this report. The National Audit Office is not responsible for the future
+                               validity of the links.
+
+                               011083    11/22   NAO
+                                    Contents                                                                                       This report can be found on the
+                                                                                                                                   National Audit Office website at
+                                                                                                                                   www.nao.org.uk
+                                                                                                                                   If you need a version of this
+                                                                                                                                   report in an alternative format
+                                                                                                                                   for accessibility reasons, or
+                                                                                                                                   any of the figures in a different
+                                    Key facts 4                                                                                    format, contact the NAO at
+                                                                                                                                   enquiries@nao.org.uk
+                                    Summary 5
+
+                                    Part One
+                                    Progress on government
+                                    shared services 14                                                                             The National Audit Office study
+                                                                                                                                   team consisted of:
+                                    Part Two                                                                                       Leon Bardot, Brian Kennedy
+                                    Conditions to deliver the government’s                                                         and Katie Taylor, under the
+                                    Shared Services Strategy 25                                                                    direction of Sian Jones.
+
+                                    Part Three
+                                    Future challenges 34
+
+                                    Appendix One
+                                    Our audit approach
+                                    and evidence base 40
+
+
+
+
+                                                                                                                                   For further information about the
+                                                                                                                                   National Audit Office please contact:
+                                                                                                                                   National Audit Office
+                                                                                                                                   Press Office
+                                                                                                                                   157–197 Buckingham Palace Road
+                                                                                                                                   Victoria
+                                                                                                                                   London
+                                                                                                                                   SW1W 9SP
+
+                                                                                                                                       020 7798 7400
+                                                                                                                                       www.nao.org.uk
+If you are reading this document with a screen reader you may wish to use the bookmarks option to navigate through the parts. If       @NAOorguk
+you require any of the graphics in another format, we can provide this on request. Please email us at www.nao.org.uk/contact-us
+4 Key facts Government shared services
+
+
+
+
+                        Key facts
+
+
+
+                        £525mn                            5                            2028
+                        approximate cost of providing     new shared service centres   target year by which all
+                        corporate back-ofﬁce functions,   proposed in the Shared       departments should be
+                        such as human resources (HR),     Services refresh             on cloud-based systems
+                        ﬁnance, procurement, and
+                        payroll across major government
+                        departments in 2020-21
+                        before the Shared Services
+                        refresh was launched (excluding
+                        the Foreign, Commonwealth
+                        & Development Ofﬁce)
+
+
+
+
+                        17                       departments, grouped into five clusters covered by these
+                                                 new shared service centres
+
+                        More than                civil servants served by these shared service centres
+                        450,000
+
+                        Up to                    HM Treasury-approved funding envelope, over the 2021
+                        £300 million             Spending Review period up to 2024-25, for three clusters
+                                                 to deliver the Shared Services Strategy
+
+                        £451 to £1,288           range of annual costs for providing back-office functions
+                                                 (such as HR, finance, procurement, and payroll) per
+                                                 full-time equivalent employee across departments
+                                                 in 2020-21, before the Shared Services refresh
+                                                 (excluding major change projects)
+
+                        £1.7 billion             Cabinet Office estimate of how much it would have cost to
+                                                 replace shared service systems individually by department,
+                                                 as they reach the end of their service contracts, rather than
+                                                 adopting a cluster model
+                                                Government shared services Summary 5
+
+
+
+
+Summary
+
+
+
+Introduction
+1      All government departments need a range of corporate functions including
+human resources (HR), finance, procurement and payroll to manage their operations
+effectively. Collectively known as the ‘back-office’, these functions deliver the core
+business processes needed to support front-line services. More than 450,000
+civil servants use these services. Since 2004, central government has sought to
+cut the cost of these services through the sharing of back-office functions between
+departments. This work has been led by the Cabinet Office, which owns and
+oversees the Shared Services Strategy. This includes setting the initial strategy
+design, overseeing departmental progress and approving departmental plans.
+
+2    The aim of using shared services is to standardise processes and services
+so that they can be provided in a consistent and repeatable way, in high volumes,
+and therefore reduce costs. This often involves moving to a common IT system
+or operating platform and transferring operations to a specialist organisation that
+can provide a service and, through economies of scale, can offer the service at a
+lower cost.
+
+3     In 2018, the Cabinet Office published a new 10-year Shared Services Strategy,
+which had three overarching objectives: delivering value and efficiency by moving
+to cloud-based technology by 2025 at the latest; standardisation of processes
+and data; and meeting end-user needs. The strategy delegated responsibility
+to government departments to deliver these objectives, with each department
+establishing its own programme.
+
+4      In March 2021, the Cabinet Office refreshed its delivery model, moving away
+from the idea of individual departments procuring their own single software platforms
+known as Enterprise Resource Planning (ERP) systems. Its original approach to
+allow departments to procure their own shared services meant departments were
+competing in the market for scarce skills and paying individually for services, rather
+than using the weight of government in the marketplace. Instead, it proposed that
+departments be grouped into five shared service clusters of varying size, who are
+free to procure any system that suits their needs. Government now aims to have five
+cloud-based shared service centres by 2028 at the latest, three years later than its
+initial deadline of 2025. It expects that this will lead to savings of 10% to 15% in
+operating costs.
+6 Summary Government shared services
+
+
+
+
+                       5     The refresh aims to make the landscape simpler and is part of wider efforts
+                       to reform and modernise the civil service. It has five work streams:
+
+                       •     the development of five shared service centres serving five departmental
+                             clusters: Defence, Matrix, Overseas, Synergy and Unity;
+
+                       •     commercial convergence: by using central frameworks as the route to
+                             procurement, supported by a national pricing model for major ERP suppliers;
+
+                       •     data convergence: by applying common data standards, improving
+                             data‑sharing in departments through integration and between departments
+                             by ensuring their systems can exchange information (interoperability);
+
+                       •     process convergence: to improve services and user experiences, through
+                             policy standardisation, automation and interoperability; and
+
+                       •     improving user experience: by introducing a common set of key performance
+                             indicators and measuring user experience.
+
+                       6     We have reported on the government’s previous shared services strategies:
+
+                       •     In 2012, we examined five of the eight central government shared service
+                             centres. We found that the government had not achieved value for money and
+                             that services were tailored too much to individual departments, increasing
+                             costs and reducing flexibility.1
+
+                       •     In 2014, we reported on the Cabinet Office’s Next Generation Shared Services
+                             strategy. This involved creating two independent shared service centres to
+                             provide back-office functions for up to 14 departments and their arm’s‑length
+                             bodies. We highlighted several significant future challenges, including
+                             maintaining clear leadership; designing a standard model for services and
+                             implementing the technology to support this; migrating departments to this
+                             model; helping departments to become intelligent customers; and ensuring clear
+                             accountability between service providers, departments and the Cabinet Office.2
+
+                       •     In 2016, we found that although the two independent shared service centres
+                             had led to some cost savings, the programme was not progressing as planned
+                             and weaknesses in its design undermined its success. The Cabinet Office
+                             had not developed an integrated programme business case to include both
+                             independent shared service centres and the customer departments; had not
+                             secured sufficient support and participation from departments at an early stage;
+                             and had not acted in a timely and effective manner as problems emerged.3
+
+
+
+
+                       1   Comptroller and Auditor General, Efficiency and reform in government corporate functions through shared service
+                           centres, Session 2010–2012, HC 1790, National Audit Office, March 2012.
+                       2   Comptroller and Auditor General, Update on the Next Generation Shared Services strategy, Session 2013-14,
+                           HC 1101, National Audit Office, March 2014.
+                       3   Comptroller and Auditor General, Shared service centres, Session 2016-17, HC 16, National Audit Office, May 2016.
+                                                 Government shared services Summary 7
+
+
+
+
+Scope
+7    This report examines whether the government’s latest Shared Services
+Strategy is on track to deliver. It aims to answer the following questions:
+
+•    Has the government made progress since we last reported on shared services
+     in 2016? (Part One).
+
+•    Are the right conditions in place for the government to deliver its proposed
+     efficiencies and savings? (Part Two).
+
+•    Has the government put in place mitigating actions to address the future
+     challenges it faces in delivering its strategy? (Part Three).
+
+8    Appendix One sets out our audit approach and evidence base.
+
+
+Key findings
+
+Progress since we last reported on shared services
+9     The Cabinet Office refreshed its 2018 delivery model in March 2021 after
+acknowledging that its initial approach would not deliver on its objectives.
+In 2021, it opted to consolidate existing departmental groupings into five clusters
+to streamline operations, minimise inter-departmental competition and maximise
+the buying-power of government. The Cabinet Office has estimated that it
+would have cost £1.7 billion to replace shared service systems individually by
+department as they reached the end of their service contracts, rather than adopting
+a cluster model. Prior to this, shared services across government consisted of
+17 departmental groupings using seven different technology providers. Many of the
+government’s systems remained slow and frustrating to use, with an over-reliance
+on manual input and spreadsheets. Data quality was poor, took time to collate and
+remained inconsistent across government departments. Differences in the way data
+were captured and held meant it was hard to share or make use of data across
+government and to track end-to-end processes. A review by Lord Maude, published
+in 2021, noted that: “It appears that there has been little progress in driving forward
+shared services since 2015.” (paragraphs 1.6, 1.9 and 2.10, and Figure 1).
+
+10 There are significant variations in the cost of providing back-office
+functions across departments. In 2020-21, the latest year where data are available,
+the approximate costs of providing back-office functions such as HR, finance,
+procurement and payroll across major departments (excluding the Foreign,
+Commonwealth & Development Office) was £525 million. This was a 16% increase
+on the costs for 2019-20, resulting mainly from greater spend on transformation
+programmes, such as new technology. In 2020-21, the average cost of providing
+these back-office functions per full-time equivalent employee ranged from £451 to
+£1,288 across departments (excluding major change projects). The Cabinet Office
+told us that the variations were down to the range and complexity of legacy systems
+in use (paragraphs 1.7 and 1.8).
+8 Summary Government shared services
+
+
+
+
+                       11    Since 2021, some progress in delivering the Shared Services Strategy has been
+                       made. The Defence and Overseas clusters have begun to implement new systems.
+                       The departments in the Matrix, Synergy and Unity clusters have obtained business
+                       case approval, which will allow them to access the requisite funds for their shared
+                       services plans. Clusters described the strategy as “exceptionally ambitious” and the
+                       timeline as “challenging”. Progress is also being made in developing common data
+                       standards and processes, but there is also still a long way to go to ensure data and
+                       process standardisation across government (paragraphs 1.11 and 1.12, and Figure 3).
+
+                       12 The Cabinet Office has yet to start monitoring overall progress on data and
+                       process convergence and does not know how much implementation has cost to
+                       date. The Cabinet Office has begun monitoring progress in some individual areas
+                       such as standardising the processes for people to join, move and leave the civil
+                       service, but has not set any metrics to monitor overall progress on data and process
+                       convergence. The four key performance indicators that are currently measured
+                       by the centre are payroll accuracy, invoice accuracy, end-user satisfaction, and
+                       time taken for staff to transfer between government departments. None of these
+                       indicators allow the Cabinet Office to understand how the overall implementation
+                       of its Shared Services Strategy is progressing. This makes it difficult to identify
+                       and respond to issues in a timely manner (paragraphs 1.11 and 1.12, and Figure 3).
+
+
+                       Putting the right conditions in place to deliver the strategy
+                       13 The Cabinet Office has taken steps to learn from past failings, but there is
+                       more to do to avoid repeating past mistakes. The Cabinet Office considered what
+                       it could learn from its previous experiences with shared services and how this
+                       learning should influence its current strategy. For example it now has an end-to-end
+                       risk management framework. This included a central risk register for the strategy.
+                       However, there were several weaknesses in the practical application of this register.
+                       These included risks with no owner, risks with no control activity or response, and
+                       risks that have not been properly assessed. The Cabinet Office has since introduced
+                       a new digital risk management solution that will help to ensure this cannot
+                       happen in future. The Cabinet Office encouraged clusters to complete a ‘lessons
+                       identified’ assessment to show how they have addressed past recommendations.
+                       However, we have seen no evidence that clusters have completed this assessment,
+                       hindering their ability to avoid repeating past mistakes (paragraphs 1.13, 1.14, 2.13
+                       and 2.14, and Figures 4 and 7).
+                                                Government shared services Summary 9
+
+
+
+
+14 The Cabinet Office refreshed its delivery model, grouping departments into five
+clusters to deliver the strategy, but the rationale for some departmental groupings
+is unclear, hindering departmental support and participation. The Cabinet Office
+considered four options when refreshing the delivery model: doing nothing; a single
+shared service across government; a single shared service provider with different
+ERPs; and a small number of centres each with their own shared service provider
+and ERP solution (the cluster model). Departments told us that the cluster model
+made sense and that a single shared service would have been overly complex.
+However, departments were not consulted on which cluster the Cabinet Office
+allocated them to and it is not clear why the Cabinet Office chose five clusters as an
+appropriate number. The Cabinet Office told us that it considered several factors in
+allocating departments to clusters, including the primary focus of each department
+and what operating platform they used. The departments who are less convinced
+by the cluster model mainly come from the Matrix cluster. This cluster faces
+several issues, which stem from the large number of departments (eight) expected
+to work together and the lack of rationale behind their grouping. However, these
+departments told us they remain committed to making the cluster model work
+(paragraphs 2.2 to 2.4).
+
+15 Before launching its current Shared Services Strategy, the Cabinet Office
+developed a ‘case for change’ rather than a detailed business case, which lacked
+detail on important areas such as costs, benefits and risks. HM Treasury guidance
+states that all major programmes and projects should be supported by a business
+case. The Cabinet Office considers its strategy is not a programme or a project,
+and therefore it did not complete a business case and submit it to HM Treasury.
+Instead, it produced a ‘case for change’ that includes some of what we would
+expect to see in a business case, but lacks the requisite detail on costs, benefits,
+risks, alternative options and management safeguards. The ‘case for change’
+was not subject to any external scrutiny and the lack of detailed planning led to
+several issues, including timetable delays and funding problems. The Cabinet Office
+told us that the business cases for previous central shared services strategies
+had highly inaccurate costs and benefits so it made a deliberate decision to not
+calculate programme-wide costs and benefits for the current strategy. It adopted a
+bottom-up approach for the current strategy, relying on clusters to estimate costs
+and benefits. It acknowledges that this approach brings risks but believes there is
+enough evidence from other industries to assume that the programme will generate
+savings by developing economies of scale and increasing operational efficiencies.
+While there is a balance to be struck between time spent planning and moving
+quickly, we do not consider this to be a sensible trade-off in a programme of this
+scale (paragraphs 2.5, 2.6 and 2.8, and Figure 5).
+10 Summary Government shared services
+
+
+
+
+                   16 The Cabinet Office did not obtain the independent assurance that we would have
+                   expected to see for a programme of this scale and complexity. When planning for a
+                   new programme of work that involves significant organisational change, bodies rely
+                   on experts to assure them that their strategy is viable and will meet their needs. The
+                   Cabinet Office did not obtain such assurance over its Shared Services Strategy or the
+                   delivery model. This means that there was no external review of the strategy design,
+                   the proposed technology or the suggested procurement timeframes. There was no
+                   external assurance of the assumptions on process convergence, interoperability and
+                   data integration across government. The Cabinet Office told us that technical and
+                   design assurance will be carried out on clusters’ individual shared services programmes
+                   (paragraph 2.15).
+
+                   17 The financial benefits of the strategy remain unclear. The Cabinet Office has
+                   worked to make its benefits calculation process more reliable, including undertaking
+                   work to understand what benefits the private sector has generated from similar
+                   initiatives. It has also begun to identify and measure benefits on some individual areas
+                   such as the programme to standardise the processes for people to join, move and leave
+                   the civil service. However, its central benefits database does not contain any figures or
+                   measured savings, instead providing only a narrative description of each anticipated
+                   benefit. The Cabinet Office aims to achieve broader savings of between 10% and 15%
+                   in operating costs across the programme. However, it is unclear how these figures have
+                   been calculated or what evidence supports them. Departments told us that the Cabinet
+                   Office did not calculate the expected programme benefits as it did not understand what
+                   benefits could be generated. Clusters frequently cited the uncertainty surrounding
+                   central interoperability benefits as the biggest obstacle the strategy faces, which may
+                   be hindering support from some senior officials. To date, the three clusters (Matrix,
+                   Synergy and Unity) that have received business case approval have identified cashable
+                   benefits of between £65 million and £336 million. However, these have been calculated
+                   in different ways and over different timescales. The Cabinet Office is working with
+                   clusters to improve the quantification of the overall benefits (paragraphs 2.7, 2.9 and
+                   2.11, and Figure 6).
+
+                   18 Governance arrangements are fragmented and cumbersome, resulting in duplicated
+                   effort and disjointed decision-making. The Cabinet Office has established three separate
+                   boards that sit at the centre and provide governance functions for the strategy. This
+                   is in addition to governance arrangements at both a cluster and a departmental level.
+                   HM Treasury told us that these multiple layers of governance are not conducive to
+                   good decision-making or coming to a joint view on what matters. Departments told
+                   us that the governance of the strategy has not been well‑thought‑through, resulting
+                   in duplication of effort. The Cabinet Office has begun to streamline its governance
+                   arrangements. Each cluster has different governance arrangements. The decision taken
+                   by some clusters to use existing departmental governance routes to approve high-level
+                   strategy decisions risks undermining the work done to bring departments together, with
+                   departments acting as individual units rather than as a group. HM Treasury told us that
+                   this is a risk to both the current and future delivery of the strategy. The Matrix cluster
+                   is the only one to have a joint investment committee and its departments have signed
+                   a ‘declaration of commitment’ that sets out agreed ways of working and reaffirms their
+                   commitment to the Shared Services Strategy (paragraphs 1.12, 2.16, 2.17 and Figure 8).
+                                               Government shared services Summary 11
+
+
+
+
+Barriers to future delivery
+19 There have been delays to the funding of clusters’ shared services plans,
+creating risks to delivering against the original deadline. In 2021, HM Treasury
+rejected all three Spending Review bids received from clusters, with a combined
+value of £759 million, due to concerns that the Cabinet Office and clusters had not
+done enough work to develop robust cost estimates or to consider fundamental
+elements of the Shared Services Strategy, including governance arrangements and
+cluster design. Although the submitted bids were rejected, HM Treasury approved
+a funding envelope of up to £300 million to support these three clusters to deliver
+the Shared Services Strategy and to address the risk that departments could be
+left with unstable and unsupported systems in the interim. However, access to this
+funding was contingent on the approval of cluster business cases, which clusters
+only obtained in autumn 2022 (paragraphs 3.4 and 3.5, and Figure 10).
+
+20 The Cabinet Office does not have a back-up plan for delivering shared services
+if clusters do not secure the level of funding required for their preferred options.
+Clusters’ business cases forecast £382 million to £403 million to fund their preferred
+options up to 2024-25. However, HM Treasury only approved a funding envelope of
+up to £300 million for this period. Departments told us that this settlement may not
+be enough money to allow them to proceed with their preferred procurement options
+if final costs continue to exceed the funding envelope. In addition, these business
+cases forecast about £480 million of required investment funding for subsequent
+Spending Review periods. These figures are likely to change as clusters engage with
+the market and finalise their business cases. It is not clear what clusters plan to do
+if they do not get the required level of funding in future Spending Reviews or what
+impact this will have on the Shared Services Strategy. The Cabinet Office does not
+have a contingency plan in place to help minimise this risk (paragraphs 3.5 and 3.6,
+and Figure 10).
+
+21 The Cabinet Office’s existing Digital Procurement Framework may create
+unnecessary work for departments and may not optimise potential savings.
+The Cabinet Office expects clusters to use a central Digital Procurement Framework
+when procuring their new ERP systems. For this framework, five to seven years
+is the standard length of contract. Contracts of this length are often beneficial,
+facilitating technological upgrades and cheaper deals. However, clusters told us
+that they would welcome more flexibility to award longer contracts to maximise
+cashable savings. Some clusters noted that they may not reach a breakeven
+point on their investments within the lifetime of a five- to seven-year contract.
+A department noted that, given the significant number of staff and volume of spend
+these systems will manage, the procurement represents infrastructure spend rather
+than digital spend. As such, it argues that these contracts should not be bound by
+the Digital Procurement Framework. As of August 2022, clusters were liaising with
+the Cabinet Office’s Digital Controls Team to better understand what options are
+available to them (paragraphs 3.7 to 3.9).
+12 Summary Government shared services
+
+
+
+
+                       22 Some departments have ageing systems that will soon be unsupported,
+                       increasing the risk of system failure and additional costs. Extending these contracts
+                       would result in obsolete, cyber-vulnerable systems that would become ever more
+                       expensive to maintain. For example, the Department for Business, Energy & Industrial
+                       Strategy uses an Oracle platform which will no longer be supported after 2023.
+                       Departments with ageing systems are putting in place contingency plans in case
+                       the new shared services are not up and running in time. The Cabinet Office told
+                       us that it is being flexible with the sequencing of when departments join shared
+                       services to address this issue, noting that it made no sense for some departments
+                       to leave existing contracts early. However, the current uncertainty around when
+                       departments will move systems increases the complexity of working at a cluster
+                       level (paragraphs 3.2 and 3.3, and Figure 9).
+
+                       23 Clusters are working to improve their capacity and capability, but fundamental
+                       risks remain around recruiting the right skills at the right time. Departments have
+                       been working to improve their internal technological and commercial expertise.
+                       The Cabinet Office has provided support and advice to clusters in some key areas,
+                       such as commercial considerations and cloud services, and has outlined proposals
+                       to create a resource pool that will help match clusters to relevant capability and
+                       expertise. Efforts to recruit expertise have, however, been limited by a tight labour
+                       market, funding uncertainty and a complicated approvals process. Three clusters
+                       (Matrix, Synergy and Unity) have capacity and capability as key risks to the
+                       successful delivery of their shared service and the Cabinet Office also acknowledges
+                       that is a significant risk. The problem has been compounded by the fact that when
+                       refreshing the delivery model, the Cabinet Office required all departments to stop
+                       their existing plans and procurement processes. As a result, there is a risk that
+                       these three clusters will now be going to the market at very similar times, both for
+                       technology and for expertise. The Cabinet Office is working with clusters to improve
+                       the coordination between clusters’ timelines for commercial activity to ensure that
+                       this risk is managed (paragraphs 3.9 to 3.11).
+
+
+                       Conclusion on value for money
+                       24 The government’s previous shared services strategies failed to deliver their
+                       intended cost savings and other benefits. Its new Shared Services Strategy is
+                       highly ambitious and, while most departments consider the cluster model a sensible
+                       approach, there are several fundamental elements yet to be put in place that are
+                       jeopardising the success of the strategy. For example, the Cabinet Office is still
+                       unclear on the extent of the benefits this programme can be expected to bring. It is
+                       difficult to judge what progress has been made on enablers such as process and data
+                       convergence. We are concerned that these gaps cause uncertainty for departments
+                       and mean that the Cabinet Office will repeat past failures. We, therefore, cannot
+                       conclude that this programme is on track to demonstrate value for money.
+                                                   Government shared services Summary 13
+
+
+
+
+Recommendations
+25 These recommendations aim to help government put the right conditions in place to
+deliver its Shared Services Strategy, building on the work that the Cabinet Office already
+has underway.
+a    The Cabinet Office and clusters should first consider the feasibility of delivery,
+     including any contingency plans should funding not be forthcoming. They should
+     then take account of the following recommendations.
+
+Strategy design and governance
+b    The Cabinet Office should put in place performance metrics that allow it to
+     understand and measure how implementation of the strategy is proceeding, and
+     progress in achieving data and process convergence.
+c    The Cabinet Office should streamline its central governance arrangements so that
+     they avoid duplication and unnecessary work for departments.
+d    The Cabinet Office should ensure that future strategies that propose similar
+     transformational change are supported by a full business case. It should revisit and
+     update the ‘case for change’ to make this a more comprehensive assessment of the
+     costs and benefits of the strategy, working with departments to ensure benefits are
+     calculated consistently.
+e    Departments should establish cluster-level governance arrangements to avoid
+     duplication in decision-making and to embed the cluster model. It should no longer
+     use existing departmental governance routes to approve high-level strategy decisions.
+f    Departments working together as clusters should complete individual ‘declarations’
+     that set out agreed ways of working and reaffirm their commitment to the Shared
+     Services Strategy. This should be signed by each departmental accounting officer.
+g    Departments working together as clusters should ensure that their cost and benefit
+     figures are calculated in a consistent way to allow for comparison across clusters
+     and to make it easier to monitor the outcomes of the Shared Services Strategy.
+
+Implementation
+h    The Cabinet Office should revisit its decision to control cluster procurements via
+     the Digital Procurement Framework and consider contracts of a longer duration,
+     or with the option to extend as standard.
+i    The Cabinet Office should stagger when clusters go out to market so that clusters
+     do not all begin procurement at the same time. This should help to ensure capacity
+     and capability across the programme. It should take into account contract end
+     dates for ageing systems when deciding on this ordering.
+j    The Cabinet Office should create a pool of expert staff which can be used by
+     clusters to provide additional capability or capacity.
+k    Departments working together as clusters should each complete a ‘lessons
+     identified’ assessment to demonstrate how they have taken on board lessons from
+     previous strategies and share these with the Cabinet Office.
+14 Part One Government shared services
+
+
+
+
+                        Part One
+
+
+
+                        Progress on government shared services
+                        1.1 This part evaluates the progress government has made towards shared
+                        services since we last reported on the topic in 2016, including:
+
+                        •    the introduction of a new government Shared Services Strategy by the
+                             Cabinet Office in 2018 and its decision to refresh the delivery model in 2021;
+
+                        •    progress in implementing this strategy; and
+
+                        •    progress in learning from previous strategies, including the implementation
+                             of recommendations by the National Audit Office (NAO) and the Committee
+                             of Public Accounts (the Committee).
+
+
+                        Shared services in government
+                        1.2 All government departments need a range of corporate functions, including
+                        human resources (HR), finance, procurement and payroll to manage their operations
+                        effectively. Collectively known as the ‘back-office’, these functions deliver the core
+                        business processes needed to support front-line services. Since 2004, central
+                        government has sought to cut the cost of these services through the sharing
+                        of back-office functions between departments. This work has been led by the
+                        Cabinet Office.
+
+                        1.3 The aim of using shared services is to standardise processes and services
+                        so that they can be provided in a consistent and repeatable way, in high volumes,
+                        and therefore reduce costs. This often involves moving to a common IT system
+                        (or operating platform) and transferring operations to an organisation that can
+                        specialise in providing a service and, through economies of scale, can offer
+                        the service at a lower cost. The private sector and local authorities typically
+                        claim savings from implementing shared service centres, breaking even on
+                        their investment costs in less than five years.
+                                                                Government shared services Part One 15
+
+
+
+
+Government’s new Shared Services Strategy
+1.4 In 2018, the Cabinet Office published a new 10-year Shared Services Strategy
+with three objectives:
+
+•     Delivering value and efficiency, including by separating technology
+      from service centres, including all transactional services, and moving
+      to cloud‑based technology.
+
+•     Convergence around processes and data, including the consolidation
+      and modernisation of technology platforms while maintaining choice
+      for departments.
+
+•     Meeting end-user needs.
+
+1.5 The Cabinet Office’s Government Business Services leads the strategy.
+This includes setting the initial strategy design, approving departmental plans,
+overseeing progress and managing central risks to delivery. It also aims to provide
+centralised back-office functions and system leadership for central government,
+comprising shared services, the Government Recruitment Service, pensions delivery,
+and associated platforms. Responsibility to deliver the objectives of the strategy was
+delegated to government departments. Each department subsequently established
+its own plan, with the aim that all departments would be on new cloud-based
+systems by 2025 at the latest.
+
+1.6 In 2021, shared services across government consisted of 17 departmental
+groupings using seven different technology providers (Figure 1 on pages 16 and 17).
+More than 450,000 civil servants used these systems, which remained slow and
+frustrating, with an over‑reliance on manual input and spreadsheets. Data quality
+could be poor, take time to collate and remained inconsistent across departments.
+Differences in the way data were captured and held meant it was hard to share or
+make use of data across government and to track end-to-end processes across the
+systems that delivered shared services. A review of cross-government functions,
+published in 2021, noted that: “It appears that there has been little progress in
+driving forward shared services since 2015.”4
+
+1.7 In 2020-21, the latest year where data are available, the costs of providing
+back-office functions such as HR, finance, procurement and payroll across major
+government departments was £525 million, excluding the Foreign, Commonwealth
+& Development Office. These costs were provided by departments to the
+Cabinet Office and cover internal and external shared services expenditure;
+the cost of all systems involved in the delivery of these back-office functions,
+including support and subscriptions; processing activities that are performed
+in‑house within HR or Finance departments, such as payroll; and the cost of
+process transformation programmes.
+
+
+
+4   The Rt Hon Lord Maude of Horsham, Review of the cross-cutting functions and the operation of spend controls,
+    Cabinet Office, July 2021.
+16 Part One Government shared services                                                                                                                                                                                     Government shared services Part One 17
+
+
+
+
+Figure 1
+Shared services across government in 2021
+In 2021, shared services across government were complex and fragmented
+
+
+  Oracle                                                                                                                                             SAP                         Workday                   iTrent
+
+    Shared Services Connected Ltd (SSCL)                                        Ministry of Defence Defence Business Services                          HM Revenue & Customs       SSCL                       Department for
+                                                                                (MOD DBS)                                                                                                                    Digital, Culture, Media
+    Single operating platform (SOP)
+                                                                                                                                                                                    Cabinet Office           & Sport (HR)
+
+       Department for                      Ministry of Justice                     Ministry of Defence                                                                              (Government
+       Work & Pensions                                                                                                                                                              Commercial
+                                                                                                                                                       Ministry of Housing,         Organisation and         Attorney
+                                                                                                                                                       Communities &                Civil Service Fast       General’s Office
+                                                                                                                                                       Local Government             Stream only)
+       Department for                      Cabinet Office
+       Environment, Food                                                        Foreign, Commonwealth & Development Office (FCDO)
+       & Rural Affairs                                                          Services
+                                                                                                                                                       Arvato                     Department               Microsoft
+                                                                                                                                                                                  for Education
+    Non-SOP                                                                        Foreign,                            Department for
+                                                                                                                                                         Department               (HR and payroll)
+                                                                                   Commonwealth &                      International Trade                                                                   Department of
+                                                                                                                                                         for Transport
+                                                                                   Development Office                  (overseas staff)                                                                      Health & Social Care
+       Home Office
+
+                                                                                                                                                                                 Agresso
+
+                                                                                UK Shared Business Services                                                                                                  Department for
+                                                                                                                                                                                  Foreign, Commonwealth
+                                                                                                                                                     Integra                                                 Education (Finance)
+                                                                                                                                                                                  & Development
+                                                                                   Department for                      Department for                                             Office (staff from the
+       HM Treasury
+                                                                                   International Trade                 Business, Energy &              Department for Digital,    former Department
+                                                                                   (UK staff)                          Industrial Strategy             Culture, Media & Sport     for International
+                                                                                                                                                       (Finance)                  Development)
+
+
+
+   Shared service centres
+   Departments not on cloud
+   Departments not on cloud and with an in-house service provider
+   Departments already on cloud
+   Departments already on cloud and with an in-house service provider
+   Enterprise Resource Planning (ERP) software provider
+
+Note
+1   This figure shows the position of government shared services in 2021, including the ERP software providers and shared service centre providers
+    as confirmed by the departments involved. Since then, some departments shown as not on cloud have migrated to cloud.
+
+Source: National Audit Office review of Cabinet Office documents
+18 Part One Government shared services
+
+
+
+
+                        1.8 This was a 16% increase on the costs for 2019-20, resulting mainly from greater
+                        spend on transformation programmes, such as new technology. There was significant
+                        variation across departments in the cost per full-time equivalent employee ranging
+                        from £451 to £1,288. The Cabinet Office told us that the variations were down to the
+                        range and complexity of legacy systems in use and departments noted that costs may
+                        not be reported on a consistent basis.
+
+                        1.9 In March 2021, the Cabinet Office refreshed its delivery model, due to concerns
+                        that the objectives of the 2018 strategy would not be delivered.5 Departments were
+                        competing in the market for scarce skills and paying individually for services, rather
+                        than using the weight of government in the marketplace. The refresh moved away
+                        from the idea of individual departments procuring their own single software platforms.
+                        Instead, it proposed a cluster model, with departments grouped into five shared
+                        service clusters of varying sizes (Figure 2), who are free to procure any system that
+                        best suits their needs.
+
+                        1.10 The delivery model refresh aimed to make both the landscape simpler
+                        and increase departments’ abilities to exchange and make use of information
+                        (interoperability). It is part of wider government efforts to reform and modernise
+                        the civil service. The strategy has five work streams:
+
+                        •     The development of five shared service centres by 2028 at the latest, serving
+                              five departmental clusters: Defence, Matrix, Overseas, Synergy and Unity.
+                              Departments in each centre will work together to design a common operating
+                              model and implement standardised operating systems know as Enterprise
+                              Resource Planning (ERP) platforms. These platforms will be delivered via cloud
+                              technology as Software-as-a-Service (SaaS). SaaS providers host software
+                              or equipment on their servers, which are accessed through web applications
+                              and purchased through subscription licence fees. The Cabinet Office allocated
+                              each department to a cluster (see Figure 2).
+
+                        •     Commercial convergence. Development of new Crown Commercial Service
+                              frameworks as the route to procurement, supported by a national pricing model
+                              for major ERP suppliers. The Cabinet Office recommended three platforms for
+                              departments to adopt in their move to SaaS: Oracle, SAP and Workday.
+
+                        •     Data convergence. Development of common data standards for HR, finance
+                              and commercial, and improved data-sharing both in and between departments.
+
+                        •     Process convergence and transformation. To transform services and user
+                              experiences, through policy standardisation, automation and interoperability.
+                              The priorities are Joiners, Movers and Leavers, and Source to Pay,
+                              a procurement system.
+
+                        •     Performance and quality. The experience of those who use these services
+                              will be measured with a Net Promoter Score. There will be regular reporting
+                              against a standard set of key performance indicators (KPIs) on staff payments
+                              and invoices, and 95% of staff transfers will be completed within an agreed
+                              end‑to‑end timeline.
+
+                        5   Cabinet Office, Shared Services Strategy for Government, March 2021.
+Figure 2
+Government shared service centres
+The government is setting up five shared service centres capturing all main departments
+
+
+    Defence                       Matrix                                                            Overseas                         Synergy                          Unity
+
+
+
+     Ministry of Defence            Department for                  Attorney                          Foreign,                         Department for                   HM Revenue &
+     (MoD)                          Business, Energy &              General’s Office                  Commonwealth &                   Work & Pensions                  Customs (HMRC)
+     Civilian workforce             Industrial Strategy                                               Development Office
+     and Armed Forces                                                                                 (FCDO)
+                                                                                                                                       Department for                   Department for
+                                    Cabinet Office                  Department for Digital,                                            Environment, Food                Levelling Up, Housing
+                                                                    Culture, Media & Sport                                             & Rural Affairs                  & Communities
+                                                                                                      Department for
+                                                                                                      International Trade
+                                                                                                      (overseas)
+                                    Department                      Department of                                                      Home Office                      Department for
+                                    for Education                   Health & Social Care                                                                                Transport
+
+                                                                                                      Other departments with
+                                    Department for                  HM Treasury                       an overseas presence             Ministry of Justice
+                                    International Trade
+                                    (domestic)
+
+
+
+
+     Currently Oracle               Consortium to procure                                             Currently Oracle                 Consortium to procure            Currently SAP
+
+
+
+
+     MoD Defence                    Future service provider to be confirmed                           FCDO shared services             Future service provider          HMRC Services
+     Business Services                                                                                                                 to be confirmed
+
+     (Shared Services
+     Connected Ltd (SSCL)
+     are a delivery partner
+     for military HR and
+     veteran services)
+
+
+
+
+     Departments           Technology provider            Shared service provider
+
+Notes
+1   The Ministry of Defence is the lead department in the Defence cluster. The Department for Business, Energy & Industrial Strategy is the lead department in the Matrix cluster. The Foreign,
+    Commonwealth & Development Office is the lead department in the Overseas cluster. The Department for Work & Pensions is the lead department for the Synergy cluster. HM Revenue
+    & Customs is the lead Department in the Unity cluster.
+2    The Ministry of Defence shared service also supplies pensions and compensations services.
+
+Source: National Audit Office review of Cabinet Office documents
+                                                                                                                                                                                                  Government shared services Part One 19
+20 Part One Government shared services
+
+
+
+
+                             Progress in delivering the Shared Services Strategy
+                             1.11 The strategy aims to deliver a better experience for all users with systems that
+                             are intuitive, easy to use and mobile-enabled; deliver efficiency and value for money
+                             through better systems and services which support productivity and reduce costs;
+                             and standardise processes and data to support shared operations, making it easier
+                             to understand and compare corporate data. Figure 3 sets out progress against the
+                             strategy’s five work streams. The government is still a long way from having five
+                             functional shared service centres or the convergence it is seeking.
+
+                             1.12 Clusters described the strategy as “exceptionally ambitious” and the timelines
+                             as “challenging”. Once clusters have implemented their individual solutions, they will
+                             still have work to do to ensure data and process convergence across government.
+                             Governance arrangements also differ by cluster, with the Matrix cluster being
+                             the only one to have a joint investment committee. Individual departments in the
+                             Matrix cluster have also signed a ‘declaration of commitment’ that sets out agreed
+                             ways of working and reaffirms their commitment to the Shared Services Strategy.
+                             Other clusters currently use existing departmental governance structures, meaning
+                             that all proposals must be approved by each department’s boards, slowing the
+                             decision-making process down. The Cabinet Office does not know how much
+                             the strategy has cost to date.
+
+
+Figure 3
+Progress in delivering the Shared Services Strategy
+The Cabinet Office has made some progress across all five workstreams
+
+
+Workstream            Actions completed                      Actions in progress                  Future action
+
+The development       The Defence and Overseas clusters      The Defence and Overseas clusters    The Matrix, Synergy and
+of five shared        have launched their new Enterprise     are working to expand their          Unity clusters will undertake
+service centres       Resource Planning (ERP) systems.       initial services, while onboarding   procurements and implement
+                                                             more clients.                        their solutions.
+                      The Matrix, Synergy and Unity
+                      clusters obtained approval for
+                      their outline business cases in
+                      autumn 2022.
+
+Commercial            The Crown Commercial Service put       The Matrix, Synergy and Unity        Common commercial
+convergence           new commercial frameworks in place     clusters are still in the process    frameworks are
+                      to procure back-office software,       of assessing and agreeing their      utilised by clusters.
+                      software design and implementation     route to market.
+                      services and outsourced contact
+                      centre and business services.
+                      The Cabinet Office introduced a
+                      national pricing model for tier-one
+                      ERP software suppliers.
+                                                                                                  Government shared services Part One 21
+
+
+
+
+Figure 3 continued
+Progress in delivering the Shared Services Strategy
+
+Workstream                Actions completed                             Actions in progress                       Future action
+
+Data convergence          HM Treasury set up the Functional             The programme aims to share               Clusters implement the
+                          Convergence Programme to deliver              common data standards by                  data standards.
+                          common data standards across                  December 2022, with a validation
+                          Finance, HR & Commercial functions.           phase to April 2023. This will serve as
+                                                                        a framework for remaining functions
+                          The programme has developed
+                                                                        to align their data standards.
+                          some data standards for the
+                          commercial function.                          It plans to produce guidance
+                                                                        for clusters to use during their
+                                                                        procurements for system
+                                                                        implementers to ensure consistent
+                                                                        data standards are followed.
+
+Process                   The Cabinet Office introduced                 Further work by the functional            Clusters implement the
+convergence and           a single movers process that is               convergence programme to join             common processes.
+transformation            available to all departments on               up the Source to Pay end-to-end
+                          gov.uk and unified processes mean             process aims to be completed by
+                          it is now possible to benchmark               April 2023.
+                          data on joiners, movers and leavers
+                          across all departments.
+                          It simplified processes for complex
+                          death in service cases; introduced
+                          an automated contract generator
+                          for departments that it provides
+                          contract services for; and mapped
+                          end-to-end processes for contracts
+                          and payments, sharing these
+                          with departments.
+                          Communities of practice established.
+
+Performance               The Cabinet Office introduced                 Cross-departmental working groups         Cabinet Office will need to
+and quality               processes to monitor payroll                  are discussing the creation of            develop metrics to understand
+                          accuracy, invoice accuracy, end-user          additional metrics.                       progress in implementation of
+                          satisfaction, government transfers                                                      its Shared Services Strategy.
+                                                                        The Cabinet Office plans to
+                          and mobility of services.
+                                                                        improve data, acquiring data where
+                          It identified 476 key performance             previously unavailable and improving
+                          indicators across 28 categories,              data quality where necessary.
+                          with 575 supporting data points,
+                          and developed a benchmarking
+                          tool to facilitate reporting of
+                          these indicators.
+                          It established a user experience
+                          practitioners’ network and developed
+                          new metrics for user experience.
+
+
+Note
+1   A cluster is a group of departments working together to form a shared service centre.
+
+Source: National Audit Office analysis of Cabinet Office documents
+22 Part One Government shared services
+
+
+
+
+                        Learning from previous shared services strategies
+                        1.13 The Cabinet Office and other government departments have taken action
+                        to address the recommendations that the NAO and the Committee made in their
+                        respective 2016 reports on government shared services (Figure 4 on pages 23
+                        and 24).6 Many of those recommendations have yet to be fully addressed and
+                        outstanding issues are covered in Part Two and Part Three of this report.
+
+                        1.14 In 2021, the Cabinet Office encouraged each cluster to complete a
+                        standardised ‘lessons identified’ assessment to consider how their cluster
+                        has addressed the recommendations made by the NAO, the Committee, the
+                        Shared Services Board, internal technology experts, and industry specialists.
+                        By November 2022, it was still unclear whether any cluster had completed this
+                        assessment. This hinders their ability to avoid repeating past mistakes.
+
+
+
+
+                        6   Comptroller and Auditor General, Shared service centres, Session 2016-17, HC 16, National Audit Office, May 2016
+                            and HC Committee of Public Accounts, Shared Service Centres, Twentieth Report of Session 2016-17, HC 297,
+                            October 2016.
+                                                                                         Government shared services Part One 23
+
+
+
+
+Figure 4
+Progress against previous recommendations on shared services from the National Audit Ofﬁce
+(NAO) and the Committee of Public Accounts (the Committee)
+The Cabinet Office has made progress in implementing previous recommendations from the NAO and the Committee but many
+issues remain unresolved, and many actions remain incomplete
+
+
+Recommendation                          Progress                                    Outstanding actions or issues          NAO rating
+
+Leadership
+
+The Cabinet Office should               The Cabinet Office set up a team            Not all departments fully support         Red
+demonstrate it has learned from         within Government Business Services         the cluster model and some have
+past experience, consider the role      to act as a centre of expertise and         concerns about their ability to
+of the centre and the concerns          created a strategy board, attended by       deliver the strategy.
+of stakeholders, provide clear          departmental director generals.
+                                                                                    Benefits remain unclear.
+leadership, provide realistic
+timetables and benefits and
+ensure that it secures buy-in
+from departments.
+
+Risk management
+
+The Cabinet Office should take a        The Cabinet Office created                  The Cabinet Office needs to work         Amber
+more proactive approach to risk         and maintained a risk register.             to fully embed its new digital risk
+management by monitoring and            However, some risks on the register         management solution to ensure
+responding to risks as they arise;      had no owner, control activity or           that they get maximum value out
+including ensuring that short-term      response. It has since introduced a         of its use.
+contract expiry risks for existing IT   new digital risk management solution
+                                                                                    It also needs to ensure that
+systems do not dictate decisions        to address this.
+                                                                                    risks are articulated in terms
+about new long-term solutions.
+                                        It also uses meetings with departmental     of uncertainty, rather than as
+It should also ensure that future
+                                        Permanent Secretaries to address            statements of intent or fact.
+change programmes (such as
+                                        strategic risks.
+cloud-based solutions) can be
+delivered by suppliers and are not      The Crown Commercial Service put
+subject to the delays and issues        new commercial frameworks in place
+seen in the past.                       to clarify responsibilities of suppliers.
+                                        Departments are adopting different
+                                        solutions to manage these risks.
+
+Business case
+
+Large-scale transformation              The Cabinet Office produced a case          The Cabinet Office did not produce        Red
+projects should have a programme        for change, as well as guidance for         a programme business case for the
+business case with clear buy-in         cluster business cases. The Cabinet         Shared Services refresh and the
+from stakeholders and explicit sign     Office was named among assurers             ‘case for change’ produced by the
+up from departments. It should          for clusters going through the              Cabinet Office lacked the requisite
+cover governance and management         Spend Controls process.                     details, including on benefits. This
+arrangements, plans to realise                                                      had significant knock-on effects
+                                        Departments committed to the
+benefits, and possible funding                                                      when it came to funding and the
+                                        Shared Services Strategy at the
+models. It should be updated if there                                               development of individual cluster
+                                        Civil Service Board.
+are any future significant changes.                                                 business cases.
+24 Part One Government shared services
+
+
+
+
+Figure 4 continued
+Progress against previous recommendations on shared services from the National Audit Ofﬁce
+(NAO) and the Committee of Public Accounts (the Committee)
+
+Recommendation                                Progress                                     Outstanding actions or issues              NAO rating
+
+Funding
+
+Consider how funding is distributed           The Cabinet Office provided support          Clusters are concerned about the                Red
+to ensure that affordability issues           for departments when they were               affordability of shared services.
+within some departments do not                preparing Spending Review bids               Clusters may not receive the level of
+compromise the programme.                     during the 2021 Spending Review.             funding required for their preferred
+                                                                                           options over the 2021 Spending
+                                                                                           Review period and will require
+                                                                                           additional funding in future Spending
+                                                                                           Review periods.
+
+Standardisation of processes
+
+The Cabinet Office should ensure              The Government Finance Function,             Clusters have yet to implement                 Amber
+that its initiative to identify common        Civil Service HR, and the Government         the global design principles.
+finance and HR processes is                   Commercial Function have developed
+simplified and standardised to                a set of design principles that should
+realise planned benefits.                     apply to finance and HR processes
+                                              in all departments.
+                                              The Joiners, Movers and Leavers
+                                              programme is being developed to
+                                              standardise key processes.
+
+
+Notes
+1   Recommendations are from: Comptroller and Auditor General, Shared service centres, Session 2016-17, HC 16, National Audit Office, May 2016
+    and HC Committee of Public Accounts, Shared Service Centres, Twentieth Report of Session 2016-17, HC 297, October 2016. The table is intended
+    to provide a summary of all of the NAO and the Committee’s recommendations. The complete recommendations can be found in the original reports.
+2   NAO ratings on implementation of recommendations as of September 2022: green – fully implemented; amber – clear progress made;
+    red – limited or no progress made.
+
+Source: National Audit Office analysis of Cabinet Office documents
+                                                                 Government shared services Part Two 25
+
+
+
+
+Part Two
+
+
+
+Conditions to deliver the government’s
+Shared Services Strategy
+2.1 Our previous work has shown that several conditions should be in place to
+maximise the successful delivery of shared service strategies. These include,
+but are not limited to:
+
+•     support and participation from departments;
+
+•     a programme business case, including clear benefits;
+
+•     proactive risk management;
+
+•     appropriate funding; and
+
+•     appropriate governance and oversight.
+
+This part considers some of these conditions with Part Three, on future challenges,
+considering the other conditions.
+
+
+Departmental support and participation
+2.2 Our previous work on shared services has highlighted the importance of
+securing departmental buy-in to delivering government shared services strategies.7
+We found that departments supported the cluster approach adopted by the
+Cabinet Office.
+
+
+
+
+7   For example, Comptroller and Auditor General, Shared service centres, Session 2016-17, HC 16, National Audit
+    Office, May 2016, and Comptroller and Auditor General, Investigation into Verify, Session 2017–2019, HC 1926,
+    National Audit Office, March 2019.
+26 Part Two Government shared services
+
+
+
+
+                        2.3 As part of the refresh, the Cabinet Office considered four options: doing
+                        nothing; a single shared service across government; a single shared service provider
+                        but different Enterprise Resource Planning (ERP) systems; and a small number of
+                        centres with one shared service provider and one ERP system (the cluster model).
+                        Departments told us that the cluster model made sense and that a single shared
+                        service would have been overly complex. However, they were not consulted on the
+                        number of clusters or which cluster they were allocated to, which affected support
+                        from some departments. When assigning departments to clusters, the Cabinet Office
+                        told us it considered several factors, including whether a department’s focus was on
+                        policy or delivery and what operating system each department currently used. It told
+                        us that it used an informal working group to check ideas with departments, but it is
+                        not clear why some departments were assigned to particular clusters. A review of the
+                        cross-cutting functions and the operation of spend controls, carried out by Lord Maude
+                        in 2021, recommended that there be no more than five clusters, preferably fewer.8
+
+                        2.4 The departments who are less convinced by the cluster model mainly come
+                        from the Matrix cluster. This cluster faces several issues which stem from the large
+                        number of departments (eight) expected to work together and the lack of rationale
+                        behind their grouping. However, these departments told us they remain committed
+                        to making the cluster model work.
+
+
+                        Programme business case
+                        2.5 Our previous work has highlighted the need for large-scale transformation
+                        projects to have a programme business case to support more effective
+                        decision‑making and a more efficient planning and approval process. HM Treasury
+                        guidance also states that all major programmes and projects considered by the
+                        centre of government should be supported by a business case. The Cabinet Office
+                        did not produce a programme business case for its 2021 Shared Services Strategy.
+                        It considers the strategy to be neither a programme nor a project and therefore
+                        asserts it was not required to complete a business case and submit it to HM Treasury
+                        for review. Regardless of what it is called, an initiative of this size requires significant
+                        advance planning. Because a business case was not deemed necessary, insufficient
+                        thought was given to issues such as costs, benefits, risks and interdependencies.
+                        This had significant knock-on effects when it came to funding and the development
+                        of individual cluster business cases.
+
+                        2.6 Instead of developing a business case, the Cabinet Office produced a less
+                        comprehensive ‘case for change’, which was approved internally but did not receive
+                        any external scrutiny. This includes some of the thinking that we would expect to
+                        see in a business case but lacks the requisite detail in areas such as costs, benefits,
+                        risks, alternatives and management safeguards (Figure 5).
+
+
+
+
+                        8   The Rt Hon Lord Maude of Horsham, Review of the cross-cutting functions and the operation of spend controls,
+                            Cabinet Office, July 2021.
+                                                                    Government shared services Part Two 27
+
+
+
+
+Figure 5
+Comparison of the Cabinet Ofﬁce’s ‘case for change’ for shared services with
+HM Treasury’s business case requirements
+The Cabinet Office’s ‘case for change’ is far less comprehensive than a business case
+
+
+Business case              ‘Case for change’             Differences between the CfC and HM Treasury
+requirements               (CfC) requirements            business case requirements
+
+Strategic case             Why we need to                Does not discuss objectives or alternatives. Does not
+                           change                        demonstrate stakeholder buy-in.
+
+Economic case              The way forward               Does not have the same breadth of options and does
+                                                         not include a full appraisal of the costs and benefits.
+
+Commercial case            Using government’s            Does not establish if procurement is required, if it is
+                           buying power                  crucial or set a procurement strategy.
+
+Financial case             Financial                     Does not estimate contingent liabilities, funding gaps,
+                           considerations                provisions for dealing with delays or overruns, or the
+                                                         impact of total costs on budgetary control.
+
+Management case            Moving to delivery            Does not identify gateway reviews or internal audit
+                                                         arrangements. Contingency planning is not addressed.
+                                                         There is no provision for evaluation and monitoring
+                                                         arrangements are not specified.
+
+
+Note
+1   The Cabinet Office submitted a ‘case for change’ to the Civil Service Operations Board in January 2021.
+
+Source: National Audit Office analysis of the Cabinet Office’s ‘case for change’
+
+
+
+
+Benefits
+2.7 The benefits of the strategy remain unclear and this uncertainty has not
+helped departmental support. While the Cabinet Office has begun to identify and
+measure benefits on some individual areas such as the programme to standardise
+the processes for people to join, move and leave the civil service, its central
+database of expected benefits does not contain any quantified or measured savings.
+It instead provides only a narrative description of each anticipated benefit, such
+as ‘less time spent by staff scanning & loading invoices’. This makes it difficult to
+measure success. It assumes broader savings of between 10% and 15% across
+the programme but it is unclear how these figures have been calculated and
+what evidence supports them. If the Cabinet Office considered the strategy to be
+strategically vital, for example to keep critical services going, then its benefits would
+become less important. However, this was never communicated to departments.
+Clusters frequently cited the uncertainty surrounding central interoperability benefits
+as the biggest obstacle the strategy faces which may be hindering buy-in from some
+senior officials.
+28 Part Two Government shared services
+
+
+
+
+                        2.8 The Cabinet Office made a deliberate decision to not calculate
+                        programme‑wide costs and benefits at the outset. It told us that the business
+                        cases from previous central shared services strategies were inaccurate in terms
+                        of costs and benefits. To address this problem, it adopted a bottom-up approach
+                        for the current strategy, with the Matrix, Synergy and Unity clusters asked to
+                        develop their own business cases, setting out their costs and benefits. We have
+                        not seen any assessment of costs and benefits from the remaining two clusters.
+                        The Cabinet Office told us that the case for change will be updated to reflect cost
+                        and benefit estimates as clusters develop these calculations and business cases.
+                        It acknowledges that this approach brings risks but believes that there is enough
+                        evidence from other industries to assume that the programme will generate savings
+                        by developing economies of scale and increasing operational efficiencies.
+
+                        2.9 We were told that the Cabinet Office has worked with clusters to make each
+                        cluster’s benefits calculation process more reliable, including undertaking work to
+                        understand what benefits the private sector has generated from similar initiatives.
+                        Clusters are required to follow HM Treasury’s Green Book guidance for defining
+                        benefits, as well as to address optimism bias in their calculations. However, clusters’
+                        calculations of benefits are cluster specific and do not include the wider benefits
+                        to government, such as better data and interoperability. Clusters consider that the
+                        Cabinet Office should have calculated those government-wide benefits and that this
+                        would have helped departmental buy-in. Departments told us that the Cabinet Office
+                        did not calculate the expected programme benefits as it did not understand what
+                        benefits could be generated.
+
+                        2.10 In July 2022, the Cabinet Office estimated that it would have cost £1.7 billion
+                        to replace shared service systems individually by department, as they reach the end
+                        of their service contracts, rather than adopting a cluster model. It told us that the
+                        decision to cluster avoids this scenario and as such it considers avoiding this cost to
+                        be a benefit. The estimate of expenditure does not take account of the costs that will
+                        be incurred through delivery via the cluster model, or that departments already on
+                        cloud are having to replace those systems under this strategy when they would not
+                        have needed to otherwise.
+
+                        2.11 In November 2022, clusters identified potential benefits of £2.0 billion and
+                        total investment costs of £0.9 billion (Figure 6). Benefits include cashable and
+                        non‑cashable benefits. Cashable benefits range from £65 million to £336 million
+                        across the three clusters. Costs and benefits have also not been calculated
+                        consistently across clusters which makes it difficult to come to a clear picture
+                        on the financial position of the strategy. The Cabinet Office is working with
+                        clusters to improve the quantification of the overall benefits.
+                                                                       Government shared services Part Two 29
+
+
+
+
+Figure 6
+Estimated investment costs and benefits of the Shared Services Strategy,
+November 2022
+Clusters have estimated £2.0 billion in benefits and £0.9 billion in investment costs from the new
+Shared Services Strategy
+
+Value of expected costs and benefits over project lifetime (£bn)
+1.2
+
+                                                                     1.14
+1.0
+
+
+0.8
+
+
+0.6
+                             0.58                            0.58
+
+0.4
+
+
+0.2
+                                                                                                           0.24
+                      0.17
+                                                                                                    0.13
+    0
+                         Matrix                                Synergy                                Unity
+                                                               Cluster
+
+    Investment costs
+    Benefits
+
+Notes
+1   A cluster is a group of departments working together to form a shared service centre.
+2       The Matrix cluster comprises the Attorney General’s Office, the Department for Business, Energy & Industrial
+        Strategy, HM Treasury, the Cabinet Office, the Department for Digital, Culture, Media & Sport, the Department
+        for International Trade, the Department of Health & Social Care and the Department for Education. It assumed
+        a 15-year project lifetime.
+3       The Synergy cluster comprises the Department for the Environment, Food & Rural Affairs, the Department
+        for Work & Pensions, the Home Office and the Ministry of Justice. It assumed a 15-year project lifetime.
+4       The Unity cluster comprises HM Revenue & Customs, the Department for Transport and the Department for
+        Levelling Up, Housing & Communities. It assumed an 11-year project lifetime.
+5       All costs and benefits are current estimates and likely to change.
+6       We have used the largest value in the range of costs and benefits provided by the Matrix cluster for the purpose
+        of this analysis.
+7       There are a number of differences in the way that clusters calculated their costs and benefits, such as whether to
+        adjust for optimism bias or discount the expected cash flows, that may impact on the comparability of these figures.
+
+Source: National Audit Office analysis of data provided by the Matrix, Synergy and Unity clusters
+30 Part Two Government shared services
+
+
+
+
+                        2.12 There is no consistent standard followed when calculating predicted benefits.
+                        Some benefits are cashable, meaning they generate financial savings, whereas other
+                        are non-cashable, meaning they produce qualitative benefits like level of satisfaction
+                        with the service. Depending on their own definitions, different clusters may define
+                        the same benefit as cashable or non-cashable. Some departments believe that
+                        most of the benefits resulting from the transformation will be non-cashable benefits.
+                        They note that, while shared services will mean people will not have to enter the
+                        same information into the system as many times, such benefits will not necessarily
+                        save money. The Cabinet Office considers that entering less information into the
+                        system will inevitably lead to cashable benefits, noting as an example that fewer
+                        people may be needed if information does not have to be entered repeatedly.
+
+
+                        Risk management
+                        2.13 When we last reported on shared services in 2016, the Cabinet Office did
+                        not have a central risk register for the strategy. We recommended that it should
+                        take a more proactive approach to risk management, and it has since introduced
+                        a central risk register and identified success factors that are critical to programme
+                        delivery. This register is part of an operational end-to-end risk management
+                        framework that should allow for effective risk mitigation. Key risks at a cluster level
+                        are identified and monitored by the Cabinet Office, who work to ensure that the
+                        causes and consequences of these risks are properly understood. The central
+                        risk register is updated monthly following risk reviews with each workstream lead
+                        where ongoing risks are discussed, and risks which exceed tolerance levels are
+                        flagged for escalation with senior leaders. The Cabinet Office has also set up a
+                        project management office to define a structured approach to risk management
+                        and has recently introduced a new risk tool which intends to standardise
+                        risk reporting across the organisation.
+
+                        2.14 Although the Cabinet Office has taken steps to improve its management of
+                        risk, there were several inconsistencies in the practical application of its register.
+                        This included risks without owners or control activities. The Cabinet Office has
+                        since implemented a digital risk management solution which will help to ensure
+                        that this cannot happen in the future, as risks cannot be logged without owners
+                        or control activities. Of the open project risks, five have a residual ‘red’ risk rating
+                        even after mitigation. This raises concerns around the effectiveness of steps taken
+                        by the Cabinet Office to reduce risk (Figure 7). Some risks are also articulated as
+                        statements of intent or fact, rather than in terms of uncertainty. Without clearly
+                        articulated risks it is difficult to ascertain what the real uncertainty is, and how
+                        effective the response will be in managing the impact of the risk.
+                                                                   Government shared services Part Two 31
+
+
+
+
+Figure 7
+Open risks for the Shared Service Strategy that have a ‘red’ rating even
+after mitigation, November 2022
+Five out of twenty-five open project risks have a ‘red’ risk rating even after mitigation
+
+
+Risk category           Risk description
+
+Strategy                There is a risk that delays to future iterations of cluster business cases will result
+                        in delays to the timeline for onboarding departments to their Enterprise Resource
+                        Planning (ERP) solutions.
+
+Operations              There is a risk that negotiations with Trade Unions will not be complete by the
+                        forecast date of March 2023.
+
+                        There is a risk that clusters will be competing with each other for the same types
+                        of suitably experienced resources in key and high-demand skills sets.
+
+Technology              There is a risk that some departmental systems are likely to become unsupported
+                        before the new ERPs can become operational.
+
+                        There is a risk that at least one department chooses not to move off its current
+                        operating platform until after its existing contract end date. The cluster’s new service
+                        provider would then need to support the old technology, which may not be legally or
+                        commercially viable.
+
+
+Source: National Audit Office analysis of Government Business Services’ project risk register
+
+
+
+
+Design and technology considerations
+2.15 When planning for a new programme of work that involves significant
+organisational change, bodies rely on experts to assure them that their strategy is
+viable and will meet their needs. The Cabinet Office did not obtain such assurance
+over its Shared Services Strategy or the delivery model. This means that there was
+no external review of the strategy design, the proposed technology or the suggested
+procurement timeframes. There was no external assurance of the assumptions on
+process convergence, interoperability and data integration across government.
+The Committee of Public Accounts recently noted the importance of carrying
+out technical assurance, both at the beginning and throughout the lifecycle of
+digital change programmes.9 The Cabinet Office told us that technical and design
+assurance will be carried out on clusters’ individual shared services programmes.
+
+
+
+
+9   HC Committee of Public Accounts, Challenges in implementing digital change, Thirtieth Report of Session 2021-22,
+    HC 637, December 2021.
+32 Part Two Government shared services
+
+
+
+
+                        Governance
+                        2.16 Figure 8 sets out the governance arrangements for shared services.
+                        The Cabinet Office set up three new boards which provided governance for the
+                        strategy: the Shared Services Board, the Shared Services Design Authority, and the
+                        Strategy and Delivery Board (whose operations were wholly internal to Government
+                        Business Services and which has now been disbanded). Some departments
+                        told us that they considered the central governance of the strategy to be poorly
+                        thought through and likely to result in duplication of effort. The Cabinet Office
+                        recognises that its governance arrangements can be improved and has begun
+                        to streamline them.
+
+                        2.17 The central boards are in addition to governance arrangements at both cluster
+                        and departmental levels. HM Treasury told us that these multiple layers of governance
+                        are not conducive to good decision-making or coming to a joint view on what matters,
+                        and the Cabinet Office themselves recognise that there ‘remain challenges around
+                        the coordination, complexity of requirements and governance’ that need to be worked
+                        through. Governance arrangements also differ by cluster, with some requiring approval
+                        from each department, before high‑level cluster decisions can be taken. This risks
+                        undermining the work done to date to bring departments together into clusters. It also
+                        risks increasing fragmentation, delivering poorer standardisation and user experience,
+                        and securing fewer efficiencies and benefits than intended. HM Treasury told us that it
+                        considers excess departmental governance to represent a risk to both the current and
+                        future delivery of the strategy.
+                                                                                                 Government shared services Part Two 33
+
+
+
+
+Figure 8
+Governance of government’s shared services
+The governance arrangements for shared services are complex
+
+
+    Civil Service Operations Board
+    Role: Sets the direction for Civil Service operations and provides top-level assurance
+    that the Shared Service strategy is on track and delivering the intended aims
+    Membership: Departmental chief operating officers and heads of functions                            Independent shared service centre
+                                                                                                        two (ISSC2) framework agreement1
+
+
+                                                                                                         ISSC2 Customer Board
+    Government Shared Services (GSS) Board
+                                                                                                         Overall responsibility for the
+    Role: Approves Shared Services strategy, assesses whether strategic benefits are
+                                                                                                         executive management of the
+    being realised, and enables sharing of experience between clusters
+                                                                                                         framework agreement
+    Membership: Government Business Services (GBS), GSS Design Authority, cluster
+                                                                                                         Membership: ISSC2 departments,
+    senior responsible owners, leads from government functions, shared services leads
+                                                                                                         audit, risk and assurance
+    from government departments, and audit, risk and assurance partners
+                                                                                                         partners, Metropolitan Police,
+                                                                                                         SSCL and GBS
+
+
+    GSS Design Authority                              GSS Cluster Boards
+    Role: Approves or rejects deviation               Role: Accountable for each shared                   Performance            Strategic
+    from design principles (digital, data,            service and report into GSS Board                   Board                  Information
+    process etc)                                                                                                                 Assurance
+                                                      Membership: Departmental                            Hold the
+                                                                                                                                 Board
+    Membership: GBS, cluster and                      representatives                                     provider (SSCL)
+    functional representatives, and subject                                                               accountable for        Information
+    matter experts as required                                                                            performance-           assurance
+                                                                                                          related issues         for the
+                                                                                                                                 framework
+                                                                                                                                 contract and
+    Functional governance                             Shared service providers                                                   ensuring
+                                                                                                                                 compliance
+    Role: The commercial, digital, finance,           Role: Each shared service centre is
+                                                                                                                                 within the
+    HR and security functions continue                responsible for management of its
+                                                                                                                                 contract
+    to drive common standards, reporting              provider, monitoring performance and
+    to the Design Authority to ensure                 any related governance
+    alignment and interoperability
+
+
+    Cross-government shared services
+    ISSC2 framework agreement
+     Report to
+
+Notes
+1   The ISSC2 framework agreement covers one of the shared service centres for the government’s previous Shared Services Strategy.
+    The contract is due to end in October 2024.
+2    SSCL is Shared Services Connected Ltd.
+
+Source: National Audit Office review of Cabinet Office documents
+34 Part Three Government shared services
+
+
+
+
+                        Part Three
+
+
+
+                        Future challenges
+                        3.1 This part sets out some of the challenges that departmental clusters will face
+                        in delivering the current Shared Services Strategy and the mitigating actions that
+                        have been put in place to address them, including:
+
+                        •    operating systems that will soon become unsupported;
+
+                        •    funding uncertainty;
+
+                        •    potential procurement issues; and
+
+                        •    limitations on capacity and capability.
+
+
+                        Operating systems
+                        3.2 Some departments have ageing systems that will soon be unsupported,
+                        increasing the risk of system failure, cyber vulnerabilities and additional costs
+                        (Figure 9). For example, the Department for Business, Energy & Industrial Strategy
+                        (BEIS) uses an Oracle platform which will no longer be supported after 2023.
+                        HM Revenue & Customs (HMRC) told us it must be off its current platform by
+                        2027, which will be a tight deadline to meet. Departments are adopting different
+                        approaches to managing these risks, demonstrating differences in their risk appetite.
+                        For example, some departments are putting in place contingency plans in case the
+                        new shared services are not operational in time. BEIS, meanwhile, is in the process
+                        of upgrading its platform because it does not anticipate the Matrix cluster being up
+                        and running before its platform runs out of support. The Cabinet Office approved
+                        this procurement on security grounds. These contingency plans will increase the
+                        cost of the Shared Services Strategy by an unknown amount.
+Figure 9
+End-of-life dates for departments’ Enterprise Resource Planning (ERP) systems in the Matrix, Synergy and Unity clusters
+Some departments’ systems are approaching their end-of-life dates
+
+Cluster            Department                                                                                           Support for current system expires
+
+Matrix             HM Treasury
+
+                   Department for Education
+
+                   Department of Health & Social Care
+
+                   Cabinet Office
+
+                   Department for Digital, Culture, Media & Sport
+
+                   Department for International Trade
+
+                   Department for Business, Energy & Industrial Strategy
+
+Synergy            Home Office
+
+                   Ministry of Justice
+
+                   Department for Work & Pensions
+
+                   Department for Environment, Food & Rural Affairs
+
+Unity              Department for Transport
+
+                   Department for Levelling Up, Housing & Communities
+
+                   HM Revenue & Customs
+
+                                                                                      2022      2023     2024     2025     2026     2027     2028     2029      2030     2031     2032     2033
+
+
+    Use cloud-based services that are continually updated and therefore have no end-of-life date
+
+Notes
+1   A cluster is a group of departments working together to form a shared service centre.
+2   To ensure that the Department of Business, Energy & Industrial Strategy and the Department of International Trade do not go out of support, there is a project to upgrade their on-premise
+    platform. This is a technical compliance upgrade only and the benefits of this are minimal.
+
+Source: National Audit Office analysis of Cabinet Office documents
+                                                                                                                                                                                                  Government shared services Part Three 35
+36 Part Three Government shared services
+
+
+
+
+                        3.3 Some clusters are planning for their departments to join their shared services
+                        in phases. The Matrix cluster plans to use two phases, with four departments
+                        designated as ‘early adopters’ and four departments joining later. The four ‘late
+                        adopters’ have not participated in much of the planning and want to reserve the
+                        option of moving to another cluster. This increases the difficulty of organising a
+                        cohesive cluster. The Cabinet Office told us that it is willing to be flexible with the
+                        sequencing of when departments join shared services, noting that it made no sense
+                        for some departments to leave existing contracts early to synchronise with those
+                        currently using ageing systems.
+
+
+                        Funding
+                        3.4 Three clusters (Matrix, Synergy and Unity) submitted bids for the funds to
+                        deliver the Shared Services Strategy in the 2021 Spending Review for the period up
+                        to 2024-25. The Overseas and Defence clusters are much further advanced and
+                        have been using existing funding to create single technology platforms. HM Treasury
+                        rejected all three bids, with a combined value of £759 million (Figure 10), due to
+                        concerns that the Cabinet Office and clusters had not done enough work to develop
+                        robust cost estimates or to consider fundamental elements of the strategy, including
+                        governance arrangements and cluster design. HM Treasury noted that at that time
+                        there had been a lack of joined-up working throughout the process and that not all
+                        stakeholders were equally committed to the idea of the strategy.
+
+                        3.5 Although these three bids were rejected, HM Treasury approved a
+                        funding envelope of up to £300 million to support these clusters to deliver the
+                        Shared Services Strategy and to address the risk that departments could be left
+                        with unstable and unsupported systems in the interim (Figure 10). Cabinet Office
+                        recognises the risk that these ageing systems bring in its central risk register for the
+                        strategy. Access to this funding was contingent on the approval of cluster business
+                        cases by the Cabinet Office and HM Treasury, which clusters only obtained in
+                        autumn 2022. The forecast funding requirement for the current Spending Review
+                        period in these business cases is £382 million to £403 million, for clusters’ preferred
+                        options. Some departments told us that the uncertainty about funding and the
+                        intensive bidding process has entailed considerable time and effort, with missed
+                        opportunities for some departments to already be on cloud platforms. Departments
+                        also told us that this settlement may not be enough money to allow them to proceed
+                        with their preferred procurement options if final costs continue to exceed the funding
+                        envelope. However, the Cabinet Office noted that departments already spend money
+                        on corporate services and should be contributing their existing resources to their
+                        cluster’s efforts.
+                                                                  Government shared services Part Three 37
+
+
+
+
+Figure 10
+Funding for the Shared Services Strategy
+There is a shortfall in funding for clusters’ preferred options for the 2021 Spending Review period
+of about £100 million
+
+Funding (£mn)
+800
+
+                                                                                                   759.4
+700
+
+
+600
+
+
+500
+
+
+400                                     420.5
+                                                                                                           402.7
+
+300
+                                                                                                                   300.0
+
+200
+
+          172.2                                 183.5
+                                                                      166.7
+100               122.4
+                                                                              96.8
+
+    0
+                Matrix                       Synergy                          Unity                        Total
+                                                            Cluster
+
+    Funding bid for the 2021 Spending Review covering the period up to 2024-25
+    Funding bid in cluster business case covering the period up to 2024-25
+    Allocation from the 2021 Spending Review covering the period up to 2024-25
+
+Notes
+1   The Matrix cluster comprises the Attorney General’s Office, the Cabinet Office, the Department of Business,
+    Energy & Industrial Strategy, the Department for Digital, Culture, Media & Sport, the Department for Education,
+    the Department for International Trade, the Department of Health & Social Care, and HM Treasury. The Synergy
+    cluster comprises the Department for Environment, Food & Rural Affairs, the Department for Work & Pensions,
+    the Home Office and the Ministry of Justice. The Unity cluster comprises, the Department for Transport, the
+    Department for Levelling Up, Housing & Communities and HM Revenue & Customs.
+2   The Defence and Overseas clusters use existing funding.
+3   The 2021 Spending Review took place in 2021 and covers the period up to 2024-25.
+4   The funding bid in the Matrix cluster’s business case ranged in value from £101.9 million to £122.4 million.
+    The upper value has been used in this figure.
+5   Clusters’ funding figures are likely to be revised as clusters engage with the market and finalise their
+    business cases.
+
+Source: National Audit Office analysis of Cabinet Office Spending Review data
+38 Part Three Government shared services
+
+
+
+
+                        3.6 To make the clusters’ shared services programmes more affordable, the
+                        Cabinet Office asked departments to reduce costs in the current Spending Review
+                        period. This has resulted in some costs being pushed into future Spending Review
+                        periods. The cluster business cases forecast that about £480 million in investment
+                        funding will be required in subsequent Spending Review periods to deliver these
+                        programmes. These figures are likely to change as clusters engage with the market
+                        and finalise their business cases. It is not clear what the Cabinet Office plans to
+                        do if clusters do not get this future funding or what impact this will have on the
+                        government’s Shared Services Strategy.
+
+
+                        Procurement
+                        3.7 The Cabinet Office has told the clusters that when they procure their new
+                        Enterprise Resource Planning (ERP) systems, these procurements must align with
+                        the existing central digital procurement framework.10 This standard procurement
+                        framework considers five- to seven-year contracts to be standard. Contracts of this
+                        length are often beneficial, facilitating frequent technological upgrades and cheaper
+                        deals. However, clusters told us that they would welcome more flexibility to award
+                        longer contracts to maximise cashable savings. Some clusters noted that they may
+                        not reach a breakeven point on their investments within the lifetime of a five- to
+                        seven-year contract.
+
+                        3.8 A department told us that, given the significant number of staff and volume
+                        of spend these systems will manage, the procurement represents infrastructure
+                        spend rather than digital spend. As such it believes that these contracts should not
+                        be bound by the digital procurement framework, meaning longer contracts would
+                        become an available option. Clusters are currently liaising with the Cabinet Office’s
+                        Digital Controls Team and the Government Commercial Function to better
+                        understand what options are available to them.
+
+                        3.9 When the Cabinet Office refreshed its delivery model in 2021, it told
+                        all departments to stop any existing work on planning and procurement.
+                        Although the refresh meant that there would be only five cluster procurements
+                        rather than 17 departmental procurements, it also meant that timescales became
+                        condensed. Each of the five clusters had to start afresh, with future milestones such
+                        as going out to tender and launch dates now more closely aligned across the groups.
+                        As a result, there is a risk that three clusters (Matrix, Synergy and Unity) will now be
+                        looking to purchase both their technology and their expertise at very similar times.
+                        As there is already a limited pool of experts, competing for the same resources at
+                        similar points in time is likely to create winners and losers between the clusters.
+                        The Cabinet Office is working with clusters to improve the coordination of their
+                        timelines for commercial activity to ensure that this risk is addressed.
+
+
+
+
+                        10 The relevant framework is the Back Office Software Framework.
+                                             Government shared services Part Three 39
+
+
+
+
+Capacity and capability
+3.10 Clusters have been working to improve their capacity and capability to
+deliver the Shared Services Strategy. Some departments have already invested in
+training and recruitment so that they can reduce reliance on external specialists.
+However, departments noted that this remains a challenge for them, with a limited
+pool of experts to draw from, pay limitations, funding uncertainty and a complicated
+approvals process exacerbating the issue. Three clusters (Matrix, Synergy and Unity)
+have capacity and capability as one of their key risks to the successful delivery
+of their shared service and the Cabinet Office also acknowledges that this is a
+significant risk.
+
+3.11 The Cabinet Office has provided support and advice to clusters in some key
+areas, such as commercial considerations, cloud services and designing systems
+that are easy to use. The Cabinet Office has also lent individual staff members to
+clusters to help them at important stages and has outlined proposals to create
+a resource pool that will help match clusters to relevant capability and expertise
+and help ensure that lessons learned in each implementation can be carried
+through to future clusters. This resource pool will be made up of existing staff
+with relevant experience.
+
+3.12 The Infrastructure and Projects Authority (IPA) undertook Gate 0 reviews of the
+shared services programmes of the Matrix, Synergy and Unity clusters in July and
+August 2022. These reviews take place at the start of programmes, typically when
+a programme business case has been produced. They highlighted significant issues
+that remain to be addressed, including resources and funding.
+40 Appendix One Government shared services
+
+
+
+
+                       Appendix One
+
+
+
+                       Our audit approach and evidence base
+                       1    Our independent conclusions on whether the government’s Shared
+                       Services Strategy is on track to deliver and represents value for money were
+                       reached following our analysis of evidence collected between March 2022
+                       and September 2022. We formed our conclusions after considering our three
+                       study questions:
+
+                       •    Has the government made progress since we last reported on shared
+                            services in 2016? Sub-questions covered implementation of learning from
+                            previous shared services strategies, including implementation of previous
+                            National Audit Office (NAO) and Committee of Public Accounts (Committee)
+                            recommendations, and progress against the current strategy’s objectives
+                            and the work streams that support these objectives.
+
+                       •    Are the right conditions in place for the government to deliver its proposed
+                            efficiencies and savings? Sub-questions covered, but were not limited to,
+                            governance arrangements, departmental buy-in, funding, capacity and
+                            capability to deliver, and data to support progress monitoring.
+
+                       •    Has the government put in place mitigating actions to address the future
+                            challenges it faces in delivering its strategy? Sub-questions covered the key
+                            risks to delivery of the strategy and the mitigating actions being put in place
+                            to address these risks.
+
+                       2    While the Shared Services Strategy is a cross-government initiative that
+                       involves every central government department, our study mainly focuses on the role
+                       of the Cabinet Office in setting the strategy and coordinating its implementation.
+                       This work drew on two main evidence sources.
+
+
+                       Document review
+                       3    We submitted a formal document request to the Cabinet Office, asking for
+                       documents that would help us to answer each of our audit questions. We held
+                       regular meetings with officials from the Cabinet Office’s Government Business
+                       Services team to discuss what documents were available and relevant. We also
+                       followed up with additional document requests as the result of information provided
+                       through our interviews or from the review of documents we had already received.
+                                            Government shared services Appendix One 41
+
+
+
+
+4    We reviewed and qualitatively assessed a wide range of Cabinet Office
+documents relating to the Shared Services Strategy against each of our audit
+questions and sub-questions. The results of the reviews were documented in a
+matrix setting out our findings against each of our audit questions. This analysis
+was used to:
+
+•    inform further discussion and follow up with the Cabinet Office;
+
+•    triangulate findings from other sources, including interview and quantitative
+     data; and
+
+•    report on our three study questions.
+
+5     The documents reviewed included, but were not limited to, strategy documents,
+internal assessments, commercial frameworks, board papers, the ‘case for change’,
+risk registers, implementation plans and performance updates. We also reviewed the
+shared services business cases of the Matrix, Synergy and Unity clusters.
+
+6   We made extensive use of specialist expertise within the NAO to review key
+documents. For example:
+
+•    our Financial and Risk Management Hub reviewed the shared services
+     risk register;
+
+•    our Major Projects Hub, and in particular our business case review network,
+     reviewed the Cabinet Office’s ‘case for change’ document and the business
+     cases for the three clusters;
+
+•    our Commercial Hub reviewed documents relating to the procurement
+     approach being adopted; and
+
+•    our Digital Hub reviewed documents on the digital elements of the strategy.
+
+
+Interviews
+7     We carried out five online semi-structured interviews with officials from the
+Cabinet Office’s Government Business Services, selected to participate because
+of their job roles and their relevance to the audit. This included staff responsible
+for (or involved in): the day-to-day management of the shared services, strategy
+and policy, data and interoperability, assurance and finance, and commercial
+procurement. Interviews focused on the following topics and were tailored to
+the job roles of those being interviewed: lessons from previous shared services
+strategies; the current strategy and progress being made; links to other government
+objectives; and key current and future challenges.
+42 Appendix One Government shared services
+
+
+
+
+                       8    We carried out 11 online semi-structured interviews with departmental officials
+                       involved in the Shared Services Strategy.
+
+                       •    Five interviews were with officials involved in leading and coordinating their
+                            respective clusters, one for each cluster. The officials were from the Department
+                            for Business, Energy & Industrial Strategy – representing the Matrix cluster,
+                            HM Revenue & Customs (HMRC) – representing the Unity cluster, the Ministry
+                            of Defence – representing the Defence cluster, the Foreign, Commonwealth &
+                            Development Office – representing the Overseas cluster, and the Department
+                            for Work & Pensions – representing the Synergy cluster.
+
+                       •    Six interviews were with officials from the other departments involved in each
+                            cluster. We held at least one such meeting for each cluster apart from the
+                            Defence cluster, where the Ministry of Defence is the only department involved.
+                            Not all departments decided to field a representative at these interviews.
+                            The departments represented were: the Department for Transport and the
+                            Department for Levelling Up, Housing & Communities (from the Unity cluster);
+                            the Attorney General’s Office, the Cabinet Office, the Department for Culture,
+                            Digital, Media & Sport, the Department for Education, the Department for
+                            International Trade, the Department of Health & Social Care, and HM Treasury
+                            (from the Matrix cluster); the Department for International Trade and the Home
+                            Office (departments whose overseas presence form part of the Overseas
+                            cluster); and the Department for Environment, Food & Rural Affairs and the
+                            Home Office (from the Synergy cluster).
+
+                       9   Both sets of interviews focused on the following topics: learning from previous
+                       shared services strategies, the current strategy and progress to date, cluster
+                       dynamics and future challenges.
+
+                       10 We also carried out four online semi-structured interviews with other
+                       key stakeholders:
+
+                       •    The Infrastructure and Projects Authority (IPA). This interview focused on the
+                            work that the IPA had carried out on government shared services and its views
+                            on the current Shared Services Strategy.
+
+                       •    The Government Internal Audit Agency (GIAA). This interview focused on the
+                            work that the GIAA had carried out on government shared services and its
+                            views on the current Shared Services Strategy.
+
+                       •    HM Treasury. This interview focused on the bids that clusters submitted
+                            as part of the 2021 Spending Review and future funding for government
+                            shared services.
+
+                       •    UK Shared Business Services Ltd (UK SBS). This meeting focused on UK
+                            SBS’s experience as a public sector shared services provider.
+                                            Government shared services Appendix One 43
+
+
+
+
+11 We analysed each interview note thematically against our study questions,
+using this analysis to:
+
+•    inform future interviews, further discussion and follow-up with the
+     Cabinet Office;
+
+•    triangulate findings from other sources, including document review and
+     quantitative data; and
+
+•    report on our three study questions.
+
+12 We also held three meetings with board-level departmental officials, as well
+as with the Cabinet Office’s Government Business Services team to feed back
+our emerging findings and seek any further comments on the issues presented.
+Departments represented were the Department for Work & Pensions, the
+Department for Business, Energy & Industrial Strategy and the Home Office.
+
+
+Quantitative analysis
+13 The quantitative data presented in this report were either collected from
+departments by the Cabinet Office and drawn from Cabinet Office documents,
+taken from cluster business cases or provided by clusters themselves.
+This report has been printed on Pro Digital
+Silk and contains material sourced from
+responsibly managed and sustainable
+forests certified in accordance with the
+FSC (Forest Stewardship Council).
+
+The wood pulp is totally recyclable and
+acid-free. Our printers also have full ISO 14001
+environmental accreditation, which ensures
+that they have effective procedures in place to
+manage waste and practices that may affect
+the environment.
+                                                                           £10.00
+                                                             ISBN 978-1-78604-457-0
+
+
+
+
+          Design and Production by NAO Communications Team
+          DP Ref: 011083-001                                 9 781786 044570
+You have reached the end of this document
+

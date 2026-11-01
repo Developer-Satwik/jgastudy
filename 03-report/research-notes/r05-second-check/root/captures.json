@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "path": "03-report/research-notes/r05-second-check/root/R5R-S01.html",
+      "sha256": "f3477da8f20be8c69b4afa19c71f04434baff122059e5f10769732e7fe814d1d",
+      "url": "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f5/technical-articles/relevant-costs.html",
+      "final_url": "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f5/technical-articles/relevant-costs.html",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T22:30:23.457244+00:00",
+      "kind": "original_html"
+    }
+  ]
+}

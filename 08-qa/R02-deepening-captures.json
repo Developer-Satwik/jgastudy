@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-28",
+  "files": [
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/cipp-inhouse-page4.html",
+      "sha256": "efd251fb3cfa5e600ec0e0c8eaa39412f2598f80aa559a393b66e28d2f84c357"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/cipp-inhouse-page10.html",
+      "sha256": "ebc43f1026b023aa71c012946e30af0e977e879e823b11368e8769ac76be5cb7"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/cipp-professionals-page7.html",
+      "sha256": "9d371a554391a4ba0a73bb380c4c7db7b85761f77e7bbb40104055616e9c67a4"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-12.png",
+      "sha256": "fac8a83a46d43af1de982c38037ea79c993a9e17596dc623bedf8e736681eaad"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-24.png",
+      "sha256": "c8a8723d42c6464de19cdc39ffab4cbb50e541126cf5289f180780f9ac4e0dd8"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-25.png",
+      "sha256": "c2c1365aa2852a83c5089fd01fcf13356ac32f4793630d0159747d149e57604d"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/capacity/qa/deloitte-26.png",
+      "sha256": "93770eda5818849ec55735020e73665d50c03c2470515852ddd9a917834d89f6"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/fourth-definition-2026.pdf",
+      "sha256": "1303d84fc8ae65afd91927e336d5e3ac4bb94a62606ad6d3f8963e2a1a7ccb6a"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/phase3-definition-2021-22.pdf",
+      "sha256": "e76118bec938e7b01bc5de6699f66cbd025d18cffbb517d0ca7103205756c2dd"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/phase3-gcloud14.html",
+      "sha256": "c5cf1881741877b6934c3a3362cc9562b868938d3a018b58496953087ae9845b"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/cipp-outsourced-p8.html",
+      "sha256": "243a4f747b92f40a3814048c1aee18ed6c764ba3e502bdfec7a03dabb2fd8b60"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/cipp-outsourced-p9.html",
+      "sha256": "277b8b546dc389972d5b377ab60f7a1b9dcaf7649784682eb38eaa12e881afea"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/service-boundaries/cipp-professionals-p7.html",
+      "sha256": "5d95fc86426cbca438a4cbb34cfa15a8daafb1d2bc25ea539c8a3d7f12322423"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/consequences/captures/comhairle-payroll-expenses-2025.pdf",
+      "sha256": "817f110de0d65c01ce4dc2a6c5489aa55a735f3315b1ead6c97951036fd02c41"
+    },
+    {
+      "path": "03-report/research-notes/r02-deepening/consequences/captures/hmrc-employer-bulletin-april-2026.html",
+      "sha256": "86780f080962f6458887d3d1222d776a606b05168af331661f7e908d94e71969"
+    }
+  ]
+}

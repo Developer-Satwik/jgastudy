@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "H3-C01",
+      "source_candidate_ids": [
+        "H3-S01"
+      ],
+      "claim_text": "HMRC annual-task guidance includes keeping payroll software aligned with current rates/thresholds and following provider update instructions; continuing preparation matters after initial deployment.",
+      "locator": "Update payroll software; same-guide Overview annual-task table",
+      "evidence_class": "official_operating_condition",
+      "limitations": "Operational update requirement/context only. No employer-specific legal advice, incidence, universal software architecture, need to replace, or automatic correctness from installing an update. Do not use the legacy BPT version number as a current-version recommendation.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical source periods as specified, and live guidance/product descriptions inspected29October2026; no longitudinal series",
+      "review_mode": "Relevant live originals inspected; historical source clauses reread and canonical limits retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "H3-C02",
+      "source_candidate_ids": [
+        "H3-S02"
+      ],
+      "claim_text": "SAP describes a continuing HCM release cycle with advance notice, preview/production constraints, testing/validation and adoption/support preparation.",
+      "locator": "Release Cycle Overview; How to Prepare",
+      "evidence_class": "declared_product_lifecycle",
+      "limitations": "Supplier-described HCM lifecycle, not independent payroll outcomes. Preview/freeze, release frequency and mandatory-task filtering are product-specific; no claim every payroll environment follows that cadence. Promotional ROI and efficiency claims not adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical source periods as specified, and live guidance/product descriptions inspected29October2026; no longitudinal series",
+      "review_mode": "Relevant live originals inspected; historical source clauses reread and canonical limits retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "H3-C03",
+      "source_candidate_ids": [
+        "H3-S02"
+      ],
+      "claim_text": "The supplier lesson distinguishes business-owner and technical-enabler responsibilities, and directs administrators to release-specific required tasks.",
+      "locator": "How to Prepare point4; What Tasks Do I Need to Perform",
+      "evidence_class": "declared_product_lifecycle",
+      "limitations": "Supplier-described HCM lifecycle, not independent payroll outcomes. Preview/freeze, release frequency and mandatory-task filtering are product-specific; no claim every payroll environment follows that cadence. Promotional ROI and efficiency claims not adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical source periods as specified, and live guidance/product descriptions inspected29October2026; no longitudinal series",
+      "review_mode": "Relevant live originals inspected; historical source clauses reread and canonical limits retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "H3-C04",
+      "source_ids": [
+        "SRC-0068",
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "claim_text": "Historical JGA/CIPP discussion already linked automation with skills and strategic work, while later source wording preserves adequate current-software arrangements. These unlike sources do not establish forecast fulfilment, an adoption trend or replacement need.",
+      "locator": "CIPP2020 printedp13; CIPP2022 printedp9; CIPP2024 printedp7; existing CLM0130\u20130132",
+      "evidence_class": "historical_interpretation_not_a_measured_trend",
+      "limitations": "Foreword claims and survey response wording are different evidence. Item bases/definitions differ; no matched cohort or counterfactual evaluation. Existing numerical limitations remain.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical source periods as specified, and live guidance/product descriptions inspected29October2026; no longitudinal series",
+      "review_mode": "Relevant live originals inspected; historical source clauses reread and canonical limits retained",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "H3-C05",
+      "source_candidate_ids": [
+        "H3-S01",
+        "H3-S02"
+      ],
+      "source_ids": [],
+      "claim_text": "Retaining/configuring and replacing a system both need a continuing operating arrangement for updates, applicable changes, relevant checks and support; go-live assurance alone does not cover future conditions.",
+      "locator": "HMRC update instructions; SAP release preparation/required tasks",
+      "evidence_class": "analytical_lifecycle_implication",
+      "limitations": "Conditional synthesis from official and supplier examples, not proof that updates caused payroll failure, a universal schedule or quantified maintenance burden.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Historical source periods as specified, and live guidance/product descriptions inspected29October2026; no longitudinal series",
+      "review_mode": "Relevant live originals inspected; historical source clauses reread and canonical limits retained",
+      "status": "R03_second_check_context"
+    }
+  ]
+}

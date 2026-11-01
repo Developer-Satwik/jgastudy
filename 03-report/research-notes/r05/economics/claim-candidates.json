@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "ECO5-C01",
+      "source_ids": [
+        "SRC-0005"
+      ],
+      "claim_text": "Green Book appraises alternatives against BAU and includes do-minimum and whole-lifecycle effects. These comparison concepts do not make a frozen no-change counterfactual or prescribe a private employer shortlist.",
+      "evidence_class": "official_public_appraisal_guidance",
+      "locator": "Chapter5 Selecting a shortlist; Chapter6 Time horizon; reader413–420/549–560",
+      "population": "UK government social appraisal",
+      "limitations": "No public option-count, appraisal horizon, mandatory process or private employer feasibility conclusion is adopted.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C02",
+      "source_ids": [
+        "SRC-0005"
+      ],
+      "claim_text": "Green Book excludes sunk expenditure from the forward choice while retaining the opportunity cost of resources already owned. Historic spend can still matter to accountability and funding reconciliation.",
+      "evidence_class": "official_appraisal_principle_and_analytical_application",
+      "locator": "Chapter6 Sunk costs; reader621–623",
+      "population": "UK government social appraisal; scoped analytical adaptation",
+      "limitations": "Do not erase historic costs from every accounting/resource view or call recoverable/future avoidable costs sunk.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C03",
+      "source_ids": [
+        "SRC-0005"
+      ],
+      "claim_text": "Green Book calls for uncertainty/sensitivity assessment and a balanced judgment including unmonetisable effects, rather than a single summary ratio.",
+      "evidence_class": "official_public_appraisal_guidance",
+      "locator": "Chapter6 Identifying preferred option and Sensitivity/switching values; reader792–812",
+      "population": "UK government social appraisal",
+      "limitations": "No employer hurdle rate, BCR threshold, social discount factor, risk probability or monetised fine is prescribed.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C04",
+      "source_ids": [
+        "ECO5-S01"
+      ],
+      "claim_text": "The Efficiency Framework distinguishes cash-releasing spending reductions from monetisable non-cash benefits such as capacity, and defines net efficiency after delivery costs.",
+      "evidence_class": "official_efficiency_definition_guidance",
+      "locator": "Sections4.1–4.8; reader244–289 and4.8",
+      "population": "Public budget-reporting context",
+      "limitations": "Not an observed payroll saving or universal employer accounting convention. Saved hours valued at salary do not independently prove budget release.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C05",
+      "source_ids": [
+        "ECO5-S01"
+      ],
+      "claim_text": "The Framework requires an evidenced baseline, benefit ownership, calculation/validation approach and reporting period, with double counting avoided and realisation tracked beyond delivery.",
+      "evidence_class": "official_benefit_management_guidance",
+      "locator": "Sections4.4–4.8,6.1–6.4; reader293–341,429–456",
+      "population": "Public-sector efficiency governance",
+      "limitations": "A plan, approved estimate, enabled feature and actual spending effect are distinct. No achieved JGA or employer benefit is established.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C06",
+      "source_ids": [
+        "ECO5-S02"
+      ],
+      "claim_text": "ACCA describes future incremental cash appraisal, consistent real/nominal treatment and relevant tax/working-capital timing. Sunk expenditure, unchanged allocations and depreciation are not automatically relevant incremental cash flows.",
+      "evidence_class": "professional_educational_appraisal_principles",
+      "locator": "Key areas: Relevant/irrelevant cashflows, Inflation, Taxation, Working capital; reader437–445",
+      "population": "Educational financial-appraisal context",
+      "limitations": "No client tax treatment, cost of capital or scenario result adopted. A resource/accounting view and cash-funding profile still need their own scope; financing must not be double counted through cash flows and a rate already covering it.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C07",
+      "source_ids": [
+        "ECO5-S03"
+      ],
+      "claim_text": "AQA distinguishes payback recovery time, an accounting-return measure and NPV discounted value; its payback discussion notes that faster recovery does not establish the greater whole-project return.",
+      "evidence_class": "primary_educational_metric_definitions",
+      "locator": "Model/theory and Payback/ARR/NPV; reader73–89,107–108,135–139",
+      "population": "Classroom investment-appraisal context",
+      "limitations": "No classroom amount/rate/ARR convention transferred as a corporate rule. Worked arithmetic not reused; a reported ROI needs its actual definition, basis and horizon.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    },
+    {
+      "candidate_id": "ECO5-C08",
+      "source_ids": [
+        "SRC-0005",
+        "ECO5-S01",
+        "ECO5-S02",
+        "ECO5-S03"
+      ],
+      "claim_text": "R05 should distinguish whole-life resources/cost, future incremental cash value and funding affordability, linking benefit type/status to baseline, owner, realisation conditions and uncertainty.",
+      "evidence_class": "researcher_analytical_recommendation",
+      "locator": "Cross-source analytical application ofECO5-C01–C07",
+      "population": "Proposed qualitative case analysis",
+      "limitations": "Not a validated scoring framework, employer forecast, extra mandatory questions or approval formula. No illustrative savings or returns calculated.",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "time_period": "Guidance current at inspection29October2026; no payroll outcome time series",
+      "review_mode": "Relevant original HTML sections inspected and retained; researcher application identified where relevant; no PDF or product trial",
+      "status": "R05_context_candidate"
+    }
+  ]
+}

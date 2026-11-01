@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "MKT2-C01",
+      "source_candidate_ids": [
+        "MKT2-S01"
+      ],
+      "claim_text": "The UK page describes employee self-service submissions/information and permissioned manager approval, supporting examination of work distribution as well as central payroll-team effort.",
+      "locator": "Empower your team; More about Xero Me; Assign access to managers",
+      "evidence_class": "declared_scope_and_analytical_implication",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Published access/submission/approval scope only. No automatic net saving, burden, compliance or employee acceptance inferred. Feature/package fit is case-specific.",
+      "time_period": "Live source inspected29October2026; update date where shown recorded in source",
+      "review_mode": "Relevant original sections inspected via web; retained-file state separate",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "MKT2-C02",
+      "source_candidate_ids": [
+        "MKT2-S02"
+      ],
+      "claim_text": "CloudPay describes oversight of service partners alongside customer access and ongoing service reviews; a single interface need not mean a single underlying executor.",
+      "locator": "Communications access to everyone; one-to-one review programme",
+      "evidence_class": "supplier_declared_coordination_scope",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "No achieved SLA, speed, staffing-ratio or benchmark claim adopted. Network coordination description does not establish all-country scope, contract entitlement or comparative delivery.",
+      "time_period": "Live source inspected29October2026; update date where shown recorded in source",
+      "review_mode": "Relevant original sections inspected via web; retained-file state separate",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "MKT2-C03",
+      "source_candidate_ids": [
+        "MKT2-S03"
+      ],
+      "claim_text": "Deel distinguishes EOR employment, direct-employee payroll and HRIS-only relationships, with disbursement responsibility varying by jurisdiction.",
+      "locator": "Section3 worker types",
+      "evidence_class": "supplier_service_boundary_definition",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Publisher description, not verified jurisdictional compliance. Distinguish employment model, payroll processing, HRIS and payment execution; no employment-model recommendation or all-country capability inferred.",
+      "time_period": "Live source inspected29October2026; update date where shown recorded in source",
+      "review_mode": "Relevant original sections inspected via web; retained-file state separate",
+      "status": "R03_second_check_context"
+    },
+    {
+      "candidate_id": "MKT2-C04",
+      "source_candidate_ids": [
+        "SRC-0107",
+        "SRC-0109",
+        "SRC-0110",
+        "SRC-0111",
+        "SRC-0112",
+        "SRC-0124",
+        "SRC-0125",
+        "SRC-0131",
+        "SRC-0132",
+        "SRC-0133",
+        "SRC-0134",
+        "SRC-0135",
+        "SRC-0136",
+        "SRC-0138",
+        "MKT2-S01",
+        "MKT2-S02",
+        "MKT2-S03"
+      ],
+      "claim_text": "Across deliberately selected market examples, compare actual task, product/package, country/entity, worker/service relationship and retained work; size or brand alone is not a sufficient fit assessment.",
+      "locator": "Prior R02/R03 registered locators and current market comparison; this is an analytical synthesis",
+      "evidence_class": "market_context_interpretation",
+      "value": null,
+      "unit": null,
+      "denominator": null,
+      "limitations": "Not a market census, tested shortlist, employer prevalence, price/TCO ranking, proof of extra work or recommendation to change employment model. Existing date/beta/UI holds remain.",
+      "time_period": "Registered29October2026 context and selected new source inspection",
+      "review_mode": "Reused registered originals and fresh bounded primary scope inspection",
+      "status": "R03_second_check_context"
+    }
+  ]
+}

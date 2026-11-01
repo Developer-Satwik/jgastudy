@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "AI-S01",
+      "title": "Artificial Intelligence Playbook for the UK Government (HTML)",
+      "publisher": "Government Digital Service",
+      "url": "https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html",
+      "accessed_on": "2026-10-29",
+      "published_date": "2025-02-10",
+      "http_status": 200,
+      "final_url": "https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html",
+      "capture_path": "03-report/research-notes/r03/root/AI-S01.html",
+      "capture_sha256": "8dde7f7348c18814d5fab06022e55673a3ce821a0681bc193dacd958fcfd1b2c",
+      "capture_status": "retained_original_html",
+      "bytes": 674035
+    },
+    {
+      "candidate_id": "AI-S02",
+      "title": "Using SAP Best Practices for PCC Introduction",
+      "publisher": "SAP",
+      "url": "https://learning.sap.com/courses/sap-successfactors-payroll-control-center/using-sap-best-practices-for-pcc-introduction_d7ff1f10-7fbb-4a35-830d-a27b9ffec64f",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "http_status": 200,
+      "final_url": "https://learning.sap.com/courses/sap-successfactors-payroll-control-center/using-sap-best-practices-for-pcc-introduction_d7ff1f10-7fbb-4a35-830d-a27b9ffec64f",
+      "capture_path": "03-report/research-notes/r03/root/AI-S02.html",
+      "capture_sha256": "c373aee02afbaaf4dcc9d5ee32d5f1ef54f5348f503e1d77edbf3a4e455f8706",
+      "capture_status": "retained_original_html",
+      "bytes": 177422
+    },
+    {
+      "candidate_id": "AI-S03",
+      "title": "ADP integrates new AI agent to elevate Global Payroll accuracy and efficiency",
+      "publisher": "ADP UK",
+      "url": "https://uk.adp.com/about-adp/press-centre/adp-integrates-new-ai-agent--to-elevate-global-payroll-accuracy-and-efficiency.aspx",
+      "accessed_on": "2026-10-29",
+      "published_date": "2026-04-13",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "candidate_id": "AI-S04",
+      "title": "Artificial Intelligence (AI) Agents for Payroll and HR",
+      "publisher": "ADP",
+      "url": "https://www.adp.com/what-we-offer/ai-solutions/ai-agents.aspx",
+      "accessed_on": "2026-10-29",
+      "published_date": null,
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_status": "local_capture_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

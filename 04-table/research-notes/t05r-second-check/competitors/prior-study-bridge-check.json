@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-31",
+  "status": "passed",
+  "checks": [
+    {
+      "passed": true,
+      "detail": "S04-C has8savedanswers"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C fourproducts/tworepeats"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-chatgpt-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-claude-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-gemini-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S04-C-perplexity-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C has8savedanswers"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C fourproducts/tworepeats"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-chatgpt-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-claude-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-gemini-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S07-C-perplexity-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C has8savedanswers"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C fourproducts/tworepeats"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r1 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r1 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r1 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r1 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-chatgpt-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-claude-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-gemini-r2 metadata"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r2 exactprompt/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r2 fullanswer/hash"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r2 finalindexexacttext"
+    },
+    {
+      "passed": true,
+      "detail": "S11-C-perplexity-r2 metadata"
+    }
+  ],
+  "check_count": 102,
+  "scope": "Exact saved-data lineage;3selectedtextssemanticallyreread;notfactvalidationofAIadvice"
+}

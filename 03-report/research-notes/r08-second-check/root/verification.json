@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_targeted_root_strand_checks",
+  "checks": [
+    {
+      "check": "Hash 03-report/research-notes/r08-second-check/root/captures/SRC-0003.html",
+      "passed": true
+    },
+    {
+      "check": "Hash 03-report/research-notes/r08-second-check/root/captures/SRC-0003.txt",
+      "passed": true
+    },
+    {
+      "check": "R8R-C01 bounded canonical reuse with null numeric value",
+      "passed": true
+    },
+    {
+      "check": "R8R-C02 bounded canonical reuse with null numeric value",
+      "passed": true
+    },
+    {
+      "check": "R8R-C03 bounded canonical reuse with null numeric value",
+      "passed": true
+    },
+    {
+      "check": "R8R-C04 bounded canonical reuse with null numeric value",
+      "passed": true
+    }
+  ],
+  "check_count": 6,
+  "scope": "Source/text hashes and bounded candidate records, not independent synthesis or fieldwork review."
+}

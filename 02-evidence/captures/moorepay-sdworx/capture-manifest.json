@@ -1,0 +1,621 @@
+[
+  {
+    "url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-annual-payroll-survey-2025-26.html",
+    "sha256": "423d11ba93f9aeab3cd04f3e054142604a334593aaa82540cb1fb8ee77b39ee2",
+    "bytes": 190809,
+    "images": [
+      {
+        "src": "https://secure.data-creativecompany.com/41794.png",
+        "style": "display:none;"
+      },
+      {
+        "width": "345",
+        "height": "300",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/01/Quote-Page-c-600-copy.png?x99966",
+        "class": "attachment-full size-full",
+        "alt": "All-in-One HR and Payroll Software features",
+        "decoding": "async",
+        "loading": "lazy",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/01/Quote-Page-c-600-copy.png 345w, https://www.moorepay.co.uk/app/uploads/2025/01/Quote-Page-c-600-copy-300x261.png 300w",
+        "sizes": "auto, (max-width: 345px) 100vw, 345px"
+      },
+      {
+        "width": "300",
+        "height": "222",
+        "src": "https://www.moorepay.co.uk/app/uploads/2023/02/Tablet-menu-image.png?x99966",
+        "class": "attachment-full size-full",
+        "alt": "testimonial feedback on tablet",
+        "decoding": "async",
+        "loading": "lazy"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "1000",
+        "height": "750",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-8.png?x99966",
+        "class": "right-0 w-full lg:pb-0",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-8.png 1000w, https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-8-300x225.png 300w, https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-8-768x576.png 768w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/11/1-2.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/11/1-2.png 580w, https://www.moorepay.co.uk/app/uploads/2025/11/1-2-300x186.png 300w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-12.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/11/2-5.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/11/2-5.png 580w, https://www.moorepay.co.uk/app/uploads/2025/11/2-5-300x186.png 300w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-09.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-11.png?x99966"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "device macbook",
+        "width": "1487",
+        "height": "923",
+        "src": "https://www.moorepay.co.uk/app/themes/moorepay/dist/images/macbook.png?x99966&id=0dc15d07320a0019a86d",
+        "alt": "macbook"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-10.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-08-1.png?x99966"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "device macbook",
+        "width": "1487",
+        "height": "923",
+        "src": "https://www.moorepay.co.uk/app/themes/moorepay/dist/images/macbook.png?x99966&id=0dc15d07320a0019a86d",
+        "alt": "macbook"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-07.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-06.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-05.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-04.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-03.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-02.png?x99966"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Switching-payroll-survey-2025-graphs_V2-01.png?x99966"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/08/Introduction-Employee-Retention.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/08/Introduction-Employee-Retention.png 580w, https://www.moorepay.co.uk/app/uploads/2025/08/Introduction-Employee-Retention-300x186.png 300w",
+        "sizes": "auto, (max-width: 580px) 100vw, 580px"
+      },
+      {
+        "width": "130",
+        "height": "69",
+        "class": "w-16 2xl:w-20",
+        "src": "https://www.moorepay.co.uk/app/uploads/2022/06/zellis-logo.png?x99966",
+        "alt": "Zellis"
+      }
+    ],
+    "research_links": [
+      {
+        "url": "https://www.moorepay.co.uk/global-sick-leave-report-2025-ultimate-guide/",
+        "text": "Sick pay"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/hr-annual-survey-2025/",
+        "text": "What\u2019s hot in HR?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/annual-payroll-survey-report/",
+        "text": "What\u2019s hot in payroll?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/global-sick-leave-report-2025-ultimate-guide/",
+        "text": "Sick pay"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/hr-annual-survey-2025/",
+        "text": "What\u2019s hot in HR?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/annual-payroll-survey-report/",
+        "text": "What\u2019s hot in payroll?"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sdworx.co.uk/en-gb/press/2026-04-21-uk-employers-accelerate-move-full-payroll-outsourcing",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-uk-payroll-outsourcing-2026-04-21.html",
+    "sha256": "d0777a58194fd6800e4a941d010099da664efc0ff050c9f7de81e04a04d3d463",
+    "bytes": 157983,
+    "images": [
+      {
+        "alt": "logo",
+        "loading": "eager",
+        "width": "101",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "/_next/static/media/sdworx_logo.8e8a8011.svg"
+      },
+      {
+        "alt": "Payroll Outsourcing Calculator",
+        "loading": "lazy",
+        "width": "264",
+        "height": "132",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-05%2FUK_SME_New_Calculator_highlight_264x132.webp&w=384&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-05%2FUK_SME_New_Calculator_highlight_264x132.webp&w=640&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-05%2FUK_SME_New_Calculator_highlight_264x132.webp&w=640&q=75"
+      },
+      {
+        "alt": "Tutustu SD Worxin asiakastarinoihin",
+        "loading": "lazy",
+        "width": "264",
+        "height": "132",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-02%2FHighlight_asiakkaat_264x132px.webp&w=384&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-02%2FHighlight_asiakkaat_264x132px.webp&w=640&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-02%2FHighlight_asiakkaat_264x132px.webp&w=640&q=75"
+      },
+      {
+        "alt": "Resources",
+        "loading": "lazy",
+        "width": "264",
+        "height": "132",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-02%2FIE_insights_highlight_264x132px.webp&w=384&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-02%2FIE_insights_highlight_264x132px.webp&w=640&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-02%2FIE_insights_highlight_264x132px.webp&w=640&q=75"
+      },
+      {
+        "alt": "EU_United_Kingdom_Flag_new_40x20.svg",
+        "loading": "lazy",
+        "width": "34",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "/sites/default/files/2026-10/EU_United_Kingdom_Flag_new_40x20.svg"
+      },
+      {
+        "alt": "Nouveaux formulaires de d\u00e9claration fiscale pour l\u2019ann\u00e9e d'imposition 2025",
+        "loading": "lazy",
+        "width": "1200",
+        "height": "800",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-04%2FLU_Blog_Declaration%2520Fiscale%25202025_1200x800.webp&w=1200&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-04%2FLU_Blog_Declaration%2520Fiscale%25202025_1200x800.webp&w=3840&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-04%2FLU_Blog_Declaration%2520Fiscale%25202025_1200x800.webp&w=3840&q=75"
+      },
+      {
+        "alt": "Michael Custers",
+        "loading": "lazy",
+        "width": "300",
+        "height": "300",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto rounded-circle",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-10%2FCORP_Person_Michael_300x300px_0.webp&w=384&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-10%2FCORP_Person_Michael_300x300px_0.webp&w=640&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-10%2FCORP_Person_Michael_300x300px_0.webp&w=640&q=75"
+      },
+      {
+        "alt": "Pieter Goetgebuer",
+        "width": "300",
+        "height": "300",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto rounded-circle",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-09%2FPieter%2520Goetgebuer_300x300px.webp&w=384&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-09%2FPieter%2520Goetgebuer_300x300px.webp&w=640&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-09%2FPieter%2520Goetgebuer_300x300px.webp&w=640&q=75"
+      },
+      {
+        "alt": "sdworx logo",
+        "loading": "lazy",
+        "width": "185",
+        "height": "156",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto",
+        "style": "color:transparent",
+        "src": "/_next/static/media/sdworx_white_logo.71f84f57.svg"
+      }
+    ],
+    "research_links": []
+  },
+  {
+    "url": "https://www.moorepay.co.uk/the-ultimate-guide-to-changing-your-payroll-provider/",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/moorepay-switching-guide.html",
+    "sha256": "f6939809f77f5adc8d6a24dede47e440dd8b532709fe4bd1001f6a5152419d08",
+    "bytes": 232204,
+    "images": [
+      {
+        "src": "https://secure.data-creativecompany.com/41794.png",
+        "style": "display:none;"
+      },
+      {
+        "width": "345",
+        "height": "300",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/01/Quote-Page-c-600-copy.png?x99966",
+        "class": "attachment-full size-full",
+        "alt": "All-in-One HR and Payroll Software features",
+        "decoding": "async",
+        "loading": "lazy",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/01/Quote-Page-c-600-copy.png 345w, https://www.moorepay.co.uk/app/uploads/2025/01/Quote-Page-c-600-copy-300x261.png 300w",
+        "sizes": "auto, (max-width: 345px) 100vw, 345px"
+      },
+      {
+        "width": "300",
+        "height": "222",
+        "src": "https://www.moorepay.co.uk/app/uploads/2023/02/Tablet-menu-image.png?x99966",
+        "class": "attachment-full size-full",
+        "alt": "testimonial feedback on tablet",
+        "decoding": "async",
+        "loading": "lazy"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "1000",
+        "height": "750",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-9.png?x99966",
+        "class": "right-0 w-full lg:pb-0",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-9.png 1000w, https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-9-300x225.png 300w, https://www.moorepay.co.uk/app/uploads/2025/12/Report-Covers-9-768x576.png 768w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/20.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/12/20.png 580w, https://www.moorepay.co.uk/app/uploads/2025/12/20-300x186.png 300w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/21.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/12/21.png 580w, https://www.moorepay.co.uk/app/uploads/2025/12/21-300x186.png 300w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1225",
+        "height": "1080",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-1225x1080.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "Female support agent laughs whilst talking via a headset",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-1225x1080.png 1225w, https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-300x264.png 300w, https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-1024x903.png 1024w, https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-768x677.png 768w, https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-1536x1354.png 1536w, https://www.moorepay.co.uk/app/uploads/2025/11/RR-Paragraph-Text-Image-N7-2048x1805.png 2048w",
+        "sizes": "auto, (max-width: 1225px) 100vw, 1225px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "device macbook",
+        "width": "1487",
+        "height": "923",
+        "src": "https://www.moorepay.co.uk/app/themes/moorepay/dist/images/macbook.png?x99966&id=0dc15d07320a0019a86d",
+        "alt": "macbook"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/22.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/12/22.png 580w, https://www.moorepay.co.uk/app/uploads/2025/12/22-300x186.png 300w",
+        "sizes": "auto, (max-width: 580px) 100vw, 580px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "580",
+        "height": "360",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/23.png?x99966",
+        "class": "w-full rounded-sm object-cover h-full",
+        "alt": "",
+        "srcset": "https://www.moorepay.co.uk/app/uploads/2025/12/23.png 580w, https://www.moorepay.co.uk/app/uploads/2025/12/23-300x186.png 300w",
+        "sizes": "auto, (max-width: 580px) 100vw, 580px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "device macbook",
+        "width": "1487",
+        "height": "923",
+        "src": "https://www.moorepay.co.uk/app/themes/moorepay/dist/images/macbook.png?x99966&id=0dc15d07320a0019a86d",
+        "alt": "macbook"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "62",
+        "height": "62",
+        "src": "https://www.moorepay.co.uk/app/uploads/2022/02/timer-full-1-1.png?x99966",
+        "class": "attachment-full  w-12 lg:w-16 size-full  w-12 lg:w-16",
+        "alt": "timer icon"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "580",
+        "height": "338",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/16-580x338.png?x99966",
+        "class": "card__image object-cover w-full h-full bg-center",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "580",
+        "height": "338",
+        "src": "https://www.moorepay.co.uk/app/uploads/2025/12/17-580x338.png?x99966",
+        "class": "card__image object-cover w-full h-full bg-center",
+        "alt": ""
+      },
+      {
+        "width": "130",
+        "height": "69",
+        "class": "w-16 2xl:w-20",
+        "src": "https://www.moorepay.co.uk/app/uploads/2022/06/zellis-logo.png?x99966",
+        "alt": "Zellis"
+      }
+    ],
+    "research_links": [
+      {
+        "url": "https://www.moorepay.co.uk/global-sick-leave-report-2025-ultimate-guide/",
+        "text": "Sick pay"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/hr-annual-survey-2025/",
+        "text": "What\u2019s hot in HR?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/annual-payroll-survey-report/",
+        "text": "What\u2019s hot in payroll?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/global-sick-leave-report-2025-ultimate-guide/",
+        "text": "Sick pay"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/hr-annual-survey-2025/",
+        "text": "What\u2019s hot in HR?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/resource/annual-payroll-survey-report/",
+        "text": "What\u2019s hot in payroll?"
+      },
+      {
+        "url": "https://www.moorepay.co.uk/annual-payroll-survey-report-25-26/",
+        "text": "2025 Annual Payroll Survey"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sdworx.com/en-en/resources/payroll-reward/hr-payroll-pulse-2026",
+    "path": "projects/JGA-Payroll-Research-2027/02-evidence/captures/moorepay-sdworx/sdworx-pulse-2026.html",
+    "sha256": "d02df0f50e6f4806bd22e82fe39386a6122d6ea3ffc3dfa9e0975b51c1136f62",
+    "bytes": 219065,
+    "images": [
+      {
+        "alt": "logo",
+        "loading": "eager",
+        "width": "101",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "/_next/static/media/sdworx_logo.8e8a8011.svg"
+      },
+      {
+        "alt": "mysdworx",
+        "loading": "lazy",
+        "width": "1406",
+        "height": "703",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-07%2Fmain_navigation_highlight_mysdworx_1406x703.webp&w=1920&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-07%2Fmain_navigation_highlight_mysdworx_1406x703.webp&w=3840&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-07%2Fmain_navigation_highlight_mysdworx_1406x703.webp&w=3840&q=75"
+      },
+      {
+        "alt": "mysdworx",
+        "loading": "lazy",
+        "width": "1406",
+        "height": "703",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-07%2Fmain_navigation_highlight_mysdworx_1406x703.webp&w=1920&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-07%2Fmain_navigation_highlight_mysdworx_1406x703.webp&w=3840&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-07%2Fmain_navigation_highlight_mysdworx_1406x703.webp&w=3840&q=75"
+      },
+      {
+        "alt": "SD Worx Annual Report 2025",
+        "loading": "lazy",
+        "width": "264",
+        "height": "132",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto ",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-04%2FCorp_Annual-Report-Highlight_264x132px.webp&w=384&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-04%2FCorp_Annual-Report-Highlight_264x132px.webp&w=640&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-04%2FCorp_Annual-Report-Highlight_264x132px.webp&w=640&q=75"
+      },
+      {
+        "alt": "EU_Europe_Flag_new_30x20.svg",
+        "loading": "lazy",
+        "width": "34",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "/sites/default/files/2026-10/EU_Europe_Flag_new_30x20.svg"
+      },
+      {
+        "alt": "Pulse picture",
+        "loading": "lazy",
+        "width": "1200",
+        "height": "800",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto tw-w-full !tw-max-h-[238px] lg:!tw-max-h-[408px]",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-09%2FCorp-Pulse_1200x1800_Drupal.webp&w=1200&q=75 1x, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-09%2FCorp-Pulse_1200x1800_Drupal.webp&w=3840&q=75 2x",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-09%2FCorp-Pulse_1200x1800_Drupal.webp&w=3840&q=75"
+      },
+      {
+        "class": "Quote_authorImage__EB8B9",
+        "src": "/sites/default/files/2023-05/Jan%20Laurijsen.png",
+        "alt": "Jan Laurijssen",
+        "width": "400",
+        "height": "400",
+        "style": "width:100%;height:auto;max-width:100%;object-fit:cover;display:block"
+      },
+      {
+        "alt": "Join the club podcast",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=640&q=75 640w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=750&q=75 750w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=828&q=75 828w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=1080&q=75 1080w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=1200&q=75 1200w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=1920&q=75 1920w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=2048&q=75 2048w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=3840&q=75 3840w",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=3840&q=75"
+      },
+      {
+        "alt": "Join the club podcast",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=640&q=75 640w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=750&q=75 750w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=828&q=75 828w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=1080&q=75 1080w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=1200&q=75 1200w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=1920&q=75 1920w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=2048&q=75 2048w, /_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=3840&q=75 3840w",
+        "src": "/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2F2026-08%2FPodcast%2520thumbnail%2520-%2520The%2520Boardroom%2520Conversations_1200x800px.webp&w=3840&q=75"
+      },
+      {
+        "alt": "how a senior manager views pt graphic",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "/sites/default/files/2026-09/Copy%20of%20How%20a%20CEO%20views%20EU%20Pay%20Transparency%20%281200%20x%20800%20px%29%20%281%29.svg"
+      },
+      {
+        "alt": "sdworx logo",
+        "loading": "lazy",
+        "width": "185",
+        "height": "156",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mw-100 h-auto",
+        "style": "color:transparent",
+        "src": "/_next/static/media/sdworx_white_logo.71f84f57.svg"
+      }
+    ],
+    "research_links": [
+      {
+        "url": "/en-en/annual-reports",
+        "text": "Annual report"
+      },
+      {
+        "url": "https://read.sdworx.com/en-en/annual-report-2025/?_gl=1*17newci*_gcl_aw*R0NMLjE3ODcxNDkwODMuQ2p3S0NBandxSlhVQmhCTkVpd0E4QmdHN3JoUXVpN2p6MlVEaHNGTkI1d3A2VzNxODYyRGVuOHFhRFdpdmFYaXRoTGdoVkFJOEtCcUJ4b0MtSjRRQXZEX0J3RQ..*_gcl_au*NTk2MDUzNy4xNzkwNjAzNTU2*FPAU*NTk2MDUzNy4xNzkwNjAzNTU2*_ga*MTI5ODgwMTU1LjE3OTA2MDM1NTI.*_ga_8100TGPM0R*czE3OTE0NjM3NjMkbzUkZzEkdDE3OTE0Njg0NjUkajU5JGwwJGgxMjIxMTk3Nzc0",
+        "text": ""
+      },
+      {
+        "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+        "text": "Download the report"
+      },
+      {
+        "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_WorkforcePlanning.pdf",
+        "text": "Workforce Planning"
+      },
+      {
+        "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Payroll.pdf",
+        "text": "Payroll"
+      },
+      {
+        "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Reward.pdf",
+        "text": "Reward"
+      },
+      {
+        "url": "https://www.sdworx.com/sites/default/files/2026-05/Corporate_HRPayroll_Pulse2026_Report.pdf",
+        "text": "Download the report"
+      },
+      {
+        "url": "/en-en/about-sd-worx/annual-reports",
+        "text": "Annual Reports"
+      }
+    ]
+  }
+]

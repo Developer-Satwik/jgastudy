@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-31",
+  "status": "passed_bounded_strand_checks",
+  "checks": [
+    {
+      "check": "capturehash:T5H-S01",
+      "passed": true
+    },
+    {
+      "check": "capturehash:T5H-S02",
+      "passed": true
+    },
+    {
+      "check": "capturehash:T5H-S03",
+      "passed": true
+    },
+    {
+      "check": "capturehash:T5H-S04",
+      "passed": true
+    },
+    {
+      "check": "capturehash:T5H-S05",
+      "passed": true
+    }
+  ],
+  "raw_originals": 2,
+  "reader_extracts": 3,
+  "new_candidate_sources": 5,
+  "candidate_claims": 10,
+  "no_canonical_or_financial_edits": true,
+  "actual_quotes": 0,
+  "external_actions": []
+}

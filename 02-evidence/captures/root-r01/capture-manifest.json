@@ -1,0 +1,62 @@
+[
+  {
+    "file": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0060-g2-paycom-buyer-logic.html",
+    "url": "https://research-hub.g2.com/the-new-buying-logic-for-hr-and-payroll",
+    "final_url": "https://research-hub.g2.com/the-new-buying-logic-for-hr-and-payroll",
+    "status": "saved",
+    "accessed_on": "2026-10-28",
+    "bytes": 270871,
+    "sha256": "0efffea26849dd48b06efb061e5c735e51242135dcd0538946f1b5ea01ea8d0c"
+  },
+  {
+    "file": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0061-g2-methodology.html",
+    "url": "https://research-hub.g2.com/methodology",
+    "final_url": "https://research-hub.g2.com/methodology",
+    "status": "saved",
+    "accessed_on": "2026-10-28",
+    "bytes": 79790,
+    "sha256": "3eb428dd595930725fa1da102a73ded569d741e484d48e71c627289fe56b1c24"
+  },
+  {
+    "file": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0062-vistra-payroll-report-2026.pdf",
+    "url": "https://www.vistra.com/sites/default/files/2026-01/The-Vistra-Payroll-Report-2026.pdf",
+    "final_url": "https://www.vistra.com/sites/default/files/2026-01/The-Vistra-Payroll-Report-2026.pdf",
+    "status": "saved",
+    "accessed_on": "2026-10-28",
+    "bytes": 3123267,
+    "sha256": "429b882411e09374b9987198eed491af68ff9b0a6a215c9c6520b69b499b70ba"
+  },
+  {
+    "file": "SRC-0064-adp-potential-payroll-2026.pdf",
+    "url": "https://www.adp.com/-/media/adp/resourcehub/pdf/guidebooks/adp_potential_of_payroll_2026_us_optimized1.pdf",
+    "status": "access_error",
+    "detail": "HTTP Error 403: Forbidden",
+    "saved": false
+  },
+  {
+    "file": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0065-hrcom-future-payroll-2025.pdf",
+    "url": "https://www.irisglobal.com/wp-content/uploads/2025/05/2-26-25-HRdotcom-Future-of-Payroll-2025-Research-Report-IRIS_V3.pdf",
+    "final_url": "https://www.irisglobal.com/wp-content/uploads/2025/05/2-26-25-HRdotcom-Future-of-Payroll-2025-Research-Report-IRIS_V3.pdf",
+    "status": "saved",
+    "accessed_on": "2026-10-28",
+    "bytes": 1756497,
+    "sha256": "ba2e67d092d84275a7585691f9ec1ac418c4ebc769f5c3b47611f3f85d024cde"
+  },
+  {
+    "file": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0066-kpmg-ukg-landing.html",
+    "url": "https://kpmg.com/us/en/articles/2026/global-payroll-survey-report.html",
+    "final_url": "https://kpmg.com/us/en/articles/2026/global-payroll-survey-report.html",
+    "status": "saved",
+    "accessed_on": "2026-10-28",
+    "bytes": 309543,
+    "sha256": "aca8887cc55d85d8833029dd67051527ad60285904e6b3b9fc09b895b004dea0"
+  },
+  {
+    "file": "projects/JGA-Payroll-Research-2027/02-evidence/captures/root-r01/SRC-0067-audit-scotland-consolidated-2025.pdf",
+    "url": "https://audit.scot/uploads/2025-10/s22_251030_scottish_consolidated.pdf",
+    "status": "saved",
+    "accessed_on": "2026-10-28",
+    "bytes": 585489,
+    "sha256": "fa60dfb9e56ab6edfe0eaeb4d0e4627e272fe8ae1e1d6d5205542d9442b4151e"
+  }
+]

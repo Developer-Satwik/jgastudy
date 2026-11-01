@@ -1,0 +1,26 @@
+{
+  "status": "root_catalogue_review_complete",
+  "records_reviewed": 2,
+  "new_datasets": 0,
+  "new_observations": 0,
+  "commercial_validation": false,
+  "capture_manifest": "04-table/research-notes/t01/root/capture-manifest.json",
+  "checks": [
+    {
+      "name": "Two HTTP200 original HTML captures and separately hashed text inspected",
+      "passed": true
+    },
+    {
+      "name": "CIPP edition conflict retained; no new 2027 data or licence assumed",
+      "passed": true
+    },
+    {
+      "name": "Catalogue partner declarations not converted into contract terms or demand",
+      "passed": true
+    },
+    {
+      "name": "T02 paid-value candidates explicitly hypotheses; no publication rights or price invented",
+      "passed": true
+    }
+  ]
+}

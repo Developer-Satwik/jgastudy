@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R07 segmented-market second challenge: included versus usable capability, released versus roadmap and employer versus multi-client priority ownership",
+  "queries": [
+    "site.brightpay.co.uk cloud feature roadmap update employer bureau payroll",
+    "site.freeagent.com payroll included subscription payroll software employees",
+    "site.moneysoft.co.uk payroll manager updates licence tax year updates"
+  ],
+  "selected_routes": [
+    "https://www.freeagent.com/features/payroll/",
+    "https://support.freeagent.com/hc/en-gb/articles/115001219450-Set-up-payroll",
+    "https://moneysoft.co.uk/support/payroll-manager-new-features-guides/",
+    "https://bpop.brightsg.com/"
+  ],
+  "screened_not_used": [
+    "Third-party software rankings and Reddit discussions excluded",
+    "Irish BrightPay roadmap/support not transferred to UK",
+    "BrightPay release-note search result screened but not selected as fourth new route",
+    "FreeAgent brand HMRC-recognition and advertised ease/savings not independently adopted"
+  ],
+  "external_actions": [],
+  "new_empirical_datasets": 0,
+  "prices_adopted": 0,
+  "product_trials": 0
+}

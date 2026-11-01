@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-29",
+  "records": [],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0078",
+      "url": "https://www.gov.uk/paye-for-employers/choose-payroll",
+      "locator": "Paying a payroll provider",
+      "review_status": "relevant_original_official_guidance_rechecked",
+      "review_result": "Rechecked provider support versus retained employer duties.",
+      "capture_path": "03-report/research-notes/r08-second-check/market/captures/SRC-0078.html",
+      "capture_sha256": "8d2abae119a11623df556e1ccf367f7d5ca485448f3de579acf3c8308a12c018",
+      "text_path": "03-report/research-notes/r08-second-check/market/captures/SRC-0078.txt",
+      "text_sha256": "d36390ffe7bbf38c232d83ef0b92b40e4cc670d1ffc935a3571750cd5a5a6fa9",
+      "accessed_on": "2026-10-29",
+      "updated_date": null,
+      "date_note": "Actual displayed source label if established. Fresh access date does not establish a new operating event or customer outcome.",
+      "limitations": "HMRC guidance distinguishes bought support, retained records/input and employer PAYE responsibility. It is not observed compliance, a private contract or proof every task is performed internally. No individual legal determination or transfer of responsibilities outside its PAYE scope is made."
+    },
+    {
+      "source_id": "SRC-0131",
+      "url": "https://help.cintra.co.uk/docs/in-house-vs-outsourced-payroll",
+      "locator": "SaaS/Source processing and authorise-payment sections",
+      "review_status": "relevant_original_supplier_declaration_rechecked",
+      "review_result": "Rechecked service-specific processing and payment rights; do not merge visibility statements.",
+      "capture_path": "03-report/research-notes/r08-second-check/market/captures/SRC-0131.html",
+      "capture_sha256": "ed0a618c26c1f554293c9d4c1b3736d5eac10cc58fbfbb7dfd24dc68701f32a4",
+      "text_path": "03-report/research-notes/r08-second-check/market/captures/SRC-0131.txt",
+      "text_sha256": "1984193d95d284e28f65caf4614bc701c45a8be544964797ad235e342533ca91",
+      "accessed_on": "2026-10-29",
+      "updated_date": "2026-09-24",
+      "date_note": "Actual displayed source label if established. Fresh access date does not establish a new operating event or customer outcome.",
+      "limitations": "Product/service-specific declaration. It distinguishes processing and payment routes, not an executed customer contract, tested workflow or universal market rule. Its status-visibility language still differs from the cycle article; existing CLM-0218 hold is not resolved."
+    },
+    {
+      "source_id": "SRC-0132",
+      "url": "https://help.cintra.co.uk/payroll/docs/understanding-the-payroll-cycle",
+      "locator": "Four-scenario table; stages2–4; FAQs submit/approve/authorise and roll-forward",
+      "review_status": "relevant_original_supplier_declaration_rechecked",
+      "review_result": "Rechecked period-specific report review/payment authority and declared next-period roll-forward; current source-label difference explicitly recorded.",
+      "capture_path": "03-report/research-notes/r08-second-check/market/captures/SRC-0132.html",
+      "capture_sha256": "3432a935afcf508f2145fc8656b68caacd40e94a9b50f7d8abad0c2355080d1b",
+      "text_path": "03-report/research-notes/r08-second-check/market/captures/SRC-0132.txt",
+      "text_sha256": "f15b336f9b05910431a157ae9536bff7416596cd06f2581112bfa46785f4e122",
+      "accessed_on": "2026-10-29",
+      "updated_date": "2026-10-22",
+      "date_note": "Actual displayed source label if established. Fresh access date does not establish a new operating event or customer outcome.",
+      "limitations": "Fresh original displays22October2026 update, not the earlier June label retained in the canonical record. These are source versions, not demonstrated customer changes. Status visibility/payment-stage wording remains inconsistent across inspected Cintra text; no UI rule is adopted and existing CLM-0218 hold remains. Repeated-run description is a supplier declaration, not observed paid outcome, customer readiness or a payroll investment decision."
+    }
+  ],
+  "new_independent_datasets": 0
+}

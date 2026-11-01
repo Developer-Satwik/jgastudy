@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "source_id": "SRC-0068",
+      "url": "https://online.flippingbook.com/view/903316/",
+      "final_url": "https://online.flippingbook.com/view/903316/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-29T04:06:19.024955+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0068.html",
+      "capture_sha256": "588ccfa96d6057ae81d18e1040260b201f14392e343a3c3d0af272aa5e1d087a",
+      "text_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0068.txt",
+      "text_sha256": "fae6b10cbcd2b87e3cd76437ef1e0e63c7e30b2f80b112110131b3183d39521a",
+      "kind": "retained_original_html"
+    },
+    {
+      "source_id": "SRC-0070",
+      "url": "https://online.flippingbook.com/view/706203142/",
+      "final_url": "https://online.flippingbook.com/view/706203142/",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-29T04:06:18.716218+00:00",
+      "capture_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0070.html",
+      "capture_sha256": "2e7b469b29bb08b1648cae9517935fd4f52b4c387c36f9783c4e60424fc899ef",
+      "text_path": "03-report/research-notes/r07-second-check/history/captures/SRC-0070.txt",
+      "text_sha256": "579b01bde7fa17fe88b32cad259d6f9bcfa8a4643b358188ae9692918b07d415",
+      "kind": "retained_original_html"
+    }
+  ]
+}

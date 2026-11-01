@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-30",
+  "status": "internal_T04_design_candidates_not_financial_forecast",
+  "routes": [
+    {
+      "route_id": "A-PILOT",
+      "name": "Research-only, matched pilot horizon",
+      "scope": "One specified initial research edition/use route, no in-person event.",
+      "event_count": 0,
+      "event_count_basis": "Definition of research-only route, not observed operations.",
+      "core_edition_count": null,
+      "horizon_start": null,
+      "horizon_end": null,
+      "reporting_currency": "GBP proposed, not client-agreed",
+      "revenue_lines": [
+        "RV01",
+        "RV02",
+        "RV03"
+      ],
+      "optional_revenue_lines": [],
+      "cost_objects": [
+        "CO01",
+        "CO02",
+        "CO03",
+        "CO04",
+        "CO06",
+        "CO07"
+      ],
+      "comparison_pair": "B-PILOT",
+      "core_common_work": "Same selected edition and required research collection/production as B-PILOT; remove only genuinely incremental event work.",
+      "cash_timing_note": "Licence/partner/service receipts and fulfilment differ. Actual dates/status remain inputs, not immediate cash on expression of interest.",
+      "core_commercial_route": "Syndicated research with multiple standalone licence orders, without events; funding/briefing components may be combined only if actually selected and nonoverlapping."
+    },
+    {
+      "route_id": "B-PILOT",
+      "name": "Event-supported, one-city UK pilot",
+      "scope": "Same defined research/use route plus one specified UK peer/research gathering, city/date to agree.",
+      "event_count": 1,
+      "event_count_basis": "Proposed pilot design only.",
+      "core_edition_count": null,
+      "horizon_start": null,
+      "horizon_end": null,
+      "reporting_currency": "GBP proposed, not client-agreed",
+      "revenue_lines": [
+        "RV01",
+        "RV02",
+        "RV03"
+      ],
+      "optional_revenue_lines": [
+        "RV04"
+      ],
+      "cost_objects": [
+        "CO01",
+        "CO02",
+        "CO03",
+        "CO04",
+        "CO05",
+        "CO06",
+        "CO07"
+      ],
+      "comparison_pair": "A-PILOT",
+      "core_common_work": "Keep the common research base; add only incremental live-event/peer recruitment, preparation, hospitality/travel and follow-through work.",
+      "cash_timing_note": "Deposits and cancellation exposure may precede partner receipts. Confirmed/received funding is different from uncontracted expected sales."
+    },
+    {
+      "route_id": "A-ANNUAL",
+      "name": "Research-only, matched annual horizon",
+      "scope": "Research editions and scoped services selected for the same annual window and research basis as B-ANNUAL; no in-person events.",
+      "event_count": 0,
+      "event_count_basis": "Definition of research-only route.",
+      "core_edition_count": null,
+      "horizon_start": null,
+      "horizon_end": null,
+      "reporting_currency": "GBP proposed, not client-agreed",
+      "revenue_lines": [
+        "RV01",
+        "RV02",
+        "RV03"
+      ],
+      "optional_revenue_lines": [],
+      "cost_objects": [
+        "CO01",
+        "CO02",
+        "CO03",
+        "CO04",
+        "CO06",
+        "CO07"
+      ],
+      "comparison_pair": "B-ANNUAL",
+      "core_common_work": "Same chosen research editions and necessary research collection as B-ANNUAL; no automatic future edition/update or renewal is implied.",
+      "cash_timing_note": "Recurring availability is not contracted recurring cash. Separate future renewal assumptions from actual orders.",
+      "core_commercial_route": "Syndicated research with multiple standalone licence orders, without events; funding/briefing components may be combined only if actually selected and nonoverlapping."
+    },
+    {
+      "route_id": "B-ANNUAL",
+      "name": "Event-supported annual four-location option",
+      "scope": "Matched annual research basis plus proposed London, Manchester, Dublin and Texas-city-to-be-agreed events.",
+      "event_count": 4,
+      "event_count_basis": "Original concept capacity, not booked/delivered events or a representative cohort.",
+      "core_edition_count": null,
+      "horizon_start": null,
+      "horizon_end": null,
+      "reporting_currency": "GBP proposed, not client-agreed",
+      "revenue_lines": [
+        "RV01",
+        "RV02",
+        "RV03"
+      ],
+      "optional_revenue_lines": [
+        "RV04"
+      ],
+      "cost_objects": [
+        "CO01",
+        "CO02",
+        "CO03",
+        "CO04",
+        "CO05",
+        "CO06",
+        "CO07"
+      ],
+      "comparison_pair": "A-ANNUAL",
+      "core_common_work": "Each city has its actual incremental costs and receipts; common research/programme work counted once. Different city cohorts are not a longitudinal panel.",
+      "cash_timing_note": "Preserve GBP/EUR/USD amounts and actual/planning FX basis; Texas city and international travel assumptions remain unresolved."
+    }
+  ],
+  "revenue_lines": [
+    {
+      "revenue_id": "RV01",
+      "name": "Standalone research-use licence",
+      "unit": "One defined edition/use-entitlement order, outside a funded or free equivalent entitlement.",
+      "quantity_rule": "Count only standalone actually specified units; a unique customer and its orders are different counts. Exclude equivalent free contributor use and rights already bundled in another order.",
+      "price": null,
+      "quantity": null,
+      "earning_basis_to_define": "Release/delivery of the agreed edition and actual rights/access; no accounting recognition policy adopted.",
+      "servicing": [
+        "DW02 reading-path/use preparation",
+        "DW04 agreed-use asset/permissions",
+        "DW08 sales/admin and correction route"
+      ]
+    },
+    {
+      "revenue_id": "RV02",
+      "name": "Founding research partnership",
+      "unit": "One defined edition/purpose partnership order with a specified benefit bundle.",
+      "quantity_rule": "Count the package fee once. Do not add the notional value of included licence, briefing or recognition as separate sales.",
+      "price": null,
+      "quantity": null,
+      "earning_basis_to_define": "Record the actual report/briefing/recognition or other fulfilment obligations and their timing. Cash deposit/receipt is separate from fulfilment.",
+      "servicing": [
+        "DW01 actual funded research/release work, if any",
+        "DW03 bounded briefing",
+        "DW04 recognition/use asset",
+        "DW08 commercial/admin"
+      ]
+    },
+    {
+      "revenue_id": "RV03",
+      "name": "Separately sold briefing or use preparation",
+      "unit": "One explicitly additional service or preparation order with a scoped audience/task/material.",
+      "quantity_rule": "Count only where genuinely additional, wanted and not already included in licence/partner/free entitlement. No automatic upsell or separate fee for agreed-scope defects.",
+      "price": null,
+      "quantity": null,
+      "earning_basis_to_define": "Actual agreed service/asset delivery, without importing unlimited inquiry or new research.",
+      "servicing": [
+        "DW02/DW03 preparation and bounded service",
+        "DW04 permitted public/client use if needed",
+        "DW08 administration"
+      ]
+    },
+    {
+      "revenue_id": "RV04",
+      "name": "Separately defined event/access support, optional",
+      "unit": "One transparently specified event/access benefit package if appropriate and agreed.",
+      "quantity_rule": "Not in the core research proposition. A combined partner order remains one billed bundle unless an actually separate nonoverlapping order exists. No default meeting, identity or private-answer rights.",
+      "price": null,
+      "quantity": null,
+      "earning_basis_to_define": "Actual agreed permissible event/access benefits, delivery prerequisites and timing; not mere sponsor interest.",
+      "servicing": [
+        "DW05 fit/permission and participant handling",
+        "DW07 event operating work",
+        "DW08 commercial/admin"
+      ]
+    }
+  ],
+  "cost_objects": [
+    {
+      "cost_id": "CO01",
+      "name": "Current commissioned project investment",
+      "work": "The existing USD1,500 engagement, with contract allocations USD1,000 report and USD500 Table.",
+      "allocation_rule": "Initial identifiable project investment; classify once, retain original currency and actual status.",
+      "overlap_guardrail": "Current commission is not a future edition unit-cost quote or proof of free future research.",
+      "amount": null,
+      "status_boundary": "Do not treat the full contract as irrevocably sunk or all paid: retain actual paid, remaining acceptance-triggered, committed and cancellable status from the agreement/records."
+    },
+    {
+      "cost_id": "CO02",
+      "name": "Future/common research production",
+      "work": "Research design, collection/verification, coding, analysis, writing, graphics/editing and final checks for the actual selected editions.",
+      "allocation_rule": "Common research basis shared between matched A/B comparisons; incremental event research work is separately identified.",
+      "overlap_guardrail": "Do not charge the current commissioned production twice through another research-hours line.",
+      "amount": null
+    },
+    {
+      "cost_id": "CO03",
+      "name": "Licence/customer servicing",
+      "work": "Reading path, rights/use asset, bounded briefing if included, questions/corrections, sales and administration.",
+      "allocation_rule": "Incremental order/service costs plus genuinely shared overhead allocated transparently.",
+      "overlap_guardrail": "Same prepared asset or briefing cannot be costed twice merely because two package labels include it.",
+      "amount": null
+    },
+    {
+      "cost_id": "CO04",
+      "name": "Member/research participation",
+      "work": "Eligibility screening, scheduling, practical input, permission/output handling, moderation preparation and optional follow-through.",
+      "allocation_rule": "Required research collection common to A/B where applicable; additional live-event/peer work marked incremental.",
+      "overlap_guardrail": "Contributor count, membership interest and event attendance are not interchangeable workload units.",
+      "amount": null
+    },
+    {
+      "cost_id": "CO05",
+      "name": "Event-specific direct operations",
+      "work": "Venue/private-room terms, food/drink, service/taxes, access, travel/accommodation, on-site moderation/hosts/admin and cancellation exposure.",
+      "allocation_rule": "Per-event incremental cost; sum actual city/date/seat line objects, with separately identified shared programme work.",
+      "overlap_guardrail": "A menu price is not necessarily a room minimum, and host/sponsor seats are not free merely because practitioner seats are free.",
+      "amount": null
+    },
+    {
+      "cost_id": "CO06",
+      "name": "JGA time and operating resources",
+      "work": "Research oversight, recruitment, sales, hosting, governance and administration hours by role and work object.",
+      "allocation_rule": "Distinguish incremental cash labour from existing staff opportunity/allocation time; value time in full-resource view.",
+      "overlap_guardrail": "No unpaid founder time silently disappears; no same labour hours counted as cash expense and added again as opportunity cost.",
+      "amount": null
+    },
+    {
+      "cost_id": "CO07",
+      "name": "Other implementation and commercial costs",
+      "work": "Payment/FX fees, necessary insurance/other operating items, refund/cancellation and contingency appropriate to actual model.",
+      "allocation_rule": "Record applicable basis, cash timing and inclusion/overlap; contingency basis explicit.",
+      "overlap_guardrail": "Do not add blanket buffers repeatedly over amounts already containing the same allowance.",
+      "amount": null
+    }
+  ],
+  "comparison_rules": [
+    "Use the same reporting horizon and core research/edition basis for each matched A/B comparison.",
+    "Model initial edition/pilot and a comparable annual programme separately; never compare a one-month A with a full-year B.",
+    "If annual routes share one research edition, count its production once; if additional editions/refreshes are selected, add their actual incremental work explicitly. No cadence assumed.",
+    "Separate current committed/paid investment, future avoidable operations, full resource cost and investment-recovery views.",
+    "Do not assign research sales to dinners automatically. Begin with explicit common demand assumptions; model event-related revenue differences only as separately labelled untested changes.",
+    "No current customer, partner, price, entitlement or available staffing is established by any route record."
+  ],
+  "actual_orders": [],
+  "actual_events": [],
+  "actual_receipts": [],
+  "actual_customers": [],
+  "actual_rights": [],
+  "financial_inputs": [],
+  "price_recommendations": [],
+  "adopted_model": null,
+  "new_canonical_sources": 0,
+  "new_canonical_claims": 0,
+  "external_actions": []
+}

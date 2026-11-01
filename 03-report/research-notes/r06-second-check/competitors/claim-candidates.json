@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "C6S-C01",
+      "source_ids": [
+        "C6S-S01"
+      ],
+      "claim_text": "Portfolio describes separate offer, candidate verbal acceptance, contract/start, onboarding and aftercare steps, including discussion of candidate motivations and counteroffer expectations.",
+      "evidence_class": "supplier_declared_process",
+      "locator": "Our process: vacancy registration/manage offer/keep in contact/aftercare",
+      "limitations": "A declaration, not an observed hire or mandated employer process. No acceptance, start, retention, availability or causal counteroffer result inferred.",
+      "review_mode": "Relevant original service/advice sections inspected, or explicitly scoped retained-case reinspection; not employer fieldwork or a product/assignment test",
+      "value": null,
+      "unit": null,
+      "time_period": "Accessed 29 October 2026; source-specific dates/context retained",
+      "population": "Recruitment-provider process/advice or named supplier-reported case; analyst application explicitly distinguished"
+    },
+    {
+      "candidate_id": "C6S-C02",
+      "source_ids": [
+        "C6S-S02"
+      ],
+      "claim_text": "Robert Half advises explicit knowledge transfer and handover before an interim finance engagement ends, using milestone review, mentoring/shadowing and a final debrief.",
+      "evidence_class": "supplier_professional_advice",
+      "locator": "Risk of knowledge loss and best-practice knowledge-transfer methods",
+      "limitations": "Cross-function finance advice, not a measured payroll benefit or proof this procedure works in a specific case. No percentages or mandatory finance-executive hierarchy adopted.",
+      "review_mode": "Relevant original service/advice sections inspected, or explicitly scoped retained-case reinspection; not employer fieldwork or a product/assignment test",
+      "value": null,
+      "unit": null,
+      "time_period": "Accessed 29 October 2026; source-specific dates/context retained",
+      "population": "Recruitment-provider process/advice or named supplier-reported case; analyst application explicitly distinguished"
+    },
+    {
+      "candidate_id": "C6S-C03",
+      "source_ids": [
+        "SRC-0119",
+        "SRC-0115",
+        "SRC-0116",
+        "SRC-0147",
+        "SRC-0113"
+      ],
+      "claim_text": "Inspected comparator materials include interim/permanent talent and defined resourcing/delivery propositions; the named Frazer Jones case combines transitional and permanent talent. These remain possible responses whose actual scope and continuation need must be established.",
+      "evidence_class": "source_scoped_market_context_and_analytical_application",
+      "locator": "Specific reorganisation case and provider declarations at individual source locators",
+      "limitations": "Not a market-share/demand estimate, automatic temporary-cover recommendation, observed budget approval or independent comparison of supplier capability. Existing-team, retention, revised-remit and process routes remain open.",
+      "review_mode": "Relevant original service/advice sections inspected, or explicitly scoped retained-case reinspection; not employer fieldwork or a product/assignment test",
+      "value": null,
+      "unit": null,
+      "time_period": "Accessed 29 October 2026; source-specific dates/context retained",
+      "population": "Recruitment-provider process/advice or named supplier-reported case; analyst application explicitly distinguished"
+    },
+    {
+      "candidate_id": "C6S-C04",
+      "source_ids": [
+        "C6S-S01",
+        "C6S-S02",
+        "SRC-0147"
+      ],
+      "claim_text": "For a talent-related payroll choice, distinguish the employer commitment, the other party's actual agreement/start, and the receiving team's continuing knowledge and ownership after handover. Availability/acceptance constraints and useful capability after an engagement are separate facts.",
+      "evidence_class": "researcher_analytical_application",
+      "locator": "Analyst application of declared recruitment stages, knowledge-transfer advice and offboarding design",
+      "limitations": "Optional analysis, not a validated sequence or new question; no public declaration proves actual candidate acceptance or retained capability. No hiring-freeze bypass, payroll-outcome score or mandatory hire.",
+      "review_mode": "Relevant original service/advice sections inspected, or explicitly scoped retained-case reinspection; not employer fieldwork or a product/assignment test",
+      "value": null,
+      "unit": null,
+      "time_period": "Accessed 29 October 2026; source-specific dates/context retained",
+      "population": "Recruitment-provider process/advice or named supplier-reported case; analyst application explicitly distinguished"
+    }
+  ]
+}

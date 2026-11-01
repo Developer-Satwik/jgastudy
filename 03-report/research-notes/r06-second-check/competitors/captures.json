@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "candidate_id": "C6S-S01",
+      "url": "https://www.theportfoliogroup.com/payroll/why-use-us/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.986692+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06-second-check/competitors/captures/C6S-S01-selected-reader-notes.txt",
+          "sha256": "f8171a4f3fcec52b0d09a759bd4ea29c7bad578b3cd8f5f370d3960c53f28d07",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ]
+    },
+    {
+      "candidate_id": "C6S-S02",
+      "url": "https://www.roberthalf.com/gb/en/insights/management-tips/how-retain-legacy-knowledge-interim-financial-consultants",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.987051+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/management-tips/how-retain-legacy-knowledge-interim-financial-consultants",
+      "capture_path": "03-report/research-notes/r06-second-check/competitors/captures/C6S-S02.html",
+      "capture_sha256": "e84b6cdc0f2f0c5003a76cdf62532d92d68bf5da983bae8e0840815f93feddba",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06-second-check/competitors/captures/C6S-S02.txt",
+      "text_sha256": "1e3e6b1dfe44a398169e5c7b1c84d56b0101dc8ac77fe86f3b3d5e2575a1fdb0"
+    },
+    {
+      "candidate_id": "SRC-0119",
+      "url": "https://www.frazerjones.com/case-studies/delivering-payroll-and-hr-operations-talent-during-organisational-change/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.987162+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0119-selected-reader-notes.txt",
+          "sha256": "47082bbab017c625d47c09dbf50216e9471e30921a6f19c7509efea7c64502ed",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ]
+    },
+    {
+      "candidate_id": "SRC-0115",
+      "url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.987224+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+      "capture_path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0115.html",
+      "capture_sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0115.txt",
+      "text_sha256": "e34cac2f118ea0aba8abe15ecd72a8880916976011394b0e8cf3495777d30c49"
+    },
+    {
+      "candidate_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.987280+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "29109ee5aafdbd89c5605450a468b1dabea15a2110a2559e52004d5f3e783011",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "bd62b49d9a46c442de10ada1cb44681334e9ce296b08417caac0d12f37651c8c"
+    },
+    {
+      "candidate_id": "SRC-0147",
+      "url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.987326+00:00",
+      "http_status": 200,
+      "final_url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "capture_path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0147.html",
+      "capture_sha256": "78a4191e8e5cf62b52cc6c98558fe2ab023c492f4174724a5fa36a68e0ea86e1",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0147.txt",
+      "text_sha256": "b42e9d1c00dd750c9395ae4ff8380ff4bb2c0b6795aa65214effdaaf0cb0eefd"
+    },
+    {
+      "candidate_id": "SRC-0113",
+      "url": "https://jgarecruitment.com/payroll-recruitment/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:58:51.987375+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r06-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+          "sha256": "fa85669e63995d8eb80836976dd320fb7ddcfcfdce7c90b7bbc4ca2566b2aac9",
+          "kind": "selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ]
+    }
+  ]
+}

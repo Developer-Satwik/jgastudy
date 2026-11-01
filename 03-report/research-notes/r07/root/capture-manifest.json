@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "source_id": "SRC-0003",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/quality-in-qualitative-evaluation-qqe-html",
+      "final_url": "https://www.gov.uk/government/publications/the-magenta-book/quality-in-qualitative-evaluation-qqe-html",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-28T23:10:31.972906+00:00",
+      "capture_path": "03-report/research-notes/r07/root/captures/SRC-0003.html",
+      "capture_sha256": "881b11510f9fac178e6bcb1df579c22b7c3eda29a00559a805b01f83c375e2e3",
+      "text_path": "03-report/research-notes/r07/root/captures/SRC-0003.txt",
+      "text_sha256": "cc263d635f48e28b72379b31275b0bfa1592e611079419c44b168dd105175084"
+    }
+  ]
+}

@@ -1,0 +1,4946 @@
+{
+  "date": "2026-11-01",
+  "status": "constructed_internal_planning_illustration_not_forecast",
+  "default_case": 2,
+  "default_scope": 1,
+  "start_date": "2027-01-01",
+  "start_date_basis": "Assumed illustration calendar, not project delivery date or agreed kickoff.",
+  "groups": [
+    {
+      "key": "months",
+      "label": "Displayed months",
+      "unit": "months",
+      "pilot": [
+        3,
+        3,
+        3
+      ],
+      "annual": [
+        12,
+        12,
+        12
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "contributors",
+      "label": "Usable contributors costed",
+      "unit": "people",
+      "pilot": [
+        10,
+        8,
+        6
+      ],
+      "annual": [
+        10,
+        8,
+        6
+      ],
+      "basis": "Preserved effort-case contributor assumptions. Actual permissioned contributions remain zero.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "editions",
+      "label": "Research editions",
+      "unit": "editions",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "One shared hypothetical edition in both routes. No automatic annual refresh.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "licences",
+      "label": "Standalone licences",
+      "unit": "orders",
+      "pilot": [
+        3,
+        10,
+        20
+      ],
+      "annual": [
+        6,
+        20,
+        40
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "licence_price",
+      "label": "Standalone licence fee",
+      "unit": "GBP/order",
+      "pilot": [
+        250,
+        500,
+        750
+      ],
+      "annual": [
+        250,
+        500,
+        750
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "partners",
+      "label": "Research partner bundles",
+      "unit": "orders",
+      "pilot": [
+        0,
+        1,
+        2
+      ],
+      "annual": [
+        0,
+        2,
+        3
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "partner_price",
+      "label": "Partner bundle fee",
+      "unit": "GBP/order",
+      "pilot": [
+        1500,
+        2000,
+        3000
+      ],
+      "annual": [
+        1500,
+        2000,
+        3000
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "briefings",
+      "label": "Additional paid briefings",
+      "unit": "sessions",
+      "pilot": [
+        0,
+        2,
+        4
+      ],
+      "annual": [
+        1,
+        4,
+        6
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "briefing_price",
+      "label": "Additional briefing fee",
+      "unit": "GBP/session",
+      "pilot": [
+        200,
+        300,
+        450
+      ],
+      "annual": [
+        200,
+        300,
+        450
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "event_licences",
+      "label": "Additional B-only licences",
+      "unit": "orders",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit zero event revenue uplift in all illustrations. Change only as a stated hypothesis; no attribution or demand established.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "event_licences_price",
+      "label": "Additional B-only licences fee",
+      "unit": "GBP/order",
+      "pilot": [
+        250,
+        500,
+        750
+      ],
+      "annual": [
+        250,
+        500,
+        750
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "event_partners",
+      "label": "Additional B-only partners",
+      "unit": "orders",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit zero event revenue uplift in all illustrations. Change only as a stated hypothesis; no attribution or demand established.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "event_partners_price",
+      "label": "Additional B-only partners fee",
+      "unit": "GBP/order",
+      "pilot": [
+        1500,
+        2000,
+        3000
+      ],
+      "annual": [
+        1500,
+        2000,
+        3000
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "event_briefings",
+      "label": "Additional B-only paid briefings",
+      "unit": "orders",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit zero event revenue uplift in all illustrations. Change only as a stated hypothesis; no attribution or demand established.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "event_briefings_price",
+      "label": "Additional B-only paid briefings fee",
+      "unit": "GBP/order",
+      "pilot": [
+        200,
+        300,
+        450
+      ],
+      "annual": [
+        200,
+        300,
+        450
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "included_licences",
+      "label": "Licence rights included per partner",
+      "unit": "rights/bundle",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Bundle design illustration. These are benefits, never additional licence revenue.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "included_briefings",
+      "label": "Briefings included per partner",
+      "unit": "sessions/bundle",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Bundle design illustration. Included sessions generate work, not another sale.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "campaigns",
+      "label": "Sales campaigns",
+      "unit": "campaigns",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        2,
+        2
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "contacts",
+      "label": "Worked contact attempts",
+      "unit": "attempts",
+      "pilot": [
+        40,
+        60,
+        80
+      ],
+      "annual": [
+        80,
+        120,
+        160
+      ],
+      "basis": "Labour illustration includes unsuccessful attempts. Not an outreach instruction, funnel conversion or quota.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "discussions",
+      "label": "Sales discussions",
+      "unit": "discussions",
+      "pilot": [
+        6,
+        8,
+        12
+      ],
+      "annual": [
+        10,
+        16,
+        24
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "proposals",
+      "label": "Initial proposals",
+      "unit": "proposals",
+      "pilot": [
+        4,
+        6,
+        8
+      ],
+      "annual": [
+        6,
+        10,
+        16
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rounds",
+      "label": "Additional commercial rounds",
+      "unit": "rounds",
+      "pilot": [
+        3,
+        3,
+        2
+      ],
+      "annual": [
+        5,
+        6,
+        4
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "distribution",
+      "label": "Shared distribution runs",
+      "unit": "runs",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        2,
+        2
+      ],
+      "basis": "One run can include free, bundled and paid recipients. Do not count each copy as a separate run.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cases",
+      "label": "Support cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        5,
+        4,
+        2
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "renewals",
+      "label": "Renewal/expiry administration",
+      "unit": "actions",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        2,
+        2,
+        2
+      ],
+      "basis": "Administration only. No renewal receipt or automatic subscription.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cycle_notes",
+      "label": "Optional cycle notes",
+      "unit": "notes",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_assets",
+      "label": "Additional use assets",
+      "unit": "packages",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "contingency",
+      "label": "Cash-cost reserve",
+      "unit": "fraction",
+      "pilot": [
+        0.15,
+        0.1,
+        0.05
+      ],
+      "annual": [
+        0.15,
+        0.1,
+        0.05
+      ],
+      "basis": "Illustrative reserve on future operating cash-cost budget. Not a probability, actual expense or scheduled payment.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "receipt_delay",
+      "label": "Expected receipt delay",
+      "unit": "days",
+      "pilot": [
+        60,
+        30,
+        0
+      ],
+      "annual": [
+        60,
+        30,
+        0
+      ],
+      "basis": "Scenario timing only. Not calibrated from survey late-payment rates.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "receipt_deposit",
+      "label": "Customer receipt first instalment",
+      "unit": "fraction",
+      "pilot": [
+        0.5,
+        0.5,
+        1
+      ],
+      "annual": [
+        0.5,
+        0.5,
+        1
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "opening",
+      "label": "Opening cash",
+      "unit": "GBP",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit zero funding illustration. No actual bank balance was supplied.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "usd_fx",
+      "label": "Current investment comparison FX",
+      "unit": "GBP/USD",
+      "pilot": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "annual": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "basis": "Hypothetical comparison factor, not an actual Payoneer settlement or exchange-rate forecast.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Research",
+      "label": "Research hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        49.6,
+        49.6,
+        49.6
+      ],
+      "annual": [
+        49.6,
+        49.6,
+        49.6
+      ],
+      "basis": "Published research day-rate comparison /7.5 analyst hours; not a supplier quote.",
+      "source": "https://www.yunojuno.com/freelancer-rates-report; https://www.yunojuno.com/freelancer-rates-job-role/market-research-consultant",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Research",
+      "label": "Research additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Research",
+      "label": "Research available hours/month",
+      "unit": "hours",
+      "pilot": [
+        120,
+        120,
+        120
+      ],
+      "annual": [
+        120,
+        120,
+        120
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Writing",
+      "label": "Writing hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        58.666666666666664,
+        58.666666666666664,
+        58.666666666666664
+      ],
+      "annual": [
+        58.666666666666664,
+        58.666666666666664,
+        58.666666666666664
+      ],
+      "basis": "Published writing day-rate comparison /7.5 analyst hours; not a supplier quote.",
+      "source": "https://www.procopywriters.co.uk/survey/2026/",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Writing",
+      "label": "Writing additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Writing",
+      "label": "Writing available hours/month",
+      "unit": "hours",
+      "pilot": [
+        120,
+        120,
+        120
+      ],
+      "annual": [
+        120,
+        120,
+        120
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Editing",
+      "label": "Editing hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        37.11,
+        37.11,
+        37.11
+      ],
+      "annual": [
+        37.11,
+        37.11,
+        37.11
+      ],
+      "basis": "Published editing comparison; actual scope/minimum booking unconfirmed.",
+      "source": "https://www.ciep.uk/knowledge-hub/suggested-minimum-rates.html",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Editing",
+      "label": "Editing additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Editing",
+      "label": "Editing available hours/month",
+      "unit": "hours",
+      "pilot": [
+        100,
+        100,
+        100
+      ],
+      "annual": [
+        100,
+        100,
+        100
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Design",
+      "label": "Design hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        46.4,
+        46.4,
+        46.4
+      ],
+      "annual": [
+        46.4,
+        46.4,
+        46.4
+      ],
+      "basis": "Published design day-rate comparison /7.5 analyst hours; not a supplier quote.",
+      "source": "https://www.yunojuno.com/freelancer-rates-report; https://www.yunojuno.com/freelancer-rates-job-role/graphic-designer",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Design",
+      "label": "Design additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Design",
+      "label": "Design available hours/month",
+      "unit": "hours",
+      "pilot": [
+        100,
+        100,
+        100
+      ],
+      "annual": [
+        100,
+        100,
+        100
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Coordination",
+      "label": "Coordination hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        46.19,
+        46.19,
+        46.19
+      ],
+      "annual": [
+        46.19,
+        46.19,
+        46.19
+      ],
+      "basis": "Published coordination comparison; actual suitable performer unconfirmed.",
+      "source": "https://www.ciep.uk/knowledge-hub/suggested-minimum-rates.html",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Coordination",
+      "label": "Coordination additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Coordination",
+      "label": "Coordination available hours/month",
+      "unit": "hours",
+      "pilot": [
+        100,
+        100,
+        100
+      ],
+      "annual": [
+        100,
+        100,
+        100
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Commercial",
+      "label": "Commercial hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        45,
+        45,
+        45
+      ],
+      "annual": [
+        45,
+        45,
+        45
+      ],
+      "basis": "Analyst-assumed internal resource rate, not a published wage or extra cash salary.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Commercial",
+      "label": "Commercial additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Commercial",
+      "label": "Commercial available hours/month",
+      "unit": "hours",
+      "pilot": [
+        60,
+        60,
+        60
+      ],
+      "annual": [
+        60,
+        60,
+        60
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_JGA",
+      "label": "JGA hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        60,
+        60,
+        60
+      ],
+      "annual": [
+        60,
+        60,
+        60
+      ],
+      "basis": "Analyst-assumed retained review time valuation, not extra cash payroll or named availability.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_JGA",
+      "label": "JGA additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_JGA",
+      "label": "JGA available hours/month",
+      "unit": "hours",
+      "pilot": [
+        24,
+        24,
+        24
+      ],
+      "annual": [
+        24,
+        24,
+        24
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Moderation",
+      "label": "Moderation hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        65,
+        65,
+        65
+      ],
+      "annual": [
+        65,
+        65,
+        65
+      ],
+      "basis": "Explicit hypothetical moderator comparison. No capability, quote or staffing implied.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Moderation",
+      "label": "Moderation additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Moderation",
+      "label": "Moderation available hours/month",
+      "unit": "hours",
+      "pilot": [
+        40,
+        40,
+        40
+      ],
+      "annual": [
+        40,
+        40,
+        40
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Hosting",
+      "label": "Hosting hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        60,
+        60,
+        60
+      ],
+      "annual": [
+        60,
+        60,
+        60
+      ],
+      "basis": "Hypothetical internal host time, not cash pay.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Hosting",
+      "label": "Hosting additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Hosting",
+      "label": "Hosting available hours/month",
+      "unit": "hours",
+      "pilot": [
+        24,
+        24,
+        24
+      ],
+      "annual": [
+        24,
+        24,
+        24
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "rate_Travel",
+      "label": "Travel hourly valuation",
+      "unit": "GBP/hour",
+      "pilot": [
+        25,
+        25,
+        25
+      ],
+      "annual": [
+        25,
+        25,
+        25
+      ],
+      "basis": "Hypothetical staff travel-time resource value, separate from fare cash.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "cash_Travel",
+      "label": "Travel additional-cash share",
+      "unit": "fraction",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Hypothetical split between extra external cash and already-budgeted internal resource. No person hired.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "capacity_Travel",
+      "label": "Travel available hours/month",
+      "unit": "hours",
+      "pilot": [
+        24,
+        24,
+        24
+      ],
+      "annual": [
+        24,
+        24,
+        24
+      ],
+      "basis": "Unconfirmed hour-capacity illustration. Does not verify named people, skill or simultaneous duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR01",
+      "label": "WR01 Scope, reader and method update",
+      "unit": "hours/unit",
+      "pilot": [
+        10,
+        6,
+        4
+      ],
+      "annual": [
+        10,
+        6,
+        4
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR02",
+      "label": "WR02 Desktop evidence collection and screening",
+      "unit": "hours/unit",
+      "pilot": [
+        36,
+        24,
+        16
+      ],
+      "annual": [
+        36,
+        24,
+        16
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR03",
+      "label": "WR03 Guide and record preparation",
+      "unit": "hours/unit",
+      "pilot": [
+        8,
+        5,
+        3
+      ],
+      "annual": [
+        8,
+        5,
+        3
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR04",
+      "label": "WR04 Research recruitment setup and coordination",
+      "unit": "hours/unit",
+      "pilot": [
+        6,
+        4,
+        2
+      ],
+      "annual": [
+        6,
+        4,
+        2
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR05",
+      "label": "WR05 Individual scheduling, permission administration and clearance routing",
+      "unit": "hours/unit",
+      "pilot": [
+        1.25,
+        0.75,
+        0.5
+      ],
+      "annual": [
+        1.25,
+        0.75,
+        0.5
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR06",
+      "label": "WR06 Contribution collection and structured note",
+      "unit": "hours/unit",
+      "pilot": [
+        2.5,
+        1.75,
+        1.25
+      ],
+      "annual": [
+        2.5,
+        1.75,
+        1.25
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR07",
+      "label": "WR07 Contribution coding and comparison preparation",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1.25,
+        0.75
+      ],
+      "annual": [
+        2,
+        1.25,
+        0.75
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR08",
+      "label": "WR08 Cross-case synthesis and Decision Framework",
+      "unit": "hours/unit",
+      "pilot": [
+        22,
+        14,
+        8
+      ],
+      "annual": [
+        22,
+        14,
+        8
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR09",
+      "label": "WR09 Full narrative, executive summary and commercial preview",
+      "unit": "hours/unit",
+      "pilot": [
+        44,
+        28,
+        18
+      ],
+      "annual": [
+        44,
+        28,
+        18
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR10",
+      "label": "WR10 Substantive fact, source, quotation and rights check",
+      "unit": "hours/unit",
+      "pilot": [
+        18,
+        12,
+        8
+      ],
+      "annual": [
+        18,
+        12,
+        8
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR11",
+      "label": "WR11 Copyediting and proofreading",
+      "unit": "hours/unit",
+      "pilot": [
+        16,
+        10,
+        6
+      ],
+      "annual": [
+        16,
+        10,
+        6
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR12",
+      "label": "WR12 JGA design and editable report assets",
+      "unit": "hours/unit",
+      "pilot": [
+        26,
+        16,
+        10
+      ],
+      "annual": [
+        26,
+        16,
+        10
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR13",
+      "label": "WR13 One consolidated editorial revision allowance",
+      "unit": "hours/unit",
+      "pilot": [
+        14,
+        8,
+        5
+      ],
+      "annual": [
+        14,
+        8,
+        5
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR14",
+      "label": "WR14 Final format/data QA and portable handover",
+      "unit": "hours/unit",
+      "pilot": [
+        10,
+        6,
+        4
+      ],
+      "annual": [
+        10,
+        6,
+        4
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR15",
+      "label": "WR15 Provider project coordination",
+      "unit": "hours/unit",
+      "pilot": [
+        10,
+        6,
+        4
+      ],
+      "annual": [
+        10,
+        6,
+        4
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WR16",
+      "label": "WR16 First-edition research pricing and use-option preparation",
+      "unit": "hours/unit",
+      "pilot": [
+        8,
+        5,
+        3
+      ],
+      "annual": [
+        8,
+        5,
+        3
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_JG01",
+      "label": "JG01 Reader scope, context and priorities",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        3,
+        1.5
+      ],
+      "annual": [
+        5,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_JG02",
+      "label": "JG02 Introductions, eligibility context and follow-through",
+      "unit": "hours/unit",
+      "pilot": [
+        12,
+        7,
+        4
+      ],
+      "annual": [
+        12,
+        7,
+        4
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_JG03",
+      "label": "JG03 Subject-matter and factual review",
+      "unit": "hours/unit",
+      "pilot": [
+        12,
+        7,
+        4
+      ],
+      "annual": [
+        12,
+        7,
+        4
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_JG04",
+      "label": "JG04 Consolidated feedback and decisions",
+      "unit": "hours/unit",
+      "pilot": [
+        6,
+        4,
+        2
+      ],
+      "annual": [
+        6,
+        4,
+        2
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_JG05",
+      "label": "JG05 Publication approval and handover decisions",
+      "unit": "hours/unit",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "Preserved untimed task allowance. Conservative uses higher effort, optimistic lower effort. No measured time or AI saving.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS01",
+      "label": "WS01 Reusable commercial pack and campaign readiness",
+      "unit": "hours/unit",
+      "pilot": [
+        12,
+        6,
+        3
+      ],
+      "annual": [
+        12,
+        6,
+        3
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS02",
+      "label": "WS02 Campaign administration, pipeline review and close",
+      "unit": "hours/unit",
+      "pilot": [
+        8,
+        4,
+        2
+      ],
+      "annual": [
+        8,
+        4,
+        2
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS03",
+      "label": "WS03 Individually handled prospect contact attempt",
+      "unit": "hours/unit",
+      "pilot": [
+        0.4,
+        0.2,
+        0.1
+      ],
+      "annual": [
+        0.4,
+        0.2,
+        0.1
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS04",
+      "label": "WS04 Substantive sales discussion and immediate record",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1.25,
+        0.75
+      ],
+      "annual": [
+        2,
+        1.25,
+        0.75
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS05",
+      "label": "WS05 Initial scoped proposal preparation",
+      "unit": "hours/unit",
+      "pilot": [
+        6,
+        3,
+        1.5
+      ],
+      "annual": [
+        6,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS06",
+      "label": "WS06 Additional material proposal or negotiation round",
+      "unit": "hours/unit",
+      "pilot": [
+        3,
+        1.5,
+        0.5
+      ],
+      "annual": [
+        3,
+        1.5,
+        0.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS07",
+      "label": "WS07 Won order / agreement and entitlement setup",
+      "unit": "hours/unit",
+      "pilot": [
+        3,
+        1.5,
+        0.75
+      ],
+      "annual": [
+        3,
+        1.5,
+        0.75
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS08",
+      "label": "WS08 Customer-specific reading path through existing research",
+      "unit": "hours/unit",
+      "pilot": [
+        3,
+        1.25,
+        0.5
+      ],
+      "annual": [
+        3,
+        1.25,
+        0.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS09",
+      "label": "WS09 Scoped client/public-use asset preparation and context check",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        2,
+        0.75
+      ],
+      "annual": [
+        5,
+        2,
+        0.75
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS10",
+      "label": "WS10 Partner recognition and benefit-register setup",
+      "unit": "hours/unit",
+      "pilot": [
+        3,
+        1.5,
+        0.75
+      ],
+      "annual": [
+        3,
+        1.5,
+        0.75
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS11",
+      "label": "WS11 Explicit partner benefit fulfilment administration",
+      "unit": "hours/unit",
+      "pilot": [
+        1.5,
+        0.75,
+        0.25
+      ],
+      "annual": [
+        1.5,
+        0.75,
+        0.25
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS12",
+      "label": "WS12 Full-research fulfilment delivery run",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS13",
+      "label": "WS13 Scoped briefing preparation and scheduling",
+      "unit": "hours/unit",
+      "pilot": [
+        6,
+        3,
+        1.5
+      ],
+      "annual": [
+        6,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS14",
+      "label": "WS14 Live scoped briefing delivery",
+      "unit": "hours/unit",
+      "pilot": [
+        1.5,
+        1,
+        0.5
+      ],
+      "annual": [
+        1.5,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS15",
+      "label": "WS15 Bounded briefing follow-through",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS16",
+      "label": "WS16 Service-case triage and routing",
+      "unit": "hours/unit",
+      "pilot": [
+        0.5,
+        0.25,
+        0.1
+      ],
+      "annual": [
+        0.5,
+        0.25,
+        0.1
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS17",
+      "label": "WS17 Invoice, receipt and fulfilment-status administration",
+      "unit": "hours/unit",
+      "pilot": [
+        1.5,
+        0.75,
+        0.25
+      ],
+      "annual": [
+        1.5,
+        0.75,
+        0.25
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS18",
+      "label": "WS18 Service-case resolution, correction routing and close",
+      "unit": "hours/unit",
+      "pilot": [
+        1.5,
+        0.5,
+        0.25
+      ],
+      "annual": [
+        1.5,
+        0.5,
+        0.25
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS19",
+      "label": "WS19 Actually initiated renewal or expiry administration",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS20",
+      "label": "WS20 Optional short cycle follow-through note",
+      "unit": "hours/unit",
+      "pilot": [
+        6,
+        3,
+        1.5
+      ],
+      "annual": [
+        6,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WS21",
+      "label": "WS21 Campaign fulfilment readiness and distribution-route setup",
+      "unit": "hours/unit",
+      "pilot": [
+        4,
+        2,
+        1
+      ],
+      "annual": [
+        4,
+        2,
+        1
+      ],
+      "basis": "Preserved untimed service task allowance. Count real common work once; no automatic paid/free entitlement duplication.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_campaigns",
+      "label": "B-only additional campaigns",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_contacts",
+      "label": "B-only additional contacts",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_discussions",
+      "label": "B-only additional discussions",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_proposals",
+      "label": "B-only additional proposals",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_rounds",
+      "label": "B-only additional rounds",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_distribution",
+      "label": "B-only additional distribution",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_cases",
+      "label": "B-only additional cases",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_renewals",
+      "label": "B-only additional renewals",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_cycle_notes",
+      "label": "B-only additional cycle_notes",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "extra_extra_assets",
+      "label": "B-only additional extra_assets",
+      "unit": "activities",
+      "pilot": [
+        0,
+        0,
+        0
+      ],
+      "annual": [
+        0,
+        0,
+        0
+      ],
+      "basis": "Explicit additional-work illustration. Keep genuine shared campaign/reuse once. If event-only sales require more work, enter it here; no automatic conversion or duplicated campaign.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE01",
+      "label": "WE01 Event remit and responsibilities",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        3,
+        1.5
+      ],
+      "annual": [
+        5,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE02",
+      "label": "WE02 Venue, privacy and access assessment",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        3,
+        1.5
+      ],
+      "annual": [
+        5,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE03",
+      "label": "WE03 Supplier scope and terms coordination",
+      "unit": "hours/unit",
+      "pilot": [
+        4,
+        2,
+        1
+      ],
+      "annual": [
+        4,
+        2,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE04",
+      "label": "WE04 Participant pool and suitability map",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        3,
+        1.5
+      ],
+      "annual": [
+        5,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE05",
+      "label": "WE05 Individual invitation attempt",
+      "unit": "hours/unit",
+      "pilot": [
+        0.5,
+        0.25,
+        0.1
+      ],
+      "annual": [
+        0.5,
+        0.25,
+        0.1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE06",
+      "label": "WE06 Participant suitability and permissions",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        0.5,
+        0.25
+      ],
+      "annual": [
+        1,
+        0.5,
+        0.25
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE07",
+      "label": "WE07 Confirmed-person logistics",
+      "unit": "hours/unit",
+      "pilot": [
+        0.5,
+        0.25,
+        0.15
+      ],
+      "annual": [
+        0.5,
+        0.25,
+        0.15
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE08",
+      "label": "WE08 Access or dietary coordination case",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        0.5,
+        0.25
+      ],
+      "annual": [
+        1,
+        0.5,
+        0.25
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE09",
+      "label": "WE09 Material attendance or date change",
+      "unit": "hours/unit",
+      "pilot": [
+        0.75,
+        0.25,
+        0.1
+      ],
+      "annual": [
+        0.75,
+        0.25,
+        0.1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE10",
+      "label": "WE10 Moderator topic and process preparation",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        3,
+        1.5
+      ],
+      "annual": [
+        5,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE11",
+      "label": "WE11 Moderator live delivery",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE12",
+      "label": "WE12 Moderator debrief and necessary actions",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE13",
+      "label": "WE13 Host preparation and guest liaison",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE14",
+      "label": "WE14 Host live work",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE15",
+      "label": "WE15 Onsite setup, liaison and close",
+      "unit": "hours/unit",
+      "pilot": [
+        4,
+        2,
+        1
+      ],
+      "annual": [
+        4,
+        2,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE16",
+      "label": "WE16 Permitted live note-taking",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE17",
+      "label": "WE17 Agreed event synthesis and review",
+      "unit": "hours/unit",
+      "pilot": [
+        5,
+        3,
+        1.5
+      ],
+      "annual": [
+        5,
+        3,
+        1.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE18",
+      "label": "WE18 Release and participant follow-through",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE19",
+      "label": "WE19 Supplier reconciliation and closure",
+      "unit": "hours/unit",
+      "pilot": [
+        2,
+        1,
+        0.5
+      ],
+      "annual": [
+        2,
+        1,
+        0.5
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE20",
+      "label": "WE20 Travel arrangements",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        0.5,
+        0.25
+      ],
+      "annual": [
+        1,
+        0.5,
+        0.25
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE21",
+      "label": "WE21 Additional staff travel time",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "hours_WE22",
+      "label": "WE22 Unallocated incurred or exception work",
+      "unit": "hours/unit",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "Preserved untimed event task allowance. A role label does not verify availability or duty coverage.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_practitioners",
+      "label": "E1 practitioner places",
+      "unit": "places",
+      "pilot": [
+        15,
+        13,
+        12
+      ],
+      "annual": [
+        15,
+        13,
+        12
+      ],
+      "basis": "Proposed capacity illustration only. Separate from the commissioned6–10 usable report contributions and up-to-four exploratory conversations.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_team",
+      "label": "E1 additional team places",
+      "unit": "places",
+      "pilot": [
+        3,
+        3,
+        3
+      ],
+      "annual": [
+        3,
+        3,
+        3
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_price",
+      "label": "E1 Catering per cover",
+      "unit": "GBP",
+      "pilot": [
+        125,
+        100,
+        80
+      ],
+      "annual": [
+        125,
+        100,
+        80
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_minimum",
+      "label": "E1 Eligible catering minimum",
+      "unit": "GBP",
+      "pilot": [
+        2000,
+        1500,
+        1000
+      ],
+      "annual": [
+        2000,
+        1500,
+        1000
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_hire",
+      "label": "E1 Separate room hire",
+      "unit": "GBP",
+      "pilot": [
+        300,
+        300,
+        300
+      ],
+      "annual": [
+        300,
+        300,
+        300
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_travel",
+      "label": "E1 Fares/accommodation total",
+      "unit": "GBP",
+      "pilot": [
+        150,
+        100,
+        75
+      ],
+      "annual": [
+        150,
+        100,
+        75
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_travelhours",
+      "label": "E1 Additional staff travel",
+      "unit": "hours",
+      "pilot": [
+        4,
+        3,
+        2
+      ],
+      "annual": [
+        4,
+        3,
+        2
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_attempts",
+      "label": "E1 Worked invitation attempts",
+      "unit": "attempts",
+      "pilot": [
+        50,
+        40,
+        30
+      ],
+      "annual": [
+        50,
+        40,
+        30
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_coordcases",
+      "label": "E1 Access/dietary cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_changes",
+      "label": "E1 Material change cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_fx",
+      "label": "E1 original-currency conversion",
+      "unit": "GBP/GBP",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "GBP identity or hypothetical GBP per original currency unit. No actual foreign settlement or market forecast.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_service",
+      "label": "E1 additional service charge",
+      "unit": "fraction",
+      "pilot": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "annual": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "basis": "Hypothetical additional service charge. Other supplied figures treated as gross illustrative amounts; no VAT liability/recovery determined.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E1_deposit",
+      "label": "E1 supplier deposit share",
+      "unit": "fraction",
+      "pilot": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "annual": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "basis": "Hypothetical part-payment schedule, not refundability/cancellation terms.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_practitioners",
+      "label": "E2 practitioner places",
+      "unit": "places",
+      "pilot": [
+        15,
+        13,
+        12
+      ],
+      "annual": [
+        15,
+        13,
+        12
+      ],
+      "basis": "Proposed capacity illustration only. Separate from the commissioned6–10 usable report contributions and up-to-four exploratory conversations.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_team",
+      "label": "E2 additional team places",
+      "unit": "places",
+      "pilot": [
+        3,
+        3,
+        3
+      ],
+      "annual": [
+        3,
+        3,
+        3
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_price",
+      "label": "E2 Catering per cover",
+      "unit": "GBP",
+      "pilot": [
+        115,
+        90,
+        75
+      ],
+      "annual": [
+        115,
+        90,
+        75
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_minimum",
+      "label": "E2 Eligible catering minimum",
+      "unit": "GBP",
+      "pilot": [
+        1800,
+        1400,
+        1000
+      ],
+      "annual": [
+        1800,
+        1400,
+        1000
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_hire",
+      "label": "E2 Separate room hire",
+      "unit": "GBP",
+      "pilot": [
+        250,
+        250,
+        250
+      ],
+      "annual": [
+        250,
+        250,
+        250
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_travel",
+      "label": "E2 Fares/accommodation total",
+      "unit": "GBP",
+      "pilot": [
+        300,
+        250,
+        200
+      ],
+      "annual": [
+        300,
+        250,
+        200
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_travelhours",
+      "label": "E2 Additional staff travel",
+      "unit": "hours",
+      "pilot": [
+        6,
+        5,
+        4
+      ],
+      "annual": [
+        6,
+        5,
+        4
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_attempts",
+      "label": "E2 Worked invitation attempts",
+      "unit": "attempts",
+      "pilot": [
+        50,
+        40,
+        30
+      ],
+      "annual": [
+        50,
+        40,
+        30
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_coordcases",
+      "label": "E2 Access/dietary cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_changes",
+      "label": "E2 Material change cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_fx",
+      "label": "E2 original-currency conversion",
+      "unit": "GBP/GBP",
+      "pilot": [
+        1,
+        1,
+        1
+      ],
+      "annual": [
+        1,
+        1,
+        1
+      ],
+      "basis": "GBP identity or hypothetical GBP per original currency unit. No actual foreign settlement or market forecast.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_service",
+      "label": "E2 additional service charge",
+      "unit": "fraction",
+      "pilot": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "annual": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "basis": "Hypothetical additional service charge. Other supplied figures treated as gross illustrative amounts; no VAT liability/recovery determined.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E2_deposit",
+      "label": "E2 supplier deposit share",
+      "unit": "fraction",
+      "pilot": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "annual": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "basis": "Hypothetical part-payment schedule, not refundability/cancellation terms.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_practitioners",
+      "label": "E3 practitioner places",
+      "unit": "places",
+      "pilot": [
+        15,
+        13,
+        12
+      ],
+      "annual": [
+        15,
+        13,
+        12
+      ],
+      "basis": "Proposed capacity illustration only. Separate from the commissioned6–10 usable report contributions and up-to-four exploratory conversations.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_team",
+      "label": "E3 additional team places",
+      "unit": "places",
+      "pilot": [
+        3,
+        3,
+        3
+      ],
+      "annual": [
+        3,
+        3,
+        3
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_price",
+      "label": "E3 Catering per cover",
+      "unit": "EUR",
+      "pilot": [
+        140,
+        110,
+        90
+      ],
+      "annual": [
+        140,
+        110,
+        90
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_minimum",
+      "label": "E3 Eligible catering minimum",
+      "unit": "EUR",
+      "pilot": [
+        2200,
+        1800,
+        1400
+      ],
+      "annual": [
+        2200,
+        1800,
+        1400
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_hire",
+      "label": "E3 Separate room hire",
+      "unit": "EUR",
+      "pilot": [
+        350,
+        350,
+        350
+      ],
+      "annual": [
+        350,
+        350,
+        350
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_travel",
+      "label": "E3 Fares/accommodation total",
+      "unit": "EUR",
+      "pilot": [
+        650,
+        500,
+        400
+      ],
+      "annual": [
+        650,
+        500,
+        400
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_travelhours",
+      "label": "E3 Additional staff travel",
+      "unit": "hours",
+      "pilot": [
+        10,
+        8,
+        6
+      ],
+      "annual": [
+        10,
+        8,
+        6
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_attempts",
+      "label": "E3 Worked invitation attempts",
+      "unit": "attempts",
+      "pilot": [
+        50,
+        40,
+        30
+      ],
+      "annual": [
+        50,
+        40,
+        30
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_coordcases",
+      "label": "E3 Access/dietary cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_changes",
+      "label": "E3 Material change cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific hypothetical planning value, not a supplier quote, current menu or fare.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_fx",
+      "label": "E3 original-currency conversion",
+      "unit": "GBP/EUR",
+      "pilot": [
+        0.85,
+        0.85,
+        0.85
+      ],
+      "annual": [
+        0.85,
+        0.85,
+        0.85
+      ],
+      "basis": "GBP identity or hypothetical GBP per original currency unit. No actual foreign settlement or market forecast.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_service",
+      "label": "E3 additional service charge",
+      "unit": "fraction",
+      "pilot": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "annual": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "basis": "Hypothetical additional service charge. Other supplied figures treated as gross illustrative amounts; no VAT liability/recovery determined.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E3_deposit",
+      "label": "E3 supplier deposit share",
+      "unit": "fraction",
+      "pilot": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "annual": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "basis": "Hypothetical part-payment schedule, not refundability/cancellation terms.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_practitioners",
+      "label": "E4 practitioner places",
+      "unit": "places",
+      "pilot": [
+        15,
+        13,
+        12
+      ],
+      "annual": [
+        15,
+        13,
+        12
+      ],
+      "basis": "Proposed capacity illustration only. Separate from the commissioned6–10 usable report contributions and up-to-four exploratory conversations.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_team",
+      "label": "E4 additional team places",
+      "unit": "places",
+      "pilot": [
+        3,
+        3,
+        3
+      ],
+      "annual": [
+        3,
+        3,
+        3
+      ],
+      "basis": "Constructed planning assumption, not observed demand, a quote or an approved budget.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_price",
+      "label": "E4 Catering per cover",
+      "unit": "USD",
+      "pilot": [
+        null,
+        null,
+        null
+      ],
+      "annual": [
+        null,
+        null,
+        null
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_minimum",
+      "label": "E4 Eligible catering minimum",
+      "unit": "USD",
+      "pilot": [
+        null,
+        null,
+        null
+      ],
+      "annual": [
+        null,
+        null,
+        null
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_hire",
+      "label": "E4 Separate room hire",
+      "unit": "USD",
+      "pilot": [
+        null,
+        null,
+        null
+      ],
+      "annual": [
+        null,
+        null,
+        null
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_travel",
+      "label": "E4 Fares/accommodation total",
+      "unit": "USD",
+      "pilot": [
+        null,
+        null,
+        null
+      ],
+      "annual": [
+        null,
+        null,
+        null
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_travelhours",
+      "label": "E4 Additional staff travel",
+      "unit": "hours",
+      "pilot": [
+        null,
+        null,
+        null
+      ],
+      "annual": [
+        null,
+        null,
+        null
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_attempts",
+      "label": "E4 Worked invitation attempts",
+      "unit": "attempts",
+      "pilot": [
+        50,
+        40,
+        30
+      ],
+      "annual": [
+        50,
+        40,
+        30
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_coordcases",
+      "label": "E4 Access/dietary cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_changes",
+      "label": "E4 Material change cases",
+      "unit": "cases",
+      "pilot": [
+        3,
+        2,
+        1
+      ],
+      "annual": [
+        3,
+        2,
+        1
+      ],
+      "basis": "City-specific constructed comparison, not a current menu, fare, quote, selected venue or attendance commitment. Texas values deliberately unresolved.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_fx",
+      "label": "E4 original-currency conversion",
+      "unit": "GBP/USD",
+      "pilot": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "annual": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "basis": "GBP identity or hypothetical GBP per original currency unit. No actual foreign settlement or market forecast.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_service",
+      "label": "E4 additional service charge",
+      "unit": "fraction",
+      "pilot": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "annual": [
+        0.125,
+        0.125,
+        0.125
+      ],
+      "basis": "Hypothetical additional service charge. Other supplied figures treated as gross illustrative amounts; no VAT liability/recovery determined.",
+      "source": "",
+      "actual_observation": false
+    },
+    {
+      "key": "E4_deposit",
+      "label": "E4 supplier deposit share",
+      "unit": "fraction",
+      "pilot": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "annual": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "basis": "Hypothetical part-payment schedule, not refundability/cancellation terms.",
+      "source": "",
+      "actual_observation": false
+    }
+  ],
+  "tasks": [
+    {
+      "id": "WR01",
+      "label": "Scope, reader and method update",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Reusing a framework does not make old findings current. No client approval or completed future edition assumed."
+    },
+    {
+      "id": "WR02",
+      "label": "Desktop evidence collection and screening",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Includes useful evidence work, not repeating every internal check/file from the present project; paid datasets excluded unless separately selected."
+    },
+    {
+      "id": "WR03",
+      "label": "Guide and record preparation",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Does not change the core or authorise data collection. New material method changes may need more effort."
+    },
+    {
+      "id": "WR04",
+      "label": "Research recruitment setup and coordination",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Not a recruitment guarantee. Variable individual handling is WR05; unsuccessful chasing beyond this assumed effort requires reforecast."
+    },
+    {
+      "id": "WR05",
+      "label": "Individual scheduling, permission administration and clearance routing",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "contributors",
+      "month": 1,
+      "basis": "Model completed usable contributors as a workload driver only; this is not a conversion-rate assumption. Extra unsuccessful attempts remain additional work if incurred."
+    },
+    {
+      "id": "WR06",
+      "label": "Contribution collection and structured note",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "contributors",
+      "month": 1,
+      "basis": "Not a promised interview duration. No recording/transcription or identifiable-data AI service assumed."
+    },
+    {
+      "id": "WR07",
+      "label": "Contribution coding and comparison preparation",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "contributors",
+      "month": 1,
+      "basis": "Do not add a second full coding charge merely because the same permitted account informs Table analysis; extra Table-specific work stays separate."
+    },
+    {
+      "id": "WR08",
+      "label": "Cross-case synthesis and Decision Framework",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Small purposive input is not representative benchmarking. This is synthesis effort, with prose drafting in WR09."
+    },
+    {
+      "id": "WR09",
+      "label": "Full narrative, executive summary and commercial preview",
+      "role": "Writing",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "No arbitrary report word/page ceiling; changed agreed length or evidence complexity requires reforecast. Research collection/synthesis are separate rows."
+    },
+    {
+      "id": "WR10",
+      "label": "Substantive fact, source, quotation and rights check",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Not legal advice or a new ownership veto. WR05 administration and this publication review are distinct tasks; do not repeat the same clearance effort."
+    },
+    {
+      "id": "WR11",
+      "label": "Copyediting and proofreading",
+      "role": "Editing",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Editorial hours are a separate work package, not a second full research rewrite."
+    },
+    {
+      "id": "WR12",
+      "label": "JGA design and editable report assets",
+      "role": "Design",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Uses reusable design system and evidence-supported graphics. Excludes a website, Table financial workbook and invented quantitative charts."
+    },
+    {
+      "id": "WR13",
+      "label": "One consolidated editorial revision allowance",
+      "role": "Writing",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Included contractual remedy work is not a new billable service. Allowance is planning effort, not a cap on corrections or an automatic surcharge."
+    },
+    {
+      "id": "WR14",
+      "label": "Final format/data QA and portable handover",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Report supporting Excel data only; no duplicate charge for separate Table financial-model production."
+    },
+    {
+      "id": "WR15",
+      "label": "Provider project coordination",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Own labour only. JGA-side decision/review time is retained resource cost, not the same person charged twice."
+    },
+    {
+      "id": "WR16",
+      "label": "First-edition research pricing and use-option preparation",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 2,
+      "basis": "Count a common analysis once if it also informs Table feasibility. This row is not the full six-comparable Table assessment, sponsor sales or contract advice."
+    },
+    {
+      "id": "JG01",
+      "label": "Reader scope, context and priorities",
+      "role": "JGA",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Proposed retained time, no named person or date assigned."
+    },
+    {
+      "id": "JG02",
+      "label": "Introductions, eligibility context and follow-through",
+      "role": "JGA",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Planning block, not an assumed conversion funnel or guaranteed number of recruitable contacts. More chasing can increase actual effort."
+    },
+    {
+      "id": "JG03",
+      "label": "Subject-matter and factual review",
+      "role": "JGA",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Retained expertise does not replace independent fact checking. Review time can overlap with other JGA tasks only if actual work is the same."
+    },
+    {
+      "id": "JG04",
+      "label": "Consolidated feedback and decisions",
+      "role": "JGA",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "Client time alongside provider WR13, not an extra provider invoice."
+    },
+    {
+      "id": "JG05",
+      "label": "Publication approval and handover decisions",
+      "role": "JGA",
+      "scope": "Common",
+      "unit": "editions",
+      "month": 1,
+      "basis": "No approval, acceptance or publication permission presumed by the hours."
+    },
+    {
+      "id": "WS01",
+      "label": "Reusable commercial pack and campaign readiness",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "campaigns",
+      "month": 1,
+      "basis": "Do not recreate or reprice the complete report, its commercial preview, or initial report use-option analysis already in WR09/WR16. A second campaign reuses the asset and costs only real updating work."
+    },
+    {
+      "id": "WS02",
+      "label": "Campaign administration, pipeline review and close",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "campaigns",
+      "month": 1,
+      "basis": "No automatic monthly sales team, retainer, CRM purchase or annual campaign count. Distinguish common review from the same customer contact/proposal work."
+    },
+    {
+      "id": "WS03",
+      "label": "Individually handled prospect contact attempt",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "contacts",
+      "month": 1,
+      "basis": "Excludes substantive meeting work in WS04 and preparation/negotiation already in WS05/WS06. Not a lead quota, permission to contact or inferred conversion funnel."
+    },
+    {
+      "id": "WS04",
+      "label": "Substantive sales discussion and immediate record",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "discussions",
+      "month": 1,
+      "basis": "T03 exploratory research is excluded. A no-show records only genuinely incurred preparation/handling, not an invented completed meeting; any real extra effort is retained in the same task record."
+    },
+    {
+      "id": "WS05",
+      "label": "Initial scoped proposal preparation",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "proposals",
+      "month": 1,
+      "basis": "One partner proposal is one attempt, not a separate licence proposal plus briefing proposal for the same combined offer. This is proposal preparation, not new research or current Table feasibility."
+    },
+    {
+      "id": "WS06",
+      "label": "Additional material proposal or negotiation round",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "rounds",
+      "month": 1,
+      "basis": "If a complete fresh proposal is counted in WS05, do not also count that same writing in WS06. Record preparation, call and revision within one round once."
+    },
+    {
+      "id": "WS07",
+      "label": "Won order / agreement and entitlement setup",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "orders",
+      "month": 2,
+      "basis": "Count the agreement once even if it includes a licence and briefing. Negotiation incurred before a lost order belongs in WS05/WS06. A signature/order record is not receipt of cash or completed fulfilment."
+    },
+    {
+      "id": "WS08",
+      "label": "Customer-specific reading path through existing research",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "licences_all",
+      "month": 2,
+      "basis": "The full free research benefit remains intact. Generic summary/preview and existing reading-path assets are reused; do not re-charge WR09/WR16 or repeat the same path because a bundle has several labels. Fresh evidence collection is outside this task."
+    },
+    {
+      "id": "WS09",
+      "label": "Scoped client/public-use asset preparation and context check",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "extra_assets",
+      "month": 2,
+      "basis": "Use the existing rights review and original design from WR10/WR12. Charge only the additional permitted adaptation/check; no default third-party chart/identity/quote rights, blanket sublicence or new evidence. Multiple genuinely different agreed packages can require repeated work."
+    },
+    {
+      "id": "WS10",
+      "label": "Partner recognition and benefit-register setup",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "partners_all",
+      "month": 2,
+      "basis": "If research is already commissioned/complete, do not describe it as a new commission. This task excludes the licence/briefing work counted in WS07–WS09/WS12–WS15. No contact access, seats, exclusivity, favourable conclusions or recurring reporting is presumed."
+    },
+    {
+      "id": "WS11",
+      "label": "Explicit partner benefit fulfilment administration",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "partners_all",
+      "month": 2,
+      "basis": "No default monthly report or newly compulsory partner service. Reuse invoice, delivery and briefing records; do not redo the underlying work. Multiple real checks can create legitimate additional hours within the same bundle; do not remove them merely because the bundle is counted once."
+    },
+    {
+      "id": "WS12",
+      "label": "Full-research fulfilment delivery run",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "distribution",
+      "month": 2,
+      "basis": "A common batch is counted once; no second free-copy charge for the same send. An additional recipient-specific delivery action or separate run is incremental real work, not a second research-production cost. Effort depends on recipient/route complexity; override the hours when material."
+    },
+    {
+      "id": "WS13",
+      "label": "Scoped briefing preparation and scheduling",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "briefings_all",
+      "month": 2,
+      "basis": "No new research, unlimited inquiry or promised turnaround. Reuse a prepared briefing and count only the necessary preparation delta for a repeat audience/session. Where WS08 reading-path work is reused, credit only that exact saved task and allocate common person-time once. If an unchanged reusable preparation package supports several sessions, assign it once rather than duplicating full preparation. One joint session serving several entitled customers/partners is one session, not one per attendee or bundle."
+    },
+    {
+      "id": "WS14",
+      "label": "Live scoped briefing delivery",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "briefings_all",
+      "month": 2,
+      "basis": "Duration/headcount are planning choices, not promised session lengths or staffing. A second necessary presenter is real additional person-time; do not multiply the same full task hours by every role. A repeat session is a real repeat unit even if preparation is reused."
+    },
+    {
+      "id": "WS15",
+      "label": "Bounded briefing follow-through",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "briefings_all",
+      "month": 2,
+      "basis": "No general analyst inquiry desk, compliance advice, bespoke consulting, new study or recurring support is assumed. If one shared follow-up is reused for multiple sessions, allocate the common work once; genuinely different follow-up remains incremental."
+    },
+    {
+      "id": "WS16",
+      "label": "Service-case triage and routing",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "cases",
+      "month": 2,
+      "basis": "WS18 contains resolution and closing work for this same case; do not include it here. Paid, bundled and free recipients can create cases. No new support entitlement or participant form is created; fresh research/advice is outside the scope."
+    },
+    {
+      "id": "WS17",
+      "label": "Invoice, receipt and fulfilment-status administration",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "orders",
+      "month": 2,
+      "basis": "Invoice, cash receipt and delivery remain different statuses. Do not count invoice value and receipt as two revenues. Costs already included in supplier/package/admin fees are reconciled once. No tax/recovery/payment-platform rule is presumed."
+    },
+    {
+      "id": "WS18",
+      "label": "Service-case resolution, correction routing and close",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "cases",
+      "month": 2,
+      "basis": "New source/content correction, narrative revision, QA and ordinary contractual remedy stay in WR10/WR13/WR14 or the appropriate production route; this row contains only incremental customer resolution/routing/redistribution and does not create an extra fee. If several cases share a correction notice/replacement send, prepare/send it once and allocate that common work once; do not also count the same send in WS12. A separately requested new study or advisory service is not included."
+    },
+    {
+      "id": "WS19",
+      "label": "Actually initiated renewal or expiry administration",
+      "role": "Commercial",
+      "scope": "Common",
+      "unit": "renewals",
+      "month": 2,
+      "basis": "No auto-renewal, subscription, annual update, future council tenure or new edition is assumed. New prospecting/proposal/research work belongs in the relevant task once; do not add a full second sales cycle here by default."
+    },
+    {
+      "id": "WS20",
+      "label": "Optional short cycle follow-through note",
+      "role": "Research",
+      "scope": "Common",
+      "unit": "cycle_notes",
+      "month": 2,
+      "basis": "This T02 benefit idea is uncommitted. No promised answer to every practitioner question, monthly note, advice desk, new research or event production. Distribution uses WS12 once; the same note is not produced separately for each partner/free recipient."
+    },
+    {
+      "id": "WS21",
+      "label": "Campaign fulfilment readiness and distribution-route setup",
+      "role": "Coordination",
+      "scope": "Common",
+      "unit": "campaigns",
+      "month": 2,
+      "basis": "WR14 already covers final report QA and portable JGA handover; do not repeat it. Reuse an existing tested release/route and count only the genuinely necessary readiness check/update. If multiple campaigns share an unchanged configuration, allocate its setup once and retain only actual incremental checks. No new website, platform purchase or access restriction is required."
+    },
+    {
+      "id": "WS01-B",
+      "catalogue_id": "WS01",
+      "label": "B-only Reusable commercial pack and campaign readiness",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_campaigns",
+      "month": 1,
+      "basis": "Additional B-only work, not a copy of the common task. Do not recreate or reprice the complete report, its commercial preview, or initial report use-option analysis already in WR09/WR16. A second campaign reuses the asset and costs only real updating work."
+    },
+    {
+      "id": "WS02-B",
+      "catalogue_id": "WS02",
+      "label": "B-only Campaign administration, pipeline review and close",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_campaigns",
+      "month": 1,
+      "basis": "Additional B-only work, not a copy of the common task. No automatic monthly sales team, retainer, CRM purchase or annual campaign count. Distinguish common review from the same customer contact/proposal work."
+    },
+    {
+      "id": "WS03-B",
+      "catalogue_id": "WS03",
+      "label": "B-only Individually handled prospect contact attempt",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_contacts",
+      "month": 1,
+      "basis": "Additional B-only work, not a copy of the common task. Excludes substantive meeting work in WS04 and preparation/negotiation already in WS05/WS06. Not a lead quota, permission to contact or inferred conversion funnel."
+    },
+    {
+      "id": "WS04-B",
+      "catalogue_id": "WS04",
+      "label": "B-only Substantive sales discussion and immediate record",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_discussions",
+      "month": 1,
+      "basis": "Additional B-only work, not a copy of the common task. T03 exploratory research is excluded. A no-show records only genuinely incurred preparation/handling, not an invented completed meeting; any real extra effort is retained in the same task record."
+    },
+    {
+      "id": "WS05-B",
+      "catalogue_id": "WS05",
+      "label": "B-only Initial scoped proposal preparation",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_proposals",
+      "month": 1,
+      "basis": "Additional B-only work, not a copy of the common task. One partner proposal is one attempt, not a separate licence proposal plus briefing proposal for the same combined offer. This is proposal preparation, not new research or current Table feasibility."
+    },
+    {
+      "id": "WS06-B",
+      "catalogue_id": "WS06",
+      "label": "B-only Additional material proposal or negotiation round",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_rounds",
+      "month": 1,
+      "basis": "Additional B-only work, not a copy of the common task. If a complete fresh proposal is counted in WS05, do not also count that same writing in WS06. Record preparation, call and revision within one round once."
+    },
+    {
+      "id": "WS07-B",
+      "catalogue_id": "WS07",
+      "label": "B-only Won order / agreement and entitlement setup",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_orders",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. Count the agreement once even if it includes a licence and briefing. Negotiation incurred before a lost order belongs in WS05/WS06. A signature/order record is not receipt of cash or completed fulfilment."
+    },
+    {
+      "id": "WS08-B",
+      "catalogue_id": "WS08",
+      "label": "B-only Customer-specific reading path through existing research",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_licences_all",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. The full free research benefit remains intact. Generic summary/preview and existing reading-path assets are reused; do not re-charge WR09/WR16 or repeat the same path because a bundle has several labels. Fresh evidence collection is outside this task."
+    },
+    {
+      "id": "WS09-B",
+      "catalogue_id": "WS09",
+      "label": "B-only Scoped client/public-use asset preparation and context check",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_extra_assets",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. Use the existing rights review and original design from WR10/WR12. Charge only the additional permitted adaptation/check; no default third-party chart/identity/quote rights, blanket sublicence or new evidence. Multiple genuinely different agreed packages can require repeated work."
+    },
+    {
+      "id": "WS10-B",
+      "catalogue_id": "WS10",
+      "label": "B-only Partner recognition and benefit-register setup",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_partners_all",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. If research is already commissioned/complete, do not describe it as a new commission. This task excludes the licence/briefing work counted in WS07–WS09/WS12–WS15. No contact access, seats, exclusivity, favourable conclusions or recurring reporting is presumed."
+    },
+    {
+      "id": "WS11-B",
+      "catalogue_id": "WS11",
+      "label": "B-only Explicit partner benefit fulfilment administration",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_partners_all",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. No default monthly report or newly compulsory partner service. Reuse invoice, delivery and briefing records; do not redo the underlying work. Multiple real checks can create legitimate additional hours within the same bundle; do not remove them merely because the bundle is counted once."
+    },
+    {
+      "id": "WS12-B",
+      "catalogue_id": "WS12",
+      "label": "B-only Full-research fulfilment delivery run",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_distribution",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. A common batch is counted once; no second free-copy charge for the same send. An additional recipient-specific delivery action or separate run is incremental real work, not a second research-production cost. Effort depends on recipient/route complexity; override the hours when material."
+    },
+    {
+      "id": "WS13-B",
+      "catalogue_id": "WS13",
+      "label": "B-only Scoped briefing preparation and scheduling",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_briefings_all",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. No new research, unlimited inquiry or promised turnaround. Reuse a prepared briefing and count only the necessary preparation delta for a repeat audience/session. Where WS08 reading-path work is reused, credit only that exact saved task and allocate common person-time once. If an unchanged reusable preparation package supports several sessions, assign it once rather than duplicating full preparation. One joint session serving several entitled customers/partners is one session, not one per attendee or bundle."
+    },
+    {
+      "id": "WS14-B",
+      "catalogue_id": "WS14",
+      "label": "B-only Live scoped briefing delivery",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_briefings_all",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. Duration/headcount are planning choices, not promised session lengths or staffing. A second necessary presenter is real additional person-time; do not multiply the same full task hours by every role. A repeat session is a real repeat unit even if preparation is reused."
+    },
+    {
+      "id": "WS15-B",
+      "catalogue_id": "WS15",
+      "label": "B-only Bounded briefing follow-through",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_briefings_all",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. No general analyst inquiry desk, compliance advice, bespoke consulting, new study or recurring support is assumed. If one shared follow-up is reused for multiple sessions, allocate the common work once; genuinely different follow-up remains incremental."
+    },
+    {
+      "id": "WS16-B",
+      "catalogue_id": "WS16",
+      "label": "B-only Service-case triage and routing",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_cases",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. WS18 contains resolution and closing work for this same case; do not include it here. Paid, bundled and free recipients can create cases. No new support entitlement or participant form is created; fresh research/advice is outside the scope."
+    },
+    {
+      "id": "WS17-B",
+      "catalogue_id": "WS17",
+      "label": "B-only Invoice, receipt and fulfilment-status administration",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_orders",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. Invoice, cash receipt and delivery remain different statuses. Do not count invoice value and receipt as two revenues. Costs already included in supplier/package/admin fees are reconciled once. No tax/recovery/payment-platform rule is presumed."
+    },
+    {
+      "id": "WS18-B",
+      "catalogue_id": "WS18",
+      "label": "B-only Service-case resolution, correction routing and close",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_cases",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. New source/content correction, narrative revision, QA and ordinary contractual remedy stay in WR10/WR13/WR14 or the appropriate production route; this row contains only incremental customer resolution/routing/redistribution and does not create an extra fee. If several cases share a correction notice/replacement send, prepare/send it once and allocate that common work once; do not also count the same send in WS12. A separately requested new study or advisory service is not included."
+    },
+    {
+      "id": "WS19-B",
+      "catalogue_id": "WS19",
+      "label": "B-only Actually initiated renewal or expiry administration",
+      "role": "Commercial",
+      "scope": "Event",
+      "unit": "event_renewals",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. No auto-renewal, subscription, annual update, future council tenure or new edition is assumed. New prospecting/proposal/research work belongs in the relevant task once; do not add a full second sales cycle here by default."
+    },
+    {
+      "id": "WS20-B",
+      "catalogue_id": "WS20",
+      "label": "B-only Optional short cycle follow-through note",
+      "role": "Research",
+      "scope": "Event",
+      "unit": "event_cycle_notes",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. This T02 benefit idea is uncommitted. No promised answer to every practitioner question, monthly note, advice desk, new research or event production. Distribution uses WS12 once; the same note is not produced separately for each partner/free recipient."
+    },
+    {
+      "id": "WS21-B",
+      "catalogue_id": "WS21",
+      "label": "B-only Campaign fulfilment readiness and distribution-route setup",
+      "role": "Coordination",
+      "scope": "Event",
+      "unit": "event_campaigns",
+      "month": 2,
+      "basis": "Additional B-only work, not a copy of the common task. WR14 already covers final report QA and portable JGA handover; do not repeat it. Reuse an existing tested release/route and count only the genuinely necessary readiness check/update. If multiple campaigns share an unchanged configuration, allocate its setup once and retain only actual incremental checks. No new website, platform purchase or access restriction is required."
+    },
+    {
+      "id": "WE01-E1",
+      "catalogue_id": "WE01",
+      "label": "Event remit and responsibilities",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "event",
+      "month": 3,
+      "basis": "Agree purpose, actual organiser/venue responsibilities and intended output."
+    },
+    {
+      "id": "WE01-E2",
+      "catalogue_id": "WE01",
+      "label": "Event remit and responsibilities",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "event",
+      "month": 6,
+      "basis": "Agree purpose, actual organiser/venue responsibilities and intended output."
+    },
+    {
+      "id": "WE01-E3",
+      "catalogue_id": "WE01",
+      "label": "Event remit and responsibilities",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "event",
+      "month": 9,
+      "basis": "Agree purpose, actual organiser/venue responsibilities and intended output."
+    },
+    {
+      "id": "WE01-E4",
+      "catalogue_id": "WE01",
+      "label": "Event remit and responsibilities",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "event",
+      "month": 12,
+      "basis": "Agree purpose, actual organiser/venue responsibilities and intended output."
+    },
+    {
+      "id": "WE02-E1",
+      "catalogue_id": "WE02",
+      "label": "Venue, privacy and access assessment",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "event",
+      "month": 3,
+      "basis": "Review feasible capacity, access, conversation privacy, layout and proportionate arrangements."
+    },
+    {
+      "id": "WE02-E2",
+      "catalogue_id": "WE02",
+      "label": "Venue, privacy and access assessment",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "event",
+      "month": 6,
+      "basis": "Review feasible capacity, access, conversation privacy, layout and proportionate arrangements."
+    },
+    {
+      "id": "WE02-E3",
+      "catalogue_id": "WE02",
+      "label": "Venue, privacy and access assessment",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "event",
+      "month": 9,
+      "basis": "Review feasible capacity, access, conversation privacy, layout and proportionate arrangements."
+    },
+    {
+      "id": "WE02-E4",
+      "catalogue_id": "WE02",
+      "label": "Venue, privacy and access assessment",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "event",
+      "month": 12,
+      "basis": "Review feasible capacity, access, conversation privacy, layout and proportionate arrangements."
+    },
+    {
+      "id": "WE03-E1",
+      "catalogue_id": "WE03",
+      "label": "Supplier scope and terms coordination",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "event",
+      "month": 3,
+      "basis": "Review actual availability, charge bases, guaranteed covers, payment and cancellation terms."
+    },
+    {
+      "id": "WE03-E2",
+      "catalogue_id": "WE03",
+      "label": "Supplier scope and terms coordination",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "event",
+      "month": 6,
+      "basis": "Review actual availability, charge bases, guaranteed covers, payment and cancellation terms."
+    },
+    {
+      "id": "WE03-E3",
+      "catalogue_id": "WE03",
+      "label": "Supplier scope and terms coordination",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "event",
+      "month": 9,
+      "basis": "Review actual availability, charge bases, guaranteed covers, payment and cancellation terms."
+    },
+    {
+      "id": "WE03-E4",
+      "catalogue_id": "WE03",
+      "label": "Supplier scope and terms coordination",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "event",
+      "month": 12,
+      "basis": "Review actual availability, charge bases, guaranteed covers, payment and cancellation terms."
+    },
+    {
+      "id": "WE04-E1",
+      "catalogue_id": "WE04",
+      "label": "Participant pool and suitability map",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "event",
+      "month": 3,
+      "basis": "Identify a relevant pool. Public contacts are not recruited or permissioned participants."
+    },
+    {
+      "id": "WE04-E2",
+      "catalogue_id": "WE04",
+      "label": "Participant pool and suitability map",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "event",
+      "month": 6,
+      "basis": "Identify a relevant pool. Public contacts are not recruited or permissioned participants."
+    },
+    {
+      "id": "WE04-E3",
+      "catalogue_id": "WE04",
+      "label": "Participant pool and suitability map",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "event",
+      "month": 9,
+      "basis": "Identify a relevant pool. Public contacts are not recruited or permissioned participants."
+    },
+    {
+      "id": "WE04-E4",
+      "catalogue_id": "WE04",
+      "label": "Participant pool and suitability map",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "event",
+      "month": 12,
+      "basis": "Identify a relevant pool. Public contacts are not recruited or permissioned participants."
+    },
+    {
+      "id": "WE05-E1",
+      "catalogue_id": "WE05",
+      "label": "Individual invitation attempt",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "attempt",
+      "month": 3,
+      "basis": "One actual individual approach or follow-up, including an unsuccessful attempt. No conversion assumed."
+    },
+    {
+      "id": "WE05-E2",
+      "catalogue_id": "WE05",
+      "label": "Individual invitation attempt",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "attempt",
+      "month": 6,
+      "basis": "One actual individual approach or follow-up, including an unsuccessful attempt. No conversion assumed."
+    },
+    {
+      "id": "WE05-E3",
+      "catalogue_id": "WE05",
+      "label": "Individual invitation attempt",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "attempt",
+      "month": 9,
+      "basis": "One actual individual approach or follow-up, including an unsuccessful attempt. No conversion assumed."
+    },
+    {
+      "id": "WE05-E4",
+      "catalogue_id": "WE05",
+      "label": "Individual invitation attempt",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "attempt",
+      "month": 12,
+      "basis": "One actual individual approach or follow-up, including an unsuccessful attempt. No conversion assumed."
+    },
+    {
+      "id": "WE06-E1",
+      "catalogue_id": "WE06",
+      "label": "Participant suitability and permissions",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "confirmed person",
+      "month": 3,
+      "basis": "Relevant fit, employer hospitality acceptability and participation/use choices. Not consent to unrelated marketing."
+    },
+    {
+      "id": "WE06-E2",
+      "catalogue_id": "WE06",
+      "label": "Participant suitability and permissions",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "confirmed person",
+      "month": 6,
+      "basis": "Relevant fit, employer hospitality acceptability and participation/use choices. Not consent to unrelated marketing."
+    },
+    {
+      "id": "WE06-E3",
+      "catalogue_id": "WE06",
+      "label": "Participant suitability and permissions",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "confirmed person",
+      "month": 9,
+      "basis": "Relevant fit, employer hospitality acceptability and participation/use choices. Not consent to unrelated marketing."
+    },
+    {
+      "id": "WE06-E4",
+      "catalogue_id": "WE06",
+      "label": "Participant suitability and permissions",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "confirmed person",
+      "month": 12,
+      "basis": "Relevant fit, employer hospitality acceptability and participation/use choices. Not consent to unrelated marketing."
+    },
+    {
+      "id": "WE07-E1",
+      "catalogue_id": "WE07",
+      "label": "Confirmed-person logistics",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "confirmed person",
+      "month": 3,
+      "basis": "One ordinary scheduling and practical-information cycle, not every message."
+    },
+    {
+      "id": "WE07-E2",
+      "catalogue_id": "WE07",
+      "label": "Confirmed-person logistics",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "confirmed person",
+      "month": 6,
+      "basis": "One ordinary scheduling and practical-information cycle, not every message."
+    },
+    {
+      "id": "WE07-E3",
+      "catalogue_id": "WE07",
+      "label": "Confirmed-person logistics",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "confirmed person",
+      "month": 9,
+      "basis": "One ordinary scheduling and practical-information cycle, not every message."
+    },
+    {
+      "id": "WE07-E4",
+      "catalogue_id": "WE07",
+      "label": "Confirmed-person logistics",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "confirmed person",
+      "month": 12,
+      "basis": "One ordinary scheduling and practical-information cycle, not every message."
+    },
+    {
+      "id": "WE08-E1",
+      "catalogue_id": "WE08",
+      "label": "Access or dietary coordination case",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "case",
+      "month": 3,
+      "basis": "Only necessary additional handling beyond ordinary logistics. Keep sensitive detail out of this model."
+    },
+    {
+      "id": "WE08-E2",
+      "catalogue_id": "WE08",
+      "label": "Access or dietary coordination case",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "case",
+      "month": 6,
+      "basis": "Only necessary additional handling beyond ordinary logistics. Keep sensitive detail out of this model."
+    },
+    {
+      "id": "WE08-E3",
+      "catalogue_id": "WE08",
+      "label": "Access or dietary coordination case",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "case",
+      "month": 9,
+      "basis": "Only necessary additional handling beyond ordinary logistics. Keep sensitive detail out of this model."
+    },
+    {
+      "id": "WE08-E4",
+      "catalogue_id": "WE08",
+      "label": "Access or dietary coordination case",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "case",
+      "month": 12,
+      "basis": "Only necessary additional handling beyond ordinary logistics. Keep sensitive detail out of this model."
+    },
+    {
+      "id": "WE09-E1",
+      "catalogue_id": "WE09",
+      "label": "Material attendance or date change",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "change case",
+      "month": 3,
+      "basis": "Actual extra handling, including withdrawals/replacements; do not derive from a guessed no-show rate."
+    },
+    {
+      "id": "WE09-E2",
+      "catalogue_id": "WE09",
+      "label": "Material attendance or date change",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "change case",
+      "month": 6,
+      "basis": "Actual extra handling, including withdrawals/replacements; do not derive from a guessed no-show rate."
+    },
+    {
+      "id": "WE09-E3",
+      "catalogue_id": "WE09",
+      "label": "Material attendance or date change",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "change case",
+      "month": 9,
+      "basis": "Actual extra handling, including withdrawals/replacements; do not derive from a guessed no-show rate."
+    },
+    {
+      "id": "WE09-E4",
+      "catalogue_id": "WE09",
+      "label": "Material attendance or date change",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "change case",
+      "month": 12,
+      "basis": "Actual extra handling, including withdrawals/replacements; do not derive from a guessed no-show rate."
+    },
+    {
+      "id": "WE10-E1",
+      "catalogue_id": "WE10",
+      "label": "Moderator topic and process preparation",
+      "role": "Moderation",
+      "scope": "E1",
+      "unit": "session",
+      "month": 3,
+      "basis": "Use existing permitted research; agree neutral process, boundaries and participation. New research belongs in its production task."
+    },
+    {
+      "id": "WE10-E2",
+      "catalogue_id": "WE10",
+      "label": "Moderator topic and process preparation",
+      "role": "Moderation",
+      "scope": "E2",
+      "unit": "session",
+      "month": 6,
+      "basis": "Use existing permitted research; agree neutral process, boundaries and participation. New research belongs in its production task."
+    },
+    {
+      "id": "WE10-E3",
+      "catalogue_id": "WE10",
+      "label": "Moderator topic and process preparation",
+      "role": "Moderation",
+      "scope": "E3",
+      "unit": "session",
+      "month": 9,
+      "basis": "Use existing permitted research; agree neutral process, boundaries and participation. New research belongs in its production task."
+    },
+    {
+      "id": "WE10-E4",
+      "catalogue_id": "WE10",
+      "label": "Moderator topic and process preparation",
+      "role": "Moderation",
+      "scope": "E4",
+      "unit": "session",
+      "month": 12,
+      "basis": "Use existing permitted research; agree neutral process, boundaries and participation. New research belongs in its production task."
+    },
+    {
+      "id": "WE11-E1",
+      "catalogue_id": "WE11",
+      "label": "Moderator live delivery",
+      "role": "Moderation",
+      "scope": "E1",
+      "unit": "person-hour",
+      "month": 3,
+      "basis": "Actual required live person-hours, including each genuine co-moderator. Do not multiply every preparation task by every role."
+    },
+    {
+      "id": "WE11-E2",
+      "catalogue_id": "WE11",
+      "label": "Moderator live delivery",
+      "role": "Moderation",
+      "scope": "E2",
+      "unit": "person-hour",
+      "month": 6,
+      "basis": "Actual required live person-hours, including each genuine co-moderator. Do not multiply every preparation task by every role."
+    },
+    {
+      "id": "WE11-E3",
+      "catalogue_id": "WE11",
+      "label": "Moderator live delivery",
+      "role": "Moderation",
+      "scope": "E3",
+      "unit": "person-hour",
+      "month": 9,
+      "basis": "Actual required live person-hours, including each genuine co-moderator. Do not multiply every preparation task by every role."
+    },
+    {
+      "id": "WE11-E4",
+      "catalogue_id": "WE11",
+      "label": "Moderator live delivery",
+      "role": "Moderation",
+      "scope": "E4",
+      "unit": "person-hour",
+      "month": 12,
+      "basis": "Actual required live person-hours, including each genuine co-moderator. Do not multiply every preparation task by every role."
+    },
+    {
+      "id": "WE12-E1",
+      "catalogue_id": "WE12",
+      "label": "Moderator debrief and necessary actions",
+      "role": "Moderation",
+      "scope": "E1",
+      "unit": "session",
+      "month": 3,
+      "basis": "Bounded agreed actions and handover, excluding separate research writing or supplier reconciliation."
+    },
+    {
+      "id": "WE12-E2",
+      "catalogue_id": "WE12",
+      "label": "Moderator debrief and necessary actions",
+      "role": "Moderation",
+      "scope": "E2",
+      "unit": "session",
+      "month": 6,
+      "basis": "Bounded agreed actions and handover, excluding separate research writing or supplier reconciliation."
+    },
+    {
+      "id": "WE12-E3",
+      "catalogue_id": "WE12",
+      "label": "Moderator debrief and necessary actions",
+      "role": "Moderation",
+      "scope": "E3",
+      "unit": "session",
+      "month": 9,
+      "basis": "Bounded agreed actions and handover, excluding separate research writing or supplier reconciliation."
+    },
+    {
+      "id": "WE12-E4",
+      "catalogue_id": "WE12",
+      "label": "Moderator debrief and necessary actions",
+      "role": "Moderation",
+      "scope": "E4",
+      "unit": "session",
+      "month": 12,
+      "basis": "Bounded agreed actions and handover, excluding separate research writing or supplier reconciliation."
+    },
+    {
+      "id": "WE13-E1",
+      "catalogue_id": "WE13",
+      "label": "Host preparation and guest liaison",
+      "role": "Hosting",
+      "scope": "E1",
+      "unit": "host assignment",
+      "month": 3,
+      "basis": "Actual host tasks not already performed in coordination or moderator preparation."
+    },
+    {
+      "id": "WE13-E2",
+      "catalogue_id": "WE13",
+      "label": "Host preparation and guest liaison",
+      "role": "Hosting",
+      "scope": "E2",
+      "unit": "host assignment",
+      "month": 6,
+      "basis": "Actual host tasks not already performed in coordination or moderator preparation."
+    },
+    {
+      "id": "WE13-E3",
+      "catalogue_id": "WE13",
+      "label": "Host preparation and guest liaison",
+      "role": "Hosting",
+      "scope": "E3",
+      "unit": "host assignment",
+      "month": 9,
+      "basis": "Actual host tasks not already performed in coordination or moderator preparation."
+    },
+    {
+      "id": "WE13-E4",
+      "catalogue_id": "WE13",
+      "label": "Host preparation and guest liaison",
+      "role": "Hosting",
+      "scope": "E4",
+      "unit": "host assignment",
+      "month": 12,
+      "basis": "Actual host tasks not already performed in coordination or moderator preparation."
+    },
+    {
+      "id": "WE14-E1",
+      "catalogue_id": "WE14",
+      "label": "Host live work",
+      "role": "Hosting",
+      "scope": "E1",
+      "unit": "person-hour",
+      "month": 3,
+      "basis": "Actual hosting person-hours; if the same person moderates, do not count simultaneous elapsed work twice."
+    },
+    {
+      "id": "WE14-E2",
+      "catalogue_id": "WE14",
+      "label": "Host live work",
+      "role": "Hosting",
+      "scope": "E2",
+      "unit": "person-hour",
+      "month": 6,
+      "basis": "Actual hosting person-hours; if the same person moderates, do not count simultaneous elapsed work twice."
+    },
+    {
+      "id": "WE14-E3",
+      "catalogue_id": "WE14",
+      "label": "Host live work",
+      "role": "Hosting",
+      "scope": "E3",
+      "unit": "person-hour",
+      "month": 9,
+      "basis": "Actual hosting person-hours; if the same person moderates, do not count simultaneous elapsed work twice."
+    },
+    {
+      "id": "WE14-E4",
+      "catalogue_id": "WE14",
+      "label": "Host live work",
+      "role": "Hosting",
+      "scope": "E4",
+      "unit": "person-hour",
+      "month": 12,
+      "basis": "Actual hosting person-hours; if the same person moderates, do not count simultaneous elapsed work twice."
+    },
+    {
+      "id": "WE15-E1",
+      "catalogue_id": "WE15",
+      "label": "Onsite setup, liaison and close",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "event",
+      "month": 3,
+      "basis": "Total additional person-hours across actual workers. Includes proportionate venue/emergency liaison, not duplicate live role hours."
+    },
+    {
+      "id": "WE15-E2",
+      "catalogue_id": "WE15",
+      "label": "Onsite setup, liaison and close",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "event",
+      "month": 6,
+      "basis": "Total additional person-hours across actual workers. Includes proportionate venue/emergency liaison, not duplicate live role hours."
+    },
+    {
+      "id": "WE15-E3",
+      "catalogue_id": "WE15",
+      "label": "Onsite setup, liaison and close",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "event",
+      "month": 9,
+      "basis": "Total additional person-hours across actual workers. Includes proportionate venue/emergency liaison, not duplicate live role hours."
+    },
+    {
+      "id": "WE15-E4",
+      "catalogue_id": "WE15",
+      "label": "Onsite setup, liaison and close",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "event",
+      "month": 12,
+      "basis": "Total additional person-hours across actual workers. Includes proportionate venue/emergency liaison, not duplicate live role hours."
+    },
+    {
+      "id": "WE16-E1",
+      "catalogue_id": "WE16",
+      "label": "Permitted live note-taking",
+      "role": "Research",
+      "scope": "E1",
+      "unit": "person-hour",
+      "month": 3,
+      "basis": "Optional and permission-dependent. No recording or transcription service is assumed."
+    },
+    {
+      "id": "WE16-E2",
+      "catalogue_id": "WE16",
+      "label": "Permitted live note-taking",
+      "role": "Research",
+      "scope": "E2",
+      "unit": "person-hour",
+      "month": 6,
+      "basis": "Optional and permission-dependent. No recording or transcription service is assumed."
+    },
+    {
+      "id": "WE16-E3",
+      "catalogue_id": "WE16",
+      "label": "Permitted live note-taking",
+      "role": "Research",
+      "scope": "E3",
+      "unit": "person-hour",
+      "month": 9,
+      "basis": "Optional and permission-dependent. No recording or transcription service is assumed."
+    },
+    {
+      "id": "WE16-E4",
+      "catalogue_id": "WE16",
+      "label": "Permitted live note-taking",
+      "role": "Research",
+      "scope": "E4",
+      "unit": "person-hour",
+      "month": 12,
+      "basis": "Optional and permission-dependent. No recording or transcription service is assumed."
+    },
+    {
+      "id": "WE17-E1",
+      "catalogue_id": "WE17",
+      "label": "Agreed event synthesis and review",
+      "role": "Research",
+      "scope": "E1",
+      "unit": "output",
+      "month": 3,
+      "basis": "Only a selected separate output. Map to existing report/cycle-note work when the same output serves both."
+    },
+    {
+      "id": "WE17-E2",
+      "catalogue_id": "WE17",
+      "label": "Agreed event synthesis and review",
+      "role": "Research",
+      "scope": "E2",
+      "unit": "output",
+      "month": 6,
+      "basis": "Only a selected separate output. Map to existing report/cycle-note work when the same output serves both."
+    },
+    {
+      "id": "WE17-E3",
+      "catalogue_id": "WE17",
+      "label": "Agreed event synthesis and review",
+      "role": "Research",
+      "scope": "E3",
+      "unit": "output",
+      "month": 9,
+      "basis": "Only a selected separate output. Map to existing report/cycle-note work when the same output serves both."
+    },
+    {
+      "id": "WE17-E4",
+      "catalogue_id": "WE17",
+      "label": "Agreed event synthesis and review",
+      "role": "Research",
+      "scope": "E4",
+      "unit": "output",
+      "month": 12,
+      "basis": "Only a selected separate output. Map to existing report/cycle-note work when the same output serves both."
+    },
+    {
+      "id": "WE18-E1",
+      "catalogue_id": "WE18",
+      "label": "Release and participant follow-through",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "batch",
+      "month": 3,
+      "basis": "One actual permitted batch and ordinary follow-through. Do not duplicate WS12 distribution or WS20 cycle-note work."
+    },
+    {
+      "id": "WE18-E2",
+      "catalogue_id": "WE18",
+      "label": "Release and participant follow-through",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "batch",
+      "month": 6,
+      "basis": "One actual permitted batch and ordinary follow-through. Do not duplicate WS12 distribution or WS20 cycle-note work."
+    },
+    {
+      "id": "WE18-E3",
+      "catalogue_id": "WE18",
+      "label": "Release and participant follow-through",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "batch",
+      "month": 9,
+      "basis": "One actual permitted batch and ordinary follow-through. Do not duplicate WS12 distribution or WS20 cycle-note work."
+    },
+    {
+      "id": "WE18-E4",
+      "catalogue_id": "WE18",
+      "label": "Release and participant follow-through",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "batch",
+      "month": 12,
+      "basis": "One actual permitted batch and ordinary follow-through. Do not duplicate WS12 distribution or WS20 cycle-note work."
+    },
+    {
+      "id": "WE19-E1",
+      "catalogue_id": "WE19",
+      "label": "Supplier reconciliation and closure",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "event",
+      "month": 3,
+      "basis": "Check final supplier bill, credits and open actions. Distinct from customer invoice/receipt work."
+    },
+    {
+      "id": "WE19-E2",
+      "catalogue_id": "WE19",
+      "label": "Supplier reconciliation and closure",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "event",
+      "month": 6,
+      "basis": "Check final supplier bill, credits and open actions. Distinct from customer invoice/receipt work."
+    },
+    {
+      "id": "WE19-E3",
+      "catalogue_id": "WE19",
+      "label": "Supplier reconciliation and closure",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "event",
+      "month": 9,
+      "basis": "Check final supplier bill, credits and open actions. Distinct from customer invoice/receipt work."
+    },
+    {
+      "id": "WE19-E4",
+      "catalogue_id": "WE19",
+      "label": "Supplier reconciliation and closure",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "event",
+      "month": 12,
+      "basis": "Check final supplier bill, credits and open actions. Distinct from customer invoice/receipt work."
+    },
+    {
+      "id": "WE20-E1",
+      "catalogue_id": "WE20",
+      "label": "Travel arrangements",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "booking case",
+      "month": 3,
+      "basis": "One actual journey/accommodation arrangement; shared booking only once, genuine extra handling separately."
+    },
+    {
+      "id": "WE20-E2",
+      "catalogue_id": "WE20",
+      "label": "Travel arrangements",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "booking case",
+      "month": 6,
+      "basis": "One actual journey/accommodation arrangement; shared booking only once, genuine extra handling separately."
+    },
+    {
+      "id": "WE20-E3",
+      "catalogue_id": "WE20",
+      "label": "Travel arrangements",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "booking case",
+      "month": 9,
+      "basis": "One actual journey/accommodation arrangement; shared booking only once, genuine extra handling separately."
+    },
+    {
+      "id": "WE20-E4",
+      "catalogue_id": "WE20",
+      "label": "Travel arrangements",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "booking case",
+      "month": 12,
+      "basis": "One actual journey/accommodation arrangement; shared booking only once, genuine extra handling separately."
+    },
+    {
+      "id": "WE21-E1",
+      "catalogue_id": "WE21",
+      "label": "Additional staff travel time",
+      "role": "Travel",
+      "scope": "E1",
+      "unit": "person-hour",
+      "month": 3,
+      "basis": "Only time not already counted as productive work or included elsewhere. Actual paid/cash/resource treatment remains to be chosen."
+    },
+    {
+      "id": "WE21-E2",
+      "catalogue_id": "WE21",
+      "label": "Additional staff travel time",
+      "role": "Travel",
+      "scope": "E2",
+      "unit": "person-hour",
+      "month": 6,
+      "basis": "Only time not already counted as productive work or included elsewhere. Actual paid/cash/resource treatment remains to be chosen."
+    },
+    {
+      "id": "WE21-E3",
+      "catalogue_id": "WE21",
+      "label": "Additional staff travel time",
+      "role": "Travel",
+      "scope": "E3",
+      "unit": "person-hour",
+      "month": 9,
+      "basis": "Only time not already counted as productive work or included elsewhere. Actual paid/cash/resource treatment remains to be chosen."
+    },
+    {
+      "id": "WE21-E4",
+      "catalogue_id": "WE21",
+      "label": "Additional staff travel time",
+      "role": "Travel",
+      "scope": "E4",
+      "unit": "person-hour",
+      "month": 12,
+      "basis": "Only time not already counted as productive work or included elsewhere. Actual paid/cash/resource treatment remains to be chosen."
+    },
+    {
+      "id": "WE22-E1",
+      "catalogue_id": "WE22",
+      "label": "Unallocated incurred or exception work",
+      "role": "Coordination",
+      "scope": "E1",
+      "unit": "person-hour",
+      "month": 3,
+      "basis": "Use only for identifiable necessary work not already in the rows above. Cancellation does not erase incurred work. Never add the same preparation twice."
+    },
+    {
+      "id": "WE22-E2",
+      "catalogue_id": "WE22",
+      "label": "Unallocated incurred or exception work",
+      "role": "Coordination",
+      "scope": "E2",
+      "unit": "person-hour",
+      "month": 6,
+      "basis": "Use only for identifiable necessary work not already in the rows above. Cancellation does not erase incurred work. Never add the same preparation twice."
+    },
+    {
+      "id": "WE22-E3",
+      "catalogue_id": "WE22",
+      "label": "Unallocated incurred or exception work",
+      "role": "Coordination",
+      "scope": "E3",
+      "unit": "person-hour",
+      "month": 9,
+      "basis": "Use only for identifiable necessary work not already in the rows above. Cancellation does not erase incurred work. Never add the same preparation twice."
+    },
+    {
+      "id": "WE22-E4",
+      "catalogue_id": "WE22",
+      "label": "Unallocated incurred or exception work",
+      "role": "Coordination",
+      "scope": "E4",
+      "unit": "person-hour",
+      "month": 12,
+      "basis": "Use only for identifiable necessary work not already in the rows above. Cancellation does not erase incurred work. Never add the same preparation twice."
+    }
+  ],
+  "roles": [
+    "Research",
+    "Writing",
+    "Editing",
+    "Design",
+    "Coordination",
+    "Commercial",
+    "JGA",
+    "Moderation",
+    "Hosting",
+    "Travel"
+  ],
+  "events": [
+    {
+      "id": "E1",
+      "city": "London",
+      "currency": "GBP",
+      "month": 3
+    },
+    {
+      "id": "E2",
+      "city": "Manchester",
+      "currency": "GBP",
+      "month": 6
+    },
+    {
+      "id": "E3",
+      "city": "Dublin",
+      "currency": "EUR",
+      "month": 9
+    },
+    {
+      "id": "E4",
+      "city": null,
+      "currency": "USD",
+      "month": 12
+    }
+  ],
+  "actual_orders": [],
+  "actual_participants": [],
+  "actual_suppliers": [],
+  "actual_bank_cash": [],
+  "current_commission_usd": {
+    "total": 1500,
+    "report": 1000,
+    "table": 500,
+    "upfront_reported_paid": 750,
+    "balance_conditional": 750
+  },
+  "scope_guards": {
+    "original_four_books_preserved": true,
+    "financial_register_unchanged": true,
+    "fourteen_questions_unchanged": true,
+    "free_full_practitioner_research_preserved": true,
+    "external_actions": []
+  },
+  "source_provenance": [
+    {
+      "path": "04-table/financial-inputs.json",
+      "sha256": "e2434b98aa7d6a4a7fa93be690089b9f09d098ae1668e4288e671e1d6a171f1d"
+    },
+    {
+      "path": "04-table/T05-research-cost-map.json",
+      "sha256": "3e5eedcc809be33ecd5647a972e862b2035d5236de5740a21451adfd75627d02"
+    },
+    {
+      "path": "04-table/T05-service-cost-map.json",
+      "sha256": "3e84a51289e63431f7b80762f537c9906860003c3095735f689807d9825ec0f2"
+    },
+    {
+      "path": "04-table/T05-event-cost-map.json",
+      "sha256": "742b86e01889f138d5a4164e62251b7ca4cc54f3b498403fcc3ee263f860d0c1"
+    },
+    {
+      "path": "04-table/T05-cash-map.json",
+      "sha256": "ccd97011f42a3aeeaba5baa858bd97adc580aa552f9accedb3edb2c80b4feea4"
+    },
+    {
+      "path": "04-table/T05C-second-challenge-map.json",
+      "sha256": "f5c1f4699540381be30ad31c744419aa28310eac240652f7f32317ba638c7864"
+    }
+  ]
+}

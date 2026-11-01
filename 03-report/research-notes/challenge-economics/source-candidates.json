@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-10-28",
+  "status": "internal_source_candidates_not_merged_or_publication_approved",
+  "records": [
+    {
+      "candidate_id": "EC01",
+      "title": "The Government Efficiency Framework",
+      "publisher": "HM Treasury and Government Finance Function",
+      "url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "publication_or_update_date": "2025-11-24",
+      "source_type": "Original public guidance",
+      "review_status": "relevant_original_sections_reviewed",
+      "locators": "Sections 4.1–4.4, especially IT-system time-saving example; sections 4.8 and 6 for net costs and benefits governance",
+      "population_and_base": "UK central-government efficiency reporting; not a survey; no respondent base",
+      "usable_point": "Distinguishes spending reductions, time/capacity at unchanged spending, and non-monetisable benefits; cash claims need baseline, counterfactual and outturn evidence.",
+      "limitations": "Adapt principles proportionately to private employers; do not call this payroll outcome evidence or apply government reporting rules as private-sector requirements.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC02",
+      "title": "The Green Book 2026",
+      "publisher": "HM Treasury",
+      "url": "https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026",
+      "publication_or_update_date": "2026-02-05",
+      "source_type": "Original public appraisal guidance",
+      "review_status": "relevant_original_sections_reviewed",
+      "locators": "Table 4 critical success factors; chapter 5 options including BAU and do-minimum; chapter 6 sensitivity and optimism bias; introduction proportionality",
+      "population_and_base": "UK public-spending appraisal guidance; not survey data",
+      "usable_point": "Value, affordability, supplier capability and achievability are separate tests; uncertainty and alternatives need explicit treatment.",
+      "limitations": "Do not label a JGA adapted checklist an official Green Book method or imply all employers must use its formal process. Avoid arbitrary weighting and invented predictive scores.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC03",
+      "title": "8 April 2026 Synergy Programme Summary Business Case",
+      "publisher": "Department for Work and Pensions",
+      "url": "https://www.gov.uk/government/publications/8-april-2026-synergy-programme-summary-business-case/8-april-2026-synergy-programme-summary-business-case",
+      "publication_or_update_date": "2026-04-08",
+      "event_date": "Treasury approval of FBC2 on 2025-12-08",
+      "source_type": "Original published prospective programme business case",
+      "review_status": "relevant_original_sections_reviewed",
+      "locators": "Executive summary; 2.2 shortlisted options; 2.3 comparative costs, benefits and sensitivity; 5.1–5.2 delivery model and critical path",
+      "population_and_base": "One very large shared HR, finance, procurement and payroll programme for four departments and associated bodies; not a payroll-only sample",
+      "usable_point": "A real approved case separates investment, running costs, cash and non-cash benefits, alternatives, sensitivity and delivery assumptions.",
+      "limitations": "Modeled returns and future benefits are not realised outcomes; present no payroll-only unit costs or typical-employer benchmark.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC04",
+      "title": "Update on government shared services",
+      "publisher": "National Audit Office",
+      "url": "https://www.nao.org.uk/wp-content/uploads/2026/03/update-on-government-shared-services.pdf",
+      "publication_or_update_date": "2026-03-06",
+      "source_type": "Original value-for-money audit",
+      "review_status": "relevant_original_sections_reviewed",
+      "locators": "Printed summary paragraphs 7–9 and 22–23; PDF pages 9 and 13 respectively (one-based); printed paragraphs 1.18–1.23 on ownership, risk and dependencies",
+      "population_and_base": "UK government five-cluster shared-services strategy; combined corporate functions; audit approach in appendix, not representative survey",
+      "usable_point": "Progress and improvements coexist with unresolved ownership, interoperability and onboarding risks.",
+      "limitations": "Do not narrate as a completed Synergy outcome evaluation. Copyright page restricts commercial reproduction; do not redistribute PDF or reproduce charts without rights review.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC05",
+      "title": "The Sourcing Playbook",
+      "publisher": "Cabinet Office",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "original_pdf_url": "https://assets.publishing.service.gov.uk/media/64901fcc5f7bb700127fac5e/Sourcing_Playbook_Final.pdf",
+      "publication_or_update_date": "2023-06 edition reviewed",
+      "source_type": "Original public sourcing practice guidance",
+      "review_status": "relevant_original_sections_reviewed",
+      "locators": "Delivery model assessment, whole-life cost, data/risk pricing, chapter 13 expiry extension transition and termination; PDF printed page 72 for exit planning",
+      "population_and_base": "Public-service sourcing guidance; not payroll survey data",
+      "usable_point": "Transition resources, incumbent data, contract-end timing and risk allocation can affect feasible alternatives and pricing.",
+      "limitations": "Edition includes historical procurement-law references; use enduring practice principles only, not current legal advice or evidence of how common lock-in is.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC06",
+      "title": "PAYE and payroll for employers Choose how to run payroll",
+      "publisher": "HMRC GOV UK",
+      "url": "https://www.gov.uk/paye-for-employers/choose-payroll",
+      "publication_or_update_date": "Not displayed in reviewed extract; accessed 2026-10-28",
+      "source_type": "Original employer guidance",
+      "review_status": "original_page_reviewed",
+      "locators": "Paying a payroll provider",
+      "population_and_base": "UK PAYE employer responsibilities; not survey data",
+      "usable_point": "Provider support varies and the employer retains responsibility for PAYE tasks.",
+      "limitations": "Specific to the stated PAYE context; do not generalise across all global payroll or employment arrangements.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC07",
+      "title": "Payroll Emerges as a Priority for AI Enabled Operational Transformation",
+      "publisher": "The Hackett Group",
+      "url": "https://www.thehackettgroup.com/the-hackett-group-payroll-emerges-as-a-priority-for-ai-enabled-operational-transformation/",
+      "publication_or_update_date": "2025-07-08",
+      "source_type": "Research publisher public product and findings release",
+      "review_status": "public_release_reviewed_full_report_not_inspected",
+      "locators": "Report scope and criteria paragraphs; end section offering registered summary and purchasing enquiry for full 82-page research",
+      "population_and_base": "Release describes 18 providers and 26 criteria; customer interview number, geography and recruitment not shown in reviewed release",
+      "usable_point": "Payroll provider assessment is an existing research product with both free-summary and full-report routes.",
+      "limitations": "No JGA demand or price inference. Hold headline cost/automation statistics because full context and respondent bases were not inspected. Do not register or enquire autonomously.",
+      "capture_path": null,
+      "capture_sha256": null
+    },
+    {
+      "candidate_id": "EC08",
+      "title": "Payroll Key Benchmarks",
+      "publisher": "APQC",
+      "url": "https://www.apqc.org/resource-library/resource-collection/payroll-key-benchmarks",
+      "publication_or_update_date": "2026-08-11",
+      "source_type": "Research product collection description",
+      "review_status": "public_collection_page_reviewed_not_underlying_benchmark_data",
+      "locators": "Description and metrics provided list",
+      "population_and_base": "Describes cross-industry Open Standards Benchmarking in Payroll; numerical tables, respondent sample and timing not inspected",
+      "usable_point": "Existing payroll benchmarking covers cost, cycle time, process efficiency and staff productivity.",
+      "limitations": "No numeric benchmarks, pricing or rights claimed. Public product evidence only, not new payroll prevalence evidence.",
+      "capture_path": null,
+      "capture_sha256": null
+    }
+  ],
+  "discoveries_not_promoted": [
+    {
+      "title": "East Devon April 2025 Council public reports pack",
+      "url": "https://democracy.eastdevon.gov.uk/documents/g2397/Public%2Breports%2Bpack%2B09th-Apr-2025%2B18.00%2BCouncil.pdf?T=10",
+      "status": "Search result suggests rational incumbent retention and hosting changes; direct open returned 403. No original case finding claimed."
+    },
+    {
+      "title": "Hackney HRIS payroll hosted application minutes",
+      "url": "https://hackney.moderngov.co.uk/ieIssueDetails.aspx?IId=53373&Opt=3&PlanId=0",
+      "status": "Search result suggests contract timing and future ERP choice; direct open returned 403. No original case finding claimed."
+    }
+  ]
+}

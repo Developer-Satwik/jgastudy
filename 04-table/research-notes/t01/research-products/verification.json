@@ -1,0 +1,163 @@
+{
+  "verified_on": "2026-10-29",
+  "status": "passed",
+  "counts": {
+    "models": 2,
+    "new_original_html_sources": 6,
+    "canonical_pdf_reuses": 1,
+    "claim_candidates": 14,
+    "visual_pdf_pages": 3
+  },
+  "checks": [
+    {
+      "check": "T1RP-S01:capture_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S01:parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S02:capture_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S02:parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S03:capture_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S03:parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S04:capture_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S04:parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S05:capture_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S05:parsed_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S06:capture_path",
+      "passed": true
+    },
+    {
+      "check": "T1RP-S06:parsed_path",
+      "passed": true
+    },
+    {
+      "check": "SRC-0065:existing original hash",
+      "passed": true
+    },
+    {
+      "check": "SRC-0065:visual-page-1",
+      "passed": true
+    },
+    {
+      "check": "SRC-0065:visual-page-3",
+      "passed": true
+    },
+    {
+      "check": "SRC-0065:visual-page-59",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C01:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C02:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C03:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C04:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C05:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C06:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C07:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C08:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C09:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C10:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C11:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C12:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C13:source links",
+      "passed": true
+    },
+    {
+      "check": "T1RP-C14:source links",
+      "passed": true
+    },
+    {
+      "check": "RP-M01:claim links",
+      "passed": true
+    },
+    {
+      "check": "RP-M02:claim links",
+      "passed": true
+    },
+    {
+      "check": "exactly two candidate models",
+      "passed": true
+    },
+    {
+      "check": "no assumed public paid prices",
+      "passed": true
+    },
+    {
+      "check": "two concise model memos exist",
+      "passed": true
+    }
+  ],
+  "manual_review": [
+    "All six original HTML page texts reviewed in relevant sections; raw bytes and parsed text retained separately.",
+    "SRC-0065 PDF pages 1, 3 and 59 rendered and visually inspected; original hash rechecked.",
+    "HR.com help article last update and 403 main-page limitation explicitly retained.",
+    "ISG guide identified as a 2025 edition. No inaccessible paid report or form claimed.",
+    "Paid prices/contractual terms/contact access left unknown; no unlike-price comparison.",
+    "Generic method FAQ not asserted as precise fieldwork provenance for the separate sponsor-branded report.",
+    "Recommendations labelled conditional analyst inferences, not sales validation or an adopted business model."
+  ],
+  "scope_safety": "All authored files confined to assigned research-products folder; canonical registers and shared deliverables not edited. No external contact, submitted form, account, spend or quotation."
+}

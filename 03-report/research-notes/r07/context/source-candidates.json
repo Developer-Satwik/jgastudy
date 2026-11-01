@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Official guidance, not supplier marketing or an employer-priority survey",
+      "review_status": "relevant_original_html_sections_inspected",
+      "reuse_status": "Private verification; final-use wording, rights and applicability review pending",
+      "candidate_id": "CTX7-S01",
+      "title": "Holiday pay and entitlement reforms from 1 January 2024",
+      "publisher": "Department for Business and Trade",
+      "url": "https://www.gov.uk/government/publications/simplifying-holiday-entitlement-and-holiday-pay-calculations/holiday-pay-and-entitlement-reforms-from-1-january-2024",
+      "source_type": "official_working_arrangement_and_applicability_guidance",
+      "published_date": null,
+      "updated_date": "2024-04-01",
+      "date_note": "Displayed original/substantive-update dates, where established; access date is not a new outcome or rule date.",
+      "locator": "Introduction caveat; sections1–2 definitions;3.1 applicability and6.2 eligible alternative method",
+      "population": "Guidance on specific working arrangements and leave-year conditions under its stated Working Time context",
+      "limitations": "Mechanism/context evidence, not a survey of sector priorities, prevalence or observed employer funding. No worker-specific classification, entitlement/rate calculation, advice on contractual change or assumption of complete current territorial/legal coverage. Illustrative percentages/hours and monetary examples not transferred.",
+      "capture_path": "03-report/research-notes/r07/context/captures/CTX7-S01.html",
+      "capture_sha256": "98ee42be47d5a46dcfb4ac5da853deaa2dd9962f922a2c1bf69befb7dd66b91e",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07/context/captures/CTX7-S01.txt",
+      "text_sha256": "6c59c6909f76f68578cce9a67cfa778ca5ecd4dcdd37c15d55663865da0b1124"
+    },
+    {
+      "accessed_on": "2026-10-29",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": true,
+      "funding_or_commercial_interest": "Official guidance, not supplier marketing or an employer-priority survey",
+      "review_status": "relevant_original_html_sections_inspected",
+      "reuse_status": "Private verification; final-use wording, rights and applicability review pending",
+      "candidate_id": "CTX7-S02",
+      "title": "Employees working abroad",
+      "publisher": "HM Revenue & Customs",
+      "url": "https://www.gov.uk/guidance/paying-employees-working-abroad",
+      "source_type": "official_cross_border_payroll_context_guidance",
+      "published_date": "2014-06-12",
+      "updated_date": "2026-07-07",
+      "date_note": "Displayed original/substantive-update dates, where established; access date is not a new outcome or rule date.",
+      "locator": "Introduction; How to calculate PAYE Income Tax; National Insurance subsections; Operating separate payrolls",
+      "population": "UK employer PAYE/NI guidance for employees working abroad; source-specific territory/duration/coverage context",
+      "limitations": "Official mechanism, not empirical evidence of global-company priority or budget. No individual tax/social-security determination, country eligibility list, treaty advice, numeric duration rule or country-count complexity ranking is transferred. Actual applicability remains case-specific.",
+      "capture_path": "03-report/research-notes/r07/context/captures/CTX7-S02.html",
+      "capture_sha256": "98024e59244d1afb8543ee8c7a2d26e7217585c32e3bc46d07e76284f8fe16eb",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r07/context/captures/CTX7-S02.txt",
+      "text_sha256": "16381cb3bc4952096b5c94b1c6e6efb0b83e0c0d6f7d366cf8901ccb5f67dc6d"
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0107",
+      "url": "https://www.gov.uk/basic-paye-tools",
+      "locator": "Opening eligibility statement; What it does and agent/bookkeeper limitation; Before you start",
+      "review_result": "Tool eligibility/own-employer scope is bounded, not a payroll-complexity scale or observed priority difference between small and large firms.",
+      "capture_path": "03-report/research-notes/r07/context/captures/SRC-0107.html",
+      "capture_sha256": "5ed2f7cecdf29557984a2ca284223c367d38618e4fab79931aaedff41e6b3662",
+      "text_path": "03-report/research-notes/r07/context/captures/SRC-0107.txt",
+      "text_sha256": "cb4b05f6e667f0afed4b7d2836cff33b47175310a4bafbe77f07ef3822f801d7"
+    },
+    {
+      "source_id": "SRC-0198",
+      "url": "https://schools.westsussex.gov.uk/Article/184856",
+      "locator": "Official10March2026 body, revised timing and school/term-time users",
+      "review_result": "An employer-stated calendar/user context affects its reported rollout timing. One programme, not evidence of sector-wide priorities, optimal timing or causal risk reduction.",
+      "capture_path": "03-report/research-notes/r06/stalls/captures/STL6-S01.html",
+      "capture_sha256": "d113376f2900f25149f6a4a667a93ee1b2c428326a9786a44a1abc0e3faded2a",
+      "text_path": "03-report/research-notes/r06/stalls/captures/STL6-S01.txt",
+      "text_sha256": "8cec445c5057462cb7bf740faf44c7c8bf3f7567ecbe9d5ee52f94428ac10f8f"
+    }
+  ],
+  "independent_empirical_datasets": 0
+}

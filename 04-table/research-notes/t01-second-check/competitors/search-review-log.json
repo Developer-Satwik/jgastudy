@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-30",
+  "queries": [
+    "Existing canonical comparator research/resources/event/interpretation offers",
+    "All-six recruitment comparators and JGA public substitutes vs paid Table use",
+    "Prior saved hiring prompt audience/geography/confidentiality/evidence-object premises"
+  ],
+  "reviewed_canonical_sources": [
+    "SRC-0190",
+    "SRC-0221",
+    "SRC-0222",
+    "SRC-0116",
+    "SRC-0192",
+    "SRC-0193",
+    "SRC-0088"
+  ],
+  "new_source_routes": 0,
+  "discovery_only": [
+    {
+      "url": "https://www.oakleafpartnership.com/news/pensions-reform-salary-sacrifice/",
+      "status": "Reader timeout; linked from existingSRC0222, not used for detailed claims"
+    }
+  ],
+  "external_contact": false,
+  "account_or_form_action": false,
+  "market_metrics_transferred": false
+}

@@ -1,0 +1,201 @@
+{
+  "version": "0.1",
+  "date": "2026-10-29",
+  "status": "blank_design_only_do_not_populate_here",
+  "use_location": "Only the agreed restricted collection environment, after readiness/release decisions. This ordinary workspace is not approved participant storage.",
+  "all_templates_are_blank": true,
+  "choice_values": [
+    "yes",
+    "no",
+    "not_asked",
+    "needs_clarification",
+    "withdrawn_or_changed"
+  ],
+  "blank_is_not_yes": true,
+  "participation_choice_is_not_automatically_GDPR_lawful_basis": true,
+  "restricted_identity_lookup": {
+    "participant_id": null,
+    "minimal_identity_contact_reference": null,
+    "introduction_source": null,
+    "actual_professional_remit": null,
+    "report_eligibility_verification_basis": null,
+    "verification_date": null,
+    "permitted_workstream_roles": null,
+    "restricted_permission_reference": null
+  },
+  "restricted_permission_record": {
+    "participant_id": null,
+    "information_and_notice_version": null,
+    "purposes_explained": null,
+    "permission_evidence_date": null,
+    "choices": {
+      "participation_and_notes_or_written_response": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "deidentified_report_publication_scope": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "recording_if_proposed": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "exact_quotation_specific_extract": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "name_and_role_specific_wording": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "employer_identification_specific_wording": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "council_recognition": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "contribution_clarification_recontact": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "future_research_invitation": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "future_edition_reuse_if_proposed": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      },
+      "Table_exploratory_information": {
+        "answer": null,
+        "scope_or_exact_wording": null,
+        "information_version": null,
+        "choice_date": null,
+        "evidence_reference": null,
+        "restrictions": null
+      }
+    },
+    "change_or_withdrawal_reference": null,
+    "agreed_release_review_limits": null
+  },
+  "contribution_note": {
+    "contribution_id": null,
+    "participant_id": null,
+    "purposes_actually_covered": null,
+    "collection_date": null,
+    "mode": null,
+    "guide_version": null,
+    "concept_version_if_applicable": null,
+    "selected_case_event_and_remit_if_known": null,
+    "permission_reference": null,
+    "questions_actually_covered": [],
+    "routed_wording_used": null,
+    "source_and_knowledge_basis": null,
+    "safe_context_limit": null,
+    "response_entries": [],
+    "note_review_status": null,
+    "followup_limits": null
+  },
+  "response_entry": {
+    "question_id": null,
+    "text": null,
+    "text_type_quote_paraphrase_or_analyst_interpretation": null,
+    "missingness": null,
+    "source_and_direct_knowledge": null,
+    "scope_event_time_account_time_if_known": null,
+    "relevant_code_or_module": null,
+    "qualification_or_contrary_evidence": null,
+    "permitted_use_reference": null
+  },
+  "publication_item": {
+    "item_id": null,
+    "contribution_reference": null,
+    "exact_text_or_summary": null,
+    "intended_edition_output_audience": null,
+    "quote_paraphrase_or_aggregate": null,
+    "name_role_employer_display_if_any": null,
+    "permission_scope_reference": null,
+    "context_identification_review": null,
+    "factual_or_quote_check_if_agreed": null,
+    "release_decision_and_reference": null
+  },
+  "restricted_request_or_change_log": {
+    "request_id": null,
+    "participant_reference": null,
+    "received_date": null,
+    "request_scope": null,
+    "forwarded_to_JGA_reference": null,
+    "instruction_or_resolution_reference": null,
+    "affected_material_references": null,
+    "action_and_date_if_authorised": null
+  },
+  "blank_analysis_transfer_check": {
+    "material_reference": null,
+    "actual_data_form_and_identification_risk": null,
+    "purpose_and_recipient": null,
+    "approved_route_reference": null,
+    "minimum_context_needed": null,
+    "source_permission_limits": null,
+    "release_review_reference": null
+  },
+  "blank_count_record": {
+    "participant_id": null,
+    "report_eligible_verified": null,
+    "actual_usable_report_input": null,
+    "analysis_use_permitted": null,
+    "report_count_once_decision": null,
+    "question_base_limits": null,
+    "Table_substantive_event_references": null,
+    "publication_items_cleared_separately": null
+  },
+  "actual_participants": [],
+  "actual_permissions": [],
+  "actual_contributions": [],
+  "actual_Table_events": [],
+  "actual_publication_items": [],
+  "actual_rights_or_change_requests": [],
+  "actual_transfer_events": []
+}

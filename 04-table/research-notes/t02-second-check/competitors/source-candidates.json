@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-30",
+  "records": [
+    {
+      "candidate_id": "TC2-S01",
+      "title": "Pension Reform 2026",
+      "publisher": "Oakleaf Partnership",
+      "url": "https://www.oakleafpartnership.com/news-views/pensions-reform-salary-sacrifice",
+      "source_type": "provider_published_webinar_followthrough_format",
+      "review_status": "selected_original_format_sections_inspected",
+      "accessed_on": "2026-10-30",
+      "published_date": "2026-01-28",
+      "updated_date": null,
+      "date_note": "Visible article date, not date of verified webinar attendance or outcomes.",
+      "population": "Public employer-facing payroll content; no Table audience sample.",
+      "sample_size": null,
+      "fieldwork_period": null,
+      "method_available": false,
+      "funding_or_commercial_interest": "Recruitment provider publishes its own expert content and event routes.",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/TC2-S01.html",
+      "capture_sha256": "97a15b91b6a0f21a0ec955f3592ccd95a8a4ec9694b8828e226b2f15c515b32f",
+      "capture_kind": "retained_original_html",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t02-second-check/competitors/captures/TC2-S01.txt",
+          "sha256": "827d5dfe05e7d0e214926b795ca27b2aef95a33faaca0760021d063562b05c2d",
+          "kind": "parsed_original_text"
+        }
+      ],
+      "locator": "Retained parsed lines13–21,42–43,57–59; primary reader lines19–32,79–81,106–111",
+      "limitations": "Used only for declared webinar-to-written-themes and recording/event-discovery format. Legal, tax, reform-date, savings and employer-behaviour assertions are excluded. Recording not watched, registration not submitted, no audience reach, fee, event value, permission or sales result established.",
+      "reuse_status": "Private verification; no reproduction licence or commercial content reuse obtained."
+    }
+  ],
+  "reused_canonical_sources": [
+    {
+      "source_id": "SRC-0190",
+      "url": "https://www.theportfoliogroup.com/added-value/",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Prior29October catalogue note73–78/133–140: salary/hiring resources and lead-capture route; current full reader timed out.",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "review_status": "prior_primary_context_rechecked_not_fresh_full_body",
+      "prior_review_record": "04-table/research-notes/t01-second-check/competitors/source-candidates.json",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+          "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+          "kind": "prior_selected_original_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_access_boundary": "prior_reader_note_rechecked_fresh_access_failed"
+    },
+    {
+      "source_id": "SRC-0221",
+      "url": "https://www.frazerjones.com/market-insight/payroll/how-to-build-and-retain-a-high-performing-payroll-team-leadership-insights-from-andrea-wraight-head-of-pay-benefits/",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Prior29October original-reader180–225:10April2025 written summary of AndreaWraight leadership interview; fresh full access403.",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "review_status": "prior_primary_context_rechecked_not_fresh_full_body",
+      "prior_review_record": "04-table/research-notes/t01-second-check/competitors/source-candidates.json",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r07-second-check/competitors/captures/C7S-S02-selected-reader-notes.txt",
+          "sha256": "c9371272eb6edb6dd373fb68ee640001d8e861d545d8376d8bb54d8977527f2a",
+          "kind": "prior_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_access_boundary": "prior_reader_note_rechecked_fresh_access_failed"
+    },
+    {
+      "source_id": "SRC-0222",
+      "url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Original body:17March2026 MarketOverview and recent payroll-event account; parsed lines13–21",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "retrieved_at_utc": "2026-10-30T04:12:44.323069+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/news-views/market-insights-payroll-reward",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.html",
+      "capture_sha256": "607404c401d15243345300ff5af8d48744a57da44a2c653f8673c43de16c4b17",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+      "text_sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+      "capture_kind": "retained_original_html",
+      "review_status": "fresh_retained_original_sections_inspected",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0222.txt",
+          "sha256": "d5c0f96b5cb4993a7cfee92f94794948139ff1159f1145d273964f3d67cdd156",
+          "kind": "parsed_original_text"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Original PayrollSearch team/support and PostProjectReport; parsed lines15–27",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "retrieved_at_utc": "2026-10-30T04:12:44.323162+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "95bb25095982f9873cb3b20f3e123af4e8010edd7b318754fcf58401b6407eba",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+      "capture_kind": "retained_original_html",
+      "review_status": "fresh_retained_original_sections_inspected",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0116.txt",
+          "sha256": "7353686ec757f47367de3e99bcd29c2613d09e056b51655c68222ffb046ff2e6",
+          "kind": "parsed_original_text"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0192",
+      "url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Guide access/current2026label and method:2025 salary inputs and survey periods; originalreader35–38/107–109",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "review_status": "prior_primary_context_rechecked_not_fresh_full_body",
+      "prior_review_record": "04-table/research-notes/t01-second-check/competitors/source-candidates.json",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0192-selected-reader-notes.txt",
+          "sha256": "68703795ba527d4bf660b40d6d2c49a141fe52b2da29c826b032219b80dda46e",
+          "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_access_boundary": "fresh_primary_reader_body_inspected_raw_shell_retained"
+    },
+    {
+      "source_id": "SRC-0193",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Public projected2027guide, customised salary consultation and distinctmethod; originalreader69–76/84–110",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "retrieved_at_utc": "2026-10-30T04:12:44.322492+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.html",
+      "capture_sha256": "0d217ed682a1f823466b70017cba24581e6103b5c29d639bbd02cc3d394d2961",
+      "text_path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.txt",
+      "text_sha256": "ed88f7286b7711fbda1ba28dc82faf287252d903a96969868179c3e8106de0ab",
+      "capture_kind": "retained_original_html",
+      "review_status": "fresh_retained_original_sections_inspected",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t02-second-check/competitors/captures/SRC-0193.txt",
+          "sha256": "ed88f7286b7711fbda1ba28dc82faf287252d903a96969868179c3e8106de0ab",
+          "kind": "parsed_original_text"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-0088",
+      "url": "https://jgarecruitment.com/the-payroll-podcast/",
+      "accessed_on": "2026-10-30",
+      "new_independent_dataset": false,
+      "locator": "Fresh primary reader2–23: podcast proposition and subscription/archive routes; raw403.",
+      "limitations": "Source-specific prior/current access boundary retained. No public statement becomes observed audience value, paid demand, outcome, reuse permission or original Table contribution.",
+      "review_status": "prior_primary_context_rechecked_not_fresh_full_body",
+      "prior_review_record": "04-table/research-notes/t01-second-check/competitors/source-candidates.json",
+      "review_extracts": [
+        {
+          "path": "04-table/research-notes/t01-second-check/competitors/captures/SRC-0088-selected-reader-notes.txt",
+          "sha256": "eb59848d05695483b5a3a44b306a2c7343264ce02a52a036dd6af8c1c8e9bcbb",
+          "kind": "fresh_selected_paraphrased_reader_notes_not_raw_original"
+        }
+      ],
+      "prior_access_boundary": "fresh_primary_reader_sections_inspected_raw_unavailable"
+    }
+  ],
+  "new_source_routes": 1,
+  "new_independent_demand_datasets": 0
+}

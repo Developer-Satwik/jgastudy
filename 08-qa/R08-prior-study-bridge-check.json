@@ -1,0 +1,1327 @@
+{
+  "date": "2026-10-29",
+  "status": "passed",
+  "bridge_path": "03-report/research-notes/r08-second-check/competitors/prior-study-bridge.json",
+  "bridge_sha256": "39ab34430fc2b7462d6ed14e59d4e5fed788b16746f191bdf1cf8eb9e061c05a",
+  "checks": [
+    {
+      "check": "Provenance file exists: all_answers",
+      "passed": true
+    },
+    {
+      "check": "Provenance hash matches: all_answers",
+      "passed": true
+    },
+    {
+      "check": "Provenance file exists: answer_index",
+      "passed": true
+    },
+    {
+      "check": "Provenance hash matches: answer_index",
+      "passed": true
+    },
+    {
+      "check": "Provenance file exists: summary",
+      "passed": true
+    },
+    {
+      "check": "Provenance hash matches: summary",
+      "passed": true
+    },
+    {
+      "check": "Provenance file exists: previous_R07_bridge",
+      "passed": true
+    },
+    {
+      "check": "Provenance hash matches: previous_R07_bridge",
+      "passed": true
+    },
+    {
+      "check": "Original export has352 unique saved answer records",
+      "passed": true
+    },
+    {
+      "check": "Answer index has352 unique records",
+      "passed": true
+    },
+    {
+      "check": "Original summary identifies four tools",
+      "passed": true
+    },
+    {
+      "check": "Four selected questions retained",
+      "passed": true
+    },
+    {
+      "check": "Selected IDs match stated contrasts",
+      "passed": true
+    },
+    {
+      "check": "Prompt SHA matches: S01-C",
+      "passed": true
+    },
+    {
+      "check": "Constructed premise explicitly documented: S01-C",
+      "passed": true
+    },
+    {
+      "check": "Eight saved answers: S01-C",
+      "passed": true
+    },
+    {
+      "check": "Four-tool/two-repeat coverage: S01-C",
+      "passed": true
+    },
+    {
+      "check": "Selected capture status counts: S01-C",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S01-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt SHA matches: S02-D",
+      "passed": true
+    },
+    {
+      "check": "Constructed premise explicitly documented: S02-D",
+      "passed": true
+    },
+    {
+      "check": "Eight saved answers: S02-D",
+      "passed": true
+    },
+    {
+      "check": "Four-tool/two-repeat coverage: S02-D",
+      "passed": true
+    },
+    {
+      "check": "Selected capture status counts: S02-D",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S02-D-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt SHA matches: S06-C",
+      "passed": true
+    },
+    {
+      "check": "Constructed premise explicitly documented: S06-C",
+      "passed": true
+    },
+    {
+      "check": "Eight saved answers: S06-C",
+      "passed": true
+    },
+    {
+      "check": "Four-tool/two-repeat coverage: S06-C",
+      "passed": true
+    },
+    {
+      "check": "Selected capture status counts: S06-C",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S06-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt SHA matches: S11-C",
+      "passed": true
+    },
+    {
+      "check": "Constructed premise explicitly documented: S11-C",
+      "passed": true
+    },
+    {
+      "check": "Eight saved answers: S11-C",
+      "passed": true
+    },
+    {
+      "check": "Four-tool/two-repeat coverage: S11-C",
+      "passed": true
+    },
+    {
+      "check": "Selected capture status counts: S11-C",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-chatgpt-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-claude-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-gemini-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-perplexity-r1",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-chatgpt-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-claude-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-gemini-r2",
+      "passed": true
+    },
+    {
+      "check": "Selected unique answer ID: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Question linkage: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact prompt preserved in both exports: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Prompt hash linkage: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Exact full answer/index text: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Full answer text/hash: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Tool/repeat linkage: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Observation date linkage: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "Source status linkage: S11-C-perplexity-r2",
+      "passed": true
+    },
+    {
+      "check": "32 selected saved answers; no rerun counted",
+      "passed": true
+    },
+    {
+      "check": "Original global source limits preserved independently of subset completeness",
+      "passed": true
+    },
+    {
+      "check": "No recommendation-count transfer",
+      "passed": true
+    },
+    {
+      "check": "Explicit preselected-route and unaided-first anti-anchoring rule retained",
+      "passed": true
+    },
+    {
+      "check": "R08 evidence and verification requests remain explicit researcher premises",
+      "passed": true
+    },
+    {
+      "check": "No external action recorded in bridge",
+      "passed": true
+    }
+  ],
+  "check_count": 327,
+  "selected_questions": 4,
+  "selected_saved_answers": 32,
+  "scope": "Root verification of a separately authored bridge: exact text, hash, provenance, index/date/status and coverage checks. Not semantic validation of model advice, source capture completeness, buyer demand or cost/savings/authority proof.",
+  "no_model_reruns": true,
+  "source_limitations_preserved": {
+    "complete": 339,
+    "partial": 6,
+    "pending": 1,
+    "none_present": 6
+  }
+}

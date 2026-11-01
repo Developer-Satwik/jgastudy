@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_source_capture_checks",
+  "source_routes": 1,
+  "primary_originals": 1,
+  "parsed_extracts": 1,
+  "checks": [
+    {
+      "passed": true,
+      "detail": "Original HTML returned200 and contains the relevant method content."
+    },
+    {
+      "passed": true,
+      "detail": "Hashes recorded for raw original and derived text."
+    },
+    {
+      "passed": true,
+      "detail": "No JGA wage, quantity, ratio or legal requirement transferred from the analogy."
+    }
+  ],
+  "external_actions": []
+}

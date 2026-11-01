@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-01",
+  "records": [
+    {
+      "candidate_id": "T5M-S01",
+      "title": "Service Costing in Government",
+      "publisher": "Government Finance Function and HM Treasury",
+      "url": "https://www.gov.uk/government/publications/service-costing-in-government/service-costing-in-government",
+      "final_url": "https://www.gov.uk/government/publications/service-costing-in-government/service-costing-in-government",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-11-01T10:29:02.399997+00:00",
+      "source_type": "primary_public_service_cost_method",
+      "review_status": "relevant_original_method_sections_inspected",
+      "published_date": "2026-08-06",
+      "date_note": "Accessed 1 November 2026. Government service-costing method is a scoped analogy, not a JGA obligation or supplier benchmark.",
+      "capture_path": "04-table/research-notes/t05-service-costs/root/captures/T5M-S01.html",
+      "capture_sha256": "0c0b060f253bef46f30815fd5a20a48c328470782b78d9525e8ef4310609880c",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05-service-costs/root/parsed/T5M-S01.txt",
+      "parsed_sha256": "35e19ba30cd5f7a7d5fda672f648955ae982cf41bbbd337d17cec0442f62f94d",
+      "limitations": "Public-service guidance supports explicit service units, assumptions and allocation logic. No government staffing ratios, on-cost percentages, financial controls or illustrative service volumes are transferred to JGA.",
+      "funding_or_commercial_interest": "Public government service-costing guidance; not a commercial labour-rate offer or JGA cost study."
+    }
+  ]
+}

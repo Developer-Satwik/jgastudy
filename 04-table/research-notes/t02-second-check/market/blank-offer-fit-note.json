@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-30",
+  "status": "optional_analyst_note_design_not_new_collection_form",
+  "mandatory": false,
+  "fields": {
+    "use_or_decision": null,
+    "actual_user": null,
+    "edition_version": null,
+    "claim_to_support": null,
+    "available_releasable_material": null,
+    "relevant_context_and_dates": null,
+    "known_coverage_or_permission_limit": null,
+    "existing_edition_interpretation_or_new_work": null,
+    "proposed_deliverable_and_fulfilment": null,
+    "proposed_scope_response": null
+  },
+  "actual_records": [],
+  "usage": "May be used selectively in later internal scoping to avoid an unsupported offer. Do not add it as a mandatory participant questionnaire or use it to store identities."
+}

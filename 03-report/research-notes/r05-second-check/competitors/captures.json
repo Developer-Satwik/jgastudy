@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-29",
+  "records": [
+    {
+      "route_id": "R5C-S01",
+      "url": "https://www.theportfoliogroup.com/added-value/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.081715+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S01-selected-reader-notes.txt",
+          "sha256": "c2c52fc1d9c52455564afc234e236fe130a84fe8c39366fb8930d76e5aa60f64",
+          "kind": "selected_original_reader_notes_not_raw_capture"
+        }
+      ]
+    },
+    {
+      "route_id": "R5C-S02",
+      "url": "https://www.frazerjones.com/market-insight/how-to-avoid-problems-when-implementing-payroll-for-new-market-entries-and-acquisitions/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.082085+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S02-selected-reader-notes.txt",
+          "sha256": "3d4e1fa3a8c93043268e3cf5f00bfe23cb67c21c3b092f3a72cb39e7fa9325cd",
+          "kind": "selected_original_reader_notes_not_raw_capture"
+        }
+      ]
+    },
+    {
+      "route_id": "R5C-S03",
+      "url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.082168+00:00",
+      "http_status": 200,
+      "final_url": "https://salary-guide.hays.co.uk/salary-guide-2025",
+      "capture_path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S03.html",
+      "capture_sha256": "0b7500b949de54c87916ce90414da63e20ec9af0d8c1598fb73a8004fc3a7e83",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S03.txt",
+      "text_sha256": "16d11e8b6b301ae1a4e7d1a37d3d2994576ac25ad8aeab4e696e2e158f583bdd"
+    },
+    {
+      "route_id": "R5C-S04",
+      "url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.082226+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/insights/salary-guide",
+      "capture_path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S04.html",
+      "capture_sha256": "78f5e29fe272946a04c0b61e929df93faeb6e00d0d5cb13c7d390d2ace0d781b",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/competitors/captures/R5C-S04.txt",
+      "text_sha256": "8e9d08e1acb912dab32d6fec63e5022bf824373c3bfd84b6c646e5aaf092b925"
+    },
+    {
+      "route_id": "SRC-0115",
+      "url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.082282+00:00",
+      "http_status": 200,
+      "final_url": "https://www.oakleafpartnership.com/business-areas/payroll/payroll-capabilities",
+      "capture_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0115.html",
+      "capture_sha256": "2931a0080b5572d30a11b8089e3efcd5ade3e3d09ea431108e26a45fb0a78803",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0115.txt",
+      "text_sha256": "2c0252b23bdbca9e022f583e19229fd8efef4950d46298b94e9c5792a9a2b7cf"
+    },
+    {
+      "route_id": "SRC-0116",
+      "url": "https://middlemore.co.uk/payroll-search/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.419203+00:00",
+      "http_status": 200,
+      "final_url": "https://middlemore.co.uk/payroll-search/",
+      "capture_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0116.html",
+      "capture_sha256": "29109ee5aafdbd89c5605450a468b1dabea15a2110a2559e52004d5f3e783011",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0116.txt",
+      "text_sha256": "bc3d642157e157c4a1c2c2839b72339b275f0ea80bcffe50754ad83d515c11bf"
+    },
+    {
+      "route_id": "SRC-0147",
+      "url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.604233+00:00",
+      "http_status": 200,
+      "final_url": "https://www.hays.co.uk/recruitment-services/project-services",
+      "capture_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0147.html",
+      "capture_sha256": "b4609a1fa145253871b183fa445c230ecd137c49287ee891d4f1a60579aba0d7",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0147.txt",
+      "text_sha256": "5b8a0201c154481db6b05c5b56347e7b2477bcfc709395f0dc80c34d36c33644"
+    },
+    {
+      "route_id": "SRC-0148",
+      "url": "https://www.roberthalf.com/gb/en/consulting",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:35.628725+00:00",
+      "http_status": 200,
+      "final_url": "https://www.roberthalf.com/gb/en/consulting",
+      "capture_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0148.html",
+      "capture_sha256": "d041d6d41e9dbb6e5e871d484ab470b5391c291ed401321b0a3adb2ef177a936",
+      "capture_kind": "retained_original_html",
+      "text_path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0148.txt",
+      "text_sha256": "4443f04e80f5ce8a4596203ffae9e9666a6c0797b65af2687fbdc0be768e26df"
+    },
+    {
+      "route_id": "SRC-0113",
+      "url": "https://jgarecruitment.com/payroll-recruitment/",
+      "accessed_on": "2026-10-29",
+      "retrieved_at_utc": "2026-10-28T22:30:36.069993+00:00",
+      "http_status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "capture_path": null,
+      "capture_sha256": null,
+      "capture_kind": "raw_unavailable",
+      "review_extracts": [
+        {
+          "path": "03-report/research-notes/r05-second-check/competitors/captures/SRC-0113-selected-reader-notes.txt",
+          "sha256": "ebdc81e6d0a68176353692614e8f21ca2c2300ac77aacb500116ea0cb805f392",
+          "kind": "selected_original_reader_notes_not_raw_capture"
+        }
+      ]
+    }
+  ]
+}

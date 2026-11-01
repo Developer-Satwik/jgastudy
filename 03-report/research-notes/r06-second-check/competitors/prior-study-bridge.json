@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-29",
+  "purpose": "R06 second challenge: challenge forced-hire, provider-change and temporary-stint premises while verifying saved-text linkage; no reruns",
+  "provenance": [
+    {
+      "role": "all_answers",
+      "path": "sites/jga-discovery-report-2026-10-22/output/JGA-Research-Pack/data/all-answers.json",
+      "sha256": "face77b0815c71523562a5cd5b76ba98ce15ba5b9b6445882ac9090a7771b719"
+    },
+    {
+      "role": "answer_index",
+      "path": "sites/jgafinalcode/dist/data/answer-index.json",
+      "sha256": "940541ab4520d6a00cfae7d038491dcbc72516d999325aada8276027c54c7da2"
+    },
+    {
+      "role": "summary",
+      "path": "sites/jgafinalcode/dist/data/summary.json",
+      "sha256": "9ad39abd44ec81ffd7ffd92fb9209858fc4344433b3edb2da6142c50f95bbefc"
+    },
+    {
+      "role": "previous_R05_bridge",
+      "path": "projects/JGA-Payroll-Research-2027/03-report/research-notes/r05-second-check/competitors/prior-study-bridge.json",
+      "sha256": "b07362c1c5ed92a8fe5c1586d720a75b6eed2b1db184d6035f22cefb0082bc14"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "S07-D",
+      "prompt": "Our Payroll Manager has handed in their notice at our medium-sized UK business. We need an agency to find a permanent replacement who can run UK payroll and complete a handover before the current manager leaves. Which agencies should we approach?",
+      "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+      "analyst_contrast": "Replacement and handover before incumbent departure",
+      "embedded_assumption_to_exclude": "The prompt already says the Payroll Manager has resigned and demands a permanent replacement with handover before departure. It cannot show a buyer chose hire over retention/revised remit, or that a timely start is possible.",
+      "saved_answer_count": 8,
+      "capture_status_counts": {
+        "complete": 8
+      },
+      "answer_links": [
+        {
+          "answer_id": "S07-D-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T21:25:12.368Z",
+          "full_answer_sha256": "c7a68cc07763d49ac2ab76c0ab6d23e621ec340cea2bbe4070e4b5aa14db25ae",
+          "recorded_answer_hash": "c7a68cc07763d49ac2ab76c0ab6d23e621ec340cea2bbe4070e4b5aa14db25ae",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T21:24:59.553Z",
+          "full_answer_sha256": "73e8cf36469dafa62fcd7990222481dc9b854d975aab751169358c1b6f76e579",
+          "recorded_answer_hash": "73e8cf36469dafa62fcd7990222481dc9b854d975aab751169358c1b6f76e579",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T21:25:12.371Z",
+          "full_answer_sha256": "d79d8f32ed240339751d5524ae0d065d3ca001f1ca4277787a365ad937b901f2",
+          "recorded_answer_hash": "d79d8f32ed240339751d5524ae0d065d3ca001f1ca4277787a365ad937b901f2",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T21:25:12.372Z",
+          "full_answer_sha256": "728b11e0c3043f244230aa2586f5e1ce88a612d1e9d15069cc4c58839d820ca9",
+          "recorded_answer_hash": "728b11e0c3043f244230aa2586f5e1ce88a612d1e9d15069cc4c58839d820ca9",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T14:43:54.761Z",
+          "full_answer_sha256": "1ade2a8601a978729ccc75209d0f4ef95ca12a49632701cf78f988bd86e018c7",
+          "recorded_answer_hash": "1ade2a8601a978729ccc75209d0f4ef95ca12a49632701cf78f988bd86e018c7",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T14:43:54.836Z",
+          "full_answer_sha256": "f32e0c83545725f3f7954d7d5c3fa7b6e3ab1ad31d446f67a903fbfa58f890e0",
+          "recorded_answer_hash": "f32e0c83545725f3f7954d7d5c3fa7b6e3ab1ad31d446f67a903fbfa58f890e0",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T14:45:24.126Z",
+          "full_answer_sha256": "98235d9c0f6bd948717fb2eebce97367472612f941db36cf7eb9a3aeec2d47fb",
+          "recorded_answer_hash": "98235d9c0f6bd948717fb2eebce97367472612f941db36cf7eb9a3aeec2d47fb",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S07-D-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T14:43:55.209Z",
+          "full_answer_sha256": "d6fcccf31cfd3b36d17ea83c1414558865e8527078afd2dc7c2bf7e3e4544569",
+          "recorded_answer_hash": "d6fcccf31cfd3b36d17ea83c1414558865e8527078afd2dc7c2bf7e3e4544569",
+          "prompt_sha256": "a8a93b20718c9913a2c2572b93da144dcb2c2ccc1d4ff3f093ba7e1787ccd96b",
+          "source_status": "complete",
+          "index_text_match": true
+        }
+      ]
+    },
+    {
+      "question_id": "S09-A",
+      "prompt": "We are a Manchester-based employer changing payroll providers across the UK and Europe. We need a permanent Head of Payroll, hybrid in Manchester, to own supplier governance and the transition. Which recruitment firms should we approach for this senior hire?",
+      "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+      "analyst_contrast": "Provider change and permanent leadership scope",
+      "embedded_assumption_to_exclude": "Provider change, a Manchester hybrid role and a permanent Head of Payroll are preselected. Recommendations cannot prove actual need to switch, choose a hire, or diagnose why a proposal stalled.",
+      "saved_answer_count": 8,
+      "capture_status_counts": {
+        "complete": 8
+      },
+      "answer_links": [
+        {
+          "answer_id": "S09-A-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T22:03:12.492Z",
+          "full_answer_sha256": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+          "recorded_answer_hash": "c4f5a0f96daf0452fa5640f8a0a39e26ae1888a4dd22148ebe05ac04e3489361",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T22:03:12.491Z",
+          "full_answer_sha256": "7a3ee6e2b2251c4b8dc8bcaf08ea073e0194e059a95a246f507773325aa569ee",
+          "recorded_answer_hash": "7a3ee6e2b2251c4b8dc8bcaf08ea073e0194e059a95a246f507773325aa569ee",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T22:03:12.493Z",
+          "full_answer_sha256": "a82198df137c9b143cc002f86c56feaa17c904277dd5b3c2d538836563f75e2b",
+          "recorded_answer_hash": "a82198df137c9b143cc002f86c56feaa17c904277dd5b3c2d538836563f75e2b",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-19T22:03:12.493Z",
+          "full_answer_sha256": "95e4db1572dbcbace2ffeae259b8efcd231e5406e3073c925dc314a8a0c8e815",
+          "recorded_answer_hash": "95e4db1572dbcbace2ffeae259b8efcd231e5406e3073c925dc314a8a0c8e815",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T15:57:00.016Z",
+          "full_answer_sha256": "368015ac78dcd864807116e7a2dd821e89a0b393e3f772a1da24729440dbb131",
+          "recorded_answer_hash": "368015ac78dcd864807116e7a2dd821e89a0b393e3f772a1da24729440dbb131",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T15:57:00.021Z",
+          "full_answer_sha256": "85dd4d95859cad7b0f6ef4780cb6eedca468b09a8d50fd58f9338e93ce0ce408",
+          "recorded_answer_hash": "85dd4d95859cad7b0f6ef4780cb6eedca468b09a8d50fd58f9338e93ce0ce408",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T15:59:20.214Z",
+          "full_answer_sha256": "ce645f87ab2671a016915ecfb43d535e01aa224849aadb227aa816c652b08fab",
+          "recorded_answer_hash": "ce645f87ab2671a016915ecfb43d535e01aa224849aadb227aa816c652b08fab",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S09-A-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T15:57:00.022Z",
+          "full_answer_sha256": "151b5338ece7b0f0f71e510d62252f47beba2b9801fb4e2b3623481c43976ed9",
+          "recorded_answer_hash": "151b5338ece7b0f0f71e510d62252f47beba2b9801fb4e2b3623481c43976ed9",
+          "prompt_sha256": "1157afc99e35b295e16800d0da51ac15533321ec861dad984c21145fd5f5a1a6",
+          "source_status": "complete",
+          "index_text_match": true
+        }
+      ]
+    },
+    {
+      "question_id": "S10-C",
+      "prompt": "Which recruitment firms should we consider for six-month interim Global Payroll Director cover in the UK alongside a permanent leadership search? What should we verify about director-level availability, relevant multi-country experience and the handover between the two hires?",
+      "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+      "analyst_contrast": "Interim/permanent overlap, availability and handover",
+      "embedded_assumption_to_exclude": "Six months, director level and parallel permanent search are given; the prompt explicitly requests verification. An answer cannot validate six months as a norm or establish actual market availability, authority, tax status or effective handover.",
+      "saved_answer_count": 8,
+      "capture_status_counts": {
+        "complete": 8
+      },
+      "answer_links": [
+        {
+          "answer_id": "S10-C-chatgpt-r1",
+          "product": "ChatGPT",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-20T01:51:54.667Z",
+          "full_answer_sha256": "1919e41cea125967edbcfd6fa86d55d494f4f81d5b49f70b9e4e304899ae617a",
+          "recorded_answer_hash": "1919e41cea125967edbcfd6fa86d55d494f4f81d5b49f70b9e4e304899ae617a",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-claude-r1",
+          "product": "Claude",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-20T01:51:54.664Z",
+          "full_answer_sha256": "97e7e1d349d5c48db8f9f9a734b663b45e64d8ab475c28ddf879421604944652",
+          "recorded_answer_hash": "97e7e1d349d5c48db8f9f9a734b663b45e64d8ab475c28ddf879421604944652",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-gemini-r1",
+          "product": "Gemini",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-20T01:51:54.668Z",
+          "full_answer_sha256": "bd291f838f9d19d52a1793c1673b67ce852c24120eee5362aa2dc6de860b4036",
+          "recorded_answer_hash": "bd291f838f9d19d52a1793c1673b67ce852c24120eee5362aa2dc6de860b4036",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-perplexity-r1",
+          "product": "Perplexity",
+          "repeat": 1,
+          "observed_at_utc": "2026-10-20T01:53:01.271Z",
+          "full_answer_sha256": "f8d0f4f3e07eae23b2f7de128eb36770cbaefb86f4f84f15720715c59b61a689",
+          "recorded_answer_hash": "f8d0f4f3e07eae23b2f7de128eb36770cbaefb86f4f84f15720715c59b61a689",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-chatgpt-r2",
+          "product": "ChatGPT",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T19:43:44.153Z",
+          "full_answer_sha256": "3261b234ebd97aa7790548faacda2a1a27429f9bafab1da167720f74d00729c8",
+          "recorded_answer_hash": "3261b234ebd97aa7790548faacda2a1a27429f9bafab1da167720f74d00729c8",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-claude-r2",
+          "product": "Claude",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T19:43:23.352Z",
+          "full_answer_sha256": "d688c9ee4cde5211ac53c54ac08dd71e7f1fb3bb12c69dac9b46d282ac29006c",
+          "recorded_answer_hash": "d688c9ee4cde5211ac53c54ac08dd71e7f1fb3bb12c69dac9b46d282ac29006c",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-gemini-r2",
+          "product": "Gemini",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T19:43:44.255Z",
+          "full_answer_sha256": "e7921100a0ee53ccf61a628cb52b1373db6e46ecba51f6fa3c3f249da17f4f9c",
+          "recorded_answer_hash": "e7921100a0ee53ccf61a628cb52b1373db6e46ecba51f6fa3c3f249da17f4f9c",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        },
+        {
+          "answer_id": "S10-C-perplexity-r2",
+          "product": "Perplexity",
+          "repeat": 2,
+          "observed_at_utc": "2026-10-21T19:44:04.800Z",
+          "full_answer_sha256": "0c840d8341f5424749f4d90681f213c63eb48eb0a00b946bec01486136c069de",
+          "recorded_answer_hash": "0c840d8341f5424749f4d90681f213c63eb48eb0a00b946bec01486136c069de",
+          "prompt_sha256": "0f2c370ceba68089d5e786848506b6fff387c734b8bb67e81b03ce74db88197b",
+          "source_status": "complete",
+          "index_text_match": true
+        }
+      ]
+    }
+  ],
+  "selected_total_answers": 24,
+  "selected_questions": 3,
+  "unit": "Saved consumer-tool answers to researcher-written recruitment scenarios, not buyers or decisions",
+  "recommendation_counts_reused": false,
+  "all_selected_answer_text_hashes_match": true,
+  "all_selected_index_texts_match": true,
+  "global_source_limitations_preserved": {
+    "complete": 339,
+    "partial": 6,
+    "pending": 1,
+    "none_present": 6
+  },
+  "anti_anchoring_rule": "These questions start after the researcher has selected replacement, provider change or interim cover. They cannot compare actual retention versus change choices or validate hire need, refusal reasons, available candidates, a six-month duration or handover success. Elicit the unaided actual case first.",
+  "semantic_review_scope": "Read all three selected prompts and ChatGPT repeat 1 full answers to identify elicited assumptions/examples; other saved texts were checked for integrity/coverage, not fresh semantic or advice validation.",
+  "retained_use": [
+    "Exact scenario coverage and construct challenge",
+    "Primary-source leads requiring current inspection",
+    "Optional clarification about counterparty agreement, useful handover and continuing capability"
+  ],
+  "excluded_transfers": [
+    "Recommendation counts or rankings as actual buyer choice",
+    "Generated availability, commercial/tax-status rules or mandatory timelines",
+    "Specified hire, provider change or six months as an observed need",
+    "A suggested scoring widget or handover plan as a validated method"
+  ],
+  "external_actions": []
+}

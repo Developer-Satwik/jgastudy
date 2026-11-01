@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-29",
+  "status": "passed_strand_scope_and_integrity",
+  "checks": [
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r06-second-check/history/captures/H6S-S02.pdf",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r03/cases/scottish-government-aar-2025.pdf",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r06-second-check/history/captures/H6S-S01-selected-reader-notes.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r08-second-check/history/captures/SRC-0206-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r08-second-check/history/captures/SRC-0134-selected-text.txt",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r08-second-check/history/captures/LFB-03.png",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r08-second-check/history/captures/LFB-04.png",
+      "passed": true
+    },
+    {
+      "check": "Retained source/extract/render hash 03-report/research-notes/r08-second-check/history/captures/SG-46.png",
+      "passed": true
+    },
+    {
+      "check": "Canonical source links H8S-C01",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate H8S-C01",
+      "passed": true
+    },
+    {
+      "check": "Canonical source links H8S-C02",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate H8S-C02",
+      "passed": true
+    },
+    {
+      "check": "Canonical source links H8S-C03",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate H8S-C03",
+      "passed": true
+    },
+    {
+      "check": "Canonical source links H8S-C04",
+      "passed": true
+    },
+    {
+      "check": "No numerical estimate H8S-C04",
+      "passed": true
+    },
+    {
+      "check": "Three explicit canonical reuses and zero new routes",
+      "passed": true
+    },
+    {
+      "check": "Four bounded history/design claims",
+      "passed": true
+    }
+  ],
+  "check_count": 18,
+  "original_practitioner_observations": 0,
+  "numerical_estimates": 0,
+  "external_actions": []
+}

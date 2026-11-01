@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-29",
+  "source_map": {
+    "H3-S01": "SRC-0141",
+    "H3-S02": "SRC-0142",
+    "MKT2-S01": "SRC-0143",
+    "MKT2-S02": "SRC-0144",
+    "MKT2-S03": "SRC-0145",
+    "R3COMP-S01": "SRC-0146",
+    "R3COMP-S02": "SRC-0147",
+    "R3COMP-S03": "SRC-0148",
+    "SC3-ROOT-S01": "SRC-0149",
+    "SC3-ROOT-S02": "SRC-0150",
+    "SC3-ROOT-S03": "SRC-0151",
+    "SC3-ROOT-S04": "SRC-0152"
+  },
+  "claim_map": {
+    "H3-C01": "CLM-0235",
+    "H3-C02": "CLM-0236",
+    "H3-C03": "CLM-0237",
+    "H3-C04": "CLM-0238",
+    "H3-C05": "CLM-0239",
+    "MKT2-C01": "CLM-0240",
+    "MKT2-C02": "CLM-0241",
+    "MKT2-C03": "CLM-0242",
+    "MKT2-C04": "CLM-0243",
+    "R3COMP-C01": "CLM-0244",
+    "R3COMP-C02": "CLM-0245",
+    "R3COMP-C03": "CLM-0246",
+    "R3COMP-C04": "CLM-0247",
+    "R3COMP-C05": "CLM-0248",
+    "SC3-ROOT-C01": "CLM-0249",
+    "SC3-ROOT-C02": "CLM-0250",
+    "SC3-ROOT-C03": "CLM-0251",
+    "SC3-ROOT-C04": "CLM-0252"
+  }
+}

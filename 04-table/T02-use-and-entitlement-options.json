@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-30",
+  "status": "product_design_options_not_licence_terms",
+  "actual_rights_grants": [],
+  "actual_customer_contracts": [],
+  "Riseklix_controls_JGA_commissioned_IP": false,
+  "ownership_note": "The working agreement assigns commissioned IP to JGA after full payment, with broad exploitation rights subject to participant/third-party constraints. These future customer-use options do not reserve a new Riseklix veto or amend that agreement.",
+  "options": [
+    {
+      "option_id": "RU01",
+      "use": "Contributor research",
+      "definition": "Preserve the research free to participating practitioners, as in the original concept.",
+      "boundary": "Do not downgrade this to a teaser or invent individual-only restrictions to force a sale. Actual use boundaries must be discussed rather than presumed.",
+      "state": "Existing concept benefit; precise later terms remain to be agreed.",
+      "approved": false
+    },
+    {
+      "option_id": "RU02",
+      "use": "Employer/internal team use",
+      "definition": "Specify the report/version and actual intended internal circulation or decision use where a paid proposition is useful.",
+      "boundary": "First check overlap with contributor access and what genuinely additional entitlement/service is wanted.",
+      "state": "Proposed customer-use definition; no right granted or price set.",
+      "approved": false
+    },
+    {
+      "option_id": "RU03",
+      "use": "Public excerpt/marketing use",
+      "definition": "Define exact original material, attribution, channel, period and permitted alterations if the customer wants external use.",
+      "boundary": "No third-party chart/report, participant identity, quote or implied endorsement included merely because JGA owns commissioned analysis.",
+      "state": "Proposed option requiring content-level rights and later customer terms.",
+      "approved": false
+    },
+    {
+      "option_id": "RU04",
+      "use": "Adviser client deliverable",
+      "definition": "Identify whether use is internal preparation, quotation in a client deliverable, client access to the report or wider resale.",
+      "boundary": "No blanket sublicensing/client redistribution assumed; also do not declare it forbidden before JGA decides terms and underlying rights permit.",
+      "state": "Open product-use choice, not a Riseklix veto over JGA work.",
+      "approved": false
+    },
+    {
+      "option_id": "RU05",
+      "use": "Briefing/application service",
+      "definition": "Define actual audience, agenda, preparation, duration/capacity and follow-up if a briefing is part of the offer.",
+      "boundary": "Not unlimited analyst inquiry, payroll compliance helpdesk, custom research, investment advice or recurring support.",
+      "state": "Candidate servicing work to test and cost, not a contracted commitment.",
+      "approved": false
+    },
+    {
+      "option_id": "RU06",
+      "use": "Partner recognition",
+      "definition": "Describe the specific disclosed recognition and agreed research output/use.",
+      "boundary": "No implied research endorsement, conclusion control, guaranteed return or unagreed exclusivity.",
+      "state": "Candidate funding benefits; editorial/rights terms remain open.",
+      "approved": false
+    },
+    {
+      "option_id": "RU07",
+      "use": "Optional commercial access",
+      "definition": "If requested, define a separate transparent access benefit and test participant fit/permissions and delivery capacity.",
+      "boundary": "Research funding does not provide default contacts, individual answers, meeting lists or introductions. No actual access promised.",
+      "state": "Potential separate combination, not included in the minimum draft.",
+      "approved": false
+    },
+    {
+      "option_id": "RU08",
+      "use": "Updates/later editions",
+      "definition": "Specify the actual version/date of outputs. Assess whether later refreshes are wanted and economically deliverable.",
+      "boundary": "No implied subscription, auto-renewal, future council tenure or indefinite updates from an annual concept.",
+      "state": "Later scope/price decision; not part of current draft service.",
+      "approved": false
+    }
+  ],
+  "canonical_support_ids": [
+    "CLM-0506",
+    "CLM-0515",
+    "CLM-0516",
+    "CLM-0518",
+    "CLM-0519",
+    "CLM-0522"
+  ]
+}

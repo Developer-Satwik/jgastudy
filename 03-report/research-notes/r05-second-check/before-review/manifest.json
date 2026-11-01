@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "purpose": "User-requested R05 second challenge; first-pass artifacts preserved before any edits",
+  "records": [
+    {
+      "original_path": "03-report/R05-DESKTOP-READOUT.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/01-R05-DESKTOP-READOUT.md.txt",
+      "sha256": "32409c4f7b8bb8c93c830ae23033a56c33829d2cf4c195f62394c2e6b783e842"
+    },
+    {
+      "original_path": "03-report/R05-BUSINESS-CASE-CHECKLIST.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/02-R05-BUSINESS-CASE-CHECKLIST.md.txt",
+      "sha256": "e89f5d72d82fce6ff63a011af69f783e587a93f18dd954b8bdbfcd8eb6b84609"
+    },
+    {
+      "original_path": "03-report/R05-evidence-map.json",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/03-R05-evidence-map.json.txt",
+      "sha256": "241b545fc05ae2bf88e5141d0e9b39fa9c75d5058b420ac6a26915f54ff13339"
+    },
+    {
+      "original_path": "03-report/modules/R05-business-case-evidence-and-risks.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/04-R05-business-case-evidence-and-risks.md.txt",
+      "sha256": "4ad9bebd3ede93f18485494e4624a0290b821f84c27da417b8f52452d1cb6455"
+    },
+    {
+      "original_path": "08-qa/R05-independent-review.md",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/05-R05-independent-review.md.txt",
+      "sha256": "160758000bba5d925ac44ae08f76db48be52dc6ac7ed6ea5edd5c650a6446789"
+    },
+    {
+      "original_path": "08-qa/R05-record-map.json",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/06-R05-record-map.json.txt",
+      "sha256": "1f9b29eb8d3984ba7d893771f76aea97cb730715100864f4e12d86ab073578df"
+    },
+    {
+      "original_path": "08-qa/R05-completion-check.json",
+      "snapshot_path": "03-report/research-notes/r05-second-check/before-review/07-R05-completion-check.json.txt",
+      "sha256": "a1d3facec6c9f3bfddfa995ede9e6ad998b3fbe3d0678011cd7b051d902591a2"
+    }
+  ]
+}

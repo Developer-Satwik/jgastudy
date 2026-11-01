@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-31",
+  "status": "internal_route_and_cost_design_T05_pending",
+  "route_design_path": "04-table/research-notes/t04/routes/route-candidates.json",
+  "unit_spec_path": "04-table/research-notes/t04/routes/model-unit-spec.json",
+  "input_requirements_path": "04-table/T04-input-requirements.json",
+  "formula_design_path": "04-table/T04-formula-design.json",
+  "open_assumptions_path": "04-table/research-notes/t04/routes/assumptions-and-validation.json",
+  "cost_evidence_map_path": "04-table/T04-cost-evidence-map.json",
+  "route_ids": [
+    "A-PILOT",
+    "B-PILOT",
+    "A-ANNUAL",
+    "B-ANNUAL"
+  ],
+  "comparison_pairs": [
+    [
+      "A-PILOT",
+      "B-PILOT"
+    ],
+    [
+      "A-ANNUAL",
+      "B-ANNUAL"
+    ]
+  ],
+  "views": [
+    "additional_cash_operating",
+    "full_repeatable_resources",
+    "initial_investment_recovery"
+  ],
+  "required_common_basis": [
+    "horizon",
+    "selected_editions_and_evidence",
+    "common_research_work",
+    "free_and_bundled_entitlements",
+    "revenue_cost_and_currency_definitions"
+  ],
+  "no_automatic_event_sales_attribution": true,
+  "practitioner_free_full_research_preserved": true,
+  "current_commission_not_repeated_unit_cost": true,
+  "cost_screen_is_not_selected_budget": true,
+  "selected_budget_inputs": [],
+  "actual_quotes": [],
+  "selected_venue": null,
+  "actual_orders": [],
+  "actual_receipts": [],
+  "actual_participants": [],
+  "financial_inputs": [],
+  "external_actions": [],
+  "workbook_created": false,
+  "commercial_validation": false,
+  "fieldwork_activated": false,
+  "remaining_T05_work": [
+    "Map work objects to cash and resource costs without overlap",
+    "Research applicable non-venue costs, local currencies and cash timing",
+    "Populate explicitly labelled scenario inputs, keeping critical unknowns visible",
+    "Build and recalculate Excel workbook, reconcile charts and test edge cases",
+    "Compare matched A/B cases and record decision-sensitive assumptions"
+  ],
+  "not_completed": [
+    "Actual buyer/member validation",
+    "Actual practitioner collection/coding",
+    "Verified all-in date-specific venue terms",
+    "Full UK pilot and international annual budget",
+    "T05 Excel calculation and sensitivity testing",
+    "Final commercial recommendation"
+  ]
+}

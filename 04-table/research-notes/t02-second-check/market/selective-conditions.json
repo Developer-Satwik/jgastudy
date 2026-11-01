@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-30",
+  "status": "internal_second_challenge_design_not_validation",
+  "conditions": [
+    {
+      "condition_id": "T02M-01",
+      "name": "Releasable evidence to task",
+      "applies_to": [
+        "TP01",
+        "TP02"
+      ],
+      "claim_candidates": [
+        "TM2-C01"
+      ],
+      "proposed_application": "For the proposed use, record what the current edition can support after actual output permissions/context review, and what it cannot. Use an honest narrower reading path or no-fit conclusion where appropriate.",
+      "counterexample": "A prospective US investment user is promised country-specific acquisition decision evidence from a mainly UK operating cohort simply because the report has six-to-ten contributors.",
+      "correction": "Do not invent US observations or imply representative investment diligence. Check whether bounded UK/context insight still serves their stated task; otherwise narrow the promise or decline that use.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_report_questions": 0
+    },
+    {
+      "condition_id": "T02M-02",
+      "name": "Interpretation or additional work",
+      "applies_to": [
+        "TP01",
+        "TP02"
+      ],
+      "claim_candidates": [
+        "TM2-C02"
+      ],
+      "proposed_application": "Define the briefing question and what existing evidence it interprets; flag requested new client facts, interviews, modelling or research as outside that service unless separately agreed.",
+      "counterexample": "A consultant buys an edition briefing but asks for a new client-country vendor assessment that the edition did not study.",
+      "correction": "Explain available evidence and limits; do not repackage new bespoke research as a reading-path adjustment or promise extra work under the current commission.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_report_questions": 0
+    },
+    {
+      "condition_id": "T02M-03",
+      "name": "Benefit delivered or outcome achieved",
+      "applies_to": [
+        "TP02"
+      ],
+      "claim_candidates": [
+        "TM2-C03"
+      ],
+      "proposed_application": "Define the actual acknowledgement, use asset or briefing and how fulfilment would be recorded; keep estimated reach/response/impact separate and unproved.",
+      "counterexample": "A partner logo is included in a report, so the model treats it as measured audience visibility or guaranteed leads.",
+      "correction": "Recognise only the actually delivered placement/use/service; audience and commercial effect require their own measurement and cannot be assumed from the asset.",
+      "mandatory": false,
+      "scored": false,
+      "validated": false,
+      "new_report_questions": 0
+    }
+  ],
+  "actual_cases": [],
+  "financial_inputs": [],
+  "extra_mandatory_questions": 0
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-31",
+  "records": [
+    {
+      "candidate_id": "T5R-S01",
+      "url": "https://www.ciep.uk/knowledge-hub/suggested-minimum-rates.html",
+      "final_url": "https://www.ciep.uk/knowledge-hub/suggested-minimum-rates.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at_utc": "2026-10-31T02:34:01.163564+00:00",
+      "capture_path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S01.html",
+      "capture_sha256": "3f1f8d281a06b755182d0e2798d299d1bc588f85ccb9125d61a5e29ecef33a01",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S01.txt",
+      "parsed_sha256": "0a9db93b7d3d9c7368aa49ab85edcda07a522fdbde6e31800c17bd14d099d58e"
+    },
+    {
+      "candidate_id": "T5R-S02",
+      "url": "https://www.procopywriters.co.uk/survey/2026/",
+      "final_url": "https://www.procopywriters.co.uk/survey/2026/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-10-31T02:34:01.431950+00:00",
+      "capture_path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S02.html",
+      "capture_sha256": "ec0707663b1f8d55b0824454e8d4a48ef424b28644b9cfd7041d78f467def7e1",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S02.txt",
+      "parsed_sha256": "aa9e9204eddefabfbabe8830c95c359b944489339807168554427884375dc2f7"
+    },
+    {
+      "candidate_id": "T5R-S03",
+      "url": "https://www.yunojuno.com/freelancer-rates-report",
+      "final_url": "https://www.yunojuno.com/freelancer-rates-report",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-31T02:34:00.918647+00:00",
+      "capture_path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S03.html",
+      "capture_sha256": "46d2d3cc88c30866b47443b04a672692d75da228f73f5f512c1a0ac9cf654a4b",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S03.txt",
+      "parsed_sha256": "cd1ba53c5d630645d0fda891b8cefce46d6d6c9ebb7e33657b6e907c3869343a"
+    },
+    {
+      "candidate_id": "T5R-S04",
+      "url": "https://www.yunojuno.com/freelancer-rates-job-role/market-research-consultant",
+      "final_url": "https://www.yunojuno.com/freelancer-rates-job-role/market-research-consultant",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-31T02:34:00.751163+00:00",
+      "capture_path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S04.html",
+      "capture_sha256": "c8fd3f35c162dbf37ae6be3b49f6a723e24e854c4cd4b4e996ef7aa435429e0a",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S04.txt",
+      "parsed_sha256": "191bacba885d3f8dcb249ff0a5d2375f274c360637756d7dee65a1896e3b5fc6"
+    },
+    {
+      "candidate_id": "T5R-S05",
+      "url": "https://www.yunojuno.com/freelancer-rates-job-role/graphic-designer",
+      "final_url": "https://www.yunojuno.com/freelancer-rates-job-role/graphic-designer",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at_utc": "2026-10-31T02:34:01.009512+00:00",
+      "capture_path": "04-table/research-notes/t05-research-costs/benchmarks/captures/T5R-S05.html",
+      "capture_sha256": "7e7772506821bb3cbdaaef8b40c1e25d0b7d8bac5846bc08b85db56c16f067c9",
+      "capture_kind": "retained_original_html",
+      "parsed_path": "04-table/research-notes/t05-research-costs/benchmarks/parsed/T5R-S05.txt",
+      "parsed_sha256": "0cbae9d88e0872dd1e530cb79299efe63dc52cca1afe51f471fc7edba0e94ebe"
+    }
+  ]
+}
